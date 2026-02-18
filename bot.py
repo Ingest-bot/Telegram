@@ -9,7 +9,7 @@ from telegram import Bot
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "ספורט": "https://rss.walla.co.il/feed/3?type=main",
-    "סלבס": "https://rss.walla.co.il/feed/23?type=main"
+    "סלבס": "https://rss.walla.co.il/feed/22?type=main"
 }
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
