@@ -6,7 +6,7 @@ import html
 from telegram import Bot
 
 # הגדרות מה-Secrets של GitHub
-RSS_URL = os.getenv("RSS_URL", "https://rss.walla.co.il/feed/1?type=main")
+RSS_URL = os.getenv("RSS_URL", "https://rss.walla.co.il/feed/2?type=main")
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
