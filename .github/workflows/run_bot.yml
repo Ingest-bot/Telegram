@@ -27,7 +27,6 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          RSS_URL: "https://rss.walla.co.il/feed/1?type=main"
         run: python bot.py
 
       - name: Commit and Push changes
