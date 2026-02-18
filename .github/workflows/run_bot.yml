@@ -1,0 +1,37 @@
+name: Walla News Bot
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # ירוץ כל 15 דקות
+  workflow_dispatch: # מאפשר להריץ ידנית לבדיקה
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser python-telegram-bot
+
+      - name: Run bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          RSS_URL: "https://rss.walla.co.il/feed/1?type=main"
+        run: python bot.py
+
+      - name: Commit last link
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_link.txt
+          git commit -m "Update last link" || exit 0
+          git push
