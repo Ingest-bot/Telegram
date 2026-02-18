@@ -38,7 +38,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # וודא שהקובץ קיים לפני ה-Add כדי למנוע שגיאות
           touch last_links.txt
           git add last_links.txt
           git commit -m "Update history [skip ci]" || echo "No changes to commit"
