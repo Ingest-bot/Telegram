@@ -2,8 +2,7 @@ name: Walla News Bot
 
 on:
   schedule:
-    # ירוץ כל 20 דקות (תזמון יציב יותר ל-GitHub)
-    - cron: '0,20,40 * * * *'
+- cron: '*/15 * * * *'
   workflow_dispatch:
   push:
     branches:
