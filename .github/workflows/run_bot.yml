@@ -2,7 +2,7 @@ name: Walla News Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # ירוץ כל 15 דקות
+    - cron: '*/10 * * * *' # ירוץ כל 10 דקות
   workflow_dispatch: # מאפשר להריץ ידנית לבדיקה
 
 jobs:
