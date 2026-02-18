@@ -33,6 +33,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add last_link.txt
-          git commit -m "Update last link [skip ci]" || echo "No changes to commit"
+          # כאן שינינו ל-last_links.txt כדי שיתאים לקוד החדש
+          git add last_links.txt
+          git commit -m "Update last links [skip ci]" || echo "No changes to commit"
           git push
