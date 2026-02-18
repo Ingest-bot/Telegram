@@ -2,9 +2,15 @@ name: Walla News Bot
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    # ירוץ כל 20 דקות (תזמון יציב יותר ל-GitHub)
+    - cron: '0,20,40 * * * *'
   workflow_dispatch:
-  push: # זה יריץ את הבוט בכל פעם שתשמור שינוי בקוד
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -33,7 +39,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # כאן שינינו ל-last_links.txt כדי שיתאים לקוד החדש
+          # וודא שהקובץ קיים לפני ה-Add כדי למנוע שגיאות
+          touch last_links.txt
           git add last_links.txt
-          git commit -m "Update last links [skip ci]" || echo "No changes to commit"
+          git commit -m "Update history [skip ci]" || echo "No changes to commit"
           git push
