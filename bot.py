@@ -16,12 +16,8 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-def clean_html(raw_html):
-    if not raw_html: return ""
-    cleantext = re.sub(re.compile('<.*?>'), '', raw_html)
-    return html.unescape(" ".join(cleantext.split()))
-
 def extract_image(entry):
+    """מחלץ את כתובת התמונה מהפיד"""
     for link in entry.get('links', []):
         if 'image' in link.get('type', ''): return link.get('href')
     if 'media_content' in entry: return entry.media_content[0]['url']
@@ -31,14 +27,14 @@ def extract_image(entry):
     return None
 
 def get_last_links():
-    """טוען את רשימת הלינקים האחרונים שנשמרו"""
+    """טוען היסטוריית לינקים"""
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r") as f:
             return set(line.strip() for line in f.readlines())
     return set()
 
 def save_last_link(link):
-    """מוסיף לינק חדש לקובץ ההיסטוריה"""
+    """שומר לינק חדש להיסטוריה"""
     with open(LAST_LINKS_FILE, "a") as f:
         f.write(link + "\n")
 
@@ -56,7 +52,7 @@ async def process_feed(bot, category, url, seen_links):
         return
 
     image_url = extract_image(latest_entry)
-    # הוספת שם הקטגוריה לכותרת למען הסדר הטוב
+    # הכותרת והלינק בלבד (התמונה נשלחת בנפרד למניעת כפילות)
     caption = f"*{category}: {title}*\n\n{link}"
 
     try:
@@ -66,13 +62,13 @@ async def process_feed(bot, category, url, seen_links):
             await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='Markdown')
         
         save_last_link(link)
-        print(f"נשלח: {title}")
+        print(f"נשלח בהצלחה: {title}")
     except Exception as e:
         print(f"שגיאה ב-{category}: {e}")
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID:
-        print("חסרים פרטי גישה!")
+        print("שגיאה: חסרים טוקן או צ'אט ID!")
         return
 
     bot = Bot(token=TELEGRAM_TOKEN)
