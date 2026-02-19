@@ -2,7 +2,7 @@ name: Walla News Bot
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
   push:
     branches:
