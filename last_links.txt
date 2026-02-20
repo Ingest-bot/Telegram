@@ -41,3 +41,6 @@ https://celebs.walla.co.il/item/3818215
 https://news.walla.co.il/item/3818231
 https://sports.walla.co.il/item/3818230
 https://celebs.walla.co.il/item/3818223
+https://news.walla.co.il/item/3818245
+https://sports.walla.co.il/item/3818244
+https://celebs.walla.co.il/item/3818237
