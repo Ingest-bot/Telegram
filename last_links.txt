@@ -70,3 +70,6 @@ https://news.walla.co.il/item/3818384
 https://sports.walla.co.il/item/3818283
 https://celebs.walla.co.il/item/3818392
 https://news.walla.co.il/item/3818407
+https://news.walla.co.il/item/3818411
+https://sports.walla.co.il/item/3817955
+https://celebs.walla.co.il/item/3818408
