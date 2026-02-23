@@ -106,3 +106,5 @@ https://news.walla.co.il/item/3818744
 https://news.walla.co.il/item/3818540
 https://sports.walla.co.il/item/3818705
 https://sports.walla.co.il/item/3818762
+https://news.walla.co.il/item/3818832
+https://sports.walla.co.il/item/3818823
