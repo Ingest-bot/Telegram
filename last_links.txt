@@ -128,3 +128,6 @@ https://sports.walla.co.il/item/3819106
 https://sports.walla.co.il/item/3819181
 https://celebs.walla.co.il/item/3819150
 https://sports.walla.co.il/item/3819212
+https://news.walla.co.il/item/3819277
+https://sports.walla.co.il/item/3819278
+https://celebs.walla.co.il/item/3819276
