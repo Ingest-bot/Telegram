@@ -5,14 +5,14 @@ import re
 import html
 from telegram import Bot
 
-# רשימת הפידים של וואלה
+# רשימת הפידים המעודכנת של וואלה
 FEEDS = {
-    "חדשות" | "https://rss.walla.co.il/feed/1?type=main",
-    "ספורט" | "https://rss.walla.co.il/feed/3?type=main",
-    "סלבס" | "https://rss.walla.co.il/feed/22?type=main",
-    "כסף" | "https://rss.walla.co.il/feed/2?type=main",
-    "תרבות" | "https://rss.walla.co.il/feed/4?type=main",
-    "טכנולוגיה" | "https://rss.walla.co.il/feed/6?type=main"
+    "חדשות": "https://rss.walla.co.il/feed/1?type=main",
+    "ספורט": "https://rss.walla.co.il/feed/3?type=main",
+    "סלבס": "https://rss.walla.co.il/feed/22?type=main",
+    "כסף": "https://rss.walla.co.il/feed/2?type=main",
+    "תרבות": "https://rss.walla.co.il/feed/4?type=main",
+    "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main"
 }
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
@@ -55,8 +55,9 @@ async def process_feed(bot, category, url, seen_links):
         return
 
     image_url = extract_image(latest_entry)
-    # הכותרת והלינק בלבד (התמונה נשלחת בנפרד למניעת כפילות)
-    caption = f"*{category}: {title}*\n\n{link}"
+    
+    # הנה התיקון בשורה הזו - החלפתי ל- | 
+    caption = f"*{category} | {title}*\n\n{link}"
 
     try:
         if image_url:
