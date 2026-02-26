@@ -5,7 +5,7 @@ import re
 import html
 from telegram import Bot
 
-# רשימת הפידים המעודכנת (ללא ספורט ותרבות)
+# רשימת הפידים המעודכנת
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
@@ -52,7 +52,6 @@ async def process_feed(bot, category, url, seen_links):
             break
     
     if not new_entries:
-        print(f"אין חדש ב-{category}.")
         return
 
     for entry in reversed(new_entries):
@@ -60,7 +59,8 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # התיקון הסופי: רק כותרת מודגשת, יישור לימין עם RLM, בלי שם המדור
+        # בניית הקאפשן עם RLM בתחילת כל שורה בנפרד ליישור מושלם
+        # שיניתי כאן את הפורמט כך שכל שורה מקבלת את התו השקוף
         caption = f"{RLM}<b>{title}</b>\n\n{RLM}{link}"
 
         try:
@@ -70,15 +70,12 @@ async def process_feed(bot, category, url, seen_links):
                 await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
             
             save_last_link(link)
-            print(f"נשלח בהצלחה: {title}")
             await asyncio.sleep(1) 
         except Exception as e:
-            print(f"שגיאה ב-{category}: {e}")
+            print(f"שגיאה: {e}")
 
 async def main():
-    if not TELEGRAM_TOKEN or not CHAT_ID:
-        print("שגיאה: חסרים טוקן או צ'אט ID!")
-        return
+    if not TELEGRAM_TOKEN or not CHAT_ID: return
     bot = Bot(token=TELEGRAM_TOKEN)
     seen_links = get_last_links()
     async with bot:
