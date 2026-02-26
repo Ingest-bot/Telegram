@@ -60,9 +60,8 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # התיקון לאייפון: הוספת RLM בתחילת כל שורה כדי להכריח יישור לימין
-        # והוספת רווחים בסוף הקישור כדי שהשעה לא תדרוס את הטקסט
-        caption = f"{RLM}<b>{category} | {title}</b>\n\n{RLM}{link}\n{RLM}"
+        # התיקון הסופי: רק כותרת מודגשת, יישור לימין עם RLM, בלי שם המדור
+        caption = f"{RLM}<b>{title}</b>\n\n{RLM}{link}"
 
         try:
             if image_url:
