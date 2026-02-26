@@ -44,29 +44,40 @@ async def process_feed(bot, category, url, seen_links):
     feed = feedparser.parse(url)
     if not feed.entries: return
 
-    latest_entry = feed.entries[0]
-    link = latest_entry.link
-    title = latest_entry.title
-
-    if link in seen_links:
+    # אוספים את כל האייטמים החדשים שעדיין לא שלחנו
+    new_entries = []
+    for entry in feed.entries:
+        if entry.link not in seen_links:
+            new_entries.append(entry)
+        else:
+            # ברגע שמצאנו לינק שכבר קיים בהיסטוריה, עוצרים את הסריקה בפיד הזה
+            break
+    
+    if not new_entries:
         print(f"אין חדש ב-{category}.")
         return
 
-    image_url = extract_image(latest_entry)
-    
-    # הנה התיקון בשורה הזו - החלפתי ל- | 
-    caption = f"*{category} | {title}*\n\n{link}"
-
-    try:
-        if image_url:
-            await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, parse_mode='Markdown')
-        else:
-            await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='Markdown')
+    # שולחים מהישן לחדש (כדי שהחדש ביותר יופיע אחרון בטלגרם)
+    for entry in reversed(new_entries):
+        link = entry.link
+        title = entry.title
+        image_url = extract_image(entry)
         
-        save_last_link(link)
-        print(f"נשלח בהצלחה: {title}")
-    except Exception as e:
-        print(f"שגיאה ב-{category}: {e}")
+        # עיצוב HTML להצגה תקינה בכל המכשירים (כולל אייפון)
+        caption = f"<b>{category} | {title}</b>\n\n{link}"
+
+        try:
+            if image_url:
+                await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, parse_mode='HTML')
+            else:
+                await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
+            
+            save_last_link(link)
+            print(f"נשלח בהצלחה: {title}")
+            # השהייה קלה למניעת חסימה מטלגרם בשליחה מרובה
+            await asyncio.sleep(1) 
+        except Exception as e:
+            print(f"שגיאה ב-{category}: {e}")
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID:
