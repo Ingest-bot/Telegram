@@ -17,8 +17,9 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תו בלתי נראה להכרחת כיווניות מימין לשמאל (RLM)
-RLM = "\u200f"
+# תווי כיווניות חזקים (Unicode Bidirectional Control Characters)
+RLE = "\u202B" # Right-to-Left Embedding - מתחיל בלוק ימני
+PDF = "\u202C" # Pop Directional Formatting - סוגר את הבלוק
 
 def extract_image(entry):
     for link in entry.get('links', []):
@@ -59,9 +60,9 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # בניית הקאפשן עם RLM בתחילת כל שורה בנפרד ליישור מושלם
-        # שיניתי כאן את הפורמט כך שכל שורה מקבלת את התו השקוף
-        caption = f"{RLM}<b>{title}</b>\n\n{RLM}{link}"
+        # הפתרון האולטימטיבי: עטיפת כל ההודעה בבלוק RLE שקובע כיווניות ימנית גלובלית
+        # אנחנו עוטפים גם את הכותרת וגם את הלינק בתוך הבלוק הזה
+        caption = f"{RLE}<b>{title}</b>\n\n{link}{PDF}"
 
         try:
             if image_url:
