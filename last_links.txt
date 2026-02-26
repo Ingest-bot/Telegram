@@ -170,3 +170,4 @@ https://finance.walla.co.il/item/3819816
 https://e.walla.co.il/item/3819878
 https://tech.walla.co.il/item/3819372
 https://news.walla.co.il/item/3819859
+https://sports.walla.co.il/item/3819889
