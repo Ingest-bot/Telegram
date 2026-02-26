@@ -8,7 +8,6 @@ from telegram import Bot
 # רשימת הפידים המעודכנת של וואלה
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
-    "ספורט": "https://rss.walla.co.il/feed/3?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
     "כסף": "https://rss.walla.co.il/feed/2?type=main",
     "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main"
