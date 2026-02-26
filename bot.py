@@ -16,7 +16,7 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תו כיווניות מימין לשמאל - הכלי הכי חזק ליישור
+# תו כיווניות מימין לשמאל (Right-to-Left Mark)
 RLM = "\u200f"
 
 def extract_image(entry):
@@ -57,18 +57,17 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # כאן התיקון: אנחנו מוסיפים RLM פעמיים - בתחילת הכותרת וגם בסופה
-        # זה מכריח את האנדרואיד להבין שכל הבלוק הוא RTL
+        # התיקון הקריטי ליישור: RLM בתחילת הכותרת ובסוף הכותרת
+        # זה גורם למנוע התצוגה של אנדרואיד להבין שכל השורה היא RTL
         caption = f"{RLM}<b>{title}</b>{RLM}"
 
-        # יצירת כפתור "לכתבה המלאה"
+        # יצירת הכפתור המעוצב
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("לכתבה המלאה בוואלה", url=link)]
         ])
 
         try:
             if image_url:
-                # שימוש ב-HTML בתוך ה-send_photo
                 await bot.send_photo(
                     chat_id=CHAT_ID, 
                     photo=image_url, 
@@ -87,7 +86,7 @@ async def process_feed(bot, category, url, seen_links):
             save_last_link(link)
             await asyncio.sleep(1) 
         except Exception as e:
-            print(f"שגיאה בפרסום: {e}")
+            print(f"שגיאה: {e}")
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
