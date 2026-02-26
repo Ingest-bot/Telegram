@@ -1,15 +1,10 @@
-.
-https://e.walla.co.il/item/3819838
 https://news.walla.co.il/item/3819840
 https://news.walla.co.il/item/3819853
 https://news.walla.co.il/item/3819855
 https://news.walla.co.il/item/3819861
-https://e.walla.co.il/item/3819852
 https://news.walla.co.il/item/3819860
 https://travel.walla.co.il/item/3818703
 https://news.walla.co.il/item/3819862
-https://e.walla.co.il/item/3819866
-https://e.walla.co.il/item/3819865
 https://news.walla.co.il/item/3819897
 https://news.walla.co.il/item/3819906
 https://news.walla.co.il/item/3819913
@@ -26,8 +21,6 @@ https://celebs.walla.co.il/item/3819276
 https://celebs.walla.co.il/item/3819288
 https://celebs.walla.co.il/item/3819331
 https://celebs.walla.co.il/item/3819473
-https://news.walla.co.il/item/3819928
-https://news.walla.co.il/item/3819931
 https://celebs.walla.co.il/item/3819469
 https://celebs.walla.co.il/item/3819507
 https://celebs.walla.co.il/item/3819493
