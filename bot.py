@@ -11,7 +11,6 @@ FEEDS = {
     "ספורט": "https://rss.walla.co.il/feed/3?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
     "כסף": "https://rss.walla.co.il/feed/2?type=main",
-    "תרבות": "https://rss.walla.co.il/feed/4?type=main",
     "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main"
 }
 
