@@ -1,9 +1,9 @@
 name: Walla News Bot
 
 on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+  repository_dispatch:
+    types: [run_my_script]
+  workflow_dispatch: # מאפשר לך להריץ גם ידנית ליתר ביטחון
   push:
     branches:
       - main
