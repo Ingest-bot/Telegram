@@ -16,6 +16,9 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
+# תווי שליטה לכיווניות
+RLM = "\u200f" # תו כיווניות מימין לשמאל
+
 def extract_image(entry):
     for link in entry.get('links', []):
         if 'image' in link.get('type', ''): return link.get('href')
@@ -54,10 +57,11 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # הטקסט עכשיו נקי לגמרי - רק כותרת מודגשת
-        caption = f"<b>{title}</b>"
+        # בניית הכותרת עם RLM בהתחלה ובסוף
+        # זה מבטיח שהאנדרואיד יזהה את הפסקה כימנית והאייפון לא יתהפך
+        caption = f"{RLM}<b>{title}</b>{RLM}"
 
-        # יצירת הכפתור מתחת להודעה
+        # יצירת הכפתור
         keyboard = InlineKeyboardMarkup([
             [InlineKeyboardButton("לכתבה המלאה בוואלה", url=link)]
         ])
