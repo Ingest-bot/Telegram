@@ -2,7 +2,7 @@ name: Walla News Bot
 
 on:
   repository_dispatch:
-    types: [run_my_script]
+    types: [my_script]
   workflow_dispatch: # מאפשר לך להריץ גם ידנית ליתר ביטחון
   push:
     branches:
