@@ -5,7 +5,7 @@ import re
 import html
 from telegram import Bot
 
-# רשימת הפידים המעודכנת של וואלה
+# רשימת הפידים המעודכנת (ללא ספורט ותרבות)
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
@@ -17,8 +17,10 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
+# תו בלתי נראה להכרחת כיווניות מימין לשמאל (RLM)
+RLM = "\u200f"
+
 def extract_image(entry):
-    """מחלץ את כתובת התמונה מהפיד"""
     for link in entry.get('links', []):
         if 'image' in link.get('type', ''): return link.get('href')
     if 'media_content' in entry: return entry.media_content[0]['url']
@@ -28,14 +30,12 @@ def extract_image(entry):
     return None
 
 def get_last_links():
-    """טוען היסטוריית לינקים"""
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r") as f:
             return set(line.strip() for line in f.readlines())
     return set()
 
 def save_last_link(link):
-    """שומר לינק חדש להיסטוריה"""
     with open(LAST_LINKS_FILE, "a") as f:
         f.write(link + "\n")
 
@@ -44,27 +44,25 @@ async def process_feed(bot, category, url, seen_links):
     feed = feedparser.parse(url)
     if not feed.entries: return
 
-    # אוספים את כל האייטמים החדשים שעדיין לא שלחנו
     new_entries = []
     for entry in feed.entries:
         if entry.link not in seen_links:
             new_entries.append(entry)
         else:
-            # ברגע שמצאנו לינק שכבר קיים בהיסטוריה, עוצרים את הסריקה בפיד הזה
             break
     
     if not new_entries:
         print(f"אין חדש ב-{category}.")
         return
 
-    # שולחים מהישן לחדש (כדי שהחדש ביותר יופיע אחרון בטלגרם)
     for entry in reversed(new_entries):
         link = entry.link
         title = entry.title
         image_url = extract_image(entry)
         
-        # עיצוב HTML להצגה תקינה בכל המכשירים (כולל אייפון)
-        caption = f"<b>{category} | {title}</b>\n\n{link}"
+        # התיקון לאייפון: הוספת RLM בתחילת כל שורה כדי להכריח יישור לימין
+        # והוספת רווחים בסוף הקישור כדי שהשעה לא תדרוס את הטקסט
+        caption = f"{RLM}<b>{category} | {title}</b>\n\n{RLM}{link}\n{RLM}"
 
         try:
             if image_url:
@@ -74,7 +72,6 @@ async def process_feed(bot, category, url, seen_links):
             
             save_last_link(link)
             print(f"נשלח בהצלחה: {title}")
-            # השהייה קלה למניעת חסימה מטלגרם בשליחה מרובה
             await asyncio.sleep(1) 
         except Exception as e:
             print(f"שגיאה ב-{category}: {e}")
@@ -83,10 +80,8 @@ async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID:
         print("שגיאה: חסרים טוקן או צ'אט ID!")
         return
-
     bot = Bot(token=TELEGRAM_TOKEN)
     seen_links = get_last_links()
-
     async with bot:
         for category, url in FEEDS.items():
             await process_feed(bot, category, url, seen_links)
