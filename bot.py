@@ -2,10 +2,9 @@ import feedparser
 import asyncio
 import os
 import re
-import html
-from telegram import Bot
+from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 
-# רשימת הפידים המעודכנת
+# רשימת הפידים
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
@@ -16,10 +15,6 @@ FEEDS = {
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
-
-# תווי כיווניות חזקים (Unicode Bidirectional Control Characters)
-RLE = "\u202B" # Right-to-Left Embedding - מתחיל בלוק ימני
-PDF = "\u202C" # Pop Directional Formatting - סוגר את הבלוק
 
 def extract_image(entry):
     for link in entry.get('links', []):
@@ -52,23 +47,26 @@ async def process_feed(bot, category, url, seen_links):
         else:
             break
     
-    if not new_entries:
-        return
+    if not new_entries: return
 
     for entry in reversed(new_entries):
         link = entry.link
         title = entry.title
         image_url = extract_image(entry)
         
-        # הפתרון האולטימטיבי: עטיפת כל ההודעה בבלוק RLE שקובע כיווניות ימנית גלובלית
-        # אנחנו עוטפים גם את הכותרת וגם את הלינק בתוך הבלוק הזה
-        caption = f"{RLE}<b>{title}</b>\n\n{link}{PDF}"
+        # הטקסט עכשיו נקי לגמרי - רק כותרת מודגשת
+        caption = f"<b>{title}</b>"
+
+        # יצירת הכפתור מתחת להודעה
+        keyboard = InlineKeyboardMarkup([
+            [InlineKeyboardButton("לכתבה המלאה בוואלה", url=link)]
+        ])
 
         try:
             if image_url:
-                await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, parse_mode='HTML')
+                await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, reply_markup=keyboard, parse_mode='HTML')
             else:
-                await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
+                await bot.send_message(chat_id=CHAT_ID, text=caption, reply_markup=keyboard, parse_mode='HTML')
             
             save_last_link(link)
             await asyncio.sleep(1) 
