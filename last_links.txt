@@ -109,3 +109,5 @@ https://news.walla.co.il/item/3819997
 https://e.walla.co.il/item/3820000
 https://news.walla.co.il/item/3819964
 https://celebs.walla.co.il/item/3820004
+https://celebs.walla.co.il/item/3820011
+https://finance.walla.co.il/item/3819824
