@@ -150,3 +150,6 @@ https://news.walla.co.il/item/3820203
 https://news.walla.co.il/item/3820211
 https://finance.walla.co.il/item/3820208
 https://news.walla.co.il/item/3820213
+https://news.walla.co.il/item/3820221
+https://news.walla.co.il/item/3820215
+https://news.walla.co.il/item/3820218
