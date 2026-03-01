@@ -183,3 +183,6 @@ https://news.walla.co.il/item/3820348
 https://news.walla.co.il/item/3820357
 https://news.walla.co.il/item/3820359
 https://finance.walla.co.il/item/3820365
+https://news.walla.co.il/item/3820312
+https://news.walla.co.il/item/3820371
+https://finance.walla.co.il/item/3820368
