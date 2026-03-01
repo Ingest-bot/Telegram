@@ -205,3 +205,6 @@ https://e.walla.co.il/item/3820423
 https://celebs.walla.co.il/item/3820426
 https://tech.walla.co.il/item/3820122
 https://tech.walla.co.il/item/3820123
+https://news.walla.co.il/item/3820429
+https://news.walla.co.il/item/3820432
+https://celebs.walla.co.il/item/3820431
