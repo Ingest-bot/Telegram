@@ -232,3 +232,5 @@ https://news.walla.co.il/item/3820525
 https://e.walla.co.il/item/3820524
 https://news.walla.co.il/item/3820532
 https://tech.walla.co.il/item/3820528
+https://news.walla.co.il/item/3820536
+https://news.walla.co.il/item/3820546
