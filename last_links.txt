@@ -227,3 +227,6 @@ https://finance.walla.co.il/item/3820370
 https://finance.walla.co.il/item/3820504
 https://finance.walla.co.il/item/3820514
 https://news.walla.co.il/item/3820507
+https://e.walla.co.il/item/3820527
+https://news.walla.co.il/item/3820525
+https://e.walla.co.il/item/3820524
