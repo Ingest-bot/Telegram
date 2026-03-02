@@ -15,20 +15,23 @@ FEEDS = {
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
-RLM = "\u200f"
+
+# תווי שליטה כיווניים - אלו הכלים שיעשו סדר באייפון ובאנדרואיד
+RLE = "\u202B" # כפיית כיוון ימין-שמאל (לכותרת)
+LRE = "\u202A" # כפיית כיוון שמאל-ימין (ללינק)
+PDF = "\u202C" # סגירת הפקודה
 
 def shorten_url(long_url):
-    """מקצר את הלינק באופן אוטומטי דרך TinyURL"""
     try:
         api_url = "http://tinyurl.com/api-create.php?url=" + long_url
         with urllib.request.urlopen(api_url) as response:
             return response.read().decode('utf-8')
-    except Exception as e:
-        print(f"שגיאה בקיצור לינק: {e}")
-        return long_url # אם נכשל, מחזיר את הלינק המקורי
+    except:
+        return long_url
 
 def upgrade_image_quality(url):
     if not url: return url
+    # מבטיח רזולוציה של 1200 פיקסלים
     return re.sub(r'w=\d+', 'w=1200', url)
 
 def extract_image(entry):
@@ -49,11 +52,15 @@ async def process_feed(bot, category, url, seen_links):
     new_entries = [e for e in feed.entries if e.link not in seen_links]
     
     for entry in reversed(new_entries):
-        # 1. מקצרים את הלינק
         short_link = shorten_url(entry.link)
         
-        # 2. בונים את ההודעה - כשהלינק קצר, ה-RLM באמת מצליח להצמיד הכל לימין
-        caption = f"{RLM}<b>{entry.title}</b>\n\n{RLM}{short_link}"
+        # כאן קורה הקסם: 
+        # עוטפים את הכותרת ב-RLE כדי שתמיד תהיה בימין.
+        # עוטפים את הלינק ב-LRE כדי שתמיד יהיה בשמאל (גם באנדרואיד).
+        caption = (
+            f"{RLE}<b>{entry.title}</b>{PDF}\n\n"
+            f"{LRE}{short_link}{PDF}"
+        )
 
         try:
             image = extract_image(entry)
