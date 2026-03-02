@@ -2,7 +2,6 @@ import feedparser
 import asyncio
 import os
 import re
-import urllib.request
 from telegram import Bot
 
 FEEDS = {
@@ -16,22 +15,15 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי שליטה כיווניים - אלו הכלים שיעשו סדר באייפון ובאנדרואיד
+# תווי שליטה חזקים - אלו לא משתנים, הם פקודות למערכת ההפעלה
 RLE = "\u202B" # כפיית כיוון ימין-שמאל (לכותרת)
 LRE = "\u202A" # כפיית כיוון שמאל-ימין (ללינק)
 PDF = "\u202C" # סגירת הפקודה
-
-def shorten_url(long_url):
-    try:
-        api_url = "http://tinyurl.com/api-create.php?url=" + long_url
-        with urllib.request.urlopen(api_url) as response:
-            return response.read().decode('utf-8')
-    except:
-        return long_url
+RLM = "\u200f" # תו עברי שקוף לחיזוק
 
 def upgrade_image_quality(url):
     if not url: return url
-    # מבטיח רזולוציה של 1200 פיקסלים
+    # החלפת רוחב ל-1200 לחדות מקסימלית
     return re.sub(r'w=\d+', 'w=1200', url)
 
 def extract_image(entry):
@@ -52,14 +44,14 @@ async def process_feed(bot, category, url, seen_links):
     new_entries = [e for e in feed.entries if e.link not in seen_links]
     
     for entry in reversed(new_entries):
-        short_link = shorten_url(entry.link)
+        link = entry.link
         
-        # כאן קורה הקסם: 
-        # עוטפים את הכותרת ב-RLE כדי שתמיד תהיה בימין.
-        # עוטפים את הלינק ב-LRE כדי שתמיד יהיה בשמאל (גם באנדרואיד).
+        # בניית הודעה עם הפרדה מוחלטת:
+        # 1. הכותרת מקבלת RLE (ימין) ו-RLM (עברית) כדי שגם מרכאות לא יזיזו אותה.
+        # 2. הלינק המקורי מקבל LRE (שמאל) כדי שלא ינסה "להידחף" לימין ולשבור את העברית.
         caption = (
-            f"{RLE}<b>{entry.title}</b>{PDF}\n\n"
-            f"{LRE}{short_link}{PDF}"
+            f"{RLE}{RLM}<b>{entry.title}</b>{PDF}\n\n"
+            f"{LRE}{link}{PDF}"
         )
 
         try:
@@ -70,7 +62,7 @@ async def process_feed(bot, category, url, seen_links):
                 await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
             
             with open(LAST_LINKS_FILE, "a", encoding="utf-8") as f:
-                f.write(entry.link + "\n")
+                f.write(link + "\n")
             await asyncio.sleep(1) 
         except Exception as e:
             print(f"Error: {e}")
