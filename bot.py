@@ -14,17 +14,19 @@ FEEDS = {
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
-MAX_LINKS_TO_KEEP = 100  # שומרים רק את ה-100 האחרונים כדי שהקובץ לא יתנפח
+MAX_LINKS_TO_KEEP = 200 # הגדלנו ל-200 כדי למנוע כפילויות בין קטגוריות
 
-# תווי שליטה חזקים ליישור
-RLE = "\u202B" # כפיית ימין (כותרת)
-LRE = "\u202A" # כפיית שמאל (לינק)
+# תווי כיווניות קשיחים
+RLE = "\u202B" # כפיית ימין
+LRE = "\u202A" # כפיית שמאל
 PDF = "\u202C" # סגירת פקודה
 RLM = "\u200f" # תו עברי שקוף
 
 def upgrade_image_quality(url):
     if not url: return url
-    return re.sub(r'w=\d+', 'w=1200', url)
+    # החלפה ל-1200 פיקסלים לחדות מקסימלית
+    url = re.sub(r'w=\d+', 'w=1200', url)
+    return url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
 
 def extract_image(entry):
     image_url = None
@@ -35,18 +37,8 @@ def extract_image(entry):
                 image_url = link.get('href'); break
     return upgrade_image_quality(image_url)
 
-def get_seen_links():
-    if not os.path.exists(LAST_LINKS_FILE):
-        return []
-    with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
-        return [line.strip() for line in f.readlines() if line.strip()]
-
-def save_links(links):
-    # שומר רק את ה-X האחרונים ברשימה
-    with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(links[-MAX_LINKS_TO_KEEP:]))
-
 async def process_feed(bot, category, url, seen_links_list):
+    print(f"בודק את {category}...")
     feed = feedparser.parse(url)
     if not feed.entries: return
     
@@ -55,7 +47,7 @@ async def process_feed(bot, category, url, seen_links_list):
     
     for entry in reversed(new_entries):
         link = entry.link
-        # יישור: כותרת לימין, לינק לשמאל (בלי קיצור)
+        # כותרת לימין, לינק לשמאל
         caption = f"{RLE}{RLM}<b>{entry.title}</b>{PDF}\n\n{LRE}{link}{PDF}"
 
         try:
@@ -66,23 +58,30 @@ async def process_feed(bot, category, url, seen_links_list):
                 await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
             
             seen_links_list.append(link)
-            print(f"נשלח: {entry.title[:30]}")
             await asyncio.sleep(1) 
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"Error sending message: {e}")
     
     return seen_links_list
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     bot = Bot(token=TELEGRAM_TOKEN)
-    seen_links = get_seen_links()
+    
+    # טעינת לינקים קיימים
+    if os.path.exists(LAST_LINKS_FILE):
+        with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
+            seen_links = [line.strip() for line in f.readlines() if line.strip()]
+    else:
+        seen_links = []
 
     async with bot:
         for category, url in FEEDS.items():
             seen_links = await process_feed(bot, category, url, seen_links)
         
-    save_links(seen_links)
+    # שמירת הלינקים האחרונים (עד 200)
+    with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(seen_links[-MAX_LINKS_TO_KEEP:]))
 
 if __name__ == "__main__":
     asyncio.run(main())
