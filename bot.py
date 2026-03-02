@@ -2,9 +2,9 @@ import feedparser
 import asyncio
 import os
 import re
+import urllib.request
 from telegram import Bot
 
-# רשימת הפידים
 FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
@@ -15,33 +15,30 @@ FEEDS = {
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
+RLM = "\u200f"
 
-# תווי כיווניות
-RLM = "\u200f" # תו עברי שקוף
-LRE = "\u202A" # תחילת בלוק שמאלי (אנגלית)
-PDF = "\u202C" # סגירת בלוק
+def shorten_url(long_url):
+    """מקצר את הלינק באופן אוטומטי דרך TinyURL"""
+    try:
+        api_url = "http://tinyurl.com/api-create.php?url=" + long_url
+        with urllib.request.urlopen(api_url) as response:
+            return response.read().decode('utf-8')
+    except Exception as e:
+        print(f"שגיאה בקיצור לינק: {e}")
+        return long_url # אם נכשל, מחזיר את הלינק המקורי
 
 def upgrade_image_quality(url):
-    """משדרג את התמונה לרזולוציה מקסימלית (1200 פיקסלים)"""
-    if not url or not isinstance(url, str): return url
-    if "w=" in url:
-        url = re.sub(r'w=\d+', 'w=1200', url)
-    url = url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
-    return url
+    if not url: return url
+    return re.sub(r'w=\d+', 'w=1200', url)
 
 def extract_image(entry):
     image_url = None
-    if 'media_content' in entry:
-        image_url = entry.media_content[0]['url']
+    if 'media_content' in entry: image_url = entry.media_content[0]['url']
     elif 'links' in entry:
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 image_url = link.get('href')
                 break
-    if not image_url and 'summary' in entry:
-        img_match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
-        if img_match: image_url = img_match.group(1)
-    
     return upgrade_image_quality(image_url)
 
 async def process_feed(bot, category, url, seen_links):
@@ -49,49 +46,35 @@ async def process_feed(bot, category, url, seen_links):
     feed = feedparser.parse(url)
     if not feed.entries: return
     
-    new_entries = []
-    for entry in feed.entries:
-        if entry.link not in seen_links:
-            new_entries.append(entry)
-        else:
-            break
+    new_entries = [e for e in feed.entries if e.link not in seen_links]
     
-    if not new_entries: return
-
     for entry in reversed(new_entries):
-        link = entry.link
-        title = entry.title
-        image_url = extract_image(entry)
+        # 1. מקצרים את הלינק
+        short_link = shorten_url(entry.link)
         
-        # בניית ההודעה:
-        # הכותרת עטופה ב-RLM כדי להיצמד לימין הקיצוני.
-        # הקישור עטוף ב-LRE כדי להיצמד לשמאל הקיצוני (ולא "להימרח" על העברית).
-        caption = (
-            f"{RLM}<b>{title}</b>{RLM}\n\n"
-            f"{LRE}{link}{PDF}"
-        )
+        # 2. בונים את ההודעה - כשהלינק קצר, ה-RLM באמת מצליח להצמיד הכל לימין
+        caption = f"{RLM}<b>{entry.title}</b>\n\n{RLM}{short_link}"
 
         try:
-            if image_url:
-                await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, parse_mode='HTML')
+            image = extract_image(entry)
+            if image:
+                await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
             else:
                 await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
             
             with open(LAST_LINKS_FILE, "a", encoding="utf-8") as f:
-                f.write(link + "\n")
-            
+                f.write(entry.link + "\n")
             await asyncio.sleep(1) 
         except Exception as e:
-            print(f"שגיאה: {e}")
+            print(f"Error: {e}")
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     bot = Bot(token=TELEGRAM_TOKEN)
+    seen_links = set()
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
             seen_links = set(line.strip() for line in f.readlines())
-    else:
-        seen_links = set()
 
     async with bot:
         for category, url in FEEDS.items():
