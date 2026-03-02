@@ -2,6 +2,7 @@ import feedparser
 import asyncio
 import os
 import re
+import requests
 from telegram import Bot
 
 # רשימת הפידים
@@ -15,18 +16,30 @@ FEEDS = {
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
-
-# תו כיווניות מימין לשמאל (RLM) - לביטחון נוסף
 RLM = "\u200f"
 
+def upgrade_image_quality(url):
+    """מנסה להפוך תמונה קטנה לתמונה גדולה ואיכותית"""
+    if not url: return url
+    # אם התמונה מגיעה מהשרת של וואלה עם פרמטר רוחב (w=...), נגדיל אותו
+    if "walla.co.il" in url and "w=" in url:
+        url = re.sub(r'w=\d+', 'w=1000', url)
+    return url
+
 def extract_image(entry):
+    image_url = None
     for link in entry.get('links', []):
-        if 'image' in link.get('type', ''): return link.get('href')
-    if 'media_content' in entry: return entry.media_content[0]['url']
-    if 'summary' in entry:
+        if 'image' in link.get('type', ''): 
+            image_url = link.get('href')
+            break
+    if not image_url and 'media_content' in entry:
+        image_url = entry.media_content[0]['url']
+    if not image_url and 'summary' in entry:
         img_match = re.search(r'<img src="([^"]+)"', entry.summary)
-        if img_match: return img_match.group(1)
-    return None
+        if img_match: image_url = img_match.group(1)
+    
+    # משדרגים את האיכות לפני שמחזירים
+    return upgrade_image_quality(image_url)
 
 def get_last_links():
     if os.path.exists(LAST_LINKS_FILE):
@@ -39,10 +52,10 @@ def save_last_link(link):
         f.write(link + "\n")
 
 async def process_feed(bot, category, url, seen_links):
-    print(f"בודק את קטגוריית {category}...")
+    print(f"בודק את {category}...")
     feed = feedparser.parse(url)
     if not feed.entries: return
-
+    
     new_entries = []
     for entry in feed.entries:
         if entry.link not in seen_links:
@@ -57,24 +70,13 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # בניית ה-Caption עם טקסט מקדים מכובד ללינק.
-        # ה-RLM מבטיח שגם אם יש תווים בעייתיים, האייפון יישאר בימין.
         caption = f"{RLM}<b>{title}</b>\n\n{RLM}לכתבה המלאה: {link}"
 
         try:
             if image_url:
-                await bot.send_photo(
-                    chat_id=CHAT_ID, 
-                    photo=image_url, 
-                    caption=caption, 
-                    parse_mode='HTML'
-                )
+                await bot.send_photo(chat_id=CHAT_ID, photo=image_url, caption=caption, parse_mode='HTML')
             else:
-                await bot.send_message(
-                    chat_id=CHAT_ID, 
-                    text=caption, 
-                    parse_mode='HTML'
-                )
+                await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
             
             save_last_link(link)
             await asyncio.sleep(1) 
