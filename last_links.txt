@@ -307,3 +307,6 @@ https://celebs.walla.co.il/item/3820768
 https://finance.walla.co.il/item/3820757
 https://travel.walla.co.il/item/3820778
 https://finance.walla.co.il/item/3820762
+https://news.walla.co.il/item/3820781
+https://e.walla.co.il/item/3820775
+https://finance.walla.co.il/item/3820780
