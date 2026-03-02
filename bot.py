@@ -16,14 +16,14 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי כיווניות חזקים
-RLE = "\u202B" # התחלת בלוק ימני
-PDF = "\u202C" # סגירת בלוק
+# תווי כיווניות חזקים במיוחד
+RLE = "\u202B" # Right-to-Left Embedding
+PDF = "\u202C" # Pop Directional Formatting
 
 def upgrade_image_quality(url):
-    """מביא את התמונה באיכות הגבוהה ביותר האפשרית"""
+    """משדרג את התמונה לרזולוציה מקסימלית"""
     if not url or not isinstance(url, str): return url
-    # בוואלה, שינוי w= ל-1200 והסרת חיתוכי Thumbnail
+    # החלפה ל-1200 פיקסלים והסרת הגבלות גודל
     if "w=" in url:
         url = re.sub(r'w=\d+', 'w=1200', url)
     url = url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
@@ -63,9 +63,12 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # הפתרון הסופי: קישור חם על מילה בעברית בתוך מעטפת RLE
-        # זה מבטל את ה"מדרגות" כי אין אנגלית שמושכת את הטקסט לשמאל
-        caption = f"{RLE}<b>{title}</b>\n\n<a href='{link}'>לכתבה המלאה באתר וואלה 🔗</a>{PDF}"
+        # בניית הקאפשן עם הפרדה מוחלטת
+        # כל שורה נעטפת בנפרד ב-RLE/PDF כדי למנוע מהלינק המוסתר למשוך את הטקסט
+        caption = (
+            f"{RLE}<b>{title}</b>{PDF}\n\n"
+            f"{RLE}<a href='{link}'>לכתבה המלאה</a>{PDF}"
+        )
 
         try:
             if image_url:
