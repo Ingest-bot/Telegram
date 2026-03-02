@@ -16,9 +16,10 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי שליטה חזקים לכיווניות (Unicode Bidirectional Control)
-RLE = "\u202B" # Right-to-Left Embedding - מכריח הכל לימין
-PDF = "\u202C" # Pop Directional Formatting - סוגר את הפקודה
+# תווי שליטה חזקים לכיווניות
+RLE = "\u202B" # התחלת בלוק ימני (Right-to-Left Embedding)
+PDF = "\u202C" # סגירת בלוק (Pop Directional Formatting)
+RLM = "\u200f" # תו כיווניות מימין לשמאל
 
 def extract_image(entry):
     for link in entry.get('links', []):
@@ -58,10 +59,10 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # בניית ההודעה:
-        # עוטפים את כל הטקסט (כותרת + לינק) ב-RLE ו-PDF
-        # זה מבטיח שהלינק באנגלית לא ימשוך את הכותרת לשמאל
-        caption = f"{RLE}<b>{title}</b>\n\n{link}{PDF}"
+        # הפתרון ליישור: עטיפה של כל שורה בנפרד בתווי כיווניות
+        # השורה הראשונה (כותרת) עטופה ב-RLE כדי להיצמד לימין
+        # השורה של הלינק מתחילה ב-RLM כדי שלא תהפוך את כיוון הפסקה
+        caption = f"{RLE}<b>{title}</b>{PDF}\n\n{RLM}{link}"
 
         try:
             if image_url:
