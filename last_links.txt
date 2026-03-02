@@ -318,3 +318,4 @@ https://news.walla.co.il/item/3820798
 https://news.walla.co.il/item/3820787
 https://finance.walla.co.il/item/3820803
 https://tech.walla.co.il/item/3820810
+https://tech.walla.co.il/item/3820812
