@@ -292,3 +292,5 @@ https://news.walla.co.il/item/3820715
 https://news.walla.co.il/item/3820724
 https://celebs.walla.co.il/item/3820723
 https://finance.walla.co.il/item/3820707
+https://news.walla.co.il/item/3820732
+https://finance.walla.co.il/item/3820728
