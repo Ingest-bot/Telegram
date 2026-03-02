@@ -16,10 +16,8 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי שליטה חזקים לכיווניות
-RLE = "\u202B" # התחלת בלוק ימני (Right-to-Left Embedding)
-PDF = "\u202C" # סגירת בלוק (Pop Directional Formatting)
-RLM = "\u200f" # תו כיווניות מימין לשמאל
+# תו כיווניות מימין לשמאל (RLM) - לביטחון נוסף
+RLM = "\u200f"
 
 def extract_image(entry):
     for link in entry.get('links', []):
@@ -59,10 +57,9 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # הפתרון ליישור: עטיפה של כל שורה בנפרד בתווי כיווניות
-        # השורה הראשונה (כותרת) עטופה ב-RLE כדי להיצמד לימין
-        # השורה של הלינק מתחילה ב-RLM כדי שלא תהפוך את כיוון הפסקה
-        caption = f"{RLE}<b>{title}</b>{PDF}\n\n{RLM}{link}"
+        # בניית ה-Caption עם טקסט מקדים מכובד ללינק.
+        # ה-RLM מבטיח שגם אם יש תווים בעייתיים, האייפון יישאר בימין.
+        caption = f"{RLM}<b>{title}</b>\n\n{RLM}לכתבה המלאה: {link}"
 
         try:
             if image_url:
