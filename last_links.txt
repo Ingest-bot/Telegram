@@ -345,3 +345,6 @@ https://finance.walla.co.il/item/3820887
 https://finance.walla.co.il/item/3820895
 https://news.walla.co.il/item/3820902
 https://e.walla.co.il/item/3820908
+https://news.walla.co.il/item/3820912
+https://travel.walla.co.il/item/3820911
+https://news.walla.co.il/item/3820910
