@@ -16,14 +16,14 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי כיווניות חזקים במיוחד
-RLE = "\u202B" # Right-to-Left Embedding
-PDF = "\u202C" # Pop Directional Formatting
+# תווי כיווניות
+RLM = "\u200f" # תו עברי שקוף
+LRE = "\u202A" # תחילת בלוק שמאלי (אנגלית)
+PDF = "\u202C" # סגירת בלוק
 
 def upgrade_image_quality(url):
-    """משדרג את התמונה לרזולוציה מקסימלית"""
+    """משדרג את התמונה לרזולוציה מקסימלית (1200 פיקסלים)"""
     if not url or not isinstance(url, str): return url
-    # החלפה ל-1200 פיקסלים והסרת הגבלות גודל
     if "w=" in url:
         url = re.sub(r'w=\d+', 'w=1200', url)
     url = url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
@@ -63,11 +63,12 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # בניית הקאפשן עם הפרדה מוחלטת
-        # כל שורה נעטפת בנפרד ב-RLE/PDF כדי למנוע מהלינק המוסתר למשוך את הטקסט
+        # בניית ההודעה:
+        # הכותרת עטופה ב-RLM כדי להיצמד לימין הקיצוני.
+        # הקישור עטוף ב-LRE כדי להיצמד לשמאל הקיצוני (ולא "להימרח" על העברית).
         caption = (
-            f"{RLE}<b>{title}</b>{PDF}\n\n"
-            f"{RLE}<a href='{link}'>לכתבה המלאה</a>{PDF}"
+            f"{RLM}<b>{title}</b>{RLM}\n\n"
+            f"{LRE}{link}{PDF}"
         )
 
         try:
