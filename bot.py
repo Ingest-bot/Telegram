@@ -16,18 +16,18 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי שליטה חזקים
-RLM = "\u200f" # Right-to-Left Mark
-LRE = "\u202A" # Left-to-Right Embedding (בשביל הלינק)
-PDF = "\u202C" # סגירת הבלוק
+# תווי שליטה קריטיים ליישור
+RLE = "\u202B" # כופה כיווניות ימין על כל השורה
+PDF = "\u202C" # סגירת הכפייה
 
 def upgrade_image_quality(url):
-    """משדרג את התמונה לרזולוציה גבוהה ומסיר חיתוכים"""
+    """שיפור רזולוציה: מחליף את ה-Thumbnail בתמונה המקורית הגדולה"""
     if not url or not isinstance(url, str): return url
-    # וואלה לעיתים שולחים תמונה קטנה עם w=400. נשנה ל-1200.
+    # בוואלה, החלפת w=400 ל-w=1200 נותנת את האיכות המקסימלית
     if "w=" in url:
         url = re.sub(r'w=\d+', 'w=1200', url)
-    # אם הלינק מכיל 're-size', ננסה לקבל את המקור
+    # הסרת חיתוכים מיותרים מהלינק
+    url = url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
     return url
 
 def extract_image(entry):
@@ -64,10 +64,13 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # בניית הודעה יציבה לאייפון:
-        # 1. RLM בתחילת הכותרת.
-        # 2. הלינק נעטף בסימני כיווניות לועזיים כדי שלא יפריע לכותרת.
-        caption = f"{RLM}<b>{title}</b>\n\n{RLM}לכתבה המלאה:\n{LRE}{link}{PDF}"
+        # כאן הסוד: כל שורה מקבלת RLE משלה. 
+        # זה מכריח את האייפון להצמיד את הכל לימין, כולל את הלינק הלועזי.
+        caption = (
+            f"{RLE}<b>{title}</b>{PDF}\n\n"
+            f"{RLE}לכתבה המלאה:{PDF}\n"
+            f"{RLE}{link}{PDF}"
+        )
 
         try:
             if image_url:
