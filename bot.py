@@ -16,17 +16,16 @@ TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 
-# תווי שליטה קריטיים ליישור
-RLE = "\u202B" # כופה כיווניות ימין על כל השורה
-PDF = "\u202C" # סגירת הכפייה
+# תווי כיווניות חזקים
+RLE = "\u202B" # התחלת בלוק ימני
+PDF = "\u202C" # סגירת בלוק
 
 def upgrade_image_quality(url):
-    """שיפור רזולוציה: מחליף את ה-Thumbnail בתמונה המקורית הגדולה"""
+    """מביא את התמונה באיכות הגבוהה ביותר האפשרית"""
     if not url or not isinstance(url, str): return url
-    # בוואלה, החלפת w=400 ל-w=1200 נותנת את האיכות המקסימלית
+    # בוואלה, שינוי w= ל-1200 והסרת חיתוכי Thumbnail
     if "w=" in url:
         url = re.sub(r'w=\d+', 'w=1200', url)
-    # הסרת חיתוכים מיותרים מהלינק
     url = url.replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
     return url
 
@@ -64,13 +63,9 @@ async def process_feed(bot, category, url, seen_links):
         title = entry.title
         image_url = extract_image(entry)
         
-        # כאן הסוד: כל שורה מקבלת RLE משלה. 
-        # זה מכריח את האייפון להצמיד את הכל לימין, כולל את הלינק הלועזי.
-        caption = (
-            f"{RLE}<b>{title}</b>{PDF}\n\n"
-            f"{RLE}לכתבה המלאה:{PDF}\n"
-            f"{RLE}{link}{PDF}"
-        )
+        # הפתרון הסופי: קישור חם על מילה בעברית בתוך מעטפת RLE
+        # זה מבטל את ה"מדרגות" כי אין אנגלית שמושכת את הטקסט לשמאל
+        caption = f"{RLE}<b>{title}</b>\n\n<a href='{link}'>לכתבה המלאה באתר וואלה 🔗</a>{PDF}"
 
         try:
             if image_url:
