@@ -29,7 +29,7 @@ RLM = "\u200f"
 
 LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo.jpeg"
 
-# --- פונקציות עזר לוואלה (החזרת התמונות) ---
+# --- פונקציות עזר ---
 def upgrade_image_quality(url):
     if not url: return url
     return re.sub(r'w=\d+', 'w=1200', url).replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
@@ -44,7 +44,7 @@ def extract_image(entry):
     return upgrade_image_quality(image_url)
 
 def get_history():
-    history = {"links": [], "counter": 0}
+    history = {"links": set(), "counter": 0} # שימוש ב-set לחיפוש מהיר יותר
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
             for line in f:
@@ -52,77 +52,98 @@ def get_history():
                 if line.startswith("COUNTER:"):
                     try: history["counter"] = int(line.replace("COUNTER:", ""))
                     except: history["counter"] = 0
-                elif line: history["links"].append(line)
+                elif line: history["links"].add(line)
     return history
 
-def save_history(links, counter):
+def save_history(links_list, counter):
     with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
         f.write(f"COUNTER:{counter}\n")
-        for link in links[-MAX_LINKS_TO_KEEP:]:
+        # שמירת 500 האחרונים לפי סדר הגעתם
+        for link in links_list[-MAX_LINKS_TO_KEEP:]:
             f.write(f"{link}\n")
 
 def get_short_url(long_url):
+    # פונקציה זו נקראת עכשיו רק עבור הודעות חדשות באמת
     try:
         api_url = f"http://tinyurl.com/api-create.php?url={long_url}"
-        response = requests.get(api_url, timeout=10)
+        response = requests.get(api_url, timeout=5) # צמצום timeout ל-5 שניות
         if response.status_code == 200:
             return response.text.replace("http://", "https://")
     except: pass
     return long_url
 
-# --- עיבוד וואלה (מתוקן עם תמונות) ---
-async def process_walla(bot, seen_links):
+# --- עיבוד וואלה ---
+async def process_walla(bot, seen_links_set, links_list):
     for category, url in WALLA_FEEDS.items():
         feed = feedparser.parse(url)
-        new_entries = [e for e in feed.entries if e.link not in seen_links]
+        # סינון מהיר לפני עיבוד
+        new_entries = [e for e in feed.entries if e.link not in seen_links_set]
+        
         for entry in reversed(new_entries):
             caption = f"{RLE}{RLM}<b>{entry.title}</b>{PDF}\n\n{entry.link}"
             try:
                 image = extract_image(entry)
                 if image:
-                    # מחזיר את שליחת התמונה הגדולה
                     await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
                 else:
                     await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
-                seen_links.append(entry.link)
-                await asyncio.sleep(1)
+                
+                seen_links_set.add(entry.link)
+                links_list.append(entry.link)
+                await asyncio.sleep(0.5) # צמצום המתנה בין הודעות
             except Exception as e: print(f"Walla Error: {e}")
-    return seen_links
+    return links_list
 
 # --- עיבוד חמ"ל ---
-async def process_hamal(seen_links, counter):
-    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return seen_links, counter
+async def process_hamal(seen_links_set, links_list, counter):
+    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list, counter
+    
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
         feed = feedparser.parse(HAMAL_RSS)
-        new_entries = [e for e in feed.entries if e.link not in seen_links]
+        new_entries = [e for e in feed.entries if e.link not in seen_links_set]
+        
         for entry in reversed(new_entries):
-            clean_title = re.sub(r'<[^>]+>', '', entry.title)
+            # קיצור הלינק מתבצע רק כאן - רק למה שחדש
             short_link = get_short_url(entry.link)
+            clean_title = re.sub(r'<[^>]+>', '', entry.title)
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
+            
             try:
                 await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
-                seen_links.append(entry.link)
+                
+                seen_links_set.add(entry.link)
+                links_list.append(entry.link)
                 counter += 1
+                
                 if counter >= PROMO_EVERY_X_MESSAGES:
                     promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה!</b>{PDF}\n\nhttps://t.me/walla26"
-                    try: await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
-                    except: await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
+                    try: 
+                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
+                    except: 
+                        await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
                     counter = 0
-                await asyncio.sleep(1)
+                
+                await asyncio.sleep(0.5)
             except Exception as e: print(f"Hamal Error: {e}")
-    return seen_links, counter
+            
+    return links_list, counter
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
+    
     history = get_history()
-    seen_links = history["links"]
+    seen_links_set = history["links"]
+    links_list = list(seen_links_set) # רשימה לשמירה על סדר ל-MAX_LINKS
     counter = history["counter"]
+
     bot = Bot(token=TELEGRAM_TOKEN)
     async with bot:
-        seen_links = await process_walla(bot, seen_links)
-    seen_links, counter = await process_hamal(seen_links, counter)
-    save_history(seen_links, counter)
+        links_list = await process_walla(bot, seen_links_set, links_list)
+    
+    links_list, counter = await process_hamal(seen_links_set, links_list, counter)
+
+    save_history(links_list, counter)
 
 if __name__ == "__main__":
     asyncio.run(main())
