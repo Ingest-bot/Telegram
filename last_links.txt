@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:0
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -201,3 +201,5 @@ https://hamal.co.il/main/התעלומה-הגדולה-ביותר-במערכה---�
 https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-247152
 https://hamal.co.il/main/בעקבות-ירי-מאיראן-אזעקות-בצפון-הארץ--נא-להיכנס-למרחב-מוגן-247165
 https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-התקבלו-דיווחים-כלל-247169
+https://news.walla.co.il/item/3819875
+https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-247170
