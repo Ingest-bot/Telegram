@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:19
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
