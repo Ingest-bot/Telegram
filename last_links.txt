@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:5
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -175,3 +175,10 @@ https://hamal.co.il/main/איראן-תקפה-את-בניין-הקונסוליה-
 https://news.walla.co.il/item/3821211
 https://hamal.co.il/main/הבמאי-האיראני-החשוב-על-הרג-חמינאי-האיש-השנוא-מכולם-סוכנוי-247099
 https://hamal.co.il/main/ברקע-מבצע-׳שאגת-הארי׳-כוחות-צה״ל-מחטיבת-יהודה-ממשיכים-בפעיל-247100
+https://news.walla.co.il/item/3821198
+https://celebs.walla.co.il/item/3821215
+https://finance.walla.co.il/item/3821214
+https://hamal.co.il/main/טראמפ-הצי-האמריקני-יחל-ללוות-מכליות-דרך-מצר-הורמוז-בהקדם-ה-247101
+https://hamal.co.il/main/צה״ל-חושף-חיל-האוויר-הוציא-מכלל-שימוש-כ-300-משגרי-טילים-מת-247102
+https://hamal.co.il/main/רוביו-מאשר-את-פגיעת-הכטבמ-לפני-שנעמדתי-מול-המצלמות-הללו-נמ-247103
+https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-247106
