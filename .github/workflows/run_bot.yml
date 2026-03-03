@@ -1,9 +1,9 @@
-name: Walla and Hamal News Bot
+name: News Bots (Walla & Hamal)
 
 on:
   repository_dispatch:
     types: [my_script]
-  workflow_dispatch: # מאפשר לך להריץ גם ידנית ליתר ביטחון
+  workflow_dispatch: 
   push:
     branches:
       - main
@@ -26,24 +26,25 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # הוספתי כאן את requests שדרוש לחמ"ל
+          # מתקינים את כל מה ששני הבוטים צריכים יחד
           pip install feedparser python-telegram-bot requests
 
-      - name: Run bot
+      - name: Run Walla Bot
         env:
-          # Secrets של וואלה (נשאר כפי שהיה)
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          # Secrets חדשים של חמ"ל
+        run: python bot.py
+
+      - name: Run Hamal Bot
+        env:
           HAMAL_TELEGRAM_TOKEN: ${{ secrets.HAMAL_TELEGRAM_TOKEN }}
           HAMAL_CHAT_ID: ${{ secrets.HAMAL_CHAT_ID }}
-        run: python bot.py
+        run: python hamal_bot.py
 
       - name: Commit and Push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # הוספתי כאן פקודה שיוצרת את הקובץ אם הוא לא קיים כדי למנוע שגיאות
           touch last_links.txt
           git add last_links.txt
           git commit -m "Update history [skip ci]" || echo "No changes to commit"
