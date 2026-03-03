@@ -3,8 +3,8 @@ import os
 
 # --- תיקון חשוב כאן ---
 # אנחנו אומרים לפייתון: "לך ל-GitHub ותביא את מה ששמור תחת השם הזה"
-TOKEN = os.environ.get('8300619828:AAEskXCl21-7bEYaLaT9c4f97mlDytPahDc') 
-CHAT_ID = os.environ.get('-1001278471006')
+TOKEN = os.environ.get('HAMAL_TELEGRAM_TOKEN') 
+CHAT_ID = os.environ.get('HAMAL_CHAT_ID')
 
 def get_hamal_news():
     url = "https://public-api.hamal.co.il/feed/main?limit=5"
