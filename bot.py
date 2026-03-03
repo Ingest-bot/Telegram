@@ -27,7 +27,7 @@ RLE = "\u202B"
 PDF = "\u202C" 
 RLM = "\u200f" 
 
-LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo.jpeg"
+LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo.png"
 
 # --- פונקציות עזר ---
 def upgrade_image_quality(url):
