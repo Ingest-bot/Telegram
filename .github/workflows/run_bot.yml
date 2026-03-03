@@ -1,0 +1,41 @@
+name: News Bot Unified
+
+on:
+  repository_dispatch:
+    types: [run-bot]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser python-telegram-bot requests
+
+      - name: Run Bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          HAMAL_TELEGRAM_TOKEN: ${{ secrets.HAMAL_TELEGRAM_TOKEN }}
+          HAMAL_CHAT_ID: ${{ secrets.HAMAL_CHAT_ID }}
+        run: python bot.py
+
+      - name: Update History
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add last_links.txt
+          git commit -m "Update news [skip ci]" || echo "No changes"
+          git push
