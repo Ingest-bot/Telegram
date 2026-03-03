@@ -1,55 +1,16 @@
-name: News Bot Unified
-
-on:
-  push:
-    branches:
-      - main  # מפעיל את הבוט מיד כשאתה שומר שינוי בקוד
-  schedule:
-    - cron: '*/20 * * * *'  # מריץ את הבוט אוטומטית כל 20 דקות
-  workflow_dispatch:        # מאפשר לך להפעיל ידנית דרך לשונית Actions
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write # הרשאה קריטית לכתיבת קובץ ההיסטוריה בחזרה לשרת
-
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-          fetch-depth: 0 # מושך את כל ההיסטוריה כדי למנוע שגיאות Push
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser python-telegram-bot requests
-
-      - name: Run Unified Bot
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          CHAT_ID: ${{ secrets.CHAT_ID }}
-          HAMAL_TELEGRAM_TOKEN: ${{ secrets.HAMAL_TELEGRAM_TOKEN }}
-          HAMAL_CHAT_ID: ${{ secrets.HAMAL_CHAT_ID }}
-        run: python bot.py
-
-      - name: Commit and Push history changes
+- name: Commit and Push history changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # פתרון לבעיית ה-100 שורות: משיכת עדכונים לפני השמירה
-          git pull --rebase origin main
-          
+          # פתרון לשגיאת ה-unstaged changes:
+          # אנחנו אומרים לגיט לשמור בצד את השינויים המקומיים, למשוך את העדכונים, ואז להחזיר
           git add last_links.txt
-          # מבצע קומיט רק אם יש שינויים בלינקים
-          git commit -m "Update news history [skip ci]" || echo "No changes to commit"
+          git stash || echo "No changes to stash"
+          git pull --rebase origin main
+          git stash pop || echo "No stash to pop"
           
-          # דחיפת השינויים חזרה ל-GitHub
+          # עכשיו מבצעים את השמירה הסופית
+          git add last_links.txt
+          git commit -m "Update news history [skip ci]" || echo "No changes to commit"
           git push origin main
