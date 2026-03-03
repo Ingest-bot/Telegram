@@ -1,51 +1,45 @@
-name: News Bots (Walla & Hamal)
+name: News Bot Unified
 
 on:
-  repository_dispatch:
-    types: [my_script]
-  workflow_dispatch: 
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
+  schedule:
+    # הרצה כל 20 דקות
+    - cron: '*/20 * * * *'
+  workflow_dispatch: # מאפשר הרצה ידנית לבדיקה
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # חשוב מאוד לשמירת ההיסטוריה
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # מתקינים את כל מה ששני הבוטים צריכים יחד
           pip install feedparser python-telegram-bot requests
 
-      - name: Run Walla Bot
+      - name: Run Unified Bot
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python bot.py
-
-      - name: Run Hamal Bot
-        env:
           HAMAL_TELEGRAM_TOKEN: ${{ secrets.HAMAL_TELEGRAM_TOKEN }}
           HAMAL_CHAT_ID: ${{ secrets.HAMAL_CHAT_ID }}
-        run: python hamal_bot.py
+        run: python bot.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push history changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          touch last_links.txt
           git add last_links.txt
-          git commit -m "Update history [skip ci]" || echo "No changes to commit"
+          git commit -m "Update news history [skip ci]" || echo "No changes to commit"
           git push
