@@ -150,4 +150,4 @@ async def main():
     save_history(links_list, counter)
 
 if __name__ == "__main__":
-    async asyncio.run(main())
+    asyncio.run(main())
