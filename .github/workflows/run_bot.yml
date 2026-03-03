@@ -3,23 +3,23 @@ name: News Bot Unified
 on:
   push:
     branches:
-      - main  # מריץ את הבוט מיד כשאתה שומר שינוי בקוד
+      - main  # מפעיל את הבוט מיד כשאתה שומר שינוי בקוד
   schedule:
-    - cron: '*/20 * * * *'  # מריץ כל 20 דקות
-  workflow_dispatch:        # מוסיף כפתור "Run workflow" ידני
+    - cron: '*/20 * * * *'  # מריץ את הבוט אוטומטית כל 20 דקות
+  workflow_dispatch:        # מאפשר לך להפעיל ידנית דרך לשונית Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # הרשאה קריטית לכתיבת קובץ ההיסטוריה בחזרה לשרת
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           persist-credentials: true
-          fetch-depth: 0
+          fetch-depth: 0 # מושך את כל ההיסטוריה כדי למנוע שגיאות Push
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,7 +43,13 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # פתרון לבעיית ה-100 שורות: משיכת עדכונים לפני השמירה
           git pull --rebase origin main
+          
           git add last_links.txt
+          # מבצע קומיט רק אם יש שינויים בלינקים
           git commit -m "Update news history [skip ci]" || echo "No changes to commit"
+          
+          # דחיפת השינויים חזרה ל-GitHub
           git push origin main
