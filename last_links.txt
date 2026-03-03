@@ -1,4 +1,4 @@
-COUNTER:12
+COUNTER:15
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -191,3 +191,6 @@ https://news.walla.co.il/item/3821221
 https://hamal.co.il/main/פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-לצאת-מהמרחב-המוגן-יש-להמשיך-247123
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-אזעקות-צפויות-ברחבי-הארץ-247125
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-247136
+https://hamal.co.il/main/המטח-האחרון-טיל-בודד-יורט-בהצלחה-247144
+https://hamal.co.il/main/פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-לצאת-מהמרחב-המוגן-יש-להמשי-247145
+https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-חיסל-מחבל-ששיגר-טיל-נט-לעבר-כוח-צה-247146
