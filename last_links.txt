@@ -1,4 +1,4 @@
-COUNTER:2
+COUNTER:4
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -205,3 +205,5 @@ https://news.walla.co.il/item/3819875
 https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-247170
 https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-של-ביירות--כל-העדכונים-247172
 https://hamal.co.il/main/בדקות-הקרובות-אזעקות-צפויות-בצפון-הארץ-247175
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247179
+https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-אזעקות-צפויות-בדקות-הקרובות-247181
