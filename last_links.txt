@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:0
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -169,3 +169,6 @@ https://hamal.co.il/main/שוטרת-סמויה-הובילה-למעצרו-של-א
 https://news.walla.co.il/item/3821204
 https://news.walla.co.il/item/3821203
 https://news.walla.co.il/item/3821209
+https://hamal.co.il/main/סטיב-ויטקוף-לא-שוחח-עם-האיראנים-בימים-שחלפו-בתקיפות-באיראן-247094
+https://hamal.co.il/main/המוסד-הרחיב-את-הפעילויות-החשאיות-נגד-המשטר-האיראנים-הופתעו-247095
+https://hamal.co.il/main/איראן-תקפה-את-בניין-הקונסוליה-האמריקנית-בדובאי-247098
