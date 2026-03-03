@@ -2,8 +2,8 @@ import requests
 import os
 
 # ב-GitHub נשתמש ב-Secrets, במחשב זה ימשוך ריק אלא אם תגדיר
-TOKEN = os.environ.get('HAMAL_TELEGRAM_TOKEN') 
-CHAT_ID = os.environ.get('HAMAL_CHAT_ID')
+TOKEN = os.environ.get('8300619828:AAEskXCl21-7bEYaLaT9c4f97mlDytPahDc') 
+CHAT_ID = os.environ.get('-1001278471006')
 
 def get_hamal_news():
     url = "https://public-api.hamal.co.il/feed/main?limit=5"
