@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:0
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -173,3 +173,4 @@ https://hamal.co.il/main/סטיב-ויטקוף-לא-שוחח-עם-האיראני
 https://hamal.co.il/main/המוסד-הרחיב-את-הפעילויות-החשאיות-נגד-המשטר-האיראנים-הופתעו-247095
 https://hamal.co.il/main/איראן-תקפה-את-בניין-הקונסוליה-האמריקנית-בדובאי-247098
 https://news.walla.co.il/item/3821211
+https://hamal.co.il/main/הבמאי-האיראני-החשוב-על-הרג-חמינאי-האיש-השנוא-מכולם-סוכנוי-247099
