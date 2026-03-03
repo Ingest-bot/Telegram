@@ -1,4 +1,4 @@
-COUNTER:0
+COUNTER:1
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -174,3 +174,4 @@ https://hamal.co.il/main/המוסד-הרחיב-את-הפעילויות-החשא�
 https://hamal.co.il/main/איראן-תקפה-את-בניין-הקונסוליה-האמריקנית-בדובאי-247098
 https://news.walla.co.il/item/3821211
 https://hamal.co.il/main/הבמאי-האיראני-החשוב-על-הרג-חמינאי-האיש-השנוא-מכולם-סוכנוי-247099
+https://hamal.co.il/main/ברקע-מבצע-׳שאגת-הארי׳-כוחות-צה״ל-מחטיבת-יהודה-ממשיכים-בפעיל-247100
