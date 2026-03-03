@@ -26,6 +26,15 @@ jobs:
         with:
           python-version: '3.9'
 
+      # מנגנון ה-Caching לחיסכון בזמן התקנה
+      - name: Cache pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -44,13 +53,12 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # ניקוי וסנכרון למניעת שגיאת 128
+          # סנכרון בטוח למניעת שגיאות 128
           git add last_links.txt
           git stash || echo "No changes to stash"
           git pull --rebase origin main
           git stash pop || echo "No stash to pop"
           
-          # שמירה סופית
           git add last_links.txt
           git commit -m "Update news history [skip ci]" || echo "No changes to commit"
           git push origin main
