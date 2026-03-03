@@ -44,29 +44,32 @@ def extract_image(entry):
     return upgrade_image_quality(image_url)
 
 def get_history():
-    history = {"links": set(), "counter": 0} # שימוש ב-set לחיפוש מהיר יותר
+    history = {"links": [], "counter": 0}
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if line.startswith("COUNTER:"):
-                    try: history["counter"] = int(line.replace("COUNTER:", ""))
-                    except: history["counter"] = 0
-                elif line: history["links"].add(line)
+                    try:
+                        history["counter"] = int(line.split(":")[1])
+                    except:
+                        history["counter"] = 0
+                elif line:
+                    history["links"].append(line)
     return history
 
 def save_history(links_list, counter):
+    # שומר רק את 500 הלינקים האחרונים
+    recent_links = links_list[-MAX_LINKS_TO_KEEP:]
     with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
         f.write(f"COUNTER:{counter}\n")
-        # שמירת 500 האחרונים לפי סדר הגעתם
-        for link in links_list[-MAX_LINKS_TO_KEEP:]:
+        for link in recent_links:
             f.write(f"{link}\n")
 
 def get_short_url(long_url):
-    # פונקציה זו נקראת עכשיו רק עבור הודעות חדשות באמת
     try:
         api_url = f"http://tinyurl.com/api-create.php?url={long_url}"
-        response = requests.get(api_url, timeout=5) # צמצום timeout ל-5 שניות
+        response = requests.get(api_url, timeout=5)
         if response.status_code == 200:
             return response.text.replace("http://", "https://")
     except: pass
@@ -76,7 +79,6 @@ def get_short_url(long_url):
 async def process_walla(bot, seen_links_set, links_list):
     for category, url in WALLA_FEEDS.items():
         feed = feedparser.parse(url)
-        # סינון מהיר לפני עיבוד
         new_entries = [e for e in feed.entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
@@ -90,7 +92,7 @@ async def process_walla(bot, seen_links_set, links_list):
                 
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
-                await asyncio.sleep(0.5) # צמצום המתנה בין הודעות
+                await asyncio.sleep(0.5)
             except Exception as e: print(f"Walla Error: {e}")
     return links_list
 
@@ -104,7 +106,6 @@ async def process_hamal(seen_links_set, links_list, counter):
         new_entries = [e for e in feed.entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
-            # קיצור הלינק מתבצע רק כאן - רק למה שחדש
             short_link = get_short_url(entry.link)
             clean_title = re.sub(r'<[^>]+>', '', entry.title)
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
@@ -114,15 +115,18 @@ async def process_hamal(seen_links_set, links_list, counter):
                 
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
+                
+                # קידום המונה
                 counter += 1
                 
+                # בדיקה אם הגענו ליעד הפרסומת
                 if counter >= PROMO_EVERY_X_MESSAGES:
                     promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה!</b>{PDF}\n\nhttps://t.me/walla26"
                     try: 
                         await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
                     except: 
                         await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
-                    counter = 0
+                    counter = 0 # איפוס המונה לאחר שליחת פרסומת
                 
                 await asyncio.sleep(0.5)
             except Exception as e: print(f"Hamal Error: {e}")
@@ -133,8 +137,8 @@ async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     
     history = get_history()
-    seen_links_set = history["links"]
-    links_list = list(seen_links_set) # רשימה לשמירה על סדר ל-MAX_LINKS
+    links_list = history["links"]
+    seen_links_set = set(links_list)
     counter = history["counter"]
 
     bot = Bot(token=TELEGRAM_TOKEN)
@@ -146,4 +150,4 @@ async def main():
     save_history(links_list, counter)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    async asyncio.run(main())
