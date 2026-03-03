@@ -182,3 +182,5 @@ https://news.walla.co.il/item/3821036
 https://travel.walla.co.il/item/3821041
 https://news.walla.co.il/item/3821051
 https://finance.walla.co.il/item/3821048
+https://news.walla.co.il/item/3821055
+https://finance.walla.co.il/item/3821024
