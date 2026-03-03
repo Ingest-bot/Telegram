@@ -1,7 +1,8 @@
 import requests
 import os
 
-# ב-GitHub נשתמש ב-Secrets, במחשב זה ימשוך ריק אלא אם תגדיר
+# --- תיקון חשוב כאן ---
+# אנחנו אומרים לפייתון: "לך ל-GitHub ותביא את מה ששמור תחת השם הזה"
 TOKEN = os.environ.get('8300619828:AAEskXCl21-7bEYaLaT9c4f97mlDytPahDc') 
 CHAT_ID = os.environ.get('-1001278471006')
 
@@ -15,6 +16,7 @@ def get_hamal_news():
         response = requests.get(url, headers=headers)
         if response.status_code == 200:
             data = response.json()
+            # מוודאים שאנחנו מושכים את רשימת הפריטים הנכונה
             items = data.get('feed', {}).get('items', [])
             return items
     except Exception as e:
@@ -22,15 +24,30 @@ def get_hamal_news():
     return []
 
 def send_to_telegram(title, content):
+    # בדיקה שהמשתנים לא ריקים
+    if not TOKEN or not CHAT_ID:
+        print("Error: TOKEN or CHAT_ID is missing!")
+        return
+
     msg = f"<b>{title}</b>\n\n{content}"
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
     payload = {"chat_id": CHAT_ID, "text": msg, "parse_mode": "HTML"}
-    requests.post(url, json=payload)
+    
+    try:
+        res = requests.post(url, json=payload)
+        print(f"Telegram response: {res.status_code}")
+    except Exception as e:
+        print(f"Error sending to Telegram: {e}")
 
 if __name__ == "__main__":
     news_items = get_hamal_news()
     if news_items:
-        # לצורך הבדיקה הראשונית - שולח רק את האייטם הכי חדש
+        # לוקח את האייטם הכי חדש (הראשון ברשימה)
         latest = news_items[0]
-        send_to_telegram(latest.get('title'), latest.get('content'))
-        print("Sent latest news to Telegram!")
+        title = latest.get('title', 'עדכון חמ"ל')
+        content = latest.get('content', '')
+        
+        send_to_telegram(title, content)
+        print("Process finished!")
+    else:
+        print("No news items found.")
