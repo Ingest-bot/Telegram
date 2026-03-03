@@ -36,6 +36,14 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add last_links.txt
-          git commit -m "Update news [skip ci]" || echo "No changes"
-          git push
+          
+          # יצירת קובץ מונה אם הוא לא קיים (בשביל וואלה)
+          if [ ! -f counter.txt ]; then echo "0" > counter.txt; fi
+          
+          git add last_links.txt counter.txt
+          git commit -m "Update news and counter [skip ci]" || echo "No changes"
+          
+          # התיקון הקריטי: מושך שינויים לפני הדחיפה כדי למנוע שגיאה 500
+          git pull --rebase origin main
+          
+          git push origin main
