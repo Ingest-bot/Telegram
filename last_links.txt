@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:9
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -182,3 +182,8 @@ https://hamal.co.il/main/טראמפ-הצי-האמריקני-יחל-ללוות-מ
 https://hamal.co.il/main/צה״ל-חושף-חיל-האוויר-הוציא-מכלל-שימוש-כ-300-משגרי-טילים-מת-247102
 https://hamal.co.il/main/רוביו-מאשר-את-פגיעת-הכטבמ-לפני-שנעמדתי-מול-המצלמות-הללו-נמ-247103
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-247106
+https://finance.walla.co.il/item/3821219
+https://hamal.co.il/main/אזעקות-צפויות-להתקבל-בקרוב-עקב-שיגורים-מאיראן-247109
+https://hamal.co.il/main/מועצת-המומחי-בחרו-במוגטאבה-חמינאי-בנו-של-חמינאי-כמנהיג-הבא-247110
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-ובשפלה-247117
+https://hamal.co.il/main/מסתמן-2-טילים-נורו-במטח-אחד-יורט-והשני-נפל-בשטח-פתוח-247122
