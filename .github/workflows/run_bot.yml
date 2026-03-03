@@ -4,9 +4,14 @@ on:
   push:
     branches:
       - main
+  # מאפשר הפעלה מ-Cron-job.org דרך ה-URL הכללי /dispatches
+  repository_dispatch:
+    types: [run-bot]
+  # מאפשר הפעלה ידנית מתוך ממשק GitHub
+  workflow_dispatch:
+  # אופציונלי: גיבוי פנימי של GitHub (פועל כל 20 דקות אם החיצוני נכשל)
   schedule:
     - cron: '*/20 * * * *'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -26,7 +31,6 @@ jobs:
         with:
           python-version: '3.9'
 
-      # מנגנון ה-Caching לחיסכון בזמן התקנה
       - name: Cache pip
         uses: actions/cache@v3
         with:
@@ -53,7 +57,6 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # סנכרון בטוח למניעת שגיאות 128
           git add last_links.txt
           git stash || echo "No changes to stash"
           git pull --rebase origin main
