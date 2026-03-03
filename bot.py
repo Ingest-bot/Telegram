@@ -121,7 +121,7 @@ async def process_hamal(seen_links_set, links_list, counter):
                 
                 # בדיקה אם הגענו ליעד הפרסומת
                 if counter >= PROMO_EVERY_X_MESSAGES:
-                    promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה!</b>{PDF}\n\nhttps://t.me/walla26"
+                    promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
                     try: 
                         await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
                     except: 
