@@ -1,16 +1,56 @@
-- name: Commit and Push history changes
+name: News Bot Unified
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser python-telegram-bot requests
+
+      - name: Run Unified Bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          HAMAL_TELEGRAM_TOKEN: ${{ secrets.HAMAL_TELEGRAM_TOKEN }}
+          HAMAL_CHAT_ID: ${{ secrets.HAMAL_CHAT_ID }}
+        run: python bot.py
+
+      - name: Commit and Push history changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          # פתרון לשגיאת ה-unstaged changes:
-          # אנחנו אומרים לגיט לשמור בצד את השינויים המקומיים, למשוך את העדכונים, ואז להחזיר
+          # ניקוי וסנכרון למניעת שגיאת 128
           git add last_links.txt
           git stash || echo "No changes to stash"
           git pull --rebase origin main
           git stash pop || echo "No stash to pop"
           
-          # עכשיו מבצעים את השמירה הסופית
+          # שמירה סופית
           git add last_links.txt
           git commit -m "Update news history [skip ci]" || echo "No changes to commit"
           git push origin main
