@@ -1,4 +1,3 @@
-https://celebs.walla.co.il/item/3820747
 https://travel.walla.co.il/item/3820748
 https://news.walla.co.il/item/3820754
 https://news.walla.co.il/item/3820753
@@ -198,3 +197,4 @@ https://celebs.walla.co.il/item/3820723
 https://finance.walla.co.il/item/3820707
 https://finance.walla.co.il/item/3820728
 https://news.walla.co.il/item/3821148
+https://celebs.walla.co.il/item/3821150
