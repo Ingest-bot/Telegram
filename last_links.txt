@@ -1,5 +1,3 @@
-https://celebs.walla.co.il/item/3820723
-https://finance.walla.co.il/item/3820707
 https://news.walla.co.il/item/3820732
 https://finance.walla.co.il/item/3820728
 https://news.walla.co.il/item/3820730
@@ -198,3 +196,5 @@ https://news.walla.co.il/item/3821124
 https://celebs.walla.co.il/item/3821125
 https://finance.walla.co.il/item/3820675
 https://news.walla.co.il/item/3821134
+https://news.walla.co.il/item/3821136
+https://news.walla.co.il/item/3821137
