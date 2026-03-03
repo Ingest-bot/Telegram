@@ -4,19 +4,20 @@ on:
   schedule:
     # הרצה כל 20 דקות
     - cron: '*/20 * * * *'
-  workflow_dispatch: # מאפשר הרצה ידנית לבדיקה
+  workflow_dispatch: # מאפשר הרצה ידנית בלחיצת כפתור
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # חשוב מאוד לשמירת ההיסטוריה
+      contents: write # נותן לבוט רשות לשמור את קובץ ההיסטוריה בחזרה ל-GitHub
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0 # מושך את כל ההיסטוריה כדי למנוע בעיות ב-Push
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,6 +41,12 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # סינכרון לפני השמירה כדי למנוע את שגיאת ה-rejected
+          git pull --rebase origin main
+          
           git add last_links.txt
+          # מבצע קומיט רק אם יש שינויים (לינקים חדשים)
           git commit -m "Update news history [skip ci]" || echo "No changes to commit"
-          git push
+          
+          git push origin main
