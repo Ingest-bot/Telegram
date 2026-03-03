@@ -192,3 +192,6 @@ https://celebs.walla.co.il/item/3821074
 https://e.walla.co.il/item/3821056
 https://news.walla.co.il/item/3821076
 https://news.walla.co.il/item/3821085
+https://celebs.walla.co.il/item/3821099
+https://finance.walla.co.il/item/3821095
+https://finance.walla.co.il/item/3821101
