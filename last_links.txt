@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:12
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -187,3 +187,7 @@ https://hamal.co.il/main/אזעקות-צפויות-להתקבל-בקרוב-עק�
 https://hamal.co.il/main/מועצת-המומחי-בחרו-במוגטאבה-חמינאי-בנו-של-חמינאי-כמנהיג-הבא-247110
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-ובשפלה-247117
 https://hamal.co.il/main/מסתמן-2-טילים-נורו-במטח-אחד-יורט-והשני-נפל-בשטח-פתוח-247122
+https://news.walla.co.il/item/3821221
+https://hamal.co.il/main/פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-לצאת-מהמרחב-המוגן-יש-להמשיך-247123
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-אזעקות-צפויות-ברחבי-הארץ-247125
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-247136
