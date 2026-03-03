@@ -1,6 +1,3 @@
-https://e.walla.co.il/item/3820682
-https://news.walla.co.il/item/3820691
-https://news.walla.co.il/item/3820697
 https://finance.walla.co.il/item/3820675
 https://news.walla.co.il/item/3820708
 https://news.walla.co.il/item/3820702
@@ -198,3 +195,6 @@ https://finance.walla.co.il/item/3821107
 https://news.walla.co.il/item/3821112
 https://news.walla.co.il/item/3821096
 https://news.walla.co.il/item/3820968
+https://news.walla.co.il/item/3821119
+https://finance.walla.co.il/item/3820676
+https://finance.walla.co.il/item/3820672
