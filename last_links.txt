@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:2
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -362,3 +362,6 @@ https://news.walla.co.il/break/3821423
 https://hamal.co.il/main/חיזבאללה-ממשיך-לירות-אזעקות-הופעלו-באיזור-קריית-שמונה-247492
 https://hamal.co.il/main/חיל-האוויר-תקף-עם-יותר-מ-5000-חימושים-באיראן-247490
 https://hamal.co.il/main/מפקד-בסיס-נבטים-על-הפלת-המטוס-״מי-שיפריע-לנו---דמו-בראשו״-247411
+https://news.walla.co.il/item/3821425
+https://news.walla.co.il/break/3821427
+https://hamal.co.il/main/כ״ץ-חושף-המבצע-באיראן-תוכנן-לאמצע-השנה-הקדמנו-אותו-247500
