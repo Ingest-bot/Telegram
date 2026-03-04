@@ -1,4 +1,4 @@
-COUNTER:15
+COUNTER:17
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -352,3 +352,5 @@ https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-24
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-למרכז-הארץ-247442
 https://hamal.co.il/main/במקביל-לירי-מאיראן---שיגור-נוסף-מלבנון-247449
 https://hamal.co.il/main/אזעקות-מופעלות-ברחבי-הארץ-247472
+https://hamal.co.il/main/אין-נפגעים-במטח-האחרון-דיווח-על-מספר-שברי-יירוט-בירושלים-247475
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247477
