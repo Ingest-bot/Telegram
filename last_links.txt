@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:14
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -306,3 +306,10 @@ https://hamal.co.il/main/הנסיעה-הגורלית-והשינוי-בצהל-247
 https://hamal.co.il/main/דובר-צה״ל-לעם-האיראני-תוקפים-רק-את-המשטר-247319
 https://news.walla.co.il/item/3821330
 https://hamal.co.il/main/מפקד-חיל-האוויר-לטייס-שהפיל-את-מטוס-הקרב-האיראני-247320
+https://news.walla.co.il/item/3821360
+https://celebs.walla.co.il/item/3821359
+https://celebs.walla.co.il/item/3821363
+https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247259
+https://hamal.co.il/main/טורקיה-נאטו-יירטה-טיל-ששוגר-מאיראן-247327
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-טילים-מאיראן-247331
+https://hamal.co.il/main/פיקוד-העורף-הטילים-ששגורו-מאיראן-יורטו-ניתן-לצאת-מהמרחב-המ-247334
