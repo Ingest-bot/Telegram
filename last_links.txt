@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:19
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -231,3 +231,7 @@ https://hamal.co.il/main/צפו-חיילים-איראנים-ניסו-247252
 https://news.walla.co.il/item/3821248
 https://e.walla.co.il/item/3821250
 https://hamal.co.il/main/דיווח-2-כטבמים-תקפו-בסיס-אמריקני-בעיראק-247255
+https://news.walla.co.il/item/3821255
+https://e.walla.co.il/item/3821256
+https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247264
+https://hamal.co.il/main/צהל-תוקפים-מטרות-של-החיזבאללה-בביירות-247265
