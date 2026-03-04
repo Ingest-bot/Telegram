@@ -1,4 +1,4 @@
-COUNTER:6
+COUNTER:8
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -405,3 +405,6 @@ https://hamal.co.il/main/תיעוד-מסיבת-רחוב-המונית-בירוש�
 https://news.walla.co.il/item/3821455
 https://hamal.co.il/main/נכנעה-לאיום-247580
 https://hamal.co.il/main/ציוד-ההגברה-הוחרם-המשטרה-פועלת-לפיזור-מסיבת-הרחוב-בירושלים-247581
+https://news.walla.co.il/item/3821462
+https://hamal.co.il/main/מקרון-״-247583
+https://hamal.co.il/main/נעים-קאסם-״ישראל-לא-קיימה-סעיף-בהפסקת-האש״-247584
