@@ -59,19 +59,19 @@ def get_history():
     return history
 
 def save_history(links_list, counter):
-    # שומר רק את 500 הלינקים האחרונים
     recent_links = links_list[-MAX_LINKS_TO_KEEP:]
     with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
         f.write(f"COUNTER:{counter}\n")
         for link in recent_links:
             f.write(f"{link}\n")
 
+# החלפה ל-is.gd כדי למנוע דפי ביניים (Interstitial pages)
 def get_short_url(long_url):
     try:
-        api_url = f"http://tinyurl.com/api-create.php?url={long_url}"
+        api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
         response = requests.get(api_url, timeout=5)
         if response.status_code == 200:
-            return response.text.replace("http://", "https://")
+            return response.text.strip()
     except: pass
     return long_url
 
@@ -107,7 +107,13 @@ async def process_hamal(seen_links_set, links_list, counter):
         
         for entry in reversed(new_entries):
             short_link = get_short_url(entry.link)
-            clean_title = re.sub(r'<[^>]+>', '', entry.title)
+            
+            # --- ניקוי הכותרת של חמ"ל ---
+            clean_title = re.sub(r'<[^>]+>', '', entry.title) # הסרת תגיות HTML
+            clean_title = clean_title.replace("חמ\"ל - חדשות מתפרצות", "")
+            clean_title = clean_title.replace("חמ\"ל חדשות מתפרצות", "") # למקרה שאין מקף
+            clean_title = clean_title.strip().lstrip(":") # הסרת נקודתיים אם נשארו בתחילה
+            
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
@@ -116,17 +122,15 @@ async def process_hamal(seen_links_set, links_list, counter):
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
                 
-                # קידום המונה
                 counter += 1
                 
-                # בדיקה אם הגענו ליעד הפרסומת
                 if counter >= PROMO_EVERY_X_MESSAGES:
                     promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
                     try: 
                         await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
                     except: 
                         await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
-                    counter = 0 # איפוס המונה לאחר שליחת פרסומת
+                    counter = 0 
                 
                 await asyncio.sleep(0.5)
             except Exception as e: print(f"Hamal Error: {e}")
