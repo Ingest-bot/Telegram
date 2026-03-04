@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:2
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -427,3 +427,7 @@ https://hamal.co.il/main/המשטרה-פיזרה-את-המסיבות-בירוש�
 https://hamal.co.il/main/רסיס-נפל-ליד-ביתו-של-גיא-הוכמן---וגרם-לנזק-משמעותי-247611
 https://news.walla.co.il/item/3821469
 https://hamal.co.il/main/בזמן-מלחמה-קבוצת-נערים-תקפה-באלימות-עוברי-אורח-בירושלים-247616
+https://news.walla.co.il/item/3821482
+https://hamal.co.il/main/דיווח-דרמטי-אלפי-כורדים-החלו-במתקפה-קרקעית-באיראן-247617
+https://hamal.co.il/main/בכירים-אמריקניים-וישראלים-מאשרים-הכורדים-פתחו-במתקפה-247618
+https://hamal.co.il/main/גורם-ישראלי-האירוע-עם-הכורדים-אמתי-ומשמעותי-בישראל-לא-הופת-247619
