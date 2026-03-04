@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:19
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -387,3 +387,7 @@ https://news.walla.co.il/break/3821445
 https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247545
 https://hamal.co.il/main/גם-בחזית-הצפונית-פצצת-מצרר-אותרה-במטולה-247552
 https://hamal.co.il/main/מד״א-אין-דיווחים-על-נפגעים-במטח-האחרון-247556
+https://news.walla.co.il/item/3821449
+https://news.walla.co.il/break/3821447
+https://news.walla.co.il/break/3821448
+https://hamal.co.il/main/תיעוד-ראשון-מנקודת-האחיזה-של-צה״ל-בדרום-לבנון-247559
