@@ -1,4 +1,4 @@
-COUNTER:12
+COUNTER:14
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -267,3 +267,8 @@ https://celebs.walla.co.il/item/3821299
 https://finance.walla.co.il/item/3821245
 https://tech.walla.co.il/item/3821293
 https://hamal.co.il/main/לא-רק-השמדת-תשתיות-ישראל-247286
+https://news.walla.co.il/item/3821305
+https://news.walla.co.il/item/3821303
+https://e.walla.co.il/item/3821090
+https://hamal.co.il/main/ישיר-הצהרת-דובר-צהל-247275
+https://hamal.co.il/main/דיווח-בנו-של-חמינאי-שרד-את-ניסיון-החיסול---וימונה-247287
