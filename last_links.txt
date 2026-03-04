@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:18
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -313,3 +313,8 @@ https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-
 https://hamal.co.il/main/טורקיה-נאטו-יירטה-טיל-ששוגר-מאיראן-247327
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-טילים-מאיראן-247331
 https://hamal.co.il/main/פיקוד-העורף-הטילים-ששגורו-מאיראן-יורטו-ניתן-לצאת-מהמרחב-המ-247334
+https://finance.walla.co.il/item/3821366
+https://hamal.co.il/main/הירי-מאיראן-ולבנון-הדי-פיצוצים-נשמעו-באזור-השומרון-247349
+https://hamal.co.il/main/הירי-מאיראן-ולבנון-דיווחים-על-נפילות-במרכז-247360
+https://hamal.co.il/main/מדא-על-הירי-לעבר-ישראל-בשלב-זה-לא-דווח-על-נפגעים-247361
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-247363
