@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:11
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -411,3 +411,6 @@ https://hamal.co.il/main/נעים-קאסם-״ישראל-לא-קיימה-סעיף
 https://news.walla.co.il/item/3821461
 https://news.walla.co.il/break/3821465
 https://hamal.co.il/main/לא-שינו-עמדה-ספרד-מכחישה-את-טענות-הבית-הלבן-247587
+https://news.walla.co.il/break/3821468
+https://hamal.co.il/main/דיווח-מלאי-הטילים-הבליסטיים-של-איראן-הולך-ואוזל-247586
+https://hamal.co.il/main/צהל-תוקף-תשתיות-של-משטר-הטרור-האיראני-ברחבי-טהרן-247594
