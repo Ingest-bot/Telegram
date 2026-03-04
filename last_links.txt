@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:10
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -304,3 +304,5 @@ https://finance.walla.co.il/item/3821331
 https://finance.walla.co.il/item/3821348
 https://hamal.co.il/main/הנסיעה-הגורלית-והשינוי-בצהל-247318
 https://hamal.co.il/main/דובר-צה״ל-לעם-האיראני-תוקפים-רק-את-המשטר-247319
+https://news.walla.co.il/item/3821330
+https://hamal.co.il/main/מפקד-חיל-האוויר-לטייס-שהפיל-את-מטוס-הקרב-האיראני-247320
