@@ -1,4 +1,4 @@
-COUNTER:11
+COUNTER:12
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -262,3 +262,8 @@ https://finance.walla.co.il/item/3821068
 https://hamal.co.il/main/בן-גביר-על-הודעת-היועמשית-חושבת-שאנחנו-באיראן-247282
 https://hamal.co.il/main/דיווח-צבא-לבנון-הציב-מחסומים-למעקב-אחר-החיזבאללה-247283
 https://hamal.co.il/main/בפעם-הראשונה-בהיסטוריה-F-35-הפיל-מטוס-קרב-איראני-247284
+https://travel.walla.co.il/item/3821295
+https://celebs.walla.co.il/item/3821299
+https://finance.walla.co.il/item/3821245
+https://tech.walla.co.il/item/3821293
+https://hamal.co.il/main/לא-רק-השמדת-תשתיות-ישראל-247286
