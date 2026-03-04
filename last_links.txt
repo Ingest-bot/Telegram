@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:8
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -368,3 +368,8 @@ https://hamal.co.il/main/כ״ץ-חושף-המבצע-באיראן-תוכנן-לא
 https://hamal.co.il/main/התחננו-על-נפשם-זוג-בני-70-סורבו-כניסה-למקלט-בקריית-ביאליק-247508
 https://hamal.co.il/main/עמותת-משפחה-אחת-מתגברת-את-קו-הסיוע-למשפחות-שכולות-247510
 https://hamal.co.il/main/משגר-טעון-הושמד-במערב-איראן-תיעוד-ממטוס-הקרב-״אדיר״-247509
+https://news.walla.co.il/break/3821434
+https://news.walla.co.il/break/3821433
+https://hamal.co.il/main/בן-גביר-מגיב-ליועמ״שית-״בזמן-מלחמה-היא-רוצה-להפיל-את-המשטר״-247517
+https://hamal.co.il/main/פעילות-רכבת-ישראל-תתרחב-247518
+https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-מתחם-צבאי-של-המשטר-במזרח-טהרן-247511
