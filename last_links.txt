@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:8
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -249,3 +249,10 @@ https://hamal.co.il/main/מפקד-פיקוד-העורף-בחיפה-247271
 https://travel.walla.co.il/item/3821274
 https://tech.walla.co.il/item/3821275
 https://hamal.co.il/main/כטבם-התפוצץ-בצפון-ללא-התראה-247276
+https://news.walla.co.il/item/3821279
+https://news.walla.co.il/item/3821278
+https://e.walla.co.il/item/3821270
+https://news.walla.co.il/item/3821282
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נרחב-בטהרן-247277
+https://hamal.co.il/main/היועמשית-לבגץ-הוציאו-צו-שימנע-מבן-גביר-לכהן-247279
+https://hamal.co.il/main/השוטר-נדהם-כך-247281
