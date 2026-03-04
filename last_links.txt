@@ -1,4 +1,4 @@
-COUNTER:16
+COUNTER:17
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -228,3 +228,6 @@ https://finance.walla.co.il/item/3821067
 https://finance.walla.co.il/item/3821247
 https://hamal.co.il/main/צהל-עשרות-מפקדות-של-המשטר-האיראני-הותקפו-אתמול--צפו-247251
 https://hamal.co.il/main/צפו-חיילים-איראנים-ניסו-247252
+https://news.walla.co.il/item/3821248
+https://e.walla.co.il/item/3821250
+https://hamal.co.il/main/דיווח-2-כטבמים-תקפו-בסיס-אמריקני-בעיראק-247255
