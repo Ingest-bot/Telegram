@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:8
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -208,3 +208,11 @@ https://hamal.co.il/main/בדקות-הקרובות-אזעקות-צפויות-ב�
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247179
 https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-אזעקות-צפויות-בדקות-הקרובות-247181
 https://news.walla.co.il/item/3821231
+https://news.walla.co.il/item/3821232
+https://news.walla.co.il/item/3821235
+https://news.walla.co.il/item/3821238
+https://news.walla.co.il/item/3821239
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247213
+https://hamal.co.il/main/רהמ-אוסטרליה-אין-הצדקה-לתקיפות-איראן-על-אזורים-אזרחיים-247217
+https://hamal.co.il/main/דיווח-כוחות-כורדים-צפויים-להשתתף-במבצע-קרקעי-במערב-איראן-247218
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-צפויות-אזעקות-במרכז-ובצפון-247220
