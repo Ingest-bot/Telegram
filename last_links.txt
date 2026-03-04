@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:3
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -281,3 +281,8 @@ https://news.walla.co.il/item/3821320
 https://celebs.walla.co.il/item/3821325
 https://hamal.co.il/main/תיעוד-מעין-הטיל-247293
 https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247292
+https://news.walla.co.il/item/3821327
+https://hamal.co.il/main/בסימן-פורים-ההוקרה-של-חברת-המשלוחים-הבינלאומית-בסורוקה-247302
+https://hamal.co.il/main/נתניהו-ליועמשית-בקשתך-מנוגדת-לחוק-בן-גביר-יישאר-בתפקידו-247305
+https://hamal.co.il/main/חריג-דובר-צהל-הוציא-הודעת-פינוי-לכל-תושבי-דרום-לבנון-247307
+https://hamal.co.il/main/פרסום-ראשון-הצבא-האמריקאי-פתח-חמ״ל-בקריה-ממנו-ניהל-את-המלחמ-247308
