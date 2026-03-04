@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:1
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -391,3 +391,6 @@ https://news.walla.co.il/item/3821449
 https://news.walla.co.il/break/3821447
 https://news.walla.co.il/break/3821448
 https://hamal.co.il/main/תיעוד-ראשון-מנקודת-האחיזה-של-צה״ל-בדרום-לבנון-247559
+https://news.walla.co.il/item/3821451
+https://hamal.co.il/main/בניגוד-להנחיות-פיקוד-העורףחגיגות-והתקהלויות-מסוכנות-בירושלים-247564
+https://hamal.co.il/main/תיעוד-ראשון-מהאוויר-מטוסי-קרב-של-חיל-האוויר-בדרך-לאיראן-247563
