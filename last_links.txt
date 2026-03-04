@@ -1,4 +1,4 @@
-COUNTER:7
+COUNTER:9
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -296,3 +296,11 @@ https://travel.walla.co.il/item/3821341
 https://hamal.co.il/main/הממשלה-מאשרת-את-המבצע-להשבת-הישראלים-מחול-247313
 https://hamal.co.il/main/צהל-ממשיך-247317
 https://hamal.co.il/main/הסוד-הרפואי-של-היורש-האיראני-זה-הטיפול-הרגיש-שעבר-בלונדון-247285
+https://news.walla.co.il/item/3821347
+https://e.walla.co.il/item/3821344
+https://news.walla.co.il/item/3821342
+https://news.walla.co.il/item/3821351
+https://finance.walla.co.il/item/3821331
+https://finance.walla.co.il/item/3821348
+https://hamal.co.il/main/הנסיעה-הגורלית-והשינוי-בצהל-247318
+https://hamal.co.il/main/דובר-צה״ל-לעם-האיראני-תוקפים-רק-את-המשטר-247319
