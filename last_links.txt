@@ -1,4 +1,4 @@
-COUNTER:2
+COUNTER:4
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -434,3 +434,9 @@ https://hamal.co.il/main/גורם-ישראלי-האירוע-עם-הכורדים-
 https://news.walla.co.il/blog/3821485
 https://news.walla.co.il/break/3821483
 https://news.walla.co.il/break/3821484
+https://news.walla.co.il/item/3821294
+https://news.walla.co.il/item/3821431
+https://news.walla.co.il/item/3820834
+https://news.walla.co.il/item/3821322
+https://hamal.co.il/main/גבר-בן-29-נפצע-קשה-בירושלים-247625
+https://hamal.co.il/main/דובר-צהל-בערבית-הוציא-התרעת-פינוי-למבנה-בדאחיה-בביירות-247627
