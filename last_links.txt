@@ -1,4 +1,4 @@
-COUNTER:0
+COUNTER:2
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -240,3 +240,7 @@ https://news.walla.co.il/item/3821258
 https://news.walla.co.il/item/3821265
 https://finance.walla.co.il/item/3821252
 https://hamal.co.il/main/פיקוד-העורף-הכטבם-שחדר-לצפון---יורט-בהצלחה-247268
+https://news.walla.co.il/item/3821268
+https://finance.walla.co.il/item/3821264
+https://hamal.co.il/main/צהל-מעביר-אוגדה-נוספת-לגבול-הצפון-247269
+https://hamal.co.il/main/מפקד-פיקוד-הצפון-לראשי-הרשויות-247270
