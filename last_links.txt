@@ -1,4 +1,4 @@
-COUNTER:8
+COUNTER:11
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -256,3 +256,9 @@ https://news.walla.co.il/item/3821282
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נרחב-בטהרן-247277
 https://hamal.co.il/main/היועמשית-לבגץ-הוציאו-צו-שימנע-מבן-גביר-לכהן-247279
 https://hamal.co.il/main/השוטר-נדהם-כך-247281
+https://travel.walla.co.il/item/3821286
+https://news.walla.co.il/item/3821289
+https://finance.walla.co.il/item/3821068
+https://hamal.co.il/main/בן-גביר-על-הודעת-היועמשית-חושבת-שאנחנו-באיראן-247282
+https://hamal.co.il/main/דיווח-צבא-לבנון-הציב-מחסומים-למעקב-אחר-החיזבאללה-247283
+https://hamal.co.il/main/בפעם-הראשונה-בהיסטוריה-F-35-הפיל-מטוס-קרב-איראני-247284
