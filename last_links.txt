@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:3
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -394,3 +394,7 @@ https://hamal.co.il/main/תיעוד-ראשון-מנקודת-האחיזה-של-צ
 https://news.walla.co.il/item/3821451
 https://hamal.co.il/main/בניגוד-להנחיות-פיקוד-העורףחגיגות-והתקהלויות-מסוכנות-בירושלים-247564
 https://hamal.co.il/main/תיעוד-ראשון-מהאוויר-מטוסי-קרב-של-חיל-האוויר-בדרך-לאיראן-247563
+https://news.walla.co.il/item/3821440
+https://news.walla.co.il/break/3821453
+https://hamal.co.il/main/בכירים-אמריקניים-מבהירים-2-ספינות-מלחמה-איראניות-הוטבעו-247572
+https://hamal.co.il/main/הדרמה-בשחקים-איך-זה-שלאיראן-ולישראל-יש-אותו-מטוס-247575
