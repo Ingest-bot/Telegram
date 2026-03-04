@@ -1,4 +1,4 @@
-COUNTER:12
+COUNTER:13
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -220,3 +220,5 @@ https://hamal.co.il/main/אזעקות-הופעלו-בירושלים-והשפלה
 https://hamal.co.il/main/דיווח-ראשוני-רסיסים-נפלו-על-מבנה-באזור-ירושלים-247239
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247242
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-ידוע-על-נפגעים-247243
+https://news.walla.co.il/item/3821229
+https://hamal.co.il/main/התחזית-מעונן-חלקית-עד-בהיר-בערב-יתכן-גשם-מקומי-בצפון-247246
