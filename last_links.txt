@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:4
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -322,3 +322,6 @@ https://news.walla.co.il/item/3821361
 https://hamal.co.il/main/הירי-247364
 https://hamal.co.il/main/אחרי-הירי-לישראל-צהל-תוקף-בלבנון-247365
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-247367
+https://hamal.co.il/main/רסיסים-נפלו-במספר-מוקדים-במרכז-לא-דווח-על-נפגעים-247388
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-247390
+https://hamal.co.il/main/צהל-שדה-התעופה-בטהרן-הותקף-מערכות-ההגנה-הושמדו-247392
