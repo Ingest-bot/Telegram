@@ -65,7 +65,6 @@ def save_history(links_list, counter):
         for link in recent_links:
             f.write(f"{link}\n")
 
-# שימוש ב-is.gd למניעת דפי ביניים
 def get_short_url(long_url):
     try:
         api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
@@ -79,7 +78,6 @@ def get_short_url(long_url):
 async def process_walla(bot, seen_links_set, links_list):
     for category, url in WALLA_FEEDS.items():
         feed = feedparser.parse(url)
-        # לוקחים רק את 5 הפריטים האחרונים למניעת הצפה
         latest_entries = feed.entries[:5]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
@@ -105,23 +103,22 @@ async def process_hamal(seen_links_set, links_list, counter):
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
         feed = feedparser.parse(HAMAL_RSS)
-        # לוקחים רק את 5 הפריטים האחרונים
         latest_entries = feed.entries[:5]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
             short_link = get_short_url(entry.link)
             
-            # ניקוי טקסטואלי של הכותרת
-            clean_title = re.sub(r'<[^>]+>', '', entry.title)
-            clean_title = clean_title.replace("חמ\"ל - חדשות מתפרצות", "")
-            clean_title = clean_title.replace("חמ\"ל חדשות מתפרצות", "")
-            clean_title = clean_title.strip().lstrip(":")
+            # --- ניקוי כותרת אגרסיבי עם Regex ---
+            raw_title = re.sub(r'<[^>]+>', '', entry.title)
+            # מחפש "חמל" או "חמ"ל" עם או בלי מקף/נקודתיים בתחילת המחרוזת
+            clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
+            # ניקוי שאריות של נקודתיים אם נשארו
+            clean_title = clean_title.lstrip(" :")
             
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
-                # התיקון המרכזי: disable_web_page_preview=True יעלים את הכותרת הכתומה בתמונה
                 await hamal_bot.send_message(
                     chat_id=HAMAL_CHAT_ID, 
                     text=message, 
