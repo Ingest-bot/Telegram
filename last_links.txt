@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:13
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -375,3 +375,8 @@ https://hamal.co.il/main/פעילות-רכבת-ישראל-תתרחב-247518
 https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-מתחם-צבאי-של-המשטר-במזרח-טהרן-247511
 https://hamal.co.il/main/אזעקות-בגליל-העליון-247526
 https://hamal.co.il/main/אל-על-מפרסמת-את-לוח-טיסות-החילוץ-לנתב״ג-247527
+https://news.walla.co.il/item/3821442
+https://news.walla.co.il/item/3821439
+https://hamal.co.il/main/עוכבה-לחקירה-אישה-בת-52-בחשד-שתקפה-עיתונאית-ברחבת-הבימה-247529
+https://hamal.co.il/main/ביקורת-נגד-רשתות-המזון-מגמה-של-ביטול-מבצעים-בחסות-המצב״-247486
+https://hamal.co.il/main/מפקד-רמת-דוד-״הטלתי-את-הפצצות-וראיתי-לצידי-עשרות-מטוסי-קרב״-247521
