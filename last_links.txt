@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:17
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -272,3 +272,7 @@ https://news.walla.co.il/item/3821303
 https://e.walla.co.il/item/3821090
 https://hamal.co.il/main/ישיר-הצהרת-דובר-צהל-247275
 https://hamal.co.il/main/דיווח-בנו-של-חמינאי-שרד-את-ניסיון-החיסול---וימונה-247287
+https://e.walla.co.il/item/3821307
+https://hamal.co.il/main/מחוסר-ביטחון-כלכלי-לחרדה-למה-מיצוי-זכויות-הוא-צורך-חיוני-247288
+https://hamal.co.il/main/תיעוד-דרמטי-מסתערבים-עוצרים-מחבל-נמלט-בלב-גנין-247289
+https://hamal.co.il/main/דרמה-בסרי-לנקה-ספינה-איראנית-הותקפה-מעל-100-נעדרים-בזירה-247290
