@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:0
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -235,3 +235,8 @@ https://news.walla.co.il/item/3821255
 https://e.walla.co.il/item/3821256
 https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247264
 https://hamal.co.il/main/צהל-תוקפים-מטרות-של-החיזבאללה-בביירות-247265
+https://news.walla.co.il/item/3821152
+https://news.walla.co.il/item/3821258
+https://news.walla.co.il/item/3821265
+https://finance.walla.co.il/item/3821252
+https://hamal.co.il/main/פיקוד-העורף-הכטבם-שחדר-לצפון---יורט-בהצלחה-247268
