@@ -1,4 +1,4 @@
-COUNTER:15
+COUNTER:18
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -382,3 +382,8 @@ https://hamal.co.il/main/ביקורת-נגד-רשתות-המזון-מגמה-של
 https://hamal.co.il/main/מפקד-רמת-דוד-״הטלתי-את-הפצצות-וראיתי-לצידי-עשרות-מטוסי-קרב״-247521
 https://hamal.co.il/main/בלבנון-מדווחים-72-הרוגים-ו-437-פצועים-מתחילת-התקיפות-247530
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לישראל-247533
+https://news.walla.co.il/item/3821444
+https://news.walla.co.il/break/3821445
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247545
+https://hamal.co.il/main/גם-בחזית-הצפונית-פצצת-מצרר-אותרה-במטולה-247552
+https://hamal.co.il/main/מד״א-אין-דיווחים-על-נפגעים-במטח-האחרון-247556
