@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:1
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -355,3 +355,10 @@ https://hamal.co.il/main/אזעקות-מופעלות-ברחבי-הארץ-247472
 https://hamal.co.il/main/אין-נפגעים-במטח-האחרון-דיווח-על-מספר-שברי-יירוט-בירושלים-247475
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247477
 https://hamal.co.il/main/טורקיה-יירטה-לראשונה-טיל-מאיראן-שומרים-את-הזכות-להגיב-247480
+https://news.walla.co.il/item/3821412
+https://news.walla.co.il/item/3821422
+https://news.walla.co.il/item/3821409
+https://news.walla.co.il/break/3821423
+https://hamal.co.il/main/חיזבאללה-ממשיך-לירות-אזעקות-הופעלו-באיזור-קריית-שמונה-247492
+https://hamal.co.il/main/חיל-האוויר-תקף-עם-יותר-מ-5000-חימושים-באיראן-247490
+https://hamal.co.il/main/מפקד-בסיס-נבטים-על-הפלת-המטוס-״מי-שיפריע-לנו---דמו-בראשו״-247411
