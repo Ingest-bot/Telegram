@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:5
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -440,3 +440,4 @@ https://news.walla.co.il/item/3820834
 https://news.walla.co.il/item/3821322
 https://hamal.co.il/main/גבר-בן-29-נפצע-קשה-בירושלים-247625
 https://hamal.co.il/main/דובר-צהל-בערבית-הוציא-התרעת-פינוי-למבנה-בדאחיה-בביירות-247627
+https://hamal.co.il/main/באיראן-מכחישים-את-פעולת-הכורדים-לוחמה-פסיכולוגית-247628
