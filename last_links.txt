@@ -1,4 +1,4 @@
-COUNTER:13
+COUNTER:14
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -222,3 +222,4 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-ידוע-על-נפגעים-247243
 https://news.walla.co.il/item/3821229
 https://hamal.co.il/main/התחזית-מעונן-חלקית-עד-בהיר-בערב-יתכן-גשם-מקומי-בצפון-247246
+https://hamal.co.il/main/לוחמי-האש-פעלו-בזירת-נפילה-בחצור-הגלילית-לאחר-המטח-לצפון-247249
