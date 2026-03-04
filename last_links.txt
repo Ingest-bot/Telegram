@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:7
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -290,3 +290,9 @@ https://news.walla.co.il/item/3821336
 https://celebs.walla.co.il/item/3821332
 https://celebs.walla.co.il/item/3821333
 https://hamal.co.il/main/תקף-מרחוק-בלי-שזוהה-כך-הופל-המטוס-האיראני-מעל-טהרן-247309
+https://news.walla.co.il/item/3821338
+https://news.walla.co.il/item/3821340
+https://travel.walla.co.il/item/3821341
+https://hamal.co.il/main/הממשלה-מאשרת-את-המבצע-להשבת-הישראלים-מחול-247313
+https://hamal.co.il/main/צהל-ממשיך-247317
+https://hamal.co.il/main/הסוד-הרפואי-של-היורש-האיראני-זה-הטיפול-הרגיש-שעבר-בלונדון-247285
