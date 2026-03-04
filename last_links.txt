@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:5
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -246,3 +246,6 @@ https://hamal.co.il/main/צהל-מעביר-אוגדה-נוספת-לגבול-הצ
 https://hamal.co.il/main/מפקד-פיקוד-הצפון-לראשי-הרשויות-247270
 https://hamal.co.il/main/בצהל-מזהים-247253
 https://hamal.co.il/main/מפקד-פיקוד-העורף-בחיפה-247271
+https://travel.walla.co.il/item/3821274
+https://tech.walla.co.il/item/3821275
+https://hamal.co.il/main/כטבם-התפוצץ-בצפון-ללא-התראה-247276
