@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:6
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -444,3 +444,5 @@ https://hamal.co.il/main/באיראן-מכחישים-את-פעולת-הכורד�
 https://news.walla.co.il/break/3821488
 https://news.walla.co.il/break/3821489
 https://news.walla.co.il/break/3821491
+https://news.walla.co.il/break/3821492
+https://hamal.co.il/main/ניסיון-חיסול-בלבנון-מדווחים-על-תקיפת-דירה-בדאחיה-ללא-אזהרה-247633
