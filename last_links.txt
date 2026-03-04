@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:1
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -318,3 +318,7 @@ https://hamal.co.il/main/הירי-מאיראן-ולבנון-הדי-פיצוצי�
 https://hamal.co.il/main/הירי-מאיראן-ולבנון-דיווחים-על-נפילות-במרכז-247360
 https://hamal.co.il/main/מדא-על-הירי-לעבר-ישראל-בשלב-זה-לא-דווח-על-נפגעים-247361
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-247363
+https://news.walla.co.il/item/3821361
+https://hamal.co.il/main/הירי-247364
+https://hamal.co.il/main/אחרי-הירי-לישראל-צהל-תוקף-בלבנון-247365
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-247367
