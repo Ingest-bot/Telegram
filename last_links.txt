@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:19
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -276,3 +276,8 @@ https://e.walla.co.il/item/3821307
 https://hamal.co.il/main/מחוסר-ביטחון-כלכלי-לחרדה-למה-מיצוי-זכויות-הוא-צורך-חיוני-247288
 https://hamal.co.il/main/תיעוד-דרמטי-מסתערבים-עוצרים-מחבל-נמלט-בלב-גנין-247289
 https://hamal.co.il/main/דרמה-בסרי-לנקה-ספינה-איראנית-הותקפה-מעל-100-נעדרים-בזירה-247290
+https://news.walla.co.il/item/3821316
+https://news.walla.co.il/item/3821320
+https://celebs.walla.co.il/item/3821325
+https://hamal.co.il/main/תיעוד-מעין-הטיל-247293
+https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247292
