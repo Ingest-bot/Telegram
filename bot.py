@@ -6,11 +6,13 @@ import requests
 from telegram import Bot
 
 # --- הגדרות ---
+# הוספתי את מבזקי וואלה (feed 22) לרשימה
 WALLA_FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
     "סלבס": "https://rss.walla.co.il/feed/22?type=main",
     "כסף": "https://rss.walla.co.il/feed/2?type=main",
-    "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main"
+    "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main",
+    "מבזקים": "https://rss.walla.co.il/feed/22" # הפיד החדש שביקשת
 }
 HAMAL_RSS = "https://public-api.hamal.co.il/rss"
 
@@ -65,7 +67,6 @@ def save_history(links_list, counter):
         for link in recent_links:
             f.write(f"{link}\n")
 
-# החלפה ל-is.gd כדי למנוע דפי ביניים (Interstitial pages)
 def get_short_url(long_url):
     try:
         api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
@@ -79,7 +80,11 @@ def get_short_url(long_url):
 async def process_walla(bot, seen_links_set, links_list):
     for category, url in WALLA_FEEDS.items():
         feed = feedparser.parse(url)
-        new_entries = [e for e in feed.entries if e.link not in seen_links_set]
+        # לוקחים רק את 5 הפריטים הראשונים (הכי חדשים) בפיד
+        latest_entries = feed.entries[:5] 
+        
+        # מסננים כאלו שכבר ראינו
+        new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
             caption = f"{RLE}{RLM}<b>{entry.title}</b>{PDF}\n\n{entry.link}"
@@ -103,16 +108,18 @@ async def process_hamal(seen_links_set, links_list, counter):
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
         feed = feedparser.parse(HAMAL_RSS)
-        new_entries = [e for e in feed.entries if e.link not in seen_links_set]
+        # לוקחים רק את 5 הפריטים הראשונים (הכי חדשים) בפיד של חמ"ל
+        latest_entries = feed.entries[:5]
+        
+        new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
             short_link = get_short_url(entry.link)
             
-            # --- ניקוי הכותרת של חמ"ל ---
-            clean_title = re.sub(r'<[^>]+>', '', entry.title) # הסרת תגיות HTML
+            clean_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = clean_title.replace("חמ\"ל - חדשות מתפרצות", "")
-            clean_title = clean_title.replace("חמ\"ל חדשות מתפרצות", "") # למקרה שאין מקף
-            clean_title = clean_title.strip().lstrip(":") # הסרת נקודתיים אם נשארו בתחילה
+            clean_title = clean_title.replace("חמ\"ל חדשות מתפרצות", "")
+            clean_title = clean_title.strip().lstrip(":")
             
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
@@ -121,7 +128,6 @@ async def process_hamal(seen_links_set, links_list, counter):
                 
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
-                
                 counter += 1
                 
                 if counter >= PROMO_EVERY_X_MESSAGES:
