@@ -1,4 +1,4 @@
-COUNTER:8
+COUNTER:10
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -373,3 +373,5 @@ https://news.walla.co.il/break/3821433
 https://hamal.co.il/main/בן-גביר-מגיב-ליועמ״שית-״בזמן-מלחמה-היא-רוצה-להפיל-את-המשטר״-247517
 https://hamal.co.il/main/פעילות-רכבת-ישראל-תתרחב-247518
 https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-מתחם-צבאי-של-המשטר-במזרח-טהרן-247511
+https://hamal.co.il/main/אזעקות-בגליל-העליון-247526
+https://hamal.co.il/main/אל-על-מפרסמת-את-לוח-טיסות-החילוץ-לנתב״ג-247527
