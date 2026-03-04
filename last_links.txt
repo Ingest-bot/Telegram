@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:6
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -402,3 +402,6 @@ https://news.walla.co.il/item/3821456
 https://news.walla.co.il/item/3821454
 https://news.walla.co.il/break/3821457
 https://hamal.co.il/main/תיעוד-מסיבת-רחוב-המונית-בירושלים-בניגוד-להנחיות-247577
+https://news.walla.co.il/item/3821455
+https://hamal.co.il/main/נכנעה-לאיום-247580
+https://hamal.co.il/main/ציוד-ההגברה-הוחרם-המשטרה-פועלת-לפיזור-מסיבת-הרחוב-בירושלים-247581
