@@ -6,13 +6,11 @@ import requests
 from telegram import Bot
 
 # --- הגדרות ---
-# הוספתי את מבזקי וואלה (feed 22) לרשימה
 WALLA_FEEDS = {
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
-    "סלבס": "https://rss.walla.co.il/feed/22?type=main",
-    "כסף": "https://rss.walla.co.il/feed/2?type=main",
-    "טכנולוגיה": "https://rss.walla.co.il/feed/6?type=main",
-    "מבזקים": "https://rss.walla.co.il/feed/22" # הפיד החדש שביקשת
+    "סלבס": "https://rss.walla.co.il/feed/22",
+    "כסף": "https://rss.walla.co.il/feed/2",
+    "טכנולוגיה": "https://rss.walla.co.il/feed/6"
 }
 HAMAL_RSS = "https://public-api.hamal.co.il/rss"
 
@@ -67,6 +65,7 @@ def save_history(links_list, counter):
         for link in recent_links:
             f.write(f"{link}\n")
 
+# שימוש ב-is.gd למניעת דפי ביניים
 def get_short_url(long_url):
     try:
         api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
@@ -80,10 +79,8 @@ def get_short_url(long_url):
 async def process_walla(bot, seen_links_set, links_list):
     for category, url in WALLA_FEEDS.items():
         feed = feedparser.parse(url)
-        # לוקחים רק את 5 הפריטים הראשונים (הכי חדשים) בפיד
-        latest_entries = feed.entries[:5] 
-        
-        # מסננים כאלו שכבר ראינו
+        # לוקחים רק את 5 הפריטים האחרונים למניעת הצפה
+        latest_entries = feed.entries[:5]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
@@ -108,14 +105,14 @@ async def process_hamal(seen_links_set, links_list, counter):
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
         feed = feedparser.parse(HAMAL_RSS)
-        # לוקחים רק את 5 הפריטים הראשונים (הכי חדשים) בפיד של חמ"ל
+        # לוקחים רק את 5 הפריטים האחרונים
         latest_entries = feed.entries[:5]
-        
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
             short_link = get_short_url(entry.link)
             
+            # ניקוי טקסטואלי של הכותרת
             clean_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = clean_title.replace("חמ\"ל - חדשות מתפרצות", "")
             clean_title = clean_title.replace("חמ\"ל חדשות מתפרצות", "")
@@ -124,7 +121,13 @@ async def process_hamal(seen_links_set, links_list, counter):
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
-                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                # התיקון המרכזי: disable_web_page_preview=True יעלים את הכותרת הכתומה בתמונה
+                await hamal_bot.send_message(
+                    chat_id=HAMAL_CHAT_ID, 
+                    text=message, 
+                    parse_mode='HTML', 
+                    disable_web_page_preview=True
+                )
                 
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
