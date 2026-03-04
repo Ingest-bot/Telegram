@@ -1,4 +1,4 @@
-COUNTER:2
+COUNTER:5
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -365,3 +365,6 @@ https://hamal.co.il/main/מפקד-בסיס-נבטים-על-הפלת-המטוס-�
 https://news.walla.co.il/item/3821425
 https://news.walla.co.il/break/3821427
 https://hamal.co.il/main/כ״ץ-חושף-המבצע-באיראן-תוכנן-לאמצע-השנה-הקדמנו-אותו-247500
+https://hamal.co.il/main/התחננו-על-נפשם-זוג-בני-70-סורבו-כניסה-למקלט-בקריית-ביאליק-247508
+https://hamal.co.il/main/עמותת-משפחה-אחת-מתגברת-את-קו-הסיוע-למשפחות-שכולות-247510
+https://hamal.co.il/main/משגר-טעון-הושמד-במערב-איראן-תיעוד-ממטוס-הקרב-״אדיר״-247509
