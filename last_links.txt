@@ -1,4 +1,4 @@
-COUNTER:12
+COUNTER:16
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -415,3 +415,8 @@ https://news.walla.co.il/break/3821468
 https://hamal.co.il/main/דיווח-מלאי-הטילים-הבליסטיים-של-איראן-הולך-ואוזל-247586
 https://hamal.co.il/main/צהל-תוקף-תשתיות-של-משטר-הטרור-האיראני-ברחבי-טהרן-247594
 https://hamal.co.il/main/עשרות-מערכות-טילים-בליסטיים-והגנה-הותקפו-היום-במערב-ובמרכז-א-247595
+https://news.walla.co.il/item/3821471
+https://hamal.co.il/main/טראמפ-כשאנשים-משוגעים-מחזיקים-בנשק-גרעיני-דברים-רעים-קורים-247596
+https://hamal.co.il/main/תקיפה-בדאחייה-היעד---אחראי-ניהול-האש-בחיזבאללה-247598
+https://hamal.co.il/main/אזעקות-בגליל-העליון-עקב-חדירת-כלי-טיס-עוין-247606
+https://hamal.co.il/main/ממחר-הקלה-בהנחיות-פיקוד-העורף-247609
