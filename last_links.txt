@@ -1,10 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/צפו-הצהרת-דובר-צהל--ישיר-247070
-https://tech.walla.co.il/item/3821030
-https://travel.walla.co.il/item/3820888
-https://celebs.walla.co.il/item/3820468
-https://finance.walla.co.il/item/3820776
-https://celebs.walla.co.il/item/3821125
+COUNTER:4
 https://news.walla.co.il/item/3820910
 https://celebs.walla.co.il/item/3820872
 https://celebs.walla.co.il/item/3820922
@@ -499,3 +493,9 @@ https://hamal.co.il/main/תושבי-הדאחייה-קיבלו-הודעת-פינ�
 https://hamal.co.il/main/לופטהנזה-משעה-שוב-את-טיסותיה-לישראל-זה-התאריך-החדש-247825
 https://hamal.co.il/main/הקבינט-הלבנוני-החליט-אזרחים-איראנים-ידרשו-בוויזה-247826
 https://hamal.co.il/main/כוחות-משטרה-במרדף-בצפון-אחר-חשוד-שמתכנן-לבצע-פיגוע-247827
+https://news.walla.co.il/item/3821641
+https://news.walla.co.il/item/3821646
+https://news.walla.co.il/item/3821647
+https://e.walla.co.il/item/3821648
+https://news.walla.co.il/break/3821635
+https://hamal.co.il/main/תיעוד-ראשון-247828
