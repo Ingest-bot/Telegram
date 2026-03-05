@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/ברקע-מבצע-׳שאגת-הארי׳-כוחות-צה״ל-מחטיבת-יהודה-ממשיכים-בפעיל-247100
-https://news.walla.co.il/item/3821198
-https://celebs.walla.co.il/item/3821215
-https://finance.walla.co.il/item/3821214
+COUNTER:3
 https://hamal.co.il/main/טראמפ-הצי-האמריקני-יחל-ללוות-מכליות-דרך-מצר-הורמוז-בהקדם-ה-247101
 https://hamal.co.il/main/צה״ל-חושף-חיל-האוויר-הוציא-מכלל-שימוש-כ-300-משגרי-טילים-מת-247102
 https://hamal.co.il/main/רוביו-מאשר-את-פגיעת-הכטבמ-לפני-שנעמדתי-מול-המצלמות-הללו-נמ-247103
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווח-על-פגיעת-רסיסים-במבנה-במ
 https://news.walla.co.il/blog/3821752
 https://news.walla.co.il/break/3821757
 https://hamal.co.il/main/טראמפ-בבית-הלבן--248028
+https://news.walla.co.il/item/3820511
+https://news.walla.co.il/item/3821759
+https://hamal.co.il/main/להבות-ועשן-שחור-הכוחות-מנסים-להשתלט-על-הזירה-הבוערת-במרכז-248032
+https://hamal.co.il/main/דקה-אחר-דקה-רגעי-נפילת-הטיל-במרכז-248035
