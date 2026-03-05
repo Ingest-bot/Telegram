@@ -1,5 +1,4 @@
-COUNTER:4
-https://finance.walla.co.il/item/3821219
+COUNTER:5
 https://hamal.co.il/main/אזעקות-צפויות-להתקבל-בקרוב-עקב-שיגורים-מאיראן-247109
 https://hamal.co.il/main/מועצת-המומחי-בחרו-במוגטאבה-חמינאי-בנו-של-חמינאי-כמנהיג-הבא-247110
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-ובשפלה-247117
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3821758
 https://news.walla.co.il/break/3821763
 https://news.walla.co.il/break/3821764
 https://hamal.co.il/main/מזכיר-ההגנה-האמריקני--248036
+https://hamal.co.il/main/כעת-אזעקות-הופעלו-במטולה-248039
