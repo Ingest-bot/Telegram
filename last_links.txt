@@ -1,7 +1,4 @@
-COUNTER:13
-https://celebs.walla.co.il/item/3820303
-https://hamal.co.il/main/נתניהו-בביקור-פצועים-מאירוע-הנפילה-בבית-שמש-אני-נפעם-מהלכי-247032
-https://e.walla.co.il/item/3820908
+COUNTER:15
 https://news.walla.co.il/item/3821092
 https://celebs.walla.co.il/item/3821172
 https://finance.walla.co.il/item/3820849
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-דרמטי-מחסן-טילים-ותחמוש�
 https://news.walla.co.il/item/3821664
 https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-החל-לתקוף-בדאחייה-דרום-ביירות-247841
 https://hamal.co.il/main/צהל-חושף-זה-מספר-משגרי-הטילים-של-איראן-שהוצאנו-משימוש-247843
+https://news.walla.co.il/break/3821669
+https://hamal.co.il/main/בריטניה-נשלח-מטוסי-קרב-לקטאר-בשל-התקיפות-האיראניות-247844
+https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיראן-247846
