@@ -1,6 +1,4 @@
-COUNTER:16
-https://finance.walla.co.il/item/3820370
-https://news.walla.co.il/item/3821148
+COUNTER:17
 https://e.walla.co.il/item/3820933
 https://news.walla.co.il/item/3820764
 https://finance.walla.co.il/item/3821061
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3821727
 https://hamal.co.il/main/נשיא-צרפת-קורא-לנתניהו-לא-להרחיב-את-המלחמה-ללבנון-247913
 https://hamal.co.il/main/הפקת-מידע-247908
 https://hamal.co.il/main/המלל-מבקש-מישראלים-בחול-לגלות-ערנות-מוגברת-247917
+https://news.walla.co.il/break/3821729
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-247919
