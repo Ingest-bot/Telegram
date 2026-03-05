@@ -1,9 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3820910
-https://celebs.walla.co.il/item/3820872
-https://celebs.walla.co.il/item/3820922
-https://hamal.co.il/main/המטה-לביטחון-לאומי-מומלץ-להגיע-ישירות-משדה-התעופה-למעבר-טאבה-247067
-https://hamal.co.il/main/צהל-מזהיר-את-נציגי-משטר-הטרור-האיראני-בלבנון-לעזוב-מייד-בטר-247065
+COUNTER:8
 https://tech.walla.co.il/item/3820597
 https://news.walla.co.il/item/3821195
 https://finance.walla.co.il/item/3821101
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3821647
 https://e.walla.co.il/item/3821648
 https://news.walla.co.il/break/3821635
 https://hamal.co.il/main/תיעוד-ראשון-247828
+https://news.walla.co.il/item/3821650
+https://hamal.co.il/main/בא-לשגר---ומתפוצץ-תיעוד-מטורף-מתקיפות-ארצות-הברית-באיראן-247830
+https://hamal.co.il/main/אברי-גלעד-משנה-כיוון-זאת-הממשלה-שאעדיף-247775
+https://hamal.co.il/main/רובוטים-בלבנון-ובינה-מלאכותית-247831
+https://hamal.co.il/main/המונים-בורחים-מהדאחיה-אחרי-האזהרה-של-צהל-247834
