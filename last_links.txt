@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:4
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -489,3 +489,8 @@ https://news.walla.co.il/break/3821532
 https://hamal.co.il/main/באמצע-מלחמה-משרד-הביטחון-רוכש-רכבים-קרביים-ב-26-מיליון-דולר-247724
 https://travel.walla.co.il/item/3821540
 https://news.walla.co.il/break/3821546
+https://news.walla.co.il/item/3821548
+https://news.walla.co.il/break/3821547
+https://hamal.co.il/main/תיעוד-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-השונות-247727
+https://hamal.co.il/main/יעקב-עמידרור-מעריך-זה-הזמן-שיקח-להכניע-את-איראן-247730
+https://hamal.co.il/main/״המטרה-נפלה״-תיעוד-ראשון-מהפלת-מטוס-הקרב-האיראני-247735
