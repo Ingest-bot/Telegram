@@ -1,12 +1,4 @@
-COUNTER:5
-https://finance.walla.co.il/item/3820887
-https://news.walla.co.il/item/3821038
-https://hamal.co.il/main/מה-קורה-לגוף-שלנו-כשאנחנו-תקועים-בשגרת-חירום-עודכן-לאחרונ-247048
-https://tech.walla.co.il/item/3821171
-https://news.walla.co.il/item/3821055
-https://celebs.walla.co.il/item/3820433
-https://tech.walla.co.il/item/3820176
-https://finance.walla.co.il/item/3820757
+COUNTER:9
 https://news.walla.co.il/item/3820818
 https://finance.walla.co.il/item/3820803
 https://finance.walla.co.il/item/3820825
@@ -499,3 +491,11 @@ https://hamal.co.il/main/הושלם-גל-תקיפה-רחב-של-כ-200-מטרו�
 https://news.walla.co.il/item/3821737
 https://news.walla.co.il/break/3821739
 https://news.walla.co.il/break/3821738
+https://news.walla.co.il/item/3821743
+https://news.walla.co.il/item/3821745
+https://news.walla.co.il/item/3821744
+https://news.walla.co.il/break/3821740
+https://hamal.co.il/main/המטה-לביטחון-לאומי-בהבהרה-לציבור-הישראלי-השוהה-בחול-247964
+https://hamal.co.il/main/טאקר-קרלסון-חבד-עומד-מאחורי-התקיפה-באיראן-247872
+https://hamal.co.il/main/מפקד-חטיבת-גבעתי-על-חיסול-מחבל-החיזבאללה-סגירת-מעגל-247968
+https://hamal.co.il/main/סילמן-לטראמפ-תטיל-סנקציות-על-היועמשית-ונשיא-העליון-247970
