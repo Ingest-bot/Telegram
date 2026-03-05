@@ -1,7 +1,4 @@
-COUNTER:1
-https://tech.walla.co.il/item/3819708
-https://celebs.walla.co.il/item/3820854
-https://celebs.walla.co.il/item/3820807
+COUNTER:4
 https://hamal.co.il/main/טראמפ-לאיראן-נגמרים-משגרי-הטילים-עידן-קוולר-נשיא-ארצות-247034
 https://travel.walla.co.il/item/3821041
 https://finance.walla.co.il/item/3820373
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/הצהרת-הרמטכל-אייל-זמיר--שידור-ישיר-247922
 https://hamal.co.il/main/צהל-חיסל-את-מפקד-ניהול-כוח-האש-של-חיזבאללה-בביירות-247944
 https://hamal.co.il/main/אזעקות-בטבריה-והסביבה-247947
+https://hamal.co.il/main/אזעקות-בחיפה-247955
+https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-247956
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-247958
