@@ -1,10 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3821092
-https://celebs.walla.co.il/item/3821172
-https://finance.walla.co.il/item/3820849
-https://news.walla.co.il/item/3821136
-https://celebs.walla.co.il/item/3821161
-https://celebs.walla.co.il/item/3821099
+COUNTER:19
 https://travel.walla.co.il/item/3821178
 https://tech.walla.co.il/item/3820123
 https://celebs.walla.co.il/item/3821150
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צהל-חושף-זה-מספר-משגרי-הטילים-�
 https://news.walla.co.il/break/3821669
 https://hamal.co.il/main/בריטניה-נשלח-מטוסי-קרב-לקטאר-בשל-התקיפות-האיראניות-247844
 https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיראן-247846
+https://travel.walla.co.il/item/3821677
+https://news.walla.co.il/break/3821676
+https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-ידוע-על-נפגעים-247868
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247870
+https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247291
+https://hamal.co.il/main/אזרבייג׳ן-סוגרת-את-המרחב-האווירי-שלה-סמוך-לגבול-עם-איראן-247874
