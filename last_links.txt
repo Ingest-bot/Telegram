@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:18
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -474,3 +474,5 @@ https://news.walla.co.il/break/3821514
 https://hamal.co.il/main/אלה-הסימנים-מהתנך-שהמלחמה-עם-איראן-היא-תחילת-גוג-ומגוג-247708
 https://hamal.co.il/main/בצה״ל-ממשיכים-לעבות-247710
 https://hamal.co.il/main/חשד-לחדירת-כלי-טיס-עוין-בערבה-247713
+https://news.walla.co.il/item/3821519
+https://hamal.co.il/main/חוזרים-הביתה-טיסות-החילוץ-הראשונות-נחתו-הבוקר-בנתב״ג-247720
