@@ -1,9 +1,4 @@
-COUNTER:17
-https://e.walla.co.il/item/3820933
-https://news.walla.co.il/item/3820764
-https://finance.walla.co.il/item/3821061
-https://news.walla.co.il/item/3821011
-https://news.walla.co.il/item/3821119
+COUNTER:1
 https://tech.walla.co.il/item/3819708
 https://celebs.walla.co.il/item/3820854
 https://celebs.walla.co.il/item/3820807
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הפקת-מידע-247908
 https://hamal.co.il/main/המלל-מבקש-מישראלים-בחול-לגלות-ערנות-מוגברת-247917
 https://news.walla.co.il/break/3821729
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-247919
+https://news.walla.co.il/item/3821732
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247937
+https://hamal.co.il/main/הצהרת-הרמטכל-אייל-זמיר--שידור-ישיר-247922
+https://hamal.co.il/main/צהל-חיסל-את-מפקד-ניהול-כוח-האש-של-חיזבאללה-בביירות-247944
+https://hamal.co.il/main/אזעקות-בטבריה-והסביבה-247947
