@@ -1,10 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3821096
-https://celebs.walla.co.il/item/3820768
-https://hamal.co.il/main/נשיא-ארהב-על-ההפגנות-באיראן-מאוד-מסוכן-בחוץ-הרבה-פצצות-מ-247044
-https://tech.walla.co.il/item/3819683
-https://tech.walla.co.il/item/3819374
-https://tech.walla.co.il/item/3819923
+COUNTER:6
 https://hamal.co.il/main/אוקראינה-חוששת-מלחמה-ממושכת-באיראן-תשבש-את-אספקת-הנשק-סוכנו-247047
 https://travel.walla.co.il/item/3821060
 https://tech.walla.co.il/item/3819915
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3821687
 https://news.walla.co.il/break/3821683
 https://hamal.co.il/main/משרד-החינוך-מעדכן-המשך-מתווה-הלמידה-בתחילת-השבוע-247879
 https://hamal.co.il/main/הרצוג-ממשלת-לבנון-נקטה-בצעד-אמיץ-247886
+https://news.walla.co.il/item/3821694
+https://news.walla.co.il/item/3821696
+https://news.walla.co.il/break/3821695
+https://hamal.co.il/main/דיווחים-מתקני-נפט-בבחריין-הותקפו-פיצוצים-בדובאי-247889
+https://hamal.co.il/main/בפעם-השנייה-היום-חיל-האוויר-החל-לתקוף-תשתיות-בטהרן-247890
+https://hamal.co.il/main/כך-הפכו-ערי-הטילים-של-איראן-247782
