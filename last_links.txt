@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:0
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -476,3 +476,8 @@ https://hamal.co.il/main/בצה״ל-ממשיכים-לעבות-247710
 https://hamal.co.il/main/חשד-לחדירת-כלי-טיס-עוין-בערבה-247713
 https://news.walla.co.il/item/3821519
 https://hamal.co.il/main/חוזרים-הביתה-טיסות-החילוץ-הראשונות-נחתו-הבוקר-בנתב״ג-247720
+https://news.walla.co.il/item/3821526
+https://e.walla.co.il/item/3821522
+https://news.walla.co.il/item/3821529
+https://hamal.co.il/main/כוחותינו-עצרו-פעיל-תנזים-247714
+https://hamal.co.il/main/מגמת-השיגורים-האיראנים-יורדת-אבל-עולה-מחיזבאללה-247722
