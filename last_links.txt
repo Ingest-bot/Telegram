@@ -1,8 +1,4 @@
-COUNTER:13
-https://finance.walla.co.il/item/3821048
-https://finance.walla.co.il/item/3821024
-https://tech.walla.co.il/item/3821182
-https://news.walla.co.il/item/3821076
+COUNTER:16
 https://finance.walla.co.il/item/3820370
 https://news.walla.co.il/item/3821148
 https://e.walla.co.il/item/3820933
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3821716
 https://news.walla.co.il/item/3821709
 https://news.walla.co.il/break/3821719
 https://hamal.co.il/main/המצוד-אחר-חמינאי-כך-התנהל-המעקב-לפני-פתיחת-המערכה--חשיפה-247911
+https://news.walla.co.il/break/3821727
+https://hamal.co.il/main/נשיא-צרפת-קורא-לנתניהו-לא-להרחיב-את-המלחמה-ללבנון-247913
+https://hamal.co.il/main/הפקת-מידע-247908
+https://hamal.co.il/main/המלל-מבקש-מישראלים-בחול-לגלות-ערנות-מוגברת-247917
