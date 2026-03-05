@@ -1,7 +1,4 @@
-COUNTER:19
-https://travel.walla.co.il/item/3821178
-https://tech.walla.co.il/item/3820123
-https://celebs.walla.co.il/item/3821150
+COUNTER:1
 https://tech.walla.co.il/item/3819914
 https://hamal.co.il/main/מנכל-משרד-הבריאות-בביקור-חיזוק-בברזילי-מעריך-את-העמידה-ה-247066
 https://hamal.co.il/main/האזעקות-נמשכות-הכטבם-חג-בשמי-הגליל-המערבי-247091
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-ידוע-על-נ
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247870
 https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247291
 https://hamal.co.il/main/אזרבייג׳ן-סוגרת-את-המרחב-האווירי-שלה-סמוך-לגבול-עם-איראן-247874
+https://news.walla.co.il/break/3821678
+https://hamal.co.il/main/בתקיפה-מהים-247875
+https://hamal.co.il/main/צהל-נערך-למ-247876
