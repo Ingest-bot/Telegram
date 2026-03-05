@@ -1,8 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/טראמפ-הצי-האמריקני-יחל-ללוות-מכליות-דרך-מצר-הורמוז-בהקדם-ה-247101
-https://hamal.co.il/main/צה״ל-חושף-חיל-האוויר-הוציא-מכלל-שימוש-כ-300-משגרי-טילים-מת-247102
-https://hamal.co.il/main/רוביו-מאשר-את-פגיעת-הכטבמ-לפני-שנעמדתי-מול-המצלמות-הללו-נמ-247103
-https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-247106
+COUNTER:4
 https://finance.walla.co.il/item/3821219
 https://hamal.co.il/main/אזעקות-צפויות-להתקבל-בקרוב-עקב-שיגורים-מאיראן-247109
 https://hamal.co.il/main/מועצת-המומחי-בחרו-במוגטאבה-חמינאי-בנו-של-חמינאי-כמנהיג-הבא-247110
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3820511
 https://news.walla.co.il/item/3821759
 https://hamal.co.il/main/להבות-ועשן-שחור-הכוחות-מנסים-להשתלט-על-הזירה-הבוערת-במרכז-248032
 https://hamal.co.il/main/דקה-אחר-דקה-רגעי-נפילת-הטיל-במרכז-248035
+https://news.walla.co.il/item/3821758
+https://news.walla.co.il/break/3821763
+https://news.walla.co.il/break/3821764
+https://hamal.co.il/main/מזכיר-ההגנה-האמריקני--248036
