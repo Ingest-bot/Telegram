@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3820818
-https://finance.walla.co.il/item/3820803
-https://finance.walla.co.il/item/3820825
-https://hamal.co.il/main/דיווחים-על-פיצוצים-באבו-דאבי-דובאי-ודוחה-247037
-https://finance.walla.co.il/item/3821007
-https://finance.walla.co.il/item/3820572
+COUNTER:12
 https://celebs.walla.co.il/item/3821074
 https://finance.walla.co.il/item/3820875
 https://celebs.walla.co.il/item/3821072
@@ -499,3 +493,9 @@ https://hamal.co.il/main/המטה-לביטחון-לאומי-בהבהרה-לצי�
 https://hamal.co.il/main/טאקר-קרלסון-חבד-עומד-מאחורי-התקיפה-באיראן-247872
 https://hamal.co.il/main/מפקד-חטיבת-גבעתי-על-חיסול-מחבל-החיזבאללה-סגירת-מעגל-247968
 https://hamal.co.il/main/סילמן-לטראמפ-תטיל-סנקציות-על-היועמשית-ונשיא-העליון-247970
+https://e.walla.co.il/item/3821662
+https://news.walla.co.il/item/3821697
+https://news.walla.co.il/break/3821747
+https://hamal.co.il/main/צהל-קצין-ולוחם-בחטיבת-גבעתי-נפצעו-קשה-ובינוני-בקרב-בלבנון-247971
+https://hamal.co.il/main/קבלו-את-מישל-שיר-האירוויזיון-הישראלי-של-נועם-בתן-נחשף-247974
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-247976
