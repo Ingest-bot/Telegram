@@ -1,4 +1,4 @@
-COUNTER:0
+COUNTER:1
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -481,3 +481,9 @@ https://e.walla.co.il/item/3821522
 https://news.walla.co.il/item/3821529
 https://hamal.co.il/main/כוחותינו-עצרו-פעיל-תנזים-247714
 https://hamal.co.il/main/מגמת-השיגורים-האיראנים-יורדת-אבל-עולה-מחיזבאללה-247722
+https://news.walla.co.il/item/3821538
+https://news.walla.co.il/item/3821534
+https://news.walla.co.il/item/3821539
+https://news.walla.co.il/item/3821531
+https://news.walla.co.il/break/3821532
+https://hamal.co.il/main/באמצע-מלחמה-משרד-הביטחון-רוכש-רכבים-קרביים-ב-26-מיליון-דולר-247724
