@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:11
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -457,3 +457,6 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/בפעם-השלישית-הלילה-זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-247671
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247693
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-247694
+https://news.walla.co.il/item/3821505
+https://news.walla.co.il/item/3821494
+https://hamal.co.il/main/דיווח-ב-CNN-מטוסים-קאטרים-תקפו-משגרים-איראנים---דקות-לפני-ש-247695
