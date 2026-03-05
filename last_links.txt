@@ -1,10 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3820912
-https://news.walla.co.il/item/3821000
-https://news.walla.co.il/item/3821073
-https://celebs.walla.co.il/item/3820942
-https://tech.walla.co.il/item/3819909
-https://tech.walla.co.il/item/3821162
+COUNTER:2
 https://news.walla.co.il/item/3821137
 https://hamal.co.il/main/בצהל-מזהירים-האיראנים-הפיקו-לקחים-אין-שם-סימני-קריסה-אמ-247035
 https://finance.walla.co.il/item/3820989
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3821598
 https://hamal.co.il/main/אזעקות-הופעלו-בצפון-הארץ-247760
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-במטח-לצפון-247761
 https://hamal.co.il/main/טלי-גוטליב-מבהירה-לקטאר-יש-מה-להפסיד-אם-איראן-תפסיד-247763
+https://news.walla.co.il/item/3821607
+https://news.walla.co.il/break/3821604
+https://news.walla.co.il/break/3821603
+https://news.walla.co.il/break/3821606
+https://hamal.co.il/main/לפחות-10-שיגורים-נורו-מלבנון-247764
+https://hamal.co.il/main/גם-במקלט-טכניקת-הנשימה-שמרגיעה-חרדה-ומיושמת-בארגוני-ביטחון-247272
