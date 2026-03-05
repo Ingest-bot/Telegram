@@ -1,9 +1,4 @@
-COUNTER:16
-https://tech.walla.co.il/item/3820595
-https://finance.walla.co.il/item/3821095
-https://tech.walla.co.il/item/3819714
-https://finance.walla.co.il/item/3820672
-https://finance.walla.co.il/item/3820869
+COUNTER:17
 https://hamal.co.il/main/אזעקות-בצפון-ובמרכז---בשל-ירי-מלבנון-247064
 https://finance.walla.co.il/item/3820707
 https://e.walla.co.il/item/3820893
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חוסלה-חוליית-מחבלים-שפעלה-מתו�
 https://news.walla.co.il/item/3821585
 https://e.walla.co.il/item/3821588
 https://hamal.co.il/main/עובדים-מסביב-לשעון-החיילים-החרדים-מאחורי-התקיפה-באיראן-247756
+https://news.walla.co.il/item/3821582
+https://news.walla.co.il/break/3821593
+https://news.walla.co.il/break/3821594
+https://news.walla.co.il/break/3821595
+https://hamal.co.il/main/ההקלות-בהנחיות-פיקוד-העורף-נכנסו-לתוקפן-247758
