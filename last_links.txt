@@ -1,10 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3821051
-https://tech.walla.co.il/item/3819994
-https://news.walla.co.il/item/3821023
-https://finance.walla.co.il/item/3820762
-https://finance.walla.co.il/item/3821107
-https://tech.walla.co.il/item/3820877
+COUNTER:19
 https://news.walla.co.il/item/3821159
 https://finance.walla.co.il/item/3821103
 https://news.walla.co.il/item/3820873
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/דיווחים-על-נפילה-באיזור-שכם-247818
 https://hamal.co.il/main/צהל-השלים-את-גל-התקיפות-ה-12-בטהרן-247815
 https://hamal.co.il/main/בחזית-ההצלה-247819
+https://travel.walla.co.il/item/3821632
+https://travel.walla.co.il/item/3821629
+https://news.walla.co.il/break/3821633
+https://hamal.co.il/main/מה-קורה-כשאיראן-תוקפת-את-קטאר-בה-מסתתרים-בכירי-חמאס-247781
+https://hamal.co.il/main/בין-חמינאי-לממש-247823
+https://hamal.co.il/main/מאלכוהול-ועד-חטיפים-מה-הישראלים-מזמינים-הביתה-בזמן-האזעקות-247766
