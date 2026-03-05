@@ -1,6 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/טראמפ-לאיראן-נגמרים-משגרי-הטילים-עידן-קוולר-נשיא-ארצות-247034
-https://travel.walla.co.il/item/3821041
+COUNTER:5
 https://finance.walla.co.il/item/3820373
 https://finance.walla.co.il/item/3820895
 https://news.walla.co.il/item/3821085
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-בטבריה-והסביבה-247947
 https://hamal.co.il/main/אזעקות-בחיפה-247955
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-247956
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-247958
+https://news.walla.co.il/item/3821693
+https://hamal.co.il/main/הושלם-גל-תקיפה-רחב-של-כ-200-מטרות-במערב-ובמרכז-איראן-247961
