@@ -1,11 +1,4 @@
-COUNTER:8
-https://tech.walla.co.il/item/3820597
-https://news.walla.co.il/item/3821195
-https://finance.walla.co.il/item/3821101
-https://finance.walla.co.il/item/3820728
-https://celebs.walla.co.il/item/3820884
-https://tech.walla.co.il/item/3820812
-https://celebs.walla.co.il/item/3820270
+COUNTER:11
 https://news.walla.co.il/item/3821003
 https://news.walla.co.il/item/3821180
 https://news.walla.co.il/item/3820754
@@ -499,3 +492,10 @@ https://hamal.co.il/main/בא-לשגר---ומתפוצץ-תיעוד-מטורף-מ
 https://hamal.co.il/main/אברי-גלעד-משנה-כיוון-זאת-הממשלה-שאעדיף-247775
 https://hamal.co.il/main/רובוטים-בלבנון-ובינה-מלאכותית-247831
 https://hamal.co.il/main/המונים-בורחים-מהדאחיה-אחרי-האזהרה-של-צהל-247834
+https://news.walla.co.il/item/3821645
+https://news.walla.co.il/break/3821654
+https://news.walla.co.il/break/3821656
+https://news.walla.co.il/break/3821660
+https://hamal.co.il/main/דיווח-הדי-פיצוצים-ועשן-בריאד-בירת-ערב-הסעודית-247835
+https://hamal.co.il/main/צעדים-חסרי-תקדים-בלבנון-כל-אנשי-משמרות-המהפכה-יעצרו-247838
+https://hamal.co.il/main/תיעוד-דרמטי-מחסן-טילים-ותחמושת-הותקף-על-ידי-מטוסי-הצי-האמרי-247839
