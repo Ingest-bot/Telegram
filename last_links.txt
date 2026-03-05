@@ -1,9 +1,4 @@
-COUNTER:8
-https://finance.walla.co.il/item/3820676
-https://news.walla.co.il/item/3820968
-https://news.walla.co.il/item/3821112
-https://news.walla.co.il/item/3821196
-https://travel.walla.co.il/item/3821135
+COUNTER:12
 https://news.walla.co.il/item/3821124
 https://celebs.walla.co.il/item/3820431
 https://tech.walla.co.il/item/3820810
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פיצוץ-אדיר-סמוך-לכביש-צפו-בתקי
 https://hamal.co.il/main/דיווח-צרפת-אישרה-לארהב-להשתמש-בבסיסיה-לטובת-המלחמה-247779
 https://hamal.co.il/main/אתם-שמאליים-מחקר-הוכיח-שיש-לכם-יתרון-גדול-על-כל-השאר-247732
 https://hamal.co.il/main/החופים-סגורים---ומפלס-הכנרת-נותר-ללא-שינוי-247793
+https://news.walla.co.il/item/3821623
+https://hamal.co.il/main/מתנערים-מאחריות-״לאיראן-אין-שום-קשר-לירי-לאזרבייג׳ן״-247797
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247804
+https://hamal.co.il/main/דיווח-על-שבר-יירוט-במרכז-אין-נפגעים-247808
+https://hamal.co.il/main/מד״א-אין-נפגעים-במטח-האחרון-247813
