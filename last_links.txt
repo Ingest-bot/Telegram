@@ -1,8 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/אוקראינה-חוששת-מלחמה-ממושכת-באיראן-תשבש-את-אספקת-הנשק-סוכנו-247047
-https://travel.walla.co.il/item/3821060
-https://tech.walla.co.il/item/3819915
-https://celebs.walla.co.il/item/3820279
+COUNTER:8
 https://news.walla.co.il/item/3821036
 https://finance.walla.co.il/item/3820994
 https://tech.walla.co.il/item/3820528
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3821695
 https://hamal.co.il/main/דיווחים-מתקני-נפט-בבחריין-הותקפו-פיצוצים-בדובאי-247889
 https://hamal.co.il/main/בפעם-השנייה-היום-חיל-האוויר-החל-לתקוף-תשתיות-בטהרן-247890
 https://hamal.co.il/main/כך-הפכו-ערי-הטילים-של-איראן-247782
+https://news.walla.co.il/item/3821699
+https://news.walla.co.il/break/3821700
+https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבים-באיראן-צהל-יפעל-במרחב-247895
+https://hamal.co.il/main/פרסום-ראשון-במערכת-הביטחון-מזהים---איראן-מגבירה-את-ירי-פצצו-247896
