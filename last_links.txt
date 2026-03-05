@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:6
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -494,3 +494,6 @@ https://news.walla.co.il/break/3821547
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-השונות-247727
 https://hamal.co.il/main/יעקב-עמידרור-מעריך-זה-הזמן-שיקח-להכניע-את-איראן-247730
 https://hamal.co.il/main/״המטרה-נפלה״-תיעוד-ראשון-מהפלת-מטוס-הקרב-האיראני-247735
+https://news.walla.co.il/item/3821555
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לישראל-247738
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247743
