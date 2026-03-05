@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/איראן-תקפה-את-בניין-הקונסוליה-האמריקנית-בדובאי-247098
-https://news.walla.co.il/item/3821211
-https://hamal.co.il/main/הבמאי-האיראני-החשוב-על-הרג-חמינאי-האיש-השנוא-מכולם-סוכנוי-247099
+COUNTER:1
 https://hamal.co.il/main/ברקע-מבצע-׳שאגת-הארי׳-כוחות-צה״ל-מחטיבת-יהודה-ממשיכים-בפעיל-247100
 https://news.walla.co.il/item/3821198
 https://celebs.walla.co.il/item/3821215
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-בלתי-פוסקות-במרכז-הארץ-
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-248022
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248024
 https://hamal.co.il/main/דיווח-על-פגיעת-רסיסים-במבנה-במרכז-הארץ--צפו-בתיעוד-248027
+https://news.walla.co.il/blog/3821752
+https://news.walla.co.il/break/3821757
+https://hamal.co.il/main/טראמפ-בבית-הלבן--248028
