@@ -1,4 +1,4 @@
-COUNTER:6
+COUNTER:10
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -446,3 +446,14 @@ https://news.walla.co.il/break/3821489
 https://news.walla.co.il/break/3821491
 https://news.walla.co.il/break/3821492
 https://hamal.co.il/main/ניסיון-חיסול-בלבנון-מדווחים-על-תקיפת-דירה-בדאחיה-ללא-אזהרה-247633
+https://news.walla.co.il/item/3821496
+https://news.walla.co.il/item/3821502
+https://news.walla.co.il/break/3821499
+https://news.walla.co.il/break/3821500
+https://news.walla.co.il/break/3821501
+https://news.walla.co.il/break/3821503
+https://news.walla.co.il/break/3821504
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247668
+https://hamal.co.il/main/בפעם-השלישית-הלילה-זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-247671
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247693
+https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-247694
