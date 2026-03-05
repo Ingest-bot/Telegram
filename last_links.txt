@@ -1,8 +1,4 @@
-COUNTER:1
-https://tech.walla.co.il/item/3819914
-https://hamal.co.il/main/מנכל-משרד-הבריאות-בביקור-חיזוק-בברזילי-מעריך-את-העמידה-ה-247066
-https://hamal.co.il/main/האזעקות-נמשכות-הכטבם-חג-בשמי-הגליל-המערבי-247091
-https://tech.walla.co.il/item/3819372
+COUNTER:3
 https://news.walla.co.il/item/3821096
 https://celebs.walla.co.il/item/3820768
 https://hamal.co.il/main/נשיא-ארהב-על-ההפגנות-באיראן-מאוד-מסוכן-בחוץ-הרבה-פצצות-מ-247044
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אזרבייג׳ן-סוגרת-את-המרחב-האוו�
 https://news.walla.co.il/break/3821678
 https://hamal.co.il/main/בתקיפה-מהים-247875
 https://hamal.co.il/main/צהל-נערך-למ-247876
+https://news.walla.co.il/item/3821687
+https://news.walla.co.il/break/3821683
+https://hamal.co.il/main/משרד-החינוך-מעדכן-המשך-מתווה-הלמידה-בתחילת-השבוע-247879
+https://hamal.co.il/main/הרצוג-ממשלת-לבנון-נקטה-בצעד-אמיץ-247886
