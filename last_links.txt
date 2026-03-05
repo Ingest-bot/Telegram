@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3821137
-https://hamal.co.il/main/בצהל-מזהירים-האיראנים-הפיקו-לקחים-אין-שם-סימני-קריסה-אמ-247035
+COUNTER:4
 https://finance.walla.co.il/item/3820989
 https://finance.walla.co.il/item/3820993
 https://news.walla.co.il/item/3820720
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3821603
 https://news.walla.co.il/break/3821606
 https://hamal.co.il/main/לפחות-10-שיגורים-נורו-מלבנון-247764
 https://hamal.co.il/main/גם-במקלט-טכניקת-הנשימה-שמרגיעה-חרדה-ומיושמת-בארגוני-ביטחון-247272
+https://hamal.co.il/main/עשה-אצבע-משולשת-לתחנת-המשטרה---וקיבל-מעצר-247774
+https://hamal.co.il/main/האם-הכורדים-מסוגלים-להאיץ-את-תהליך-נפילת-המשטר-האיראני-247776
