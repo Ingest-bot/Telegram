@@ -1,9 +1,4 @@
-COUNTER:12
-https://celebs.walla.co.il/item/3821074
-https://finance.walla.co.il/item/3820875
-https://celebs.walla.co.il/item/3821072
-https://news.walla.co.il/item/3821029
-https://hamal.co.il/main/שוטרת-סמויה-הובילה-למעצרו-של-אביה-של-הזמרת-אודיה-אזולאי-בחשד-247093
+COUNTER:16
 https://news.walla.co.il/item/3821204
 https://news.walla.co.il/item/3821203
 https://news.walla.co.il/item/3821209
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3821747
 https://hamal.co.il/main/צהל-קצין-ולוחם-בחטיבת-גבעתי-נפצעו-קשה-ובינוני-בקרב-בלבנון-247971
 https://hamal.co.il/main/קבלו-את-מישל-שיר-האירוויזיון-הישראלי-של-נועם-בתן-נחשף-247974
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-247976
+https://news.walla.co.il/break/3821748
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-247987
+https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-247989
+https://hamal.co.il/main/הקרב-בדרום-לבנון-2-חיילים-פונו-לאשפוז-בבית-החולים-רמבם-247990
+https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדאחייה-שבביירות-247991
