@@ -1,4 +1,4 @@
-COUNTER:11
+COUNTER:14
 https://tech.walla.co.il/item/3821179
 https://finance.walla.co.il/item/3820841
 https://tech.walla.co.il/item/3820122
@@ -464,3 +464,6 @@ https://news.walla.co.il/break/3821506
 https://news.walla.co.il/break/3821507
 https://news.walla.co.il/item/3821311
 https://news.walla.co.il/break/3821509
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נוסף-בטהרן-247703
+https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-247704
+https://hamal.co.il/main/טיסת-החילוץ-הראשונה-נחתה-בנתב״ג-247705
