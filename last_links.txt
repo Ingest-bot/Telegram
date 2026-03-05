@@ -1,13 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3821036
-https://finance.walla.co.il/item/3820994
-https://tech.walla.co.il/item/3820528
-https://e.walla.co.il/item/3820951
-https://finance.walla.co.il/item/3820675
-https://news.walla.co.il/item/3821188
-https://tech.walla.co.il/item/3821167
-https://celebs.walla.co.il/item/3820426
-https://tech.walla.co.il/item/3820600
+COUNTER:12
 https://news.walla.co.il/item/3820902
 https://celebs.walla.co.il/item/3820747
 https://news.walla.co.il/item/3821163
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3821699
 https://news.walla.co.il/break/3821700
 https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבים-באיראן-צהל-יפעל-במרחב-247895
 https://hamal.co.il/main/פרסום-ראשון-במערכת-הביטחון-מזהים---איראן-מגבירה-את-ירי-פצצו-247896
+https://news.walla.co.il/item/3821703
+https://news.walla.co.il/item/3821702
+https://news.walla.co.il/break/3821706
+https://news.walla.co.il/break/3821711
+https://news.walla.co.il/break/3821714
+https://hamal.co.il/main/נתניהו-בבסיס-חיל-האוויר-247902
+https://hamal.co.il/main/סגירת-מעגל-צהל-את-247903
+https://hamal.co.il/main/היתר-מיוחד-לעריכת-חופות-בימי-ספירת-העומר-בשל-המצב-הביטחוני-247906
+https://hamal.co.il/main/טראמפ-תומך-במתקפה-קרקעית-כורדית-באיראן-247907
