@@ -1,8 +1,4 @@
-COUNTER:10
-https://celebs.walla.co.il/item/3820408
-https://celebs.walla.co.il/item/3820577
-https://celebs.walla.co.il/item/3820851
-https://news.walla.co.il/item/3821134
+COUNTER:14
 https://tech.walla.co.il/item/3820591
 https://news.walla.co.il/item/3821034
 https://tech.walla.co.il/item/3821176
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/שברי-יירוט-נפלו-במרכז-הארץ-נזק-נגרם-במקום-ללא-פצועים-247747
 https://hamal.co.il/main/סמגד-ניצל-את-תפקידו-הצבאי---והבריח-משאיות-אל-תוך-עזה-247748
 https://hamal.co.il/main/״וואי-וואי-איזה-חור-יש-באדמה״-תיעוד-מנפילת-רסיסים-במרכז-247750
+https://hamal.co.il/main/אזרבייג׳ן-״שומרים-את-הזכות-לנקוט-באמצעי-תגובה״-247751
+https://hamal.co.il/main/דיווח-פיצוצים-נשמעים-בדוחא-בירת-קאטר-247753
+https://hamal.co.il/main/אישום-נגד-3-תושבי-הפזורה-שהבריחו-אמל״ח-מירדן-247754
+https://hamal.co.il/main/צהל-ממשיך-לתקוף-בלב-טהרן-אתרי-אחסון-טילים-הושמדו-247752
