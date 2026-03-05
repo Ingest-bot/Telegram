@@ -1,9 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/אזעקות-בצפון-ובמרכז---בשל-ירי-מלבנון-247064
-https://finance.walla.co.il/item/3820707
-https://e.walla.co.il/item/3820893
-https://news.walla.co.il/item/3821169
-https://celebs.walla.co.il/item/3821026
+COUNTER:0
 https://news.walla.co.il/item/3820912
 https://news.walla.co.il/item/3821000
 https://news.walla.co.il/item/3821073
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3821593
 https://news.walla.co.il/break/3821594
 https://news.walla.co.il/break/3821595
 https://hamal.co.il/main/ההקלות-בהנחיות-פיקוד-העורף-נכנסו-לתוקפן-247758
+https://news.walla.co.il/item/3821592
+https://news.walla.co.il/item/3821598
+https://hamal.co.il/main/אזעקות-הופעלו-בצפון-הארץ-247760
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-במטח-לצפון-247761
+https://hamal.co.il/main/טלי-גוטליב-מבהירה-לקטאר-יש-מה-להפסיד-אם-איראן-תפסיד-247763
