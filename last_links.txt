@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/למרות-הביקורת-מבית-טראמפ-ממשיך-בכל-הכוח-במערכה-נגד-איראן-עיד-247046
-https://tech.walla.co.il/item/3820592
-https://hamal.co.il/main/מסתמן-טיסות-לנתבג---החל-מיום-חמישי-247031
+COUNTER:16
 https://tech.walla.co.il/item/3820595
 https://finance.walla.co.il/item/3821095
 https://tech.walla.co.il/item/3819714
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821574
 https://news.walla.co.il/item/3821584
 https://news.walla.co.il/break/3821580
 https://hamal.co.il/main/חוסלה-חוליית-מחבלים-שפעלה-מתוך-מפקדה-בדרום-לבנון-247755
+https://news.walla.co.il/item/3821585
+https://e.walla.co.il/item/3821588
+https://hamal.co.il/main/עובדים-מסביב-לשעון-החיילים-החרדים-מאחורי-התקיפה-באיראן-247756
