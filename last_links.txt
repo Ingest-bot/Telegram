@@ -1,13 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3821159
-https://finance.walla.co.il/item/3821103
-https://news.walla.co.il/item/3820873
-https://hamal.co.il/main/סוכנות-הידיעות-האיראנית-במבנה-שהותקף-היום---לא-התכנסה-מועצת-247092
-https://finance.walla.co.il/item/3820780
-https://tech.walla.co.il/item/3819685
-https://celebs.walla.co.il/item/3820589
-https://news.walla.co.il/item/3820859
-https://celebs.walla.co.il/item/3820011
+COUNTER:3
 https://hamal.co.il/main/צפו-הצהרת-דובר-צהל--ישיר-247070
 https://tech.walla.co.il/item/3821030
 https://travel.walla.co.il/item/3820888
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3821633
 https://hamal.co.il/main/מה-קורה-כשאיראן-תוקפת-את-קטאר-בה-מסתתרים-בכירי-חמאס-247781
 https://hamal.co.il/main/בין-חמינאי-לממש-247823
 https://hamal.co.il/main/מאלכוהול-ועד-חטיפים-מה-הישראלים-מזמינים-הביתה-בזמן-האזעקות-247766
+https://news.walla.co.il/item/3821642
+https://news.walla.co.il/break/3821637
+https://news.walla.co.il/break/3821638
+https://news.walla.co.il/break/3821639
+https://news.walla.co.il/break/3821641
+https://hamal.co.il/main/תושבי-הדאחייה-קיבלו-הודעת-פינוי-״הצילו-את-חייכם-והתפנו-מיד״-247824
+https://hamal.co.il/main/לופטהנזה-משעה-שוב-את-טיסותיה-לישראל-זה-התאריך-החדש-247825
+https://hamal.co.il/main/הקבינט-הלבנוני-החליט-אזרחים-איראנים-ידרשו-בוויזה-247826
+https://hamal.co.il/main/כוחות-משטרה-במרדף-בצפון-אחר-חשוד-שמתכנן-לבצע-פיגוע-247827
