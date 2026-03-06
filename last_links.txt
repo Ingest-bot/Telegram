@@ -1,6 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/מפקד-חיל-האוויר-לטייס-שהפיל-את-מטוס-הקרב-האיראני-247320
-https://news.walla.co.il/item/3821360
+COUNTER:14
 https://celebs.walla.co.il/item/3821359
 https://celebs.walla.co.il/item/3821363
 https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247259
@@ -499,3 +497,5 @@ https://hamal.co.il/main/באח-צנחנים-מוכנים-לארוחת-השבת-
 https://hamal.co.il/main/תיעודים-מטהרן-אש-ותמרות-עשן-על-רקע-השקיעה--צפו-248308
 https://news.walla.co.il/break/3821864
 https://news.walla.co.il/break/3821865
+https://news.walla.co.il/item/3821819
+https://hamal.co.il/main/תיעודים-מהדאחייה-סדרת-תקיפות-של-חיל-האוויר--צפו-248333
