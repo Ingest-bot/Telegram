@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/התחזית-מעונן-חלקית-עד-בהיר-בערב-יתכן-גשם-מקומי-בצפון-247246
-https://hamal.co.il/main/לוחמי-האש-פעלו-בזירת-נפילה-בחצור-הגלילית-לאחר-המטח-לצפון-247249
-https://news.walla.co.il/item/3821244
+COUNTER:4
 https://finance.walla.co.il/item/3821067
 https://finance.walla.co.il/item/3821247
 https://hamal.co.il/main/צהל-עשרות-מפקדות-של-המשטר-האיראני-הותקפו-אתמול--צפו-247251
@@ -499,3 +496,6 @@ https://hamal.co.il/main/בתו-של-מחבל-משוחרר-היללה-את-יר�
 https://hamal.co.il/main/איום-פצצת-248106
 https://news.walla.co.il/item/3821795
 https://hamal.co.il/main/המבצע-להשבת-הישראלים-7440-אזרחים-שבו-248107
+https://travel.walla.co.il/item/3821798
+https://hamal.co.il/main/ברמה-של-מעצמת-על-תקרת-הזכוכית-שצהל-שבר---מאחורי-הקלעים-247777
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-248109
