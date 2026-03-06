@@ -1,11 +1,4 @@
-COUNTER:15
-https://finance.walla.co.il/item/3821264
-https://hamal.co.il/main/צהל-מעביר-אוגדה-נוספת-לגבול-הצפון-247269
-https://hamal.co.il/main/מפקד-פיקוד-הצפון-לראשי-הרשויות-247270
-https://hamal.co.il/main/בצהל-מזהים-247253
-https://hamal.co.il/main/מפקד-פיקוד-העורף-בחיפה-247271
-https://travel.walla.co.il/item/3821274
-https://tech.walla.co.il/item/3821275
+COUNTER:18
 https://hamal.co.il/main/כטבם-התפוצץ-בצפון-ללא-התראה-247276
 https://news.walla.co.il/item/3821279
 https://news.walla.co.il/item/3821278
@@ -499,3 +492,10 @@ https://hamal.co.il/main/פרסום-ראשון-חילופי-אש-בין-כוחו
 https://news.walla.co.il/item/3821809
 https://news.walla.co.il/break/3821810
 https://hamal.co.il/main/בצהל-מתריעים-כך-חיזבאללה-מנסה-לנקום-את-מות-248135
+https://news.walla.co.il/break/3821813
+https://news.walla.co.il/break/3821814
+https://news.walla.co.il/break/3821815
+https://news.walla.co.il/break/3821817
+https://hamal.co.il/main/ריק-והרוס-כך-נראה-רובע-הדאחייה-לאחר-גל-התקיפות-248138
+https://hamal.co.il/main/צהל-האזעקות-בעוטף---זיהוי-שווא-248141
+https://hamal.co.il/main/בפעם-ה-2-האזעקות-בעוטף---זיהוי-שווא-248142
