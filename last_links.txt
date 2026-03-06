@@ -1,9 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3821289
-https://finance.walla.co.il/item/3821068
-https://hamal.co.il/main/בן-גביר-על-הודעת-היועמשית-חושבת-שאנחנו-באיראן-247282
-https://hamal.co.il/main/דיווח-צבא-לבנון-הציב-מחסומים-למעקב-אחר-החיזבאללה-247283
-https://hamal.co.il/main/בפעם-הראשונה-בהיסטוריה-F-35-הפיל-מטוס-קרב-איראני-247284
+COUNTER:6
 https://travel.walla.co.il/item/3821295
 https://celebs.walla.co.il/item/3821299
 https://finance.walla.co.il/item/3821245
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3821823
 https://hamal.co.il/main/חטא-העגל-מה-גרם-לעם-248128
 https://hamal.co.il/main/צהל-חושף-רגע-תקיפת-הבונקר-של-חמינאי-בלב-טהרן--צפו-248159
 https://hamal.co.il/main/כך-הושמד-הבונקר-של-חמינאי-248160
+https://news.walla.co.il/item/3821826
+https://news.walla.co.il/break/3821828
+https://news.walla.co.il/break/3821829
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-248178
+https://hamal.co.il/main/כץ-248176
