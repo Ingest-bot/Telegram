@@ -1,5 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3821396
+COUNTER:7
 https://news.walla.co.il/item/3821388
 https://celebs.walla.co.il/item/3821397
 https://hamal.co.il/main/שר-ההגנה-האמריקני-247394
@@ -499,3 +498,4 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-248401
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248403
 https://news.walla.co.il/item/3821878
+https://hamal.co.il/main/דיווח-באזרבייגן-סוכל-פיגוע-איראני-נגד-השגרירות-הישראלית-248400
