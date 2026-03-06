@@ -1,5 +1,4 @@
 COUNTER:10
-https://travel.walla.co.il/item/3821404
 https://news.walla.co.il/item/3821400
 https://hamal.co.il/main/הרמטכל-האמריקני-247405
 https://hamal.co.il/main/מנכ״ל-מד״א-אין-דיווחים-חריגים-מהמטח-האחרון-לצפון-247407
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3821885
 https://hamal.co.il/main/דיווח-סעודיה-מנהלת-מגעים-עם-איראן-במטרה-לסיים-את-המלחמה-248417
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-ה-248419
 https://news.walla.co.il/break/3821886
+https://news.walla.co.il/item/3821888
