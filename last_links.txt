@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/אזעקות-הופעלו-בירושלים-והשפלה-ניתן-לצאת-מהמרחב-המוגן-בצפון-247236
-https://hamal.co.il/main/דיווח-ראשוני-רסיסים-נפלו-על-מבנה-באזור-ירושלים-247239
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247242
+COUNTER:1
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-ידוע-על-נפגעים-247243
 https://news.walla.co.il/item/3821229
 https://hamal.co.il/main/התחזית-מעונן-חלקית-עד-בהיר-בערב-יתכן-גשם-מקומי-בצפון-247246
@@ -499,3 +496,6 @@ https://hamal.co.il/main/רגע-לפני-248104
 https://news.walla.co.il/break/3821789
 https://news.walla.co.il/break/3821788
 https://hamal.co.il/main/יצאתם-מהממד-תבדקו-שהאוטו-שלכם-עדיין-בחנייה-247780
+https://news.walla.co.il/item/3821786
+https://hamal.co.il/main/בתו-של-מחבל-משוחרר-היללה-את-ירי-248105
+https://hamal.co.il/main/איום-פצצת-248106
