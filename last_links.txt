@@ -1,5 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/כטבם-התפוצץ-בצפון-ללא-התראה-247276
+COUNTER:19
 https://news.walla.co.il/item/3821279
 https://news.walla.co.il/item/3821278
 https://e.walla.co.il/item/3821270
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3821817
 https://hamal.co.il/main/ריק-והרוס-כך-נראה-רובע-הדאחייה-לאחר-גל-התקיפות-248138
 https://hamal.co.il/main/צהל-האזעקות-בעוטף---זיהוי-שווא-248141
 https://hamal.co.il/main/בפעם-ה-2-האזעקות-בעוטף---זיהוי-שווא-248142
+https://hamal.co.il/main/משרד-הבריאות-2328-פונו-מבתיהם-בגלל-פגיעת-טיל-מתחילת-המלחמה-248143
