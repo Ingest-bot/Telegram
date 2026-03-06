@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נרחב-בטהרן-247277
-https://hamal.co.il/main/היועמשית-לבגץ-הוציאו-צו-שימנע-מבן-גביר-לכהן-247279
-https://hamal.co.il/main/השוטר-נדהם-כך-247281
-https://travel.walla.co.il/item/3821286
+COUNTER:4
 https://news.walla.co.il/item/3821289
 https://finance.walla.co.il/item/3821068
 https://hamal.co.il/main/בן-גביר-על-הודעת-היועמשית-חושבת-שאנחנו-באיראן-247282
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3821806
 https://news.walla.co.il/item/3821765
 https://hamal.co.il/main/צהל-בהודעת-פינוי-לתושבי-בקעת-הלבנון-248157
 https://hamal.co.il/main/חדירת-הכטבם-לצפון-האירוע-הסתיים---ניתן-לצאת-מהמרחב-המוגן-248158
+https://news.walla.co.il/item/3821823
+https://hamal.co.il/main/חטא-העגל-מה-גרם-לעם-248128
+https://hamal.co.il/main/צהל-חושף-רגע-תקיפת-הבונקר-של-חמינאי-בלב-טהרן--צפו-248159
+https://hamal.co.il/main/כך-הושמד-הבונקר-של-חמינאי-248160
