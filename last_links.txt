@@ -1,8 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3821342
-https://news.walla.co.il/item/3821351
-https://finance.walla.co.il/item/3821331
-https://finance.walla.co.il/item/3821348
+COUNTER:12
 https://hamal.co.il/main/הנסיעה-הגורלית-והשינוי-בצהל-247318
 https://hamal.co.il/main/דובר-צה״ל-לעם-האיראני-תוקפים-רק-את-המשטר-247319
 https://news.walla.co.il/item/3821330
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3821857
 https://hamal.co.il/main/5-לוחמי-גבעתי-נפצעו-באורח-קשה-סמוך-לגבול-לבנון-248281
 https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בבאר-שבע-״-248279
 https://hamal.co.il/main/״ממשיכים-להילחם-ככל-שידרש״-תיעוד-מיוחד-מתא-הטייס-בשמי-איראן-248285
+https://news.walla.co.il/item/3821860
+https://hamal.co.il/main/דיווח-שחקניות-נבחרת-איראן-אולצו-לשיר-את-ההמנון-תחת-איומים-248288
+https://hamal.co.il/main/ראש-אכ״א-האלוף-דדו-בר-כליפא-באיגרת-לכבוד-שבת-לחיילים--צפו-248291
+https://hamal.co.il/main/באח-צנחנים-מוכנים-לארוחת-השבת-בסימן-חג-פורים--צפו-248296
