@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/תיעוד-ספינת-חיל-הים-יירטה-כטב״ם-ששוגר-מלבנון-247408
-https://hamal.co.il/main/ישראייר-תפעיל-טיסות-ישירות-לנתב״ג-247409
-https://news.walla.co.il/break/3821387
+COUNTER:14
 https://news.walla.co.il/break/3821389
 https://news.walla.co.il/break/3821391
 https://news.walla.co.il/break/3821393
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3821890
 https://news.walla.co.il/break/3821892
 https://news.walla.co.il/blog/3821893
 https://hamal.co.il/main/דיווח-בלבנון-צהל-תקף-באל-בקאע-248421
+https://hamal.co.il/main/בדקות-הקרובות-זוהו-שיגורים-מאיראן-לדרום-הארץ-248423
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-במקביל---זוהו-שיגורים-למרכז-הארץ-248432
+https://hamal.co.il/main/כעת-הופעלו-אזעקות-בים-המלח-והסביבה-248437
