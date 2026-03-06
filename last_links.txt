@@ -1,5 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/item/3821235
 https://news.walla.co.il/item/3821238
 https://news.walla.co.il/item/3821239
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247213
@@ -499,3 +498,4 @@ https://hamal.co.il/main/420-248098
 https://hamal.co.il/main/השריון-שלו-דימם-248099
 https://hamal.co.il/main/26-גלי-תקיפות-בדאחייה-מתחילת-המערכה-248100
 https://hamal.co.il/main/מהגנה-לפירוק-כך-צהל-שוחק-את-יכולות-חיזבאללה-בלבנון-248101
+https://news.walla.co.il/item/3821720
