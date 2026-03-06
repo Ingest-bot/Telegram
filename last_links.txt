@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3819875
-https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-247170
-https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-של-ביירות--כל-העדכונים-247172
+COUNTER:12
 https://hamal.co.il/main/בדקות-הקרובות-אזעקות-צפויות-בצפון-הארץ-247175
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247179
 https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-אזעקות-צפויות-בדקות-הקרובות-247181
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3821776
 https://hamal.co.il/main/מכונת-מלחמה-משומנת-שכותשת-את-איראן-שיתוף-הפעולה-בין-צהל-לצ-248089
 https://news.walla.co.il/break/3821777
 https://news.walla.co.il/break/3821778
+https://news.walla.co.il/break/3821779
+https://news.walla.co.il/break/3821780
+https://hamal.co.il/main/משולש-הברזל-כך-התכוננו-בישראל-לתקיפה-ההיסטורית-באיראן-247842
