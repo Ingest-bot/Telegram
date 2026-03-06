@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/מדא-על-הירי-לעבר-ישראל-בשלב-זה-לא-דווח-על-נפגעים-247361
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-247363
-https://news.walla.co.il/item/3821361
+COUNTER:3
 https://hamal.co.il/main/הירי-247364
 https://hamal.co.il/main/אחרי-הירי-לישראל-צהל-תוקף-בלבנון-247365
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-247367
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-ד�
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248373
 https://hamal.co.il/main/צהל-חושף-הותקפה-מפקדה-של-משמרות-המהפכה-בלבנון-248379
 https://hamal.co.il/main/הרמטכל-לראשי-רשויות-לא-נוותר-על-פירוק-חיזבאללה-מנשקו״-248383
+https://news.walla.co.il/item/3821873
+https://news.walla.co.il/break/3821875
+https://hamal.co.il/main/הבית-הלבן-4-6-שבועות-עד-שיושלם-המבצע-באיראן-248386
