@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/רהמ-אוסטרליה-אין-הצדקה-לתקיפות-איראן-על-אזורים-אזרחיים-247217
-https://hamal.co.il/main/דיווח-כוחות-כורדים-צפויים-להשתתף-במבצע-קרקעי-במערב-איראן-247218
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-צפויות-אזעקות-במרכז-ובצפון-247220
+COUNTER:19
 https://hamal.co.il/main/אזעקות-הופעלו-בירושלים-והשפלה-ניתן-לצאת-מהמרחב-המוגן-בצפון-247236
 https://hamal.co.il/main/דיווח-ראשוני-רסיסים-נפלו-על-מבנה-באזור-ירושלים-247239
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247242
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821720
 https://travel.walla.co.il/item/3821784
 https://hamal.co.il/main/9-טילי-נט-שוגרו-לעבר-הכוח-248102
 https://hamal.co.il/main/רגע-לפני-248104
+https://news.walla.co.il/break/3821789
+https://news.walla.co.il/break/3821788
+https://hamal.co.il/main/יצאתם-מהממד-תבדקו-שהאוטו-שלכם-עדיין-בחנייה-247780
