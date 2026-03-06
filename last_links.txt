@@ -1,7 +1,4 @@
-COUNTER:14
-https://celebs.walla.co.il/item/3821359
-https://celebs.walla.co.il/item/3821363
-https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247259
+COUNTER:16
 https://hamal.co.il/main/טורקיה-נאטו-יירטה-טיל-ששוגר-מאיראן-247327
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-טילים-מאיראן-247331
 https://hamal.co.il/main/פיקוד-העורף-הטילים-ששגורו-מאיראן-יורטו-ניתן-לצאת-מהמרחב-המ-247334
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3821864
 https://news.walla.co.il/break/3821865
 https://news.walla.co.il/item/3821819
 https://hamal.co.il/main/תיעודים-מהדאחייה-סדרת-תקיפות-של-חיל-האוויר--צפו-248333
+https://news.walla.co.il/item/3821867
+https://hamal.co.il/main/חיל-האוויר-תוקף-ברגעים-אלו-במערב-איראן-248336
+https://hamal.co.il/main/יותר-מ-2600-גיחות-ו-6500-חימושים-המתקפה-באיראן-תמונת-מצב-248342
