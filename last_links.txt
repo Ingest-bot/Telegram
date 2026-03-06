@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3821407
-https://news.walla.co.il/item/3821408
-https://news.walla.co.il/item/3821411
+COUNTER:19
 https://news.walla.co.il/break/3821410
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-247430
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-למרכז-הארץ-247442
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3821896
 https://news.walla.co.il/break/3821897
 https://hamal.co.il/main/במקביל-שיגורים-לעבר-דרום-ומרכז-הארץ---ותיעוד-היירוטים-248442
 https://hamal.co.il/main/אש-בטהרן-גל-תקיפות-צהל-פגע-בשדה-התעופה-באזור-248444
+https://hamal.co.il/main/השיגורים-לדרום-ולמרכז-הארץ-248446
+https://hamal.co.il/main/להבות-בטהרן-שדה-התעופה-הותקף---שריפה-פרצה-במקום-248453
+https://hamal.co.il/main/פיקוד-העורף-הכטבם-בצפון-הארץ-יורט-בהצלחה-248455
