@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3821279
-https://news.walla.co.il/item/3821278
-https://e.walla.co.il/item/3821270
-https://news.walla.co.il/item/3821282
+COUNTER:1
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נרחב-בטהרן-247277
 https://hamal.co.il/main/היועמשית-לבגץ-הוציאו-צו-שימנע-מבן-גביר-לכהן-247279
 https://hamal.co.il/main/השוטר-נדהם-כך-247281
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ריק-והרוס-כך-נראה-רובע-הדאחייה
 https://hamal.co.il/main/צהל-האזעקות-בעוטף---זיהוי-שווא-248141
 https://hamal.co.il/main/בפעם-ה-2-האזעקות-בעוטף---זיהוי-שווא-248142
 https://hamal.co.il/main/משרד-הבריאות-2328-פונו-מבתיהם-בגלל-פגיעת-טיל-מתחילת-המלחמה-248143
+https://news.walla.co.il/item/3821806
+https://news.walla.co.il/item/3821765
+https://hamal.co.il/main/צהל-בהודעת-פינוי-לתושבי-בקעת-הלבנון-248157
+https://hamal.co.il/main/חדירת-הכטבם-לצפון-האירוע-הסתיים---ניתן-לצאת-מהמרחב-המוגן-248158
