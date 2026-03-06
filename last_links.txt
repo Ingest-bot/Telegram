@@ -1,9 +1,4 @@
-COUNTER:8
-https://e.walla.co.il/item/3821250
-https://hamal.co.il/main/דיווח-2-כטבמים-תקפו-בסיס-אמריקני-בעיראק-247255
-https://news.walla.co.il/item/3821255
-https://e.walla.co.il/item/3821256
-https://hamal.co.il/main/המשטרה-חוקרת-פרשת-שחיתות-באחת-הערים-הגדולות-בנגב-247264
+COUNTER:11
 https://hamal.co.il/main/צהל-תוקפים-מטרות-של-החיזבאללה-בביירות-247265
 https://news.walla.co.il/item/3821152
 https://news.walla.co.il/item/3821258
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-ה
 https://news.walla.co.il/item/3821801
 https://hamal.co.il/main/רסיס-גדול-פגע-ב-2-בניינים-במרכז-עד-כה-לא-דווח-על-נפגעים-248119
 https://hamal.co.il/main/בריטניה-4-גברים-נעצרו-בשחד-לריגול-איראנ-אחר-הקהילה-היהודית-248127
+https://news.walla.co.il/item/3821804
+https://news.walla.co.il/break/3821803
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נוסף-בדאחייה-248129
+https://hamal.co.il/main/הירי-מאיראן-בת-25-נפצעה-קל-מרסיס-בגבעתיים-248131
+https://hamal.co.il/main/פרשת-כי-תשא-אלו-זמני-השבת-248130
