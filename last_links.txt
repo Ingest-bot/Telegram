@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/שר-ההגנה-האמריקני-247394
-https://hamal.co.il/main/צהל-השיגורים-מלבנון-יורטו-247395
-https://finance.walla.co.il/item/3821373
+COUNTER:10
 https://news.walla.co.il/item/3821402
 https://travel.walla.co.il/item/3821404
 https://news.walla.co.il/item/3821400
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821878
 https://hamal.co.il/main/דיווח-באזרבייגן-סוכל-פיגוע-איראני-נגד-השגרירות-הישראלית-248400
 https://news.walla.co.il/item/3821883
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-248405
+https://news.walla.co.il/break/3821885
+https://hamal.co.il/main/דיווח-סעודיה-מנהלת-מגעים-עם-איראן-במטרה-לסיים-את-המלחמה-248417
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-ה-248419
