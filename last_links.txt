@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/צהל-תוקפים-מטרות-של-החיזבאללה-בביירות-247265
-https://news.walla.co.il/item/3821152
-https://news.walla.co.il/item/3821258
-https://news.walla.co.il/item/3821265
+COUNTER:14
 https://finance.walla.co.il/item/3821252
 https://hamal.co.il/main/פיקוד-העורף-הכטבם-שחדר-לצפון---יורט-בהצלחה-247268
 https://news.walla.co.il/item/3821268
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3821803
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נוסף-בדאחייה-248129
 https://hamal.co.il/main/הירי-מאיראן-בת-25-נפצעה-קל-מרסיס-בגבעתיים-248131
 https://hamal.co.il/main/פרשת-כי-תשא-אלו-זמני-השבת-248130
+https://e.walla.co.il/item/3821807
+https://hamal.co.il/main/ח-248132
+https://hamal.co.il/main/יוש-248133
+https://hamal.co.il/main/פרסום-ראשון-חילופי-אש-בין-כוחות-צהל-לחיזבאללה-בגבול-לבנון-248134
