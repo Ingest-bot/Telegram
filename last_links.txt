@@ -1,5 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-247152
+COUNTER:11
 https://hamal.co.il/main/בעקבות-ירי-מאיראן-אזעקות-בצפון-הארץ--נא-להיכנס-למרחב-מוגן-247165
 https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-התקבלו-דיווחים-כלל-247169
 https://news.walla.co.il/item/3819875
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-מתקפת-טילים-וכטבמים-נגד-
 https://hamal.co.il/main/סוף-שבוע-הפכפך-התחממות-קלה-ואז-גשמים-וירידה-בטמפרטורות-248083
 https://news.walla.co.il/break/3821775
 https://news.walla.co.il/break/3821776
+https://hamal.co.il/main/מכונת-מלחמה-משומנת-שכותשת-את-איראן-שיתוף-הפעולה-בין-צהל-לצ-248089
