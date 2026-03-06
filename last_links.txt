@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3821389
-https://news.walla.co.il/break/3821391
-https://news.walla.co.il/break/3821393
-https://news.walla.co.il/break/3821395
+COUNTER:16
 https://news.walla.co.il/item/3821407
 https://news.walla.co.il/item/3821408
 https://news.walla.co.il/item/3821411
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווח-בלבנון-צהל-תקף-באל-בקאע-2
 https://hamal.co.il/main/בדקות-הקרובות-זוהו-שיגורים-מאיראן-לדרום-הארץ-248423
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-במקביל---זוהו-שיגורים-למרכז-הארץ-248432
 https://hamal.co.il/main/כעת-הופעלו-אזעקות-בים-המלח-והסביבה-248437
+https://news.walla.co.il/break/3821896
+https://news.walla.co.il/break/3821897
+https://hamal.co.il/main/במקביל-שיגורים-לעבר-דרום-ומרכז-הארץ---ותיעוד-היירוטים-248442
+https://hamal.co.il/main/אש-בטהרן-גל-תקיפות-צהל-פגע-בשדה-התעופה-באזור-248444
