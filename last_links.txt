@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/דרמה-בסרי-לנקה-ספינה-איראנית-הותקפה-מעל-100-נעדרים-בזירה-247290
-https://news.walla.co.il/item/3821316
-https://news.walla.co.il/item/3821320
+COUNTER:14
 https://celebs.walla.co.il/item/3821325
 https://hamal.co.il/main/תיעוד-מעין-הטיל-247293
 https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247292
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3821834
 https://hamal.co.il/main/בנו-של-סמוטריץ-נפצע-בגבול-לבנון-מצבו-קל-הוא-בסדר-248213
 https://hamal.co.il/main/פליי-דובאי-תפעיל-טיסות-מהאמירויות-לנתב״ג-248214
 https://hamal.co.il/main/דיווח-פיצוצים-נשמעו-בבחריין-248215
+https://news.walla.co.il/item/3821837
+https://news.walla.co.il/break/3821840
+https://hamal.co.il/main/אחייניתו-של-דונלד-טראמפ-חושפת-זו-הסיבה-האמיתית-למלחמה-עם-אי-247873
