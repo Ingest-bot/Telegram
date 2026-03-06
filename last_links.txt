@@ -1,5 +1,4 @@
 COUNTER:14
-https://celebs.walla.co.il/item/3821325
 https://hamal.co.il/main/תיעוד-מעין-הטיל-247293
 https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247292
 https://news.walla.co.il/item/3821327
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-פיצוצים-נשמעו-בבחריין-248
 https://news.walla.co.il/item/3821837
 https://news.walla.co.il/break/3821840
 https://hamal.co.il/main/אחייניתו-של-דונלד-טראמפ-חושפת-זו-הסיבה-האמיתית-למלחמה-עם-אי-247873
+https://news.walla.co.il/item/3821841
