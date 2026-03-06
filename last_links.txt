@@ -1,10 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/פרסום-ראשון-הצבא-האמריקאי-פתח-חמ״ל-בקריה-ממנו-ניהל-את-המלחמ-247308
-https://news.walla.co.il/item/3821336
-https://celebs.walla.co.il/item/3821332
-https://celebs.walla.co.il/item/3821333
-https://hamal.co.il/main/תקף-מרחוק-בלי-שזוהה-כך-הופל-המטוס-האיראני-מעל-טהרן-247309
-https://news.walla.co.il/item/3821338
+COUNTER:3
 https://news.walla.co.il/item/3821340
 https://travel.walla.co.il/item/3821341
 https://hamal.co.il/main/הממשלה-מאשרת-את-המבצע-להשבת-הישראלים-מחול-247313
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ישיר-הצהרת-דובר-צהל-248230
 https://hamal.co.il/main/שוב-חשד-לחדירת-כלי-טיס-עוין-בצפון-248247
 https://hamal.co.il/main/תיעוד-מהדאחייה-בביירות-248254
 https://hamal.co.il/main/טראמפ-״לא-תהיה-שום-עסקה-עם-איראן-מלבד-כניעה-ללא-תנאים״-248266
+https://news.walla.co.il/item/3821848
+https://news.walla.co.il/break/3821849
+https://news.walla.co.il/break/3821850
+https://hamal.co.il/main/מפקד-מרכז-האש-בפיקוד-צפון-״חיזבאללה-טעה-טעות-אסטרטגית-מרה״-248274
+https://hamal.co.il/main/צה״ל-תקף-מפקד-בכיר-של-משטר-הטרור-בטהרן-248275
+https://hamal.co.il/main/ראש-הגליל-העליון-״יש-לנו-אחריות-מוסרית-להבטיח-שגרה-לאזרחים״-248276
