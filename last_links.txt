@@ -1,12 +1,4 @@
-COUNTER:6
-https://travel.walla.co.il/item/3821295
-https://celebs.walla.co.il/item/3821299
-https://finance.walla.co.il/item/3821245
-https://tech.walla.co.il/item/3821293
-https://hamal.co.il/main/לא-רק-השמדת-תשתיות-ישראל-247286
-https://news.walla.co.il/item/3821305
-https://news.walla.co.il/item/3821303
-https://e.walla.co.il/item/3821090
+COUNTER:10
 https://hamal.co.il/main/ישיר-הצהרת-דובר-צהל-247275
 https://hamal.co.il/main/דיווח-בנו-של-חמינאי-שרד-את-ניסיון-החיסול---וימונה-247287
 https://e.walla.co.il/item/3821307
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3821828
 https://news.walla.co.il/break/3821829
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-248178
 https://hamal.co.il/main/כץ-248176
+https://news.walla.co.il/item/3821831
+https://news.walla.co.il/break/3821830
+https://news.walla.co.il/break/3821832
+https://news.walla.co.il/break/3821833
+https://hamal.co.il/main/הירי-מאיראן-השיגורים-יורטו-לא-דווח-על-נפגעים-248205
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-248206
+https://hamal.co.il/main/בלו-בירד-מגדילה-טיסות-מאתונה-לנמל-טאבה-248208
+https://hamal.co.il/main/דיווח-זו-המדינה-שסיפקה-לאיראן-מודיעין-על-הבסיסים-האמריקניים-248211
