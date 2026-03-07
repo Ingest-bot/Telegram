@@ -1,5 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/בכירים-אמריקניים-מבהירים-2-ספינות-מלחמה-איראניות-הוטבעו-247572
+COUNTER:4
 https://hamal.co.il/main/הדרמה-בשחקים-איך-זה-שלאיראן-ולישראל-יש-אותו-מטוס-247575
 https://news.walla.co.il/item/3821456
 https://news.walla.co.il/item/3821454
@@ -499,3 +498,4 @@ https://e.walla.co.il/item/3821930
 https://news.walla.co.il/break/3821931
 https://news.walla.co.il/break/3821933
 https://hamal.co.il/main/דיווחים-על-אזעקות-בבירת-ירדן-ובערים-נוספות-248587
+https://hamal.co.il/main/מדא-248588
