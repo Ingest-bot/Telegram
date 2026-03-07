@@ -1,5 +1,4 @@
 COUNTER:10
-https://news.walla.co.il/break/3821434
 https://news.walla.co.il/break/3821433
 https://hamal.co.il/main/בן-גביר-מגיב-ליועמ״שית-״בזמן-מלחמה-היא-רוצה-להפיל-את-המשטר״-247517
 https://hamal.co.il/main/פעילות-רכבת-ישראל-תתרחב-247518
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3821906
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-בדקות-הקרובות-צפויות-שוב-אזעקות-במרכז-248531
 https://hamal.co.il/main/תושבי-המרכז-שוב-בממדים-אזעקות-נוספות-בעקבות-שיגור-מאיראן-248550
 https://hamal.co.il/main/כטבם-אותר-בחניית-בית-חולים-בנהריה-אין-נזק-או-נפגעים-248552
+https://news.walla.co.il/break/3821908
