@@ -1,6 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/פעילות-רכבת-ישראל-תתרחב-247518
-https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-מתחם-צבאי-של-המשטר-במזרח-טהרן-247511
+COUNTER:13
 https://hamal.co.il/main/אזעקות-בגליל-העליון-247526
 https://hamal.co.il/main/אל-על-מפרסמת-את-לוח-טיסות-החילוץ-לנתב״ג-247527
 https://news.walla.co.il/item/3821442
@@ -499,3 +497,5 @@ https://hamal.co.il/main/כטבם-אותר-בחניית-בית-חולים-בנה
 https://news.walla.co.il/break/3821908
 https://news.walla.co.il/break/3821909
 https://hamal.co.il/main/היום-ה-8-במבצע-שאגת-הארי-35-בני-אדם-נפצעו-בדרך-למקלט-248553
+https://hamal.co.il/main/דיווח-בלבנון-צהל-פעל-הלילה-לאתר-את-גופתו-של-רון-ארד-248554
+https://hamal.co.il/main/מעונן-חלקית-וייתכנו-גשמים--תחזית-מזג-האוויר-לשבת-248556
