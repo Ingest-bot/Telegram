@@ -1,6 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3821534
-https://news.walla.co.il/item/3821539
+COUNTER:12
 https://news.walla.co.il/item/3821531
 https://news.walla.co.il/break/3821532
 https://hamal.co.il/main/באמצע-מלחמה-משרד-הביטחון-רוכש-רכבים-קרביים-ב-26-מיליון-דולר-247724
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-שברי-
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-248776
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-248782
 https://hamal.co.il/main/תיעוד-דרמטי-מטהרן-מאגרי-הנפט-של-טהרן-עולים-בלהבות--צפו-248788
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248790
+https://hamal.co.il/main/דיווח-ראשוני-פצוע-מירי-החיזבאללה-בגבול-לצפון-248807
