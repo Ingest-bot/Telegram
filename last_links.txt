@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3821506
-https://news.walla.co.il/break/3821507
-https://news.walla.co.il/item/3821311
+COUNTER:1
 https://news.walla.co.il/break/3821509
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נוסף-בטהרן-247703
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-247704
@@ -499,3 +496,6 @@ https://hamal.co.il/main/גורם-לבנוני-יותר-מ-150-איראנים-ע
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-דווח-על-נפגעים-248725
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילה-של-שברי-יירוט-באזור-חיפה-248726
 https://hamal.co.il/main/הצהרת-דובר-צהל-תת-אלוף-אפי-דפרין--שידור-ישיר-248723
+https://news.walla.co.il/item/3822002
+https://hamal.co.il/main/צהל-תקף-את-שני-האתרים-המרכזיים-לייצור-טילים-בליסטיים-באיראן-248742
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248744
