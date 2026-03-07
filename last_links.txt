@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3821456
+COUNTER:6
 https://news.walla.co.il/item/3821454
 https://news.walla.co.il/break/3821457
 https://hamal.co.il/main/תיעוד-מסיבת-רחוב-המונית-בירושלים-בניגוד-להנחיות-247577
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3821933
 https://hamal.co.il/main/דיווחים-על-אזעקות-בבירת-ירדן-ובערים-נוספות-248587
 https://hamal.co.il/main/מדא-248588
 https://hamal.co.il/main/רץ-ברשת-הלבנונית-התיעוד-של-צהל-מחפשים-את-שרידי-רון-ארד-248591
+https://hamal.co.il/main/צהל-מאשר-אכן-חיפשנו---לא-אותרו-ממצאים-הנוגעים-לו-248593
