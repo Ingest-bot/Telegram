@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3821565
-https://news.walla.co.il/break/3821564
-https://news.walla.co.il/break/3821567
-https://news.walla.co.il/break/3821566
-https://news.walla.co.il/break/3821569
+COUNTER:2
 https://news.walla.co.il/break/3821570
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247745
 https://hamal.co.il/main/שברי-יירוט-נפלו-במרכז-הארץ-נזק-נגרם-במקום-ללא-פצועים-247747
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בהשכלה-הגבוהה-נערכים-לפתיחת-ה�
 https://hamal.co.il/main/טראמפ-אנו-עוקרים-כעת-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-248841
 https://news.walla.co.il/item/3822035
 https://news.walla.co.il/item/3822036
+https://news.walla.co.il/break/3822038
+https://news.walla.co.il/break/3822041
+https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-את-המשגר-ממנו-נורו-רקטות-לעבר-י-248846
+https://hamal.co.il/main/דובר-צהל-צהל-החל-בגל-תקיפות-נוסף-בביירות-ראשוני-צהל-248847
+https://hamal.co.il/main/קריית-בעדכון-בטחוני-חשוב-ובבקשה-חשובה-לתושביה-248848
