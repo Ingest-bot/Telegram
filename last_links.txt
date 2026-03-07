@@ -1,9 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/עשרות-מערכות-טילים-בליסטיים-והגנה-הותקפו-היום-במערב-ובמרכז-א-247595
-https://news.walla.co.il/item/3821471
-https://hamal.co.il/main/טראמפ-כשאנשים-משוגעים-מחזיקים-בנשק-גרעיני-דברים-רעים-קורים-247596
-https://hamal.co.il/main/תקיפה-בדאחייה-היעד---אחראי-ניהול-האש-בחיזבאללה-247598
-https://hamal.co.il/main/אזעקות-בגליל-העליון-עקב-חדירת-כלי-טיס-עוין-247606
 https://hamal.co.il/main/ממחר-הקלה-בהנחיות-פיקוד-העורף-247609
 https://news.walla.co.il/break/3821477
 https://news.walla.co.il/break/3821475
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תיעודים-ברשתות-של-מטה-משמרות-ה
 https://news.walla.co.il/item/3821895
 https://hamal.co.il/main/צהל-קורא-לתושבי-דרום-לבנון-דרומית-לנהר-הליטאני-להתפנות-248617
 https://hamal.co.il/main/דוח-מודיעין-אמריקני-גם-מלחמה-באיראן-לא-תגרום-לנפילת-המשטר-248618
+https://news.walla.co.il/break/3821953
+https://news.walla.co.il/break/3821954
+https://news.walla.co.il/break/3821956
+https://news.walla.co.il/break/3821957
+https://news.walla.co.il/break/3821951
