@@ -1,11 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3821519
-https://hamal.co.il/main/חוזרים-הביתה-טיסות-החילוץ-הראשונות-נחתו-הבוקר-בנתב״ג-247720
-https://news.walla.co.il/item/3821526
-https://e.walla.co.il/item/3821522
-https://news.walla.co.il/item/3821529
-https://hamal.co.il/main/כוחותינו-עצרו-פעיל-תנזים-247714
-https://hamal.co.il/main/מגמת-השיגורים-האיראנים-יורדת-אבל-עולה-מחיזבאללה-247722
+COUNTER:9
 https://news.walla.co.il/item/3821538
 https://news.walla.co.il/item/3821534
 https://news.walla.co.il/item/3821539
@@ -499,3 +492,10 @@ https://hamal.co.il/main/בפעם-השנייה-היום-צהל-תוקף-תשתי
 https://hamal.co.il/main/מדא-על-הירי-האחרון-אין-דיווחים-על-נפגעים-248757
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-248759
 https://hamal.co.il/main/צהל-ושבכ-תקפו-מחבל-חמאס-שתכנן-לבצע-פיגוע-נגד-כוחותינו-248768
+https://news.walla.co.il/break/3822015
+https://news.walla.co.il/break/3822017
+https://news.walla.co.il/break/3822016
+https://hamal.co.il/main/דיווח-לראשונה-במלחמה---תקיפות-על-מתקני-נפט-באיראן-248773
+https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-שברי-יירוט-בחדרה-248778
+https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-248776
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-248782
