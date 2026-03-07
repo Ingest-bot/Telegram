@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/דיווח-פיצוצים-נשמעים-בדוחא-בירת-קאטר-247753
-https://hamal.co.il/main/אישום-נגד-3-תושבי-הפזורה-שהבריחו-אמל״ח-מירדן-247754
-https://hamal.co.il/main/צהל-ממשיך-לתקוף-בלב-טהרן-אתרי-אחסון-טילים-הושמדו-247752
+COUNTER:5
 https://news.walla.co.il/item/3821574
 https://news.walla.co.il/item/3821584
 https://news.walla.co.il/break/3821580
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821620
 https://news.walla.co.il/item/3820860
 https://news.walla.co.il/item/3821681
 https://hamal.co.il/main/צהל-תקף-מאגרי-דלק-ששימשו-את-הכוחות-הצבאיים-של-משטר-הטרור-הא-248849
+https://news.walla.co.il/break/3822045
+https://hamal.co.il/main/טראמפ-אנו-עוקרים-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-ע-248850
+https://hamal.co.il/main/אמיר-קטאר-שוחח-בטלפון-עם-נשיא-ארהב-דונלד-טראמפ-עידן-קוולר-248851
