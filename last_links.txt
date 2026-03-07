@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3821584
+COUNTER:6
 https://news.walla.co.il/break/3821580
 https://hamal.co.il/main/חוסלה-חוליית-מחבלים-שפעלה-מתוך-מפקדה-בדרום-לבנון-247755
 https://news.walla.co.il/item/3821585
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3822045
 https://hamal.co.il/main/טראמפ-אנו-עוקרים-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-ע-248850
 https://hamal.co.il/main/אמיר-קטאר-שוחח-בטלפון-עם-נשיא-ארהב-דונלד-טראמפ-עידן-קוולר-248851
 https://news.walla.co.il/break/3822047
+https://hamal.co.il/main/אזעקה-הופעלה-במרגליות-שבצפון-248854
