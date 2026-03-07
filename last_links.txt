@@ -1,8 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/״המטרה-נפלה״-תיעוד-ראשון-מהפלת-מטוס-הקרב-האיראני-247735
-https://news.walla.co.il/item/3821555
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לישראל-247738
-https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247743
+COUNTER:19
 https://e.walla.co.il/item/3821561
 https://news.walla.co.il/item/3821568
 https://news.walla.co.il/item/3821565
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822030
 https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-וההורים-מתוסכלים-248731
 https://news.walla.co.il/break/3822031
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-248818
+https://hamal.co.il/main/טראמפ-נגד-סטארמר-לא-צריך-אנשים-שמצטרפים-למלחמה-אחרי-ניצחון-248839
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-הארץ-248838
+https://hamal.co.il/main/בהשכלה-הגבוהה-נערכים-לפתיחת-הסמסטר-בזום-הקמפוסים-סגורים-248816
+https://hamal.co.il/main/טראמפ-אנו-עוקרים-כעת-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-248841
