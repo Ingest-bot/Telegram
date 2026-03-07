@@ -1,6 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3821449
-https://news.walla.co.il/break/3821447
+COUNTER:1
 https://news.walla.co.il/break/3821448
 https://hamal.co.il/main/תיעוד-ראשון-מנקודת-האחיזה-של-צה״ל-בדרום-לבנון-247559
 https://news.walla.co.il/item/3821451
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3821923
 https://hamal.co.il/main/גל-חדש-של-תקיפות-טילים-וכטבמים-לעבר-בחריין-וקטאר-248566
 https://hamal.co.il/main/פרסומים-בארה״ב-אודות-שליחת-נושאת-מטוסים-שלישית-למזרח-התיכון-248568
 https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-בטהרן-ובאיספהאן-248569
+https://news.walla.co.il/item/3821918
+https://hamal.co.il/main/תקרית-האש-בכפר-נבי-שית-בלבנוןמה-הקשר-בין-לחיפושים-אחרי-הנווט-248570
