@@ -1,5 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3821538
+COUNTER:10
 https://news.walla.co.il/item/3821534
 https://news.walla.co.il/item/3821539
 https://news.walla.co.il/item/3821531
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-לראשונה-במלחמה---תקיפות-�
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-שברי-יירוט-בחדרה-248778
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-248776
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-248782
+https://hamal.co.il/main/תיעוד-דרמטי-מטהרן-מאגרי-הנפט-של-טהרן-עולים-בלהבות--צפו-248788
