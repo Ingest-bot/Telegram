@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3821445
-https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247545
-https://hamal.co.il/main/גם-בחזית-הצפונית-פצצת-מצרר-אותרה-במטולה-247552
-https://hamal.co.il/main/מד״א-אין-דיווחים-על-נפגעים-במטח-האחרון-247556
+COUNTER:0
 https://news.walla.co.il/item/3821449
 https://news.walla.co.il/break/3821447
 https://news.walla.co.il/break/3821448
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3821919
 https://news.walla.co.il/break/3821921
 https://hamal.co.il/main/נשיא-איראן-מתנצל-בפני-מדינות-האזור-אבל-גם-מאיים-248564
 https://hamal.co.il/main/משרד-ההגנה-של-קטאר-אומר-שיירט-מתקפת-טילים-248565
+https://news.walla.co.il/break/3821923
+https://hamal.co.il/main/גל-חדש-של-תקיפות-טילים-וכטבמים-לעבר-בחריין-וקטאר-248566
+https://hamal.co.il/main/פרסומים-בארה״ב-אודות-שליחת-נושאת-מטוסים-שלישית-למזרח-התיכון-248568
+https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-בטהרן-ובאיספהאן-248569
