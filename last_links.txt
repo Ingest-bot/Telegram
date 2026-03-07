@@ -1,8 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/item/3821469
-https://hamal.co.il/main/בזמן-מלחמה-קבוצת-נערים-תקפה-באלימות-עוברי-אורח-בירושלים-247616
-https://news.walla.co.il/item/3821482
-https://hamal.co.il/main/דיווח-דרמטי-אלפי-כורדים-החלו-במתקפה-קרקעית-באיראן-247617
+COUNTER:0
 https://hamal.co.il/main/בכירים-אמריקניים-וישראלים-מאשרים-הכורדים-פתחו-במתקפה-247618
 https://hamal.co.il/main/גורם-ישראלי-האירוע-עם-הכורדים-אמתי-ומשמעותי-בישראל-לא-הופת-247619
 https://news.walla.co.il/blog/3821485
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מפקד-חיל-האוויר-השתתף-אתמול-בת
 https://news.walla.co.il/item/3821962
 https://hamal.co.il/main/במנהלת-מאמינים-בתוך-10-14-ימים-ניתן-יהיה-לחדש-את-המשחקים-248650
 https://hamal.co.il/main/טראמפ-כשמסתכלים-על-710-ומעבר---תראו-את-כל-ההרג-שהם-ביצעו-248657
+https://news.walla.co.il/item/3821968
+https://news.walla.co.il/item/3821970
+https://hamal.co.il/main/דיווחים-פיצוצים-בבחריין-מתקפת-טילים-על-איחוד-האמירויות-248660
+https://hamal.co.il/main/16-מטוסים-איראניים-הושמדו-בטהרן---בפעולת-תקיפה-אחת-248666
