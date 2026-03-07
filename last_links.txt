@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/אזעקות-בגליל-העליון-247526
-https://hamal.co.il/main/אל-על-מפרסמת-את-לוח-טיסות-החילוץ-לנתב״ג-247527
-https://news.walla.co.il/item/3821442
-https://news.walla.co.il/item/3821439
+COUNTER:14
 https://hamal.co.il/main/עוכבה-לחקירה-אישה-בת-52-בחשד-שתקפה-עיתונאית-ברחבת-הבימה-247529
 https://hamal.co.il/main/ביקורת-נגד-רשתות-המזון-מגמה-של-ביטול-מבצעים-בחסות-המצב״-247486
 https://hamal.co.il/main/מפקד-רמת-דוד-״הטלתי-את-הפצצות-וראיתי-לצידי-עשרות-מטוסי-קרב״-247521
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3821909
 https://hamal.co.il/main/היום-ה-8-במבצע-שאגת-הארי-35-בני-אדם-נפצעו-בדרך-למקלט-248553
 https://hamal.co.il/main/דיווח-בלבנון-צהל-פעל-הלילה-לאתר-את-גופתו-של-רון-ארד-248554
 https://hamal.co.il/main/מעונן-חלקית-וייתכנו-גשמים--תחזית-מזג-האוויר-לשבת-248556
+https://news.walla.co.il/item/3821910
+https://news.walla.co.il/break/3821912
+https://news.walla.co.il/break/3821913
+https://hamal.co.il/main/צהל-השלים-תקיפה-נוספת-לעבר-תשתיות-משטר-הטרור-בטהרן-248559
