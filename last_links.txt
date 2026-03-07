@@ -1,6 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/break/3821488
-https://news.walla.co.il/break/3821489
 https://news.walla.co.il/break/3821491
 https://news.walla.co.il/break/3821492
 https://hamal.co.il/main/ניסיון-חיסול-בלבנון-מדווחים-על-תקיפת-דירה-בדאחיה-ללא-אזהרה-247633
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נתניהו-הפעולה-שביצענו-לא-הביא�
 https://news.walla.co.il/item/3821988
 https://hamal.co.il/main/צהל-שני-לוחמים-נפצע-בינוני-מירי-נט-בדרום-לבנון-248682
 https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף-נותרה-ללא-שינוי-עד-יום-שני-248685
+https://news.walla.co.il/item/3821891
+https://news.walla.co.il/item/3821990
