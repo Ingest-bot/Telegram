@@ -1,5 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/ממחר-הקלה-בהנחיות-פיקוד-העורף-247609
 https://news.walla.co.il/break/3821477
 https://news.walla.co.il/break/3821475
 https://news.walla.co.il/break/3821478
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3821954
 https://news.walla.co.il/break/3821956
 https://news.walla.co.il/break/3821957
 https://news.walla.co.il/break/3821951
+https://news.walla.co.il/break/3821958
