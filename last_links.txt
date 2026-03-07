@@ -1,6 +1,4 @@
 COUNTER:2
-https://news.walla.co.il/blog/3821485
-https://news.walla.co.il/break/3821483
 https://news.walla.co.il/break/3821484
 https://news.walla.co.il/item/3821294
 https://news.walla.co.il/item/3821431
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווחים-פיצוצים-בבחריין-מתקפת
 https://hamal.co.il/main/16-מטוסים-איראניים-הושמדו-בטהרן---בפעולת-תקיפה-אחת-248666
 https://hamal.co.il/main/דיווח-מועצת-המומחים-באיראן-תחליט-על-המנהיג-הבא-248667
 https://hamal.co.il/main/צהל-תקף-את-חמ״ל-ההגנה-האווירית-המרכזי-במשמרות-המהפכה-248663
+https://news.walla.co.il/item/3821976
+https://news.walla.co.il/item/3821977
