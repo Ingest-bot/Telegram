@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3821484
-https://news.walla.co.il/item/3821294
+COUNTER:3
 https://news.walla.co.il/item/3821431
 https://news.walla.co.il/item/3820834
 https://news.walla.co.il/item/3821322
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-מועצת-המומחים-באיראן-תח�
 https://hamal.co.il/main/צהל-תקף-את-חמ״ל-ההגנה-האווירית-המרכזי-במשמרות-המהפכה-248663
 https://news.walla.co.il/item/3821976
 https://news.walla.co.il/item/3821977
+https://news.walla.co.il/item/3821981
+https://hamal.co.il/main/גורמים-בצבא-בשלב-זה-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-248674
