@@ -1,13 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3821503
-https://news.walla.co.il/break/3821504
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247668
-https://hamal.co.il/main/בפעם-השלישית-הלילה-זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-247671
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247693
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-247694
-https://news.walla.co.il/item/3821505
-https://news.walla.co.il/item/3821494
-https://hamal.co.il/main/דיווח-ב-CNN-מטוסים-קאטרים-תקפו-משגרים-איראנים---דקות-לפני-ש-247695
+COUNTER:19
 https://news.walla.co.il/break/3821506
 https://news.walla.co.il/break/3821507
 https://news.walla.co.il/item/3821311
@@ -499,3 +490,12 @@ https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-ק�
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248707
 https://hamal.co.il/main/גורם-ישראלי-בנו-של-חמינאי-נפצע-אך-עדיין-חי-248709
 https://hamal.co.il/main/אזעקות-בחיפה-והקריות--כל-העדכונים-248719
+https://news.walla.co.il/item/3821997
+https://news.walla.co.il/break/3821996
+https://news.walla.co.il/break/3821998
+https://news.walla.co.il/break/3822000
+https://news.walla.co.il/break/3822001
+https://hamal.co.il/main/גורם-לבנוני-יותר-מ-150-איראנים-עזבו-היום-את-לבנון-248724
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-דווח-על-נפגעים-248725
+https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילה-של-שברי-יירוט-באזור-חיפה-248726
+https://hamal.co.il/main/הצהרת-דובר-צהל-תת-אלוף-אפי-דפרין--שידור-ישיר-248723
