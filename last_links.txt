@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3821431
-https://news.walla.co.il/item/3820834
-https://news.walla.co.il/item/3821322
+COUNTER:6
 https://hamal.co.il/main/גבר-בן-29-נפצע-קשה-בירושלים-247625
 https://hamal.co.il/main/דובר-צהל-בערבית-הוציא-התרעת-פינוי-למבנה-בדאחיה-בביירות-247627
 https://hamal.co.il/main/באיראן-מכחישים-את-פעולת-הכורדים-לוחמה-פסיכולוגית-247628
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821976
 https://news.walla.co.il/item/3821977
 https://news.walla.co.il/item/3821981
 https://hamal.co.il/main/גורמים-בצבא-בשלב-זה-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-248674
+https://hamal.co.il/main/חדשות-השבת-248677
+https://hamal.co.il/main/סיכום-פעילות-צהל-בגזרות-השונות-במהלך-סוף-השבוע-248680
+https://hamal.co.il/main/נתניהו-הפעולה-שביצענו-לא-הביאה-את-הממצאים-אותם-חיפשנו-248681
