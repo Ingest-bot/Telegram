@@ -1,6 +1,4 @@
 COUNTER:19
-https://e.walla.co.il/item/3821561
-https://news.walla.co.il/item/3821568
 https://news.walla.co.il/item/3821565
 https://news.walla.co.il/break/3821564
 https://news.walla.co.il/break/3821567
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-נגד-סטארמר-לא-צריך-אנשים
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-הארץ-248838
 https://hamal.co.il/main/בהשכלה-הגבוהה-נערכים-לפתיחת-הסמסטר-בזום-הקמפוסים-סגורים-248816
 https://hamal.co.il/main/טראמפ-אנו-עוקרים-כעת-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-248841
+https://news.walla.co.il/item/3822035
+https://news.walla.co.il/item/3822036
