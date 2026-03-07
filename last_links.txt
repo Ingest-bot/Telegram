@@ -1,5 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3821451
+COUNTER:2
 https://hamal.co.il/main/בניגוד-להנחיות-פיקוד-העורףחגיגות-והתקהלויות-מסוכנות-בירושלים-247564
 https://hamal.co.il/main/תיעוד-ראשון-מהאוויר-מטוסי-קרב-של-חיל-האוויר-בדרך-לאיראן-247563
 https://news.walla.co.il/item/3821440
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3821918
 https://hamal.co.il/main/תקרית-האש-בכפר-נבי-שית-בלבנוןמה-הקשר-בין-לחיפושים-אחרי-הנווט-248570
 https://news.walla.co.il/item/3821926
 https://news.walla.co.il/break/3821928
+https://hamal.co.il/main/הבדלנים-הכורדים-ממתינים-על-גבול-איראן-התכוננו-47-שנה-248573
