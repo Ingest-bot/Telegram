@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3821477
-https://news.walla.co.il/break/3821475
+COUNTER:16
 https://news.walla.co.il/break/3821478
 https://hamal.co.il/main/המשטרה-פיזרה-את-המסיבות-בירושלים-6-נעצרו-247608
 https://hamal.co.il/main/רסיס-נפל-ליד-ביתו-של-גיא-הוכמן---וגרם-לנזק-משמעותי-247611
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3821956
 https://news.walla.co.il/break/3821957
 https://news.walla.co.il/break/3821951
 https://news.walla.co.il/break/3821958
+https://hamal.co.il/main/ראשון-לציון-שרסיס-נפל-בשטח-פתוח-248646
+https://hamal.co.il/main/מפקד-חיל-האוויר-השתתף-אתמול-בתקיפה-במטס-באיראן-248647
