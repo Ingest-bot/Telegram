@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/באמצע-מלחמה-משרד-הביטחון-רוכש-רכבים-קרביים-ב-26-מיליון-דולר-247724
-https://travel.walla.co.il/item/3821540
-https://news.walla.co.il/break/3821546
-https://news.walla.co.il/item/3821548
-https://news.walla.co.il/break/3821547
+COUNTER:14
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-השונות-247727
 https://hamal.co.il/main/יעקב-עמידרור-מעריך-זה-הזמן-שיקח-להכניע-את-איראן-247730
 https://hamal.co.il/main/״המטרה-נפלה״-תיעוד-ראשון-מהפלת-מטוס-הקרב-האיראני-247735
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/דיווח-ראשוני-פצוע-מירי-החיזבאללה-בגבול-לצפון-248807
 https://news.walla.co.il/item/3822023
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248809
+https://news.walla.co.il/break/3822026
+https://news.walla.co.il/break/3822028
+https://news.walla.co.il/break/3822029
+https://news.walla.co.il/break/3822030
+https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-וההורים-מתוסכלים-248731
