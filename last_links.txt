@@ -1,8 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/בניגוד-להנחיות-פיקוד-העורףחגיגות-והתקהלויות-מסוכנות-בירושלים-247564
-https://hamal.co.il/main/תיעוד-ראשון-מהאוויר-מטוסי-קרב-של-חיל-האוויר-בדרך-לאיראן-247563
-https://news.walla.co.il/item/3821440
-https://news.walla.co.il/break/3821453
+COUNTER:3
 https://hamal.co.il/main/בכירים-אמריקניים-מבהירים-2-ספינות-מלחמה-איראניות-הוטבעו-247572
 https://hamal.co.il/main/הדרמה-בשחקים-איך-זה-שלאיראן-ולישראל-יש-אותו-מטוס-247575
 https://news.walla.co.il/item/3821456
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תקרית-האש-בכפר-נבי-שית-בלבנוןמ
 https://news.walla.co.il/item/3821926
 https://news.walla.co.il/break/3821928
 https://hamal.co.il/main/הבדלנים-הכורדים-ממתינים-על-גבול-איראן-התכוננו-47-שנה-248573
+https://e.walla.co.il/item/3821930
+https://news.walla.co.il/break/3821931
+https://news.walla.co.il/break/3821933
+https://hamal.co.il/main/דיווחים-על-אזעקות-בבירת-ירדן-ובערים-נוספות-248587
