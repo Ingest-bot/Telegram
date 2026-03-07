@@ -1,8 +1,4 @@
 COUNTER:9
-https://hamal.co.il/main/נכנעה-לאיום-247580
-https://hamal.co.il/main/ציוד-ההגברה-הוחרם-המשטרה-פועלת-לפיזור-מסיבת-הרחוב-בירושלים-247581
-https://news.walla.co.il/item/3821462
-https://hamal.co.il/main/מקרון-״-247583
 https://hamal.co.il/main/נעים-קאסם-״ישראל-לא-קיימה-סעיף-בהפסקת-האש״-247584
 https://news.walla.co.il/item/3821461
 https://news.walla.co.il/break/3821465
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3821943
 https://hamal.co.il/main/תמי-ארד-הרצון-לדעת-מה-עם-רון-נעצר-ברגע-שהוא-מסכן-את-צהל-248594
 https://hamal.co.il/main/חיזבאללה-ב״הודעות-פינוי״-לתושבי-קריית-שמונה-ונהריה-248596
 https://hamal.co.il/main/טראמפ-מזהיר-שאיראן-תוכה-קשה-מאוד-היום-248597
+https://news.walla.co.il/item/3821689
+https://news.walla.co.il/item/3821944
+https://news.walla.co.il/item/3821785
+https://news.walla.co.il/break/3821945
