@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/טראמפ-בבית-הלבן--248028
-https://news.walla.co.il/item/3820511
-https://news.walla.co.il/item/3821759
+COUNTER:0
 https://hamal.co.il/main/להבות-ועשן-שחור-הכוחות-מנסים-להשתלט-על-הזירה-הבוערת-במרכז-248032
 https://hamal.co.il/main/דקה-אחר-דקה-רגעי-נפילת-הטיל-במרכז-248035
 https://news.walla.co.il/item/3821758
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822255
 https://news.walla.co.il/break/3822256
 https://news.walla.co.il/break/3822258
 https://hamal.co.il/main/צהל-ירחיב-את-המתקפה-על-חיזבאללה-בלבנון--הפרטים-249186
+https://news.walla.co.il/break/3822264
+https://news.walla.co.il/break/3822265
+https://hamal.co.il/main/בים-באוויר-וביבשה-הנשים-בחזית-מבצע-״שאגת-הארי״-249198
