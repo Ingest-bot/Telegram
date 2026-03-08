@@ -1,9 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/להבות-ועשן-שחור-הכוחות-מנסים-להשתלט-על-הזירה-הבוערת-במרכז-248032
-https://hamal.co.il/main/דקה-אחר-דקה-רגעי-נפילת-הטיל-במרכז-248035
-https://news.walla.co.il/item/3821758
-https://news.walla.co.il/break/3821763
-https://news.walla.co.il/break/3821764
+COUNTER:1
 https://hamal.co.il/main/מזכיר-ההגנה-האמריקני--248036
 https://hamal.co.il/main/כעת-אזעקות-הופעלו-במטולה-248039
 https://hamal.co.il/main/כעת-אזעקות-בעקבות-שיגור-מאיראן-בצפון-הארץ-248040
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-ירחיב-את-המתקפה-על-חיזבאלל
 https://news.walla.co.il/break/3822264
 https://news.walla.co.il/break/3822265
 https://hamal.co.il/main/בים-באוויר-וביבשה-הנשים-בחזית-מבצע-״שאגת-הארי״-249198
+https://news.walla.co.il/item/3822267
+https://news.walla.co.il/item/3822268
+https://news.walla.co.il/break/3822269
+https://news.walla.co.il/break/3822270
+https://hamal.co.il/main/בלב-טהרן-צהל-חיסל-את-ראש-הלשכה-המיועד-249202
