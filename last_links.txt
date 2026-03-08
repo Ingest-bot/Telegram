@@ -1,7 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-248115
-https://news.walla.co.il/item/3821801
-https://hamal.co.il/main/רסיס-גדול-פגע-ב-2-בניינים-במרכז-עד-כה-לא-דווח-על-נפגעים-248119
 https://hamal.co.il/main/בריטניה-4-גברים-נעצרו-בשחד-לריגול-איראנ-אחר-הקהילה-היהודית-248127
 https://news.walla.co.il/item/3821804
 https://news.walla.co.il/break/3821803
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822316
 https://news.walla.co.il/break/3822317
 https://hamal.co.il/main/דרמה-אישה-ילדה-בניידת---ושניות-לאחר-הלידה-התקבלה-התרעת-ירי-249304
 https://hamal.co.il/main/ראש-עיריית-עראבה-נורה-חברי-מועצה-נוספים-נפצעו-249305
+https://news.walla.co.il/item/3822321
+https://news.walla.co.il/item/3822317
+https://news.walla.co.il/item/3822323
