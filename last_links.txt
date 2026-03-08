@@ -1,5 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/יצאתם-מהממד-תבדקו-שהאוטו-שלכם-עדיין-בחנייה-247780
+COUNTER:13
 https://news.walla.co.il/item/3821786
 https://hamal.co.il/main/בתו-של-מחבל-משוחרר-היללה-את-ירי-248105
 https://hamal.co.il/main/איום-פצצת-248106
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צה״ל-תקף-את-מטה-חיל-האוויר-של-מ
 https://hamal.co.il/main/נטלי-דדון-בטור-דעה-מיוחד-ליום-האישה-249296
 https://news.walla.co.il/break/3822304
 https://news.walla.co.il/break/3822306
+https://hamal.co.il/main/הרוג-שביעי-לצבא-ארה״ב-במלחמה-מול-איראן-החייל-נהרג-בסעודיה-249297
