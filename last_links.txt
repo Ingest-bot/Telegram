@@ -1,9 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3821641
-https://hamal.co.il/main/תושבי-הדאחייה-קיבלו-הודעת-פינוי-״הצילו-את-חייכם-והתפנו-מיד״-247824
-https://hamal.co.il/main/לופטהנזה-משעה-שוב-את-טיסותיה-לישראל-זה-התאריך-החדש-247825
-https://hamal.co.il/main/הקבינט-הלבנוני-החליט-אזרחים-איראנים-ידרשו-בוויזה-247826
-https://hamal.co.il/main/כוחות-משטרה-במרדף-בצפון-אחר-חשוד-שמתכנן-לבצע-פיגוע-247827
+COUNTER:12
 https://news.walla.co.il/item/3821641
 https://news.walla.co.il/item/3821646
 https://news.walla.co.il/item/3821647
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מועצת-המומחים-של-איראן-בחרנו-א
 https://news.walla.co.il/item/3822072
 https://news.walla.co.il/item/3822077
 https://hamal.co.il/main/חזה-את-המלחמה-עם-איראן---וזה-מה-שהוא-מנבא-לשבוע-הקרוב-248992
+https://news.walla.co.il/item/3822078
+https://news.walla.co.il/item/3822080
+https://news.walla.co.il/item/3822082
+https://news.walla.co.il/break/3822083
+https://hamal.co.il/main/האזעקות-בצפון-עד-כה-לא-דווח-על-נפגעים-249033
