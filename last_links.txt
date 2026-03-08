@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/בריטניה-4-גברים-נעצרו-בשחד-לריגול-איראנ-אחר-הקהילה-היהודית-248127
-https://news.walla.co.il/item/3821804
-https://news.walla.co.il/break/3821803
-https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נוסף-בדאחייה-248129
-https://hamal.co.il/main/הירי-מאיראן-בת-25-נפצעה-קל-מרסיס-בגבעתיים-248131
+COUNTER:17
 https://hamal.co.il/main/פרשת-כי-תשא-אלו-זמני-השבת-248130
 https://e.walla.co.il/item/3821807
 https://hamal.co.il/main/ח-248132
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ראש-עיריית-עראבה-נורה-חברי-מוע
 https://news.walla.co.il/item/3822321
 https://news.walla.co.il/item/3822317
 https://news.walla.co.il/item/3822323
+https://news.walla.co.il/item/3822329
+https://news.walla.co.il/break/3822327
+https://news.walla.co.il/break/3822325
+https://news.walla.co.il/break/3822326
+https://hamal.co.il/main/האייתוללה-מוגטאבה-חמינאי-מונה-למנהיג-העליון-249306
