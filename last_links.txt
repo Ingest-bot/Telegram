@@ -1,10 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/יוש-248133
-https://hamal.co.il/main/פרסום-ראשון-חילופי-אש-בין-כוחות-צהל-לחיזבאללה-בגבול-לבנון-248134
-https://news.walla.co.il/item/3821809
-https://news.walla.co.il/break/3821810
-https://hamal.co.il/main/בצהל-מתריעים-כך-חיזבאללה-מנסה-לנקום-את-מות-248135
-https://news.walla.co.il/break/3821813
+COUNTER:0
 https://news.walla.co.il/break/3821814
 https://news.walla.co.il/break/3821815
 https://news.walla.co.il/break/3821817
@@ -499,3 +493,9 @@ https://hamal.co.il/main/האייתוללה-מוגטאבה-חמינאי-מונה
 https://news.walla.co.il/item/3822328
 https://news.walla.co.il/break/3822330
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-קש-והסביבה-249311
+https://news.walla.co.il/blog/3822333
+https://news.walla.co.il/item/3822198
+https://news.walla.co.il/break/3822334
+https://news.walla.co.il/break/3822331
+https://hamal.co.il/main/מטען-חבלה-הושלך-בניו-יורק---אבל-תשומת-ליבו-של-ממדאני-הייתה-ב-249312
+https://hamal.co.il/main/אחרי-המינוי-צעקות-מוות-למוגתבא-בטהרן-249313
