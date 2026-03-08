@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-247919
-https://news.walla.co.il/item/3821732
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247937
+COUNTER:3
 https://hamal.co.il/main/הצהרת-הרמטכל-אייל-זמיר--שידור-ישיר-247922
 https://hamal.co.il/main/צהל-חיסל-את-מפקד-ניהול-כוח-האש-של-חיזבאללה-בביירות-247944
 https://hamal.co.il/main/אזעקות-בטבריה-והסביבה-247947
@@ -499,3 +496,6 @@ https://e.walla.co.il/item/3822195
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249100
 https://hamal.co.il/main/הירי-מאיראן-פצוע-קשה-בתא-שניים-במצב-בינוני-וקל-בפת-249104
 https://hamal.co.il/main/המזכיר-הצבאי-של-חוסל-כץ-249105
+https://news.walla.co.il/break/3822202
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-249107
+https://hamal.co.il/main/בצהל-מדגישים-249121
