@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/המטה-לביטחון-לאומי-בהבהרה-לציבור-הישראלי-השוהה-בחול-247964
-https://hamal.co.il/main/טאקר-קרלסון-חבד-עומד-מאחורי-התקיפה-באיראן-247872
-https://hamal.co.il/main/מפקד-חטיבת-גבעתי-על-חיסול-מחבל-החיזבאללה-סגירת-מעגל-247968
-https://hamal.co.il/main/סילמן-לטראמפ-תטיל-סנקציות-על-היועמשית-ונשיא-העליון-247970
-https://e.walla.co.il/item/3821662
+COUNTER:13
 https://news.walla.co.il/item/3821697
 https://news.walla.co.il/break/3821747
 https://hamal.co.il/main/צהל-קצין-ולוחם-בחטיבת-גבעתי-נפצעו-קשה-ובינוני-בקרב-בלבנון-247971
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-מסוק-ירט-כטבם-בצפון---ופגע-�
 https://news.walla.co.il/item/3822219
 https://hamal.co.il/main/חניון-תת-קרקעי-הוא-לא-תמיד-מקלט-למה-אסור-לעצור-במינוס-1-249137
 https://hamal.co.il/main/מעל-600-מטרות-הותקפו-כ-200-מחבלים-חוסלו-249132
+https://news.walla.co.il/item/3822230
+https://news.walla.co.il/item/3822229
+https://news.walla.co.il/item/3822224
+https://hamal.co.il/main/2-פצועים-הגיעו-לאיכילוב-מזירת-הנפילה-בתל-אביב-249141
+https://hamal.co.il/main/צבא-ארהב-איראן-משגרת-מאזורים-מאוכלסים-אנו-עשוים-לתקוף-שם-249145
