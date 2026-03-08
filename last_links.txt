@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3821637
-https://news.walla.co.il/break/3821638
-https://news.walla.co.il/break/3821639
+COUNTER:11
 https://news.walla.co.il/break/3821641
 https://hamal.co.il/main/תושבי-הדאחייה-קיבלו-הודעת-פינוי-״הצילו-את-חייכם-והתפנו-מיד״-247824
 https://hamal.co.il/main/לופטהנזה-משעה-שוב-את-טיסותיה-לישראל-זה-התאריך-החדש-247825
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3821983
 https://news.walla.co.il/break/3822073
 https://hamal.co.il/main/צהל-בהודעת-פינוי-נוספת-לתושבי-הדאחייה-נפעל-בעוצמה-248993
 https://hamal.co.il/main/מועצת-המומחים-של-איראן-בחרנו-את-יורשו-של-חמינאי-248994
+https://news.walla.co.il/item/3822072
+https://news.walla.co.il/item/3822077
+https://hamal.co.il/main/חזה-את-המלחמה-עם-איראן---וזה-מה-שהוא-מנבא-לשבוע-הקרוב-248992
