@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3821694
-https://news.walla.co.il/item/3821696
+COUNTER:8
 https://news.walla.co.il/break/3821695
 https://hamal.co.il/main/דיווחים-מתקני-נפט-בבחריין-הותקפו-פיצוצים-בדובאי-247889
 https://hamal.co.il/main/בפעם-השנייה-היום-חיל-האוויר-החל-לתקוף-תשתיות-בטהרן-247890
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3822148
 https://news.walla.co.il/break/3822147
 https://hamal.co.il/main/צהל-יותר-מ-400-מטרות-הותקפו-באיראן-תוך-24-שעות-249058
 https://hamal.co.il/main/מתי-הסיכוי-לשמוע-אזעקה-בעירכם-הנתונים-חושפים-את-שעת-השיא-במ-249071
+https://news.walla.co.il/item/3822154
+https://hamal.co.il/main/שדד-באלימות-קשישה-בזמן-האזעקות-אישום-יוגש-נגד-תושב-תא-249072
