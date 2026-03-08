@@ -1,7 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/פרשת-כי-תשא-אלו-זמני-השבת-248130
-https://e.walla.co.il/item/3821807
-https://hamal.co.il/main/ח-248132
+COUNTER:18
 https://hamal.co.il/main/יוש-248133
 https://hamal.co.il/main/פרסום-ראשון-חילופי-אש-בין-כוחות-צהל-לחיזבאללה-בגבול-לבנון-248134
 https://news.walla.co.il/item/3821809
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822327
 https://news.walla.co.il/break/3822325
 https://news.walla.co.il/break/3822326
 https://hamal.co.il/main/האייתוללה-מוגטאבה-חמינאי-מונה-למנהיג-העליון-249306
+https://news.walla.co.il/item/3822328
+https://news.walla.co.il/break/3822330
+https://hamal.co.il/main/אזעקות-נשמעו-באזור-קש-והסביבה-249311
