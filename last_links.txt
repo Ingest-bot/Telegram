@@ -1,5 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/בפעם-ה-2-האזעקות-בעוטף---זיהוי-שווא-248142
+COUNTER:3
 https://hamal.co.il/main/משרד-הבריאות-2328-פונו-מבתיהם-בגלל-פגיעת-טיל-מתחילת-המלחמה-248143
 https://news.walla.co.il/item/3821806
 https://news.walla.co.il/item/3821765
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3821414
 https://news.walla.co.il/item/3821667
 https://hamal.co.il/main/משמרות-המהפכה-מכריזים-אמונים-למנהיג-העליון-החדש-249314
 https://hamal.co.il/main/תיעוד-הירי-בעראבה-מוקדם-יותר-249315
+https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-249320
