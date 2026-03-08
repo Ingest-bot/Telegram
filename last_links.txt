@@ -1,9 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3821633
-https://hamal.co.il/main/מה-קורה-כשאיראן-תוקפת-את-קטאר-בה-מסתתרים-בכירי-חמאס-247781
-https://hamal.co.il/main/בין-חמינאי-לממש-247823
-https://hamal.co.il/main/מאלכוהול-ועד-חטיפים-מה-הישראלים-מזמינים-הביתה-בזמן-האזעקות-247766
-https://news.walla.co.il/item/3821642
+COUNTER:10
 https://news.walla.co.il/break/3821637
 https://news.walla.co.il/break/3821638
 https://news.walla.co.il/break/3821639
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ארצות-הברית-מעלה-הילוך-שלוש-נו
 https://travel.walla.co.il/item/3822067
 https://hamal.co.il/main/צהל-מטוסי-קרב-איראניים-הותקפו-ב-248990
 https://hamal.co.il/main/הדיירים-חזרו-מהממד---וגילו-שביתם-נשדד-תושב-תא-נעצר-248991
+https://travel.walla.co.il/item/3821337
+https://news.walla.co.il/item/3821983
+https://news.walla.co.il/break/3822073
+https://hamal.co.il/main/צהל-בהודעת-פינוי-נוספת-לתושבי-הדאחייה-נפעל-בעוצמה-248993
+https://hamal.co.il/main/מועצת-המומחים-של-איראן-בחרנו-את-יורשו-של-חמינאי-248994
