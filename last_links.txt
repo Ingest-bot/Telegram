@@ -1,9 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3821814
-https://news.walla.co.il/break/3821815
-https://news.walla.co.il/break/3821817
-https://hamal.co.il/main/ריק-והרוס-כך-נראה-רובע-הדאחייה-לאחר-גל-התקיפות-248138
-https://hamal.co.il/main/צהל-האזעקות-בעוטף---זיהוי-שווא-248141
+COUNTER:2
 https://hamal.co.il/main/בפעם-ה-2-האזעקות-בעוטף---זיהוי-שווא-248142
 https://hamal.co.il/main/משרד-הבריאות-2328-פונו-מבתיהם-בגלל-פגיעת-טיל-מתחילת-המלחמה-248143
 https://news.walla.co.il/item/3821806
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822334
 https://news.walla.co.il/break/3822331
 https://hamal.co.il/main/מטען-חבלה-הושלך-בניו-יורק---אבל-תשומת-ליבו-של-ממדאני-הייתה-ב-249312
 https://hamal.co.il/main/אחרי-המינוי-צעקות-מוות-למוגתבא-בטהרן-249313
+https://news.walla.co.il/item/3821690
+https://news.walla.co.il/item/3821414
+https://news.walla.co.il/item/3821667
+https://hamal.co.il/main/משמרות-המהפכה-מכריזים-אמונים-למנהיג-העליון-החדש-249314
+https://hamal.co.il/main/תיעוד-הירי-בעראבה-מוקדם-יותר-249315
