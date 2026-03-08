@@ -1,10 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/היתר-מיוחד-לעריכת-חופות-בימי-ספירת-העומר-בשל-המצב-הביטחוני-247906
-https://hamal.co.il/main/טראמפ-תומך-במתקפה-קרקעית-כורדית-באיראן-247907
-https://news.walla.co.il/item/3821716
-https://news.walla.co.il/item/3821709
-https://news.walla.co.il/break/3821719
-https://hamal.co.il/main/המצוד-אחר-חמינאי-כך-התנהל-המעקב-לפני-פתיחת-המערכה--חשיפה-247911
+COUNTER:18
 https://news.walla.co.il/break/3821727
 https://hamal.co.il/main/נשיא-צרפת-קורא-לנתניהו-לא-להרחיב-את-המלחמה-ללבנון-247913
 https://hamal.co.il/main/הפקת-מידע-247908
@@ -499,3 +493,9 @@ https://hamal.co.il/main/היללו-את-איראן-22-חשודים-נעצרו-�
 https://hamal.co.il/main/אישום-יוגש-נגד-תושב-מזרח-י-ם-249086
 https://news.walla.co.il/item/3822184
 https://news.walla.co.il/break/3822186
+https://news.walla.co.il/item/3822190
+https://news.walla.co.il/break/3822194
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-לעבר-ישראל-249090
+https://hamal.co.il/main/--249091
+https://hamal.co.il/main/ראשוני-דיווח-על-2-זירות-נפילה-במרכז-249096
+https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-2-פצועים-בשתי-זירות-הנפילה-במרכז-249098
