@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3821676
-https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-ידוע-על-נפגעים-247868
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247870
+COUNTER:4
 https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247291
 https://hamal.co.il/main/אזרבייג׳ן-סוגרת-את-המרחב-האווירי-שלה-סמוך-לגבול-עם-איראן-247874
 https://news.walla.co.il/break/3821678
@@ -499,3 +496,6 @@ https://e.walla.co.il/item/3822123
 https://news.walla.co.il/item/3822129
 https://news.walla.co.il/item/3822116
 https://hamal.co.il/main/ללא-עלות-טיסות-חילוץ-מדובאי-ואבו-דאבי-לישראלים-התקועים-249048
+https://news.walla.co.il/item/3822136
+https://hamal.co.il/main/צפו-249049
+https://hamal.co.il/main/החוויה-המפחידה-של-אלה-איילון-במעבר-טאבה-הרגיש-כמו-פאודה-247821
