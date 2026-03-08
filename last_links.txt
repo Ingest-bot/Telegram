@@ -1,9 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3821727
-https://hamal.co.il/main/נשיא-צרפת-קורא-לנתניהו-לא-להרחיב-את-המלחמה-ללבנון-247913
-https://hamal.co.il/main/הפקת-מידע-247908
-https://hamal.co.il/main/המלל-מבקש-מישראלים-בחול-לגלות-ערנות-מוגברת-247917
-https://news.walla.co.il/break/3821729
+COUNTER:1
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-247919
 https://news.walla.co.il/item/3821732
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247937
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-
 https://hamal.co.il/main/--249091
 https://hamal.co.il/main/ראשוני-דיווח-על-2-זירות-נפילה-במרכז-249096
 https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-2-פצועים-בשתי-זירות-הנפילה-במרכז-249098
+https://news.walla.co.il/item/3822199
+https://e.walla.co.il/item/3822195
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249100
+https://hamal.co.il/main/הירי-מאיראן-פצוע-קשה-בתא-שניים-במצב-בינוני-וקל-בפת-249104
+https://hamal.co.il/main/המזכיר-הצבאי-של-חוסל-כץ-249105
