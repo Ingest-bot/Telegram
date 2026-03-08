@@ -1,8 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/סוף-שבוע-הפכפך-התחממות-קלה-ואז-גשמים-וירידה-בטמפרטורות-248083
-https://news.walla.co.il/break/3821775
-https://news.walla.co.il/break/3821776
-https://hamal.co.il/main/מכונת-מלחמה-משומנת-שכותשת-את-איראן-שיתוף-הפעולה-בין-צהל-לצ-248089
+COUNTER:5
 https://news.walla.co.il/break/3821777
 https://news.walla.co.il/break/3821778
 https://news.walla.co.il/break/3821779
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הלך-לעולמו-מפקד-טקס-המשואות-המ
 https://news.walla.co.il/item/3822281
 https://news.walla.co.il/item/3822285
 https://news.walla.co.il/break/3822284
+https://e.walla.co.il/item/3822288
+https://news.walla.co.il/item/3822289
+https://news.walla.co.il/break/3822287
+https://hamal.co.il/main/הרמטכל-זה-ייקח-עוד-זמן-רב--דבריו-המלאים-249277
