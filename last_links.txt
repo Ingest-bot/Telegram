@@ -1,7 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3821823
-https://hamal.co.il/main/חטא-העגל-מה-גרם-לעם-248128
-https://hamal.co.il/main/צהל-חושף-רגע-תקיפת-הבונקר-של-חמינאי-בלב-טהרן--צפו-248159
+COUNTER:10
 https://hamal.co.il/main/כך-הושמד-הבונקר-של-חמינאי-248160
 https://news.walla.co.il/item/3821826
 https://news.walla.co.il/break/3821828
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-מחירי-הנפט-יירדו-במהירו�
 https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-בצפון-הארץ-249323
 https://hamal.co.il/main/צה״ל-זיהה-כי-לפני-זמן-קצר-שוגרו-טילים-מאיראן-לעבר-שטח-מדינת-249329
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-חדרה-והסביבה-249331
+https://hamal.co.il/main/פיקוד-העורף-האירוע-הסתיים-השוהים-במרחב-המוגן-יכולים-לצאת-249332
+https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-249335
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-והשפלה-249340
