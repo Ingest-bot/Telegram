@@ -1,8 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדאחייה-שבביירות-247991
-https://news.walla.co.il/break/3821751
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-במרכז-הארץ-הדי-פיצוצים-בגוש-דן-248021
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-ידוע-על-נפגעים-248022
+COUNTER:18
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248024
 https://hamal.co.il/main/דיווח-על-פגיעת-רסיסים-במבנה-במרכז-הארץ--צפו-בתיעוד-248027
 https://news.walla.co.il/blog/3821752
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נשים-מובילות-בעשייה--אך-ההשפעה
 https://news.walla.co.il/break/3822242
 https://news.walla.co.il/break/3822244
 https://hamal.co.il/main/דיווח-על-זירה-בבני-ברק-כוחות-בדרכם-לסריקה-249180
+https://news.walla.co.il/item/3822251
+https://hamal.co.il/main/שאגת-הארי-5200-תביעות-הוגשו-למס-רכוש-בעקבות-פגיעת-טילים-מא-249181
+https://hamal.co.il/main/גם-תשתיות-חיוניות-שלהן-באזור-יהיו-מטרה-249183
+https://hamal.co.il/main/צה״ל-החל-לפני-זמן-קצר-בתקיפות-נרחבות-בטהרן-249184
