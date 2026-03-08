@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3821738
-https://news.walla.co.il/item/3821743
+COUNTER:9
 https://news.walla.co.il/item/3821745
 https://news.walla.co.il/item/3821744
 https://news.walla.co.il/break/3821740
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הותר-לפרסום-2-לוחמי-צהל-נפלו-2491
 https://news.walla.co.il/break/3822212
 https://hamal.co.il/main/התקרית-בלבנון-הלוחמים---ונהרגו-מירי-249130
 https://hamal.co.il/main/50-מגדלים-הופלו-בצהל-מערכים-יש-נתק-בין-איראן-וחיזבאללה-249131
+https://news.walla.co.il/item/3822213
+https://hamal.co.il/main/צהל-מסוק-ירט-כטבם-בצפון---ופגע-בבתים-בשטח-ישראל-249133
