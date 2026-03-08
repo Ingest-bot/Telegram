@@ -1,6 +1,4 @@
 COUNTER:12
-https://news.walla.co.il/break/3821789
-https://news.walla.co.il/break/3821788
 https://hamal.co.il/main/יצאתם-מהממד-תבדקו-שהאוטו-שלכם-עדיין-בחנייה-247780
 https://news.walla.co.il/item/3821786
 https://hamal.co.il/main/בתו-של-מחבל-משוחרר-היללה-את-ירי-248105
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הצהרת-דובר-צה״ל-תת-אלוף-אפי-דפ�
 https://hamal.co.il/main/השיחה-החריגה-של-מקרון-עם-נשיא-איראן-249289
 https://hamal.co.il/main/צה״ל-תקף-את-מטה-חיל-האוויר-של-משמרות-המהפכה-בלב-טהרן-249294
 https://hamal.co.il/main/נטלי-דדון-בטור-דעה-מיוחד-ליום-האישה-249296
+https://news.walla.co.il/break/3822304
+https://news.walla.co.il/break/3822306
