@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3821687
-https://news.walla.co.il/break/3821683
-https://hamal.co.il/main/משרד-החינוך-מעדכן-המשך-מתווה-הלמידה-בתחילת-השבוע-247879
-https://hamal.co.il/main/הרצוג-ממשלת-לבנון-נקטה-בצעד-אמיץ-247886
+COUNTER:7
 https://news.walla.co.il/item/3821694
 https://news.walla.co.il/item/3821696
 https://news.walla.co.il/break/3821695
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822140
 https://news.walla.co.il/item/3822144
 https://news.walla.co.il/item/3822145
 https://hamal.co.il/main/דיווח-באיראן-בקרוב-יוכרז-על-בחירת-היורש-של-חמינאי-249057
+https://news.walla.co.il/item/3822148
+https://news.walla.co.il/break/3822147
+https://hamal.co.il/main/צהל-יותר-מ-400-מטרות-הותקפו-באיראן-תוך-24-שעות-249058
+https://hamal.co.il/main/מתי-הסיכוי-לשמוע-אזעקה-בעירכם-הנתונים-חושפים-את-שעת-השיא-במ-249071
