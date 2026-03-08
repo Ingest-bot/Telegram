@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/משולש-הברזל-כך-התכוננו-בישראל-לתקיפה-ההיסטורית-באיראן-247842
-https://news.walla.co.il/item/3821781
-https://hamal.co.il/main/420-248098
+COUNTER:8
 https://hamal.co.il/main/השריון-שלו-דימם-248099
 https://hamal.co.il/main/26-גלי-תקיפות-בדאחייה-מתחילת-המערכה-248100
 https://hamal.co.il/main/מהגנה-לפירוק-כך-צהל-שוחק-את-יכולות-חיזבאללה-בלבנון-248101
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822293
 https://news.walla.co.il/break/3822294
 https://news.walla.co.il/break/3822292
 https://hamal.co.il/main/בארהב-בוחנים-מבצע-מיוחד-להשתלטות-על-האורניום-של-איראן-249281
+https://news.walla.co.il/break/3822296
+https://hamal.co.il/main/וויטקוף-וקושנר-יגיעו-לישראל-בשלישי-249284
+https://hamal.co.il/main/במדא-מדווחים-מתחילת-המלחמה-הענקנו-טיפול-ל--687-פצועים-249285
