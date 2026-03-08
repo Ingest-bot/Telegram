@@ -1,9 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/כך-תדעו-האם-אפשר-להיכנס-להתקלח-מבלי-שתתפוס-אתכם-אעזקה-247291
-https://hamal.co.il/main/אזרבייג׳ן-סוגרת-את-המרחב-האווירי-שלה-סמוך-לגבול-עם-איראן-247874
-https://news.walla.co.il/break/3821678
-https://hamal.co.il/main/בתקיפה-מהים-247875
-https://hamal.co.il/main/צהל-נערך-למ-247876
+COUNTER:5
 https://news.walla.co.il/item/3821687
 https://news.walla.co.il/break/3821683
 https://hamal.co.il/main/משרד-החינוך-מעדכן-המשך-מתווה-הלמידה-בתחילת-השבוע-247879
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ללא-עלות-טיסות-חילוץ-מדובאי-וא
 https://news.walla.co.il/item/3822136
 https://hamal.co.il/main/צפו-249049
 https://hamal.co.il/main/החוויה-המפחידה-של-אלה-איילון-במעבר-טאבה-הרגיש-כמו-פאודה-247821
+https://news.walla.co.il/item/3822141
+https://news.walla.co.il/item/3822140
+https://news.walla.co.il/item/3822144
+https://news.walla.co.il/item/3822145
+https://hamal.co.il/main/דיווח-באיראן-בקרוב-יוכרז-על-בחירת-היורש-של-חמינאי-249057
