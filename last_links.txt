@@ -1,8 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3821669
-https://hamal.co.il/main/בריטניה-נשלח-מטוסי-קרב-לקטאר-בשל-התקיפות-האיראניות-247844
-https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיראן-247846
-https://travel.walla.co.il/item/3821677
+COUNTER:2
 https://news.walla.co.il/break/3821676
 https://hamal.co.il/main/מדא-על-המטח-האחרון-לא-ידוע-על-נפגעים-247868
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247870
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3819984
 https://news.walla.co.il/break/3822121
 https://hamal.co.il/main/העולה-הראשון-249046
 https://hamal.co.il/main/המערכה-בלבנון-זה-מספר-מחבלי-החיזבאללה-שחוסלו-249047
+https://e.walla.co.il/item/3822123
+https://news.walla.co.il/item/3822129
+https://news.walla.co.il/item/3822116
+https://hamal.co.il/main/ללא-עלות-טיסות-חילוץ-מדובאי-ואבו-דאבי-לישראלים-התקועים-249048
