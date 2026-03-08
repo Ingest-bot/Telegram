@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3821786
-https://hamal.co.il/main/בתו-של-מחבל-משוחרר-היללה-את-ירי-248105
-https://hamal.co.il/main/איום-פצצת-248106
+COUNTER:14
 https://news.walla.co.il/item/3821795
 https://hamal.co.il/main/המבצע-להשבת-הישראלים-7440-אזרחים-שבו-248107
 https://travel.walla.co.il/item/3821798
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נטלי-דדון-בטור-דעה-מיוחד-ליום-�
 https://news.walla.co.il/break/3822304
 https://news.walla.co.il/break/3822306
 https://hamal.co.il/main/הרוג-שביעי-לצבא-ארה״ב-במלחמה-מול-איראן-החייל-נהרג-בסעודיה-249297
+https://news.walla.co.il/item/3822311
+https://news.walla.co.il/item/3822310
+https://hamal.co.il/main/טרגדיה-במושב-בדרום-האח-נפטר-מדום-לב---אחיו-התמוטט-שעות-אחרי-249301
