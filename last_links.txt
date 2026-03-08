@@ -1,8 +1,4 @@
-COUNTER:14
-https://travel.walla.co.il/item/3821798
-https://hamal.co.il/main/ברמה-של-מעצמת-על-תקרת-הזכוכית-שצהל-שבר---מאחורי-הקלעים-247777
-https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-248109
-https://hamal.co.il/main/המטח-מאיראן-דיווחים-248113
+COUNTER:16
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-248115
 https://news.walla.co.il/item/3821801
 https://hamal.co.il/main/רסיס-גדול-פגע-ב-2-בניינים-במרכז-עד-כה-לא-דווח-על-נפגעים-248119
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822310
 https://hamal.co.il/main/טרגדיה-במושב-בדרום-האח-נפטר-מדום-לב---אחיו-התמוטט-שעות-אחרי-249301
 https://news.walla.co.il/item/3822312
 https://e.walla.co.il/item/3822314
+https://news.walla.co.il/break/3822316
+https://news.walla.co.il/break/3822317
+https://hamal.co.il/main/דרמה-אישה-ילדה-בניידת---ושניות-לאחר-הלידה-התקבלה-התרעת-ירי-249304
+https://hamal.co.il/main/ראש-עיריית-עראבה-נורה-חברי-מועצה-נוספים-נפצעו-249305
