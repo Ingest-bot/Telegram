@@ -1,7 +1,4 @@
 COUNTER:4
-https://hamal.co.il/main/אחרי-הודעת-צה״ל-דיווחים-על-פיצוצים-בטהרן-248077
-https://hamal.co.il/main/דיווח-חוקרים-מעריכים-שארהב-היא-האחראית-לתקיפת-ביהס-באיראן-248078
-https://hamal.co.il/main/דיווח-מתקפת-טילים-וכטבמים-נגד-מטרות-אמריקניות-בבחריין-248079
 https://hamal.co.il/main/סוף-שבוע-הפכפך-התחממות-קלה-ואז-גשמים-וירידה-בטמפרטורות-248083
 https://news.walla.co.il/break/3821775
 https://news.walla.co.il/break/3821776
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822282
 https://hamal.co.il/main/פאדיחה-לניר-דבורי-סרטון-ההפצצות-מאיראן---משחק-מחשב-249272
 https://hamal.co.il/main/צה״ל-תקף-שני-מחבליחמאס-שתכננו-לצלוף-נגד-צה״ל-בצפון-249273
 https://hamal.co.il/main/הלך-לעולמו-מפקד-טקס-המשואות-המיתולוגי---דוד-רוקני-249274
+https://news.walla.co.il/item/3822281
+https://news.walla.co.il/item/3822285
+https://news.walla.co.il/break/3822284
