@@ -1,11 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/השריון-שלו-דימם-248099
-https://hamal.co.il/main/26-גלי-תקיפות-בדאחייה-מתחילת-המערכה-248100
-https://hamal.co.il/main/מהגנה-לפירוק-כך-צהל-שוחק-את-יכולות-חיזבאללה-בלבנון-248101
-https://news.walla.co.il/item/3821720
-https://travel.walla.co.il/item/3821784
-https://hamal.co.il/main/9-טילי-נט-שוגרו-לעבר-הכוח-248102
-https://hamal.co.il/main/רגע-לפני-248104
+COUNTER:12
 https://news.walla.co.il/break/3821789
 https://news.walla.co.il/break/3821788
 https://hamal.co.il/main/יצאתם-מהממד-תבדקו-שהאוטו-שלכם-עדיין-בחנייה-247780
@@ -499,3 +492,10 @@ https://hamal.co.il/main/בארהב-בוחנים-מבצע-מיוחד-להשתל�
 https://news.walla.co.il/break/3822296
 https://hamal.co.il/main/וויטקוף-וקושנר-יגיעו-לישראל-בשלישי-249284
 https://hamal.co.il/main/במדא-מדווחים-מתחילת-המלחמה-הענקנו-טיפול-ל--687-פצועים-249285
+https://news.walla.co.il/item/3822300
+https://news.walla.co.il/item/3822302
+https://news.walla.co.il/break/3822303
+https://hamal.co.il/main/הצהרת-דובר-צה״ל-תת-אלוף-אפי-דפרין-249288
+https://hamal.co.il/main/השיחה-החריגה-של-מקרון-עם-נשיא-איראן-249289
+https://hamal.co.il/main/צה״ל-תקף-את-מטה-חיל-האוויר-של-משמרות-המהפכה-בלב-טהרן-249294
+https://hamal.co.il/main/נטלי-דדון-בטור-דעה-מיוחד-ליום-האישה-249296
