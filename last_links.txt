@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3821697
-https://news.walla.co.il/break/3821747
-https://hamal.co.il/main/צהל-קצין-ולוחם-בחטיבת-גבעתי-נפצעו-קשה-ובינוני-בקרב-בלבנון-247971
-https://hamal.co.il/main/קבלו-את-מישל-שיר-האירוויזיון-הישראלי-של-נועם-בתן-נחשף-247974
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-247976
-https://news.walla.co.il/break/3821748
+COUNTER:14
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-247987
 https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-247989
 https://hamal.co.il/main/הקרב-בדרום-לבנון-2-חיילים-פונו-לאשפוז-בבית-החולים-רמבם-247990
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822229
 https://news.walla.co.il/item/3822224
 https://hamal.co.il/main/2-פצועים-הגיעו-לאיכילוב-מזירת-הנפילה-בתל-אביב-249141
 https://hamal.co.il/main/צבא-ארהב-איראן-משגרת-מאזורים-מאוכלסים-אנו-עשוים-לתקוף-שם-249145
+https://news.walla.co.il/item/3822237
+https://news.walla.co.il/break/3822232
+https://news.walla.co.il/break/3822233
+https://news.walla.co.il/break/3822235
+https://news.walla.co.il/break/3822239
+https://hamal.co.il/main/נשים-מובילות-בעשייה--אך-ההשפעה-בצמרת-ההחלטות-נותרת-נמוכה-249148
