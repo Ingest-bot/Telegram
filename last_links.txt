@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/תיעוד-דרמטי-מחסן-טילים-ותחמושת-הותקף-על-ידי-מטוסי-הצי-האמרי-247839
-https://news.walla.co.il/item/3821664
-https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-החל-לתקוף-בדאחייה-דרום-ביירות-247841
-https://hamal.co.il/main/צהל-חושף-זה-מספר-משגרי-הטילים-של-איראן-שהוצאנו-משימוש-247843
+COUNTER:1
 https://news.walla.co.il/break/3821669
 https://hamal.co.il/main/בריטניה-נשלח-מטוסי-קרב-לקטאר-בשל-התקיפות-האיראניות-247844
 https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיראן-247846
@@ -499,3 +495,7 @@ https://hamal.co.il/main/המשטרה-עצרה-8-חשודים-249043
 https://travel.walla.co.il/item/3822110
 https://news.walla.co.il/item/3822111
 https://hamal.co.il/main/שמענו-בום-מנוע-טיל-נפל-בשירותים-249044
+https://news.walla.co.il/item/3819984
+https://news.walla.co.il/break/3822121
+https://hamal.co.il/main/העולה-הראשון-249046
+https://hamal.co.il/main/המערכה-בלבנון-זה-מספר-מחבלי-החיזבאללה-שחוסלו-249047
