@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-247987
-https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-247989
-https://hamal.co.il/main/הקרב-בדרום-לבנון-2-חיילים-פונו-לאשפוז-בבית-החולים-רמבם-247990
+COUNTER:15
 https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדאחייה-שבביירות-247991
 https://news.walla.co.il/break/3821751
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-במרכז-הארץ-הדי-פיצוצים-בגוש-דן-248021
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822233
 https://news.walla.co.il/break/3822235
 https://news.walla.co.il/break/3822239
 https://hamal.co.il/main/נשים-מובילות-בעשייה--אך-ההשפעה-בצמרת-ההחלטות-נותרת-נמוכה-249148
+https://news.walla.co.il/break/3822242
+https://news.walla.co.il/break/3822244
+https://hamal.co.il/main/דיווח-על-זירה-בבני-ברק-כוחות-בדרכם-לסריקה-249180
