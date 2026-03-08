@@ -1,11 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3821770
-https://news.walla.co.il/item/3821769
-https://news.walla.co.il/item/3821403
-https://news.walla.co.il/break/3821768
-https://news.walla.co.il/break/3821771
-https://news.walla.co.il/break/3821772
-https://news.walla.co.il/break/3821774
+COUNTER:4
 https://hamal.co.il/main/אחרי-הודעת-צה״ל-דיווחים-על-פיצוצים-בטהרן-248077
 https://hamal.co.il/main/דיווח-חוקרים-מעריכים-שארהב-היא-האחראית-לתקיפת-ביהס-באיראן-248078
 https://hamal.co.il/main/דיווח-מתקפת-טילים-וכטבמים-נגד-מטרות-אמריקניות-בבחריין-248079
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3822274
 https://news.walla.co.il/break/3822277
 https://news.walla.co.il/break/3822278
 https://news.walla.co.il/break/3822279
+https://news.walla.co.il/item/3822280
+https://e.walla.co.il/item/3822283
+https://news.walla.co.il/break/3822281
+https://news.walla.co.il/break/3822282
+https://hamal.co.il/main/פאדיחה-לניר-דבורי-סרטון-ההפצצות-מאיראן---משחק-מחשב-249272
+https://hamal.co.il/main/צה״ל-תקף-שני-מחבליחמאס-שתכננו-לצלוף-נגד-צה״ל-בצפון-249273
+https://hamal.co.il/main/הלך-לעולמו-מפקד-טקס-המשואות-המיתולוגי---דוד-רוקני-249274
