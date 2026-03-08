@@ -1,8 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-במטח-לצפון-247761
-https://hamal.co.il/main/טלי-גוטליב-מבהירה-לקטאר-יש-מה-להפסיד-אם-איראן-תפסיד-247763
-https://news.walla.co.il/item/3821607
-https://news.walla.co.il/break/3821604
+COUNTER:13
 https://news.walla.co.il/break/3821603
 https://news.walla.co.il/break/3821606
 https://hamal.co.il/main/לפחות-10-שיגורים-נורו-מלבנון-247764
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיצוץ-עז-נשמע-סמוך-לשגרירות-אר
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-הגולן-מחשש-לחדירת-כלי-טיס-עוין-248904
 https://hamal.co.il/main/שר-החוץ-הסיני-כל-הצדדים-צריכים-לשוב-לשולחן-המומ-בנושא-אירא-248913
 https://hamal.co.il/main/אזעקות-נשמעות-בדרום-הארץ-248935
+https://news.walla.co.il/break/3822059
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248941
+https://hamal.co.il/main/תרגיל-צבאי-ייערך-היום-א׳-בשעות-הבוקר-במרחב-רמת-הגולן-במ-248942
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לישראל-אזעקות-יישמעו-בדקות-הקרובות-248943
