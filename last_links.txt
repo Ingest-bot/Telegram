@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3821660
-https://hamal.co.il/main/דיווח-הדי-פיצוצים-ועשן-בריאד-בירת-ערב-הסעודית-247835
-https://hamal.co.il/main/צעדים-חסרי-תקדים-בלבנון-כל-אנשי-משמרות-המהפכה-יעצרו-247838
+COUNTER:19
 https://hamal.co.il/main/תיעוד-דרמטי-מחסן-טילים-ותחמושת-הותקף-על-ידי-מטוסי-הצי-האמרי-247839
 https://news.walla.co.il/item/3821664
 https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-החל-לתקוף-בדאחייה-דרום-ביירות-247841
@@ -499,3 +496,6 @@ https://e.walla.co.il/item/3822094
 https://news.walla.co.il/item/3822108
 https://news.walla.co.il/break/3822104
 https://hamal.co.il/main/המשטרה-עצרה-8-חשודים-249043
+https://travel.walla.co.il/item/3822110
+https://news.walla.co.il/item/3822111
+https://hamal.co.il/main/שמענו-בום-מנוע-טיל-נפל-בשירותים-249044
