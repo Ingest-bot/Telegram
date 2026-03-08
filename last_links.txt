@@ -1,6 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/item/3821795
-https://hamal.co.il/main/המבצע-להשבת-הישראלים-7440-אזרחים-שבו-248107
 https://travel.walla.co.il/item/3821798
 https://hamal.co.il/main/ברמה-של-מעצמת-על-תקרת-הזכוכית-שצהל-שבר---מאחורי-הקלעים-247777
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-248109
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הרוג-שביעי-לצבא-ארה״ב-במלחמה-מ
 https://news.walla.co.il/item/3822311
 https://news.walla.co.il/item/3822310
 https://hamal.co.il/main/טרגדיה-במושב-בדרום-האח-נפטר-מדום-לב---אחיו-התמוטט-שעות-אחרי-249301
+https://news.walla.co.il/item/3822312
+https://e.walla.co.il/item/3822314
