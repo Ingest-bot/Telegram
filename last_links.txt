@@ -1,12 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3821623
-https://hamal.co.il/main/מתנערים-מאחריות-״לאיראן-אין-שום-קשר-לירי-לאזרבייג׳ן״-247797
-https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-247804
-https://hamal.co.il/main/דיווח-על-שבר-יירוט-במרכז-אין-נפגעים-247808
-https://hamal.co.il/main/מד״א-אין-נפגעים-במטח-האחרון-247813
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-247816
-https://hamal.co.il/main/דיווחים-על-נפילה-באיזור-שכם-247818
-https://hamal.co.il/main/צהל-השלים-את-גל-התקיפות-ה-12-בטהרן-247815
+COUNTER:6
 https://hamal.co.il/main/בחזית-ההצלה-247819
 https://travel.walla.co.il/item/3821632
 https://travel.walla.co.il/item/3821629
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3822062
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-באזור-הבקעה-248972
 https://hamal.co.il/main/צהל-זיהה-כי-לפני-זמן-קצר-שוגרו-טילים-מאיראן-לעבר-שטח-מדינת-248973
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזורים-נרחבים-בארץ-248981
+https://news.walla.co.il/item/3822065
+https://news.walla.co.il/item/3822046
+https://news.walla.co.il/break/3822063
+https://news.walla.co.il/break/3822064
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-248986
+https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-248987
+https://hamal.co.il/main/תיעוד-248989
+https://hamal.co.il/main/ארצות-הברית-מעלה-הילוך-שלוש-נושאות-מטוסים-מול-איראן-248988
