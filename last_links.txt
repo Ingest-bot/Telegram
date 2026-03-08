@@ -1,6 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/נתניהו-בבסיס-חיל-האוויר-247902
-https://hamal.co.il/main/סגירת-מעגל-צהל-את-247903
 https://hamal.co.il/main/היתר-מיוחד-לעריכת-חופות-בימי-ספירת-העומר-בשל-המצב-הביטחוני-247906
 https://hamal.co.il/main/טראמפ-תומך-במתקפה-קרקעית-כורדית-באיראן-247907
 https://news.walla.co.il/item/3821716
@@ -499,3 +497,5 @@ https://hamal.co.il/main/האזעקות-בצפון-רוכב-אופנוע-249083
 https://hamal.co.il/main/אימוץ-משפחות-שפונו-המיזם-של-תנועת-עזרא-249084
 https://hamal.co.il/main/היללו-את-איראן-22-חשודים-נעצרו-ביוש-מתחילת-המלחמה-249085
 https://hamal.co.il/main/אישום-יוגש-נגד-תושב-מזרח-י-ם-249086
+https://news.walla.co.il/item/3822184
+https://news.walla.co.il/break/3822186
