@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3821745
-https://news.walla.co.il/item/3821744
-https://news.walla.co.il/break/3821740
+COUNTER:11
 https://hamal.co.il/main/המטה-לביטחון-לאומי-בהבהרה-לציבור-הישראלי-השוהה-בחול-247964
 https://hamal.co.il/main/טאקר-קרלסון-חבד-עומד-מאחורי-התקיפה-באיראן-247872
 https://hamal.co.il/main/מפקד-חטיבת-גבעתי-על-חיסול-מחבל-החיזבאללה-סגירת-מעגל-247968
@@ -499,3 +496,6 @@ https://hamal.co.il/main/התקרית-בלבנון-הלוחמים---ונהרגו
 https://hamal.co.il/main/50-מגדלים-הופלו-בצהל-מערכים-יש-נתק-בין-איראן-וחיזבאללה-249131
 https://news.walla.co.il/item/3822213
 https://hamal.co.il/main/צהל-מסוק-ירט-כטבם-בצפון---ופגע-בבתים-בשטח-ישראל-249133
+https://news.walla.co.il/item/3822219
+https://hamal.co.il/main/חניון-תת-קרקעי-הוא-לא-תמיד-מקלט-למה-אסור-לעצור-במינוס-1-249137
+https://hamal.co.il/main/מעל-600-מטרות-הותקפו-כ-200-מחבלים-חוסלו-249132
