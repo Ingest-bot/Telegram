@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3821650
-https://hamal.co.il/main/בא-לשגר---ומתפוצץ-תיעוד-מטורף-מתקיפות-ארצות-הברית-באיראן-247830
-https://hamal.co.il/main/אברי-גלעד-משנה-כיוון-זאת-הממשלה-שאעדיף-247775
+COUNTER:17
 https://hamal.co.il/main/רובוטים-בלבנון-ובינה-מלאכותית-247831
 https://hamal.co.il/main/המונים-בורחים-מהדאחיה-אחרי-האזהרה-של-צהל-247834
 https://news.walla.co.il/item/3821645
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822095
 https://hamal.co.il/main/האזעקות-בצפון-2-כטבמים-יורטו-צהל-במרדף-אחר-השלישי-249036
 https://hamal.co.il/main/פיקוד-העורף-על-האזעקות-בצפון-ניתן-לצאת-מהמרחב-המוגן-249038
 https://hamal.co.il/main/בני-סבטי--249039
+https://news.walla.co.il/item/3822100
+https://hamal.co.il/main/דובר-צהל-בערבית-איראן-מנסה-לבחור-יורש-לחמינאי---נפגע-בו-249040
+https://hamal.co.il/main/צהל-יהודים-תקפו-ערבים-ביוש-249041
