@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3821603
-https://news.walla.co.il/break/3821606
-https://hamal.co.il/main/לפחות-10-שיגורים-נורו-מלבנון-247764
+COUNTER:15
 https://hamal.co.il/main/גם-במקלט-טכניקת-הנשימה-שמרגיעה-חרדה-ומיושמת-בארגוני-ביטחון-247272
 https://hamal.co.il/main/עשה-אצבע-משולשת-לתחנת-המשטרה---וקיבל-מעצר-247774
 https://hamal.co.il/main/האם-הכורדים-מסוגלים-להאיץ-את-תהליך-נפילת-המשטר-האיראני-247776
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822059
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248941
 https://hamal.co.il/main/תרגיל-צבאי-ייערך-היום-א׳-בשעות-הבוקר-במרחב-רמת-הגולן-במ-248942
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לישראל-אזעקות-יישמעו-בדקות-הקרובות-248943
+https://news.walla.co.il/break/3822060
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-248945
+https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-248955
