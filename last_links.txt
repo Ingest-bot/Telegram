@@ -1,9 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/משרד-ההגנה-של-קטאר-אומר-שיירט-מתקפת-טילים-248565
-https://news.walla.co.il/break/3821923
-https://hamal.co.il/main/גל-חדש-של-תקיפות-טילים-וכטבמים-לעבר-בחריין-וקטאר-248566
-https://hamal.co.il/main/פרסומים-בארה״ב-אודות-שליחת-נושאת-מטוסים-שלישית-למזרח-התיכון-248568
-https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-בטהרן-ובאיספהאן-248569
+COUNTER:7
 https://news.walla.co.il/item/3821918
 https://hamal.co.il/main/תקרית-האש-בכפר-נבי-שית-בלבנוןמה-הקשר-בין-לחיפושים-אחרי-הנווט-248570
 https://news.walla.co.il/item/3821926
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822503
 https://news.walla.co.il/break/3822499
 https://hamal.co.il/main/המשטרה-249591
 https://hamal.co.il/main/רוביו-מטרת-המבצע-באיראן---להשמיד-את-מערך-השיגור-שלהם-249594
+https://news.walla.co.il/item/3822499
+https://news.walla.co.il/item/3822371
+https://news.walla.co.il/break/3822498
+https://hamal.co.il/main/בן-גביר-מי-שיורה-לעבר-שוטרים---התשובה-תהיה-קטלנית-249597
+https://hamal.co.il/main/אישום-מחריד-בנגב-השליך-כלבה-למותה-ותקף-את-אשתו-ובנו-249599
