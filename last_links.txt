@@ -1,8 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/דיווח-שחקניות-נבחרת-איראן-אולצו-לשיר-את-ההמנון-תחת-איומים-248288
-https://hamal.co.il/main/ראש-אכ״א-האלוף-דדו-בר-כליפא-באיגרת-לכבוד-שבת-לחיילים--צפו-248291
-https://hamal.co.il/main/באח-צנחנים-מוכנים-לארוחת-השבת-בסימן-חג-פורים--צפו-248296
-https://hamal.co.il/main/תיעודים-מטהרן-אש-ותמרות-עשן-על-רקע-השקיעה--צפו-248308
+COUNTER:10
 https://news.walla.co.il/break/3821864
 https://news.walla.co.il/break/3821865
 https://news.walla.co.il/item/3821819
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822382
 https://news.walla.co.il/item/3822386
 https://hamal.co.il/main/החשד-נגד-בן-גביר-דלף-מידע-ביטחוני-רגיש-הנוגע-למבצע-באיראן-249425
 https://hamal.co.il/main/יעד-אסטרטגי-האיראנים-טוענים-שתקפו-מפעל-וופלים-בחיפה-249428
+https://news.walla.co.il/item/3822389
+https://travel.walla.co.il/item/3822388
+https://news.walla.co.il/item/3822392
+https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-צהל-לא-מתכוון-לפגוע-בכם-249430
