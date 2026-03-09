@@ -1,7 +1,4 @@
 COUNTER:18
-https://news.walla.co.il/break/3822014
-https://news.walla.co.il/break/3822009
-https://hamal.co.il/main/בפעם-השנייה-היום-צהל-תוקף-תשתיות-של-משטר-הטרור-בטהרן-248756
 https://hamal.co.il/main/מדא-על-הירי-האחרון-אין-דיווחים-על-נפגעים-248757
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-248759
 https://hamal.co.il/main/צהל-ושבכ-תקפו-מחבל-חמאס-שתכנן-לבצע-פיגוע-נגד-כוחותינו-248768
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822576
 https://hamal.co.il/main/בדקו-בעצמכם-כמה-פעמים-הופעלה-אזעקה-ביישוב-שלכם-249803
 https://hamal.co.il/main/טראמפ-על-המלחמה-״תראו-שזה-יהיה-מהלך-קצר-טווח״-249804
 https://hamal.co.il/main/בפעם-השנייה-היום-צה״ל-פתח-בגל-תקיפות-נרחב-בטהרן-249805
+https://news.walla.co.il/blog/3822589
+https://news.walla.co.il/break/3822584
+https://news.walla.co.il/break/3822588
