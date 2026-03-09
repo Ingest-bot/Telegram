@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3821904
-https://news.walla.co.il/item/3821900
-https://news.walla.co.il/break/3821898
-https://news.walla.co.il/break/3821899
-https://news.walla.co.il/break/3821901
-https://news.walla.co.il/break/3821903
+COUNTER:15
 https://news.walla.co.il/break/3821905
 https://hamal.co.il/main/הטיל-ששוגר-מאיראן-יורט-בהצלחה-אין-דיווחים-על-נפגעים-248492
 https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באזור-ים-המלח-ירושלים-והנגב-248506
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3822452
 https://news.walla.co.il/break/3822453
 https://hamal.co.il/main/כוחות-צהל-מכוונים-ויורים-חוסלה-חוליית-מחבלים-בדרום-לבנון-249546
 https://hamal.co.il/main/5-נפגעים-בשריפה-במקלט-ביבנה-249547
+https://news.walla.co.il/item/3822462
+https://news.walla.co.il/break/3822464
+https://news.walla.co.il/break/3822459
+https://news.walla.co.il/break/3822461
+https://hamal.co.il/main/תיעוד-האסון-ביהוד-2-עולים-חדשים-מאוזבקיסטנים-נהרגו-249554
+https://hamal.co.il/main/ביקורת-בפיקוד-צפון-על-הרמטכל-עלולים-לפספס-הזדמנות-היסטורי-249555
