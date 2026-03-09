@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3821891
-https://news.walla.co.il/item/3821990
-https://hamal.co.il/main/לצד-דגלי-ישראל---הקולות-מההפגנה-באמסטרדם-248688
+COUNTER:2
 https://hamal.co.il/main/גבר-אותר-ללא-רוח-חיים-בבית-בעכו-248689
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-248691
 https://news.walla.co.il/item/3821993
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אחרי-השיגור-השגריר-האיראני-בט�
 https://hamal.co.il/main/ראש-עיריית-חדרה-בשלב-זה-מערכת-החינוך-בעיר-לא-תיפתח-249754
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבה-401-במרחב-דרום-לבנון-249658
 https://hamal.co.il/main/חולדאי-מערכת-החינוך-בתל-אביב-לא-תיפתח-249757
+https://news.walla.co.il/break/3822561
+https://hamal.co.il/main/הצהרת-דובר-צה״ל--ישיר-249756
+https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-עד-ליום-שבת-249758
