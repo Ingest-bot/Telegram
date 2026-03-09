@@ -1,9 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3821918
-https://hamal.co.il/main/תקרית-האש-בכפר-נבי-שית-בלבנוןמה-הקשר-בין-לחיפושים-אחרי-הנווט-248570
-https://news.walla.co.il/item/3821926
-https://news.walla.co.il/break/3821928
-https://hamal.co.il/main/הבדלנים-הכורדים-ממתינים-על-גבול-איראן-התכוננו-47-שנה-248573
+COUNTER:10
 https://e.walla.co.il/item/3821930
 https://news.walla.co.il/break/3821931
 https://news.walla.co.il/break/3821933
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3822371
 https://news.walla.co.il/break/3822498
 https://hamal.co.il/main/בן-גביר-מי-שיורה-לעבר-שוטרים---התשובה-תהיה-קטלנית-249597
 https://hamal.co.il/main/אישום-מחריד-בנגב-השליך-כלבה-למותה-ותקף-את-אשתו-ובנו-249599
+https://e.walla.co.il/item/3822512
+https://news.walla.co.il/break/3822511
+https://hamal.co.il/main/חשד-לתקיפת-יוסף-חדאד-תושב-ת״א-נחקר-ושוחרר-בתנאים-מגבילים-249615
+https://hamal.co.il/main/מפקד-פיקוד-העורף-המשיכו-לעמוד-בחוסן-בגבורה-ולהישמע-להנחיות-249609
+https://hamal.co.il/main/ככה-נראה-המהלך-החדש-של-פיקוד-צפון-נגד-חיזבאללה-249622
