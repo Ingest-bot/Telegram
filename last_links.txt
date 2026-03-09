@@ -1,10 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-248401
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248403
-https://news.walla.co.il/item/3821878
-https://hamal.co.il/main/דיווח-באזרבייגן-סוכל-פיגוע-איראני-נגד-השגרירות-הישראלית-248400
-https://news.walla.co.il/item/3821883
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-248405
+COUNTER:0
 https://news.walla.co.il/break/3821885
 https://hamal.co.il/main/דיווח-סעודיה-מנהלת-מגעים-עם-איראן-במטרה-לסיים-את-המלחמה-248417
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-ה-248419
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822412
 https://news.walla.co.il/break/3822415
 https://hamal.co.il/main/עשן-שחור-והרס-רב-תיעוד-הפצצת-הבניין-הפיננסי-בביירות-249479
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-אזעקות-שוב-נשמעות-באזור-249481
+https://news.walla.co.il/item/3822418
+https://news.walla.co.il/item/3822423
+https://e.walla.co.il/item/3822422
+https://news.walla.co.il/break/3822417
+https://hamal.co.il/main/בהמשך-לירי-לעבר-הצפון-249483
+https://hamal.co.il/main/על-הכוונת-זוהו-שיגורים-לעבר-השפלה-ירושלים-המרכז-והשרון-249486
