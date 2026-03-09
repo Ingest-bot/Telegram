@@ -1,11 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/להבות-בטהרן-שדה-התעופה-הותקף---שריפה-פרצה-במקום-248453
-https://hamal.co.il/main/פיקוד-העורף-הכטבם-בצפון-הארץ-יורט-בהצלחה-248455
-https://news.walla.co.il/item/3821894
-https://hamal.co.il/main/טראמפ-248457
-https://hamal.co.il/main/בדקות-האחרונות-אזעקות-הופעלו-במטולה-248459
-https://hamal.co.il/main/דיווח-רסיס-נפל-בשטח-פתוח-בחורה-אין-נפגעים-248461
-https://news.walla.co.il/item/3821902
+COUNTER:13
 https://news.walla.co.il/item/3821904
 https://news.walla.co.il/item/3821900
 https://news.walla.co.il/break/3821898
@@ -499,3 +492,10 @@ https://hamal.co.il/main/תיעוד-גג-של-אולם-ספורט-קרס-249536
 https://e.walla.co.il/item/3822445
 https://hamal.co.il/main/הנפילות-במרכז-נקבע-מותו-של-פצוע-נוסף-249540
 https://hamal.co.il/main/הפרוייקט-הסודי-שאיראן-ניסתה-להסתיר-כך-הושמד-מערך-התובלה-של-249541
+https://news.walla.co.il/item/3822443
+https://news.walla.co.il/item/3822456
+https://news.walla.co.il/break/3822451
+https://news.walla.co.il/break/3822452
+https://news.walla.co.il/break/3822453
+https://hamal.co.il/main/כוחות-צהל-מכוונים-ויורים-חוסלה-חוליית-מחבלים-בדרום-לבנון-249546
+https://hamal.co.il/main/5-נפגעים-בשריפה-במקלט-ביבנה-249547
