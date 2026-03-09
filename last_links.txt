@@ -1,7 +1,4 @@
 COUNTER:15
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248744
-https://news.walla.co.il/item/3822011
-https://news.walla.co.il/item/3822008
 https://news.walla.co.il/break/3822010
 https://news.walla.co.il/break/3822012
 https://news.walla.co.il/break/3822013
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אין-דיווחים-על-נפגעים-במטח-האח
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249794
 https://hamal.co.il/main/מפקד-פיקוד-העורף-בזירה-ביהוד-החוסן-יאפשר-לנו-את-הניצחון-249796
 https://hamal.co.il/main/טראמפ-אני-חושב-שהמלחמה-כמעט-הושלמה-249799
+https://news.walla.co.il/item/3822563
+https://news.walla.co.il/item/3822572
+https://news.walla.co.il/break/3822576
