@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/במנהלת-מאמינים-בתוך-10-14-ימים-ניתן-יהיה-לחדש-את-המשחקים-248650
-https://hamal.co.il/main/טראמפ-כשמסתכלים-על-710-ומעבר---תראו-את-כל-ההרג-שהם-ביצעו-248657
+COUNTER:11
 https://news.walla.co.il/item/3821968
 https://news.walla.co.il/item/3821970
 https://hamal.co.il/main/דיווחים-פיצוצים-בבחריין-מתקפת-טילים-על-איחוד-האמירויות-248660
@@ -499,3 +497,5 @@ https://travel.walla.co.il/item/3822530
 https://news.walla.co.il/break/3822532
 https://hamal.co.il/main/יותר-מ-50-מהישראלים-התקועים-בחול-כבר-שבו-ארצה-249737
 https://hamal.co.il/main/בשורות-טובות-שיפור-דרמטי-במצבו-של-פצוע-צה״ל-שהוגדר-אנוש-249739
+https://news.walla.co.il/break/3822533
+https://hamal.co.il/main/צה״ל-תקף-מפקדת-כטב״מים-של-משמרות-המהפכה-249740
