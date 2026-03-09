@@ -1,9 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3821890
-https://news.walla.co.il/break/3821892
-https://news.walla.co.il/blog/3821893
-https://hamal.co.il/main/דיווח-בלבנון-צהל-תקף-באל-בקאע-248421
-https://hamal.co.il/main/בדקות-הקרובות-זוהו-שיגורים-מאיראן-לדרום-הארץ-248423
+COUNTER:7
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-במקביל---זוהו-שיגורים-למרכז-הארץ-248432
 https://hamal.co.il/main/כעת-הופעלו-אזעקות-בים-המלח-והסביבה-248437
 https://news.walla.co.il/break/3821896
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822425
 https://hamal.co.il/main/מיליונים-בממדים-יישובים-רבים-תחת-אזעקות-249506
 https://hamal.co.il/main/2-פצועים-קשה-ביהוד-במקביל-זירות-נפילה-בחולון-ובת-ים-249517
 https://hamal.co.il/main/המטח-למרכז-2-פצועים-אנוש-באור-יהודה-פצוע-קשה-באור-יהודה-249519
+https://news.walla.co.il/item/3822431
+https://hamal.co.il/main/נקבע-מותו-של-בן-ה-40-שנפצע-בנפילה-ביהוד-249522
+https://hamal.co.il/main/חולון-נפילה-על-גג-של-אולם-ספורט-שקרס-אין-להגיע-למקום-249526
+https://hamal.co.il/main/יי-249529
+https://hamal.co.il/main/6-מוקדי-נפילה-בגוש-דן-הרוג-פצועה-קשה-ופצוע-בינוני-בזירות-249533
