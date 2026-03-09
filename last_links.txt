@@ -1,12 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3821895
-https://hamal.co.il/main/צהל-קורא-לתושבי-דרום-לבנון-דרומית-לנהר-הליטאני-להתפנות-248617
-https://hamal.co.il/main/דוח-מודיעין-אמריקני-גם-מלחמה-באיראן-לא-תגרום-לנפילת-המשטר-248618
-https://news.walla.co.il/break/3821953
-https://news.walla.co.il/break/3821954
-https://news.walla.co.il/break/3821956
-https://news.walla.co.il/break/3821957
-https://news.walla.co.il/break/3821951
+COUNTER:8
 https://news.walla.co.il/break/3821958
 https://hamal.co.il/main/ראשון-לציון-שרסיס-נפל-בשטח-פתוח-248646
 https://hamal.co.il/main/מפקד-חיל-האוויר-השתתף-אתמול-בתקיפה-במטס-באיראן-248647
@@ -499,3 +491,11 @@ https://hamal.co.il/main/כ״ץ-בפיקוד-צפון-״מה-שאנחנו-לא-�
 https://hamal.co.il/main/חיל-האוויר-יירט-מספר-שיגורים-אחרים-נפלו-בשטחים-פתוחים-249715
 https://hamal.co.il/main/שברי-יירוט-אותרו-באיזור-הגליל-התחתון-249718
 https://hamal.co.il/main/2-פצועים-קל-בזירה-במרכז-הארץ-249719
+https://news.walla.co.il/item/3822524
+https://news.walla.co.il/break/3822528
+https://news.walla.co.il/break/3822526
+https://news.walla.co.il/break/3822529
+https://hamal.co.il/main/מראשון-לציון-עד-נתניה-אלו-הרשויות-שלא-יפתחו-את-הלימודים-249720
+https://hamal.co.il/main/זוהו-שיגורים-לצפון-הארץ-249722
+https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לישראל-249731
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-למרכז-הארץ-249733
