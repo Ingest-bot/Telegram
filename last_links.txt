@@ -1,5 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/דיווח-זו-המדינה-שסיפקה-לאיראן-מודיעין-על-הבסיסים-האמריקניים-248211
+COUNTER:15
 https://news.walla.co.il/item/3821835
 https://news.walla.co.il/break/3821834
 https://hamal.co.il/main/בנו-של-סמוטריץ-נפצע-בגבול-לבנון-מצבו-קל-הוא-בסדר-248213
@@ -499,3 +498,4 @@ https://hamal.co.il/main/זוהו-מאיראן-אזעקות-יישמעו-בדק�
 https://hamal.co.il/main/אזעקות-נשמעו-בצפון-249374
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249377
 https://news.walla.co.il/break/3822343
+https://hamal.co.il/main/הגסת-נוודא-שהשאיפות-הגרעיניות-של-איראן-לעולם-לא-יתגשמו-249383
