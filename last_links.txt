@@ -1,5 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248790
+COUNTER:2
 https://hamal.co.il/main/דיווח-ראשוני-פצוע-מירי-החיזבאללה-בגבול-לצפון-248807
 https://news.walla.co.il/item/3822023
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248809
@@ -499,3 +498,4 @@ https://e.walla.co.il/item/3822580
 https://hamal.co.il/main/בהמשך-לירי-לצפון-הארץ-לא-ידוע-על-נפגעים-249836
 https://news.walla.co.il/break/3822596
 https://news.walla.co.il/break/3822597
+https://hamal.co.il/main/חדירת-כלי-הטיס-בצפון---זיהוי-שווא-249851
