@@ -1,11 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3821913
-https://hamal.co.il/main/צהל-השלים-תקיפה-נוספת-לעבר-תשתיות-משטר-הטרור-בטהרן-248559
-https://hamal.co.il/main/שברי-רסיסים-נמצאו-בבית-החולים---ללא-נפגעים-248561
-https://news.walla.co.il/item/3821651
-https://news.walla.co.il/item/3821919
-https://news.walla.co.il/break/3821921
-https://hamal.co.il/main/נשיא-איראן-מתנצל-בפני-מדינות-האזור-אבל-גם-מאיים-248564
+COUNTER:5
 https://hamal.co.il/main/משרד-ההגנה-של-קטאר-אומר-שיירט-מתקפת-טילים-248565
 https://news.walla.co.il/break/3821923
 https://hamal.co.il/main/גל-חדש-של-תקיפות-טילים-וכטבמים-לעבר-בחריין-וקטאר-248566
@@ -499,3 +492,10 @@ https://hamal.co.il/main/כעת-אזעקות-בגליל-העליון-249571
 https://news.walla.co.il/item/3822491
 https://hamal.co.il/main/מפלח-עמאש-בן-ה-26-הוא-ההרוג-השני-בזירת-249585
 https://hamal.co.il/main/משפחתו-של-החייל-אור-דמרי-שנפל-בלבנון-המומים-זה-לא-נתפס-249588
+https://news.walla.co.il/item/3822501
+https://news.walla.co.il/break/3822500
+https://news.walla.co.il/break/3822502
+https://news.walla.co.il/break/3822503
+https://news.walla.co.il/break/3822499
+https://hamal.co.il/main/המשטרה-249591
+https://hamal.co.il/main/רוביו-מטרת-המבצע-באיראן---להשמיד-את-מערך-השיגור-שלהם-249594
