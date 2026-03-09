@@ -1,6 +1,4 @@
 COUNTER:1
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-248782
-https://hamal.co.il/main/תיעוד-דרמטי-מטהרן-מאגרי-הנפט-של-טהרן-עולים-בלהבות--צפו-248788
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248790
 https://hamal.co.il/main/דיווח-ראשוני-פצוע-מירי-החיזבאללה-בגבול-לצפון-248807
 https://news.walla.co.il/item/3822023
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3822243
 https://hamal.co.il/main/האזעקות-בצפון-ירי-משולב-מחיזבאללה-ואיראן-249835
 https://e.walla.co.il/item/3822580
 https://hamal.co.il/main/בהמשך-לירי-לצפון-הארץ-לא-ידוע-על-נפגעים-249836
+https://news.walla.co.il/break/3822596
+https://news.walla.co.il/break/3822597
