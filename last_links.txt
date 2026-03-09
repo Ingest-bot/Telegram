@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/גבר-אותר-ללא-רוח-חיים-בבית-בעכו-248689
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-248691
-https://news.walla.co.il/item/3821993
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-קריאות-248705
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248707
+COUNTER:4
 https://hamal.co.il/main/גורם-ישראלי-בנו-של-חמינאי-נפצע-אך-עדיין-חי-248709
 https://hamal.co.il/main/אזעקות-בחיפה-והקריות--כל-העדכונים-248719
 https://news.walla.co.il/item/3821997
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חולדאי-מערכת-החינוך-בתל-אביב-ל
 https://news.walla.co.il/break/3822561
 https://hamal.co.il/main/הצהרת-דובר-צה״ל--ישיר-249756
 https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-עד-ליום-שבת-249758
+https://news.walla.co.il/item/3822562
+https://news.walla.co.il/item/3822551
+https://news.walla.co.il/break/3822563
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-249764
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-249769
