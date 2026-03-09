@@ -1,8 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/הבית-הלבן-4-6-שבועות-עד-שיושלם-המבצע-באיראן-248386
-https://news.walla.co.il/break/3821877
-https://news.walla.co.il/break/3821876
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248388
+COUNTER:18
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-248401
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248403
 https://news.walla.co.il/item/3821878
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822411
 https://hamal.co.il/main/כעת-אזעקות-בצפון-ובדרום-הארץ-במקביל---צהל-תוקף-בדאחיה-249461
 https://hamal.co.il/main/אזעקות-נשמעו-גם-באזור-השרון---ללא-התרעה-מקדימה-249464
 https://hamal.co.il/main/הרגע-בו-הופצץ-בניין-אל-קרד-הבנק-הלבנוני-בדאחיה-249470
+https://news.walla.co.il/item/3822412
+https://news.walla.co.il/break/3822415
+https://hamal.co.il/main/עשן-שחור-והרס-רב-תיעוד-הפצצת-הבניין-הפיננסי-בביירות-249479
+https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-אזעקות-שוב-נשמעות-באזור-249481
