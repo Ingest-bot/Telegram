@@ -1,13 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3821864
-https://news.walla.co.il/break/3821865
-https://news.walla.co.il/item/3821819
-https://hamal.co.il/main/תיעודים-מהדאחייה-סדרת-תקיפות-של-חיל-האוויר--צפו-248333
-https://news.walla.co.il/item/3821867
-https://hamal.co.il/main/חיל-האוויר-תוקף-ברגעים-אלו-במערב-איראן-248336
-https://hamal.co.il/main/יותר-מ-2600-גיחות-ו-6500-חימושים-המתקפה-באיראן-תמונת-מצב-248342
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-248346
-https://hamal.co.il/main/דיווחים-על-תקיפה-נגד-המיליציות-השיעיות-במוסול-עיראק-248370
+COUNTER:13
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-248371
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248373
 https://hamal.co.il/main/צהל-חושף-הותקפה-מפקדה-של-משמרות-המהפכה-בלבנון-248379
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3822389
 https://travel.walla.co.il/item/3822388
 https://news.walla.co.il/item/3822392
 https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-צהל-לא-מתכוון-לפגוע-בכם-249430
+https://news.walla.co.il/item/3822402
+https://news.walla.co.il/item/3822396
+https://news.walla.co.il/item/3822399
+https://news.walla.co.il/item/3822400
+https://news.walla.co.il/break/3822397
+https://news.walla.co.il/break/3822403
+https://hamal.co.il/main/אש-מטווח-אפס-תיעוד-הירי-בראש-עיריית-עראבה-249433
+https://hamal.co.il/main/הלימודים-יחודשו-בהדרגתיות-מיום-רביעי-לא-תהיה-חובת-הגעה-249435
+https://hamal.co.il/main/כעת-זוהו-שיגורים-מאיראן-לצפון-ולדרום-הארץ-249438
