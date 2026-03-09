@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/item/3821976
-https://news.walla.co.il/item/3821977
-https://news.walla.co.il/item/3821981
-https://hamal.co.il/main/גורמים-בצבא-בשלב-זה-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-248674
+COUNTER:16
 https://hamal.co.il/main/חדשות-השבת-248677
 https://hamal.co.il/main/סיכום-פעילות-צהל-בגזרות-השונות-במהלך-סוף-השבוע-248680
 https://hamal.co.il/main/נתניהו-הפעולה-שביצענו-לא-הביאה-את-הממצאים-אותם-חיפשנו-248681
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לא-רק-גזר-המאכלים-שמגינים-על-ה�
 https://news.walla.co.il/break/3822543
 https://hamal.co.il/main/תוך-שעה-הותקפו-שלושת-המשגרים-מהם-נורו-הרקטות-למרכז-249748
 https://hamal.co.il/main/שמיר-אסף-הרופא-5-פצועים-קל-במטח-האחרון-249749
+https://news.walla.co.il/item/3822507
+https://e.walla.co.il/item/3822549
+https://hamal.co.il/main/18-שנות-מאסר-נגזרו-על-גבר-שהורשע-ברצח-באדישות-של-פעוט-249751
+https://hamal.co.il/main/חיזבאללה-טוען-פגענו-249752
