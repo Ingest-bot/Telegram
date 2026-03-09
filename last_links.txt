@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-במקביל---זוהו-שיגורים-למרכז-הארץ-248432
-https://hamal.co.il/main/כעת-הופעלו-אזעקות-בים-המלח-והסביבה-248437
-https://news.walla.co.il/break/3821896
-https://news.walla.co.il/break/3821897
+COUNTER:9
 https://hamal.co.il/main/במקביל-שיגורים-לעבר-דרום-ומרכז-הארץ---ותיעוד-היירוטים-248442
 https://hamal.co.il/main/אש-בטהרן-גל-תקיפות-צהל-פגע-בשדה-התעופה-באזור-248444
 https://hamal.co.il/main/השיגורים-לדרום-ולמרכז-הארץ-248446
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נקבע-מותו-של-בן-ה-40-שנפצע-בנפיל
 https://hamal.co.il/main/חולון-נפילה-על-גג-של-אולם-ספורט-שקרס-אין-להגיע-למקום-249526
 https://hamal.co.il/main/יי-249529
 https://hamal.co.il/main/6-מוקדי-נפילה-בגוש-דן-הרוג-פצועה-קשה-ופצוע-בינוני-בזירות-249533
+https://news.walla.co.il/item/3822442
+https://travel.walla.co.il/item/3822421
+https://hamal.co.il/main/האסון-ביהוד-249535
+https://hamal.co.il/main/תיעוד-גג-של-אולם-ספורט-קרס-249536
