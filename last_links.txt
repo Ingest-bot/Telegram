@@ -1,10 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-248371
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248373
-https://hamal.co.il/main/צהל-חושף-הותקפה-מפקדה-של-משמרות-המהפכה-בלבנון-248379
-https://hamal.co.il/main/הרמטכל-לראשי-רשויות-לא-נוותר-על-פירוק-חיזבאללה-מנשקו״-248383
-https://news.walla.co.il/item/3821873
-https://news.walla.co.il/break/3821875
+COUNTER:16
 https://hamal.co.il/main/הבית-הלבן-4-6-שבועות-עד-שיושלם-המבצע-באיראן-248386
 https://news.walla.co.il/break/3821877
 https://news.walla.co.il/break/3821876
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3822403
 https://hamal.co.il/main/אש-מטווח-אפס-תיעוד-הירי-בראש-עיריית-עראבה-249433
 https://hamal.co.il/main/הלימודים-יחודשו-בהדרגתיות-מיום-רביעי-לא-תהיה-חובת-הגעה-249435
 https://hamal.co.il/main/כעת-זוהו-שיגורים-מאיראן-לצפון-ולדרום-הארץ-249438
+https://news.walla.co.il/break/3822406
+https://news.walla.co.il/break/3822408
+https://news.walla.co.il/break/3822411
+https://hamal.co.il/main/כעת-אזעקות-בצפון-ובדרום-הארץ-במקביל---צהל-תוקף-בדאחיה-249461
+https://hamal.co.il/main/אזעקות-נשמעו-גם-באזור-השרון---ללא-התרעה-מקדימה-249464
+https://hamal.co.il/main/הרגע-בו-הופצץ-בניין-אל-קרד-הבנק-הלבנוני-בדאחיה-249470
