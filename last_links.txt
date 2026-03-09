@@ -1,10 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-248759
-https://hamal.co.il/main/צהל-ושבכ-תקפו-מחבל-חמאס-שתכנן-לבצע-פיגוע-נגד-כוחותינו-248768
-https://news.walla.co.il/break/3822015
-https://news.walla.co.il/break/3822017
-https://news.walla.co.il/break/3822016
-https://hamal.co.il/main/דיווח-לראשונה-במלחמה---תקיפות-על-מתקני-נפט-באיראן-248773
+COUNTER:0
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-שברי-יירוט-בחדרה-248778
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-248776
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-248782
@@ -499,3 +493,9 @@ https://news.walla.co.il/blog/3822589
 https://news.walla.co.il/break/3822584
 https://news.walla.co.il/break/3822588
 https://hamal.co.il/main/טראמפ-יכולות-הטילים-שלהם-ירדו-לכ-10-249809
+https://news.walla.co.il/item/3822497
+https://news.walla.co.il/item/3822152
+https://news.walla.co.il/item/3822133
+https://e.walla.co.il/item/3822571
+https://news.walla.co.il/item/3822243
+https://hamal.co.il/main/האזעקות-בצפון-ירי-משולב-מחיזבאללה-ואיראן-249835
