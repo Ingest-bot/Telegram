@@ -1,9 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/גורם-ישראלי-בנו-של-חמינאי-נפצע-אך-עדיין-חי-248709
-https://hamal.co.il/main/אזעקות-בחיפה-והקריות--כל-העדכונים-248719
-https://news.walla.co.il/item/3821997
-https://news.walla.co.il/break/3821996
-https://news.walla.co.il/break/3821998
+COUNTER:8
 https://news.walla.co.il/break/3822000
 https://news.walla.co.il/break/3822001
 https://hamal.co.il/main/גורם-לבנוני-יותר-מ-150-איראנים-עזבו-היום-את-לבנון-248724
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3822551
 https://news.walla.co.il/break/3822563
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-249764
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-249769
+https://news.walla.co.il/item/3822566
+https://hamal.co.il/main/בן-גביר-ליועמ״שית-בכוונתי-למנות-עו״ד-דוד-בבלי-לתפקיד-יועמ״ש-249771
+https://hamal.co.il/main/נפל-בשטח-פתוח-השיגור-מאיראן-ההתרעות-בצפון---מלבנון-249773
+https://hamal.co.il/main/טראמפ-יתמוך-בחיסול-מוג׳תבא-״אם-לא-יענה-לדרישות-האמריקניות״-249774
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249776
