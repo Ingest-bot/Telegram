@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/צהל-שני-לוחמים-נפצע-בינוני-מירי-נט-בדרום-לבנון-248682
-https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף-נותרה-ללא-שינוי-עד-יום-שני-248685
+COUNTER:0
 https://news.walla.co.il/item/3821891
 https://news.walla.co.il/item/3821990
 https://hamal.co.il/main/לצד-דגלי-ישראל---הקולות-מההפגנה-באמסטרדם-248688
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3822554
 https://news.walla.co.il/item/3822553
 https://hamal.co.il/main/אחרי-השיגור-השגריר-האיראני-בטורקיה-זומן-לשיחת-נזיפה-249753
 https://hamal.co.il/main/ראש-עיריית-חדרה-בשלב-זה-מערכת-החינוך-בעיר-לא-תיפתח-249754
+https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבה-401-במרחב-דרום-לבנון-249658
+https://hamal.co.il/main/חולדאי-מערכת-החינוך-בתל-אביב-לא-תיפתח-249757
