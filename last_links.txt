@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3821958
-https://hamal.co.il/main/ראשון-לציון-שרסיס-נפל-בשטח-פתוח-248646
-https://hamal.co.il/main/מפקד-חיל-האוויר-השתתף-אתמול-בתקיפה-במטס-באיראן-248647
-https://news.walla.co.il/item/3821962
+COUNTER:10
 https://hamal.co.il/main/במנהלת-מאמינים-בתוך-10-14-ימים-ניתן-יהיה-לחדש-את-המשחקים-248650
 https://hamal.co.il/main/טראמפ-כשמסתכלים-על-710-ומעבר---תראו-את-כל-ההרג-שהם-ביצעו-248657
 https://news.walla.co.il/item/3821968
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מראשון-לציון-עד-נתניה-אלו-הרשו
 https://hamal.co.il/main/זוהו-שיגורים-לצפון-הארץ-249722
 https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לישראל-249731
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-למרכז-הארץ-249733
+https://travel.walla.co.il/item/3822530
+https://news.walla.co.il/break/3822532
+https://hamal.co.il/main/יותר-מ-50-מהישראלים-התקועים-בחול-כבר-שבו-ארצה-249737
+https://hamal.co.il/main/בשורות-טובות-שיפור-דרמטי-במצבו-של-פצוע-צה״ל-שהוגדר-אנוש-249739
