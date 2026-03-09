@@ -1,5 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3822013
+COUNTER:18
 https://news.walla.co.il/break/3822014
 https://news.walla.co.il/break/3822009
 https://hamal.co.il/main/בפעם-השנייה-היום-צהל-תוקף-תשתיות-של-משטר-הטרור-בטהרן-248756
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3822572
 https://news.walla.co.il/break/3822576
 https://hamal.co.il/main/בדקו-בעצמכם-כמה-פעמים-הופעלה-אזעקה-ביישוב-שלכם-249803
 https://hamal.co.il/main/טראמפ-על-המלחמה-״תראו-שזה-יהיה-מהלך-קצר-טווח״-249804
+https://hamal.co.il/main/בפעם-השנייה-היום-צה״ל-פתח-בגל-תקיפות-נרחב-בטהרן-249805
