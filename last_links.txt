@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/תמי-ארד-הרצון-לדעת-מה-עם-רון-נעצר-ברגע-שהוא-מסכן-את-צהל-248594
-https://hamal.co.il/main/חיזבאללה-ב״הודעות-פינוי״-לתושבי-קריית-שמונה-ונהריה-248596
-https://hamal.co.il/main/טראמפ-מזהיר-שאיראן-תוכה-קשה-מאוד-היום-248597
-https://news.walla.co.il/item/3821689
-https://news.walla.co.il/item/3821944
+COUNTER:0
 https://news.walla.co.il/item/3821785
 https://news.walla.co.il/break/3821945
 https://news.walla.co.il/item/3821945
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3822510
 https://e.walla.co.il/item/3822515
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-למרכז-249676
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249679
+https://news.walla.co.il/break/3822519
+https://hamal.co.il/main/עקב-ירי-מלבנון-אזעקות-הופעלו-במרכז-249690
+https://hamal.co.il/main/צוותי-מד״א-סורקים-מספר-זירות-במרכז-הארץ-249701
+https://hamal.co.il/main/מחר-ב-1700-כל-המדינה-יוצאת-למרפסות-249705
+https://hamal.co.il/main/אדם-נלכד-בבור-בגובה-6-מטר-בקריית-מלאכי-249706
