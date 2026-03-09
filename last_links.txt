@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/דיווח-בלבנון-צהל-פעל-הלילה-לאתר-את-גופתו-של-רון-ארד-248554
+COUNTER:1
 https://hamal.co.il/main/מעונן-חלקית-וייתכנו-גשמים--תחזית-מזג-האוויר-לשבת-248556
 https://news.walla.co.il/item/3821910
 https://news.walla.co.il/break/3821912
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3822470
 https://news.walla.co.il/item/3822480
 https://news.walla.co.il/break/3822481
 https://hamal.co.il/main/ישנים-בממד-זו-הטעות-שרובכם-עושים-מבלי-לדעת-249563
+https://hamal.co.il/main/כעת-אזעקות-בגליל-העליון-249571
