@@ -1,10 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3821785
-https://news.walla.co.il/break/3821945
-https://news.walla.co.il/item/3821945
-https://hamal.co.il/main/אירוע-ירי-בנצרת-נקבע-מותו-של-הנפגע-248601
-https://hamal.co.il/main/כיתת-הכוננות-של-מושב-לימן-בגליל-המערבי-סיכלה-כטב״מ-248602
-https://hamal.co.il/main/תיעודים-ברשתות-של-מטה-משמרות-המהפכה-באספהאן-אשר-הופצץ-248615
+COUNTER:4
 https://news.walla.co.il/item/3821895
 https://hamal.co.il/main/צהל-קורא-לתושבי-דרום-לבנון-דרומית-לנהר-הליטאני-להתפנות-248617
 https://hamal.co.il/main/דוח-מודיעין-אמריקני-גם-מלחמה-באיראן-לא-תגרום-לנפילת-המשטר-248618
@@ -499,3 +493,9 @@ https://hamal.co.il/main/עקב-ירי-מלבנון-אזעקות-הופעלו-ב
 https://hamal.co.il/main/צוותי-מד״א-סורקים-מספר-זירות-במרכז-הארץ-249701
 https://hamal.co.il/main/מחר-ב-1700-כל-המדינה-יוצאת-למרפסות-249705
 https://hamal.co.il/main/אדם-נלכד-בבור-בגובה-6-מטר-בקריית-מלאכי-249706
+https://news.walla.co.il/item/3822521
+https://news.walla.co.il/item/3822523
+https://hamal.co.il/main/כ״ץ-בפיקוד-צפון-״מה-שאנחנו-לא-נעשה-אף-אחד-לא-יעשה״-249714
+https://hamal.co.il/main/חיל-האוויר-יירט-מספר-שיגורים-אחרים-נפלו-בשטחים-פתוחים-249715
+https://hamal.co.il/main/שברי-יירוט-אותרו-באיזור-הגליל-התחתון-249718
+https://hamal.co.il/main/2-פצועים-קל-בזירה-במרכז-הארץ-249719
