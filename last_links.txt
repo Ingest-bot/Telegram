@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/5-לוחמי-גבעתי-נפצעו-באורח-קשה-סמוך-לגבול-לבנון-248281
-https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בבאר-שבע-״-248279
-https://hamal.co.il/main/״ממשיכים-להילחם-ככל-שידרש״-תיעוד-מיוחד-מתא-הטייס-בשמי-איראן-248285
-https://news.walla.co.il/item/3821860
+COUNTER:9
 https://hamal.co.il/main/דיווח-שחקניות-נבחרת-איראן-אולצו-לשיר-את-ההמנון-תחת-איומים-248288
 https://hamal.co.il/main/ראש-אכ״א-האלוף-דדו-בר-כליפא-באיגרת-לכבוד-שבת-לחיילים--צפו-248291
 https://hamal.co.il/main/באח-צנחנים-מוכנים-לארוחת-השבת-בסימן-חג-פורים--צפו-248296
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822373
 https://news.walla.co.il/break/3822370
 https://news.walla.co.il/break/3822374
 https://hamal.co.il/main/כתב-אישום-מלוות-הסעות-בת-60-תקפה-בעלת-צרכים-מיוחדים-249420
+https://news.walla.co.il/item/3822382
+https://news.walla.co.il/item/3822386
+https://hamal.co.il/main/החשד-נגד-בן-גביר-דלף-מידע-ביטחוני-רגיש-הנוגע-למבצע-באיראן-249425
+https://hamal.co.il/main/יעד-אסטרטגי-האיראנים-טוענים-שתקפו-מפעל-וופלים-בחיפה-249428
