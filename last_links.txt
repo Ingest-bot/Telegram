@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/16-מטוסים-איראניים-הושמדו-בטהרן---בפעולת-תקיפה-אחת-248666
-https://hamal.co.il/main/דיווח-מועצת-המומחים-באיראן-תחליט-על-המנהיג-הבא-248667
-https://hamal.co.il/main/צהל-תקף-את-חמ״ל-ההגנה-האווירית-המרכזי-במשמרות-המהפכה-248663
+COUNTER:14
 https://news.walla.co.il/item/3821976
 https://news.walla.co.il/item/3821977
 https://news.walla.co.il/item/3821981
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צה״ל-תקף-מפקדת-כטב״מים-של-משמר
 https://news.walla.co.il/item/3822535
 https://news.walla.co.il/break/3822537
 https://hamal.co.il/main/לא-רק-גזר-המאכלים-שמגינים-על-העיניים-מנזקי-אור-וגיל-249745
+https://news.walla.co.il/break/3822543
+https://hamal.co.il/main/תוך-שעה-הותקפו-שלושת-המשגרים-מהם-נורו-הרקטות-למרכז-249748
+https://hamal.co.il/main/שמיר-אסף-הרופא-5-פצועים-קל-במטח-האחרון-249749
