@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3821968
-https://news.walla.co.il/item/3821970
-https://hamal.co.il/main/דיווחים-פיצוצים-בבחריין-מתקפת-טילים-על-איחוד-האמירויות-248660
+COUNTER:12
 https://hamal.co.il/main/16-מטוסים-איראניים-הושמדו-בטהרן---בפעולת-תקיפה-אחת-248666
 https://hamal.co.il/main/דיווח-מועצת-המומחים-באיראן-תחליט-על-המנהיג-הבא-248667
 https://hamal.co.il/main/צהל-תקף-את-חמ״ל-ההגנה-האווירית-המרכזי-במשמרות-המהפכה-248663
@@ -499,3 +496,6 @@ https://hamal.co.il/main/יותר-מ-50-מהישראלים-התקועים-בחו
 https://hamal.co.il/main/בשורות-טובות-שיפור-דרמטי-במצבו-של-פצוע-צה״ל-שהוגדר-אנוש-249739
 https://news.walla.co.il/break/3822533
 https://hamal.co.il/main/צה״ל-תקף-מפקדת-כטב״מים-של-משמרות-המהפכה-249740
+https://news.walla.co.il/item/3822535
+https://news.walla.co.il/break/3822537
+https://hamal.co.il/main/לא-רק-גזר-המאכלים-שמגינים-על-העיניים-מנזקי-אור-וגיל-249745
