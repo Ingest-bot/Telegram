@@ -1,5 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/דיווח-ראשוני-פצוע-מירי-החיזבאללה-בגבול-לצפון-248807
+COUNTER:3
 https://news.walla.co.il/item/3822023
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248809
 https://news.walla.co.il/break/3822026
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בהמשך-לירי-לצפון-הארץ-לא-ידוע-�
 https://news.walla.co.il/break/3822596
 https://news.walla.co.il/break/3822597
 https://hamal.co.il/main/חדירת-כלי-הטיס-בצפון---זיהוי-שווא-249851
+https://hamal.co.il/main/צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לעבר-צפון-הארץ-249853
