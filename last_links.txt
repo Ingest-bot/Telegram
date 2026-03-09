@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/שוב-חשד-לחדירת-כלי-טיס-עוין-בצפון-248247
-https://hamal.co.il/main/תיעוד-מהדאחייה-בביירות-248254
-https://hamal.co.il/main/טראמפ-״לא-תהיה-שום-עסקה-עם-איראן-מלבד-כניעה-ללא-תנאים״-248266
-https://news.walla.co.il/item/3821848
-https://news.walla.co.il/break/3821849
+COUNTER:5
 https://news.walla.co.il/break/3821850
 https://hamal.co.il/main/מפקד-מרכז-האש-בפיקוד-צפון-״חיזבאללה-טעה-טעות-אסטרטגית-מרה״-248274
 https://hamal.co.il/main/צה״ל-תקף-מפקד-בכיר-של-משטר-הטרור-בטהרן-248275
@@ -499,3 +494,8 @@ https://hamal.co.il/main/יי-249394
 https://news.walla.co.il/break/3822358
 https://hamal.co.il/main/אחרי-לילה-קשוח-גם-הבוקר-זוהו-שיגורים-מאיראן-לצפון-הארץ-249398
 https://hamal.co.il/main/כעת-אזעקות-ביישובים-נרחבים-בצפון-הארץ-249410
+https://news.walla.co.il/item/3822355
+https://news.walla.co.il/break/3822362
+https://hamal.co.il/main/הותר-לפרסום-שמו-של-רופא-שביצע-עפי-החשד-מעשים-מגונים-במטופלת-249412
+https://hamal.co.il/main/תושבים-מדווחים-יירוט-בשמי-הצפון-249414
+https://hamal.co.il/main/אחרי-הנתיחה-באבו-כביר-החשד-לרצח-בעכו-התפוגג---והחשוד-שוחרר-249415
