@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/במקביל-שיגורים-לעבר-דרום-ומרכז-הארץ---ותיעוד-היירוטים-248442
-https://hamal.co.il/main/אש-בטהרן-גל-תקיפות-צהל-פגע-בשדה-התעופה-באזור-248444
-https://hamal.co.il/main/השיגורים-לדרום-ולמרכז-הארץ-248446
+COUNTER:11
 https://hamal.co.il/main/להבות-בטהרן-שדה-התעופה-הותקף---שריפה-פרצה-במקום-248453
 https://hamal.co.il/main/פיקוד-העורף-הכטבם-בצפון-הארץ-יורט-בהצלחה-248455
 https://news.walla.co.il/item/3821894
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822442
 https://travel.walla.co.il/item/3822421
 https://hamal.co.il/main/האסון-ביהוד-249535
 https://hamal.co.il/main/תיעוד-גג-של-אולם-ספורט-קרס-249536
+https://e.walla.co.il/item/3822445
+https://hamal.co.il/main/הנפילות-במרכז-נקבע-מותו-של-פצוע-נוסף-249540
+https://hamal.co.il/main/הפרוייקט-הסודי-שאיראן-ניסתה-להסתיר-כך-הושמד-מערך-התובלה-של-249541
