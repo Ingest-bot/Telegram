@@ -1,5 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/מדא-על-הירי-האחרון-אין-דיווחים-על-נפגעים-248757
+COUNTER:19
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-248759
 https://hamal.co.il/main/צהל-ושבכ-תקפו-מחבל-חמאס-שתכנן-לבצע-פיגוע-נגד-כוחותינו-248768
 https://news.walla.co.il/break/3822015
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בפעם-השנייה-היום-צה״ל-פתח-בגל-�
 https://news.walla.co.il/blog/3822589
 https://news.walla.co.il/break/3822584
 https://news.walla.co.il/break/3822588
+https://hamal.co.il/main/טראמפ-יכולות-הטילים-שלהם-ירדו-לכ-10-249809
