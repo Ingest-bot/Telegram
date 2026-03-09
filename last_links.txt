@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3822010
-https://news.walla.co.il/break/3822012
+COUNTER:17
 https://news.walla.co.il/break/3822013
 https://news.walla.co.il/break/3822014
 https://news.walla.co.il/break/3822009
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-אני-חושב-שהמלחמה-כמעט-הו
 https://news.walla.co.il/item/3822563
 https://news.walla.co.il/item/3822572
 https://news.walla.co.il/break/3822576
+https://hamal.co.il/main/בדקו-בעצמכם-כמה-פעמים-הופעלה-אזעקה-ביישוב-שלכם-249803
+https://hamal.co.il/main/טראמפ-על-המלחמה-״תראו-שזה-יהיה-מהלך-קצר-טווח״-249804
