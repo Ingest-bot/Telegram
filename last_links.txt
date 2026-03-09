@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/כטבם-אותר-בחניית-בית-חולים-בנהריה-אין-נזק-או-נפגעים-248552
-https://news.walla.co.il/break/3821908
-https://news.walla.co.il/break/3821909
-https://hamal.co.il/main/היום-ה-8-במבצע-שאגת-הארי-35-בני-אדם-נפצעו-בדרך-למקלט-248553
+COUNTER:0
 https://hamal.co.il/main/דיווח-בלבנון-צהל-פעל-הלילה-לאתר-את-גופתו-של-רון-ארד-248554
 https://hamal.co.il/main/מעונן-חלקית-וייתכנו-גשמים--תחזית-מזג-האוויר-לשבת-248556
 https://news.walla.co.il/item/3821910
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חמל-למען-תושבי-הצפון-פרסמו-את-�
 https://hamal.co.il/main/יותר-גרוע-מעם-כלביא-כך-נראה-שבוע-של-מלחמה-בכיס-שלנו-249562
 https://news.walla.co.il/item/3822476
 https://news.walla.co.il/item/3822471
+https://news.walla.co.il/item/3822470
+https://news.walla.co.il/item/3822480
+https://news.walla.co.il/break/3822481
+https://hamal.co.il/main/ישנים-בממד-זו-הטעות-שרובכם-עושים-מבלי-לדעת-249563
