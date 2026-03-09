@@ -1,9 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3821885
-https://hamal.co.il/main/דיווח-סעודיה-מנהלת-מגעים-עם-איראן-במטרה-לסיים-את-המלחמה-248417
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-ה-248419
-https://news.walla.co.il/break/3821886
-https://news.walla.co.il/item/3821888
+COUNTER:3
 https://news.walla.co.il/break/3821890
 https://news.walla.co.il/break/3821892
 https://news.walla.co.il/blog/3821893
@@ -499,3 +494,8 @@ https://e.walla.co.il/item/3822422
 https://news.walla.co.il/break/3822417
 https://hamal.co.il/main/בהמשך-לירי-לעבר-הצפון-249483
 https://hamal.co.il/main/על-הכוונת-זוהו-שיגורים-לעבר-השפלה-ירושלים-המרכז-והשרון-249486
+https://news.walla.co.il/item/3822428
+https://news.walla.co.il/break/3822425
+https://hamal.co.il/main/מיליונים-בממדים-יישובים-רבים-תחת-אזעקות-249506
+https://hamal.co.il/main/2-פצועים-קשה-ביהוד-במקביל-זירות-נפילה-בחולון-ובת-ים-249517
+https://hamal.co.il/main/המטח-למרכז-2-פצועים-אנוש-באור-יהודה-פצוע-קשה-באור-יהודה-249519
