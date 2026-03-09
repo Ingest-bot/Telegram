@@ -1,9 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/ראש-הגליל-העליון-״יש-לנו-אחריות-מוסרית-להבטיח-שגרה-לאזרחים״-248276
-https://hamal.co.il/main/אדווה-דדון-מבקשת-להתנצל-בפני-סמוטריץ-248277
-https://hamal.co.il/main/חוסל-באיראן-ממלא-ראש-לשכת-המנהיג-העלון-248278
-https://hamal.co.il/main/הותקף-בלבנון-משרדו-של-ראש-מערך-גיוס-הכספים-בחמאס-248280
-https://news.walla.co.il/break/3821857
+COUNTER:7
 https://hamal.co.il/main/5-לוחמי-גבעתי-נפצעו-באורח-קשה-סמוך-לגבול-לבנון-248281
 https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בבאר-שבע-״-248279
 https://hamal.co.il/main/״ממשיכים-להילחם-ככל-שידרש״-תיעוד-מיוחד-מתא-הטייס-בשמי-איראן-248285
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אחרי-הנתיחה-באבו-כביר-החשד-לרצ
 https://news.walla.co.il/item/3822365
 https://news.walla.co.il/item/3822363
 https://hamal.co.il/main/״תפטרו-אותנו-מחיזבאללה-אני-איתכם-השיחה-של-הלבנוני-עם-צהל-249418
+https://news.walla.co.il/item/3822369
+https://news.walla.co.il/item/3822373
+https://news.walla.co.il/break/3822370
+https://news.walla.co.il/break/3822374
+https://hamal.co.il/main/כתב-אישום-מלוות-הסעות-בת-60-תקפה-בעלת-צרכים-מיוחדים-249420
