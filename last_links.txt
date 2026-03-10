@@ -1,10 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-249107
-https://hamal.co.il/main/בצהל-מדגישים-249121
-https://news.walla.co.il/item/3822207
-https://news.walla.co.il/item/3822203
-https://news.walla.co.il/item/3822205
-https://news.walla.co.il/item/3822208
+COUNTER:10
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249126
 https://hamal.co.il/main/באיחוד-האמירויות-מכחישים-לא-תקפנו-באיראן-249127
 https://hamal.co.il/main/הותר-לפרסום-2-לוחמי-צהל-נפלו-249128
@@ -499,3 +493,9 @@ https://hamal.co.il/main/משרד-הרווחה-יקדם-מרכזים-מוגני�
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בביירות-250079
 https://news.walla.co.il/item/3822735
 https://hamal.co.il/main/קנדה-יריות-נורו-לעבר-הקונסוליה-האמריקנית-בטורונטו-אין-נפגע-250081
+https://travel.walla.co.il/item/3822767
+https://news.walla.co.il/break/3822768
+https://hamal.co.il/main/השר-מיקי-זוהר-סיכוי-גבוה-שנחזור-לשחק-בשבוע-הבא-רענן-ברנוב-250083
+https://hamal.co.il/main/--250084
+https://hamal.co.il/main/מסרי-לנקה-ועד-זנזיבר-טיסות-חילוץ-לישראלים-גם-מיעדים-אקזוטיי-250085
+https://hamal.co.il/main/נ-הגיע-לניחום-משפחתרסל-מאהר-חטאר-זל-אני-כאן-בשם-מדינה-ש-250086
