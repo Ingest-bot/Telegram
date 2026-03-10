@@ -1,9 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/אמיר-קטאר-שוחח-בטלפון-עם-נשיא-ארהב-דונלד-טראמפ-עידן-קוולר-248851
-https://news.walla.co.il/break/3822047
-https://hamal.co.il/main/אזעקה-הופעלה-במרגליות-שבצפון-248854
-https://news.walla.co.il/item/3822055
-https://news.walla.co.il/item/3822053
+COUNTER:11
 https://news.walla.co.il/item/3822048
 https://news.walla.co.il/item/3822054
 https://news.walla.co.il/break/3822051
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822620
 https://news.walla.co.il/break/3822621
 https://news.walla.co.il/break/3822622
 https://hamal.co.il/main/חיל-האוויר-תקף-נכסים-כלכליים-של-249870
+https://travel.walla.co.il/item/3822531
+https://news.walla.co.il/item/3822627
+https://e.walla.co.il/item/3822631
+https://news.walla.co.il/break/3822625
+https://hamal.co.il/main/הפיצוץ-בשגרירות-ארהב-באוסלו-התיעוד-של-החשוד---והסרטון-של-ח-249734
