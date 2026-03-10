@@ -1,12 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3819984
-https://news.walla.co.il/break/3822121
-https://hamal.co.il/main/העולה-הראשון-249046
-https://hamal.co.il/main/המערכה-בלבנון-זה-מספר-מחבלי-החיזבאללה-שחוסלו-249047
-https://e.walla.co.il/item/3822123
-https://news.walla.co.il/item/3822129
-https://news.walla.co.il/item/3822116
-https://hamal.co.il/main/ללא-עלות-טיסות-חילוץ-מדובאי-ואבו-דאבי-לישראלים-התקועים-249048
+COUNTER:4
 https://news.walla.co.il/item/3822136
 https://hamal.co.il/main/צפו-249049
 https://hamal.co.il/main/החוויה-המפחידה-של-אלה-איילון-במעבר-טאבה-הרגיש-כמו-פאודה-247821
@@ -499,3 +491,11 @@ https://hamal.co.il/main/הממשלה-תאשר-המצב-249961
 https://hamal.co.il/main/הממשלה-תאשר-249962
 https://hamal.co.il/main/מזל-טוב-יהודה-לוי-ודנה-פרידר-הפכו-להורים-249966
 https://hamal.co.il/main/ברגע-האחרון-תקציב-הביטחון-קפץ-בעוד-31-מיליארד-249979
+https://news.walla.co.il/item/3822717
+https://news.walla.co.il/item/3822724
+https://news.walla.co.il/item/3822726
+https://news.walla.co.il/break/3822722
+https://news.walla.co.il/break/3822723
+https://news.walla.co.il/break/3822725
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-249981
+https://hamal.co.il/main/גבר-נדרס-למוות-על-ידי-טרקטור-בעראבה-249998
