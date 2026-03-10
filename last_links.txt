@@ -1,5 +1,4 @@
 COUNTER:12
-https://news.walla.co.il/break/3822052
 https://news.walla.co.il/break/3822056
 https://news.walla.co.il/break/3822057
 https://news.walla.co.il/break/3822058
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הפיצוץ-בשגרירות-ארהב-באוסלו-ה�
 https://e.walla.co.il/item/3822633
 https://news.walla.co.il/break/3822632
 https://hamal.co.il/main/מיכל-דליות-למה-ילדים-מפחדים-להירדם-במלחמה---ומה-הפתרון-הקל-249564
+https://news.walla.co.il/item/3822639
