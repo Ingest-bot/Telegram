@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3822176
-https://hamal.co.il/main/האזעקות-בצפון-רוכב-אופנוע-249083
-https://hamal.co.il/main/אימוץ-משפחות-שפונו-המיזם-של-תנועת-עזרא-249084
-https://hamal.co.il/main/היללו-את-איראן-22-חשודים-נעצרו-ביוש-מתחילת-המלחמה-249085
+COUNTER:17
 https://hamal.co.il/main/אישום-יוגש-נגד-תושב-מזרח-י-ם-249086
 https://news.walla.co.il/item/3822184
 https://news.walla.co.il/break/3822186
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822744
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-הארץ-250026
 https://hamal.co.il/main/60-מהישראלים-ששהו-בחו״ל-ערב-המלחמה---שבו-ארצה-250054
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילה-במרכז-לא-דווח-על-נפגעים-250057
+https://news.walla.co.il/item/3822747
+https://news.walla.co.il/break/3822749
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-250060
+https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים--תיעוד-היירוט-250075
