@@ -1,9 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-248987
-https://hamal.co.il/main/תיעוד-248989
-https://hamal.co.il/main/ארצות-הברית-מעלה-הילוך-שלוש-נושאות-מטוסים-מול-איראן-248988
-https://travel.walla.co.il/item/3822067
-https://hamal.co.il/main/צהל-מטוסי-קרב-איראניים-הותקפו-ב-248990
+COUNTER:8
 https://hamal.co.il/main/הדיירים-חזרו-מהממד---וגילו-שביתם-נשדד-תושב-תא-נעצר-248991
 https://travel.walla.co.il/item/3821337
 https://news.walla.co.il/item/3821983
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822667
 https://hamal.co.il/main/נתניהו-נפגש-עם-ראשי-רשויות-ברחבי-הארץ-יש-לך-את-הגב-להמשיך-249920
 https://hamal.co.il/main/מחקר-חדש-האם-המאכלים-הפופולרים-האלה-מכילים-רעלנים-249869
 https://hamal.co.il/main/רוסטם-גולומוב-הוא-אחד-מ-2-ההרוגים-מהנפילה-ביהוד-249922
+https://news.walla.co.il/item/3822674
+https://news.walla.co.il/item/3822680
+https://news.walla.co.il/break/3822679
+https://hamal.co.il/main/יור-הפרלמנט-האיראני-נגד-הפסקת-אש-נשבור-את-המעגל-הזה-249923
+https://hamal.co.il/main/חנן-בן-ארי-נ-249924
