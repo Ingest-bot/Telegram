@@ -1,11 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3821357
-https://news.walla.co.il/item/3821620
-https://news.walla.co.il/item/3820860
-https://news.walla.co.il/item/3821681
-https://hamal.co.il/main/צהל-תקף-מאגרי-דלק-ששימשו-את-הכוחות-הצבאיים-של-משטר-הטרור-הא-248849
-https://news.walla.co.il/break/3822045
-https://hamal.co.il/main/טראמפ-אנו-עוקרים-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-ע-248850
+COUNTER:10
 https://hamal.co.il/main/אמיר-קטאר-שוחח-בטלפון-עם-נשיא-ארהב-דונלד-טראמפ-עידן-קוולר-248851
 https://news.walla.co.il/break/3822047
 https://hamal.co.il/main/אזעקה-הופעלה-במרגליות-שבצפון-248854
@@ -499,3 +492,10 @@ https://hamal.co.il/main/דיווח-האזעקות-שנשמעו-בצפון---כ�
 https://news.walla.co.il/item/3822613
 https://news.walla.co.il/break/3822614
 https://hamal.co.il/main/ניווט-בטוח-התיכוניסט-שבנה-אתר-ניווט-שישאיר-אתכם-בקרבת-מקלט-249736
+https://news.walla.co.il/item/3822616
+https://news.walla.co.il/item/3822582
+https://news.walla.co.il/break/3822619
+https://news.walla.co.il/break/3822620
+https://news.walla.co.il/break/3822621
+https://news.walla.co.il/break/3822622
+https://hamal.co.il/main/חיל-האוויר-תקף-נכסים-כלכליים-של-249870
