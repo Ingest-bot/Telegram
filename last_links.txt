@@ -1,10 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/מועצת-המומחים-של-איראן-בחרנו-את-יורשו-של-חמינאי-248994
-https://news.walla.co.il/item/3822072
-https://news.walla.co.il/item/3822077
-https://hamal.co.il/main/חזה-את-המלחמה-עם-איראן---וזה-מה-שהוא-מנבא-לשבוע-הקרוב-248992
-https://news.walla.co.il/item/3822078
-https://news.walla.co.il/item/3822080
+COUNTER:13
 https://news.walla.co.il/item/3822082
 https://news.walla.co.il/break/3822083
 https://hamal.co.il/main/האזעקות-בצפון-עד-כה-לא-דווח-על-נפגעים-249033
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822687
 https://news.walla.co.il/item/3822638
 https://hamal.co.il/main/מחבלים-חוסלו-מבנים-הושמדו-כוחותינו-מבצעים-פשיטות-בדרום-לבנ-249925
 https://hamal.co.il/main/חמל-גם-ברשתות-החברתיות-עקבו-אחרינו-באינסטגרם-249926
+https://news.walla.co.il/item/3822694
+https://news.walla.co.il/item/3822695
+https://news.walla.co.il/break/3822691
+https://hamal.co.il/main/האסון-ביהוד-אמיד-מורטוזוב-הוא-ההרוג-השני-מפגיעת-הטיל-האיראנ-249927
+https://hamal.co.il/main/המאגר-החברתי-שכולם-יכולים-להשתמש-בו-כלים-מדריכים-ותובנות-מ-249939
+https://hamal.co.il/main/אפקט-הדומינו-האזהרה-של-ענקית-הנפט-שמזעזעת-את-השווקים-249944
