@@ -1,10 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3822136
-https://hamal.co.il/main/צפו-249049
-https://hamal.co.il/main/החוויה-המפחידה-של-אלה-איילון-במעבר-טאבה-הרגיש-כמו-פאודה-247821
-https://news.walla.co.il/item/3822141
-https://news.walla.co.il/item/3822140
-https://news.walla.co.il/item/3822144
+COUNTER:8
 https://news.walla.co.il/item/3822145
 https://hamal.co.il/main/דיווח-באיראן-בקרוב-יוכרז-על-בחירת-היורש-של-חמינאי-249057
 https://news.walla.co.il/item/3822148
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3822723
 https://news.walla.co.il/break/3822725
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-249981
 https://hamal.co.il/main/גבר-נדרס-למוות-על-ידי-טרקטור-בעראבה-249998
+https://news.walla.co.il/item/3822730
+https://news.walla.co.il/break/3822728
+https://hamal.co.il/main/ירי-משולב-מאיראן-ולבנון-לעבר-הצפון-צפו-בתיעוד-היירוטים-250003
+https://hamal.co.il/main/אחרי-פגישת-נתניהו-וסמוטריץ-מסתמן---רפורמת-החלב-תיעצר-250013
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250011
+https://hamal.co.il/main/לאריגאני-מאיים-על-טראמפ-היזהר-שלא-תעלם-249982
