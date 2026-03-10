@@ -1,8 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3822331
-https://hamal.co.il/main/מטען-חבלה-הושלך-בניו-יורק---אבל-תשומת-ליבו-של-ממדאני-הייתה-ב-249312
-https://hamal.co.il/main/אחרי-המינוי-צעקות-מוות-למוגתבא-בטהרן-249313
-https://news.walla.co.il/item/3821690
+COUNTER:11
 https://news.walla.co.il/item/3821414
 https://news.walla.co.il/item/3821667
 https://hamal.co.il/main/משמרות-המהפכה-מכריזים-אמונים-למנהיג-העליון-החדש-249314
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822865
 https://hamal.co.il/main/במקביל-לתקיפות-באיראן-צהל-החל-בגל-תקיפות-בביירות-250245
 https://news.walla.co.il/item/3822866
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יופעלו-בירושלים-ובמרכז-250247
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-250263
+https://hamal.co.il/main/הדי-פיצוצים-נשמעים-בתל-אביב-250270
+https://hamal.co.il/main/אזעקות-נשמעות-באיזור-חדרה-250276
+https://hamal.co.il/main/יירוטים-בשמי-המרכז-250280
