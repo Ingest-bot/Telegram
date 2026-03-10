@@ -1,11 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/האזעקות-בצפון-עד-כה-לא-דווח-על-נפגעים-249033
-https://news.walla.co.il/item/3822091
-https://e.walla.co.il/item/3822096
-https://news.walla.co.il/item/3822095
-https://hamal.co.il/main/האזעקות-בצפון-2-כטבמים-יורטו-צהל-במרדף-אחר-השלישי-249036
-https://hamal.co.il/main/פיקוד-העורף-על-האזעקות-בצפון-ניתן-לצאת-מהמרחב-המוגן-249038
-https://hamal.co.il/main/בני-סבטי--249039
+COUNTER:16
 https://news.walla.co.il/item/3822100
 https://hamal.co.il/main/דובר-צהל-בערבית-איראן-מנסה-לבחור-יורש-לחמינאי---נפגע-בו-249040
 https://hamal.co.il/main/צהל-יהודים-תקפו-ערבים-ביוש-249041
@@ -499,3 +492,10 @@ https://hamal.co.il/main/המאגר-החברתי-שכולם-יכולים-להש�
 https://hamal.co.il/main/אפקט-הדומינו-האזהרה-של-ענקית-הנפט-שמזעזעת-את-השווקים-249944
 https://news.walla.co.il/item/3822702
 https://hamal.co.il/main/צהל-כוחותינו-חיסלו-3-מחבלים-שיצאו-ממ-249945
+https://e.walla.co.il/item/3822706
+https://news.walla.co.il/item/3822709
+https://news.walla.co.il/break/3822703
+https://news.walla.co.il/break/3822704
+https://news.walla.co.il/break/3822707
+https://hamal.co.il/main/שיחות-249950
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-249958
