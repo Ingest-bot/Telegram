@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3822041
-https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-את-המשגר-ממנו-נורו-רקטות-לעבר-י-248846
+COUNTER:8
 https://hamal.co.il/main/דובר-צהל-צהל-החל-בגל-תקיפות-נוסף-בביירות-ראשוני-צהל-248847
 https://hamal.co.il/main/קריית-בעדכון-בטחוני-חשוב-ובבקשה-חשובה-לתושביה-248848
 https://e.walla.co.il/item/3821927
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3822611
 https://hamal.co.il/main/צהל-ביצע-בשעה-האחרונה-ירי-ארטילרי-לעבר-מחנה-הפליטים-אל-בורי-249863
 https://hamal.co.il/main/כוח-מיוחד-של-צהל-ביצע-מעצרים-של-חשודים-מצפון-לטול-כרם-249864
 https://news.walla.co.il/item/3822587
+https://news.walla.co.il/item/3822612
+https://hamal.co.il/main/דיווח-האזעקות-שנשמעו-בצפון---כטבם-שיורט-249867
