@@ -1,12 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3822145
-https://hamal.co.il/main/דיווח-באיראן-בקרוב-יוכרז-על-בחירת-היורש-של-חמינאי-249057
-https://news.walla.co.il/item/3822148
-https://news.walla.co.il/break/3822147
-https://hamal.co.il/main/צהל-יותר-מ-400-מטרות-הותקפו-באיראן-תוך-24-שעות-249058
-https://hamal.co.il/main/מתי-הסיכוי-לשמוע-אזעקה-בעירכם-הנתונים-חושפים-את-שעת-השיא-במ-249071
-https://news.walla.co.il/item/3822154
-https://hamal.co.il/main/שדד-באלימות-קשישה-בזמן-האזעקות-אישום-יוגש-נגד-תושב-תא-249072
+COUNTER:12
 https://travel.walla.co.il/item/3822164
 https://news.walla.co.il/item/3822163
 https://news.walla.co.il/item/3822166
@@ -499,3 +491,11 @@ https://hamal.co.il/main/ירי-משולב-מאיראן-ולבנון-לעבר-ה
 https://hamal.co.il/main/אחרי-פגישת-נתניהו-וסמוטריץ-מסתמן---רפורמת-החלב-תיעצר-250013
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250011
 https://hamal.co.il/main/לאריגאני-מאיים-על-טראמפ-היזהר-שלא-תעלם-249982
+https://news.walla.co.il/item/3822737
+https://news.walla.co.il/item/3822738
+https://news.walla.co.il/item/3822739
+https://news.walla.co.il/break/3822732
+https://hamal.co.il/main/דיווח-האסטרטגיה-של-ישראל-באיראן-מחשש-שטראמפ-יפסיק-את-המלחמה-250018
+https://hamal.co.il/main/דקות-לפני-השיגור-לישראל-צהל-תקף-משגר-טילים-באיראן--צפו-250021
+https://hamal.co.il/main/שר-ההגנה-האמריקני-היום-יהיו-התקיפות-האינטנסיביות-ביותר-שה-250023
+https://hamal.co.il/main/הרמטכל-האמריקני-השיגורים-באיראן-ירדו-ב-90-250024
