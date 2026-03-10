@@ -1,6 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/אזעקות-נשמעו-באזור-קש-והסביבה-249311
-https://news.walla.co.il/blog/3822333
+COUNTER:6
 https://news.walla.co.il/item/3822198
 https://news.walla.co.il/break/3822334
 https://news.walla.co.il/break/3822331
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3822220
 https://news.walla.co.il/item/3821110
 https://hamal.co.il/main/שגריר-איראן-באום-התקיפות-הרסו-כמעט-10000-אתרים-אזרחים-250243
 https://hamal.co.il/main/2-נשים-נפצעו-קל-לאחר-שהתנגשו-בגדר-במהלך-אזעקה-והרכב-עלה-באש-250244
+https://news.walla.co.il/break/3822865
+https://hamal.co.il/main/במקביל-לתקיפות-באיראן-צהל-החל-בגל-תקיפות-בביירות-250245
