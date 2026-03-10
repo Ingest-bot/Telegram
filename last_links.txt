@@ -1,13 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/item/3822023
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248809
-https://news.walla.co.il/break/3822026
-https://news.walla.co.il/break/3822028
-https://news.walla.co.il/break/3822029
-https://news.walla.co.il/break/3822030
-https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-וההורים-מתוסכלים-248731
-https://news.walla.co.il/break/3822031
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-248818
 https://hamal.co.il/main/טראמפ-נגד-סטארמר-לא-צריך-אנשים-שמצטרפים-למלחמה-אחרי-ניצחון-248839
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-הארץ-248838
 https://hamal.co.il/main/בהשכלה-הגבוהה-נערכים-לפתיחת-הסמסטר-בזום-הקמפוסים-סגורים-248816
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3822596
 https://news.walla.co.il/break/3822597
 https://hamal.co.il/main/חדירת-כלי-הטיס-בצפון---זיהוי-שווא-249851
 https://hamal.co.il/main/צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לעבר-צפון-הארץ-249853
+https://news.walla.co.il/item/3822602
+https://news.walla.co.il/item/3822603
+https://news.walla.co.il/item/3822607
+https://news.walla.co.il/item/3822608
+https://news.walla.co.il/break/3822601
+https://news.walla.co.il/break/3822604
+https://news.walla.co.il/break/3822606
+https://news.walla.co.il/break/3822605
+https://news.walla.co.il/break/3822609
