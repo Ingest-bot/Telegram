@@ -1,11 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/אישום-יוגש-נגד-תושב-מזרח-י-ם-249086
-https://news.walla.co.il/item/3822184
-https://news.walla.co.il/break/3822186
-https://news.walla.co.il/item/3822190
-https://news.walla.co.il/break/3822194
-https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-לעבר-ישראל-249090
-https://hamal.co.il/main/--249091
+COUNTER:1
 https://hamal.co.il/main/ראשוני-דיווח-על-2-זירות-נפילה-במרכז-249096
 https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-2-פצועים-בשתי-זירות-הנפילה-במרכז-249098
 https://news.walla.co.il/item/3822199
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3822747
 https://news.walla.co.il/break/3822749
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-250060
 https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים--תיעוד-היירוט-250075
+https://news.walla.co.il/item/3822753
+https://news.walla.co.il/item/3822754
+https://news.walla.co.il/item/3822755
+https://hamal.co.il/main/סערה-בערבה-צהל-מצמצם-את-כיתות-הכוננות---הרבשצים-זועמים-249948
+https://hamal.co.il/main/אסטרטגיה-של-שחיקה-איראן-בונה-על-זה-שנתמוטט-כלכלית-249956
+https://hamal.co.il/main/השופט-שיחרר-את-זיני-למעצר-בית---הפרקליטות-מבקשת-צו-עיכוב-249969
+https://hamal.co.il/main/היחידה-המסוכנת-של-חיזבאללה-השתקמה---ונפרסה-זה-מאתגר-מאוד-249974
