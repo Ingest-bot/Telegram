@@ -1,8 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3822100
-https://hamal.co.il/main/דובר-צהל-בערבית-איראן-מנסה-לבחור-יורש-לחמינאי---נפגע-בו-249040
-https://hamal.co.il/main/צהל-יהודים-תקפו-ערבים-ביוש-249041
-https://news.walla.co.il/item/3822107
+COUNTER:18
 https://e.walla.co.il/item/3822094
 https://news.walla.co.il/item/3822108
 https://news.walla.co.il/break/3822104
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822704
 https://news.walla.co.il/break/3822707
 https://hamal.co.il/main/שיחות-249950
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-249958
+https://news.walla.co.il/item/3822710
+https://news.walla.co.il/break/3822711
+https://hamal.co.il/main/פרשת-ההברחות-לעזה-השופט-הורה-לשחרר-את-בצלאל-זיני-ממעצר-249959
+https://hamal.co.il/main/צהל-תקפנו-אתר-תת-קרקעי-ששימש-ל-249960
