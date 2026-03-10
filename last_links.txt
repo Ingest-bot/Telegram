@@ -1,9 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/הדיירים-חזרו-מהממד---וגילו-שביתם-נשדד-תושב-תא-נעצר-248991
-https://travel.walla.co.il/item/3821337
-https://news.walla.co.il/item/3821983
-https://news.walla.co.il/break/3822073
-https://hamal.co.il/main/צהל-בהודעת-פינוי-נוספת-לתושבי-הדאחייה-נפעל-בעוצמה-248993
+COUNTER:10
 https://hamal.co.il/main/מועצת-המומחים-של-איראן-בחרנו-את-יורשו-של-חמינאי-248994
 https://news.walla.co.il/item/3822072
 https://news.walla.co.il/item/3822077
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3822680
 https://news.walla.co.il/break/3822679
 https://hamal.co.il/main/יור-הפרלמנט-האיראני-נגד-הפסקת-אש-נשבור-את-המעגל-הזה-249923
 https://hamal.co.il/main/חנן-בן-ארי-נ-249924
+https://news.walla.co.il/item/3822686
+https://news.walla.co.il/item/3822687
+https://news.walla.co.il/item/3822638
+https://hamal.co.il/main/מחבלים-חוסלו-מבנים-הושמדו-כוחותינו-מבצעים-פשיטות-בדרום-לבנ-249925
+https://hamal.co.il/main/חמל-גם-ברשתות-החברתיות-עקבו-אחרינו-באינסטגרם-249926
