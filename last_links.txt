@@ -1,9 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-248945
-https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-248955
-https://news.walla.co.il/item/3822061
-https://hamal.co.il/main/שוב-אזעקות-באזור-קש-והסביבה-מחשש-לחדירת-כלי-טיס-עוין-248966
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נוסף-ברחבי-איראן-ראשוני-צהל-החל-ברגעי-248968
+COUNTER:0
 https://hamal.co.il/main/מזג-האוויר-בהיר-וקר-מהרגיל-בבוקר-תיתכן-קרה-בפסגות-הרי-הצפו-248969
 https://hamal.co.il/main/כ-50-אחוזים-לוחמות-במערך-ההגנה-האווירית-כ-20-אחוזים-מאנשי-ה-248970
 https://news.walla.co.il/item/3822062
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822654
 https://hamal.co.il/main/לקראת-תקיפות-צהל-בהודעת-פינוי-למבנים-בצור-וצידון-249878
 https://hamal.co.il/main/מתחילת-המבצע-באיראן-249879
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-249881
+https://news.walla.co.il/break/3822655
+https://news.walla.co.il/break/3822658
+https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249911
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-דווח-על-נפגעים-249912
+https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249913
