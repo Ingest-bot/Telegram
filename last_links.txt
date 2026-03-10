@@ -1,11 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/שר-החוץ-הסיני-כל-הצדדים-צריכים-לשוב-לשולחן-המומ-בנושא-אירא-248913
-https://hamal.co.il/main/אזעקות-נשמעות-בדרום-הארץ-248935
-https://news.walla.co.il/break/3822059
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-248941
-https://hamal.co.il/main/תרגיל-צבאי-ייערך-היום-א׳-בשעות-הבוקר-במרחב-רמת-הגולן-במ-248942
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לישראל-אזעקות-יישמעו-בדקות-הקרובות-248943
-https://news.walla.co.il/break/3822060
+COUNTER:17
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-248945
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-248955
 https://news.walla.co.il/item/3822061
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3822643
 https://news.walla.co.il/break/3822646
 https://hamal.co.il/main/נתניהו-שוברים-249875
 https://hamal.co.il/main/ארון-הברית-נמצא-249877
+https://e.walla.co.il/item/3822645
+https://news.walla.co.il/item/3822644
+https://news.walla.co.il/item/3822653
+https://news.walla.co.il/break/3822654
+https://hamal.co.il/main/לקראת-תקיפות-צהל-בהודעת-פינוי-למבנים-בצור-וצידון-249878
+https://hamal.co.il/main/מתחילת-המבצע-באיראן-249879
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-249881
