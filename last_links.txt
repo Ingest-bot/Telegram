@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3822281
-https://news.walla.co.il/item/3822285
-https://news.walla.co.il/break/3822284
-https://e.walla.co.il/item/3822288
-https://news.walla.co.il/item/3822289
+COUNTER:3
 https://news.walla.co.il/break/3822287
 https://hamal.co.il/main/הרמטכל-זה-ייקח-עוד-זמן-רב--דבריו-המלאים-249277
 https://news.walla.co.il/break/3822293
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822834
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250175
 https://hamal.co.il/main/האח-הגדול-2026-יוצא-לדרך---וזה-השינוי-הדרמטי-שיערך-העונה--פ-250176
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-250180
+https://news.walla.co.il/item/3822837
+https://news.walla.co.il/item/3822838
+https://news.walla.co.il/break/3822836
+https://hamal.co.il/main/150-חיילים-אמריקנים-נפצעו-עד-כה-במלחמה-עם-איראן-250181
+https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמים-כעת-את-חוק-הגיוס-בצד-250186
