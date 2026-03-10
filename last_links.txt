@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3822278
-https://news.walla.co.il/break/3822279
-https://news.walla.co.il/item/3822280
-https://e.walla.co.il/item/3822283
+COUNTER:18
 https://news.walla.co.il/break/3822281
 https://news.walla.co.il/break/3822282
 https://hamal.co.il/main/פאדיחה-לניר-דבורי-סרטון-ההפצצות-מאיראן---משחק-מחשב-249272
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הרמטכ״ל-לטכנאים-בבסיס-תל-נוף-״
 https://hamal.co.il/main/וויטקוף-השמדנו-כמעט-לחלוטין-את-יכולת-העשרת-האורניום-של-איר-250137
 https://hamal.co.il/main/אזעקות-בשורת-יישובים-בגליל-העליון-מחשש-לחדירת-כלי-טיס-עוין-250145
 https://hamal.co.il/main/הצהרת-דובר-צהל-250151
+https://hamal.co.il/main/בתקיפה-לילית-מדויקת-בדרום-לבנון-צהל-מאשר-כי-חוסל-מפקד-יחיד-250152
+https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-במרכז-הארץ-250154
+https://hamal.co.il/main/אזעקות-הופעלו-באזור-המרכז-בשפלה-ובשרון-250161
+https://hamal.co.il/main/בהמשך-לירי-לעבר-מדינת-ישראל-לא-התקבלו-דיווחים-במוקד-101-של-250173
