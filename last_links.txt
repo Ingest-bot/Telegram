@@ -1,10 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3822327
-https://news.walla.co.il/break/3822325
-https://news.walla.co.il/break/3822326
-https://hamal.co.il/main/האייתוללה-מוגטאבה-חמינאי-מונה-למנהיג-העליון-249306
-https://news.walla.co.il/item/3822328
-https://news.walla.co.il/break/3822330
+COUNTER:5
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-קש-והסביבה-249311
 https://news.walla.co.il/blog/3822333
 https://news.walla.co.il/item/3822198
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822860
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250232
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250235
 https://hamal.co.il/main/קיצוצי-המיליונים-בשירותים-החברתיים-בעקבות-המלחמה-250238
+https://news.walla.co.il/blog/3822863
+https://news.walla.co.il/item/3822776
+https://news.walla.co.il/item/3822220
+https://news.walla.co.il/item/3821110
+https://hamal.co.il/main/שגריר-איראן-באום-התקיפות-הרסו-כמעט-10000-אתרים-אזרחים-250243
+https://hamal.co.il/main/2-נשים-נפצעו-קל-לאחר-שהתנגשו-בגדר-במהלך-אזעקה-והרכב-עלה-באש-250244
