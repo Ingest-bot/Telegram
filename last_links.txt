@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3822294
-https://news.walla.co.il/break/3822292
-https://hamal.co.il/main/בארהב-בוחנים-מבצע-מיוחד-להשתלטות-על-האורניום-של-איראן-249281
-https://news.walla.co.il/break/3822296
-https://hamal.co.il/main/וויטקוף-וקושנר-יגיעו-לישראל-בשלישי-249284
+COUNTER:8
 https://hamal.co.il/main/במדא-מדווחים-מתחילת-המלחמה-הענקנו-טיפול-ל--687-פצועים-249285
 https://news.walla.co.il/item/3822300
 https://news.walla.co.il/item/3822302
@@ -499,3 +494,8 @@ https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמי
 https://news.walla.co.il/item/3822839
 https://hamal.co.il/main/יחידות-קטנות-בלי-מכשירי-קשר-חיזבאללה-יישם-לקחים-מהמלחמה-הק-250187
 https://hamal.co.il/main/שר-הביטחון-כץ-החליט-למנות-את-גיל-רייך-לתפקיד-ראש-מלמ״ב-במשר-250188
+https://news.walla.co.il/break/3822841
+https://news.walla.co.il/break/3822842
+https://hamal.co.il/main/-שרים-מתרעמים-על-הקיצוץ-הרוחבי-במשרדים-בסך-3-השרים-חיים-250189
+https://hamal.co.il/main/אזעקות-הופעלו-באזור-אצבע-הגליל-מחשש-לחדירת-כטבם-250194
+https://hamal.co.il/main/אזעקות-נשמעו-במטולה-250200
