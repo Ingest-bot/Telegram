@@ -1,9 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3822281
-https://news.walla.co.il/break/3822282
-https://hamal.co.il/main/פאדיחה-לניר-דבורי-סרטון-ההפצצות-מאיראן---משחק-מחשב-249272
-https://hamal.co.il/main/צה״ל-תקף-שני-מחבליחמאס-שתכננו-לצלוף-נגד-צה״ל-בצפון-249273
-https://hamal.co.il/main/הלך-לעולמו-מפקד-טקס-המשואות-המיתולוגי---דוד-רוקני-249274
+COUNTER:1
 https://news.walla.co.il/item/3822281
 https://news.walla.co.il/item/3822285
 https://news.walla.co.il/break/3822284
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בתקיפה-לילית-מדויקת-בדרום-לבנ�
 https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-במרכז-הארץ-250154
 https://hamal.co.il/main/אזעקות-הופעלו-באזור-המרכז-בשפלה-ובשרון-250161
 https://hamal.co.il/main/בהמשך-לירי-לעבר-מדינת-ישראל-לא-התקבלו-דיווחים-במוקד-101-של-250173
+https://news.walla.co.il/item/3822833
+https://news.walla.co.il/break/3822834
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250175
+https://hamal.co.il/main/האח-הגדול-2026-יוצא-לדרך---וזה-השינוי-הדרמטי-שיערך-העונה--פ-250176
+https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-250180
