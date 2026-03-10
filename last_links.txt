@@ -1,6 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/המזכיר-הצבאי-של-חוסל-כץ-249105
-https://news.walla.co.il/break/3822202
+COUNTER:6
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-249107
 https://hamal.co.il/main/בצהל-מדגישים-249121
 https://news.walla.co.il/item/3822207
@@ -499,3 +497,5 @@ https://hamal.co.il/main/כל-לוחם-יהיה-טייס-קרב-צבא-ארהב-
 https://hamal.co.il/main/הרמטכל-על-המבצע-כרגע-ממשיכים-כרגיל-יש-עוד-הרבה-עבודה-250009
 https://hamal.co.il/main/משרד-הרווחה-יקדם-מרכזים-מוגנים-לקשישים-ולאנשים-עם-מוגבלות-250017
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בביירות-250079
+https://news.walla.co.il/item/3822735
+https://hamal.co.il/main/קנדה-יריות-נורו-לעבר-הקונסוליה-האמריקנית-בטורונטו-אין-נפגע-250081
