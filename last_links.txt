@@ -1,9 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3822056
-https://news.walla.co.il/break/3822057
-https://news.walla.co.il/break/3822058
-https://hamal.co.il/main/פיצוץ-עז-נשמע-סמוך-לשגרירות-ארה״ב-באוסלו-אין-נפגעים-248897
-https://hamal.co.il/main/אזעקות-נשמעו-באזור-הגולן-מחשש-לחדירת-כלי-טיס-עוין-248904
+COUNTER:14
 https://hamal.co.il/main/שר-החוץ-הסיני-כל-הצדדים-צריכים-לשוב-לשולחן-המומ-בנושא-אירא-248913
 https://hamal.co.il/main/אזעקות-נשמעות-בדרום-הארץ-248935
 https://news.walla.co.il/break/3822059
@@ -499,3 +494,8 @@ https://e.walla.co.il/item/3822633
 https://news.walla.co.il/break/3822632
 https://hamal.co.il/main/מיכל-דליות-למה-ילדים-מפחדים-להירדם-במלחמה---ומה-הפתרון-הקל-249564
 https://news.walla.co.il/item/3822639
+https://news.walla.co.il/item/3822637
+https://news.walla.co.il/break/3822643
+https://news.walla.co.il/break/3822646
+https://hamal.co.il/main/נתניהו-שוברים-249875
+https://hamal.co.il/main/ארון-הברית-נמצא-249877
