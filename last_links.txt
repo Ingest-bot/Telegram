@@ -1,8 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/50-מגדלים-הופלו-בצהל-מערכים-יש-נתק-בין-איראן-וחיזבאללה-249131
-https://news.walla.co.il/item/3822213
-https://hamal.co.il/main/צהל-מסוק-ירט-כטבם-בצפון---ופגע-בבתים-בשטח-ישראל-249133
-https://news.walla.co.il/item/3822219
+COUNTER:14
 https://hamal.co.il/main/חניון-תת-קרקעי-הוא-לא-תמיד-מקלט-למה-אסור-לעצור-במינוס-1-249137
 https://hamal.co.il/main/מעל-600-מטרות-הותקפו-כ-200-מחבלים-חוסלו-249132
 https://news.walla.co.il/item/3822230
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822759
 https://news.walla.co.il/item/3822772
 https://hamal.co.il/main/אמברגו-לפרסום-היום-ג-בשעה-1630-דובר-צהל-הושלם-הת-250090
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250095
+https://news.walla.co.il/break/3822787
+https://news.walla.co.il/break/3822785
+https://hamal.co.il/main/סוכל-בזמן-אמת-צה״ל-זיהה-והשמיד-משגר-של-חיזבאללה-במהלך-נסיו-250097
+https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250098
