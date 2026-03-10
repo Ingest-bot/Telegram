@@ -1,9 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249126
-https://hamal.co.il/main/באיחוד-האמירויות-מכחישים-לא-תקפנו-באיראן-249127
-https://hamal.co.il/main/הותר-לפרסום-2-לוחמי-צהל-נפלו-249128
-https://news.walla.co.il/break/3822212
-https://hamal.co.il/main/התקרית-בלבנון-הלוחמים---ונהרגו-מירי-249130
+COUNTER:12
 https://hamal.co.il/main/50-מגדלים-הופלו-בצהל-מערכים-יש-נתק-בין-איראן-וחיזבאללה-249131
 https://news.walla.co.il/item/3822213
 https://hamal.co.il/main/צהל-מסוק-ירט-כטבם-בצפון---ופגע-בבתים-בשטח-ישראל-249133
@@ -499,3 +494,8 @@ https://hamal.co.il/main/השר-מיקי-זוהר-סיכוי-גבוה-שנחזו
 https://hamal.co.il/main/--250084
 https://hamal.co.il/main/מסרי-לנקה-ועד-זנזיבר-טיסות-חילוץ-לישראלים-גם-מיעדים-אקזוטיי-250085
 https://hamal.co.il/main/נ-הגיע-לניחום-משפחתרסל-מאהר-חטאר-זל-אני-כאן-בשם-מדינה-ש-250086
+https://news.walla.co.il/item/3822775
+https://news.walla.co.il/item/3822759
+https://news.walla.co.il/item/3822772
+https://hamal.co.il/main/אמברגו-לפרסום-היום-ג-בשעה-1630-דובר-צהל-הושלם-הת-250090
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250095
