@@ -1,5 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/ראש-עיריית-עראבה-נורה-חברי-מועצה-נוספים-נפצעו-249305
+COUNTER:0
 https://news.walla.co.il/item/3822321
 https://news.walla.co.il/item/3822317
 https://news.walla.co.il/item/3822323
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בורחים-מהמציאות-באילת-מציעים-1
 https://news.walla.co.il/break/3822858
 https://hamal.co.il/main/בסיכולים-ממוקדים-ובחופי-לבנון-הפעילות-המיוחדת-של-חיל-הים-במ-250212
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-ראשוני-צהל-החל-ברגעים-אל-250213
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-במרכז-הארץ-250215
