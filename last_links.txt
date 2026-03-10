@@ -1,9 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/חניון-תת-קרקעי-הוא-לא-תמיד-מקלט-למה-אסור-לעצור-במינוס-1-249137
-https://hamal.co.il/main/מעל-600-מטרות-הותקפו-כ-200-מחבלים-חוסלו-249132
-https://news.walla.co.il/item/3822230
-https://news.walla.co.il/item/3822229
-https://news.walla.co.il/item/3822224
+COUNTER:18
 https://hamal.co.il/main/2-פצועים-הגיעו-לאיכילוב-מזירת-הנפילה-בתל-אביב-249141
 https://hamal.co.il/main/צבא-ארהב-איראן-משגרת-מאזורים-מאוכלסים-אנו-עשוים-לתקוף-שם-249145
 https://news.walla.co.il/item/3822237
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822787
 https://news.walla.co.il/break/3822785
 https://hamal.co.il/main/סוכל-בזמן-אמת-צה״ל-זיהה-והשמיד-משגר-של-חיזבאללה-במהלך-נסיו-250097
 https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250098
+https://news.walla.co.il/break/3822789
+https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250096
+https://hamal.co.il/main/אזעקות-יישמעו-בדקות-הקרובות-במרכז-הארץ-עקב-שיגורים-מאיראן-250100
+https://hamal.co.il/main/אזעקות-נשמעות-באזור-ירושלים-והסביבה-250104
+https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-בגזרת-חיפה-עכו-והסביבה-250111
