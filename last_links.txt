@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3822251
-https://hamal.co.il/main/שאגת-הארי-5200-תביעות-הוגשו-למס-רכוש-בעקבות-פגיעת-טילים-מא-249181
-https://hamal.co.il/main/גם-תשתיות-חיוניות-שלהן-באזור-יהיו-מטרה-249183
-https://hamal.co.il/main/צה״ל-החל-לפני-זמן-קצר-בתקיפות-נרחבות-בטהרן-249184
-https://news.walla.co.il/break/3822255
+COUNTER:8
 https://news.walla.co.il/break/3822256
 https://news.walla.co.il/break/3822258
 https://hamal.co.il/main/צהל-ירחיב-את-המתקפה-על-חיזבאללה-בלבנון--הפרטים-249186
@@ -499,3 +494,8 @@ https://hamal.co.il/main/טראמפ-בנה-על-מצור-נפט-דרך-אירא�
 https://news.walla.co.il/break/3822805
 https://hamal.co.il/main/סער-ישראל-אינה-שואפת-למלחמה-בלתי-פוסקת-עם-איראן-רויטרס-3-250129
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250132
+https://news.walla.co.il/item/3822812
+https://news.walla.co.il/item/3822814
+https://news.walla.co.il/break/3822815
+https://hamal.co.il/main/ישראל-זינקה-ב-56-בייצוא-נשק-עקפה-לראשונה-את-בריטניה-250089
+https://hamal.co.il/main/צהל-חושף-הושמדו-מרבית-הנכסים-המרכזיים-של-כוחות-ביטחון-הפני-250133
