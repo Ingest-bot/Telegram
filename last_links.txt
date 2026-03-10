@@ -1,11 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3822267
-https://news.walla.co.il/item/3822268
-https://news.walla.co.il/break/3822269
-https://news.walla.co.il/break/3822270
-https://hamal.co.il/main/בלב-טהרן-צהל-חיסל-את-ראש-הלשכה-המיועד-249202
-https://news.walla.co.il/break/3822274
-https://news.walla.co.il/break/3822277
+COUNTER:14
 https://news.walla.co.il/break/3822278
 https://news.walla.co.il/break/3822279
 https://news.walla.co.il/item/3822280
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3822820
 https://news.walla.co.il/break/3822822
 https://hamal.co.il/main/שוטרי-מחוז-חוף-סיכלו-חוליית-חיסול-בדרך-לביצוע-רצח-בכביש-85--250134
 https://hamal.co.il/main/הפגיעה-הישירה-בתחנת-הלווינים-הרגישה-בעמק-האלה-250136
+https://news.walla.co.il/item/3822830
+https://news.walla.co.il/item/3822826
+https://news.walla.co.il/break/3822827
+https://hamal.co.il/main/הרמטכ״ל-לטכנאים-בבסיס-תל-נוף-״המכונה-האופרטיבית-הזאת-של-חיל-250135
+https://hamal.co.il/main/וויטקוף-השמדנו-כמעט-לחלוטין-את-יכולת-העשרת-האורניום-של-איר-250137
+https://hamal.co.il/main/אזעקות-בשורת-יישובים-בגליל-העליון-מחשש-לחדירת-כלי-טיס-עוין-250145
+https://hamal.co.il/main/הצהרת-דובר-צהל-250151
