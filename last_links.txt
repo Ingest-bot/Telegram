@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3822316
-https://news.walla.co.il/break/3822317
-https://hamal.co.il/main/דרמה-אישה-ילדה-בניידת---ושניות-לאחר-הלידה-התקבלה-התרעת-ירי-249304
+COUNTER:19
 https://hamal.co.il/main/ראש-עיריית-עראבה-נורה-חברי-מועצה-נוספים-נפצעו-249305
 https://news.walla.co.il/item/3822321
 https://news.walla.co.il/item/3822317
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822855
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-250208
 https://hamal.co.il/main/השיגור-מאיראן-ככהנ-מדובר-בהתראת-שווא-250210
 https://hamal.co.il/main/בורחים-מהמציאות-באילת-מציעים-100-פעילויות-בחינם-עד-סוף-מרץ-250211
+https://news.walla.co.il/break/3822858
+https://hamal.co.il/main/בסיכולים-ממוקדים-ובחופי-לבנון-הפעילות-המיוחדת-של-חיל-הים-במ-250212
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-ראשוני-צהל-החל-ברגעים-אל-250213
