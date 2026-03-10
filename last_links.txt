@@ -1,10 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3822256
-https://news.walla.co.il/break/3822258
-https://hamal.co.il/main/צהל-ירחיב-את-המתקפה-על-חיזבאללה-בלבנון--הפרטים-249186
-https://news.walla.co.il/break/3822264
-https://news.walla.co.il/break/3822265
-https://hamal.co.il/main/בים-באוויר-וביבשה-הנשים-בחזית-מבצע-״שאגת-הארי״-249198
+COUNTER:10
 https://news.walla.co.il/item/3822267
 https://news.walla.co.il/item/3822268
 https://news.walla.co.il/break/3822269
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822814
 https://news.walla.co.il/break/3822815
 https://hamal.co.il/main/ישראל-זינקה-ב-56-בייצוא-נשק-עקפה-לראשונה-את-בריטניה-250089
 https://hamal.co.il/main/צהל-חושף-הושמדו-מרבית-הנכסים-המרכזיים-של-כוחות-ביטחון-הפני-250133
+https://e.walla.co.il/item/3822818
+https://news.walla.co.il/item/3822807
+https://news.walla.co.il/break/3822820
+https://news.walla.co.il/break/3822822
+https://hamal.co.il/main/שוטרי-מחוז-חוף-סיכלו-חוליית-חיסול-בדרך-לביצוע-רצח-בכביש-85--250134
+https://hamal.co.il/main/הפגיעה-הישירה-בתחנת-הלווינים-הרגישה-בעמק-האלה-250136
