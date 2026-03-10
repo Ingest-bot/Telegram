@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/טראמפ-אנו-עוקרים-כעת-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-248841
-https://news.walla.co.il/item/3822035
-https://news.walla.co.il/item/3822036
+COUNTER:7
 https://news.walla.co.il/break/3822038
 https://news.walla.co.il/break/3822041
 https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-את-המשגר-ממנו-נורו-רקטות-לעבר-י-248846
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822609
 https://news.walla.co.il/item/3822610
 https://hamal.co.il/main/טאם-איראן-תפסיק-את-זרימת-הנפט---היא-תספוג-מכה-חזקה-פי-עשרים-249857
 https://hamal.co.il/main/בהיר-עם-עלייה-קלה-בטמפרטורות--תחזית-מזג-האוויר-249862
+https://news.walla.co.il/break/3822611
+https://hamal.co.il/main/צהל-ביצע-בשעה-האחרונה-ירי-ארטילרי-לעבר-מחנה-הפליטים-אל-בורי-249863
+https://hamal.co.il/main/כוח-מיוחד-של-צהל-ביצע-מעצרים-של-חשודים-מצפון-לטול-כרם-249864
