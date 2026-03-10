@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3822048
-https://news.walla.co.il/item/3822054
-https://news.walla.co.il/break/3822051
+COUNTER:12
 https://news.walla.co.il/break/3822052
 https://news.walla.co.il/break/3822056
 https://news.walla.co.il/break/3822057
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822627
 https://e.walla.co.il/item/3822631
 https://news.walla.co.il/break/3822625
 https://hamal.co.il/main/הפיצוץ-בשגרירות-ארהב-באוסלו-התיעוד-של-החשוד---והסרטון-של-ח-249734
+https://e.walla.co.il/item/3822633
+https://news.walla.co.il/break/3822632
+https://hamal.co.il/main/מיכל-דליות-למה-ילדים-מפחדים-להירדם-במלחמה---ומה-הפתרון-הקל-249564
