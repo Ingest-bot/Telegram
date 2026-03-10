@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/טראמפ-נגד-סטארמר-לא-צריך-אנשים-שמצטרפים-למלחמה-אחרי-ניצחון-248839
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-הארץ-248838
-https://hamal.co.il/main/בהשכלה-הגבוהה-נערכים-לפתיחת-הסמסטר-בזום-הקמפוסים-סגורים-248816
+COUNTER:5
 https://hamal.co.il/main/טראמפ-אנו-עוקרים-כעת-סרטן-מעל-פני-האדמה-זכרו-את-7-באוקטובר-248841
 https://news.walla.co.il/item/3822035
 https://news.walla.co.il/item/3822036
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822604
 https://news.walla.co.il/break/3822606
 https://news.walla.co.il/break/3822605
 https://news.walla.co.il/break/3822609
+https://news.walla.co.il/item/3822610
+https://hamal.co.il/main/טאם-איראן-תפסיק-את-זרימת-הנפט---היא-תספוג-מכה-חזקה-פי-עשרים-249857
+https://hamal.co.il/main/בהיר-עם-עלייה-קלה-בטמפרטורות--תחזית-מזג-האוויר-249862
