@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3822287
-https://hamal.co.il/main/הרמטכל-זה-ייקח-עוד-זמן-רב--דבריו-המלאים-249277
-https://news.walla.co.il/break/3822293
+COUNTER:5
 https://news.walla.co.il/break/3822294
 https://news.walla.co.il/break/3822292
 https://hamal.co.il/main/בארהב-בוחנים-מבצע-מיוחד-להשתלטות-על-האורניום-של-איראן-249281
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822838
 https://news.walla.co.il/break/3822836
 https://hamal.co.il/main/150-חיילים-אמריקנים-נפצעו-עד-כה-במלחמה-עם-איראן-250181
 https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמים-כעת-את-חוק-הגיוס-בצד-250186
+https://news.walla.co.il/item/3822839
+https://hamal.co.il/main/יחידות-קטנות-בלי-מכשירי-קשר-חיזבאללה-יישם-לקחים-מהמלחמה-הק-250187
+https://hamal.co.il/main/שר-הביטחון-כץ-החליט-למנות-את-גיל-רייך-לתפקיד-ראש-מלמ״ב-במשר-250188
