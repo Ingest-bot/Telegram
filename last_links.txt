@@ -1,11 +1,4 @@
-COUNTER:18
-https://e.walla.co.il/item/3822094
-https://news.walla.co.il/item/3822108
-https://news.walla.co.il/break/3822104
-https://hamal.co.il/main/המשטרה-עצרה-8-חשודים-249043
-https://travel.walla.co.il/item/3822110
-https://news.walla.co.il/item/3822111
-https://hamal.co.il/main/שמענו-בום-מנוע-טיל-נפל-בשירותים-249044
+COUNTER:2
 https://news.walla.co.il/item/3819984
 https://news.walla.co.il/break/3822121
 https://hamal.co.il/main/העולה-הראשון-249046
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3822710
 https://news.walla.co.il/break/3822711
 https://hamal.co.il/main/פרשת-ההברחות-לעזה-השופט-הורה-לשחרר-את-בצלאל-זיני-ממעצר-249959
 https://hamal.co.il/main/צהל-תקפנו-אתר-תת-קרקעי-ששימש-ל-249960
+https://news.walla.co.il/item/3822718
+https://news.walla.co.il/item/3822719
+https://news.walla.co.il/item/3822720
+https://hamal.co.il/main/הממשלה-תאשר-המצב-249961
+https://hamal.co.il/main/הממשלה-תאשר-249962
+https://hamal.co.il/main/מזל-טוב-יהודה-לוי-ודנה-פרידר-הפכו-להורים-249966
+https://hamal.co.il/main/ברגע-האחרון-תקציב-הביטחון-קפץ-בעוד-31-מיליארד-249979
