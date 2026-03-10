@@ -1,9 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/מזג-האוויר-בהיר-וקר-מהרגיל-בבוקר-תיתכן-קרה-בפסגות-הרי-הצפו-248969
-https://hamal.co.il/main/כ-50-אחוזים-לוחמות-במערך-ההגנה-האווירית-כ-20-אחוזים-מאנשי-ה-248970
-https://news.walla.co.il/item/3822062
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-באזור-הבקעה-248972
-https://hamal.co.il/main/צהל-זיהה-כי-לפני-זמן-קצר-שוגרו-טילים-מאיראן-לעבר-שטח-מדינת-248973
+COUNTER:3
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזורים-נרחבים-בארץ-248981
 https://news.walla.co.il/item/3822065
 https://news.walla.co.il/item/3822046
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822658
 https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249911
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-דווח-על-נפגעים-249912
 https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249913
+https://news.walla.co.il/item/3822666
+https://news.walla.co.il/break/3822659
+https://hamal.co.il/main/הירי-מאיראן-רסיס-נפל-בדרום-לא-ידוע-על-נפגעים-249914
+https://hamal.co.il/main/השר-וסרלאוף-249915
+https://hamal.co.il/main/אחרי-השיגור-מהכפר-בדרום-לבנון-תהל-249916
