@@ -1,10 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/2-פצועים-הגיעו-לאיכילוב-מזירת-הנפילה-בתל-אביב-249141
-https://hamal.co.il/main/צבא-ארהב-איראן-משגרת-מאזורים-מאוכלסים-אנו-עשוים-לתקוף-שם-249145
-https://news.walla.co.il/item/3822237
-https://news.walla.co.il/break/3822232
-https://news.walla.co.il/break/3822233
-https://news.walla.co.il/break/3822235
+COUNTER:2
 https://news.walla.co.il/break/3822239
 https://hamal.co.il/main/נשים-מובילות-בעשייה--אך-ההשפעה-בצמרת-ההחלטות-נותרת-נמוכה-249148
 https://news.walla.co.il/break/3822242
@@ -499,3 +493,9 @@ https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המ
 https://hamal.co.il/main/אזעקות-יישמעו-בדקות-הקרובות-במרכז-הארץ-עקב-שיגורים-מאיראן-250100
 https://hamal.co.il/main/אזעקות-נשמעות-באזור-ירושלים-והסביבה-250104
 https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-בגזרת-חיפה-עכו-והסביבה-250111
+https://news.walla.co.il/item/3822794
+https://news.walla.co.il/break/3822801
+https://hamal.co.il/main/דיווח-על-נפילה-בשטח-פתוח-סמוך-לירושלים-250121
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250123
+https://hamal.co.il/main/ראנתניהו-בנמל-אשדוד-״מדינת-ישראל-מראה-לעולם-מה-זה-עם-לוחם-250124
+https://hamal.co.il/main/בחקירה-נגד-מנהל-בית-ספר-שהסית-במרשתת-נגד-מדינת-ישראל-וקרא-לה-250125
