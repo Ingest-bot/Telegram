@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3822306
-https://hamal.co.il/main/הרוג-שביעי-לצבא-ארה״ב-במלחמה-מול-איראן-החייל-נהרג-בסעודיה-249297
-https://news.walla.co.il/item/3822311
+COUNTER:14
 https://news.walla.co.il/item/3822310
 https://hamal.co.il/main/טרגדיה-במושב-בדרום-האח-נפטר-מדום-לב---אחיו-התמוטט-שעות-אחרי-249301
 https://news.walla.co.il/item/3822312
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822848
 https://news.walla.co.il/item/3822850
 https://news.walla.co.il/break/3822852
 https://hamal.co.il/main/צהל-תקף-אתר-שיגור-בצפון-רצועת-עזה-של-ארגון-הטרור-חמאס-מ-250204
+https://travel.walla.co.il/item/3822853
+https://hamal.co.il/main/בזמן-האזעקה---חשוד-פרץ-לביתו-של-שורד-השבי-בר-קופרשטיין-הודיה-250205
+https://hamal.co.il/main/יועז-הנדל-נעלם-מאז-תחילת-המלחמה---וזו-הסיבה-לכך-בזמן-שראש-250206
