@@ -1,8 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3822321
-https://news.walla.co.il/item/3822317
-https://news.walla.co.il/item/3822323
-https://news.walla.co.il/item/3822329
+COUNTER:3
 https://news.walla.co.il/break/3822327
 https://news.walla.co.il/break/3822325
 https://news.walla.co.il/break/3822326
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822858
 https://hamal.co.il/main/בסיכולים-ממוקדים-ובחופי-לבנון-הפעילות-המיוחדת-של-חיל-הים-במ-250212
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-ראשוני-צהל-החל-ברגעים-אל-250213
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-במרכז-הארץ-250215
+https://news.walla.co.il/item/3822860
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250232
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250235
+https://hamal.co.il/main/קיצוצי-המיליונים-בשירותים-החברתיים-בעקבות-המלחמה-250238
