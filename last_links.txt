@@ -1,6 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3822082
-https://news.walla.co.il/break/3822083
+COUNTER:14
 https://hamal.co.il/main/האזעקות-בצפון-עד-כה-לא-דווח-על-נפגעים-249033
 https://news.walla.co.il/item/3822091
 https://e.walla.co.il/item/3822096
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3822691
 https://hamal.co.il/main/האסון-ביהוד-אמיד-מורטוזוב-הוא-ההרוג-השני-מפגיעת-הטיל-האיראנ-249927
 https://hamal.co.il/main/המאגר-החברתי-שכולם-יכולים-להשתמש-בו-כלים-מדריכים-ותובנות-מ-249939
 https://hamal.co.il/main/אפקט-הדומינו-האזהרה-של-ענקית-הנפט-שמזעזעת-את-השווקים-249944
+https://news.walla.co.il/item/3822702
+https://hamal.co.il/main/צהל-כוחותינו-חיסלו-3-מחבלים-שיצאו-ממ-249945
