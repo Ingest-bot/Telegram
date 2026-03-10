@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/הצהרת-דובר-צה״ל-תת-אלוף-אפי-דפרין-249288
-https://hamal.co.il/main/השיחה-החריגה-של-מקרון-עם-נשיא-איראן-249289
-https://hamal.co.il/main/צה״ל-תקף-את-מטה-חיל-האוויר-של-משמרות-המהפכה-בלב-טהרן-249294
-https://hamal.co.il/main/נטלי-דדון-בטור-דעה-מיוחד-ליום-האישה-249296
-https://news.walla.co.il/break/3822304
+COUNTER:12
 https://news.walla.co.il/break/3822306
 https://hamal.co.il/main/הרוג-שביעי-לצבא-ארה״ב-במלחמה-מול-איראן-החייל-נהרג-בסעודיה-249297
 https://news.walla.co.il/item/3822311
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3822845
 https://hamal.co.il/main/השפעת-המלחמה-על-מחירי-הדלק-האם-המעסיק-חייב-להעלות-את-החזרי-250201
 https://hamal.co.il/main/--250202
 https://hamal.co.il/main/דוברת-הבית-הלבן-המבצע-יסתיים-כאשר-הנשיא---יקבע-שהיעדים-הצב-250203
+https://news.walla.co.il/item/3822851
+https://news.walla.co.il/item/3822848
+https://news.walla.co.il/item/3822850
+https://news.walla.co.il/break/3822852
+https://hamal.co.il/main/צהל-תקף-אתר-שיגור-בצפון-רצועת-עזה-של-ארגון-הטרור-חמאס-מ-250204
