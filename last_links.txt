@@ -1,12 +1,4 @@
-COUNTER:12
-https://travel.walla.co.il/item/3822164
-https://news.walla.co.il/item/3822163
-https://news.walla.co.il/item/3822166
-https://news.walla.co.il/break/3822162
-https://hamal.co.il/main/פיקוד-העורף-על-הירי-לצפון-ניתן-לצאת-מהמרחב-המוגן-249078
-https://hamal.co.il/main/דיווח-דרמטי-איחוד-האמירויות-תקפה-באיראן-249082
-https://news.walla.co.il/item/3822170
-https://news.walla.co.il/item/3822168
+COUNTER:15
 https://news.walla.co.il/item/3822176
 https://hamal.co.il/main/האזעקות-בצפון-רוכב-אופנוע-249083
 https://hamal.co.il/main/אימוץ-משפחות-שפונו-המיזם-של-תנועת-עזרא-249084
@@ -499,3 +491,11 @@ https://hamal.co.il/main/דיווח-האסטרטגיה-של-ישראל-באיר�
 https://hamal.co.il/main/דקות-לפני-השיגור-לישראל-צהל-תקף-משגר-טילים-באיראן--צפו-250021
 https://hamal.co.il/main/שר-ההגנה-האמריקני-היום-יהיו-התקיפות-האינטנסיביות-ביותר-שה-250023
 https://hamal.co.il/main/הרמטכל-האמריקני-השיגורים-באיראן-ירדו-ב-90-250024
+https://news.walla.co.il/break/3822741
+https://news.walla.co.il/break/3822742
+https://news.walla.co.il/break/3822743
+https://news.walla.co.il/break/3822745
+https://news.walla.co.il/break/3822744
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-הארץ-250026
+https://hamal.co.il/main/60-מהישראלים-ששהו-בחו״ל-ערב-המלחמה---שבו-ארצה-250054
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילה-במרכז-לא-דווח-על-נפגעים-250057
