@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3822242
-https://news.walla.co.il/break/3822244
+COUNTER:5
 https://hamal.co.il/main/דיווח-על-זירה-בבני-ברק-כוחות-בדרכם-לסריקה-249180
 https://news.walla.co.il/item/3822251
 https://hamal.co.il/main/שאגת-הארי-5200-תביעות-הוגשו-למס-רכוש-בעקבות-פגיעת-טילים-מא-249181
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ראנתניהו-בנמל-אשדוד-״מדינת-יש�
 https://hamal.co.il/main/בחקירה-נגד-מנהל-בית-ספר-שהסית-במרשתת-נגד-מדינת-ישראל-וקרא-לה-250125
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-250128
 https://hamal.co.il/main/טראמפ-בנה-על-מצור-נפט-דרך-איראן-אבל-לסין-יש-תוכנית-חילוץ-250114
+https://news.walla.co.il/break/3822805
+https://hamal.co.il/main/סער-ישראל-אינה-שואפת-למלחמה-בלתי-פוסקת-עם-איראן-רויטרס-3-250129
