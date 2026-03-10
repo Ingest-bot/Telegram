@@ -1,10 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזורים-נרחבים-בארץ-248981
-https://news.walla.co.il/item/3822065
-https://news.walla.co.il/item/3822046
-https://news.walla.co.il/break/3822063
-https://news.walla.co.il/break/3822064
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-248986
+COUNTER:6
 https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-248987
 https://hamal.co.il/main/תיעוד-248989
 https://hamal.co.il/main/ארצות-הברית-מעלה-הילוך-שלוש-נושאות-מטוסים-מול-איראן-248988
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3822659
 https://hamal.co.il/main/הירי-מאיראן-רסיס-נפל-בדרום-לא-ידוע-על-נפגעים-249914
 https://hamal.co.il/main/השר-וסרלאוף-249915
 https://hamal.co.il/main/אחרי-השיגור-מהכפר-בדרום-לבנון-תהל-249916
+https://news.walla.co.il/item/3822664
+https://news.walla.co.il/item/3822671
+https://news.walla.co.il/break/3822667
+https://hamal.co.il/main/נתניהו-נפגש-עם-ראשי-רשויות-ברחבי-הארץ-יש-לך-את-הגב-להמשיך-249920
+https://hamal.co.il/main/מחקר-חדש-האם-המאכלים-הפופולרים-האלה-מכילים-רעלנים-249869
+https://hamal.co.il/main/רוסטם-גולומוב-הוא-אחד-מ-2-ההרוגים-מהנפילה-ביהוד-249922
