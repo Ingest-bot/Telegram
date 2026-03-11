@@ -1,8 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3822355
-https://news.walla.co.il/break/3822362
-https://hamal.co.il/main/הותר-לפרסום-שמו-של-רופא-שביצע-עפי-החשד-מעשים-מגונים-במטופלת-249412
-https://hamal.co.il/main/תושבים-מדווחים-יירוט-בשמי-הצפון-249414
+COUNTER:9
 https://hamal.co.il/main/אחרי-הנתיחה-באבו-כביר-החשד-לרצח-בעכו-התפוגג---והחשוד-שוחרר-249415
 https://news.walla.co.il/item/3822365
 https://news.walla.co.il/item/3822363
@@ -499,3 +495,7 @@ https://e.walla.co.il/item/3822900
 https://news.walla.co.il/item/3822889
 https://hamal.co.il/main/צהל-250338
 https://hamal.co.il/main/באיראן-מכחישים-המנהיג-העליון-250337
+https://news.walla.co.il/item/3822904
+https://news.walla.co.il/break/3822902
+https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250341
+https://hamal.co.il/main/סגירת-מעגל-250342
