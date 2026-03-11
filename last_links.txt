@@ -1,9 +1,4 @@
 COUNTER:5
-https://hamal.co.il/main/רוביו-מטרת-המבצע-באיראן---להשמיד-את-מערך-השיגור-שלהם-249594
-https://news.walla.co.il/item/3822499
-https://news.walla.co.il/item/3822371
-https://news.walla.co.il/break/3822498
-https://hamal.co.il/main/בן-גביר-מי-שיורה-לעבר-שוטרים---התשובה-תהיה-קטלנית-249597
 https://hamal.co.il/main/אישום-מחריד-בנגב-השליך-כלבה-למותה-ותקף-את-אשתו-ובנו-249599
 https://e.walla.co.il/item/3822512
 https://news.walla.co.il/break/3822511
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823057
 https://hamal.co.il/main/האזהרה-החריגה-של-צבא-ארהC-לאזרחים-באיראן-250432
 https://news.walla.co.il/break/3823062
 https://hamal.co.il/main/דיווח-על-פיצוצים-בנמל-התעופה-הבינלאומי-של-בגדאד-250444
+https://news.walla.co.il/item/3823064
+https://news.walla.co.il/item/3823066
+https://travel.walla.co.il/item/3823067
+https://news.walla.co.il/item/3823061
+https://news.walla.co.il/item/3823068
