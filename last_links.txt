@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/כעת-אזעקות-בצפון-ובדרום-הארץ-במקביל---צהל-תוקף-בדאחיה-249461
-https://hamal.co.il/main/אזעקות-נשמעו-גם-באזור-השרון---ללא-התרעה-מקדימה-249464
-https://hamal.co.il/main/הרגע-בו-הופצץ-בניין-אל-קרד-הבנק-הלבנוני-בדאחיה-249470
+COUNTER:0
 https://news.walla.co.il/item/3822412
 https://news.walla.co.il/break/3822415
 https://hamal.co.il/main/עשן-שחור-והרס-רב-תיעוד-הפצצת-הבניין-הפיננסי-בביירות-249479
@@ -499,3 +496,6 @@ https://hamal.co.il/main/בישראל-מעריכים-זה-מצבו-הרפואי-
 https://news.walla.co.il/item/3822958
 https://news.walla.co.il/item/3822934
 https://hamal.co.il/main/נשיא-פיפא-טראמפ-הבהיר-שאיראן-מוזמנת-למונדיאל-בארהב-250353
+https://travel.walla.co.il/item/3822961
+https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250340
+https://hamal.co.il/main/צהל-פתחנו-בגלי-תקיפות-בביירות-ובאיראן-במקביל-250354
