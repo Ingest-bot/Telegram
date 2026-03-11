@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249679
-https://news.walla.co.il/break/3822519
+COUNTER:11
 https://hamal.co.il/main/עקב-ירי-מלבנון-אזעקות-הופעלו-במרכז-249690
 https://hamal.co.il/main/צוותי-מד״א-סורקים-מספר-זירות-במרכז-הארץ-249701
 https://hamal.co.il/main/מחר-ב-1700-כל-המדינה-יוצאת-למרפסות-249705
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823079
 https://news.walla.co.il/break/3823081
 https://hamal.co.il/main/טייס-אמריקאי-לטייס-הישראלי-״תשמרו-על-עצמכם-תתקפו-בעוצמה״-250451
 https://hamal.co.il/main/גורמים-ישראלים-אכן-מזהים-כוונה-מצד-חיזבאללה-להגביר-את-הירי-250452
+https://news.walla.co.il/item/3823087
+https://hamal.co.il/main/יורט-שיגור-1-מאיראן---אין-דיווח-על-נפגעים-250479
