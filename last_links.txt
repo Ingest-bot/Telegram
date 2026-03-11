@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3822353
-https://hamal.co.il/main/מטרה-חדשה-המנהיג-הקיצוני-החדש-של-איראן-249391
-https://hamal.co.il/main/עלייה-בטמפרטורות-בהרים-ובפנים-הארץ--תחזית-מזג-האוויר-249393
+COUNTER:5
 https://hamal.co.il/main/יי-249394
 https://news.walla.co.il/break/3822358
 https://hamal.co.il/main/אחרי-לילה-קשוח-גם-הבוקר-זוהו-שיגורים-מאיראן-לצפון-הארץ-249398
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווח-הטקטיקה-החדשה-של-איראן-ב
 https://news.walla.co.il/item/3822891
 https://news.walla.co.il/break/3822892
 https://hamal.co.il/main/נכחדו-לפני-6000-שנים-נמצאו-לפתע-בחיים-249871
+https://news.walla.co.il/item/3822884
+https://hamal.co.il/main/האזעקות-בצפון-בשל-זיהוי-שווא-250336
+https://hamal.co.il/main/דיווח-זה-250331
