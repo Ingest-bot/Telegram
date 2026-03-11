@@ -1,11 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/טראמפ-מציע-מקלט-לשחקניות-נבחרת-איראן-בכדורגל-249645
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-להישמע-במרכז-249657
-https://hamal.co.il/main/אזעקות-הופעלו-בגוש-דן-בשפלה-ובשרון-249674
-https://hamal.co.il/main/מקרון-ונתניהו-שוחחו-על-המצב-בלבנון-249675
-https://news.walla.co.il/item/3822510
-https://e.walla.co.il/item/3822515
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-למרכז-249676
+COUNTER:10
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249679
 https://news.walla.co.il/break/3822519
 https://hamal.co.il/main/עקב-ירי-מלבנון-אזעקות-הופעלו-במרכז-249690
@@ -499,3 +492,10 @@ https://hamal.co.il/main/גל-שמועות-על-מטח-כבד-מלבנון-מצ�
 https://hamal.co.il/main/טראמפ-על-לבנון-250447
 https://news.walla.co.il/item/3823074
 https://hamal.co.il/main/דובר-צהל-בתגובה-לשמועות-אין-שינוי-בהנחיות-250448
+https://news.walla.co.il/item/3823082
+https://news.walla.co.il/break/3823078
+https://news.walla.co.il/break/3823080
+https://news.walla.co.il/break/3823079
+https://news.walla.co.il/break/3823081
+https://hamal.co.il/main/טייס-אמריקאי-לטייס-הישראלי-״תשמרו-על-עצמכם-תתקפו-בעוצמה״-250451
+https://hamal.co.il/main/גורמים-ישראלים-אכן-מזהים-כוונה-מצד-חיזבאללה-להגביר-את-הירי-250452
