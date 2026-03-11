@@ -1,10 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/שמיר-אסף-הרופא-5-פצועים-קל-במטח-האחרון-249749
-https://news.walla.co.il/item/3822507
-https://e.walla.co.il/item/3822549
-https://hamal.co.il/main/18-שנות-מאסר-נגזרו-על-גבר-שהורשע-ברצח-באדישות-של-פעוט-249751
-https://hamal.co.il/main/חיזבאללה-טוען-פגענו-249752
-https://news.walla.co.il/item/3822554
+COUNTER:7
 https://news.walla.co.il/item/3822553
 https://hamal.co.il/main/אחרי-השיגור-השגריר-האיראני-בטורקיה-זומן-לשיחת-נזיפה-249753
 https://hamal.co.il/main/ראש-עיריית-חדרה-בשלב-זה-מערכת-החינוך-בעיר-לא-תיפתח-249754
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ביירות-כעת-250637
 https://news.walla.co.il/item/3823106
 https://news.walla.co.il/item/3823108
 https://hamal.co.il/main/גורם-ביטחוני-אמן-הביא-מודיעין-לגבי-המטח-של-חיזבאללה-250662
+https://news.walla.co.il/break/3823111
+https://news.walla.co.il/break/3823112
+https://news.walla.co.il/break/3823114
+https://news.walla.co.il/break/3823113
+https://news.walla.co.il/break/3823115
+https://hamal.co.il/main/יואב-גלנט-לא-אתמודד-בבחירות-הקרובות-לוקח-פסק-זמן-250679
