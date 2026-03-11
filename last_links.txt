@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3822443
-https://news.walla.co.il/item/3822456
-https://news.walla.co.il/break/3822451
-https://news.walla.co.il/break/3822452
+COUNTER:16
 https://news.walla.co.il/break/3822453
 https://hamal.co.il/main/כוחות-צהל-מכוונים-ויורים-חוסלה-חוליית-מחבלים-בדרום-לבנון-249546
 https://hamal.co.il/main/5-נפגעים-בשריפה-במקלט-ביבנה-249547
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-ה
 https://hamal.co.il/main/גורמים-ישראליים-לא-מעריכים-שטראמפ-קרוב-להכריז-על-סיום-המלחמ-250400
 https://hamal.co.il/main/ספינה-תאילנדית-הותקפה-במתר-250398
 https://hamal.co.il/main/רכב-פרץ-מחסום-סמוך-לבית-הלבן-הנהג-נעצר-אין-נפגעים-250407
+https://news.walla.co.il/item/3823001
+https://hamal.co.il/main/מפקד-סנטקום-הטבענו-60-ספינות-איראניות-ותקפנו-250408
+https://hamal.co.il/main/הרמטכל-לטייסים-נעמיק-את-הפגיעה-באיראן-אף-אחד-לא-חסין-250406
+https://hamal.co.il/main/באיראן-מאשרים-המנהיג-העליון-נפצע-אך-ממשיך-לתפקד-250409
