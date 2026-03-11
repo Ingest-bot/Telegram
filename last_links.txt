@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3822469
-https://hamal.co.il/main/חמל-למען-תושבי-הצפון-פרסמו-את-העסק-שלכם-בחינם-249558
+COUNTER:19
 https://hamal.co.il/main/יותר-גרוע-מעם-כלביא-כך-נראה-שבוע-של-מלחמה-בכיס-שלנו-249562
 https://news.walla.co.il/item/3822476
 https://news.walla.co.il/item/3822471
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823017
 https://e.walla.co.il/item/3823024
 https://news.walla.co.il/item/3823028
 https://news.walla.co.il/break/3823027
+https://news.walla.co.il/item/3823029
+https://hamal.co.il/main/יותר-מ-240-אלף-רישיונות-נשק-חולקו-בישראל-250415
