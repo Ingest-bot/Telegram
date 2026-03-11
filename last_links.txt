@@ -1,5 +1,4 @@
 COUNTER:17
-https://news.walla.co.il/item/3822309
 https://news.walla.co.il/break/3822338
 https://news.walla.co.il/break/3822340
 https://news.walla.co.il/break/3822341
@@ -499,3 +498,4 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-250315
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-250316
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250317
 https://hamal.co.il/main/הרוחות-מתחזקות-והאובך-מגיע--תחזית-מזג-האוויר-250320
+https://news.walla.co.il/break/3822880
