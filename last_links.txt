@@ -1,10 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/חיל-האוויר-יירט-מספר-שיגורים-אחרים-נפלו-בשטחים-פתוחים-249715
-https://hamal.co.il/main/שברי-יירוט-אותרו-באיזור-הגליל-התחתון-249718
-https://hamal.co.il/main/2-פצועים-קל-בזירה-במרכז-הארץ-249719
-https://news.walla.co.il/item/3822524
-https://news.walla.co.il/break/3822528
-https://news.walla.co.il/break/3822526
+COUNTER:19
 https://news.walla.co.il/break/3822529
 https://hamal.co.il/main/מראשון-לציון-עד-נתניה-אלו-הרשויות-שלא-יפתחו-את-הלימודים-249720
 https://hamal.co.il/main/זוהו-שיגורים-לצפון-הארץ-249722
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דיווח-על-שיגור-מאיראן-לצפון-הא
 https://hamal.co.il/main/דיווח-עימותים-בין-כוחות-הביטחון-האיראניים-לחמושים-בטהרן-250546
 https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-250549
 https://hamal.co.il/main/בישראל-מזהים-הערב-ניסיון-מובהק-לתיאום-בין-איראן-לחיזבאללה-250559
+https://news.walla.co.il/item/3823097
+https://news.walla.co.il/item/3823094
+https://hamal.co.il/main/המשטרה-נפלו-פריטי-אמל״ח-ושברי-ירוט-במס-מוקדים-בגליל-250572
+https://hamal.co.il/main/הצפון-הערב-תיעוד-המטח-אל-עבר-היישובים-מלבנון-250574
+https://hamal.co.il/main/דיווח-פגיעה-ישירה-בבית-בצפון-הארץ--תיעוד-250577
+https://hamal.co.il/main/גורם-ביטחוני-מאשר-המטח-הערב-מלבנון-כמאה-רקטות-בפעולה-מתוזמנ-250579
