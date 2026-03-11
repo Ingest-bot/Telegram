@@ -1,11 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3822431
-https://hamal.co.il/main/נקבע-מותו-של-בן-ה-40-שנפצע-בנפילה-ביהוד-249522
-https://hamal.co.il/main/חולון-נפילה-על-גג-של-אולם-ספורט-שקרס-אין-להגיע-למקום-249526
-https://hamal.co.il/main/יי-249529
-https://hamal.co.il/main/6-מוקדי-נפילה-בגוש-דן-הרוג-פצועה-קשה-ופצוע-בינוני-בזירות-249533
-https://news.walla.co.il/item/3822442
-https://travel.walla.co.il/item/3822421
+COUNTER:8
 https://hamal.co.il/main/האסון-ביהוד-249535
 https://hamal.co.il/main/תיעוד-גג-של-אולם-ספורט-קרס-249536
 https://e.walla.co.il/item/3822445
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צפו-250356
 https://news.walla.co.il/item/3822933
 https://news.walla.co.il/item/3822987
 https://hamal.co.il/main/מפקד-אוגדה-36-בדרום-לבנון-ממשיכים-לבצע-פשיטות-250357
+https://news.walla.co.il/item/3822993
+https://e.walla.co.il/item/3822991
+https://news.walla.co.il/break/3822994
+https://hamal.co.il/main/אם-בת-40-המתגוררת-במודיעין-עילית-ילדה-השבוע-את-בנה-ה-21-לצד-250351
+https://hamal.co.il/main/רימונים-בכיס-המעיל-נער-250359
+https://hamal.co.il/main/31-שבחים-נתפסו-בבני-ברק-המלין-בן-89-נעצר-250360
+https://hamal.co.il/main/כץ-המבצע-באיראן-יימשך-250361
