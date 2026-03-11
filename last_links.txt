@@ -1,11 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3822453
-https://hamal.co.il/main/כוחות-צהל-מכוונים-ויורים-חוסלה-חוליית-מחבלים-בדרום-לבנון-249546
-https://hamal.co.il/main/5-נפגעים-בשריפה-במקלט-ביבנה-249547
-https://news.walla.co.il/item/3822462
-https://news.walla.co.il/break/3822464
-https://news.walla.co.il/break/3822459
-https://news.walla.co.il/break/3822461
+COUNTER:17
 https://hamal.co.il/main/תיעוד-האסון-ביהוד-2-עולים-חדשים-מאוזבקיסטנים-נהרגו-249554
 https://hamal.co.il/main/ביקורת-בפיקוד-צפון-על-הרמטכל-עלולים-לפספס-הזדמנות-היסטורי-249555
 https://news.walla.co.il/item/3822467
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3823001
 https://hamal.co.il/main/מפקד-סנטקום-הטבענו-60-ספינות-איראניות-ותקפנו-250408
 https://hamal.co.il/main/הרמטכל-לטייסים-נעמיק-את-הפגיעה-באיראן-אף-אחד-לא-חסין-250406
 https://hamal.co.il/main/באיראן-מאשרים-המנהיג-העליון-נפצע-אך-ממשיך-לתפקד-250409
+https://news.walla.co.il/item/3823003
+https://news.walla.co.il/break/3823010
+https://news.walla.co.il/break/3823011
+https://news.walla.co.il/break/3823014
+https://news.walla.co.il/break/3823015
+https://news.walla.co.il/break/3823016
+https://hamal.co.il/main/תיעוד-מהקוקפיט-מסוקי-קרב-מיירטים-כטבמים-ששוגרו-מלבנון-250412
