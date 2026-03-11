@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/יי-249394
-https://news.walla.co.il/break/3822358
-https://hamal.co.il/main/אחרי-לילה-קשוח-גם-הבוקר-זוהו-שיגורים-מאיראן-לצפון-הארץ-249398
-https://hamal.co.il/main/כעת-אזעקות-ביישובים-נרחבים-בצפון-הארץ-249410
+COUNTER:7
 https://news.walla.co.il/item/3822355
 https://news.walla.co.il/break/3822362
 https://hamal.co.il/main/הותר-לפרסום-שמו-של-רופא-שביצע-עפי-החשד-מעשים-מגונים-במטופלת-249412
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נכחדו-לפני-6000-שנים-נמצאו-לפתע-�
 https://news.walla.co.il/item/3822884
 https://hamal.co.il/main/האזעקות-בצפון-בשל-זיהוי-שווא-250336
 https://hamal.co.il/main/דיווח-זה-250331
+https://e.walla.co.il/item/3822900
+https://news.walla.co.il/item/3822889
+https://hamal.co.il/main/צהל-250338
+https://hamal.co.il/main/באיראן-מכחישים-המנהיג-העליון-250337
