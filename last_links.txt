@@ -1,8 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/אחרי-הנתיחה-באבו-כביר-החשד-לרצח-בעכו-התפוגג---והחשוד-שוחרר-249415
-https://news.walla.co.il/item/3822365
-https://news.walla.co.il/item/3822363
-https://hamal.co.il/main/״תפטרו-אותנו-מחיזבאללה-אני-איתכם-השיחה-של-הלבנוני-עם-צהל-249418
+COUNTER:10
 https://news.walla.co.il/item/3822369
 https://news.walla.co.il/item/3822373
 https://news.walla.co.il/break/3822370
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822904
 https://news.walla.co.il/break/3822902
 https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250341
 https://hamal.co.il/main/סגירת-מעגל-250342
+https://news.walla.co.il/item/3822911
+https://news.walla.co.il/item/3822909
+https://travel.walla.co.il/item/3822701
+https://hamal.co.il/main/הילדה-היפה-בעולם-בהודעה-דרמטית-ככה-היא-נראית-היום-250328
