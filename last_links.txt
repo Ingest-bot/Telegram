@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3822491
-https://hamal.co.il/main/מפלח-עמאש-בן-ה-26-הוא-ההרוג-השני-בזירת-249585
-https://hamal.co.il/main/משפחתו-של-החייל-אור-דמרי-שנפל-בלבנון-המומים-זה-לא-נתפס-249588
-https://news.walla.co.il/item/3822501
-https://news.walla.co.il/break/3822500
+COUNTER:3
 https://news.walla.co.il/break/3822502
 https://news.walla.co.il/break/3822503
 https://news.walla.co.il/break/3822499
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בנק-ישראל-נגד-הממשלה-לעצור-כספ
 https://hamal.co.il/main/דיווח-זו-דרגת-הפציעה-של-הנשיא-העליון-החדש---בנו-של-חמינאי-250419
 https://news.walla.co.il/item/3823046
 https://news.walla.co.il/break/3823044
+https://news.walla.co.il/item/3823050
+https://news.walla.co.il/item/3823047
+https://news.walla.co.il/break/3823055
+https://hamal.co.il/main/דובר-צהל-בערבית-קורא-לתושבי-הדאחיה-להתפנות-בדחיפות-250428
+https://hamal.co.il/main/נמלט-עם-אקדח-ונתפס-בעזרת-רחפן--תיעוד-250431
