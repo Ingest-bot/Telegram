@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3822400
-https://news.walla.co.il/break/3822397
-https://news.walla.co.il/break/3822403
-https://hamal.co.il/main/אש-מטווח-אפס-תיעוד-הירי-בראש-עיריית-עראבה-249433
+COUNTER:16
 https://hamal.co.il/main/הלימודים-יחודשו-בהדרגתיות-מיום-רביעי-לא-תהיה-חובת-הגעה-249435
 https://hamal.co.il/main/כעת-זוהו-שיגורים-מאיראן-לצפון-ולדרום-הארץ-249438
 https://news.walla.co.il/break/3822406
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3822634
 https://hamal.co.il/main/כאילו-חסר-לנו-כאוס-האזהרה-האסטרולוגית-החריגה-ליום-שישי-הקרו-250329
 https://hamal.co.il/main/הרמטכל-החליט-צוות-הקרב-של-חטיבת-גולני-יועבר-250348
 https://hamal.co.il/main/נהג-במהירות-מופרזת-250347
+https://news.walla.co.il/item/3822939
+https://news.walla.co.il/item/3822943
+https://news.walla.co.il/item/3822923
+https://hamal.co.il/main/אנטישמיות-בעמק-הסיליקון-ישראלים-הותקפו-מחוץ-למסעדה-לאחר-שד-250349
