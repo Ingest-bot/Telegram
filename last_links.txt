@@ -1,5 +1,4 @@
 COUNTER:8
-https://hamal.co.il/main/אחרי-השיגור-השגריר-האיראני-בטורקיה-זומן-לשיחת-נזיפה-249753
 https://hamal.co.il/main/ראש-עיריית-חדרה-בשלב-זה-מערכת-החינוך-בעיר-לא-תיפתח-249754
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבה-401-במרחב-דרום-לבנון-249658
 https://hamal.co.il/main/חולדאי-מערכת-החינוך-בתל-אביב-לא-תיפתח-249757
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823113
 https://news.walla.co.il/break/3823115
 https://hamal.co.il/main/יואב-גלנט-לא-אתמודד-בבחירות-הקרובות-לוקח-פסק-זמן-250679
 https://hamal.co.il/main/בין-אזעקות---חשד-לרצח-בגליל-המערבי-250710
+https://news.walla.co.il/break/3823118
