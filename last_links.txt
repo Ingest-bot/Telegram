@@ -1,6 +1,4 @@
 COUNTER:1
-https://hamal.co.il/main/ישנים-בממד-זו-הטעות-שרובכם-עושים-מבלי-לדעת-249563
-https://hamal.co.il/main/כעת-אזעקות-בגליל-העליון-249571
 https://news.walla.co.il/item/3822491
 https://hamal.co.il/main/מפלח-עמאש-בן-ה-26-הוא-ההרוג-השני-בזירת-249585
 https://hamal.co.il/main/משפחתו-של-החייל-אור-דמרי-שנפל-בלבנון-המומים-זה-לא-נתפס-249588
@@ -499,3 +497,5 @@ https://e.walla.co.il/item/3823039
 https://news.walla.co.il/break/3823040
 https://hamal.co.il/main/בנק-ישראל-נגד-הממשלה-לעצור-כספים-קואליציוניים-בזמן-מלחמה-250418
 https://hamal.co.il/main/דיווח-זו-דרגת-הפציעה-של-הנשיא-העליון-החדש---בנו-של-חמינאי-250419
+https://news.walla.co.il/item/3823046
+https://news.walla.co.il/break/3823044
