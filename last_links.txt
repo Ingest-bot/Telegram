@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/תיעוד-האסון-ביהוד-2-עולים-חדשים-מאוזבקיסטנים-נהרגו-249554
-https://hamal.co.il/main/ביקורת-בפיקוד-צפון-על-הרמטכל-עלולים-לפספס-הזדמנות-היסטורי-249555
+COUNTER:18
 https://news.walla.co.il/item/3822467
 https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-נוסף-באיראן-אלו-היעדים-249556
 https://hamal.co.il/main/שריפה-פרצה-בדירה-בתאף-לכוד-חולץ-249557
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823014
 https://news.walla.co.il/break/3823015
 https://news.walla.co.il/break/3823016
 https://hamal.co.il/main/תיעוד-מהקוקפיט-מסוקי-קרב-מיירטים-כטבמים-ששוגרו-מלבנון-250412
+https://news.walla.co.il/break/3823020
+https://hamal.co.il/main/בצהל-מעריכים-זאת-כמות-הטילים-והמשגרים-שנותרו-לאיראן-250411
