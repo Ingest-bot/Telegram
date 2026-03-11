@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3822502
-https://news.walla.co.il/break/3822503
+COUNTER:4
 https://news.walla.co.il/break/3822499
 https://hamal.co.il/main/המשטרה-249591
 https://hamal.co.il/main/רוביו-מטרת-המבצע-באיראן---להשמיד-את-מערך-השיגור-שלהם-249594
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823047
 https://news.walla.co.il/break/3823055
 https://hamal.co.il/main/דובר-צהל-בערבית-קורא-לתושבי-הדאחיה-להתפנות-בדחיפות-250428
 https://hamal.co.il/main/נמלט-עם-אקדח-ונתפס-בעזרת-רחפן--תיעוד-250431
+https://news.walla.co.il/break/3823057
+https://hamal.co.il/main/האזהרה-החריגה-של-צבא-ארהC-לאזרחים-באיראן-250432
