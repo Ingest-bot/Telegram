@@ -1,11 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/עקב-ירי-מלבנון-אזעקות-הופעלו-במרכז-249690
-https://hamal.co.il/main/צוותי-מד״א-סורקים-מספר-זירות-במרכז-הארץ-249701
-https://hamal.co.il/main/מחר-ב-1700-כל-המדינה-יוצאת-למרפסות-249705
-https://hamal.co.il/main/אדם-נלכד-בבור-בגובה-6-מטר-בקריית-מלאכי-249706
-https://news.walla.co.il/item/3822521
-https://news.walla.co.il/item/3822523
-https://hamal.co.il/main/כ״ץ-בפיקוד-צפון-״מה-שאנחנו-לא-נעשה-אף-אחד-לא-יעשה״-249714
+COUNTER:15
 https://hamal.co.il/main/חיל-האוויר-יירט-מספר-שיגורים-אחרים-נפלו-בשטחים-פתוחים-249715
 https://hamal.co.il/main/שברי-יירוט-אותרו-באיזור-הגליל-התחתון-249718
 https://hamal.co.il/main/2-פצועים-קל-בזירה-במרכז-הארץ-249719
@@ -499,3 +492,10 @@ https://hamal.co.il/main/טייס-אמריקאי-לטייס-הישראלי-״ת�
 https://hamal.co.il/main/גורמים-ישראלים-אכן-מזהים-כוונה-מצד-חיזבאללה-להגביר-את-הירי-250452
 https://news.walla.co.il/item/3823087
 https://hamal.co.il/main/יורט-שיגור-1-מאיראן---אין-דיווח-על-נפגעים-250479
+https://news.walla.co.il/break/3823088
+https://news.walla.co.il/break/3823092
+https://news.walla.co.il/break/3823093
+https://hamal.co.il/main/דיווח-על-שיגור-מאיראן-לצפון-הארץ-250545
+https://hamal.co.il/main/דיווח-עימותים-בין-כוחות-הביטחון-האיראניים-לחמושים-בטהרן-250546
+https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-250549
+https://hamal.co.il/main/בישראל-מזהים-הערב-ניסיון-מובהק-לתיאום-בין-איראן-לחיזבאללה-250559
