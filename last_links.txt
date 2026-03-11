@@ -1,8 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3822343
-https://hamal.co.il/main/הגסת-נוודא-שהשאיפות-הגרעיניות-של-איראן-לעולם-לא-יתגשמו-249383
-https://news.walla.co.il/break/3822346
-https://hamal.co.il/main/קצין-בכיר-בחיל-האוויר-נערכים-למלחמה-ארוכה-מול-איראן-ערוכי-249384
+COUNTER:2
 https://news.walla.co.il/item/3822345
 https://news.walla.co.il/break/3822350
 https://hamal.co.il/main/צה״ל-תקף-אתרי-שיגור-של-טילים-בליסטיים-ומפקדות׳-באיראן-צהל-249385
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822885
 https://news.walla.co.il/break/3822883
 https://hamal.co.il/main/הכטבם-שחדר-לצפון-יורט-פיקוד-העורף-האירוע-הסתיים-250327
 https://hamal.co.il/main/ארון-הברית-נמצא-249876
+https://news.walla.co.il/item/3822888
+https://news.walla.co.il/item/3822887
+https://news.walla.co.il/break/3822886
+https://hamal.co.il/main/דיווח-הטקטיקה-החדשה-של-איראן-במלחמה-250330
