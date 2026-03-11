@@ -1,11 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לישראל-249731
-https://hamal.co.il/main/זוהו-שיגורים-נוספים-למרכז-הארץ-249733
-https://travel.walla.co.il/item/3822530
-https://news.walla.co.il/break/3822532
-https://hamal.co.il/main/יותר-מ-50-מהישראלים-התקועים-בחול-כבר-שבו-ארצה-249737
-https://hamal.co.il/main/בשורות-טובות-שיפור-דרמטי-במצבו-של-פצוע-צה״ל-שהוגדר-אנוש-249739
-https://news.walla.co.il/break/3822533
+COUNTER:3
 https://hamal.co.il/main/צה״ל-תקף-מפקדת-כטב״מים-של-משמרות-המהפכה-249740
 https://news.walla.co.il/item/3822535
 https://news.walla.co.il/break/3822537
@@ -499,3 +492,10 @@ https://hamal.co.il/main/גורם-ביטחוני-מאשר-המטח-הערב-מל
 https://hamal.co.il/main/חיזבאללה-מודיע-על-פתיחת-מבצע-חדש-נגד-ישראל-250588
 https://hamal.co.il/main/2-פצועים-במצב-קל-שנפגעו-מחפצים-שעפו-בצפון-הארץ-250608
 https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-נרחב-בדאחייה-שבביירות-250612
+https://news.walla.co.il/item/3823098
+https://news.walla.co.il/break/3823099
+https://news.walla.co.il/break/3823101
+https://news.walla.co.il/break/3823102
+https://news.walla.co.il/break/3823100
+https://news.walla.co.il/break/3823103
+https://hamal.co.il/main/התייעצויות-במערכת-הביטחון-כיצד-להגיב-למטח-הכבד-הערב-250619
