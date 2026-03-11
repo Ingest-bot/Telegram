@@ -1,10 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/ב-3-מרחבים-במקביל-הושלמה-תקיפת-מפקדות-ואתרי-ייצור-באיראן-249777
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-במטח-האחרון-249793
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-249794
-https://hamal.co.il/main/מפקד-פיקוד-העורף-בזירה-ביהוד-החוסן-יאפשר-לנו-את-הניצחון-249796
-https://hamal.co.il/main/טראמפ-אני-חושב-שהמלחמה-כמעט-הושלמה-249799
-https://news.walla.co.il/item/3822563
+COUNTER:2
 https://news.walla.co.il/item/3822572
 https://news.walla.co.il/break/3822576
 https://hamal.co.il/main/בדקו-בעצמכם-כמה-פעמים-הופעלה-אזעקה-ביישוב-שלכם-249803
@@ -499,3 +493,9 @@ https://hamal.co.il/main/במקביל-לירי-מאיראן-צהל-מעדכן-פ
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250787
 https://hamal.co.il/main/אש-ללא-הפסקה-אזעקות-באזורים-נרחבים-בצפון-250804
 https://hamal.co.il/main/המשטרה-מטפלת-במספר-זירות-נפילת-חלקי-פרטי-אמלח-במרכז-250805
+https://news.walla.co.il/break/3823127
+https://news.walla.co.il/break/3823129
+https://news.walla.co.il/break/3823128
+https://news.walla.co.il/break/3823130
+https://news.walla.co.il/break/3823131
+https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-השרון-נזק-למספר-מבנים---אין-נפגעים-250808
