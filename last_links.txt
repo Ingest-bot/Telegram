@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3822338
-https://news.walla.co.il/break/3822340
-https://news.walla.co.il/break/3822341
-https://news.walla.co.il/break/3822342
+COUNTER:19
 https://hamal.co.il/main/אישה-בשנות-ה-50-לחייה-מצבה-קל-ויציב--מטופלת-על-ידי-הצוותי-249356
 https://hamal.co.il/main/זוהו-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בצפון-הארץ-249358
 https://hamal.co.il/main/אזעקות-נשמעו-בצפון-249374
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעי
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250317
 https://hamal.co.il/main/הרוחות-מתחזקות-והאובך-מגיע--תחזית-מזג-האוויר-250320
 https://news.walla.co.il/break/3822880
+https://news.walla.co.il/break/3822881
+https://news.walla.co.il/break/3822882
+https://hamal.co.il/main/דיווח-בלבנון-ישראל-תקפה-דירה-במרכז-ביירות-250321
+https://hamal.co.il/main/צהל-חיסל-חוליית-שיגור-דקות-לפני-ששיגרה-כטב״ם-מאיראן-250326
