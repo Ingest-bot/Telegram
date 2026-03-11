@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3822572
-https://news.walla.co.il/break/3822576
-https://hamal.co.il/main/בדקו-בעצמכם-כמה-פעמים-הופעלה-אזעקה-ביישוב-שלכם-249803
+COUNTER:5
 https://hamal.co.il/main/טראמפ-על-המלחמה-״תראו-שזה-יהיה-מהלך-קצר-טווח״-249804
 https://hamal.co.il/main/בפעם-השנייה-היום-צה״ל-פתח-בגל-תקיפות-נרחב-בטהרן-249805
 https://news.walla.co.il/blog/3822589
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823128
 https://news.walla.co.il/break/3823130
 https://news.walla.co.il/break/3823131
 https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-השרון-נזק-למספר-מבנים---אין-נפגעים-250808
+https://hamal.co.il/main/המשטרה-מטפלת-בזירות-נפילת-פריטי-אמלח-במרחב-אשר-250819
+https://hamal.co.il/main/דיווח-על-פגיעת-כטבם-איראני-במגדל-מגורים-בדובאי-250822
+https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-על-עמדות-של-כוחות-הבסיג-במדינה-250826
