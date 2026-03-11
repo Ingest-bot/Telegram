@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3822406
-https://news.walla.co.il/break/3822408
-https://news.walla.co.il/break/3822411
+COUNTER:18
 https://hamal.co.il/main/כעת-אזעקות-בצפון-ובדרום-הארץ-במקביל---צהל-תוקף-בדאחיה-249461
 https://hamal.co.il/main/אזעקות-נשמעו-גם-באזור-השרון---ללא-התרעה-מקדימה-249464
 https://hamal.co.il/main/הרגע-בו-הופצץ-בניין-אל-קרד-הבנק-הלבנוני-בדאחיה-249470
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822923
 https://hamal.co.il/main/אנטישמיות-בעמק-הסיליקון-ישראלים-הותקפו-מחוץ-למסעדה-לאחר-שד-250349
 https://news.walla.co.il/item/3822954
 https://hamal.co.il/main/בישראל-מעריכים-זה-מצבו-הרפואי-של-מוגתבא-חמינאי-250350
+https://news.walla.co.il/item/3822958
+https://news.walla.co.il/item/3822934
+https://hamal.co.il/main/נשיא-פיפא-טראמפ-הבהיר-שאיראן-מוזמנת-למונדיאל-בארהב-250353
