@@ -1,6 +1,4 @@
 COUNTER:19
-https://hamal.co.il/main/יותר-גרוע-מעם-כלביא-כך-נראה-שבוע-של-מלחמה-בכיס-שלנו-249562
-https://news.walla.co.il/item/3822476
 https://news.walla.co.il/item/3822471
 https://news.walla.co.il/item/3822470
 https://news.walla.co.il/item/3822480
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823028
 https://news.walla.co.il/break/3823027
 https://news.walla.co.il/item/3823029
 https://hamal.co.il/main/יותר-מ-240-אלף-רישיונות-נשק-חולקו-בישראל-250415
+https://news.walla.co.il/break/3823034
+https://news.walla.co.il/break/3823035
