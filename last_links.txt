@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/מיליונים-בממדים-יישובים-רבים-תחת-אזעקות-249506
-https://hamal.co.il/main/2-פצועים-קשה-ביהוד-במקביל-זירות-נפילה-בחולון-ובת-ים-249517
-https://hamal.co.il/main/המטח-למרכז-2-פצועים-אנוש-באור-יהודה-פצוע-קשה-באור-יהודה-249519
+COUNTER:4
 https://news.walla.co.il/item/3822431
 https://hamal.co.il/main/נקבע-מותו-של-בן-ה-40-שנפצע-בנפילה-ביהוד-249522
 https://hamal.co.il/main/חולון-נפילה-על-גג-של-אולם-ספורט-שקרס-אין-להגיע-למקום-249526
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3822978
 https://news.walla.co.il/break/3822979
 https://news.walla.co.il/break/3822980
 https://hamal.co.il/main/צפו-250356
+https://news.walla.co.il/item/3822933
+https://news.walla.co.il/item/3822987
+https://hamal.co.il/main/מפקד-אוגדה-36-בדרום-לבנון-ממשיכים-לבצע-פשיטות-250357
