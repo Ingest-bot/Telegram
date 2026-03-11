@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/אישה-בשנות-ה-50-לחייה-מצבה-קל-ויציב--מטופלת-על-ידי-הצוותי-249356
-https://hamal.co.il/main/זוהו-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בצפון-הארץ-249358
-https://hamal.co.il/main/אזעקות-נשמעו-בצפון-249374
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-249377
+COUNTER:1
 https://news.walla.co.il/break/3822343
 https://hamal.co.il/main/הגסת-נוודא-שהשאיפות-הגרעיניות-של-איראן-לעולם-לא-יתגשמו-249383
 https://news.walla.co.il/break/3822346
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3822881
 https://news.walla.co.il/break/3822882
 https://hamal.co.il/main/דיווח-בלבנון-ישראל-תקפה-דירה-במרכז-ביירות-250321
 https://hamal.co.il/main/צהל-חיסל-חוליית-שיגור-דקות-לפני-ששיגרה-כטב״ם-מאיראן-250326
+https://news.walla.co.il/break/3822885
+https://news.walla.co.il/break/3822883
+https://hamal.co.il/main/הכטבם-שחדר-לצפון-יורט-פיקוד-העורף-האירוע-הסתיים-250327
+https://hamal.co.il/main/ארון-הברית-נמצא-249876
