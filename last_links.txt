@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/אישום-מחריד-בנגב-השליך-כלבה-למותה-ותקף-את-אשתו-ובנו-249599
-https://e.walla.co.il/item/3822512
-https://news.walla.co.il/break/3822511
+COUNTER:6
 https://hamal.co.il/main/חשד-לתקיפת-יוסף-חדאד-תושב-ת״א-נחקר-ושוחרר-בתנאים-מגבילים-249615
 https://hamal.co.il/main/מפקד-פיקוד-העורף-המשיכו-לעמוד-בחוסן-בגבורה-ולהישמע-להנחיות-249609
 https://hamal.co.il/main/ככה-נראה-המהלך-החדש-של-פיקוד-צפון-נגד-חיזבאללה-249622
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823066
 https://travel.walla.co.il/item/3823067
 https://news.walla.co.il/item/3823061
 https://news.walla.co.il/item/3823068
+https://news.walla.co.il/item/3823071
+https://news.walla.co.il/item/3823070
+https://hamal.co.il/main/גל-שמועות-על-מטח-כבד-מלבנון-מציף-את-הרשת--מה-שמותר-לפרסם-250446
