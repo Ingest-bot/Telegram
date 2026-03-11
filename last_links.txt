@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3822345
-https://news.walla.co.il/break/3822350
-https://hamal.co.il/main/צה״ל-תקף-אתרי-שיגור-של-טילים-בליסטיים-ומפקדות׳-באיראן-צהל-249385
+COUNTER:3
 https://news.walla.co.il/break/3822353
 https://hamal.co.il/main/מטרה-חדשה-המנהיג-הקיצוני-החדש-של-איראן-249391
 https://hamal.co.il/main/עלייה-בטמפרטורות-בהרים-ובפנים-הארץ--תחזית-מזג-האוויר-249393
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3822888
 https://news.walla.co.il/item/3822887
 https://news.walla.co.il/break/3822886
 https://hamal.co.il/main/דיווח-הטקטיקה-החדשה-של-איראן-במלחמה-250330
+https://news.walla.co.il/item/3822891
+https://news.walla.co.il/break/3822892
+https://hamal.co.il/main/נכחדו-לפני-6000-שנים-נמצאו-לפתע-בחיים-249871
