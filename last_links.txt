@@ -1,9 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3822386
-https://hamal.co.il/main/החשד-נגד-בן-גביר-דלף-מידע-ביטחוני-רגיש-הנוגע-למבצע-באיראן-249425
-https://hamal.co.il/main/יעד-אסטרטגי-האיראנים-טוענים-שתקפו-מפעל-וופלים-בחיפה-249428
-https://news.walla.co.il/item/3822389
-https://travel.walla.co.il/item/3822388
+COUNTER:12
 https://news.walla.co.il/item/3822392
 https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-צהל-לא-מתכוון-לפגוע-בכם-249430
 https://news.walla.co.il/item/3822402
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3822924
 https://news.walla.co.il/break/3822925
 https://news.walla.co.il/break/3822926
 https://news.walla.co.il/break/3822921
+https://news.walla.co.il/item/3822921
+https://news.walla.co.il/break/3822928
+https://news.walla.co.il/break/3822930
+https://hamal.co.il/main/זלנסקי-טוען-פוטין-ישלח-חיילים-כדי-לסייע-לאיראן-250343
+https://hamal.co.il/main/שלטי-עידוד-במקלטים-יוזמה-קהילתית-מרגשת-בדרך-כרמית-250344
