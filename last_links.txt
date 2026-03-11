@@ -1,6 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3822543
-https://hamal.co.il/main/תוך-שעה-הותקפו-שלושת-המשגרים-מהם-נורו-הרקטות-למרכז-249748
+COUNTER:6
 https://hamal.co.il/main/שמיר-אסף-הרופא-5-פצועים-קל-במטח-האחרון-249749
 https://news.walla.co.il/item/3822507
 https://e.walla.co.il/item/3822549
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823104
 https://hamal.co.il/main/דובר-צהל-בערבית-בפנייה-לתושבי-הדאחייה-הדרומית-250629
 https://hamal.co.il/main/ביירות-כעת-250637
 https://news.walla.co.il/item/3823106
+https://news.walla.co.il/item/3823108
+https://hamal.co.il/main/גורם-ביטחוני-אמן-הביא-מודיעין-לגבי-המטח-של-חיזבאללה-250662
