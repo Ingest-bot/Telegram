@@ -1,6 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/הלימודים-יחודשו-בהדרגתיות-מיום-רביעי-לא-תהיה-חובת-הגעה-249435
-https://hamal.co.il/main/כעת-זוהו-שיגורים-מאיראן-לצפון-ולדרום-הארץ-249438
+COUNTER:17
 https://news.walla.co.il/break/3822406
 https://news.walla.co.il/break/3822408
 https://news.walla.co.il/break/3822411
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3822939
 https://news.walla.co.il/item/3822943
 https://news.walla.co.il/item/3822923
 https://hamal.co.il/main/אנטישמיות-בעמק-הסיליקון-ישראלים-הותקפו-מחוץ-למסעדה-לאחר-שד-250349
+https://news.walla.co.il/item/3822954
+https://hamal.co.il/main/בישראל-מעריכים-זה-מצבו-הרפואי-של-מוגתבא-חמינאי-250350
