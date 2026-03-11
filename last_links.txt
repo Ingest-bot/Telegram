@@ -1,10 +1,4 @@
 COUNTER:10
-https://news.walla.co.il/item/3822369
-https://news.walla.co.il/item/3822373
-https://news.walla.co.il/break/3822370
-https://news.walla.co.il/break/3822374
-https://hamal.co.il/main/כתב-אישום-מלוות-הסעות-בת-60-תקפה-בעלת-צרכים-מיוחדים-249420
-https://news.walla.co.il/item/3822382
 https://news.walla.co.il/item/3822386
 https://hamal.co.il/main/החשד-נגד-בן-גביר-דלף-מידע-ביטחוני-רגיש-הנוגע-למבצע-באיראן-249425
 https://hamal.co.il/main/יעד-אסטרטגי-האיראנים-טוענים-שתקפו-מפעל-וופלים-בחיפה-249428
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822911
 https://news.walla.co.il/item/3822909
 https://travel.walla.co.il/item/3822701
 https://hamal.co.il/main/הילדה-היפה-בעולם-בהודעה-דרמטית-ככה-היא-נראית-היום-250328
+https://news.walla.co.il/item/3822912
+https://e.walla.co.il/item/3822907
+https://news.walla.co.il/break/3822924
+https://news.walla.co.il/break/3822925
+https://news.walla.co.il/break/3822926
+https://news.walla.co.il/break/3822921
