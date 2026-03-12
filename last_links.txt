@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250096
-https://hamal.co.il/main/אזעקות-יישמעו-בדקות-הקרובות-במרכז-הארץ-עקב-שיגורים-מאיראן-250100
-https://hamal.co.il/main/אזעקות-נשמעות-באזור-ירושלים-והסביבה-250104
+COUNTER:7
 https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-בגזרת-חיפה-עכו-והסביבה-250111
 https://news.walla.co.il/item/3822794
 https://news.walla.co.il/break/3822801
@@ -499,3 +496,6 @@ https://e.walla.co.il/item/3823371
 https://hamal.co.il/main/יקנעם-251156
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-251157
 https://hamal.co.il/main/מסיבת-עיתונאים-של-ראש-הממשלה-נתניהו--ישיר-251160
+https://news.walla.co.il/break/3823374
+https://news.walla.co.il/break/3823375
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-251163
