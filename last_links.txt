@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-בגזרת-חיפה-עכו-והסביבה-250111
+COUNTER:8
 https://news.walla.co.il/item/3822794
 https://news.walla.co.il/break/3822801
 https://hamal.co.il/main/דיווח-על-נפילה-בשטח-פתוח-סמוך-לירושלים-250121
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מסיבת-עיתונאים-של-ראש-הממשלה-נ
 https://news.walla.co.il/break/3823374
 https://news.walla.co.il/break/3823375
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-251163
+https://hamal.co.il/main/השיגור-מאיראן-דיווח-על-נפילה-בשטח-פתוח-אין-דיווח-על-נפגעים-251170
