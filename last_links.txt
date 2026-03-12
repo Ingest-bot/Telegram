@@ -1,9 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/צהל-חושף-הושמדו-מרבית-הנכסים-המרכזיים-של-כוחות-ביטחון-הפני-250133
-https://e.walla.co.il/item/3822818
-https://news.walla.co.il/item/3822807
-https://news.walla.co.il/break/3822820
-https://news.walla.co.il/break/3822822
+COUNTER:16
 https://hamal.co.il/main/שוטרי-מחוז-חוף-סיכלו-חוליית-חיסול-בדרך-לביצוע-רצח-בכביש-85--250134
 https://hamal.co.il/main/הפגיעה-הישירה-בתחנת-הלווינים-הרגישה-בעמק-האלה-250136
 https://news.walla.co.il/item/3822830
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823389
 https://hamal.co.il/main/בית-החולים-מעייני-הישועה-בבני-ברק-ילד-אובחן-כחולה-חצבת-251179
 https://hamal.co.il/main/דיווח-251184
 https://hamal.co.il/main/חמושים-נוטרלו-ע״י-צלפי-ימ״ס-במהלך-סכסוך-פנימי-בכפר-סילוואן-251185
+https://news.walla.co.il/item/3823393
+https://news.walla.co.il/break/3823394
+https://news.walla.co.il/break/3823395
+https://hamal.co.il/main/צהל-תקף-מפקדות-של-ארגון-הטרור-חיזבאללה-בביירות-ובדרום-לבנון-251186
+https://hamal.co.il/main/צבא-ארהב-מטוס-תדלוק-אמריקני-התרסק-במהלך-המבצע-נגד-איראן-פ-251187
