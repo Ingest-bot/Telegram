@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/בהמשך-לירי-לצפון-הארץ-לא-ידוע-על-נפגעים-249836
-https://news.walla.co.il/break/3822596
-https://news.walla.co.il/break/3822597
-https://hamal.co.il/main/חדירת-כלי-הטיס-בצפון---זיהוי-שווא-249851
+COUNTER:13
 https://hamal.co.il/main/צהל-תקף-את-המשגר-ממנו-נורו-הרקטות-לעבר-צפון-הארץ-249853
 https://news.walla.co.il/item/3822602
 https://news.walla.co.il/item/3822603
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-דווח-על-נ
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-פריטי-אמלח-בגזרת-מרחב-מנשה-250868
 https://hamal.co.il/main/אינדונזיה-שליחת-כוחות-לעזה-תלויה-בהלך-הרוח-במועצת-בשלום-250870
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-250872
+https://news.walla.co.il/break/3823147
+https://news.walla.co.il/break/3823148
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250892
+https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-דווח-על-נפגעים-250893
