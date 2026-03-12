@@ -1,12 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/אחרי-פגישת-נתניהו-וסמוטריץ-מסתמן---רפורמת-החלב-תיעצר-250013
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250011
-https://hamal.co.il/main/לאריגאני-מאיים-על-טראמפ-היזהר-שלא-תעלם-249982
-https://news.walla.co.il/item/3822737
-https://news.walla.co.il/item/3822738
-https://news.walla.co.il/item/3822739
-https://news.walla.co.il/break/3822732
-https://hamal.co.il/main/דיווח-האסטרטגיה-של-ישראל-באיראן-מחשש-שטראמפ-יפסיק-את-המלחמה-250018
+COUNTER:4
 https://hamal.co.il/main/דקות-לפני-השיגור-לישראל-צהל-תקף-משגר-טילים-באיראן--צפו-250021
 https://hamal.co.il/main/שר-ההגנה-האמריקני-היום-יהיו-התקיפות-האינטנסיביות-ביותר-שה-250023
 https://hamal.co.il/main/הרמטכל-האמריקני-השיגורים-באיראן-ירדו-ב-90-250024
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3823303
 https://hamal.co.il/main/טראמפ-לעולם-לא-אתן-לאיראן-להחריב-את-המזרח-התיכון-251062
 https://hamal.co.il/main/מוג׳תבא-״נאלצים-להמשיך-לתקוף-בסיסים-אמריקאים-במדינות-שכנות״-251063
 https://hamal.co.il/main/חשד-לפח״ע-ברמת-גן-גבר-כבן-47-נדקר-מצבו-קשה-251066
+https://news.walla.co.il/item/3823303
+https://news.walla.co.il/item/3823308
+https://news.walla.co.il/break/3823314
+https://news.walla.co.il/break/3823309
+https://news.walla.co.il/break/3823315
+https://news.walla.co.il/break/3823316
+https://hamal.co.il/main/בתום-מצוד-החשוד-בדקירה-ברמת-גן-נעצר-251072
+https://hamal.co.il/main/הפצר-החליט-על-ביטול-כתב-האישום-בפרשת-שדה-תימן-251075
