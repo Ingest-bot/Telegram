@@ -1,13 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3822794
-https://news.walla.co.il/break/3822801
-https://hamal.co.il/main/דיווח-על-נפילה-בשטח-פתוח-סמוך-לירושלים-250121
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250123
-https://hamal.co.il/main/ראנתניהו-בנמל-אשדוד-״מדינת-ישראל-מראה-לעולם-מה-זה-עם-לוחם-250124
-https://hamal.co.il/main/בחקירה-נגד-מנהל-בית-ספר-שהסית-במרשתת-נגד-מדינת-ישראל-וקרא-לה-250125
-https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-250128
-https://hamal.co.il/main/טראמפ-בנה-על-מצור-נפט-דרך-איראן-אבל-לסין-יש-תוכנית-חילוץ-250114
-https://news.walla.co.il/break/3822805
+COUNTER:11
 https://hamal.co.il/main/סער-ישראל-אינה-שואפת-למלחמה-בלתי-פוסקת-עם-איראן-רויטרס-3-250129
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250132
 https://news.walla.co.il/item/3822812
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3823374
 https://news.walla.co.il/break/3823375
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-251163
 https://hamal.co.il/main/השיגור-מאיראן-דיווח-על-נפילה-בשטח-פתוח-אין-דיווח-על-נפגעים-251170
+https://e.walla.co.il/item/3823378
+https://news.walla.co.il/item/3823380
+https://news.walla.co.il/item/3823385
+https://news.walla.co.il/item/3823384
+https://news.walla.co.il/break/3823379
+https://news.walla.co.il/break/3823381
+https://hamal.co.il/main/דונלד-טראמפ-לא-ראוי-שנבחרת-איראן-תשתתף-במונדיאל-251132
+https://hamal.co.il/main/כשהאזעקות-במרכז-אלפי-ישראלים-מצאו-מפלט-ברמת-הנגב-251108
+https://hamal.co.il/main/חשד-נערה-בת-17-רצה-למרחב-המוגן---ונדרסה-למוות-251171
