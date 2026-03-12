@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3822709
-https://news.walla.co.il/break/3822703
-https://news.walla.co.il/break/3822704
-https://news.walla.co.il/break/3822707
+COUNTER:8
 https://hamal.co.il/main/שיחות-249950
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-249958
 https://news.walla.co.il/item/3822710
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823268
 https://news.walla.co.il/break/3823269
 https://news.walla.co.il/break/3823270
 https://hamal.co.il/main/החורף-חוזר-התחזית-לסוף-השבוע---גשם-ורוחות-חזקות-250980
+https://news.walla.co.il/break/3823275
+https://hamal.co.il/main/בית-בושת-אותר-בתוך-מקלט-ציבורי-לא-נתנו-להיכנס-בזמן-אזעקה-250985
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250991
+https://hamal.co.il/main/יו״ר-איגוד-המסעדות-והברים-על-יוזמת-חמ״ל-״מעניקה-חמצן-אמיתי״-250995
