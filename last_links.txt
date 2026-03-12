@@ -1,9 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/חנן-בן-ארי-נ-249924
-https://news.walla.co.il/item/3822686
-https://news.walla.co.il/item/3822687
-https://news.walla.co.il/item/3822638
-https://hamal.co.il/main/מחבלים-חוסלו-מבנים-הושמדו-כוחותינו-מבצעים-פשיטות-בדרום-לבנ-249925
+COUNTER:4
 https://hamal.co.il/main/חמל-גם-ברשתות-החברתיות-עקבו-אחרינו-באינסטגרם-249926
 https://news.walla.co.il/item/3822694
 https://news.walla.co.il/item/3822695
@@ -499,3 +494,8 @@ https://e.walla.co.il/item/3823244
 https://news.walla.co.il/item/3823248
 https://hamal.co.il/main/צה״ל-תקף-אתר-גרעין-נוסף-בטהרן-250972
 https://hamal.co.il/main/הסיע-שבח״ים---והפקיר-את-ביתו-בת-ה-3-כשנתפס-במחסום-250973
+https://news.walla.co.il/item/3823253
+https://news.walla.co.il/item/3823251
+https://hamal.co.il/main/בזמן-שהילדים-משחקים-בחצר-250975
+https://hamal.co.il/main/חשוד-הצית-מגלשה-בגן-סאקר-250976
+https://hamal.co.il/main/צה״ל-חיסל-מפקד-משמרות-המהפכה-שפעל-ביחידת-הטילים-בחיזבאללה-250977
