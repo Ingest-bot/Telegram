@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3822827
-https://hamal.co.il/main/הרמטכ״ל-לטכנאים-בבסיס-תל-נוף-״המכונה-האופרטיבית-הזאת-של-חיל-250135
+COUNTER:17
 https://hamal.co.il/main/וויטקוף-השמדנו-כמעט-לחלוטין-את-יכולת-העשרת-האורניום-של-איר-250137
 https://hamal.co.il/main/אזעקות-בשורת-יישובים-בגליל-העליון-מחשש-לחדירת-כלי-טיס-עוין-250145
 https://hamal.co.il/main/הצהרת-דובר-צהל-250151
@@ -499,3 +497,5 @@ https://news.walla.co.il/blog/3823397
 https://news.walla.co.il/item/3822947
 https://news.walla.co.il/item/3823278
 https://news.walla.co.il/item/3822763
+https://news.walla.co.il/break/3823398
+https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-251192
