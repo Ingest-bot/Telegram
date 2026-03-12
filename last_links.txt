@@ -1,10 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3822725
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-249981
-https://hamal.co.il/main/גבר-נדרס-למוות-על-ידי-טרקטור-בעראבה-249998
-https://news.walla.co.il/item/3822730
-https://news.walla.co.il/break/3822728
-https://hamal.co.il/main/ירי-משולב-מאיראן-ולבנון-לעבר-הצפון-צפו-בתיעוד-היירוטים-250003
+COUNTER:2
 https://hamal.co.il/main/אחרי-פגישת-נתניהו-וסמוטריץ-מסתמן---רפורמת-החלב-תיעצר-250013
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-250011
 https://hamal.co.il/main/לאריגאני-מאיים-על-טראמפ-היזהר-שלא-תעלם-249982
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3823300
 https://hamal.co.il/main/במקביל-לשיגורים-מלבנון-דובר-צה״ל-בהודעת-פינוי-בדרום-לבנון-251058
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-251059
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251061
+https://news.walla.co.il/item/3823304
+https://news.walla.co.il/item/3823306
+https://news.walla.co.il/break/3823303
+https://hamal.co.il/main/טראמפ-לעולם-לא-אתן-לאיראן-להחריב-את-המזרח-התיכון-251062
+https://hamal.co.il/main/מוג׳תבא-״נאלצים-להמשיך-לתקוף-בסיסים-אמריקאים-במדינות-שכנות״-251063
+https://hamal.co.il/main/חשד-לפח״ע-ברמת-גן-גבר-כבן-47-נדקר-מצבו-קשה-251066
