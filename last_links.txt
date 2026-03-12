@@ -1,11 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/מיכל-דליות-למה-ילדים-מפחדים-להירדם-במלחמה---ומה-הפתרון-הקל-249564
-https://news.walla.co.il/item/3822639
-https://news.walla.co.il/item/3822637
-https://news.walla.co.il/break/3822643
-https://news.walla.co.il/break/3822646
-https://hamal.co.il/main/נתניהו-שוברים-249875
-https://hamal.co.il/main/ארון-הברית-נמצא-249877
+COUNTER:10
 https://e.walla.co.il/item/3822645
 https://news.walla.co.il/item/3822644
 https://news.walla.co.il/item/3822653
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3823196
 https://news.walla.co.il/item/3823189
 https://news.walla.co.il/break/3823190
 https://hamal.co.il/main/בצהל-לא-נרתעים-מתגובת-חיזבאללה-נפתיע-אותו-250935
+https://news.walla.co.il/item/3823199
+https://e.walla.co.il/item/3823205
+https://news.walla.co.il/item/3823200
+https://news.walla.co.il/break/3823201
+https://hamal.co.il/main/מערכת-החינוך-תיפתח-באיזורים-מסויימים-הבקשה-של-משרד-החינוך-250936
+https://hamal.co.il/main/ההרס-בדאחייה-לאחר-התקיפות-250939
+https://hamal.co.il/main/הפלמ״חניקית-שראתה-את-כל-מלחמות-ישראל-״חייבים-לציית-להנחיות״-250945
