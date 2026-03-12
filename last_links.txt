@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים--תיעוד-היירוט-250075
-https://news.walla.co.il/item/3822753
+COUNTER:9
 https://news.walla.co.il/item/3822754
 https://news.walla.co.il/item/3822755
 https://hamal.co.il/main/סערה-בערבה-צהל-מצמצם-את-כיתות-הכוננות---הרבשצים-זועמים-249948
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823334
 https://news.walla.co.il/break/3823333
 https://news.walla.co.il/break/3823332
 https://hamal.co.il/main/צומת-תפוח-2-חשודים-ניסו-לדרוס-כוחות-שהספיקו-לירות-לכיוונם-251085
+https://news.walla.co.il/break/3823337
+https://hamal.co.il/main/מחבלים-ירו-לעמדת-צהל-מעצור-בנשק-הוביל-אותם-להימלט-ולדרוס-251088
