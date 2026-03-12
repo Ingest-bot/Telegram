@@ -1,8 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3822724
-https://news.walla.co.il/item/3822726
-https://news.walla.co.il/break/3822722
-https://news.walla.co.il/break/3822723
+COUNTER:19
 https://news.walla.co.il/break/3822725
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-249981
 https://hamal.co.il/main/גבר-נדרס-למוות-על-ידי-טרקטור-בעראבה-249998
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3823272
 https://news.walla.co.il/item/3823290
 https://hamal.co.il/main/שוב-אזעקות-חשש-לחדירת-כלי-טיס-עויין-מלבנון-לגליל-המערבי-251037
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-251038
+https://news.walla.co.il/break/3823300
+https://hamal.co.il/main/במקביל-לשיגורים-מלבנון-דובר-צה״ל-בהודעת-פינוי-בדרום-לבנון-251058
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-251059
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251061
