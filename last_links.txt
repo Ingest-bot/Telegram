@@ -1,5 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3822787
+COUNTER:3
 https://news.walla.co.il/break/3822785
 https://hamal.co.il/main/סוכל-בזמן-אמת-צה״ל-זיהה-והשמיד-משגר-של-חיזבאללה-במהלך-נסיו-250097
 https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250098
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3823363
 https://news.walla.co.il/break/3823362
 https://hamal.co.il/main/השריף-על-הירי-במישיגן-251151
 https://hamal.co.il/main/הקונסול-הכללי-של-ישראל-251152
+https://hamal.co.il/main/נעילה-שלילית-בתא-המדדים-המובילים-צנחו-השקל-נחלש-מול-הדולר-251150
