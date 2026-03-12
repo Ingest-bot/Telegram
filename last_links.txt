@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3822658
-https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249911
-https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-דווח-על-נפגעים-249912
-https://hamal.co.il/main/נקבע-מותו-של-הפצוע-מהמטח-ששוגר-אתמול-מאיראן-249913
-https://news.walla.co.il/item/3822666
-https://news.walla.co.il/break/3822659
+COUNTER:15
 https://hamal.co.il/main/הירי-מאיראן-רסיס-נפל-בדרום-לא-ידוע-על-נפגעים-249914
 https://hamal.co.il/main/השר-וסרלאוף-249915
 https://hamal.co.il/main/אחרי-השיגור-מהכפר-בדרום-לבנון-תהל-249916
@@ -499,3 +493,9 @@ https://e.walla.co.il/item/3823214
 https://news.walla.co.il/item/3823216
 https://news.walla.co.il/break/3823218
 https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-החל-בגל-תקיפות-נרחב-באיראן-250950
+https://news.walla.co.il/item/3823220
+https://news.walla.co.il/item/3823224
+https://news.walla.co.il/break/3823222
+https://news.walla.co.il/break/3823227
+https://hamal.co.il/main/בני-סבטי-על-מוג׳תבא-״הוא-לא-מופיע-וזה-מפרק-את-המשטר-250953
+https://hamal.co.il/main/התגובה-לחיזבאללה-״תהיה-משמעותית-ותכלול-פינוי-אוכלוסיה-רחב״-250954
