@@ -1,6 +1,4 @@
-COUNTER:17
-https://travel.walla.co.il/item/3822767
-https://news.walla.co.il/break/3822768
+COUNTER:18
 https://hamal.co.il/main/השר-מיקי-זוהר-סיכוי-גבוה-שנחזור-לשחק-בשבוע-הבא-רענן-ברנוב-250083
 https://hamal.co.il/main/--250084
 https://hamal.co.il/main/מסרי-לנקה-ועד-זנזיבר-טיסות-חילוץ-לישראלים-גם-מיעדים-אקזוטיי-250085
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823350
 https://hamal.co.il/main/חשבתם-שפספסתם-את-הפיצויים-יש-לכם-הזדמנות-אחרונה-בהחלט-251103
 https://hamal.co.il/main/בשיא-המבצע---צהל-מותח-את-הכוחות-בין-הזירות-השונות-251135
 https://hamal.co.il/main/תיעוד-מיוחד-משמי-טהרן-חיל-האוויר-תקף-מחסומים-וחיילים-של-יחי-251137
+https://news.walla.co.il/item/3823358
+https://hamal.co.il/main/דיווח-אירוע-ירי-בבית-כנסת-במישיגן-251139
