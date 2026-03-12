@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/רוסטם-גולומוב-הוא-אחד-מ-2-ההרוגים-מהנפילה-ביהוד-249922
-https://news.walla.co.il/item/3822674
-https://news.walla.co.il/item/3822680
-https://news.walla.co.il/break/3822679
-https://hamal.co.il/main/יור-הפרלמנט-האיראני-נגד-הפסקת-אש-נשבור-את-המעגל-הזה-249923
+COUNTER:1
 https://hamal.co.il/main/חנן-בן-ארי-נ-249924
 https://news.walla.co.il/item/3822686
 https://news.walla.co.il/item/3822687
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3823238
 https://news.walla.co.il/item/3823239
 https://hamal.co.il/main/כ״ץ-הנחה-את-צה״ל-להיערך-להרחבת-הפעולה-בלבנון-״ניקח-את-השטח״-250970
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250971
+https://news.walla.co.il/item/3823241
+https://e.walla.co.il/item/3823244
+https://news.walla.co.il/item/3823248
+https://hamal.co.il/main/צה״ל-תקף-אתר-גרעין-נוסף-בטהרן-250972
+https://hamal.co.il/main/הסיע-שבח״ים---והפקיר-את-ביתו-בת-ה-3-כשנתפס-במחסום-250973
