@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/השר-מיקי-זוהר-סיכוי-גבוה-שנחזור-לשחק-בשבוע-הבא-רענן-ברנוב-250083
-https://hamal.co.il/main/--250084
-https://hamal.co.il/main/מסרי-לנקה-ועד-זנזיבר-טיסות-חילוץ-לישראלים-גם-מיעדים-אקזוטיי-250085
-https://hamal.co.il/main/נ-הגיע-לניחום-משפחתרסל-מאהר-חטאר-זל-אני-כאן-בשם-מדינה-ש-250086
-https://news.walla.co.il/item/3822775
+COUNTER:0
 https://news.walla.co.il/item/3822759
 https://news.walla.co.il/item/3822772
 https://hamal.co.il/main/אמברגו-לפרסום-היום-ג-בשעה-1630-דובר-צהל-הושלם-הת-250090
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בשיא-המבצע---צהל-מותח-את-הכוחות
 https://hamal.co.il/main/תיעוד-מיוחד-משמי-טהרן-חיל-האוויר-תקף-מחסומים-וחיילים-של-יחי-251137
 https://news.walla.co.il/item/3823358
 https://hamal.co.il/main/דיווח-אירוע-ירי-בבית-כנסת-במישיגן-251139
+https://news.walla.co.il/item/3823354
+https://news.walla.co.il/item/3823274
+https://news.walla.co.il/break/3823361
+https://hamal.co.il/main/תיעוד-חד-פעמי-מה-מספרות-מצלמות-הגוף-של-כוחותינו-בדרום-לבנון-251140
+https://hamal.co.il/main/יותר-מ-20-מגדלים-קרסו-כח-רדואן-מאוים-רובע-הדאחיה-בוער-251146
