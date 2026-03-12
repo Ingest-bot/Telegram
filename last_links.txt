@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3822735
-https://hamal.co.il/main/קנדה-יריות-נורו-לעבר-הקונסוליה-האמריקנית-בטורונטו-אין-נפגע-250081
+COUNTER:17
 https://travel.walla.co.il/item/3822767
 https://news.walla.co.il/break/3822768
 https://hamal.co.il/main/השר-מיקי-זוהר-סיכוי-גבוה-שנחזור-לשחק-בשבוע-הבא-רענן-ברנוב-250083
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אישום-חמור-4-קטינים-בני-16-ביצעו
 https://news.walla.co.il/break/3823349
 https://news.walla.co.il/break/3823350
 https://hamal.co.il/main/חשבתם-שפספסתם-את-הפיצויים-יש-לכם-הזדמנות-אחרונה-בהחלט-251103
+https://hamal.co.il/main/בשיא-המבצע---צהל-מותח-את-הכוחות-בין-הזירות-השונות-251135
+https://hamal.co.il/main/תיעוד-מיוחד-משמי-טהרן-חיל-האוויר-תקף-מחסומים-וחיילים-של-יחי-251137
