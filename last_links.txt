@@ -1,5 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3822754
+COUNTER:10
 https://news.walla.co.il/item/3822755
 https://hamal.co.il/main/סערה-בערבה-צהל-מצמצם-את-כיתות-הכוננות---הרבשצים-זועמים-249948
 https://hamal.co.il/main/אסטרטגיה-של-שחיקה-איראן-בונה-על-זה-שנתמוטט-כלכלית-249956
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823332
 https://hamal.co.il/main/צומת-תפוח-2-חשודים-ניסו-לדרוס-כוחות-שהספיקו-לירות-לכיוונם-251085
 https://news.walla.co.il/break/3823337
 https://hamal.co.il/main/מחבלים-ירו-לעמדת-צהל-מעצור-בנשק-הוביל-אותם-להימלט-ולדרוס-251088
+https://hamal.co.il/main/חשד-לחדירת-כטבם-אזעקות-בקרית-שמונה-והסביבה-251111
