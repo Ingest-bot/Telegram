@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/היחידה-המסוכנת-של-חיזבאללה-השתקמה---ונפרסה-זה-מאתגר-מאוד-249974
-https://news.walla.co.il/item/3822760
-https://news.walla.co.il/break/3822761
-https://hamal.co.il/main/כל-לוחם-יהיה-טייס-קרב-צבא-ארהב-קונה-מאלביט-את-קסדת-החמקן-249978
+COUNTER:14
 https://hamal.co.il/main/הרמטכל-על-המבצע-כרגע-ממשיכים-כרגיל-יש-עוד-הרבה-עבודה-250009
 https://hamal.co.il/main/משרד-הרווחה-יקדם-מרכזים-מוגנים-לקשישים-ולאנשים-עם-מוגבלות-250017
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בביירות-250079
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הרמטכל-המערכה-בצפון-לא-תהיה-קצ
 https://news.walla.co.il/break/3823343
 https://hamal.co.il/main/נתניהו-על-פרשת-כוח-100-עלילת-הדם-הגיעה-לקיצה-251119
 https://hamal.co.il/main/דובר-צהל-הבטיח-וקיים-המבנה-שקיבל-אזהרת-פינוי-בביירות-הותקף-251126
+https://news.walla.co.il/item/3823284
+https://news.walla.co.il/item/3823348
+https://news.walla.co.il/break/3823347
+https://hamal.co.il/main/אישום-חמור-4-קטינים-בני-16-ביצעו-עבירות-מין-בבת-14-251128
