@@ -1,12 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3822619
-https://news.walla.co.il/break/3822620
-https://news.walla.co.il/break/3822621
-https://news.walla.co.il/break/3822622
-https://hamal.co.il/main/חיל-האוויר-תקף-נכסים-כלכליים-של-249870
-https://travel.walla.co.il/item/3822531
-https://news.walla.co.il/item/3822627
-https://e.walla.co.il/item/3822631
+COUNTER:6
 https://news.walla.co.il/break/3822625
 https://hamal.co.il/main/הפיצוץ-בשגרירות-ארהב-באוסלו-התיעוד-של-החשוד---והסרטון-של-ח-249734
 https://e.walla.co.il/item/3822633
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3823177
 https://hamal.co.il/main/נעצר-החשוד-שפרץ-מחסום-עם-רכב-גנוב-ודרס-שוטר-וחיילת-250904
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-250906
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250924
+https://news.walla.co.il/item/3823182
+https://travel.walla.co.il/item/3823183
+https://news.walla.co.il/item/3823185
+https://news.walla.co.il/break/3823184
+https://hamal.co.il/main/דובר-צה״ל-בערבית-באזהרת-פינוי-לתושבי-לבנון-250926
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250928
+https://hamal.co.il/main/דיווח-הדי-פיצוצים-נשמעים-בדובאי-250929
+https://hamal.co.il/main/חכ-ביסמוט-ישראל-שוקלת-גם-תקיפה-של-תשתיות-לאומיות-בלבנון-250931
