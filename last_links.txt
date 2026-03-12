@@ -1,8 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/שוטרי-מחוז-חוף-סיכלו-חוליית-חיסול-בדרך-לביצוע-רצח-בכביש-85--250134
-https://hamal.co.il/main/הפגיעה-הישירה-בתחנת-הלווינים-הרגישה-בעמק-האלה-250136
-https://news.walla.co.il/item/3822830
-https://news.walla.co.il/item/3822826
 https://news.walla.co.il/break/3822827
 https://hamal.co.il/main/הרמטכ״ל-לטכנאים-בבסיס-תל-נוף-״המכונה-האופרטיבית-הזאת-של-חיל-250135
 https://hamal.co.il/main/וויטקוף-השמדנו-כמעט-לחלוטין-את-יכולת-העשרת-האורניום-של-איר-250137
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823394
 https://news.walla.co.il/break/3823395
 https://hamal.co.il/main/צהל-תקף-מפקדות-של-ארגון-הטרור-חיזבאללה-בביירות-ובדרום-לבנון-251186
 https://hamal.co.il/main/צבא-ארהב-מטוס-תדלוק-אמריקני-התרסק-במהלך-המבצע-נגד-איראן-פ-251187
+https://news.walla.co.il/blog/3823397
+https://news.walla.co.il/item/3822947
+https://news.walla.co.il/item/3823278
+https://news.walla.co.il/item/3822763
