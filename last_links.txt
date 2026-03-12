@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/הרמטכל-על-המבצע-כרגע-ממשיכים-כרגיל-יש-עוד-הרבה-עבודה-250009
-https://hamal.co.il/main/משרד-הרווחה-יקדם-מרכזים-מוגנים-לקשישים-ולאנשים-עם-מוגבלות-250017
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בביירות-250079
+COUNTER:15
 https://news.walla.co.il/item/3822735
 https://hamal.co.il/main/קנדה-יריות-נורו-לעבר-הקונסוליה-האמריקנית-בטורונטו-אין-נפגע-250081
 https://travel.walla.co.il/item/3822767
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823284
 https://news.walla.co.il/item/3823348
 https://news.walla.co.il/break/3823347
 https://hamal.co.il/main/אישום-חמור-4-קטינים-בני-16-ביצעו-עבירות-מין-בבת-14-251128
+https://news.walla.co.il/break/3823349
+https://news.walla.co.il/break/3823350
+https://hamal.co.il/main/חשבתם-שפספסתם-את-הפיצויים-יש-לכם-הזדמנות-אחרונה-בהחלט-251103
