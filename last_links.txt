@@ -1,8 +1,4 @@
-COUNTER:10
-https://e.walla.co.il/item/3822645
-https://news.walla.co.il/item/3822644
-https://news.walla.co.il/item/3822653
-https://news.walla.co.il/break/3822654
+COUNTER:12
 https://hamal.co.il/main/לקראת-תקיפות-צהל-בהודעת-פינוי-למבנים-בצור-וצידון-249878
 https://hamal.co.il/main/מתחילת-המבצע-באיראן-249879
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-249881
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823201
 https://hamal.co.il/main/מערכת-החינוך-תיפתח-באיזורים-מסויימים-הבקשה-של-משרד-החינוך-250936
 https://hamal.co.il/main/ההרס-בדאחייה-לאחר-התקיפות-250939
 https://hamal.co.il/main/הפלמ״חניקית-שראתה-את-כל-מלחמות-ישראל-״חייבים-לציית-להנחיות״-250945
+https://news.walla.co.il/item/3823211
+https://news.walla.co.il/break/3823208
+https://hamal.co.il/main/אורי-גלר-מרגיע-לימדתי-את-נתניהו-וטראמפ-לתקשר-בטלפתיה-250947
+https://hamal.co.il/main/אורי-גלר-מרגיע-לימדתי-את-נתניהו-וטראמפ-לתקשר-בטלפתיה-250949
