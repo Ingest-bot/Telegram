@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3822785
-https://hamal.co.il/main/סוכל-בזמן-אמת-צה״ל-זיהה-והשמיד-משגר-של-חיזבאללה-במהלך-נסיו-250097
-https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250098
-https://news.walla.co.il/break/3822789
+COUNTER:6
 https://hamal.co.il/main/בלבנון-רוצים-מומ-ישיר-לסיום-המלחמה-בישראל-דורשים-פרקו-קוד-250096
 https://hamal.co.il/main/אזעקות-יישמעו-בדקות-הקרובות-במרכז-הארץ-עקב-שיגורים-מאיראן-250100
 https://hamal.co.il/main/אזעקות-נשמעות-באזור-ירושלים-והסביבה-250104
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823362
 https://hamal.co.il/main/השריף-על-הירי-במישיגן-251151
 https://hamal.co.il/main/הקונסול-הכללי-של-ישראל-251152
 https://hamal.co.il/main/נעילה-שלילית-בתא-המדדים-המובילים-צנחו-השקל-נחלש-מול-הדולר-251150
+https://e.walla.co.il/item/3823371
+https://hamal.co.il/main/יקנעם-251156
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-251157
+https://hamal.co.il/main/מסיבת-עיתונאים-של-ראש-הממשלה-נתניהו--ישיר-251160
