@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3822601
-https://news.walla.co.il/break/3822604
+COUNTER:16
 https://news.walla.co.il/break/3822606
 https://news.walla.co.il/break/3822605
 https://news.walla.co.il/break/3822609
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823149
 https://news.walla.co.il/break/3823150
 https://hamal.co.il/main/מז-250894
 https://hamal.co.il/main/צה״ל-עבר-לתצורת-״ציד״-בדרום-ובקעת-הלבנון-250896
+https://news.walla.co.il/item/3823151
+https://hamal.co.il/main/דיווח-סיכול-ממוקד-של-מפקד-בסיס-חיל-האוויר-האיראני-250897
