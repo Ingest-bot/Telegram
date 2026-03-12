@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3822613
-https://news.walla.co.il/break/3822614
-https://hamal.co.il/main/ניווט-בטוח-התיכוניסט-שבנה-אתר-ניווט-שישאיר-אתכם-בקרבת-מקלט-249736
-https://news.walla.co.il/item/3822616
-https://news.walla.co.il/item/3822582
+COUNTER:2
 https://news.walla.co.il/break/3822619
 https://news.walla.co.il/break/3822620
 https://news.walla.co.il/break/3822621
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3823171
 https://news.walla.co.il/break/3823166
 https://news.walla.co.il/break/3823168
 https://hamal.co.il/main/סעודיה-יירטנו-רחפן-שהיה-בדרכו-לשדה-נפט-250903
+https://news.walla.co.il/item/3823178
+https://news.walla.co.il/break/3823177
+https://hamal.co.il/main/נעצר-החשוד-שפרץ-מחסום-עם-רכב-גנוב-ודרס-שוטר-וחיילת-250904
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-250906
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250924
