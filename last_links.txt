@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3822719
-https://news.walla.co.il/item/3822720
-https://hamal.co.il/main/הממשלה-תאשר-המצב-249961
+COUNTER:14
 https://hamal.co.il/main/הממשלה-תאשר-249962
 https://hamal.co.il/main/מזל-טוב-יהודה-לוי-ודנה-פרידר-הפכו-להורים-249966
 https://hamal.co.il/main/ברגע-האחרון-תקציב-הביטחון-קפץ-בעוד-31-מיליארד-249979
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-חיסל-את-מפקד-מרחב-דרום-לבנ�
 https://news.walla.co.il/item/3823283
 https://hamal.co.il/main/דיווח-מוג׳תבא-חמינאי-ימסור-הצהרה-ראשונה-251013
 https://hamal.co.il/main/מעצרים-והחרמת-אמל״ח-כוחות-חטיבת-בנימין-השלימו-מבצע-בקלנדיה-251014
+https://news.walla.co.il/item/3823289
+https://news.walla.co.il/break/3823290
+https://hamal.co.il/main/מעל-ל-250-כטב״מים-הותקפו-באיראן-251021
