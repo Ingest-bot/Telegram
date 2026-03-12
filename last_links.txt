@@ -1,10 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3822609
-https://news.walla.co.il/item/3822610
-https://hamal.co.il/main/טאם-איראן-תפסיק-את-זרימת-הנפט---היא-תספוג-מכה-חזקה-פי-עשרים-249857
-https://hamal.co.il/main/בהיר-עם-עלייה-קלה-בטמפרטורות--תחזית-מזג-האוויר-249862
-https://news.walla.co.il/break/3822611
-https://hamal.co.il/main/צהל-ביצע-בשעה-האחרונה-ירי-ארטילרי-לעבר-מחנה-הפליטים-אל-בורי-249863
+COUNTER:18
 https://hamal.co.il/main/כוח-מיוחד-של-צהל-ביצע-מעצרים-של-חשודים-מצפון-לטול-כרם-249864
 https://news.walla.co.il/item/3822587
 https://news.walla.co.il/item/3822612
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3823151
 https://hamal.co.il/main/דיווח-סיכול-ממוקד-של-מפקד-בסיס-חיל-האוויר-האיראני-250897
 https://news.walla.co.il/item/3823157
 https://news.walla.co.il/break/3823155
+https://e.walla.co.il/item/3823162
+https://news.walla.co.il/item/3823160
+https://travel.walla.co.il/item/3823012
+https://news.walla.co.il/break/3823165
+https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבת-׳ההרים׳-810-בהר-דב-הלבנוני-250898
+https://hamal.co.il/main/חיזבאללה-התארגן-ויש-לו-מה-לירות-250902
