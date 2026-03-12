@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/פרשת-ההברחות-לעזה-השופט-הורה-לשחרר-את-בצלאל-זיני-ממעצר-249959
-https://hamal.co.il/main/צהל-תקפנו-אתר-תת-קרקעי-ששימש-ל-249960
-https://news.walla.co.il/item/3822718
+COUNTER:13
 https://news.walla.co.il/item/3822719
 https://news.walla.co.il/item/3822720
 https://hamal.co.il/main/הממשלה-תאשר-המצב-249961
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823279
 https://hamal.co.il/main/כולל-טורקיה-27-המדינות-שאסור-לישראלים-להיכנס-אליהן-כיום-251004
 https://hamal.co.il/main/מאות-עסקים-כבר-פורסמו-חמ״ל-למען-תושבי-הצפון-251007
 https://hamal.co.il/main/צהל-חיסל-את-מפקד-מרחב-דרום-לבנון-ביחידת-כוח-רדואן-251009
+https://news.walla.co.il/item/3823283
+https://hamal.co.il/main/דיווח-מוג׳תבא-חמינאי-ימסור-הצהרה-ראשונה-251013
+https://hamal.co.il/main/מעצרים-והחרמת-אמל״ח-כוחות-חטיבת-בנימין-השלימו-מבצע-בקלנדיה-251014
