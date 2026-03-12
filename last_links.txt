@@ -1,5 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/ישראל-זינקה-ב-56-בייצוא-נשק-עקפה-לראשונה-את-בריטניה-250089
+COUNTER:14
 https://hamal.co.il/main/צהל-חושף-הושמדו-מרבית-הנכסים-המרכזיים-של-כוחות-ביטחון-הפני-250133
 https://e.walla.co.il/item/3822818
 https://news.walla.co.il/item/3822807
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3823387
 https://news.walla.co.il/break/3823389
 https://hamal.co.il/main/בית-החולים-מעייני-הישועה-בבני-ברק-ילד-אובחן-כחולה-חצבת-251179
 https://hamal.co.il/main/דיווח-251184
+https://hamal.co.il/main/חמושים-נוטרלו-ע״י-צלפי-ימ״ס-במהלך-סכסוך-פנימי-בכפר-סילוואן-251185
