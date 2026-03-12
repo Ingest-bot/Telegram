@@ -1,13 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/דקות-לפני-השיגור-לישראל-צהל-תקף-משגר-טילים-באיראן--צפו-250021
-https://hamal.co.il/main/שר-ההגנה-האמריקני-היום-יהיו-התקיפות-האינטנסיביות-ביותר-שה-250023
-https://hamal.co.il/main/הרמטכל-האמריקני-השיגורים-באיראן-ירדו-ב-90-250024
-https://news.walla.co.il/break/3822741
-https://news.walla.co.il/break/3822742
-https://news.walla.co.il/break/3822743
-https://news.walla.co.il/break/3822745
-https://news.walla.co.il/break/3822744
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-הארץ-250026
+COUNTER:7
 https://hamal.co.il/main/60-מהישראלים-ששהו-בחו״ל-ערב-המלחמה---שבו-ארצה-250054
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילה-במרכז-לא-דווח-על-נפגעים-250057
 https://news.walla.co.il/item/3822747
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3823315
 https://news.walla.co.il/break/3823316
 https://hamal.co.il/main/בתום-מצוד-החשוד-בדקירה-ברמת-גן-נעצר-251072
 https://hamal.co.il/main/הפצר-החליט-על-ביטול-כתב-האישום-בפרשת-שדה-תימן-251075
+https://e.walla.co.il/item/3823266
+https://news.walla.co.il/break/3823321
+https://news.walla.co.il/break/3823323
+https://news.walla.co.il/break/3823324
+https://news.walla.co.il/break/3823325
+https://news.walla.co.il/break/3823326
+https://hamal.co.il/main/אורב-לקורבן-דוקר-ונמלט-תיעוד-קשה-מהפיגוע-ברמת-גן--צפו-251078
+https://hamal.co.il/main/הפצוע-בפיגוע-ברמת-גן---יור-המועצה-הדתית-בעיר-251081
+https://hamal.co.il/main/אריה-דרעי-על-הפיגוע-ברמת-גן-מזועזע-עד-עמקי-נשמתי-251082
