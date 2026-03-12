@@ -1,5 +1,4 @@
 COUNTER:11
-https://hamal.co.il/main/סער-ישראל-אינה-שואפת-למלחמה-בלתי-פוסקת-עם-איראן-רויטרס-3-250129
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250132
 https://news.walla.co.il/item/3822812
 https://news.walla.co.il/item/3822814
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823381
 https://hamal.co.il/main/דונלד-טראמפ-לא-ראוי-שנבחרת-איראן-תשתתף-במונדיאל-251132
 https://hamal.co.il/main/כשהאזעקות-במרכז-אלפי-ישראלים-מצאו-מפלט-ברמת-הנגב-251108
 https://hamal.co.il/main/חשד-נערה-בת-17-רצה-למרחב-המוגן---ונדרסה-למוות-251171
+https://news.walla.co.il/break/3823387
