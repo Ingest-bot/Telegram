@@ -1,6 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/break/3822606
-https://news.walla.co.il/break/3822605
 https://news.walla.co.il/break/3822609
 https://news.walla.co.il/item/3822610
 https://hamal.co.il/main/טאם-איראן-תפסיק-את-זרימת-הנפט---היא-תספוג-מכה-חזקה-פי-עשרים-249857
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מז-250894
 https://hamal.co.il/main/צה״ל-עבר-לתצורת-״ציד״-בדרום-ובקעת-הלבנון-250896
 https://news.walla.co.il/item/3823151
 https://hamal.co.il/main/דיווח-סיכול-ממוקד-של-מפקד-בסיס-חיל-האוויר-האיראני-250897
+https://news.walla.co.il/item/3823157
+https://news.walla.co.il/break/3823155
