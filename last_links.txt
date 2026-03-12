@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3822664
-https://news.walla.co.il/item/3822671
-https://news.walla.co.il/break/3822667
-https://hamal.co.il/main/נתניהו-נפגש-עם-ראשי-רשויות-ברחבי-הארץ-יש-לך-את-הגב-להמשיך-249920
-https://hamal.co.il/main/מחקר-חדש-האם-המאכלים-הפופולרים-האלה-מכילים-רעלנים-249869
+COUNTER:19
 https://hamal.co.il/main/רוסטם-גולומוב-הוא-אחד-מ-2-ההרוגים-מהנפילה-ביהוד-249922
 https://news.walla.co.il/item/3822674
 https://news.walla.co.il/item/3822680
@@ -499,3 +494,8 @@ https://hamal.co.il/main/התגובה-לחיזבאללה-״תהיה-משמעות
 https://news.walla.co.il/break/3823231
 https://hamal.co.il/main/מומחי-גסטרו-הירק-הזה-הכי-תורם-לבריאות-המעיים-250958
 https://hamal.co.il/main/רב-עם-אשתו---וחטף-את-בנותיו-הפעוטות-לשטחים-250964
+https://e.walla.co.il/item/3823228
+https://news.walla.co.il/item/3823238
+https://news.walla.co.il/item/3823239
+https://hamal.co.il/main/כ״ץ-הנחה-את-צה״ל-להיערך-להרחבת-הפעולה-בלבנון-״ניקח-את-השטח״-250970
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250971
