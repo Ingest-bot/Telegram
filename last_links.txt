@@ -1,8 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3822759
-https://news.walla.co.il/item/3822772
-https://hamal.co.il/main/אמברגו-לפרסום-היום-ג-בשעה-1630-דובר-צהל-הושלם-הת-250090
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-250095
+COUNTER:2
 https://news.walla.co.il/break/3822787
 https://news.walla.co.il/break/3822785
 https://hamal.co.il/main/סוכל-בזמן-אמת-צה״ל-זיהה-והשמיד-משגר-של-חיזבאללה-במהלך-נסיו-250097
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3823274
 https://news.walla.co.il/break/3823361
 https://hamal.co.il/main/תיעוד-חד-פעמי-מה-מספרות-מצלמות-הגוף-של-כוחותינו-בדרום-לבנון-251140
 https://hamal.co.il/main/יותר-מ-20-מגדלים-קרסו-כח-רדואן-מאוים-רובע-הדאחיה-בוער-251146
+https://news.walla.co.il/item/3823363
+https://news.walla.co.il/break/3823362
+https://hamal.co.il/main/השריף-על-הירי-במישיגן-251151
+https://hamal.co.il/main/הקונסול-הכללי-של-ישראל-251152
