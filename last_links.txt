@@ -1,5 +1,4 @@
-COUNTER:10
-https://e.walla.co.il/item/3822580
+COUNTER:11
 https://hamal.co.il/main/בהמשך-לירי-לצפון-הארץ-לא-ידוע-על-נפגעים-249836
 https://news.walla.co.il/break/3822596
 https://news.walla.co.il/break/3822597
@@ -499,3 +498,4 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-דווח-על-נפגעים-250867
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-פריטי-אמלח-בגזרת-מרחב-מנשה-250868
 https://hamal.co.il/main/אינדונזיה-שליחת-כוחות-לעזה-תלויה-בהלך-הרוח-במועצת-בשלום-250870
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-250872
