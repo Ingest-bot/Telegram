@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/וויטקוף-השמדנו-כמעט-לחלוטין-את-יכולת-העשרת-האורניום-של-איר-250137
-https://hamal.co.il/main/אזעקות-בשורת-יישובים-בגליל-העליון-מחשש-לחדירת-כלי-טיס-עוין-250145
+COUNTER:18
 https://hamal.co.il/main/הצהרת-דובר-צהל-250151
 https://hamal.co.il/main/בתקיפה-לילית-מדויקת-בדרום-לבנון-צהל-מאשר-כי-חוסל-מפקד-יחיד-250152
 https://hamal.co.il/main/אזעקות-צפויות-להישמע-בדקות-הקרובות-במרכז-הארץ-250154
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823278
 https://news.walla.co.il/item/3822763
 https://news.walla.co.il/break/3823398
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-251192
+https://news.walla.co.il/break/3823399
+https://hamal.co.il/main/אזעקות-נשמעו-ברמת-הגולן-עקב-חדירת-כלי-טיס-עוין-251196
