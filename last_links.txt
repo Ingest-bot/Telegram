@@ -1,6 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/בזמן-האזעקה---חשוד-פרץ-לביתו-של-שורד-השבי-בר-קופרשטיין-הודיה-250205
-https://hamal.co.il/main/יועז-הנדל-נעלם-מאז-תחילת-המלחמה---וזו-הסיבה-לכך-בזמן-שראש-250206
+COUNTER:15
 https://news.walla.co.il/break/3822855
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-250208
 https://hamal.co.il/main/השיגור-מאיראן-ככהנ-מדובר-בהתראת-שווא-250210
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823421
 https://news.walla.co.il/break/3823430
 https://news.walla.co.il/break/3823431
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-251331
+https://hamal.co.il/main/ב-3-ערים-במקביל-אלו-המטרות-שחיל-האוויר-תקף-באיראן-251334
+https://hamal.co.il/main/בצהל-מעריכים-זה-מספר-פעילי-251332
