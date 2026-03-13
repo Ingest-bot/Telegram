@@ -1,6 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3822902
-https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250341
+COUNTER:13
 https://hamal.co.il/main/סגירת-מעגל-250342
 https://news.walla.co.il/item/3822911
 https://news.walla.co.il/item/3822909
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823341
 https://hamal.co.il/main/בהתאם-להערכת-המצב-הרב-זירתית-צהל-מתגבר-כוחות-בפיקוד-הצפון-251410
 https://hamal.co.il/main/כמעט-שבועיים-לפתיחת-מבצע-שאגת-הארי--תמונת-מצב-251408
 https://news.walla.co.il/item/3823493
+https://news.walla.co.il/item/3823495
+https://hamal.co.il/main/צוותי-מדא-יצאו-לסריקות-במספר-ערים-ברחבי-הארץ-251431
