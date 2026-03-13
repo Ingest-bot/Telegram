@@ -1,5 +1,4 @@
 COUNTER:3
-https://hamal.co.il/main/150-חיילים-אמריקנים-נפצעו-עד-כה-במלחמה-עם-איראן-250181
 https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמים-כעת-את-חוק-הגיוס-בצד-250186
 https://news.walla.co.il/item/3822839
 https://hamal.co.il/main/יחידות-קטנות-בלי-מכשירי-קשר-חיזבאללה-יישם-לקחים-מהמלחמה-הק-250187
@@ -499,3 +498,4 @@ https://hamal.co.il/main/כדי-למתן-את-מחירי-האנרגיה-ארהב
 https://news.walla.co.il/item/3823415
 https://news.walla.co.il/break/3823417
 https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-251315
+https://news.walla.co.il/break/3823418
