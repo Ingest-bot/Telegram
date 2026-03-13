@@ -1,10 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3822877
-https://news.walla.co.il/item/3822878
-https://news.walla.co.il/item/3822786
-https://news.walla.co.il/break/3822872
-https://news.walla.co.il/break/3822873
-https://news.walla.co.il/break/3822874
+COUNTER:14
 https://news.walla.co.il/break/3822875
 https://news.walla.co.il/break/3822879
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-250315
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3823462
 https://news.walla.co.il/item/3823459
 https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-תקף-נכסים-של-חיזבאללה-בלבנון-251339
 https://hamal.co.il/main/פרשת-׳ויקהל-פקודי׳-המילה-שנכתבה-רק-פעם-אחת-והמסר-לאחדות-העם-251344
+https://news.walla.co.il/item/3823396
+https://news.walla.co.il/break/3823463
+https://news.walla.co.il/break/3823464
+https://news.walla.co.il/break/3823466
+https://hamal.co.il/main/תיעוד-נשיא-איראן-ושר-החוץ-צועדים-ברחובות-טהרן-251370
+https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בצפון-פצועה-קל-במקום-251371
