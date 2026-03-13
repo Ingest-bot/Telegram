@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3822923
-https://hamal.co.il/main/אנטישמיות-בעמק-הסיליקון-ישראלים-הותקפו-מחוץ-למסעדה-לאחר-שד-250349
-https://news.walla.co.il/item/3822954
-https://hamal.co.il/main/בישראל-מעריכים-זה-מצבו-הרפואי-של-מוגתבא-חמינאי-250350
-https://news.walla.co.il/item/3822958
+COUNTER:4
 https://news.walla.co.il/item/3822934
 https://hamal.co.il/main/נשיא-פיפא-טראמפ-הבהיר-שאיראן-מוזמנת-למונדיאל-בארהב-250353
 https://travel.walla.co.il/item/3822961
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-בכביש-431-נפער-בור-משברי-י
 https://hamal.co.il/main/3-מוקדים-שונים-במרכז-הארץ-251484
 https://news.walla.co.il/break/3823527
 https://hamal.co.il/main/המטח-האחרון-שריפות-פרצו-בשהם-וראשון-לציון-251485
+https://news.walla.co.il/break/3823528
+https://news.walla.co.il/break/3823529
+https://hamal.co.il/main/צהל-כוחותינו-פועלים-בזירת-הנפילה-במרכז-הארץ-251486
+https://hamal.co.il/main/פעילות-המשטרה-בזירות-הנפילה-השונות-251488
+https://hamal.co.il/main/צהל-אנחנו-תוקפים-בטהרן-כעת-251489
