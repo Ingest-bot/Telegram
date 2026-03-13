@@ -1,6 +1,4 @@
-COUNTER:8
-https://e.walla.co.il/item/3822981
-https://news.walla.co.il/item/3822952
+COUNTER:9
 https://news.walla.co.il/break/3822976
 https://news.walla.co.il/break/3822978
 https://news.walla.co.il/break/3822979
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823541
 https://hamal.co.il/main/רץ-ברשת-צעיר-תועד-כשהוא-מונע-מאנשים-להיכנס-למקלט-251497
 https://hamal.co.il/main/חשד-לניסיון-רצח-באום-אל-פחם-גבר-במצב-אנוש-251498
 https://hamal.co.il/main/גבר-כבן-25-במצב-אנוש-אירוע-ירכי-באום-אל-פחם-251499
+https://news.walla.co.il/item/3823541
+https://hamal.co.il/main/צהל-חיל-האוויר-חיסל-בכיר-חיזבאללה-251500
