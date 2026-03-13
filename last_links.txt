@@ -1,6 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/רימונים-בכיס-המעיל-נער-250359
-https://hamal.co.il/main/31-שבחים-נתפסו-בבני-ברק-המלין-בן-89-נעצר-250360
+COUNTER:17
 https://hamal.co.il/main/כץ-המבצע-באיראן-יימשך-250361
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-250368
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-בכל-האזורים-250404
@@ -499,3 +497,5 @@ https://hamal.co.il/main/האיראנים-בהודעת-פינוי-251530
 https://news.walla.co.il/break/3823551
 https://news.walla.co.il/break/3823552
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-בחשד-לחדירת-כלי-טיס-עוין-251537
+https://news.walla.co.il/item/3823553
+https://hamal.co.il/main/פיקוד-העורף-הסתיים-אירוע-חדירת-הכטבם-בגליל-251538
