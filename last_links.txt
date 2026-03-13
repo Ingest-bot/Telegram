@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3822972
-https://hamal.co.il/main/בגיל-75-שדר-הכדורגל-בני-פייסיק-הלך-לעולמו-250355
-https://hamal.co.il/main/נשיא-פיפא-טראמפ-הבהיר-שאיראן-מוזמנת-למונדיאל-בארהב-250352
-https://travel.walla.co.il/item/3822969
+COUNTER:8
 https://e.walla.co.il/item/3822981
 https://news.walla.co.il/item/3822952
 https://news.walla.co.il/break/3822976
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823534
 https://news.walla.co.il/item/3823536
 https://news.walla.co.il/break/3823537
 https://hamal.co.il/main/המוסד-מזהיר-את-האיראנים-תימנעו-מהתקהלות-של-הבסיג-251494
+https://news.walla.co.il/break/3823541
+https://hamal.co.il/main/רץ-ברשת-צעיר-תועד-כשהוא-מונע-מאנשים-להיכנס-למקלט-251497
+https://hamal.co.il/main/חשד-לניסיון-רצח-באום-אל-פחם-גבר-במצב-אנוש-251498
+https://hamal.co.il/main/גבר-כבן-25-במצב-אנוש-אירוע-ירכי-באום-אל-פחם-251499
