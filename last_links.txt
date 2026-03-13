@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-במרכז-הארץ-250215
-https://news.walla.co.il/item/3822860
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250232
+COUNTER:0
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250235
 https://hamal.co.il/main/קיצוצי-המיליונים-בשירותים-החברתיים-בעקבות-המלחמה-250238
 https://news.walla.co.il/blog/3822863
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823438
 https://hamal.co.il/main/החשד-לפיגוע-מתחזק-251335
 https://hamal.co.il/main/הגיעו-עם-אופנוע-גנוב-כדי-לגנוב-אחד-נוסף---ונעצרו-251336
 https://hamal.co.il/main/קיר-קרס-על-פועל-באתר-בנייה-בנשר-251337
+https://news.walla.co.il/break/3823439
+https://hamal.co.il/main/הפיץ-תמונות-אינטימיות-של-ב-251338
+https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-תקף-נכסים-של-חיזבאללה-בלבנון-251340
