@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3822886
-https://hamal.co.il/main/דיווח-הטקטיקה-החדשה-של-איראן-במלחמה-250330
+COUNTER:5
 https://news.walla.co.il/item/3822891
 https://news.walla.co.il/break/3822892
 https://hamal.co.il/main/נכחדו-לפני-6000-שנים-נמצאו-לפתע-בחיים-249871
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שר-ההגנה-האמריקני-נשמיד-את-התע
 https://hamal.co.il/main/הרמטכל-האמריקני--251398
 https://news.walla.co.il/item/3823478
 https://hamal.co.il/main/הגסת׳-גאים-לשתף-פעולה-עם-ישראל-אבל-יש-לנו-מטרות-משלנו-251401
+https://news.walla.co.il/item/3823481
+https://hamal.co.il/main/6-פצועים-בתאונת-דרכים-סמוך-לכפר-קרע-בהם-2-במצב-קשה-251402
