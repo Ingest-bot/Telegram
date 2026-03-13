@@ -1,11 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3822855
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-250208
-https://hamal.co.il/main/השיגור-מאיראן-ככהנ-מדובר-בהתראת-שווא-250210
-https://hamal.co.il/main/בורחים-מהמציאות-באילת-מציעים-100-פעילויות-בחינם-עד-סוף-מרץ-250211
-https://news.walla.co.il/break/3822858
-https://hamal.co.il/main/בסיכולים-ממוקדים-ובחופי-לבנון-הפעילות-המיוחדת-של-חיל-הים-במ-250212
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-ראשוני-צהל-החל-ברגעים-אל-250213
+COUNTER:18
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-במרכז-הארץ-250215
 https://news.walla.co.il/item/3822860
 https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250232
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3823431
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-251331
 https://hamal.co.il/main/ב-3-ערים-במקביל-אלו-המטרות-שחיל-האוויר-תקף-באיראן-251334
 https://hamal.co.il/main/בצהל-מעריכים-זה-מספר-פעילי-251332
+https://news.walla.co.il/item/3822857
+https://e.walla.co.il/item/3823433
+https://news.walla.co.il/item/3823437
+https://news.walla.co.il/break/3823438
+https://hamal.co.il/main/החשד-לפיגוע-מתחזק-251335
+https://hamal.co.il/main/הגיעו-עם-אופנוע-גנוב-כדי-לגנוב-אחד-נוסף---ונעצרו-251336
+https://hamal.co.il/main/קיר-קרס-על-פועל-באתר-בנייה-בנשר-251337
