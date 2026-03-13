@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3822889
-https://hamal.co.il/main/צהל-250338
-https://hamal.co.il/main/באיראן-מכחישים-המנהיג-העליון-250337
+COUNTER:12
 https://news.walla.co.il/item/3822904
 https://news.walla.co.il/break/3822902
 https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250341
@@ -499,3 +496,6 @@ https://hamal.co.il/main/יום-שישי-האחרון-של-חודש-הרמדאן
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-בשל-חשש-לחדירת-כטבם-251407
 https://news.walla.co.il/item/3823488
 https://hamal.co.il/main/׳אמונה-היא-חבל-הצלה-בים-סוער׳-המסר-של-אלוף-אכא-251413
+https://news.walla.co.il/item/3823341
+https://hamal.co.il/main/בהתאם-להערכת-המצב-הרב-זירתית-צהל-מתגבר-כוחות-בפיקוד-הצפון-251410
+https://hamal.co.il/main/כמעט-שבועיים-לפתיחת-מבצע-שאגת-הארי--תמונת-מצב-251408
