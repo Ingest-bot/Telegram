@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3822928
-https://news.walla.co.il/break/3822930
+COUNTER:17
 https://hamal.co.il/main/זלנסקי-טוען-פוטין-ישלח-חיילים-כדי-לסייע-לאיראן-250343
 https://hamal.co.il/main/שלטי-עידוד-במקלטים-יוזמה-קהילתית-מרגשת-בדרך-כרמית-250344
 https://news.walla.co.il/item/3822936
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823510
 https://news.walla.co.il/break/3823511
 https://news.walla.co.il/item/3823506
 https://hamal.co.il/main/הותקפו-יותר-מ-150-מטרות-במערב-ומרכז-איראן-251450
+https://news.walla.co.il/item/3823516
+https://hamal.co.il/main/המסר-החריג-של-המלל-לשוהים-באמירויות-251455
