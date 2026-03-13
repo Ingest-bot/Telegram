@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3822891
-https://news.walla.co.il/break/3822892
-https://hamal.co.il/main/נכחדו-לפני-6000-שנים-נמצאו-לפתע-בחיים-249871
-https://news.walla.co.il/item/3822884
-https://hamal.co.il/main/האזעקות-בצפון-בשל-זיהוי-שווא-250336
+COUNTER:9
 https://hamal.co.il/main/דיווח-זה-250331
 https://e.walla.co.il/item/3822900
 https://news.walla.co.il/item/3822889
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3823478
 https://hamal.co.il/main/הגסת׳-גאים-לשתף-פעולה-עם-ישראל-אבל-יש-לנו-מטרות-משלנו-251401
 https://news.walla.co.il/item/3823481
 https://hamal.co.il/main/6-פצועים-בתאונת-דרכים-סמוך-לכפר-קרע-בהם-2-במצב-קשה-251402
+https://news.walla.co.il/break/3823482
+https://hamal.co.il/main/בעקבטת-251404
+https://hamal.co.il/main/אחרי-איראן-טראמפ-הכריז-על-מלחמה-נוספת---נגד-אויב-מפתיע-251360
+https://hamal.co.il/main/יום-שישי-האחרון-של-חודש-הרמדאן-מפקד-מג״ב-ביקר-במערת-המכפלה-251405
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-בשל-חשש-לחדירת-כטבם-251407
