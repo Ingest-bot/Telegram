@@ -1,9 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/צהל-חיסל-חוליית-שיגור-דקות-לפני-ששיגרה-כטב״ם-מאיראן-250326
-https://news.walla.co.il/break/3822885
-https://news.walla.co.il/break/3822883
-https://hamal.co.il/main/הכטבם-שחדר-לצפון-יורט-פיקוד-העורף-האירוע-הסתיים-250327
-https://hamal.co.il/main/ארון-הברית-נמצא-249876
+COUNTER:3
 https://news.walla.co.il/item/3822888
 https://news.walla.co.il/item/3822887
 https://news.walla.co.il/break/3822886
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823472
 https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-251392
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251394
 https://hamal.co.il/main/גבר-כבן-40-נפצע-באירוע-אלימות-באשדוד-מצבו-קשה-251395
+https://news.walla.co.il/item/3823477
+https://news.walla.co.il/break/3823476
+https://hamal.co.il/main/הרצוג-ציפיתי-שנתניהו-יגנה-את-דברי-טראמפ-251396
+https://hamal.co.il/main/שר-ההגנה-האמריקני-נשמיד-את-התעשיות-של-איראן-251397
+https://hamal.co.il/main/הרמטכל-האמריקני--251398
