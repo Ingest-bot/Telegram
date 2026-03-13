@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3822837
-https://news.walla.co.il/item/3822838
-https://news.walla.co.il/break/3822836
+COUNTER:3
 https://hamal.co.il/main/150-חיילים-אמריקנים-נפצעו-עד-כה-במלחמה-עם-איראן-250181
 https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמים-כעת-את-חוק-הגיוס-בצד-250186
 https://news.walla.co.il/item/3822839
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פונו-19-נפגעים-מהזירה-בזרזיר---ב
 https://hamal.co.il/main/התיעודים-מזירת-הנפילה-בזרזיר-251310
 https://hamal.co.il/main/30-פצועים-בזירה-בזרזיר-251311
 https://hamal.co.il/main/כדי-למתן-את-מחירי-האנרגיה-ארהב-תסיר-זמנית-סנקציות-על-נפט-ר-251312
+https://news.walla.co.il/item/3823415
+https://news.walla.co.il/break/3823417
+https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-251315
