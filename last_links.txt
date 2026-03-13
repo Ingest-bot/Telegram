@@ -1,5 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/item/3822888
 https://news.walla.co.il/item/3822887
 https://news.walla.co.il/break/3822886
 https://hamal.co.il/main/דיווח-הטקטיקה-החדשה-של-איראן-במלחמה-250330
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823476
 https://hamal.co.il/main/הרצוג-ציפיתי-שנתניהו-יגנה-את-דברי-טראמפ-251396
 https://hamal.co.il/main/שר-ההגנה-האמריקני-נשמיד-את-התעשיות-של-איראן-251397
 https://hamal.co.il/main/הרמטכל-האמריקני--251398
+https://news.walla.co.il/item/3823478
