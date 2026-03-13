@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/רהמ-נתניהו-ושר-האוצר-אנחנו-שמים-כעת-את-חוק-הגיוס-בצד-250186
-https://news.walla.co.il/item/3822839
-https://hamal.co.il/main/יחידות-קטנות-בלי-מכשירי-קשר-חיזבאללה-יישם-לקחים-מהמלחמה-הק-250187
+COUNTER:5
 https://hamal.co.il/main/שר-הביטחון-כץ-החליט-למנות-את-גיל-רייך-לתפקיד-ראש-מלמ״ב-במשר-250188
 https://news.walla.co.il/break/3822841
 https://news.walla.co.il/break/3822842
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823415
 https://news.walla.co.il/break/3823417
 https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-251315
 https://news.walla.co.il/break/3823418
+https://news.walla.co.il/break/3823419
+https://hamal.co.il/main/במהלך-היממה-האחרונה-חיל-האוויר-תקף-יותר-מ-200-מטרות-במערב-ו-251316
+https://hamal.co.il/main/מזג-אוויר-בהיר-עד-מעונן-חלקית-וחם-מהרגיל-ייתכן-אובך-קל-במזר-251317
