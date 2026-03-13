@@ -1,11 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/זלנסקי-טוען-פוטין-ישלח-חיילים-כדי-לסייע-לאיראן-250343
-https://hamal.co.il/main/שלטי-עידוד-במקלטים-יוזמה-קהילתית-מרגשת-בדרך-כרמית-250344
-https://news.walla.co.il/item/3822936
-https://news.walla.co.il/item/3822634
-https://hamal.co.il/main/כאילו-חסר-לנו-כאוס-האזהרה-האסטרולוגית-החריגה-ליום-שישי-הקרו-250329
-https://hamal.co.il/main/הרמטכל-החליט-צוות-הקרב-של-חטיבת-גולני-יועבר-250348
-https://hamal.co.il/main/נהג-במהירות-מופרזת-250347
+COUNTER:0
 https://news.walla.co.il/item/3822939
 https://news.walla.co.il/item/3822943
 https://news.walla.co.il/item/3822923
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3823506
 https://hamal.co.il/main/הותקפו-יותר-מ-150-מטרות-במערב-ומרכז-איראן-251450
 https://news.walla.co.il/item/3823516
 https://hamal.co.il/main/המסר-החריג-של-המלל-לשוהים-באמירויות-251455
+https://news.walla.co.il/break/3823521
+https://news.walla.co.il/break/3823522
+https://news.walla.co.il/break/3823524
+https://news.walla.co.il/break/3823525
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-במרכז-הארץ-251481
+https://hamal.co.il/main/דיווח-בכביש-431-נפער-בור-משברי-יירוט-251483
+https://hamal.co.il/main/3-מוקדים-שונים-במרכז-הארץ-251484
