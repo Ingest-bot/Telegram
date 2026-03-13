@@ -1,5 +1,4 @@
 COUNTER:15
-https://news.walla.co.il/break/3822924
 https://news.walla.co.il/break/3822925
 https://news.walla.co.il/break/3822926
 https://news.walla.co.il/break/3822921
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823500
 https://news.walla.co.il/break/3823499
 https://hamal.co.il/main/״רשאית-10-שניות-אלפא״-השמדת-משגר-על-ידי-נווטת-וטייסת-קרב-251436
 https://hamal.co.il/main/במרכז-הארץ-פועלים-במס-זירות-על-מנת-לכבות-שריפות-251443
+https://news.walla.co.il/break/3823508
