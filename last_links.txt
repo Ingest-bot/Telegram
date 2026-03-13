@@ -1,8 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3822850
-https://news.walla.co.il/break/3822852
-https://hamal.co.il/main/צהל-תקף-אתר-שיגור-בצפון-רצועת-עזה-של-ארגון-הטרור-חמאס-מ-250204
-https://travel.walla.co.il/item/3822853
+COUNTER:13
 https://hamal.co.il/main/בזמן-האזעקה---חשוד-פרץ-לביתו-של-שורד-השבי-בר-קופרשטיין-הודיה-250205
 https://hamal.co.il/main/יועז-הנדל-נעלם-מאז-תחילת-המלחמה---וזו-הסיבה-לכך-בזמן-שראש-250206
 https://news.walla.co.il/break/3822855
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823425
 https://news.walla.co.il/break/3823427
 https://hamal.co.il/main/צהל-תקפנו-גשר-מרכזי-בנהר-הליטאני--צפו-251329
 https://hamal.co.il/main/פרשת-ויקהל-פקודי-אלו-זמני-השבת-251330
+https://news.walla.co.il/item/3823421
+https://news.walla.co.il/break/3823430
+https://news.walla.co.il/break/3823431
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בטהרן-251331
