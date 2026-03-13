@@ -1,5 +1,4 @@
 COUNTER:4
-https://travel.walla.co.il/item/3822961
 https://hamal.co.il/main/דיאטנית-ממליצה-כך-תשמרו-לא-לעלות-במשקל-במלחמה-250340
 https://hamal.co.il/main/צהל-פתחנו-בגלי-תקיפות-בביירות-ובאיראן-במקביל-250354
 https://e.walla.co.il/item/3822965
@@ -499,3 +498,4 @@ https://hamal.co.il/main/פעילות-המשטרה-בזירות-הנפילה-ה�
 https://hamal.co.il/main/צהל-אנחנו-תוקפים-בטהרן-כעת-251489
 https://news.walla.co.il/item/3823523
 https://news.walla.co.il/break/3823533
+https://news.walla.co.il/break/3823534
