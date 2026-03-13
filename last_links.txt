@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3822875
-https://news.walla.co.il/break/3822879
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-250315
-https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-250316
+COUNTER:17
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250317
 https://hamal.co.il/main/הרוחות-מתחזקות-והאובך-מגיע--תחזית-מזג-האוויר-250320
 https://news.walla.co.il/break/3822880
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823464
 https://news.walla.co.il/break/3823466
 https://hamal.co.il/main/תיעוד-נשיא-איראן-ושר-החוץ-צועדים-ברחובות-טהרן-251370
 https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בצפון-פצועה-קל-במקום-251371
+https://news.walla.co.il/break/3823469
+https://hamal.co.il/main/אירוע-ירי-באשדוד-גבר-נפצע-באורח-בינוני-הרקע-פלילי-251373
+https://hamal.co.il/main/צפו-הלוחמים-בבאח-נחל-מאחלים-שבת-שלום-לכל-עם-ישראל-251363
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-251375
