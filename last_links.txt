@@ -1,8 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3822870
-https://news.walla.co.il/break/3822871
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250282
-https://hamal.co.il/main/משמרות-המהפכה-מאיימים-״גל-הטילים-ימשך-3-שעות״-250283
+COUNTER:12
 https://news.walla.co.il/item/3822877
 https://news.walla.co.il/item/3822878
 https://news.walla.co.il/item/3822786
@@ -499,3 +495,7 @@ https://hamal.co.il/main/עלי-לריגאני-נצפה-ברחובות-טהרן-
 https://news.walla.co.il/item/3823453
 https://news.walla.co.il/break/3823455
 https://news.walla.co.il/break/3823456
+https://news.walla.co.il/item/3823462
+https://news.walla.co.il/item/3823459
+https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-תקף-נכסים-של-חיזבאללה-בלבנון-251339
+https://hamal.co.il/main/פרשת-׳ויקהל-פקודי׳-המילה-שנכתבה-רק-פעם-אחת-והמסר-לאחדות-העם-251344
