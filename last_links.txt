@@ -1,9 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/צפו-250356
-https://news.walla.co.il/item/3822933
-https://news.walla.co.il/item/3822987
-https://hamal.co.il/main/מפקד-אוגדה-36-בדרום-לבנון-ממשיכים-לבצע-פשיטות-250357
-https://news.walla.co.il/item/3822993
+COUNTER:15
 https://e.walla.co.il/item/3822991
 https://news.walla.co.il/break/3822994
 https://hamal.co.il/main/אם-בת-40-המתגוררת-במודיעין-עילית-ילדה-השבוע-את-בנה-ה-21-לצד-250351
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823544
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באיזור-תל-ערד-פצוע-בזירה-251523
 https://hamal.co.il/main/תיעוד-הנפילה-בנגב-251524
 https://hamal.co.il/main/הסריקות-בדרום-לא-אותרו-נפגעים-251525
+https://news.walla.co.il/blog/3823547
+https://news.walla.co.il/break/3823549
+https://hamal.co.il/main/בני-ברק-צעיר-בן-21-נפצע-באורח-קשה-באירוע-אלימות-251526
+https://hamal.co.il/main/הפצצה-שגרמה-לשריפות-בלוד-ובשוהם---ראש-נפץ-פזיר-אין-נפגעים-251529
+https://hamal.co.il/main/האיראנים-בהודעת-פינוי-251530
