@@ -1,9 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3822220
-https://news.walla.co.il/item/3821110
-https://hamal.co.il/main/שגריר-איראן-באום-התקיפות-הרסו-כמעט-10000-אתרים-אזרחים-250243
-https://hamal.co.il/main/2-נשים-נפצעו-קל-לאחר-שהתנגשו-בגדר-במהלך-אזעקה-והרכב-עלה-באש-250244
-https://news.walla.co.il/break/3822865
+COUNTER:6
 https://hamal.co.il/main/במקביל-לתקיפות-באיראן-צהל-החל-בגל-תקיפות-בביירות-250245
 https://news.walla.co.il/item/3822866
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יופעלו-בירושלים-ובמרכז-250247
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823446
 https://news.walla.co.il/break/3823445
 https://hamal.co.il/main/תיעוד-תקיפות-חיל-האוויר-בטהרן-251342
 https://hamal.co.il/main/פיצוצי-ענק-באמצע-הרחוב-תיעוד-מתקיפות-חיל-האוויר-251345
+https://news.walla.co.il/break/3823447
+https://hamal.co.il/main/תיעוד-שבר-יירוט-ענק-נפל-הלילה-בגליל-אין-נפגעים-251346
+https://hamal.co.il/main/האסון-בנשר-נקבע-מותו-של-הפועל-שנפגע-מקריסת-קיר-251347
+https://hamal.co.il/main/צהל-פועל-בדרום-לבנון-400-מטרות-הותקפו-251349
+https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-באשדוד-מצבו-קשה-251358
