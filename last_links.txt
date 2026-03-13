@@ -1,10 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250317
-https://hamal.co.il/main/הרוחות-מתחזקות-והאובך-מגיע--תחזית-מזג-האוויר-250320
-https://news.walla.co.il/break/3822880
-https://news.walla.co.il/break/3822881
-https://news.walla.co.il/break/3822882
-https://hamal.co.il/main/דיווח-בלבנון-ישראל-תקפה-דירה-במרכז-ביירות-250321
+COUNTER:0
 https://hamal.co.il/main/צהל-חיסל-חוליית-שיגור-דקות-לפני-ששיגרה-כטב״ם-מאיראן-250326
 https://news.walla.co.il/break/3822885
 https://news.walla.co.il/break/3822883
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3823469
 https://hamal.co.il/main/אירוע-ירי-באשדוד-גבר-נפצע-באורח-בינוני-הרקע-פלילי-251373
 https://hamal.co.il/main/צפו-הלוחמים-בבאח-נחל-מאחלים-שבת-שלום-לכל-עם-ישראל-251363
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-251375
+https://news.walla.co.il/break/3823474
+https://news.walla.co.il/break/3823475
+https://news.walla.co.il/break/3823472
+https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-251392
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251394
+https://hamal.co.il/main/גבר-כבן-40-נפצע-באירוע-אלימות-באשדוד-מצבו-קשה-251395
