@@ -1,5 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3822848
+COUNTER:12
 https://news.walla.co.il/item/3822850
 https://news.walla.co.il/break/3822852
 https://hamal.co.il/main/צהל-תקף-אתר-שיגור-בצפון-רצועת-עזה-של-ארגון-הטרור-חמאס-מ-250204
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823424
 https://news.walla.co.il/break/3823425
 https://news.walla.co.il/break/3823427
 https://hamal.co.il/main/צהל-תקפנו-גשר-מרכזי-בנהר-הליטאני--צפו-251329
+https://hamal.co.il/main/פרשת-ויקהל-פקודי-אלו-זמני-השבת-251330
