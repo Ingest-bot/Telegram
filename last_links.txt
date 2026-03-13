@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3822976
-https://news.walla.co.il/break/3822978
-https://news.walla.co.il/break/3822979
+COUNTER:11
 https://news.walla.co.il/break/3822980
 https://hamal.co.il/main/צפו-250356
 https://news.walla.co.il/item/3822933
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חשד-לניסיון-רצח-באום-אל-פחם-גב�
 https://hamal.co.il/main/גבר-כבן-25-במצב-אנוש-אירוע-ירכי-באום-אל-פחם-251499
 https://news.walla.co.il/item/3823541
 https://hamal.co.il/main/צהל-חיל-האוויר-חיסל-בכיר-חיזבאללה-251500
+https://news.walla.co.il/break/3823544
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באיזור-תל-ערד-פצוע-בזירה-251523
+https://hamal.co.il/main/תיעוד-הנפילה-בנגב-251524
