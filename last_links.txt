@@ -1,9 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3822845
-https://hamal.co.il/main/השפעת-המלחמה-על-מחירי-הדלק-האם-המעסיק-חייב-להעלות-את-החזרי-250201
-https://hamal.co.il/main/--250202
-https://hamal.co.il/main/דוברת-הבית-הלבן-המבצע-יסתיים-כאשר-הנשיא---יקבע-שהיעדים-הצב-250203
-https://news.walla.co.il/item/3822851
+COUNTER:11
 https://news.walla.co.il/item/3822848
 https://news.walla.co.il/item/3822850
 https://news.walla.co.il/break/3822852
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חשד-לפיגוע-אנטישמי-בארהב-רכב-ה
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-251323
 https://hamal.co.il/main/השיגור-מאיראן-הטיל-יורט-לא-דווח-על-נפגעים-251326
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251328
+https://news.walla.co.il/break/3823423
+https://news.walla.co.il/break/3823424
+https://news.walla.co.il/break/3823425
+https://news.walla.co.il/break/3823427
+https://hamal.co.il/main/צהל-תקפנו-גשר-מרכזי-בנהר-הליטאני--צפו-251329
