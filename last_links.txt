@@ -1,7 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3823166
-https://news.walla.co.il/break/3823168
-https://hamal.co.il/main/סעודיה-יירטנו-רחפן-שהיה-בדרכו-לשדה-נפט-250903
+COUNTER:9
 https://news.walla.co.il/item/3823178
 https://news.walla.co.il/break/3823177
 https://hamal.co.il/main/נעצר-החשוד-שפרץ-מחסום-עם-רכב-גנוב-ודרס-שוטר-וחיילת-250904
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ישראל-רוצה-לשלוט-במזהת-הפרשן-ה
 https://hamal.co.il/main/טראמפ-קורא-להקמת-כוח-בינלאומי-להגנת-השיט-במצר-הורמוז-251897
 https://hamal.co.il/main/דיווחים-בלבנון-חיל-האוויר-תוקף-בדאחייה-שבביירות-251899
 https://hamal.co.il/main/לא-הכל-שחור-המרוויחות-המפתיעות-מהמתיחות-באיראן-251906
+https://news.walla.co.il/break/3823683
+https://hamal.co.il/main/הרצוג-שוחח-עם-מנהיגי-הקהילה-היהודית-בהולנד-בעקבות-המתקפות-251917
+https://hamal.co.il/main/מזל-טוב-חן-אמסלם-ומאור-זגורי-הורים-לשלושה-251909
