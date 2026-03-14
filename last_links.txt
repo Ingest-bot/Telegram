@@ -1,11 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/הפלמ״חניקית-שראתה-את-כל-מלחמות-ישראל-״חייבים-לציית-להנחיות״-250945
-https://news.walla.co.il/item/3823211
-https://news.walla.co.il/break/3823208
-https://hamal.co.il/main/אורי-גלר-מרגיע-לימדתי-את-נתניהו-וטראמפ-לתקשר-בטלפתיה-250947
-https://hamal.co.il/main/אורי-גלר-מרגיע-לימדתי-את-נתניהו-וטראמפ-לתקשר-בטלפתיה-250949
-https://e.walla.co.il/item/3823214
-https://news.walla.co.il/item/3823216
+COUNTER:19
 https://news.walla.co.il/break/3823218
 https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-החל-בגל-תקיפות-נרחב-באיראן-250950
 https://news.walla.co.il/item/3823220
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3823213
 https://news.walla.co.il/item/3823703
 https://news.walla.co.il/item/3823705
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-251931
+https://news.walla.co.il/break/3823708
+https://news.walla.co.il/break/3823706
+https://news.walla.co.il/break/3823707
+https://news.walla.co.il/break/3823710
+https://news.walla.co.il/break/3823711
+https://hamal.co.il/main/אזעקות-נשמעו-באילת-והסביבה-251934
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251936
