@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3823098
-https://news.walla.co.il/break/3823099
+COUNTER:18
 https://news.walla.co.il/break/3823101
 https://news.walla.co.il/break/3823102
 https://news.walla.co.il/break/3823100
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823619
 https://news.walla.co.il/break/3823620
 https://hamal.co.il/main/אזעקות-בצפון-בעקבות-שיגורים-מלבנון-251658
 https://hamal.co.il/main/עימות-בגוש-עציון-רועה-צאן-נפצע-מיידוי-אבנים-שני-פלסטינים-נ-251659
+https://hamal.co.il/main/המבלים-בשוק-הפשפשים-רצו-לחפש-מחסה---וגילו-דלתות-נעולות-251654
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-התרעות-יופעלו-בדקות-הקרובות-251662
