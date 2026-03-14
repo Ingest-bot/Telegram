@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3823011
-https://news.walla.co.il/break/3823014
+COUNTER:4
 https://news.walla.co.il/break/3823015
 https://news.walla.co.il/break/3823016
 https://hamal.co.il/main/תיעוד-מהקוקפיט-מסוקי-קרב-מיירטים-כטבמים-ששוגרו-מלבנון-250412
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שוב-ירי-מלבנון-אזעקות-הופעלו-ב
 https://hamal.co.il/main/כעת-אזעקות-במנרה-ומרגליות-251574
 https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-והסביבה-שוב-הופעלו-אזעקות-251577
 https://news.walla.co.il/break/3823563
+https://hamal.co.il/main/שריפה-בבנין-באשקלון-גבר-ואישה-פונו-במצב-קשה-ובינוני-לביהח-251578
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי---בחשש-לחדירת-כלי-טיס-עוין-251583
