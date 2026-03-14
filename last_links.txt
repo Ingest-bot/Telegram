@@ -1,5 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3823057
+COUNTER:16
 https://hamal.co.il/main/האזהרה-החריגה-של-צבא-ארהC-לאזרחים-באיראן-250432
 https://news.walla.co.il/break/3823062
 https://hamal.co.il/main/דיווח-על-פיצוצים-בנמל-התעופה-הבינלאומי-של-בגדאד-250444
@@ -499,3 +498,4 @@ https://hamal.co.il/main/חמאס-קורא-לאיראן-להימנע-מפגיע�
 https://news.walla.co.il/break/3823582
 https://news.walla.co.il/break/3823585
 https://hamal.co.il/main/בעקבות-שיגורים-התרעות-בגליל-המערבי-251613
+https://hamal.co.il/main/תוך-שעה-100-אלף-שקל-נתרמו-ליתומי-הפועל-שנהרג-מטיל-251609
