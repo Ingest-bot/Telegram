@@ -1,7 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/item/3823199
-https://e.walla.co.il/item/3823205
-https://news.walla.co.il/item/3823200
 https://news.walla.co.il/break/3823201
 https://hamal.co.il/main/מערכת-החינוך-תיפתח-באיזורים-מסויימים-הבקשה-של-משרד-החינוך-250936
 https://hamal.co.il/main/ההרס-בדאחייה-לאחר-התקיפות-250939
@@ -499,3 +496,6 @@ https://hamal.co.il/main/גם-בעיר-אריאל-לא-תפתח-מערכת-הח�
 https://news.walla.co.il/item/3823697
 https://hamal.co.il/main/-ראש-ארגון-הבריאות-העולמי-12-אנשי-צוות-רפואי-נהרגו-בתקיפה-251928
 https://hamal.co.il/main/גל-רובין-היא-הדיירת-ה-20-בבית-האח-הגדול-מאור-בן-הרוש-עודכן-251929
+https://news.walla.co.il/item/3823271
+https://news.walla.co.il/item/3820771
+https://news.walla.co.il/item/3823213
