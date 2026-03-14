@@ -1,12 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/התייעצויות-במערכת-הביטחון-כיצד-להגיב-למטח-הכבד-הערב-250619
-https://news.walla.co.il/break/3823104
-https://hamal.co.il/main/דובר-צהל-בערבית-בפנייה-לתושבי-הדאחייה-הדרומית-250629
-https://hamal.co.il/main/ביירות-כעת-250637
-https://news.walla.co.il/item/3823106
-https://news.walla.co.il/item/3823108
-https://hamal.co.il/main/גורם-ביטחוני-אמן-הביא-מודיעין-לגבי-המטח-של-חיזבאללה-250662
-https://news.walla.co.il/break/3823111
+COUNTER:4
 https://news.walla.co.il/break/3823112
 https://news.walla.co.il/break/3823114
 https://news.walla.co.il/break/3823113
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3823622
 https://news.walla.co.il/break/3823623
 https://hamal.co.il/main/התרעות-בעקבות-שיגור-מאיראן-נכון-לכרגע-אין-דיווחים-על-נפגעים-251670
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251672
+https://news.walla.co.il/item/3823621
+https://news.walla.co.il/break/3823625
+https://news.walla.co.il/break/3823626
+https://news.walla.co.il/break/3823627
+https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באזור-ירושלים-251684
+https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-ובשפלה-זוהה-שיגור-נוסף-מאיראן-251697
+https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באילת-והערבה-251700
+https://hamal.co.il/main/מד״א-לא-התקבלו-דיווחים-על-נפגעים-במטח-האחרון-251703
