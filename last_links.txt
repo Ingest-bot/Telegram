@@ -1,9 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3823015
-https://news.walla.co.il/break/3823016
-https://hamal.co.il/main/תיעוד-מהקוקפיט-מסוקי-קרב-מיירטים-כטבמים-ששוגרו-מלבנון-250412
-https://news.walla.co.il/break/3823020
-https://hamal.co.il/main/בצהל-מעריכים-זאת-כמות-הטילים-והמשגרים-שנותרו-לאיראן-250411
+COUNTER:6
 https://news.walla.co.il/item/3823017
 https://e.walla.co.il/item/3823024
 https://news.walla.co.il/item/3823028
@@ -499,3 +494,8 @@ https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-ו
 https://news.walla.co.il/break/3823563
 https://hamal.co.il/main/שריפה-בבנין-באשקלון-גבר-ואישה-פונו-במצב-קשה-ובינוני-לביהח-251578
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי---בחשש-לחדירת-כלי-טיס-עוין-251583
+https://news.walla.co.il/break/3823564
+https://news.walla.co.il/break/3823565
+https://news.walla.co.il/break/3823566
+https://hamal.co.il/main/טיסות-חילוץ-לארהב-אל-על-תפעיל-טיסות-מיוחדות-עבור-אזרחים-אמ-251588
+https://hamal.co.il/main/אזעקות-הופעלו-באצבע-הגליל--עדכונם-שוטפים-251590
