@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250928
-https://hamal.co.il/main/דיווח-הדי-פיצוצים-נשמעים-בדובאי-250929
-https://hamal.co.il/main/חכ-ביסמוט-ישראל-שוקלת-גם-תקיפה-של-תשתיות-לאומיות-בלבנון-250931
+COUNTER:13
 https://news.walla.co.il/item/3823196
 https://news.walla.co.il/item/3823189
 https://news.walla.co.il/break/3823190
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823688
 https://news.walla.co.il/item/3823687
 https://news.walla.co.il/item/3823682
 https://hamal.co.il/main/גבר-בן-30-נהרג-באירוע-אלימות-בנצרת-251923
+https://news.walla.co.il/item/3823690
+https://news.walla.co.il/break/3823691
+https://hamal.co.il/main/דיווח-ישראל-הודיעה-שמלאי-המיירטים-לטילים-בליסטיים---אוזל-251926
