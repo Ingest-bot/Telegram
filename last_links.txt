@@ -1,7 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3823055
-https://hamal.co.il/main/דובר-צהל-בערבית-קורא-לתושבי-הדאחיה-להתפנות-בדחיפות-250428
-https://hamal.co.il/main/נמלט-עם-אקדח-ונתפס-בעזרת-רחפן--תיעוד-250431
+COUNTER:15
 https://news.walla.co.il/break/3823057
 https://hamal.co.il/main/האזהרה-החריגה-של-צבא-ארהC-לאזרחים-באיראן-250432
 https://news.walla.co.il/break/3823062
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823579
 https://hamal.co.il/main/ראש-העין-לוחמי-אש-חילצו-ארבעה-לכודים-בהם-שני-ילדים-בשריפה-251603
 https://news.walla.co.il/item/3823580
 https://hamal.co.il/main/חמאס-קורא-לאיראן-להימנע-מפגיעה-במדינות-שכנות-251606
+https://news.walla.co.il/break/3823582
+https://news.walla.co.il/break/3823585
+https://hamal.co.il/main/בעקבות-שיגורים-התרעות-בגליל-המערבי-251613
