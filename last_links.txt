@@ -1,13 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-בכל-האזורים-250404
-https://hamal.co.il/main/גורמים-ישראליים-לא-מעריכים-שטראמפ-קרוב-להכריז-על-סיום-המלחמ-250400
-https://hamal.co.il/main/ספינה-תאילנדית-הותקפה-במתר-250398
-https://hamal.co.il/main/רכב-פרץ-מחסום-סמוך-לבית-הלבן-הנהג-נעצר-אין-נפגעים-250407
-https://news.walla.co.il/item/3823001
-https://hamal.co.il/main/מפקד-סנטקום-הטבענו-60-ספינות-איראניות-ותקפנו-250408
-https://hamal.co.il/main/הרמטכל-לטייסים-נעמיק-את-הפגיעה-באיראן-אף-אחד-לא-חסין-250406
-https://hamal.co.il/main/באיראן-מאשרים-המנהיג-העליון-נפצע-אך-ממשיך-לתפקד-250409
-https://news.walla.co.il/item/3823003
+COUNTER:2
 https://news.walla.co.il/break/3823010
 https://news.walla.co.il/break/3823011
 https://news.walla.co.il/break/3823014
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3823553
 https://hamal.co.il/main/פיקוד-העורף-הסתיים-אירוע-חדירת-הכטבם-בגליל-251538
 https://hamal.co.il/main/טראמפ-בהודעה-דרמטית-תקפנו-את-אי-הנפט-של-איראן-251539
 https://news.walla.co.il/break/3823555
+https://news.walla.co.il/item/3823557
+https://news.walla.co.il/item/3823558
+https://news.walla.co.il/break/3823559
+https://news.walla.co.il/break/3823562
+https://news.walla.co.il/break/3823561
+https://hamal.co.il/main/שיגור-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-251565
+https://hamal.co.il/main/שוב-ירי-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-251570
+https://hamal.co.il/main/כעת-אזעקות-במנרה-ומרגליות-251574
+https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-והסביבה-שוב-הופעלו-אזעקות-251577
