@@ -1,9 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3823035
-https://e.walla.co.il/item/3823039
-https://news.walla.co.il/break/3823040
-https://hamal.co.il/main/בנק-ישראל-נגד-הממשלה-לעצור-כספים-קואליציוניים-בזמן-מלחמה-250418
-https://hamal.co.il/main/דיווח-זו-דרגת-הפציעה-של-הנשיא-העליון-החדש---בנו-של-חמינאי-250419
+COUNTER:12
 https://news.walla.co.il/item/3823046
 https://news.walla.co.il/break/3823044
 https://news.walla.co.il/item/3823050
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3823573
 https://news.walla.co.il/item/3823570
 https://hamal.co.il/main/צבא-איראן-מאיים-לתקוף-תשתיות-נפט-בעקבות-התקיפה-האמריקנית-251594
 https://hamal.co.il/main/חשד-לפיגוע-באמסטרדם-בית-ספר-יהודי-ניזוק-מפיצוץ-מטען-251595
+https://news.walla.co.il/break/3823571
+https://news.walla.co.il/break/3823576
+https://news.walla.co.il/break/3823577
+https://hamal.co.il/main/דיווח-שגרירות-ארהב-בעיראק-נפגעה-במתקפת-טילים-251597
+https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-בעקבות-שיגורים-מלבנון-251601
