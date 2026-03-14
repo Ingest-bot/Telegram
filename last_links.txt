@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/האזהרה-החריגה-של-צבא-ארהC-לאזרחים-באיראן-250432
-https://news.walla.co.il/break/3823062
-https://hamal.co.il/main/דיווח-על-פיצוצים-בנמל-התעופה-הבינלאומי-של-בגדאד-250444
-https://news.walla.co.il/item/3823064
-https://news.walla.co.il/item/3823066
+COUNTER:18
 https://travel.walla.co.il/item/3823067
 https://news.walla.co.il/item/3823061
 https://news.walla.co.il/item/3823068
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823582
 https://news.walla.co.il/break/3823585
 https://hamal.co.il/main/בעקבות-שיגורים-התרעות-בגליל-המערבי-251613
 https://hamal.co.il/main/תוך-שעה-100-אלף-שקל-נתרמו-ליתומי-הפועל-שנהרג-מטיל-251609
+https://news.walla.co.il/break/3823591
+https://news.walla.co.il/break/3823592
+https://news.walla.co.il/break/3823588
+https://hamal.co.il/main/דובר-צה״ל-בערבית-״-251614
+https://hamal.co.il/main/נזק-בתשתיות-החשמל-בדרום-בעקבות-מזג-האוויר-הסוער--צפו-251623
