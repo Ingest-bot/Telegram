@@ -1,11 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3823129
-https://news.walla.co.il/break/3823128
-https://news.walla.co.il/break/3823130
-https://news.walla.co.il/break/3823131
-https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-השרון-נזק-למספר-מבנים---אין-נפגעים-250808
-https://hamal.co.il/main/המשטרה-מטפלת-בזירות-נפילת-פריטי-אמלח-במרחב-אשר-250819
-https://hamal.co.il/main/דיווח-על-פגיעת-כטבם-איראני-במגדל-מגורים-בדובאי-250822
+COUNTER:6
 https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-על-עמדות-של-כוחות-הבסיג-במדינה-250826
 https://news.walla.co.il/item/3823134
 https://news.walla.co.il/item/3823135
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3823645
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-במרכז-הארץ-251814
 https://hamal.co.il/main/צהל-יותר-מ-200-תשתיות-טרור-הותקפו-ביממה-האחרונה-באיראן-251817
 https://hamal.co.il/main/המשטרה-מטפלת-ב-2-זירות-נפילה-במחוז-ירושלים-251818
+https://news.walla.co.il/item/3823648
+https://news.walla.co.il/item/3823651
+https://news.walla.co.il/break/3823650
+https://hamal.co.il/main/כלב-נפצע-אנוש-מהירי-לאילת-הייתי-בטיול-וזה-פשוט-נפל-עלינו-251819
+https://hamal.co.il/main/נפילת-שברי-יירוט-בנס-ציונה-251829
+https://hamal.co.il/main/תיעוד-גל-תקיפות-באספהאן-חשש-לחדירת-כטבם-בגליל-העליון-251833
+https://hamal.co.il/main/צהל-חיסל-את-בכירי-אגף-המודיעין-של-מפקדת-חאתם-אלאנביאא׳-251837
