@@ -1,8 +1,4 @@
-COUNTER:11
-https://travel.walla.co.il/item/3823183
-https://news.walla.co.il/item/3823185
-https://news.walla.co.il/break/3823184
-https://hamal.co.il/main/דובר-צה״ל-בערבית-באזהרת-פינוי-לתושבי-לבנון-250926
+COUNTER:12
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250928
 https://hamal.co.il/main/דיווח-הדי-פיצוצים-נשמעים-בדובאי-250929
 https://hamal.co.il/main/חכ-ביסמוט-ישראל-שוקלת-גם-תקיפה-של-תשתיות-לאומיות-בלבנון-250931
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823685
 https://news.walla.co.il/break/3823686
 https://hamal.co.il/main/גבר-בן-60-נפצע-קשה-בתאונת-דרכים-בבאר-שבע-251918
 https://hamal.co.il/main/אישה-נמצאה-ללא-רוח-חיים-במושב-אמירים---המשטרה-פתחה-בחקירה-251921
+https://news.walla.co.il/item/3823688
+https://news.walla.co.il/item/3823687
+https://news.walla.co.il/item/3823682
+https://hamal.co.il/main/גבר-בן-30-נהרג-באירוע-אלימות-בנצרת-251923
