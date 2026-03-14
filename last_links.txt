@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3823178
-https://news.walla.co.il/break/3823177
-https://hamal.co.il/main/נעצר-החשוד-שפרץ-מחסום-עם-רכב-גנוב-ודרס-שוטר-וחיילת-250904
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-250906
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-או-נפילות-במטח-האחרון-250924
-https://news.walla.co.il/item/3823182
+COUNTER:11
 https://travel.walla.co.il/item/3823183
 https://news.walla.co.il/item/3823185
 https://news.walla.co.il/break/3823184
@@ -499,3 +493,9 @@ https://hamal.co.il/main/לא-הכל-שחור-המרוויחות-המפתיעו�
 https://news.walla.co.il/break/3823683
 https://hamal.co.il/main/הרצוג-שוחח-עם-מנהיגי-הקהילה-היהודית-בהולנד-בעקבות-המתקפות-251917
 https://hamal.co.il/main/מזל-טוב-חן-אמסלם-ומאור-זגורי-הורים-לשלושה-251909
+https://news.walla.co.il/item/3823681
+https://news.walla.co.il/item/3823684
+https://news.walla.co.il/break/3823685
+https://news.walla.co.il/break/3823686
+https://hamal.co.il/main/גבר-בן-60-נפצע-קשה-בתאונת-דרכים-בבאר-שבע-251918
+https://hamal.co.il/main/אישה-נמצאה-ללא-רוח-חיים-במושב-אמירים---המשטרה-פתחה-בחקירה-251921
