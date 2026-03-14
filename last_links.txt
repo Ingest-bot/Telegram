@@ -1,10 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3823061
-https://news.walla.co.il/item/3823068
-https://news.walla.co.il/item/3823071
-https://news.walla.co.il/item/3823070
-https://hamal.co.il/main/גל-שמועות-על-מטח-כבד-מלבנון-מציף-את-הרשת--מה-שמותר-לפרסם-250446
-https://hamal.co.il/main/טראמפ-על-לבנון-250447
+COUNTER:1
 https://news.walla.co.il/item/3823074
 https://hamal.co.il/main/דובר-צהל-בתגובה-לשמועות-אין-שינוי-בהנחיות-250448
 https://news.walla.co.il/item/3823082
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3823588
 https://hamal.co.il/main/דובר-צה״ל-בערבית-״-251614
 https://hamal.co.il/main/נזק-בתשתיות-החשמל-בדרום-בעקבות-מזג-האוויר-הסוער--צפו-251623
 https://hamal.co.il/main/תיעוד-מרצועת-עזה-אוהלים-עפים-בסופות-החול-251622
+https://news.walla.co.il/item/3823598
+https://news.walla.co.il/item/3823538
+https://news.walla.co.il/break/3823600
+https://news.walla.co.il/break/3823601
+https://hamal.co.il/main/כוחות-צה״ל-ממשיכים-בסיכול-נגד-לוחמי-כוח-א-251624
+https://hamal.co.il/main/איראן-שניים-נעצרו-בחשד-לריגול-עבור-המוסד-251625
