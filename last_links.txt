@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3823074
-https://hamal.co.il/main/דובר-צהל-בתגובה-לשמועות-אין-שינוי-בהנחיות-250448
-https://news.walla.co.il/item/3823082
+COUNTER:3
 https://news.walla.co.il/break/3823078
 https://news.walla.co.il/break/3823080
 https://news.walla.co.il/break/3823079
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823600
 https://news.walla.co.il/break/3823601
 https://hamal.co.il/main/כוחות-צה״ל-ממשיכים-בסיכול-נגד-לוחמי-כוח-א-251624
 https://hamal.co.il/main/איראן-שניים-נעצרו-בחשד-לריגול-עבור-המוסד-251625
+https://news.walla.co.il/item/3823597
+https://hamal.co.il/main/״היהלום-שבכתר״-המשמעויות-מאחורי-התקיפה-באי-כראג׳-251584
+https://hamal.co.il/main/כ--110-מפקדות-של-ארגון-הטרור-חיזבאללה-הותקפו-מתחילת-מבצע-שא-251626
