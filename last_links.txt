@@ -1,11 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/אינדונזיה-שליחת-כוחות-לעזה-תלויה-בהלך-הרוח-במועצת-בשלום-250870
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-250872
-https://news.walla.co.il/break/3823147
-https://news.walla.co.il/break/3823148
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-250892
-https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-דווח-על-נפגעים-250893
-https://news.walla.co.il/item/3823141
+COUNTER:16
 https://news.walla.co.il/break/3823149
 https://news.walla.co.il/break/3823150
 https://hamal.co.il/main/מז-250894
@@ -499,3 +492,10 @@ https://hamal.co.il/main/החל-מיום-שני-אלו-האזורים-שיוכל
 https://hamal.co.il/main/דיווח-ממשל-טראמפ-דחה-ניסיונות-לפתוח-במומ-לסיום-המלחמה-251870
 https://hamal.co.il/main/עדכון-שינויים-במדיניות-ההתגוננות-של-פיקוד-העורף-251873
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-251876
+https://news.walla.co.il/item/3823669
+https://news.walla.co.il/break/3823663
+https://news.walla.co.il/break/3823664
+https://news.walla.co.il/break/3823666
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-251879
+https://hamal.co.il/main/הרמטכ״ל-251880
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251881
