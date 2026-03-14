@@ -1,6 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3823046
-https://news.walla.co.il/break/3823044
+COUNTER:13
 https://news.walla.co.il/item/3823050
 https://news.walla.co.il/item/3823047
 https://news.walla.co.il/break/3823055
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823576
 https://news.walla.co.il/break/3823577
 https://hamal.co.il/main/דיווח-שגרירות-ארהב-בעיראק-נפגעה-במתקפת-טילים-251597
 https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-בעקבות-שיגורים-מלבנון-251601
+https://news.walla.co.il/break/3823579
+https://hamal.co.il/main/ראש-העין-לוחמי-אש-חילצו-ארבעה-לכודים-בהם-שני-ילדים-בשריפה-251603
