@@ -1,6 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/מערכת-החינוך-תיפתח-באיזורים-מסויימים-הבקשה-של-משרד-החינוך-250936
-https://hamal.co.il/main/ההרס-בדאחייה-לאחר-התקיפות-250939
+COUNTER:17
 https://hamal.co.il/main/הפלמ״חניקית-שראתה-את-כל-מלחמות-ישראל-״חייבים-לציית-להנחיות״-250945
 https://news.walla.co.il/item/3823211
 https://news.walla.co.il/break/3823208
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823271
 https://news.walla.co.il/item/3820771
 https://news.walla.co.il/item/3823213
 https://news.walla.co.il/item/3823703
+https://news.walla.co.il/item/3823705
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-251931
