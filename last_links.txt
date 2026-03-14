@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3823143
-https://news.walla.co.il/break/3823142
-https://news.walla.co.il/break/3823145
-https://news.walla.co.il/break/3823146
-https://hamal.co.il/main/ירי-משולב-מלבנון-ואיראן-ניתן-לצאת-מהמרחב-המוגן-באילת-250864
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-250866
+COUNTER:11
 https://hamal.co.il/main/מדא-על-הירי-האחרון-לא-דווח-על-נפגעים-250867
 https://hamal.co.il/main/המשטרה-מטפלת-בזירת-נפילת-פריטי-אמלח-בגזרת-מרחב-מנשה-250868
 https://hamal.co.il/main/אינדונזיה-שליחת-כוחות-לעזה-תלויה-בהלך-הרוח-במועצת-בשלום-250870
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3823654
 https://hamal.co.il/main/הפגיעה-בזרזיר-2-פצועים-נותרו-באשפוז-בבית-החולים-העמק-251857
 https://hamal.co.il/main/חדשות-השבת-251865
 https://hamal.co.il/main/לפני-מספר-ימים-היה-ניסיון-להפיל-מטוס-ישראלי-בשמי-איראן-251867
+https://news.walla.co.il/item/3823657
+https://news.walla.co.il/item/3823605
+https://news.walla.co.il/item/3823659
+https://news.walla.co.il/break/3823660
+https://hamal.co.il/main/החל-מיום-שני-אלו-האזורים-שיוכלו-לפתוח-את-בתי-הספר-והגנים-251869
+https://hamal.co.il/main/דיווח-ממשל-טראמפ-דחה-ניסיונות-לפתוח-במומ-לסיום-המלחמה-251870
