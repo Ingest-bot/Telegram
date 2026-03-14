@@ -1,13 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/גורמים-ישראלים-אכן-מזהים-כוונה-מצד-חיזבאללה-להגביר-את-הירי-250452
-https://news.walla.co.il/item/3823087
-https://hamal.co.il/main/יורט-שיגור-1-מאיראן---אין-דיווח-על-נפגעים-250479
-https://news.walla.co.il/break/3823088
-https://news.walla.co.il/break/3823092
-https://news.walla.co.il/break/3823093
-https://hamal.co.il/main/דיווח-על-שיגור-מאיראן-לצפון-הארץ-250545
-https://hamal.co.il/main/דיווח-עימותים-בין-כוחות-הביטחון-האיראניים-לחמושים-בטהרן-250546
-https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-250549
+COUNTER:10
 https://hamal.co.il/main/בישראל-מזהים-הערב-ניסיון-מובהק-לתיאום-בין-איראן-לחיזבאללה-250559
 https://news.walla.co.il/item/3823097
 https://news.walla.co.il/item/3823094
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3823390
 https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-251631
 https://hamal.co.il/main/איראן-נרחיב-את-השימוש-בנשק-משודרג-251634
 https://hamal.co.il/main/שר-הביטחון-״אנחנו-נכנסים-לישורת-ההכרעה״-251637
+https://news.walla.co.il/break/3823607
+https://news.walla.co.il/break/3823609
+https://news.walla.co.il/break/3823610
+https://news.walla.co.il/break/3823608
+https://news.walla.co.il/break/3823611
+https://hamal.co.il/main/שיגורים-מאיראן-לעבר-הדרום-251638
+https://hamal.co.il/main/בעקבות-שיגור-מאיראן-התרעות-הופעלו-באילת-והערבה-251641
+https://hamal.co.il/main/המטרה-יורטה-251642
+https://hamal.co.il/main/התרעות-באילת-והערבה-ניתן-לצאת-מהמרחב-המוגן-251643
