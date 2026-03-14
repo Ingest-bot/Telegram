@@ -1,6 +1,4 @@
-COUNTER:2
-https://e.walla.co.il/item/3823162
-https://news.walla.co.il/item/3823160
+COUNTER:3
 https://travel.walla.co.il/item/3823012
 https://news.walla.co.il/break/3823165
 https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבת-׳ההרים׳-810-בהר-דב-הלבנוני-250898
@@ -499,3 +497,5 @@ https://hamal.co.il/main/כוחות-חטיבת-גולני-השלימו-את-הת
 https://hamal.co.il/main/פרסום-ראשון-ראש-אטל-האלוף-אבודרהאם-הצטרף-היום-לחטיבה-7-ש-251891
 https://hamal.co.il/main/העיר-בדרום-שהודיעה-לא-נפתח-את-הלימודים-ביום-שני-הקרוב-251892
 https://hamal.co.il/main/כוחות-צהל-חיסלו-מחבלים-חמושים-בדרום-רצועת-עזה-251894
+https://news.walla.co.il/break/3823677
+https://hamal.co.il/main/משטרת-ישראל-עצרה-לחקירה-חשוד-בעבירות-מין-בקטינים-בשנה-האחרונ-251896
