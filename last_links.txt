@@ -1,5 +1,4 @@
-COUNTER:18
-https://travel.walla.co.il/item/3823067
+COUNTER:19
 https://news.walla.co.il/item/3823061
 https://news.walla.co.il/item/3823068
 https://news.walla.co.il/item/3823071
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3823592
 https://news.walla.co.il/break/3823588
 https://hamal.co.il/main/דובר-צה״ל-בערבית-״-251614
 https://hamal.co.il/main/נזק-בתשתיות-החשמל-בדרום-בעקבות-מזג-האוויר-הסוער--צפו-251623
+https://hamal.co.il/main/תיעוד-מרצועת-עזה-אוהלים-עפים-בסופות-החול-251622
