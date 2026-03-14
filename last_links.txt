@@ -1,8 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/יואב-גלנט-לא-אתמודד-בבחירות-הקרובות-לוקח-פסק-זמן-250679
-https://hamal.co.il/main/בין-אזעקות---חשד-לרצח-בגליל-המערבי-250710
-https://news.walla.co.il/break/3823118
-https://hamal.co.il/main/פיקוד-העורף-הסיר-את-ההנחיות-המיוחדות-ברחבי-הצפון-250731
+COUNTER:9
 https://hamal.co.il/main/אחרי-הסרת-ההנחיות-בצפון-תושבים-מדווחים-על-הדי-פיצוצים-בשרון-250733
 https://hamal.co.il/main/משמרות-המהפכה-ביצעו-מבצע-משותף-עם-חיזבאללה-נגד-ישראל-250735
 https://news.walla.co.il/item/3823121
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823629
 https://news.walla.co.il/break/3823630
 https://hamal.co.il/main/חשד-לנפגעים-בעקבות-השיגור-מאיראן-לאילת-251704
 https://hamal.co.il/main/2-פצועים-מרסיסים-באילת-251705
+https://news.walla.co.il/item/3823631
+https://hamal.co.il/main/אילת-ילד-בן-12-נפצע-באורח-קשה-פצוע-נוסף-במצב-בינוני-251707
+https://hamal.co.il/main/צה״ל-חיסל-מפקד-נוסף-ב׳גיס-פלסטין׳-251711
+https://hamal.co.il/main/נפילה-באלוהים-אמאלה-אחותי-רגע-הפגיעה-באילת--צפו-בתיעו-251715
