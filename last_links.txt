@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3823017
-https://e.walla.co.il/item/3823024
-https://news.walla.co.il/item/3823028
+COUNTER:8
 https://news.walla.co.il/break/3823027
 https://news.walla.co.il/item/3823029
 https://hamal.co.il/main/יותר-מ-240-אלף-רישיונות-נשק-חולקו-בישראל-250415
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823565
 https://news.walla.co.il/break/3823566
 https://hamal.co.il/main/טיסות-חילוץ-לארהב-אל-על-תפעיל-טיסות-מיוחדות-עבור-אזרחים-אמ-251588
 https://hamal.co.il/main/אזעקות-הופעלו-באצבע-הגליל--עדכונם-שוטפים-251590
+https://news.walla.co.il/break/3823568
+https://hamal.co.il/main/סופות-חול-אובך-וחשש-לשיטפונות--תחזית-מזג-האוויר-251587
+https://hamal.co.il/main/תיעוד-מחבלים-שזוהו-מכניסים-רקטות-למחסן-אמצעי-לחימה-הותקפו-מ-251592
