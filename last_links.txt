@@ -1,5 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/item/3823189
 https://news.walla.co.il/break/3823190
 https://hamal.co.il/main/בצהל-לא-נרתעים-מתגובת-חיזבאללה-נפתיע-אותו-250935
 https://news.walla.co.il/item/3823199
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3823690
 https://news.walla.co.il/break/3823691
 https://hamal.co.il/main/דיווח-ישראל-הודיעה-שמלאי-המיירטים-לטילים-בליסטיים---אוזל-251926
 https://hamal.co.il/main/גם-בעיר-אריאל-לא-תפתח-מערכת-החינוך-ביום-שני-הקרוב-251927
+https://news.walla.co.il/item/3823697
