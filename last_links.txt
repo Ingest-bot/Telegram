@@ -1,8 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/גורם-ביטחוני-מאשר-המטח-הערב-מלבנון-כמאה-רקטות-בפעולה-מתוזמנ-250579
-https://hamal.co.il/main/חיזבאללה-מודיע-על-פתיחת-מבצע-חדש-נגד-ישראל-250588
-https://hamal.co.il/main/2-פצועים-במצב-קל-שנפגעו-מחפצים-שעפו-בצפון-הארץ-250608
-https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-נרחב-בדאחייה-שבביירות-250612
+COUNTER:16
 https://news.walla.co.il/item/3823098
 https://news.walla.co.il/break/3823099
 https://news.walla.co.il/break/3823101
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823615
 https://news.walla.co.il/break/3823616
 https://hamal.co.il/main/בעקבות-שיגורים-מלבנון-אזעקות-באצבע-הגליל-251651
 https://hamal.co.il/main/בעקבות-מזג-האוויר-כביש-234-גשר-צאלים-נחסם-לתנועה-251655
+https://news.walla.co.il/item/3823619
+https://news.walla.co.il/break/3823620
+https://hamal.co.il/main/אזעקות-בצפון-בעקבות-שיגורים-מלבנון-251658
+https://hamal.co.il/main/עימות-בגוש-עציון-רועה-צאן-נפצע-מיידוי-אבנים-שני-פלסטינים-נ-251659
