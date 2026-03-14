@@ -1,6 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3823157
-https://news.walla.co.il/break/3823155
+COUNTER:2
 https://e.walla.co.il/item/3823162
 https://news.walla.co.il/item/3823160
 https://travel.walla.co.il/item/3823012
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823560
 https://hamal.co.il/main/כוחות-צהל-הרסו-את-בית-המחבל-שביצע-את-הפיגוע-בצומת-אלחדר-251887
 https://hamal.co.il/main/כוחות-חטיבת-גולני-השלימו-את-התייצבותם-לפעילות-בגזרה-הצפונית-251890
 https://hamal.co.il/main/פרסום-ראשון-ראש-אטל-האלוף-אבודרהאם-הצטרף-היום-לחטיבה-7-ש-251891
+https://hamal.co.il/main/העיר-בדרום-שהודיעה-לא-נפתח-את-הלימודים-ביום-שני-הקרוב-251892
+https://hamal.co.il/main/כוחות-צהל-חיסלו-מחבלים-חמושים-בדרום-רצועת-עזה-251894
