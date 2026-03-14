@@ -1,10 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/דיווח-מכליות-נפט-עולות-באש-מול-חופי-עיראק--צפו-בתיעוד-250738
-https://news.walla.co.il/item/3822929
-https://news.walla.co.il/item/3822714
-https://news.walla.co.il/item/3822698
-https://e.walla.co.il/item/3823083
-https://news.walla.co.il/item/3820848
+COUNTER:15
 https://hamal.co.il/main/חשד-למתקפת-סייבר-על-רכבת-ישראל-שיבושים-בשלטי-הפרסום-והמידע-250745
 https://hamal.co.il/main/אישה-כבת-30-נפצעה-קשה-בתאונת-דרכים-סמוך-למחלף-רעננה-דרום-250746
 https://hamal.co.il/main/מטח-מלבנון-לגוש-דן-זוהו-שיגורים-מאיראן-למרכז-ולדרום-הארץ-250760
@@ -499,3 +493,9 @@ https://hamal.co.il/main/נפילה-באלוהים-אמאלה-אחותי-רגע-
 https://news.walla.co.il/item/3823632
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-המערבי-חשש-לחדירת-כלי-טיס-עוין-251729
 https://hamal.co.il/main/טראמפ-מדינות-רבות-ישלחו-ספינות-קרב-למצר-הורמוז-251740
+https://news.walla.co.il/break/3823637
+https://news.walla.co.il/break/3823635
+https://hamal.co.il/main/יוספטל-מצבו-של-הילד-שנפצע-באילת---בינוני-251742
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-251744
+https://hamal.co.il/main/אזעקות-במרכז-ובדרום-הארץ-זוהו-שיגורים-גם-לאזור-ירושלים-251768
+https://hamal.co.il/main/אזעקות-נוספות-במרכז-הארץ-הדי-פיצוצים-בגוש-דן-251798
