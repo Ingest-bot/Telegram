@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3823149
-https://news.walla.co.il/break/3823150
+COUNTER:17
 https://hamal.co.il/main/מז-250894
 https://hamal.co.il/main/צה״ל-עבר-לתצורת-״ציד״-בדרום-ובקעת-הלבנון-250896
 https://news.walla.co.il/item/3823151
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823666
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-251879
 https://hamal.co.il/main/הרמטכ״ל-251880
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251881
+https://news.walla.co.il/break/3823670
+https://hamal.co.il/main/״נתקוף-את-האויב-בנחישות-על-מנת-להרחיק-את-האיום-מישובנו״-251885
