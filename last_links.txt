@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3823112
-https://news.walla.co.il/break/3823114
-https://news.walla.co.il/break/3823113
-https://news.walla.co.il/break/3823115
+COUNTER:6
 https://hamal.co.il/main/יואב-גלנט-לא-אתמודד-בבחירות-הקרובות-לוקח-פסק-זמן-250679
 https://hamal.co.il/main/בין-אזעקות---חשד-לרצח-בגליל-המערבי-250710
 https://news.walla.co.il/break/3823118
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-בא�
 https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-ובשפלה-זוהה-שיגור-נוסף-מאיראן-251697
 https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באילת-והערבה-251700
 https://hamal.co.il/main/מד״א-לא-התקבלו-דיווחים-על-נפגעים-במטח-האחרון-251703
+https://news.walla.co.il/break/3823629
+https://news.walla.co.il/break/3823630
+https://hamal.co.il/main/חשד-לנפגעים-בעקבות-השיגור-מאיראן-לאילת-251704
+https://hamal.co.il/main/2-פצועים-מרסיסים-באילת-251705
