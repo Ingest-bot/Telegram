@@ -1,5 +1,4 @@
 COUNTER:2
-https://news.walla.co.il/break/3823010
 https://news.walla.co.il/break/3823011
 https://news.walla.co.il/break/3823014
 https://news.walla.co.il/break/3823015
@@ -499,3 +498,4 @@ https://hamal.co.il/main/שיגור-מלבנון-אזעקות-הופעלו-במ�
 https://hamal.co.il/main/שוב-ירי-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-251570
 https://hamal.co.il/main/כעת-אזעקות-במנרה-ומרגליות-251574
 https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-והסביבה-שוב-הופעלו-אזעקות-251577
+https://news.walla.co.il/break/3823563
