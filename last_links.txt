@@ -1,11 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/צה״ל-חיסל-מפקד-משמרות-המהפכה-שפעל-ביחידת-הטילים-בחיזבאללה-250977
-https://news.walla.co.il/item/3823256
-https://news.walla.co.il/item/3823234
-https://news.walla.co.il/item/3823263
-https://travel.walla.co.il/item/3823264
-https://news.walla.co.il/break/3823262
-https://news.walla.co.il/break/3823265
+COUNTER:14
 https://news.walla.co.il/break/3823268
 https://news.walla.co.il/break/3823269
 https://news.walla.co.il/break/3823270
@@ -499,3 +492,10 @@ https://hamal.co.il/main/חשד-להצתה-ברמלה-252007
 https://news.walla.co.il/item/3823730
 https://hamal.co.il/main/״צריך-למלא-את-המחסנים-להמשך״-אישור-התקציב-המיוחד-252010
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בגליל-העליון-252011
+https://news.walla.co.il/item/3823734
+https://news.walla.co.il/break/3823735
+https://news.walla.co.il/break/3823736
+https://news.walla.co.il/break/3823738
+https://hamal.co.il/main/אין-נפילות-או-נפגעים-במטח-האחרון-לצפון-252016
+https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-בדרום-252019
+https://hamal.co.il/main/במקביל-לירי-לדרום-שיגור-זוהה-מלבנון-לצפון-252034
