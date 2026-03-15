@@ -1,11 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/חמושים-נוטרלו-ע״י-צלפי-ימ״ס-במהלך-סכסוך-פנימי-בכפר-סילוואן-251185
-https://news.walla.co.il/item/3823393
-https://news.walla.co.il/break/3823394
-https://news.walla.co.il/break/3823395
-https://hamal.co.il/main/צהל-תקף-מפקדות-של-ארגון-הטרור-חיזבאללה-בביירות-ובדרום-לבנון-251186
-https://hamal.co.il/main/צבא-ארהב-מטוס-תדלוק-אמריקני-התרסק-במהלך-המבצע-נגד-איראן-פ-251187
-https://news.walla.co.il/blog/3823397
+COUNTER:3
 https://news.walla.co.il/item/3822947
 https://news.walla.co.il/item/3823278
 https://news.walla.co.il/item/3822763
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צהל-ושבכ-חיסלו-מחבל-מרכזי-בלבנ
 https://hamal.co.il/main/פריצת-דרך-בטיפול-בסרטן-הלבלב-לפגוע-בגידול-בדרך-לא-שגרתית-252189
 https://news.walla.co.il/item/3823883
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-מפקדות-של-המשטר-האיראני-בהמדאן-252193
+https://news.walla.co.il/item/3823892
+https://news.walla.co.il/item/3823894
+https://news.walla.co.il/item/3823893
+https://news.walla.co.il/break/3823890
+https://news.walla.co.il/break/3823891
+https://hamal.co.il/main/אומרים-שאתה-מת-רהמ-נתניהו-252196
+https://hamal.co.il/main/צהל-חיסל-מפקד-בחיזבאללה---אחיו-הוא-המפגע-בפיגוע-בארהב-252200
