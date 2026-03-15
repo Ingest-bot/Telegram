@@ -1,11 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3823279
-https://hamal.co.il/main/כולל-טורקיה-27-המדינות-שאסור-לישראלים-להיכנס-אליהן-כיום-251004
-https://hamal.co.il/main/מאות-עסקים-כבר-פורסמו-חמ״ל-למען-תושבי-הצפון-251007
-https://hamal.co.il/main/צהל-חיסל-את-מפקד-מרחב-דרום-לבנון-ביחידת-כוח-רדואן-251009
-https://news.walla.co.il/item/3823283
-https://hamal.co.il/main/דיווח-מוג׳תבא-חמינאי-ימסור-הצהרה-ראשונה-251013
-https://hamal.co.il/main/מעצרים-והחרמת-אמל״ח-כוחות-חטיבת-בנימין-השלימו-מבצע-בקלנדיה-251014
+COUNTER:1
 https://news.walla.co.il/item/3823289
 https://news.walla.co.il/break/3823290
 https://hamal.co.il/main/מעל-ל-250-כטב״מים-הותקפו-באיראן-251021
@@ -499,3 +492,10 @@ https://hamal.co.il/main/טראמפ-לא-נמצא-בנקודת-יציאה-מהמ
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252042
 https://e.walla.co.il/item/3823740
 https://news.walla.co.il/item/3823745
+https://travel.walla.co.il/item/3823752
+https://news.walla.co.il/break/3823753
+https://news.walla.co.il/break/3823750
+https://hamal.co.il/main/צהל-ממשיך-לתקוף-תשתיות-של-ארגון-הטרור-חיזבאללה-בלבנון-252049
+https://hamal.co.il/main/מומחה-לאיראן-לא-בטוח-שאפשר-לעשות-הרבה-בסוגיה-הגרעינית-252051
+https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-בעיר-חמדאן-252052
+https://hamal.co.il/main/פליי-דובאי-מבטלת-את-כל-טיסותיה-לארץ-עד-30-באפריל-252053
