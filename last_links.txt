@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/הסיע-שבח״ים---והפקיר-את-ביתו-בת-ה-3-כשנתפס-במחסום-250973
-https://news.walla.co.il/item/3823253
+COUNTER:9
 https://news.walla.co.il/item/3823251
 https://hamal.co.il/main/בזמן-שהילדים-משחקים-בחצר-250975
 https://hamal.co.il/main/חשוד-הצית-מגלשה-בגן-סאקר-250976
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-25
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-והשפלה-252003
 https://news.walla.co.il/break/3823726
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252005
+https://news.walla.co.il/break/3823727
+https://hamal.co.il/main/חשד-להצתה-ברמלה-252007
