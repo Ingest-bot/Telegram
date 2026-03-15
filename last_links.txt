@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3822857
-https://e.walla.co.il/item/3823433
-https://news.walla.co.il/item/3823437
+COUNTER:7
 https://news.walla.co.il/break/3823438
 https://hamal.co.il/main/החשד-לפיגוע-מתחזק-251335
 https://hamal.co.il/main/הגיעו-עם-אופנוע-גנוב-כדי-לגנוב-אחד-נוסף---ונעצרו-251336
@@ -499,3 +496,6 @@ https://hamal.co.il/main/גבר-בן-30-נפצע-קשה-בתאונה-בכביש-
 https://news.walla.co.il/item/3823941
 https://news.walla.co.il/item/3823949
 https://hamal.co.il/main/יקבלו-החרגה-המנהלת-ופיקוד-העורף-בשיחות-לגבי-חידוש-המשחקים-252263
+https://e.walla.co.il/item/3823950
+https://hamal.co.il/main/איראן-בהודעת-פינוי-לאזורים-בדוחה-ובדובאי-252275
+https://hamal.co.il/main/העיתונאי-משה-נוסבאום-מעד-במעבר-חצייה-ונפגע-מרכב-מצבו-בינוני-252277
