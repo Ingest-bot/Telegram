@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3823381
-https://hamal.co.il/main/דונלד-טראמפ-לא-ראוי-שנבחרת-איראן-תשתתף-במונדיאל-251132
-https://hamal.co.il/main/כשהאזעקות-במרכז-אלפי-ישראלים-מצאו-מפלט-ברמת-הנגב-251108
+COUNTER:18
 https://hamal.co.il/main/חשד-נערה-בת-17-רצה-למרחב-המוגן---ונדרסה-למוות-251171
 https://news.walla.co.il/break/3823387
 https://news.walla.co.il/item/3823387
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823865
 https://news.walla.co.il/break/3823846
 https://hamal.co.il/main/חנדלה-טוענים-פרצנו-למוסד-למודיעין-ותפקידים-מיוחדים-252177
 https://hamal.co.il/main/גורם-בכיר-בצה״ל-״אין-לנו-מצוקה-של-מיירטים-אנחנו-ערוכים״-252178
+https://news.walla.co.il/item/3823878
+https://hamal.co.il/main/עדכון-בנוגע-למיקוד-ההנחיה-המקדימה-של-פיקוד-העורף-252181
+https://hamal.co.il/main/דיווחים-בעזה-8-מחוסלים-בתקיפת-רכב-במרכז-הרצועה-252182
