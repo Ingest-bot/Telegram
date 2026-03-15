@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-251163
-https://hamal.co.il/main/השיגור-מאיראן-דיווח-על-נפילה-בשטח-פתוח-אין-דיווח-על-נפגעים-251170
-https://e.walla.co.il/item/3823378
+COUNTER:14
 https://news.walla.co.il/item/3823380
 https://news.walla.co.il/item/3823385
 https://news.walla.co.il/item/3823384
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823855
 https://hamal.co.il/main/5-פצועים-מהבוקר-הפצוע-בבני-ברק---שהה-ברכבו-בזמן-אזעקה-252168
 https://hamal.co.il/main/תושב-אור-עקיבא-מואשם-באונס-בתו-כשהיתה-בת-8-252170
 https://hamal.co.il/main/דובר-צה״ל-ל-CNN-נערכים-ללחימה-למשך-3-שבועות-נוספים-252171
+https://news.walla.co.il/item/3823861
+https://news.walla.co.il/item/3823862
+https://hamal.co.il/main/התקהלות-חריגה-בבני-ברק-מפקד-המשטרה---זה-מפריע-לנו-לעבוד-252175
