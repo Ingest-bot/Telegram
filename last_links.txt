@@ -1,11 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/כדי-למתן-את-מחירי-האנרגיה-ארהב-תסיר-זמנית-סנקציות-על-נפט-ר-251312
-https://news.walla.co.il/item/3823415
-https://news.walla.co.il/break/3823417
-https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-251315
-https://news.walla.co.il/break/3823418
-https://news.walla.co.il/break/3823419
-https://hamal.co.il/main/במהלך-היממה-האחרונה-חיל-האוויר-תקף-יותר-מ-200-מטרות-במערב-ו-251316
+COUNTER:17
 https://hamal.co.il/main/מזג-אוויר-בהיר-עד-מעונן-חלקית-וחם-מהרגיל-ייתכן-אובך-קל-במזר-251317
 https://news.walla.co.il/item/3823420
 https://hamal.co.il/main/טראמפ-באיום-על-חמינאי-הבן-מכים-בהם-חזק-מכפי-שכמעט-כל-מדינה-251318
@@ -499,3 +492,10 @@ https://hamal.co.il/main/נערה-בת-15-נפצעה-קשה-בתאונת-דרכ�
 https://news.walla.co.il/break/3823919
 https://hamal.co.il/main/משרד-הבריאות-חולה-חצבת-היה-בבית-כנסת-בבני-ברק-252230
 https://hamal.co.il/main/בשורה-המלחמה-באיראן-עשויה-לחתוך-את-מחירי-הכרטיסים-למונדיאל-252224
+https://news.walla.co.il/item/3823923
+https://news.walla.co.il/break/3823925
+https://news.walla.co.il/break/3823924
+https://hamal.co.il/main/כעבור-שנה---הסתיימה-הרחקתו-של-אוריך-מלשכת-ראש-הממשלה-252234
+https://hamal.co.il/main/תיעודים-חדשים-מטוסי-ה׳אדיר-F-35I-בדרך-לתקיפה-באיראן-252238
+https://hamal.co.il/main/בשל-מחלת-הפה-והטלפיים-סגירה-זמנית-של-שמורות-252243
+https://hamal.co.il/main/כוחותינו-חיסלו-חוליית-מחבלים-נוספת-בדרום-לבנון-252250
