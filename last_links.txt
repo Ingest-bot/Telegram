@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/השיגור-מאיראן-הטיל-יורט-לא-דווח-על-נפגעים-251326
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251328
-https://news.walla.co.il/break/3823423
+COUNTER:0
 https://news.walla.co.il/break/3823424
 https://news.walla.co.il/break/3823425
 https://news.walla.co.il/break/3823427
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823926
 https://news.walla.co.il/break/3823927
 https://hamal.co.il/main/מנכל-משרד-הביטחון-יצא-הערב-לביקור-עבודה-קצר-בוושינגטון-252257
 https://hamal.co.il/main/רכבת-ישראל-תפעיל-שירות-רכבות-לאורך-כל-הלילה-לנקודות-מרכזיות-252260
+https://news.walla.co.il/item/3823934
+https://news.walla.co.il/break/3823932
+https://hamal.co.il/main/הצהרת-דובר-צהל-תת-אלוף-אפי-דפרין--שידור-ישיר-252266
