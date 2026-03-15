@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3823398
+COUNTER:5
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-251192
 https://news.walla.co.il/break/3823399
 https://hamal.co.il/main/אזעקות-נשמעו-ברמת-הגולן-עקב-חדירת-כלי-טיס-עוין-251196
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-חיסל-מפקד-בחיזבאללה---אחיו-
 https://news.walla.co.il/break/3823900
 https://news.walla.co.il/break/3823899
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-252202
+https://hamal.co.il/main/לידיעת-המשקיעים-הקרן-שניצחה-את-כולם-בפברואר-וזו-שהתרסקה-252205
