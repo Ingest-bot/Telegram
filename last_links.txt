@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3823447
-https://hamal.co.il/main/תיעוד-שבר-יירוט-ענק-נפל-הלילה-בגליל-אין-נפגעים-251346
-https://hamal.co.il/main/האסון-בנשר-נקבע-מותו-של-הפועל-שנפגע-מקריסת-קיר-251347
+COUNTER:11
 https://hamal.co.il/main/צהל-פועל-בדרום-לבנון-400-מטרות-הותקפו-251349
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-באשדוד-מצבו-קשה-251358
 https://hamal.co.il/main/פיצוצים-ברחובות-טהרן-251361
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823965
 https://news.walla.co.il/break/3823967
 https://hamal.co.il/main/ארהב-מקימה-קואליציה-ימית-להגנה-על-ספינות-במצרי-הורמוז-252282
 https://hamal.co.il/main/צהל-כוחותינו-תוקפים-תשתיות-של-חיזבאללה-בביירות-252283
+https://e.walla.co.il/item/3823958
+https://news.walla.co.il/blog/3823962
+https://hamal.co.il/main/מקרון-שוחח-עם-נשיא-איראן-להפסיק-מיד-את-ההתקפות-באזור-252285
