@@ -1,6 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-באשדוד-מצבו-קשה-251358
-https://hamal.co.il/main/פיצוצים-ברחובות-טהרן-251361
+COUNTER:12
 https://hamal.co.il/main/כץ-מאיים-על-לבנון-תשלם-מחיר-באיבוד-שטח-251362
 https://hamal.co.il/main/צפו-הלוחמים-בבאח-נחל-מאחלים-שבת-שלום-לכל-עם-ישראל-251364
 https://hamal.co.il/main/עלי-לריגאני-נצפה-ברחובות-טהרן-251365
@@ -499,3 +497,5 @@ https://e.walla.co.il/item/3823958
 https://news.walla.co.il/blog/3823962
 https://hamal.co.il/main/מקרון-שוחח-עם-נשיא-איראן-להפסיק-מיד-את-ההתקפות-באזור-252285
 https://news.walla.co.il/break/3823970
+https://news.walla.co.il/break/3823971
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-למרכז-252288
