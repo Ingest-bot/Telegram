@@ -1,11 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3823323
-https://news.walla.co.il/break/3823324
-https://news.walla.co.il/break/3823325
-https://news.walla.co.il/break/3823326
-https://hamal.co.il/main/אורב-לקורבן-דוקר-ונמלט-תיעוד-קשה-מהפיגוע-ברמת-גן--צפו-251078
-https://hamal.co.il/main/הפצוע-בפיגוע-ברמת-גן---יור-המועצה-הדתית-בעיר-251081
-https://hamal.co.il/main/אריה-דרעי-על-הפיגוע-ברמת-גן-מזועזע-עד-עמקי-נשמתי-251082
+COUNTER:15
 https://news.walla.co.il/item/3823329
 https://news.walla.co.il/item/3823334
 https://news.walla.co.il/break/3823333
@@ -499,3 +492,10 @@ https://hamal.co.il/main/״אתם-מסכנים-את-עצמכם״-אזהרת-פי
 https://hamal.co.il/main/20-דקות-וסיימתם-אימון-ביתי-שירים-אותכם-מהספה-252091
 https://news.walla.co.il/item/3823794
 https://travel.walla.co.il/item/3823797
+https://news.walla.co.il/item/3823798
+https://news.walla.co.il/item/3823799
+https://news.walla.co.il/item/3823658
+https://news.walla.co.il/item/3823800
+https://hamal.co.il/main/20-מחבלים-חוסלו-ברצועה-אחד-מהם--סגן-מפקד-בנוחבה-שפשט-ב-710-252097
+https://hamal.co.il/main/איפה-התינוק-דיון-בהארכת-מעצר-האישה-שילדה-בבית-ומסרה-את-הילד-252095
+https://hamal.co.il/main/זוהה-שיגור-לאילת-252099
