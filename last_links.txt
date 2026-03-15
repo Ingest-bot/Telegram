@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/בית-החולים-מעייני-הישועה-בבני-ברק-ילד-אובחן-כחולה-חצבת-251179
-https://hamal.co.il/main/דיווח-251184
+COUNTER:1
 https://hamal.co.il/main/חמושים-נוטרלו-ע״י-צלפי-ימ״ס-במהלך-סכסוך-פנימי-בכפר-סילוואן-251185
 https://news.walla.co.il/item/3823393
 https://news.walla.co.il/break/3823394
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823879
 https://news.walla.co.il/item/3823881
 https://hamal.co.il/main/צהל-ושבכ-חיסלו-מחבל-מרכזי-בלבנון-שפעל-במודיעין-האיראני-252186
 https://hamal.co.il/main/פריצת-דרך-בטיפול-בסרטן-הלבלב-לפגוע-בגידול-בדרך-לא-שגרתית-252189
+https://news.walla.co.il/item/3823883
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-מפקדות-של-המשטר-האיראני-בהמדאן-252193
