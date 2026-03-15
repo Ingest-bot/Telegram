@@ -1,6 +1,4 @@
 COUNTER:17
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250991
-https://hamal.co.il/main/יו״ר-איגוד-המסעדות-והברים-על-יוזמת-חמ״ל-״מעניקה-חמצן-אמיתי״-250995
 https://news.walla.co.il/break/3823279
 https://hamal.co.il/main/כולל-טורקיה-27-המדינות-שאסור-לישראלים-להיכנס-אליהן-כיום-251004
 https://hamal.co.il/main/מאות-עסקים-כבר-פורסמו-חמ״ל-למען-תושבי-הצפון-251007
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823742
 https://hamal.co.il/main/ירי-מלבנון-ואיראן-במקביל-אין-דיווחים-על-נפילות-או-נפגעים-252040
 https://hamal.co.il/main/טראמפ-לא-נמצא-בנקודת-יציאה-מהמלחמה-הזו-252039
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252042
+https://e.walla.co.il/item/3823740
+https://news.walla.co.il/item/3823745
