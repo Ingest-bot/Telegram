@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3823407
-https://news.walla.co.il/break/3823412
+COUNTER:10
 https://news.walla.co.il/break/3823414
 https://hamal.co.il/main/פונו-19-נפגעים-מהזירה-בזרזיר---בהם-פצועה-כבת-34-במצב-בינוני-251308
 https://hamal.co.il/main/התיעודים-מזירת-הנפילה-בזרזיר-251310
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-ממשיך-לחסל-חיילים-של-המשטר
 https://hamal.co.il/main/בכיר-באמן-חושף-הטעות-האיראנית-שהובילה-לחיסול-עלי-חמינאי-252214
 https://news.walla.co.il/break/3823911
 https://hamal.co.il/main/גבר-בן-40-נהרג-בתאונת-דרכים-צפונית-לאילת-252215
+https://hamal.co.il/main/מדד-המחירים-לצרכן-עלה-ב-02-מחירי-הדירות-ממשיכים-לרדת-252227
+https://hamal.co.il/main/מפקד-פיקוד-העורף-פחות-אנשים-יקבלו-התרעה-שלא-לצורך-252220
