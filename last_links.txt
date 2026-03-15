@@ -1,8 +1,4 @@
-COUNTER:3
-https://e.walla.co.il/item/3823228
-https://news.walla.co.il/item/3823238
-https://news.walla.co.il/item/3823239
-https://hamal.co.il/main/כ״ץ-הנחה-את-צה״ל-להיערך-להרחבת-הפעולה-בלבנון-״ניקח-את-השטח״-250970
+COUNTER:4
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250971
 https://news.walla.co.il/item/3823241
 https://e.walla.co.il/item/3823244
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/שריפות-בכמה-מוקדים-במרכז-הארץ-עקב-נפילת-רסיסי-יירוט-251970
 https://hamal.co.il/main/פעילות-כוחות-מדא-באחת-מזירות-נפילת-הרסיסים-במרכז-הארץ-251972
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-251974
+https://news.walla.co.il/break/3823722
+https://news.walla.co.il/break/3823723
+https://news.walla.co.il/break/3823724
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251980
