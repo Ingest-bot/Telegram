@@ -1,6 +1,4 @@
 COUNTER:12
-https://e.walla.co.il/item/3823266
-https://news.walla.co.il/break/3823321
 https://news.walla.co.il/break/3823323
 https://news.walla.co.il/break/3823324
 https://news.walla.co.il/break/3823325
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3823785
 https://hamal.co.il/main/למרות-ההנחיות-אלו-הערים-שדוחות-את-הלימודים-הפרונטליים-252083
 https://hamal.co.il/main/״אתם-מסכנים-את-עצמכם״-אזהרת-פינוי-נוספת-בדרום-לבנון-252087
 https://hamal.co.il/main/20-דקות-וסיימתם-אימון-ביתי-שירים-אותכם-מהספה-252091
+https://news.walla.co.il/item/3823794
+https://travel.walla.co.il/item/3823797
