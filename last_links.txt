@@ -1,10 +1,4 @@
-COUNTER:10
-https://e.walla.co.il/item/3823371
-https://hamal.co.il/main/יקנעם-251156
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-251157
-https://hamal.co.il/main/מסיבת-עיתונאים-של-ראש-הממשלה-נתניהו--ישיר-251160
-https://news.walla.co.il/break/3823374
-https://news.walla.co.il/break/3823375
+COUNTER:13
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-251163
 https://hamal.co.il/main/השיגור-מאיראן-דיווח-על-נפילה-בשטח-פתוח-אין-דיווח-על-נפגעים-251170
 https://e.walla.co.il/item/3823378
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/בזכות-הממד-ניצולת-שואה-ניצלה-לאחר-נפילת-שברי-יירוט-252122
 https://e.walla.co.il/item/3823851
 https://hamal.co.il/main/איחוד-האמירויות-יירטנו-4-טילים-ו-6-כטב״מים-איראנים-252157
+https://e.walla.co.il/item/3823858
+https://news.walla.co.il/item/3823859
+https://news.walla.co.il/item/3823855
+https://hamal.co.il/main/5-פצועים-מהבוקר-הפצוע-בבני-ברק---שהה-ברכבו-בזמן-אזעקה-252168
+https://hamal.co.il/main/תושב-אור-עקיבא-מואשם-באונס-בתו-כשהיתה-בת-8-252170
+https://hamal.co.il/main/דובר-צה״ל-ל-CNN-נערכים-ללחימה-למשך-3-שבועות-נוספים-252171
