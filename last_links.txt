@@ -1,11 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3823308
-https://news.walla.co.il/break/3823314
-https://news.walla.co.il/break/3823309
-https://news.walla.co.il/break/3823315
-https://news.walla.co.il/break/3823316
-https://hamal.co.il/main/בתום-מצוד-החשוד-בדקירה-ברמת-גן-נעצר-251072
-https://hamal.co.il/main/הפצר-החליט-על-ביטול-כתב-האישום-בפרשת-שדה-תימן-251075
+COUNTER:12
 https://e.walla.co.il/item/3823266
 https://news.walla.co.il/break/3823321
 https://news.walla.co.il/break/3823323
@@ -499,3 +492,10 @@ https://e.walla.co.il/item/3823775
 https://news.walla.co.il/item/3823782
 https://news.walla.co.il/break/3823784
 https://hamal.co.il/main/דיווחים-באיראן-על-פיצוצים-באספהאן-252078
+https://travel.walla.co.il/item/3823789
+https://news.walla.co.il/item/3823787
+https://news.walla.co.il/item/3823792
+https://news.walla.co.il/break/3823785
+https://hamal.co.il/main/למרות-ההנחיות-אלו-הערים-שדוחות-את-הלימודים-הפרונטליים-252083
+https://hamal.co.il/main/״אתם-מסכנים-את-עצמכם״-אזהרת-פינוי-נוספת-בדרום-לבנון-252087
+https://hamal.co.il/main/20-דקות-וסיימתם-אימון-ביתי-שירים-אותכם-מהספה-252091
