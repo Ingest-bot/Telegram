@@ -1,10 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3823268
-https://news.walla.co.il/break/3823269
-https://news.walla.co.il/break/3823270
-https://hamal.co.il/main/החורף-חוזר-התחזית-לסוף-השבוע---גשם-ורוחות-חזקות-250980
-https://news.walla.co.il/break/3823275
-https://hamal.co.il/main/בית-בושת-אותר-בתוך-מקלט-ציבורי-לא-נתנו-להיכנס-בזמן-אזעקה-250985
+COUNTER:17
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250991
 https://hamal.co.il/main/יו״ר-איגוד-המסעדות-והברים-על-יוזמת-חמ״ל-״מעניקה-חמצן-אמיתי״-250995
 https://news.walla.co.il/break/3823279
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3823738
 https://hamal.co.il/main/אין-נפילות-או-נפגעים-במטח-האחרון-לצפון-252016
 https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-בדרום-252019
 https://hamal.co.il/main/במקביל-לירי-לדרום-שיגור-זוהה-מלבנון-לצפון-252034
+https://news.walla.co.il/item/3823739
+https://news.walla.co.il/item/3823741
+https://news.walla.co.il/break/3823742
+https://hamal.co.il/main/ירי-מלבנון-ואיראן-במקביל-אין-דיווחים-על-נפילות-או-נפגעים-252040
+https://hamal.co.il/main/טראמפ-לא-נמצא-בנקודת-יציאה-מהמלחמה-הזו-252039
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252042
