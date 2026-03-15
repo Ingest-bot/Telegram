@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3823332
-https://hamal.co.il/main/צומת-תפוח-2-חשודים-ניסו-לדרוס-כוחות-שהספיקו-לירות-לכיוונם-251085
+COUNTER:19
 https://news.walla.co.il/break/3823337
 https://hamal.co.il/main/מחבלים-ירו-לעמדת-צהל-מעצור-בנשק-הוביל-אותם-להימלט-ולדרוס-251088
 https://hamal.co.il/main/חשד-לחדירת-כטבם-אזעקות-בקרית-שמונה-והסביבה-251111
@@ -499,3 +497,5 @@ https://hamal.co.il/main/זוהה-שיגור-לאילת-252099
 https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-במרכז-252102
 https://hamal.co.il/main/צוותים-מבצעים-סריקות-במספר-זירות-בגוש-דן-252109
 https://hamal.co.il/main/טיל-מצרר-יורט-באילת-252110
+https://news.walla.co.il/item/3823811
+https://hamal.co.il/main/מבנה-נפגע-בפתח-תקווה-רכבים-ניזוקו-בתל-אביב-252114
