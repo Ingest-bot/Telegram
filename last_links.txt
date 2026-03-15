@@ -1,10 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3823347
-https://hamal.co.il/main/אישום-חמור-4-קטינים-בני-16-ביצעו-עבירות-מין-בבת-14-251128
-https://news.walla.co.il/break/3823349
-https://news.walla.co.il/break/3823350
-https://hamal.co.il/main/חשבתם-שפספסתם-את-הפיצויים-יש-לכם-הזדמנות-אחרונה-בהחלט-251103
-https://hamal.co.il/main/בשיא-המבצע---צהל-מותח-את-הכוחות-בין-הזירות-השונות-251135
+COUNTER:5
 https://hamal.co.il/main/תיעוד-מיוחד-משמי-טהרן-חיל-האוויר-תקף-מחסומים-וחיילים-של-יחי-251137
 https://news.walla.co.il/item/3823358
 https://hamal.co.il/main/דיווח-אירוע-ירי-בבית-כנסת-במישיגן-251139
@@ -499,3 +493,9 @@ https://hamal.co.il/main/תיעוד-ממערב-איראן-ניסו-לברוח---
 https://hamal.co.il/main/ויכוח-בועדת-חוקה-״התקופה-הכי-שחורה-שהייתה-במדינה״-252129
 https://hamal.co.il/main/כדור-אש-במרכז-הכביש-תיעוד-נפילת-שברי-היירוט-בתל-אביב-252134
 https://hamal.co.il/main/3-פצועים-קל-במטח-האחרון-252136
+https://news.walla.co.il/item/3823833
+https://news.walla.co.il/item/3823831
+https://e.walla.co.il/item/3823830
+https://e.walla.co.il/item/3823828
+https://news.walla.co.il/item/3823829
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252150
