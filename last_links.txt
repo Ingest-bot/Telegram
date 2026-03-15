@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3822947
-https://news.walla.co.il/item/3823278
-https://news.walla.co.il/item/3822763
+COUNTER:4
 https://news.walla.co.il/break/3823398
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-251192
 https://news.walla.co.il/break/3823399
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823890
 https://news.walla.co.il/break/3823891
 https://hamal.co.il/main/אומרים-שאתה-מת-רהמ-נתניהו-252196
 https://hamal.co.il/main/צהל-חיסל-מפקד-בחיזבאללה---אחיו-הוא-המפגע-בפיגוע-בארהב-252200
+https://news.walla.co.il/break/3823900
+https://news.walla.co.il/break/3823899
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-252202
