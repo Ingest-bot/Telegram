@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-251192
-https://news.walla.co.il/break/3823399
-https://hamal.co.il/main/אזעקות-נשמעו-ברמת-הגולן-עקב-חדירת-כלי-טיס-עוין-251196
-https://news.walla.co.il/item/3823413
+COUNTER:7
 https://news.walla.co.il/break/3823410
 https://news.walla.co.il/break/3823411
 https://news.walla.co.il/break/3823407
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3823900
 https://news.walla.co.il/break/3823899
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-252202
 https://hamal.co.il/main/לידיעת-המשקיעים-הקרן-שניצחה-את-כולם-בפברואר-וזו-שהתרסקה-252205
+https://news.walla.co.il/item/3823902
+https://news.walla.co.il/item/3823863
+https://hamal.co.il/main/צהל-ממשיך-לחסל-חיילים-של-המשטר-האיראני-בעת-בריחתם-מאתרים-252210
+https://hamal.co.il/main/בכיר-באמן-חושף-הטעות-האיראנית-שהובילה-לחיסול-עלי-חמינאי-252214
