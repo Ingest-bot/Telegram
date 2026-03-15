@@ -1,9 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/תיעוד-חד-פעמי-מה-מספרות-מצלמות-הגוף-של-כוחותינו-בדרום-לבנון-251140
-https://hamal.co.il/main/יותר-מ-20-מגדלים-קרסו-כח-רדואן-מאוים-רובע-הדאחיה-בוער-251146
-https://news.walla.co.il/item/3823363
-https://news.walla.co.il/break/3823362
-https://hamal.co.il/main/השריף-על-הירי-במישיגן-251151
+COUNTER:9
 https://hamal.co.il/main/הקונסול-הכללי-של-ישראל-251152
 https://hamal.co.il/main/נעילה-שלילית-בתא-המדדים-המובילים-צנחו-השקל-נחלש-מול-הדולר-251150
 https://e.walla.co.il/item/3823371
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3823842
 https://news.walla.co.il/break/3823844
 https://hamal.co.il/main/הדי-פיצוצים-נשמעים-במרכז-הארץ-252153
 https://hamal.co.il/main/פצוע-קל-בפגיעת-מבנה-בבני-ברק-252154
+https://news.walla.co.il/item/3823849
+https://news.walla.co.il/item/3823850
+https://news.walla.co.il/break/3823847
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252156
+https://hamal.co.il/main/בזכות-הממד-ניצולת-שואה-ניצלה-לאחר-נפילת-שברי-יירוט-252122
