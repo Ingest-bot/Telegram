@@ -1,12 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/קיר-קרס-על-פועל-באתר-בנייה-בנשר-251337
-https://news.walla.co.il/break/3823439
-https://hamal.co.il/main/הפיץ-תמונות-אינטימיות-של-ב-251338
-https://hamal.co.il/main/במספר-מרחבים-במקביל-צהל-תקף-נכסים-של-חיזבאללה-בלבנון-251340
-https://news.walla.co.il/break/3823446
-https://news.walla.co.il/break/3823445
-https://hamal.co.il/main/תיעוד-תקיפות-חיל-האוויר-בטהרן-251342
-https://hamal.co.il/main/פיצוצי-ענק-באמצע-הרחוב-תיעוד-מתקיפות-חיל-האוויר-251345
+COUNTER:10
 https://news.walla.co.il/break/3823447
 https://hamal.co.il/main/תיעוד-שבר-יירוט-ענק-נפל-הלילה-בגליל-אין-נפגעים-251346
 https://hamal.co.il/main/האסון-בנשר-נקבע-מותו-של-הפועל-שנפגע-מקריסת-קיר-251347
@@ -499,3 +491,11 @@ https://hamal.co.il/main/העיתונאי-משה-נוסבאום-מעד-במעב�
 https://news.walla.co.il/break/3823953
 https://hamal.co.il/main/החזרה-ללימודים-בדרום-מי-פותח-ומי-נשאר-סגור-252280
 https://news.walla.co.il/item/3823957
+https://news.walla.co.il/item/3823806
+https://news.walla.co.il/item/3823760
+https://news.walla.co.il/item/3823305
+https://news.walla.co.il/item/3823327
+https://news.walla.co.il/break/3823965
+https://news.walla.co.il/break/3823967
+https://hamal.co.il/main/ארהב-מקימה-קואליציה-ימית-להגנה-על-ספינות-במצרי-הורמוז-252282
+https://hamal.co.il/main/צהל-כוחותינו-תוקפים-תשתיות-של-חיזבאללה-בביירות-252283
