@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3823329
-https://news.walla.co.il/item/3823334
-https://news.walla.co.il/break/3823333
+COUNTER:18
 https://news.walla.co.il/break/3823332
 https://hamal.co.il/main/צומת-תפוח-2-חשודים-ניסו-לדרוס-כוחות-שהספיקו-לירות-לכיוונם-251085
 https://news.walla.co.il/break/3823337
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823800
 https://hamal.co.il/main/20-מחבלים-חוסלו-ברצועה-אחד-מהם--סגן-מפקד-בנוחבה-שפשט-ב-710-252097
 https://hamal.co.il/main/איפה-התינוק-דיון-בהארכת-מעצר-האישה-שילדה-בבית-ומסרה-את-הילד-252095
 https://hamal.co.il/main/זוהה-שיגור-לאילת-252099
+https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-במרכז-252102
+https://hamal.co.il/main/צוותים-מבצעים-סריקות-במספר-זירות-בגוש-דן-252109
+https://hamal.co.il/main/טיל-מצרר-יורט-באילת-252110
