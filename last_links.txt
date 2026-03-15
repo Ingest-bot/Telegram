@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3823424
-https://news.walla.co.il/break/3823425
-https://news.walla.co.il/break/3823427
+COUNTER:1
 https://hamal.co.il/main/צהל-תקפנו-גשר-מרכזי-בנהר-הליטאני--צפו-251329
 https://hamal.co.il/main/פרשת-ויקהל-פקודי-אלו-זמני-השבת-251330
 https://news.walla.co.il/item/3823421
@@ -499,3 +496,6 @@ https://hamal.co.il/main/רכבת-ישראל-תפעיל-שירות-רכבות-ל
 https://news.walla.co.il/item/3823934
 https://news.walla.co.il/break/3823932
 https://hamal.co.il/main/הצהרת-דובר-צהל-תת-אלוף-אפי-דפרין--שידור-ישיר-252266
+https://travel.walla.co.il/item/3823937
+https://news.walla.co.il/break/3823938
+https://hamal.co.il/main/בכירים-ישראליים-לרוייטרס-ישראל-ולבנון-יקיימו-שיחות-בימים-הק-252270
