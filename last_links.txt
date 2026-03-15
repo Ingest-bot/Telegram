@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3823251
-https://hamal.co.il/main/בזמן-שהילדים-משחקים-בחצר-250975
-https://hamal.co.il/main/חשוד-הצית-מגלשה-בגן-סאקר-250976
+COUNTER:11
 https://hamal.co.il/main/צה״ל-חיסל-מפקד-משמרות-המהפכה-שפעל-ביחידת-הטילים-בחיזבאללה-250977
 https://news.walla.co.il/item/3823256
 https://news.walla.co.il/item/3823234
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823726
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252005
 https://news.walla.co.il/break/3823727
 https://hamal.co.il/main/חשד-להצתה-ברמלה-252007
+https://news.walla.co.il/item/3823730
+https://hamal.co.il/main/״צריך-למלא-את-המחסנים-להמשך״-אישור-התקציב-המיוחד-252010
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בגליל-העליון-252011
