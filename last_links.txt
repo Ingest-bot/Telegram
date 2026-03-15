@@ -1,6 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/הקונסול-הכללי-של-ישראל-251152
-https://hamal.co.il/main/נעילה-שלילית-בתא-המדדים-המובילים-צנחו-השקל-נחלש-מול-הדולר-251150
+COUNTER:10
 https://e.walla.co.il/item/3823371
 https://hamal.co.il/main/יקנעם-251156
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-נרחב-בטהרן-251157
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823850
 https://news.walla.co.il/break/3823847
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252156
 https://hamal.co.il/main/בזכות-הממד-ניצולת-שואה-ניצלה-לאחר-נפילת-שברי-יירוט-252122
+https://e.walla.co.il/item/3823851
+https://hamal.co.il/main/איחוד-האמירויות-יירטנו-4-טילים-ו-6-כטב״מים-איראנים-252157
