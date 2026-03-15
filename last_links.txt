@@ -1,10 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/תיעוד-מיוחד-משמי-טהרן-חיל-האוויר-תקף-מחסומים-וחיילים-של-יחי-251137
-https://news.walla.co.il/item/3823358
-https://hamal.co.il/main/דיווח-אירוע-ירי-בבית-כנסת-במישיגן-251139
-https://news.walla.co.il/item/3823354
-https://news.walla.co.il/item/3823274
-https://news.walla.co.il/break/3823361
+COUNTER:7
 https://hamal.co.il/main/תיעוד-חד-פעמי-מה-מספרות-מצלמות-הגוף-של-כוחותינו-בדרום-לבנון-251140
 https://hamal.co.il/main/יותר-מ-20-מגדלים-קרסו-כח-רדואן-מאוים-רובע-הדאחיה-בוער-251146
 https://news.walla.co.il/item/3823363
@@ -499,3 +493,9 @@ https://e.walla.co.il/item/3823830
 https://e.walla.co.il/item/3823828
 https://news.walla.co.il/item/3823829
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252150
+https://news.walla.co.il/break/3823839
+https://news.walla.co.il/break/3823841
+https://news.walla.co.il/break/3823842
+https://news.walla.co.il/break/3823844
+https://hamal.co.il/main/הדי-פיצוצים-נשמעים-במרכז-הארץ-252153
+https://hamal.co.il/main/פצוע-קל-בפגיעת-מבנה-בבני-ברק-252154
