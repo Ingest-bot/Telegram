@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3823410
-https://news.walla.co.il/break/3823411
+COUNTER:8
 https://news.walla.co.il/break/3823407
 https://news.walla.co.il/break/3823412
 https://news.walla.co.il/break/3823414
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3823902
 https://news.walla.co.il/item/3823863
 https://hamal.co.il/main/צהל-ממשיך-לחסל-חיילים-של-המשטר-האיראני-בעת-בריחתם-מאתרים-252210
 https://hamal.co.il/main/בכיר-באמן-חושף-הטעות-האיראנית-שהובילה-לחיסול-עלי-חמינאי-252214
+https://news.walla.co.il/break/3823911
+https://hamal.co.il/main/גבר-בן-40-נהרג-בתאונת-דרכים-צפונית-לאילת-252215
