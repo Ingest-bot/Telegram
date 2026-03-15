@@ -1,10 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3823337
-https://hamal.co.il/main/מחבלים-ירו-לעמדת-צהל-מעצור-בנשק-הוביל-אותם-להימלט-ולדרוס-251088
-https://hamal.co.il/main/חשד-לחדירת-כטבם-אזעקות-בקרית-שמונה-והסביבה-251111
-https://hamal.co.il/main/הרמטכל-המערכה-בצפון-לא-תהיה-קצרה-251118
-https://news.walla.co.il/break/3823343
-https://hamal.co.il/main/נתניהו-על-פרשת-כוח-100-עלילת-הדם-הגיעה-לקיצה-251119
+COUNTER:1
 https://hamal.co.il/main/דובר-צהל-הבטיח-וקיים-המבנה-שקיבל-אזהרת-פינוי-בביירות-הותקף-251126
 https://news.walla.co.il/item/3823284
 https://news.walla.co.il/item/3823348
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צוותים-מבצעים-סריקות-במספר-זי�
 https://hamal.co.il/main/טיל-מצרר-יורט-באילת-252110
 https://news.walla.co.il/item/3823811
 https://hamal.co.il/main/מבנה-נפגע-בפתח-תקווה-רכבים-ניזוקו-בתל-אביב-252114
+https://news.walla.co.il/item/3823817
+https://news.walla.co.il/item/3823815
+https://news.walla.co.il/item/3823822
+https://news.walla.co.il/break/3823819
+https://hamal.co.il/main/3-פצועים-קל-בתל-אביב-252116
+https://hamal.co.il/main/תיעוד-ממערב-איראן-ניסו-לברוח---אבל-חיל-האוויר-חיסל-אותם-252124
