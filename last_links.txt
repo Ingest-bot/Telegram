@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/דובר-צהל-הבטיח-וקיים-המבנה-שקיבל-אזהרת-פינוי-בביירות-הותקף-251126
-https://news.walla.co.il/item/3823284
-https://news.walla.co.il/item/3823348
+COUNTER:4
 https://news.walla.co.il/break/3823347
 https://hamal.co.il/main/אישום-חמור-4-קטינים-בני-16-ביצעו-עבירות-מין-בבת-14-251128
 https://news.walla.co.il/break/3823349
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823822
 https://news.walla.co.il/break/3823819
 https://hamal.co.il/main/3-פצועים-קל-בתל-אביב-252116
 https://hamal.co.il/main/תיעוד-ממערב-איראן-ניסו-לברוח---אבל-חיל-האוויר-חיסל-אותם-252124
+https://hamal.co.il/main/ויכוח-בועדת-חוקה-״התקופה-הכי-שחורה-שהייתה-במדינה״-252129
+https://hamal.co.il/main/כדור-אש-במרכז-הכביש-תיעוד-נפילת-שברי-היירוט-בתל-אביב-252134
+https://hamal.co.il/main/3-פצועים-קל-במטח-האחרון-252136
