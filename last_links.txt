@@ -1,5 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/30-פצועים-בזירה-בזרזיר-251311
+COUNTER:13
 https://hamal.co.il/main/כדי-למתן-את-מחירי-האנרגיה-ארהב-תסיר-זמנית-סנקציות-על-נפט-ר-251312
 https://news.walla.co.il/item/3823415
 https://news.walla.co.il/break/3823417
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מפקד-פיקוד-העורף-פחות-אנשים-יק
 https://hamal.co.il/main/נערה-בת-15-נפצעה-קשה-בתאונת-דרכים-בצומת-הודיה-252228
 https://news.walla.co.il/break/3823919
 https://hamal.co.il/main/משרד-הבריאות-חולה-חצבת-היה-בבית-כנסת-בבני-ברק-252230
+https://hamal.co.il/main/בשורה-המלחמה-באיראן-עשויה-לחתוך-את-מחירי-הכרטיסים-למונדיאל-252224
