@@ -1,10 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3823289
-https://news.walla.co.il/break/3823290
-https://hamal.co.il/main/מעל-ל-250-כטב״מים-הותקפו-באיראן-251021
-https://news.walla.co.il/item/3823272
-https://news.walla.co.il/item/3823290
-https://hamal.co.il/main/שוב-אזעקות-חשש-לחדירת-כלי-טיס-עויין-מלבנון-לגליל-המערבי-251037
+COUNTER:4
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-251038
 https://news.walla.co.il/break/3823300
 https://hamal.co.il/main/במקביל-לשיגורים-מלבנון-דובר-צה״ל-בהודעת-פינוי-בדרום-לבנון-251058
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צהל-ממשיך-לתקוף-תשתיות-של-ארגו
 https://hamal.co.il/main/מומחה-לאיראן-לא-בטוח-שאפשר-לעשות-הרבה-בסוגיה-הגרעינית-252051
 https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-בעיר-חמדאן-252052
 https://hamal.co.il/main/פליי-דובאי-מבטלת-את-כל-טיסותיה-לארץ-עד-30-באפריל-252053
+https://e.walla.co.il/item/3823748
+https://news.walla.co.il/item/3823759
+https://news.walla.co.il/item/3823764
+https://hamal.co.il/main/תיעוד-21-שוהים-בלתי-חוקיים-נעצרו-במחסום-חיזמא-252063
+https://hamal.co.il/main/בתה-של-השרה-אורית-סטרוק-נמצאה-ללא-רוח-חיים-בביתה-252065
+https://hamal.co.il/main/דיווחים-באיראן-בסיס-חיל-האוויר-בדזפול-הותקף-252066
