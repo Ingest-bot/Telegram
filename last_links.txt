@@ -1,6 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/item/3823380
-https://news.walla.co.il/item/3823385
 https://news.walla.co.il/item/3823384
 https://news.walla.co.il/break/3823379
 https://news.walla.co.il/break/3823381
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דובר-צה״ל-ל-CNN-נערכים-ללחימה-למ
 https://news.walla.co.il/item/3823861
 https://news.walla.co.il/item/3823862
 https://hamal.co.il/main/התקהלות-חריגה-בבני-ברק-מפקד-המשטרה---זה-מפריע-לנו-לעבוד-252175
+https://news.walla.co.il/item/3823865
+https://news.walla.co.il/break/3823846
