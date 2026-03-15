@@ -1,7 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-250971
-https://news.walla.co.il/item/3823241
-https://e.walla.co.il/item/3823244
+COUNTER:7
 https://news.walla.co.il/item/3823248
 https://hamal.co.il/main/צה״ל-תקף-אתר-גרעין-נוסף-בטהרן-250972
 https://hamal.co.il/main/הסיע-שבח״ים---והפקיר-את-ביתו-בת-ה-3-כשנתפס-במחסום-250973
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3823722
 https://news.walla.co.il/break/3823723
 https://news.walla.co.il/break/3823724
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251980
+https://hamal.co.il/main/דובר-צהל-צהל-זיהה-כי-לפני-זמן-קצר-שוגרו-טילים-מאיראן-לעב-251992
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-251996
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-והשפלה-252003
