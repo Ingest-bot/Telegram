@@ -1,10 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/ראש-העין-לוחמי-אש-חילצו-ארבעה-לכודים-בהם-שני-ילדים-בשריפה-251603
-https://news.walla.co.il/item/3823580
-https://hamal.co.il/main/חמאס-קורא-לאיראן-להימנע-מפגיעה-במדינות-שכנות-251606
-https://news.walla.co.il/break/3823582
-https://news.walla.co.il/break/3823585
-https://hamal.co.il/main/בעקבות-שיגורים-התרעות-בגליל-המערבי-251613
+COUNTER:10
 https://hamal.co.il/main/תוך-שעה-100-אלף-שקל-נתרמו-ליתומי-הפועל-שנהרג-מטיל-251609
 https://news.walla.co.il/break/3823591
 https://news.walla.co.il/break/3823592
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3824135
 https://news.walla.co.il/break/3824138
 https://hamal.co.il/main/האסון-בבית-שמש-העירייה-מודיעה-על-שיקום-הבתים-שניזוקו-252516
 https://hamal.co.il/main/בעקבות-חדירת-כטבם-אזעקות-בגליל-ובגולן-252518
+https://news.walla.co.il/item/3824147
+https://news.walla.co.il/break/3824144
+https://news.walla.co.il/break/3824146
+https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-התרעות-בגליל-העליון-252525
+https://hamal.co.il/main/לפיד-בהצבעת-אי-אמון-לא-רציתי-לעשות-זאת-בזמן-מלחמה-252531
+https://hamal.co.il/main/מידה-של-בגידה-252532
