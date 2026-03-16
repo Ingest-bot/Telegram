@@ -1,5 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/break/3823464
 https://news.walla.co.il/break/3823466
 https://hamal.co.il/main/תיעוד-נשיא-איראן-ושר-החוץ-צועדים-ברחובות-טהרן-251370
 https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בצפון-פצועה-קל-במקום-251371
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הירי-לדרום-לא-דווח-על-נפגעים-252
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252319
 https://hamal.co.il/main/לילה-דרמטי-באוסקר-ניצחון-גדול-לקרב-רודף-קרב-252320
 https://hamal.co.il/main/אישה-252321
+https://news.walla.co.il/break/3823982
