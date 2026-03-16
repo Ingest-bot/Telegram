@@ -1,13 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3823499
-https://hamal.co.il/main/״רשאית-10-שניות-אלפא״-השמדת-משגר-על-ידי-נווטת-וטייסת-קרב-251436
-https://hamal.co.il/main/במרכז-הארץ-פועלים-במס-זירות-על-מנת-לכבות-שריפות-251443
-https://news.walla.co.il/break/3823508
-https://news.walla.co.il/break/3823510
-https://news.walla.co.il/break/3823511
-https://news.walla.co.il/item/3823506
-https://hamal.co.il/main/הותקפו-יותר-מ-150-מטרות-במערב-ומרכז-איראן-251450
-https://news.walla.co.il/item/3823516
+COUNTER:15
 https://hamal.co.il/main/המסר-החריג-של-המלל-לשוהים-באמירויות-251455
 https://news.walla.co.il/break/3823521
 https://news.walla.co.il/break/3823522
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3824023
 https://news.walla.co.il/break/3824024
 https://hamal.co.il/main/מספר-זירות-רסיסים-במרכז-הארץ-ללא-נפגעים-252379
 https://hamal.co.il/main/בזמן-שהילדים-במוסדות-אזעקות-הופעלו-באשקלון-ללא-התרעה-252383
+https://news.walla.co.il/item/3824032
+https://news.walla.co.il/item/3824043
+https://news.walla.co.il/break/3824038
+https://news.walla.co.il/break/3824040
+https://news.walla.co.il/break/3824041
+https://hamal.co.il/main/״הלך-הבית״-נזק-כבד-נגרם-למבנה-מגורים-בשוהם-252386
+https://hamal.co.il/main/דיווחים-באיראן-על-פיצוצים-בטהראן-252388
+https://hamal.co.il/main/במקביל-לטהרן-דיווחים-על-תקיפות-בדרום-לבנון-252389
+https://hamal.co.il/main/פצועה-קל-בירי-למרכז-הארץ-252392
