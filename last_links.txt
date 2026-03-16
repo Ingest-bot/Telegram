@@ -1,11 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/דובר-צה״ל-בערבית-באזהרה-לתושבי-הדאחייה-בביירות-251647
-https://news.walla.co.il/break/3823615
-https://news.walla.co.il/break/3823616
-https://hamal.co.il/main/בעקבות-שיגורים-מלבנון-אזעקות-באצבע-הגליל-251651
-https://hamal.co.il/main/בעקבות-מזג-האוויר-כביש-234-גשר-צאלים-נחסם-לתנועה-251655
-https://news.walla.co.il/item/3823619
-https://news.walla.co.il/break/3823620
+COUNTER:12
 https://hamal.co.il/main/אזעקות-בצפון-בעקבות-שיגורים-מלבנון-251658
 https://hamal.co.il/main/עימות-בגוש-עציון-רועה-צאן-נפצע-מיידוי-אבנים-שני-פלסטינים-נ-251659
 https://hamal.co.il/main/המבלים-בשוק-הפשפשים-רצו-לחפש-מחסה---וגילו-דלתות-נעולות-251654
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3824190
 https://hamal.co.il/main/טראמפ-זה-יום-גדול-אנחנו-מפציצים-אזור-שקשור-למצר-הורמוז-252594
 https://hamal.co.il/main/צהל-לא-מיירט-פגע-בבית-בנהריה-אלא-רקטה-252595
 https://hamal.co.il/main/האירוע-בנהריה-6-פצועים-באורח-קל-פונו-לביהח-252599
+https://news.walla.co.il/item/3824185
+https://news.walla.co.il/break/3824195
+https://news.walla.co.il/break/3824196
+https://news.walla.co.il/break/3824199
+https://news.walla.co.il/break/3824197
+https://news.walla.co.il/break/3824200
+https://hamal.co.il/main/לא-היה-לה-זמן-הכלבה-של-כוכבת-הריאליטי-נשלחה-במונית-לבדה-להס-252521
