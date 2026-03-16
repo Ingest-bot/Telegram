@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/אחרי-איראן-טראמפ-הכריז-על-מלחמה-נוספת---נגד-אויב-מפתיע-251360
-https://hamal.co.il/main/יום-שישי-האחרון-של-חודש-הרמדאן-מפקד-מג״ב-ביקר-במערת-המכפלה-251405
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-בשל-חשש-לחדירת-כטבם-251407
-https://news.walla.co.il/item/3823488
+COUNTER:6
 https://hamal.co.il/main/׳אמונה-היא-חבל-הצלה-בים-סוער׳-המסר-של-אלוף-אכא-251413
 https://news.walla.co.il/item/3823341
 https://hamal.co.il/main/בהתאם-להערכת-המצב-הרב-זירתית-צהל-מתגבר-כוחות-בפיקוד-הצפון-251410
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3824004
 https://e.walla.co.il/item/3824002
 https://news.walla.co.il/item/3824006
 https://hamal.co.il/main/השר-מיקי-זוהר-בימים-הקרובים-עשויה-להיות-החרפה-252347
+https://news.walla.co.il/item/3824008
+https://news.walla.co.il/item/3824012
+https://news.walla.co.il/break/3824015
+https://hamal.co.il/main/חיל-האוויר-השמיד-את-המטוס-של-עלי-חמינאי-בטהרן-252353
