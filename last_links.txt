@@ -1,7 +1,4 @@
 COUNTER:18
-https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בצפון-פצועה-קל-במקום-251371
-https://news.walla.co.il/break/3823469
-https://hamal.co.il/main/אירוע-ירי-באשדוד-גבר-נפצע-באורח-בינוני-הרקע-פלילי-251373
 https://hamal.co.il/main/צפו-הלוחמים-בבאח-נחל-מאחלים-שבת-שלום-לכל-עם-ישראל-251363
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-251375
 https://news.walla.co.il/break/3823474
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אישה-252321
 https://news.walla.co.il/break/3823982
 https://hamal.co.il/main/מחאה-בטקס-האוסקר-השחקן-שקרא-לא-למלחמה-ולשחרר-את-פלסטין-252327
 https://hamal.co.il/main/מזג-האוויר-הגשם-חוזר---מתי-צפוי-המהפך--התחזית-252330
+https://e.walla.co.il/item/3823983
+https://news.walla.co.il/item/3823984
+https://news.walla.co.il/item/3823951
