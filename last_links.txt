@@ -1,11 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3823527
-https://hamal.co.il/main/המטח-האחרון-שריפות-פרצו-בשהם-וראשון-לציון-251485
-https://news.walla.co.il/break/3823528
-https://news.walla.co.il/break/3823529
-https://hamal.co.il/main/צהל-כוחותינו-פועלים-בזירת-הנפילה-במרכז-הארץ-251486
-https://hamal.co.il/main/פעילות-המשטרה-בזירות-הנפילה-השונות-251488
-https://hamal.co.il/main/צהל-אנחנו-תוקפים-בטהרן-כעת-251489
+COUNTER:4
 https://news.walla.co.il/item/3823523
 https://news.walla.co.il/break/3823533
 https://news.walla.co.il/break/3823534
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3824062
 https://hamal.co.il/main/בטהרן-שיראז-וטיבריז-במקביל-צה״ל-החל-בגל-תקיפות-נרחב-באיראן-252396
 https://hamal.co.il/main/ראשי-רשויות-בצפון-לפנות-מיד-20-אלף-תושבים-ללא-מיגון-252401
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-252403
+https://news.walla.co.il/item/3824071
+https://news.walla.co.il/item/3824067
+https://news.walla.co.il/item/3824074
+https://hamal.co.il/main/אזעקות-הופעלו-בעמקים-וואדי-ערה-252412
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-אזעקות-צפויות-גם-בירושלים-252416
+https://hamal.co.il/main/אזעקות-הופעלו-ברחבי-הצפון-252443
+https://hamal.co.il/main/אזעקות-הופעלו-גם-בירושלים-ואיזור-ים-המלח-252449
