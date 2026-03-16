@@ -1,9 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/אזעקות-בצפון-בעקבות-שיגורים-מלבנון-251658
-https://hamal.co.il/main/עימות-בגוש-עציון-רועה-צאן-נפצע-מיידוי-אבנים-שני-פלסטינים-נ-251659
-https://hamal.co.il/main/המבלים-בשוק-הפשפשים-רצו-לחפש-מחסה---וגילו-דלתות-נעולות-251654
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-התרעות-יופעלו-בדקות-הקרובות-251662
-https://news.walla.co.il/break/3823622
+COUNTER:14
 https://news.walla.co.il/break/3823623
 https://hamal.co.il/main/התרעות-בעקבות-שיגור-מאיראן-נכון-לכרגע-אין-דיווחים-על-נפגעים-251670
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251672
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824199
 https://news.walla.co.il/break/3824197
 https://news.walla.co.il/break/3824200
 https://hamal.co.il/main/לא-היה-לה-זמן-הכלבה-של-כוכבת-הריאליטי-נשלחה-במונית-לבדה-להס-252521
+https://news.walla.co.il/item/3824204
+https://e.walla.co.il/item/3824201
+https://news.walla.co.il/break/3824203
+https://hamal.co.il/main/הרמטכל-נערכים-להרחיב-את-הפעולה-בלבנון-והפגיעה-בחיזבאללה-252600
+https://hamal.co.il/main/ראשוני-רוכב-אופנוע-נורה-ברמלה-252601
