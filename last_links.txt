@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3823472
-https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-251392
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251394
+COUNTER:1
 https://hamal.co.il/main/גבר-כבן-40-נפצע-באירוע-אלימות-באשדוד-מצבו-קשה-251395
 https://news.walla.co.il/item/3823477
 https://news.walla.co.il/break/3823476
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3823870
 https://news.walla.co.il/break/3823985
 https://hamal.co.il/main/חשד-לרצח-גבר-נורה-למוות-בטירה-252333
 https://hamal.co.il/main/מכת-המחץ-של-צהל-על-התעשיות-הביטחוניות-האיראניות-נחשפת-252335
+https://news.walla.co.il/item/3823989
+https://news.walla.co.il/item/3823990
+https://hamal.co.il/main/צהל-מרחיב-פעילות-בדרום-לבנון-252332
