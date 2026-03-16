@@ -1,8 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/כעת-אזעקות-במנרה-ומרגליות-251574
-https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-והסביבה-שוב-הופעלו-אזעקות-251577
-https://news.walla.co.il/break/3823563
-https://hamal.co.il/main/שריפה-בבנין-באשקלון-גבר-ואישה-פונו-במצב-קשה-ובינוני-לביהח-251578
+COUNTER:19
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי---בחשש-לחדירת-כלי-טיס-עוין-251583
 https://news.walla.co.il/break/3823564
 https://news.walla.co.il/break/3823565
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווחים-על-פיצוצים-בדוחא-בירת-
 https://hamal.co.il/main/עיריית-אריאל-תפתח-את-מערכת-החינוך-252479
 https://hamal.co.il/main/מוגתבא-חמינאי-ממנה-את-מפקד-משמרות-המהפכה-לשעבר-ליועצו-הצבאי-252480
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בדרום-252482
+https://news.walla.co.il/item/3824121
+https://news.walla.co.il/break/3824123
+https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-252495
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252497
