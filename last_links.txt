@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3823481
-https://hamal.co.il/main/6-פצועים-בתאונת-דרכים-סמוך-לכפר-קרע-בהם-2-במצב-קשה-251402
-https://news.walla.co.il/break/3823482
-https://hamal.co.il/main/בעקבטת-251404
+COUNTER:5
 https://hamal.co.il/main/אחרי-איראן-טראמפ-הכריז-על-מלחמה-נוספת---נגד-אויב-מפתיע-251360
 https://hamal.co.il/main/יום-שישי-האחרון-של-חודש-הרמדאן-מפקד-מג״ב-ביקר-במערת-המכפלה-251405
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-בשל-חשש-לחדירת-כטבם-251407
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3824000
 https://news.walla.co.il/break/3824001
 https://hamal.co.il/main/בתוך-מסגד-נעצר-חשוד-שתכנן-לבצע-פיגוע-בטווח-הזמן-המיידי-252344
 https://hamal.co.il/main/הרוג-באבו-דאבי-כתוצאה-מפגיעת-טיל-ברכב-אזרחי-252345
+https://news.walla.co.il/item/3824004
+https://e.walla.co.il/item/3824002
+https://news.walla.co.il/item/3824006
+https://hamal.co.il/main/השר-מיקי-זוהר-בימים-הקרובים-עשויה-להיות-החרפה-252347
