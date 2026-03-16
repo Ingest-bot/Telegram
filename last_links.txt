@@ -1,5 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/חדשות-השבת-251865
+COUNTER:13
 https://hamal.co.il/main/לפני-מספר-ימים-היה-ניסיון-להפיל-מטוס-ישראלי-בשמי-איראן-251867
 https://news.walla.co.il/item/3823657
 https://news.walla.co.il/item/3823605
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3821127
 https://news.walla.co.il/blog/3824254
 https://news.walla.co.il/item/3822465
 https://news.walla.co.il/break/3824253
+https://hamal.co.il/main/דיוווח-תקיפות-אוויריות-על-מילציות-פרו-איראניות-בעיראק-מערכת-252690
