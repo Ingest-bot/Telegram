@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באיזור-תל-ערד-פצוע-בזירה-251523
-https://hamal.co.il/main/תיעוד-הנפילה-בנגב-251524
-https://hamal.co.il/main/הסריקות-בדרום-לא-אותרו-נפגעים-251525
-https://news.walla.co.il/blog/3823547
+COUNTER:10
 https://news.walla.co.il/break/3823549
 https://hamal.co.il/main/בני-ברק-צעיר-בן-21-נפצע-באורח-קשה-באירוע-אלימות-251526
 https://hamal.co.il/main/הפצצה-שגרמה-לשריפות-בלוד-ובשוהם---ראש-נפץ-פזיר-אין-נפגעים-251529
@@ -499,3 +495,7 @@ https://hamal.co.il/main/משרד-החינוך-רק-כמחצית-מהתלמיד�
 https://news.walla.co.il/break/3824092
 https://news.walla.co.il/item/3824096
 https://hamal.co.il/main/דובר-משרד-החוץ-הקטאריאיראן-מנסה-לגרור-את-מדינות-המפרץ-לסכסוך-252461
+https://news.walla.co.il/item/3824098
+https://news.walla.co.il/item/3824099
+https://hamal.co.il/main/דיווח-המודיעין-האמריקני-מסר-כי-חמינאי-הבן-עשוי-להיות-הומוסק-252463
+https://hamal.co.il/main/צה״ל-השמיד-באיראן-מרכז-לפיתוח-יכולות-תקיפה-של-לוויינים-בחלל-252471
