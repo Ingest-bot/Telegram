@@ -1,12 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3823549
-https://hamal.co.il/main/בני-ברק-צעיר-בן-21-נפצע-באורח-קשה-באירוע-אלימות-251526
-https://hamal.co.il/main/הפצצה-שגרמה-לשריפות-בלוד-ובשוהם---ראש-נפץ-פזיר-אין-נפגעים-251529
-https://hamal.co.il/main/האיראנים-בהודעת-פינוי-251530
-https://news.walla.co.il/break/3823551
-https://news.walla.co.il/break/3823552
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-בחשד-לחדירת-כלי-טיס-עוין-251537
-https://news.walla.co.il/item/3823553
+COUNTER:11
 https://hamal.co.il/main/פיקוד-העורף-הסתיים-אירוע-חדירת-הכטבם-בגליל-251538
 https://hamal.co.il/main/טראמפ-בהודעה-דרמטית-תקפנו-את-אי-הנפט-של-איראן-251539
 https://news.walla.co.il/break/3823555
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3824098
 https://news.walla.co.il/item/3824099
 https://hamal.co.il/main/דיווח-המודיעין-האמריקני-מסר-כי-חמינאי-הבן-עשוי-להיות-הומוסק-252463
 https://hamal.co.il/main/צה״ל-השמיד-באיראן-מרכז-לפיתוח-יכולות-תקיפה-של-לוויינים-בחלל-252471
+https://news.walla.co.il/item/3824108
+https://news.walla.co.il/item/3824100
+https://news.walla.co.il/break/3824101
+https://news.walla.co.il/break/3824103
+https://news.walla.co.il/break/3824106
+https://news.walla.co.il/break/3824107
+https://news.walla.co.il/break/3824109
+https://hamal.co.il/main/הותר-לפרסום-המשטרה-חוקרת-חשד-לעבירת-מין-בלשכת-ראש-הממשלה-252473
