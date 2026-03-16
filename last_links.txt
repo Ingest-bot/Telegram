@@ -1,12 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3823641
-https://hamal.co.il/main/תיעוד-נפילת-הרסיס-בעיר-בשפלה--צפו-251809
-https://hamal.co.il/main/מדא-על-הירי-לצפון-הארץ-לא-התקבלו-דיווחים-251810
-https://news.walla.co.il/break/3823645
-https://hamal.co.il/main/תיעוד-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-במרכז-הארץ-251814
-https://hamal.co.il/main/צהל-יותר-מ-200-תשתיות-טרור-הותקפו-ביממה-האחרונה-באיראן-251817
-https://hamal.co.il/main/המשטרה-מטפלת-ב-2-זירות-נפילה-במחוז-ירושלים-251818
-https://news.walla.co.il/item/3823648
+COUNTER:12
 https://news.walla.co.il/item/3823651
 https://news.walla.co.il/break/3823650
 https://hamal.co.il/main/כלב-נפצע-אנוש-מהירי-לאילת-הייתי-בטיול-וזה-פשוט-נפל-עלינו-251819
@@ -499,3 +491,11 @@ https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירו
 https://hamal.co.il/main/מדא-החשד-לנפילות-במרכז---נשלל-252681
 https://hamal.co.il/main/מידה-של-בגידה-252529
 https://hamal.co.il/main/תל-אביב-252683
+https://news.walla.co.il/item/3824239
+https://news.walla.co.il/break/3824242
+https://news.walla.co.il/break/3824244
+https://news.walla.co.il/break/3824246
+https://news.walla.co.il/break/3824245
+https://news.walla.co.il/break/3824247
+https://hamal.co.il/main/כוחות-צהל-נטרלו-מחבלים-שיידו-אבנים-על-רכבים-ישראלים-בשומרון-252684
+https://hamal.co.il/main/בתקיפה-אמריקנית-חוסל-בכיר-המיליציה-ששבה-את-אליזבת-צורקוב-252689
