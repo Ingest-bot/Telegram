@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3823635
-https://hamal.co.il/main/יוספטל-מצבו-של-הילד-שנפצע-באילת---בינוני-251742
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-251744
+COUNTER:5
 https://hamal.co.il/main/אזעקות-במרכז-ובדרום-הארץ-זוהו-שיגורים-גם-לאזור-ירושלים-251768
 https://hamal.co.il/main/אזעקות-נוספות-במרכז-הארץ-הדי-פיצוצים-בגוש-דן-251798
 https://hamal.co.il/main/מדא-על-הירי-האחרון-בשלב-זה-לא-ידוע-על-נפגעים-251799
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-נדיר-המיירט-עף-לכיוון-הט
 https://news.walla.co.il/item/3824224
 https://hamal.co.il/main/מידה-של-בגידה-252524
 https://hamal.co.il/main/משרד-הבריאות-הודיע-ריקול-לחלק-מפחיות-ה-XL-252655
+https://news.walla.co.il/item/3824229
+https://news.walla.co.il/item/3824227
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-252660
