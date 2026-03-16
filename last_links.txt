@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-המערבי-חשש-לחדירת-כלי-טיס-עוין-251729
-https://hamal.co.il/main/טראמפ-מדינות-רבות-ישלחו-ספינות-קרב-למצר-הורמוז-251740
-https://news.walla.co.il/break/3823637
+COUNTER:4
 https://news.walla.co.il/break/3823635
 https://hamal.co.il/main/יוספטל-מצבו-של-הילד-שנפצע-באילת---בינוני-251742
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-251744
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824220
 https://news.walla.co.il/break/3824221
 https://news.walla.co.il/break/3824216
 https://hamal.co.il/main/תיעוד-נדיר-המיירט-עף-לכיוון-הטיל---והם-מתפוצצים-באוויר-252652
+https://news.walla.co.il/item/3824224
+https://hamal.co.il/main/מידה-של-בגידה-252524
+https://hamal.co.il/main/משרד-הבריאות-הודיע-ריקול-לחלק-מפחיות-ה-XL-252655
