@@ -1,9 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/׳אמונה-היא-חבל-הצלה-בים-סוער׳-המסר-של-אלוף-אכא-251413
-https://news.walla.co.il/item/3823341
-https://hamal.co.il/main/בהתאם-להערכת-המצב-הרב-זירתית-צהל-מתגבר-כוחות-בפיקוד-הצפון-251410
-https://hamal.co.il/main/כמעט-שבועיים-לפתיחת-מבצע-שאגת-הארי--תמונת-מצב-251408
-https://news.walla.co.il/item/3823493
+COUNTER:9
 https://news.walla.co.il/item/3823495
 https://hamal.co.il/main/צוותי-מדא-יצאו-לסריקות-במספר-ערים-ברחבי-הארץ-251431
 https://news.walla.co.il/break/3823504
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3824008
 https://news.walla.co.il/item/3824012
 https://news.walla.co.il/break/3824015
 https://hamal.co.il/main/חיל-האוויר-השמיד-את-המטוס-של-עלי-חמינאי-בטהרן-252353
+https://travel.walla.co.il/item/3824014
+https://news.walla.co.il/break/3824019
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252355
+https://hamal.co.il/main/אזעקה-הופעלה-באשקלון-ללא-התראה-מקדימה-252375
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252377
