@@ -1,11 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3823523
-https://news.walla.co.il/break/3823533
-https://news.walla.co.il/break/3823534
-https://news.walla.co.il/item/3823536
-https://news.walla.co.il/break/3823537
-https://hamal.co.il/main/המוסד-מזהיר-את-האיראנים-תימנעו-מהתקהלות-של-הבסיג-251494
-https://news.walla.co.il/break/3823541
+COUNTER:6
 https://hamal.co.il/main/רץ-ברשת-צעיר-תועד-כשהוא-מונע-מאנשים-להיכנס-למקלט-251497
 https://hamal.co.il/main/חשד-לניסיון-רצח-באום-אל-פחם-גבר-במצב-אנוש-251498
 https://hamal.co.il/main/גבר-כבן-25-במצב-אנוש-אירוע-ירכי-באום-אל-פחם-251499
@@ -499,3 +492,10 @@ https://hamal.co.il/main/אזעקות-הופעלו-בעמקים-וואדי-ער�
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-אזעקות-צפויות-גם-בירושלים-252416
 https://hamal.co.il/main/אזעקות-הופעלו-ברחבי-הצפון-252443
 https://hamal.co.il/main/אזעקות-הופעלו-גם-בירושלים-ואיזור-ים-המלח-252449
+https://news.walla.co.il/item/3824083
+https://news.walla.co.il/item/3824085
+https://news.walla.co.il/break/3824076
+https://news.walla.co.il/break/3824078
+https://news.walla.co.il/break/3824079
+https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-252453
+https://hamal.co.il/main/איך-מיירטים-טיל-מצרר---ומתי-הוא-לא-מתפצל-להרבה-פצצות-באוויר-252451
