@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251801
-https://news.walla.co.il/item/3823642
+COUNTER:10
 https://news.walla.co.il/break/3823641
 https://hamal.co.il/main/תיעוד-נפילת-הרסיס-בעיר-בשפלה--צפו-251809
 https://hamal.co.il/main/מדא-על-הירי-לצפון-הארץ-לא-התקבלו-דיווחים-251810
@@ -499,3 +497,5 @@ https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-
 https://hamal.co.il/main/גבר-נורה-למוות-252667
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-ללא-נפגעים-252678
 https://hamal.co.il/main/מדא-החשד-לנפילות-במרכז---נשלל-252681
+https://hamal.co.il/main/מידה-של-בגידה-252529
+https://hamal.co.il/main/תל-אביב-252683
