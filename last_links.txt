@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3823609
-https://news.walla.co.il/break/3823610
-https://news.walla.co.il/break/3823608
+COUNTER:6
 https://news.walla.co.il/break/3823611
 https://hamal.co.il/main/שיגורים-מאיראן-לעבר-הדרום-251638
 https://hamal.co.il/main/בעקבות-שיגור-מאיראן-התרעות-הופעלו-באילת-והערבה-251641
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-מאיים-ניתן-לתקוף-את-אי-ה�
 https://hamal.co.il/main/הירי-מלבנון-פגיעה-ישירה-בבית-בנהריה-חשש-ללכוד-במקום-252577
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבית-בנהריה-252579
 https://hamal.co.il/main/הפגיעה-בנהריה-5-דיירים-חולצו-מהשריפה-שפרצה-בדירה-252580
+https://hamal.co.il/main/הירי-מלבנון-פצוע-בינוני-פונה-מצומת-סמוך-לנהריה-252583
+https://hamal.co.il/main/הפגיעה-בנהריה-3-פצועות-פונו-252584
+https://hamal.co.il/main/צהל-תקפנו-מפקדת-מודיעין-של-המשטר-האיראני-בטהרן-252585
