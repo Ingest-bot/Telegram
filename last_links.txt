@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/דובר-צה״ל-בערבית-״-251614
-https://hamal.co.il/main/נזק-בתשתיות-החשמל-בדרום-בעקבות-מזג-האוויר-הסוער--צפו-251623
-https://hamal.co.il/main/תיעוד-מרצועת-עזה-אוהלים-עפים-בסופות-החול-251622
-https://news.walla.co.il/item/3823598
-https://news.walla.co.il/item/3823538
+COUNTER:14
 https://news.walla.co.il/break/3823600
 https://news.walla.co.il/break/3823601
 https://hamal.co.il/main/כוחות-צה״ל-ממשיכים-בסיכול-נגד-לוחמי-כוח-א-251624
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824153
 https://hamal.co.il/main/שברי-ירוט-נפלו-מטרים-ספורים-מכנסת-ישראל-252533
 https://hamal.co.il/main/בתום-הערכת-מצב-252535
 https://hamal.co.il/main/ירושלים-בן-24-נהרג-בתאונה-עם-אופנוע-252536
+https://travel.walla.co.il/item/3824157
+https://news.walla.co.il/item/3824160
+https://news.walla.co.il/item/3824163
+https://news.walla.co.il/break/3824161
+https://hamal.co.il/main/הרצוג-מקבל-את-הישראלים-בטיסות-החילוץ--252539
