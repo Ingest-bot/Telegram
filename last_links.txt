@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/טיסות-חילוץ-לארהב-אל-על-תפעיל-טיסות-מיוחדות-עבור-אזרחים-אמ-251588
-https://hamal.co.il/main/אזעקות-הופעלו-באצבע-הגליל--עדכונם-שוטפים-251590
-https://news.walla.co.il/break/3823568
-https://hamal.co.il/main/סופות-חול-אובך-וחשש-לשיטפונות--תחזית-מזג-האוויר-251587
-https://hamal.co.il/main/תיעוד-מחבלים-שזוהו-מכניסים-רקטות-למחסן-אמצעי-לחימה-הותקפו-מ-251592
+COUNTER:4
 https://news.walla.co.il/item/3823573
 https://news.walla.co.il/item/3823570
 https://hamal.co.il/main/צבא-איראן-מאיים-לתקוף-תשתיות-נפט-בעקבות-התקיפה-האמריקנית-251594
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3824126
 https://hamal.co.il/main/טראמפ-ישא-נאום-252499
 https://hamal.co.il/main/בזמן-האזעקה-בן-50-נפגע-מרכב-בקריית-גת---מצבו-קשה-252500
 https://hamal.co.il/main/תיעוד-שברי-יירוט-252501
+https://news.walla.co.il/item/3824128
+https://news.walla.co.il/item/3824129
+https://news.walla.co.il/break/3824127
+https://hamal.co.il/main/הירי-מאיראן-גבר-נגע-ברסיס-שנפל-בירושלים-מצבו-קל-252502
+https://hamal.co.il/main/רסיס-ענק-נפל-על-בניין-בירושלים-לא-דווח-על-נפגעים-252503
