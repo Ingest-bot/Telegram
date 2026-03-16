@@ -1,10 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3823571
-https://news.walla.co.il/break/3823576
-https://news.walla.co.il/break/3823577
-https://hamal.co.il/main/דיווח-שגרירות-ארהב-בעיראק-נפגעה-במתקפת-טילים-251597
-https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-בעקבות-שיגורים-מלבנון-251601
-https://news.walla.co.il/break/3823579
+COUNTER:7
 https://hamal.co.il/main/ראש-העין-לוחמי-אש-חילצו-ארבעה-לכודים-בהם-שני-ילדים-בשריפה-251603
 https://news.walla.co.il/item/3823580
 https://hamal.co.il/main/חמאס-קורא-לאיראן-להימנע-מפגיעה-במדינות-שכנות-251606
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3824132
 https://news.walla.co.il/item/3824131
 https://news.walla.co.il/item/3824027
 https://hamal.co.il/main/טעות-מה-הסיבה-שחיזבאללה-הצטרפו-למערכה-עם-איראן-252511
+https://news.walla.co.il/item/3824140
+https://news.walla.co.il/item/3824088
+https://news.walla.co.il/break/3824135
+https://news.walla.co.il/break/3824138
+https://hamal.co.il/main/האסון-בבית-שמש-העירייה-מודיעה-על-שיקום-הבתים-שניזוקו-252516
+https://hamal.co.il/main/בעקבות-חדירת-כטבם-אזעקות-בגליל-ובגולן-252518
