@@ -1,9 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3823559
-https://news.walla.co.il/break/3823562
-https://news.walla.co.il/break/3823561
-https://hamal.co.il/main/שיגור-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-251565
-https://hamal.co.il/main/שוב-ירי-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-251570
+COUNTER:17
 https://hamal.co.il/main/כעת-אזעקות-במנרה-ומרגליות-251574
 https://hamal.co.il/main/לילה-מתוח-לתושבי-קריית-שמונה-והסביבה-שוב-הופעלו-אזעקות-251577
 https://news.walla.co.il/break/3823563
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824112
 https://news.walla.co.il/break/3824113
 https://hamal.co.il/main/לביאות-לוחמות-חדשות-התגייסו-לתותחנים-ואיסוף-קרבי-252475
 https://hamal.co.il/main/היועמ״שית-נגד-הכנסת-חוק-עונש-מוות-למחבלים-של-בן-גביר---לא-ח-252476
+https://news.walla.co.il/item/3824116
+https://hamal.co.il/main/דיווחים-על-פיצוצים-בדוחא-בירת-קטר-252478
+https://hamal.co.il/main/עיריית-אריאל-תפתח-את-מערכת-החינוך-252479
+https://hamal.co.il/main/מוגתבא-חמינאי-ממנה-את-מפקד-משמרות-המהפכה-לשעבר-ליועצו-הצבאי-252480
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בדרום-252482
