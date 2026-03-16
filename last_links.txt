@@ -1,9 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באזור-ירושלים-251684
-https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-ובשפלה-זוהה-שיגור-נוסף-מאיראן-251697
-https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באילת-והערבה-251700
-https://hamal.co.il/main/מד״א-לא-התקבלו-דיווחים-על-נפגעים-במטח-האחרון-251703
-https://news.walla.co.il/break/3823629
+COUNTER:0
 https://news.walla.co.il/break/3823630
 https://hamal.co.il/main/חשד-לנפגעים-בעקבות-השיגור-מאיראן-לאילת-251704
 https://hamal.co.il/main/2-פצועים-מרסיסים-באילת-251705
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824208
 https://hamal.co.il/main/דיווח-ארהב-חיסלה-מפקד-בכיר-במליציות-השיעיות-בעיראק-252604
 https://hamal.co.il/main/דיווח-כך-ניצל-חמינאי-הבן-מחיסול-בידי-ישראל-וארהב-252606
 https://hamal.co.il/main/הצהרת-דובר-צהל--ישיר-252605
+https://news.walla.co.il/item/3824211
+https://news.walla.co.il/break/3824212
+https://hamal.co.il/main/הפגיעה-בנהריה-15-פצועים-פונו-במצב-קל-252609
+https://hamal.co.il/main/בעקבות-ריח-חריג-ריקול-למשקה-האנרגיה-הפופולרי-252607
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-252612
