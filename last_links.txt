@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3823525
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-במרכז-הארץ-251481
-https://hamal.co.il/main/דיווח-בכביש-431-נפער-בור-משברי-יירוט-251483
-https://hamal.co.il/main/3-מוקדים-שונים-במרכז-הארץ-251484
+COUNTER:0
 https://news.walla.co.il/break/3823527
 https://hamal.co.il/main/המטח-האחרון-שריפות-פרצו-בשהם-וראשון-לציון-251485
 https://news.walla.co.il/break/3823528
@@ -499,3 +495,7 @@ https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חיזבאללה
 https://news.walla.co.il/break/3824055
 https://news.walla.co.il/break/3824057
 https://hamal.co.il/main/נמל-תעשיות-נפט-הותקף-באמירויות-252395
+https://news.walla.co.il/item/3824062
+https://hamal.co.il/main/בטהרן-שיראז-וטיבריז-במקביל-צה״ל-החל-בגל-תקיפות-נרחב-באיראן-252396
+https://hamal.co.il/main/ראשי-רשויות-בצפון-לפנות-מיד-20-אלף-תושבים-ללא-מיגון-252401
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-252403
