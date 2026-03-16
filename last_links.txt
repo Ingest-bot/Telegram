@@ -1,10 +1,4 @@
 COUNTER:12
-https://hamal.co.il/main/כלב-נפצע-אנוש-מהירי-לאילת-הייתי-בטיול-וזה-פשוט-נפל-עלינו-251819
-https://hamal.co.il/main/נפילת-שברי-יירוט-בנס-ציונה-251829
-https://hamal.co.il/main/תיעוד-גל-תקיפות-באספהאן-חשש-לחדירת-כטבם-בגליל-העליון-251833
-https://hamal.co.il/main/צהל-חיסל-את-בכירי-אגף-המודיעין-של-מפקדת-חאתם-אלאנביאא׳-251837
-https://news.walla.co.il/item/3823654
-https://hamal.co.il/main/הפגיעה-בזרזיר-2-פצועים-נותרו-באשפוז-בבית-החולים-העמק-251857
 https://hamal.co.il/main/חדשות-השבת-251865
 https://hamal.co.il/main/לפני-מספר-ימים-היה-ניסיון-להפיל-מטוס-ישראלי-בשמי-איראן-251867
 https://news.walla.co.il/item/3823657
@@ -499,3 +493,9 @@ https://hamal.co.il/main/כוחות-צהל-נטרלו-מחבלים-שיידו-א
 https://hamal.co.il/main/בתקיפה-אמריקנית-חוסל-בכיר-המיליציה-ששבה-את-אליזבת-צורקוב-252689
 https://news.walla.co.il/break/3824251
 https://news.walla.co.il/break/3824248
+https://e.walla.co.il/item/3824231
+https://news.walla.co.il/item/3824095
+https://news.walla.co.il/item/3821127
+https://news.walla.co.il/blog/3824254
+https://news.walla.co.il/item/3822465
+https://news.walla.co.il/break/3824253
