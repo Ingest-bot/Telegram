@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3823495
-https://hamal.co.il/main/צוותי-מדא-יצאו-לסריקות-במספר-ערים-ברחבי-הארץ-251431
-https://news.walla.co.il/break/3823504
-https://news.walla.co.il/break/3823503
-https://news.walla.co.il/break/3823501
-https://news.walla.co.il/break/3823500
+COUNTER:11
 https://news.walla.co.il/break/3823499
 https://hamal.co.il/main/״רשאית-10-שניות-אלפא״-השמדת-משגר-על-ידי-נווטת-וטייסת-קרב-251436
 https://hamal.co.il/main/במרכז-הארץ-פועלים-במס-זירות-על-מנת-לכבות-שריפות-251443
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3824019
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252355
 https://hamal.co.il/main/אזעקה-הופעלה-באשקלון-ללא-התראה-מקדימה-252375
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252377
+https://news.walla.co.il/item/3824017
+https://news.walla.co.il/item/3824026
+https://news.walla.co.il/break/3824023
+https://news.walla.co.il/break/3824024
+https://hamal.co.il/main/מספר-זירות-רסיסים-במרכז-הארץ-ללא-נפגעים-252379
+https://hamal.co.il/main/בזמן-שהילדים-במוסדות-אזעקות-הופעלו-באשקלון-ללא-התרעה-252383
