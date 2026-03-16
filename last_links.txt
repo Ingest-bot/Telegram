@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/פיקוד-העורף-הסתיים-אירוע-חדירת-הכטבם-בגליל-251538
-https://hamal.co.il/main/טראמפ-בהודעה-דרמטית-תקפנו-את-אי-הנפט-של-איראן-251539
-https://news.walla.co.il/break/3823555
-https://news.walla.co.il/item/3823557
-https://news.walla.co.il/item/3823558
+COUNTER:13
 https://news.walla.co.il/break/3823559
 https://news.walla.co.il/break/3823562
 https://news.walla.co.il/break/3823561
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824106
 https://news.walla.co.il/break/3824107
 https://news.walla.co.il/break/3824109
 https://hamal.co.il/main/הותר-לפרסום-המשטרה-חוקרת-חשד-לעבירת-מין-בלשכת-ראש-הממשלה-252473
+https://news.walla.co.il/item/3823968
+https://news.walla.co.il/break/3824112
+https://news.walla.co.il/break/3824113
+https://hamal.co.il/main/לביאות-לוחמות-חדשות-התגייסו-לתותחנים-ואיסוף-קרבי-252475
+https://hamal.co.il/main/היועמ״שית-נגד-הכנסת-חוק-עונש-מוות-למחבלים-של-בן-גביר---לא-ח-252476
