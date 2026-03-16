@@ -1,8 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/שר-ההגנה-האמריקני-נשמיד-את-התעשיות-של-איראן-251397
-https://hamal.co.il/main/הרמטכל-האמריקני--251398
-https://news.walla.co.il/item/3823478
-https://hamal.co.il/main/הגסת׳-גאים-לשתף-פעולה-עם-ישראל-אבל-יש-לנו-מטרות-משלנו-251401
+COUNTER:4
 https://news.walla.co.il/item/3823481
 https://hamal.co.il/main/6-פצועים-בתאונת-דרכים-סמוך-לכפר-קרע-בהם-2-במצב-קשה-251402
 https://news.walla.co.il/break/3823482
@@ -499,3 +495,7 @@ https://travel.walla.co.il/item/3823901
 https://e.walla.co.il/item/3823994
 https://news.walla.co.il/item/3823997
 https://hamal.co.il/main/לא-נבנו-בידי-אדם-מה-מסתתר-בתיקי-העבמים-שטראמפ-עומד-לפרסם-252339
+https://news.walla.co.il/break/3824000
+https://news.walla.co.il/break/3824001
+https://hamal.co.il/main/בתוך-מסגד-נעצר-חשוד-שתכנן-לבצע-פיגוע-בטווח-הזמן-המיידי-252344
+https://hamal.co.il/main/הרוג-באבו-דאבי-כתוצאה-מפגיעת-טיל-ברכב-אזרחי-252345
