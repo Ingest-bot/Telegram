@@ -1,5 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/המסר-החריג-של-המלל-לשוהים-באמירויות-251455
+COUNTER:16
 https://news.walla.co.il/break/3823521
 https://news.walla.co.il/break/3823522
 https://news.walla.co.il/break/3823524
@@ -499,3 +498,4 @@ https://hamal.co.il/main/״הלך-הבית״-נזק-כבד-נגרם-למבנה-�
 https://hamal.co.il/main/דיווחים-באיראן-על-פיצוצים-בטהראן-252388
 https://hamal.co.il/main/במקביל-לטהרן-דיווחים-על-תקיפות-בדרום-לבנון-252389
 https://hamal.co.il/main/פצועה-קל-בירי-למרכז-הארץ-252392
+https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חיזבאללה-252393
