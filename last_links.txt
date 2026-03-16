@@ -1,10 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3823400
-https://news.walla.co.il/item/3823390
-https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-251631
-https://hamal.co.il/main/איראן-נרחיב-את-השימוש-בנשק-משודרג-251634
-https://hamal.co.il/main/שר-הביטחון-״אנחנו-נכנסים-לישורת-ההכרעה״-251637
-https://news.walla.co.il/break/3823607
+COUNTER:3
 https://news.walla.co.il/break/3823609
 https://news.walla.co.il/break/3823610
 https://news.walla.co.il/break/3823608
@@ -499,3 +493,9 @@ https://hamal.co.il/main/הרשת-בהלם-ניקי-מינאז-החלה-לעקו
 https://hamal.co.il/main/מעבדת-סמים-מעל-גן-ילדים-252555
 https://hamal.co.il/main/שגריר-ישראל-באום-חשף-252558
 https://hamal.co.il/main/הירי-מלבנון-דיווחים-על-מספר-זירות-נפילה-בצפון-ללא-נפגעים-252574
+https://news.walla.co.il/item/3824173
+https://travel.walla.co.il/item/3824175
+https://hamal.co.il/main/טראמפ-מאיים-ניתן-לתקוף-את-אי-הנפט-של-איראן-252576
+https://hamal.co.il/main/הירי-מלבנון-פגיעה-ישירה-בבית-בנהריה-חשש-ללכוד-במקום-252577
+https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבית-בנהריה-252579
+https://hamal.co.il/main/הפגיעה-בנהריה-5-דיירים-חולצו-מהשריפה-שפרצה-בדירה-252580
