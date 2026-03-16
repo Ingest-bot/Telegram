@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/אזעקות-במרכז-ובדרום-הארץ-זוהו-שיגורים-גם-לאזור-ירושלים-251768
-https://hamal.co.il/main/אזעקות-נוספות-במרכז-הארץ-הדי-פיצוצים-בגוש-דן-251798
-https://hamal.co.il/main/מדא-על-הירי-האחרון-בשלב-זה-לא-ידוע-על-נפגעים-251799
+COUNTER:8
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251801
 https://news.walla.co.il/item/3823642
 https://news.walla.co.il/break/3823641
@@ -499,3 +496,6 @@ https://hamal.co.il/main/משרד-הבריאות-הודיע-ריקול-לחלק-
 https://news.walla.co.il/item/3824229
 https://news.walla.co.il/item/3824227
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-252660
+https://hamal.co.il/main/גבר-נורה-למוות-252667
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-ללא-נפגעים-252678
+https://hamal.co.il/main/מדא-החשד-לנפילות-במרכז---נשלל-252681
