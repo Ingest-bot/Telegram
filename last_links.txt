@@ -1,5 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/תיעוד-נשיא-איראן-ושר-החוץ-צועדים-ברחובות-טהרן-251370
+COUNTER:18
 https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בצפון-פצועה-קל-במקום-251371
 https://news.walla.co.il/break/3823469
 https://hamal.co.il/main/אירוע-ירי-באשדוד-גבר-נפצע-באורח-בינוני-הרקע-פלילי-251373
@@ -499,3 +498,4 @@ https://hamal.co.il/main/לילה-דרמטי-באוסקר-ניצחון-גדול-
 https://hamal.co.il/main/אישה-252321
 https://news.walla.co.il/break/3823982
 https://hamal.co.il/main/מחאה-בטקס-האוסקר-השחקן-שקרא-לא-למלחמה-ולשחרר-את-פלסטין-252327
+https://hamal.co.il/main/מזג-האוויר-הגשם-חוזר---מתי-צפוי-המהפך--התחזית-252330
