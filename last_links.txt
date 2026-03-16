@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/גבר-כבן-40-נפצע-באירוע-אלימות-באשדוד-מצבו-קשה-251395
-https://news.walla.co.il/item/3823477
-https://news.walla.co.il/break/3823476
-https://hamal.co.il/main/הרצוג-ציפיתי-שנתניהו-יגנה-את-דברי-טראמפ-251396
+COUNTER:2
 https://hamal.co.il/main/שר-ההגנה-האמריקני-נשמיד-את-התעשיות-של-איראן-251397
 https://hamal.co.il/main/הרמטכל-האמריקני--251398
 https://news.walla.co.il/item/3823478
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מכת-המחץ-של-צהל-על-התעשיות-הבי�
 https://news.walla.co.il/item/3823989
 https://news.walla.co.il/item/3823990
 https://hamal.co.il/main/צהל-מרחיב-פעילות-בדרום-לבנון-252332
+https://travel.walla.co.il/item/3823901
+https://e.walla.co.il/item/3823994
+https://news.walla.co.il/item/3823997
+https://hamal.co.il/main/לא-נבנו-בידי-אדם-מה-מסתתר-בתיקי-העבמים-שטראמפ-עומד-לפרסם-252339
