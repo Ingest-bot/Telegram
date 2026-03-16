@@ -1,8 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/תוך-שעה-100-אלף-שקל-נתרמו-ליתומי-הפועל-שנהרג-מטיל-251609
-https://news.walla.co.il/break/3823591
-https://news.walla.co.il/break/3823592
-https://news.walla.co.il/break/3823588
+COUNTER:13
 https://hamal.co.il/main/דובר-צה״ל-בערבית-״-251614
 https://hamal.co.il/main/נזק-בתשתיות-החשמל-בדרום-בעקבות-מזג-האוויר-הסוער--צפו-251623
 https://hamal.co.il/main/תיעוד-מרצועת-עזה-אוהלים-עפים-בסופות-החול-251622
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3824146
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-התרעות-בגליל-העליון-252525
 https://hamal.co.il/main/לפיד-בהצבעת-אי-אמון-לא-רציתי-לעשות-זאת-בזמן-מלחמה-252531
 https://hamal.co.il/main/מידה-של-בגידה-252532
+https://news.walla.co.il/break/3824153
+https://hamal.co.il/main/שברי-ירוט-נפלו-מטרים-ספורים-מכנסת-ישראל-252533
+https://hamal.co.il/main/בתום-הערכת-מצב-252535
+https://hamal.co.il/main/ירושלים-בן-24-נהרג-בתאונה-עם-אופנוע-252536
