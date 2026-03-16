@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3823630
-https://hamal.co.il/main/חשד-לנפגעים-בעקבות-השיגור-מאיראן-לאילת-251704
-https://hamal.co.il/main/2-פצועים-מרסיסים-באילת-251705
+COUNTER:1
 https://news.walla.co.il/item/3823631
 https://hamal.co.il/main/אילת-ילד-בן-12-נפצע-באורח-קשה-פצוע-נוסף-במצב-בינוני-251707
 https://hamal.co.il/main/צה״ל-חיסל-מפקד-נוסף-ב׳גיס-פלסטין׳-251711
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824212
 https://hamal.co.il/main/הפגיעה-בנהריה-15-פצועים-פונו-במצב-קל-252609
 https://hamal.co.il/main/בעקבות-ריח-חריג-ריקול-למשקה-האנרגיה-הפופולרי-252607
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-252612
+https://news.walla.co.il/item/3824214
+https://news.walla.co.il/item/3824212
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-בשפלה-בשרון-וביוש-252649
