@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3823521
-https://news.walla.co.il/break/3823522
-https://news.walla.co.il/break/3823524
+COUNTER:17
 https://news.walla.co.il/break/3823525
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-במרכז-הארץ-251481
 https://hamal.co.il/main/דיווח-בכביש-431-נפער-בור-משברי-יירוט-251483
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווחים-באיראן-על-פיצוצים-בטה�
 https://hamal.co.il/main/במקביל-לטהרן-דיווחים-על-תקיפות-בדרום-לבנון-252389
 https://hamal.co.il/main/פצועה-קל-בירי-למרכז-הארץ-252392
 https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חיזבאללה-252393
+https://news.walla.co.il/break/3824055
+https://news.walla.co.il/break/3824057
+https://hamal.co.il/main/נמל-תעשיות-נפט-הותקף-באמירויות-252395
