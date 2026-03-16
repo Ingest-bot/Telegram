@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3823657
-https://news.walla.co.il/item/3823605
-https://news.walla.co.il/item/3823659
-https://news.walla.co.il/break/3823660
-https://hamal.co.il/main/החל-מיום-שני-אלו-האזורים-שיוכלו-לפתוח-את-בתי-הספר-והגנים-251869
-https://hamal.co.il/main/דיווח-ממשל-טראמפ-דחה-ניסיונות-לפתוח-במומ-לסיום-המלחמה-251870
+COUNTER:16
 https://hamal.co.il/main/עדכון-שינויים-במדיניות-ההתגוננות-של-פיקוד-העורף-251873
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-251876
 https://news.walla.co.il/item/3823669
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3822465
 https://news.walla.co.il/break/3824253
 https://hamal.co.il/main/דיוווח-תקיפות-אוויריות-על-מילציות-פרו-איראניות-בעיראק-מערכת-252690
 https://news.walla.co.il/break/3824256
+https://e.walla.co.il/item/3824257
+https://news.walla.co.il/break/3824258
+https://news.walla.co.il/break/3824259
+https://hamal.co.il/main/זוהו-שיגורים-מאירן-אזעקות-יפעלו-בדקות-הקרובות-בצפון-הארץ-252693
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-בצפון-הארץ-252699
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252702
