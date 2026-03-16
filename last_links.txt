@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/רץ-ברשת-צעיר-תועד-כשהוא-מונע-מאנשים-להיכנס-למקלט-251497
-https://hamal.co.il/main/חשד-לניסיון-רצח-באום-אל-פחם-גבר-במצב-אנוש-251498
-https://hamal.co.il/main/גבר-כבן-25-במצב-אנוש-אירוע-ירכי-באום-אל-פחם-251499
+COUNTER:7
 https://news.walla.co.il/item/3823541
 https://hamal.co.il/main/צהל-חיל-האוויר-חיסל-בכיר-חיזבאללה-251500
 https://news.walla.co.il/break/3823544
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824078
 https://news.walla.co.il/break/3824079
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-252453
 https://hamal.co.il/main/איך-מיירטים-טיל-מצרר---ומתי-הוא-לא-מתפצל-להרבה-פצצות-באוויר-252451
+https://news.walla.co.il/break/3824090
+https://news.walla.co.il/break/3824091
+https://hamal.co.il/main/משרד-החינוך-רק-כמחצית-מהתלמידים-חזרו-ללימודים-252459
