@@ -1,6 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/צהל-חיל-האוויר-חיסל-בכיר-חיזבאללה-251500
-https://news.walla.co.il/break/3823544
+COUNTER:8
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באיזור-תל-ערד-פצוע-בזירה-251523
 https://hamal.co.il/main/תיעוד-הנפילה-בנגב-251524
 https://hamal.co.il/main/הסריקות-בדרום-לא-אותרו-נפגעים-251525
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3824090
 https://news.walla.co.il/break/3824091
 https://hamal.co.il/main/משרד-החינוך-רק-כמחצית-מהתלמידים-חזרו-ללימודים-252459
 https://news.walla.co.il/break/3824092
+https://news.walla.co.il/item/3824096
+https://hamal.co.il/main/דובר-משרד-החוץ-הקטאריאיראן-מנסה-לגרור-את-מדינות-המפרץ-לסכסוך-252461
