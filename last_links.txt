@@ -1,8 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/איראן-שניים-נעצרו-בחשד-לריגול-עבור-המוסד-251625
-https://news.walla.co.il/item/3823597
-https://hamal.co.il/main/״היהלום-שבכתר״-המשמעויות-מאחורי-התקיפה-באי-כראג׳-251584
-https://hamal.co.il/main/כ--110-מפקדות-של-ארגון-הטרור-חיזבאללה-הותקפו-מתחילת-מבצע-שא-251626
+COUNTER:19
 https://news.walla.co.il/item/3823400
 https://news.walla.co.il/item/3823390
 https://hamal.co.il/main/התרעות-הופעלו-בגליל-המערבי-251631
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הרצוג-מקבל-את-הישראלים-בטיסות-
 https://news.walla.co.il/item/3824169
 https://news.walla.co.il/item/3824159
 https://hamal.co.il/main/מתנדנד-על-צוק-טיל-עצום-נחת-בצפת-252543
+https://hamal.co.il/main/הרשת-בהלם-ניקי-מינאז-החלה-לעקוב-אחרי-נתניהו-252504
+https://hamal.co.il/main/מעבדת-סמים-מעל-גן-ילדים-252555
+https://hamal.co.il/main/שגריר-ישראל-באום-חשף-252558
+https://hamal.co.il/main/הירי-מלבנון-דיווחים-על-מספר-זירות-נפילה-בצפון-ללא-נפגעים-252574
