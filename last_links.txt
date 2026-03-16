@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3823573
-https://news.walla.co.il/item/3823570
-https://hamal.co.il/main/צבא-איראן-מאיים-לתקוף-תשתיות-נפט-בעקבות-התקיפה-האמריקנית-251594
-https://hamal.co.il/main/חשד-לפיגוע-באמסטרדם-בית-ספר-יהודי-ניזוק-מפיצוץ-מטען-251595
+COUNTER:5
 https://news.walla.co.il/break/3823571
 https://news.walla.co.il/break/3823576
 https://news.walla.co.il/break/3823577
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3824129
 https://news.walla.co.il/break/3824127
 https://hamal.co.il/main/הירי-מאיראן-גבר-נגע-ברסיס-שנפל-בירושלים-מצבו-קל-252502
 https://hamal.co.il/main/רסיס-ענק-נפל-על-בניין-בירושלים-לא-דווח-על-נפגעים-252503
+https://news.walla.co.il/item/3824132
+https://news.walla.co.il/item/3824131
+https://news.walla.co.il/item/3824027
+https://hamal.co.il/main/טעות-מה-הסיבה-שחיזבאללה-הצטרפו-למערכה-עם-איראן-252511
