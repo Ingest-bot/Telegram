@@ -1,11 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3823623
-https://hamal.co.il/main/התרעות-בעקבות-שיגור-מאיראן-נכון-לכרגע-אין-דיווחים-על-נפגעים-251670
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251672
-https://news.walla.co.il/item/3823621
-https://news.walla.co.il/break/3823625
-https://news.walla.co.il/break/3823626
-https://news.walla.co.il/break/3823627
+COUNTER:17
 https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באזור-ירושלים-251684
 https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-ובשפלה-זוהה-שיגור-נוסף-מאיראן-251697
 https://hamal.co.il/main/בעקבות-שיגור-מאיראן-אזעקות-באילת-והערבה-251700
@@ -499,3 +492,10 @@ https://e.walla.co.il/item/3824201
 https://news.walla.co.il/break/3824203
 https://hamal.co.il/main/הרמטכל-נערכים-להרחיב-את-הפעולה-בלבנון-והפגיעה-בחיזבאללה-252600
 https://hamal.co.il/main/ראשוני-רוכב-אופנוע-נורה-ברמלה-252601
+https://news.walla.co.il/break/3824205
+https://news.walla.co.il/break/3824206
+https://news.walla.co.il/break/3824207
+https://news.walla.co.il/break/3824208
+https://hamal.co.il/main/דיווח-ארהב-חיסלה-מפקד-בכיר-במליציות-השיעיות-בעיראק-252604
+https://hamal.co.il/main/דיווח-כך-ניצל-חמינאי-הבן-מחיסול-בידי-ישראל-וארהב-252606
+https://hamal.co.il/main/הצהרת-דובר-צהל--ישיר-252605
