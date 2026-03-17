@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3823711
-https://hamal.co.il/main/אזעקות-נשמעו-באילת-והסביבה-251934
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251936
-https://news.walla.co.il/item/3823721
-https://news.walla.co.il/item/3823720
+COUNTER:1
 https://news.walla.co.il/break/3823715
 https://news.walla.co.il/break/3823716
 https://news.walla.co.il/break/3823717
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3824308
 https://e.walla.co.il/item/3824314
 https://hamal.co.il/main/התקיפה-הדרמטית-בטהרן-ישראל-ניסתה-לחסל-את-עלי-לריגאני-252756
 https://hamal.co.il/main/התחזה-לשוטר---והונה-בעלי-עסקים-אישום-הוגש-נגד-תושב-עפולה-252758
+https://news.walla.co.il/item/3824321
+https://news.walla.co.il/break/3824317
+https://news.walla.co.il/break/3824318
+https://hamal.co.il/main/ה-64-שנתפס-קוף-אותר-בחצר-בית-בכפר-קאסם-252760
+https://hamal.co.il/main/בישראל-מאשרים-חוסל-מפקד-הבסיג-252761
