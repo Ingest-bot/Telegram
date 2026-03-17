@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3823736
-https://news.walla.co.il/break/3823738
+COUNTER:17
 https://hamal.co.il/main/אין-נפילות-או-נפגעים-במטח-האחרון-לצפון-252016
 https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-בדרום-252019
 https://hamal.co.il/main/במקביל-לירי-לדרום-שיגור-זוהה-מלבנון-לצפון-252034
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3824354
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהרחבים-המוגנים-בצפון-252783
 https://hamal.co.il/main/ראש-עיריית-שדרות-צריך-לעשות-קו-צהוב-בלבנון-252784
 https://hamal.co.il/main/מוגתבא-חמינאי-דחה-את-הצעות-התיווך-להביס-את-ישראל-וארהב-252785
+https://news.walla.co.il/item/3824262
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-252787
