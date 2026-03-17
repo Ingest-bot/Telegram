@@ -79,29 +79,31 @@ async def process_walla(bot, seen_links_set, links_list):
             continue
             
         latest_entries = feed.entries[:15]
-        
-        new_entries = []
-        for e in latest_entries:
-            link = clean_url(e.link)
-            if link not in seen_links_set:
-                new_entries.append(e)
+        new_entries = [e for e in latest_entries if clean_url(e.link) not in seen_links_set]
         
         for entry in reversed(new_entries):
             is_mivzak = (category == "מבזקים")
             cleaned_link = clean_url(entry.link)
             
-            # בניית הכותרת עם הסירנה רק למבזקים
             prefix = "🚨 " if is_mivzak else ""
             caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{cleaned_link}"
             
             try:
-                # חילוץ תמונה רק אם זה לא מבזק
-                image = None if is_mivzak else extract_image(entry)
-
-                if image:
-                    await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
+                if is_mivzak:
+                    # מבזקים: שליחה כהודעת טקסט ללא תצוגה מקדימה של הלינק
+                    await bot.send_message(
+                        chat_id=CHAT_ID, 
+                        text=caption, 
+                        parse_mode='HTML', 
+                        disable_web_page_preview=True
+                    )
                 else:
-                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
+                    # קטגוריות אחרות: חילוץ תמונה ושליחה כרגיל
+                    image = extract_image(entry)
+                    if image:
+                        await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
+                    else:
+                        await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
                 
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
@@ -120,16 +122,10 @@ async def process_hamal(seen_links_set, links_list, counter):
         url = f"{HAMAL_RSS}?t={int(time.time())}"
         feed = feedparser.parse(url)
         latest_entries = feed.entries[:10]
-        
-        new_entries = []
-        for e in latest_entries:
-            link = clean_url(e.link)
-            if link not in seen_links_set:
-                new_entries.append(e)
+        new_entries = [e for e in latest_entries if clean_url(e.link) not in seen_links_set]
         
         for entry in reversed(new_entries):
             cleaned_link = clean_url(entry.link)
-            # לקישור קצר אנחנו שולחים את הלינק המנוקה
             short_link = get_short_url(cleaned_link)
             
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
