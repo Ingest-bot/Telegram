@@ -7,7 +7,6 @@ import time
 from telegram import Bot
 
 # --- הגדרות ---
-# עדכנתי את השמות כדי ש"מבזקים" יהיה הפיד של הקישור ששלחת
 WALLA_FEEDS = {
     "מבזקים": "https://rss.walla.co.il/feed/22",
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
@@ -23,7 +22,8 @@ HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 
 LAST_LINKS_FILE = "last_links.txt"
 MAX_LINKS_TO_KEEP = 500
-PROMO_EVERY_X_MESSAGES = 20 
+# עדכון: הפרסומת תופיע פעם ב-40 הודעות במקום 20
+PROMO_EVERY_X_MESSAGES = 40 
 
 RLE = "\u202B" 
 PDF = "\u202C" 
@@ -79,7 +79,6 @@ def get_short_url(long_url):
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
     for category, base_url in WALLA_FEEDS.items():
-        # Cache Busting למניעת איחור
         url = f"{base_url}&t={int(time.time())}"
         
         feed = feedparser.parse(url)
@@ -90,15 +89,11 @@ async def process_walla(bot, seen_links_set, links_list):
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
-            # בדיקה: האם זה פיד המבזקים (מספר 22)?
             is_mivzak = (category == "מבזקים")
-            
-            # בניית הכותרת: אימוג'י רק למבזקים, בתוך תגיות ה-RLE לשמירה על עיצוב
             display_title = f"🔴 {entry.title}" if is_mivzak else entry.title
             caption = f"{RLE}{RLM}<b>{display_title}</b>{PDF}\n\n{entry.link}"
             
             try:
-                # ניטרול תמונה רק למבזקים
                 image = None if is_mivzak else extract_image(entry)
 
                 if image:
@@ -144,6 +139,7 @@ async def process_hamal(seen_links_set, links_list, counter):
                 links_list.append(entry.link)
                 counter += 1
                 
+                # כאן מתבצעת הבדיקה מול המשתנה שעדכנו ל-40
                 if counter >= PROMO_EVERY_X_MESSAGES:
                     promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
                     try: 
