@@ -1,9 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/טראמפ-לא-נמצא-בנקודת-יציאה-מהמלחמה-הזו-252039
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252042
-https://e.walla.co.il/item/3823740
-https://news.walla.co.il/item/3823745
-https://travel.walla.co.il/item/3823752
+COUNTER:3
 https://news.walla.co.il/break/3823753
 https://news.walla.co.il/break/3823750
 https://hamal.co.il/main/צהל-ממשיך-לתקוף-תשתיות-של-ארגון-הטרור-חיזבאללה-בלבנון-252049
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-2
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252805
 https://hamal.co.il/main/בור-ענק-באמצע-הרחוב-תיעוד-מזירת-נפילה-במרכז-252808
 https://hamal.co.il/main/רסיס-נפל-סמוך-לתחנת-הרכבת-בחולון-הופסקה-תנועת-הרכבות-252809
+https://news.walla.co.il/item/3824370
+https://news.walla.co.il/item/3824325
+https://news.walla.co.il/break/3824369
+https://hamal.co.il/main/צהל-מאשר-את-חיסול-לריגאני-הוביל-את-הטבח-במפגינים-252810
+https://hamal.co.il/main/הקמת-מחסומים-והיערכות-לקראת-הפגנות-ענק-מאחורי-הפגיעה-בארגון-252801
