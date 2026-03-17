@@ -7,9 +7,10 @@ import time
 from telegram import Bot
 
 # --- הגדרות ---
+# עדכנתי את השמות כדי ש"מבזקים" יהיה הפיד של הקישור ששלחת
 WALLA_FEEDS = {
+    "מבזקים": "https://rss.walla.co.il/feed/22",
     "חדשות": "https://rss.walla.co.il/feed/1?type=main",
-    "סלבס": "https://rss.walla.co.il/feed/22",
     "כסף": "https://rss.walla.co.il/feed/2",
     "טכנולוגיה": "https://rss.walla.co.il/feed/6"
 }
@@ -78,7 +79,7 @@ def get_short_url(long_url):
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
     for category, base_url in WALLA_FEEDS.items():
-        # Cache Busting למניעת איחור של שעה
+        # Cache Busting למניעת איחור
         url = f"{base_url}&t={int(time.time())}"
         
         feed = feedparser.parse(url)
@@ -89,16 +90,16 @@ async def process_walla(bot, seen_links_set, links_list):
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
-            # בדיקה אם מדובר במבזק
-            is_breaking_news = (category == "חדשות")
+            # בדיקה: האם זה פיד המבזקים (מספר 22)?
+            is_mivzak = (category == "מבזקים")
             
-            # הוספת אימוג'י רק למבזקים
-            prefix = "🚨 " if is_breaking_news else ""
-            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{entry.link}"
+            # בניית הכותרת: אימוג'י רק למבזקים, בתוך תגיות ה-RLE לשמירה על עיצוב
+            display_title = f"🔴 {entry.title}" if is_mivzak else entry.title
+            caption = f"{RLE}{RLM}<b>{display_title}</b>{PDF}\n\n{entry.link}"
             
             try:
-                # חילוץ תמונה (לא יבוצע למבזקים)
-                image = None if is_breaking_news else extract_image(entry)
+                # ניטרול תמונה רק למבזקים
+                image = None if is_mivzak else extract_image(entry)
 
                 if image:
                     await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
