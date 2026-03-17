@@ -22,7 +22,6 @@ HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 
 LAST_LINKS_FILE = "last_links.txt"
 MAX_LINKS_TO_KEEP = 500
-# עדכון: הפרסומת תופיע פעם ב-40 הודעות במקום 20
 PROMO_EVERY_X_MESSAGES = 40 
 
 RLE = "\u202B" 
@@ -43,6 +42,9 @@ def extract_image(entry):
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 image_url = link.get('href'); break
+    # בדיקה נוספת בתוך ה-enclosure כפי שרואים בצילום המסך
+    if not image_url and 'enclosure' in entry:
+        image_url = entry.enclosure.get('url')
     return upgrade_image_quality(image_url)
 
 def get_history():
@@ -52,10 +54,8 @@ def get_history():
             for line in f:
                 line = line.strip()
                 if line.startswith("COUNTER:"):
-                    try:
-                        history["counter"] = int(line.split(":")[1])
-                    except:
-                        history["counter"] = 0
+                    try: history["counter"] = int(line.split(":")[1])
+                    except: history["counter"] = 0
                 elif line:
                     history["links"].append(line)
     return history
@@ -71,21 +71,24 @@ def get_short_url(long_url):
     try:
         api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
         response = requests.get(api_url, timeout=5)
-        if response.status_code == 200:
-            return response.text.strip()
+        if response.status_code == 200: return response.text.strip()
     except: pass
     return long_url
 
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
     for category, base_url in WALLA_FEEDS.items():
+        # שימוש ב-timestamp כדי למנוע Cache מהשרת
         url = f"{base_url}&t={int(time.time())}"
         
+        # הגדרה שמונעת מ-feedparser לנסות לתקן תאריכים
         feed = feedparser.parse(url)
+        
         if not feed.entries:
             continue
             
-        latest_entries = feed.entries[:7]
+        # אנחנו לוקחים את 10 הידיעות האחרונות בלי קשר לזמן שלהן
+        latest_entries = feed.entries[:10]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
@@ -128,24 +131,15 @@ async def process_hamal(seen_links_set, links_list, counter):
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
-                await hamal_bot.send_message(
-                    chat_id=HAMAL_CHAT_ID, 
-                    text=message, 
-                    parse_mode='HTML', 
-                    disable_web_page_preview=True
-                )
-                
+                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
                 counter += 1
                 
-                # כאן מתבצעת הבדיקה מול המשתנה שעדכנו ל-40
                 if counter >= PROMO_EVERY_X_MESSAGES:
                     promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
-                    try: 
-                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
-                    except: 
-                        await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
+                    try: await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
+                    except: await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
                     counter = 0 
                 
                 await asyncio.sleep(0.5)
@@ -155,7 +149,6 @@ async def process_hamal(seen_links_set, links_list, counter):
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
-    
     history = get_history()
     links_list = history["links"]
     seen_links_set = set(links_list)
@@ -164,13 +157,9 @@ async def main():
     bot = Bot(token=TELEGRAM_TOKEN)
     async with bot:
         links_list = await process_walla(bot, seen_links_set, links_list)
-    
-    links_list, counter = await process_hamal(seen_links_set, links_list, counter)
+        links_list, counter = await process_hamal(seen_links_set, links_list, counter)
 
     save_history(links_list, counter)
 
 if __name__ == "__main__":
-    async def run_main():
-        await main()
-    
-    asyncio.run(run_main())
+    asyncio.run(main())
