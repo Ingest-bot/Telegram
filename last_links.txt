@@ -1,10 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/3-פצועים-קל-במטח-האחרון-252136
-https://news.walla.co.il/item/3823833
-https://news.walla.co.il/item/3823831
-https://e.walla.co.il/item/3823830
-https://e.walla.co.il/item/3823828
-https://news.walla.co.il/item/3823829
+COUNTER:12
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252150
 https://news.walla.co.il/break/3823839
 https://news.walla.co.il/break/3823841
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3824445
 https://news.walla.co.il/item/3824450
 https://hamal.co.il/main/טראמפ-ארהב-אינה-זקוקה-לנאטו-לאחר-הפעולה-באיראן-252882
 https://hamal.co.il/main/ההייטק-חסין-המסעדות-קורסות-אחד-מכל-ארבעה-עסקים-בישראל-מושב-252898
+https://news.walla.co.il/item/3824451
+https://news.walla.co.il/item/3824455
+https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיראן-למרכז-הארץ-252901
+https://hamal.co.il/main/שוגרו-טילים-מאיראן-לעבר-שטח-מדינת-ישראל-252902
+https://hamal.co.il/main/בצהל-מדווחים-הירי-מאיראן---לא-משולב-252933
+https://hamal.co.il/main/טראמפ-252934
