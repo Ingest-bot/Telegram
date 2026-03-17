@@ -1,6 +1,4 @@
 COUNTER:13
-https://hamal.co.il/main/-ראש-ארגון-הבריאות-העולמי-12-אנשי-צוות-רפואי-נהרגו-בתקיפה-251928
-https://hamal.co.il/main/גל-רובין-היא-הדיירת-ה-20-בבית-האח-הגדול-מאור-בן-הרוש-עודכן-251929
 https://news.walla.co.il/item/3823271
 https://news.walla.co.il/item/3820771
 https://news.walla.co.il/item/3823213
@@ -499,3 +497,5 @@ https://e.walla.co.il/item/3824282
 https://news.walla.co.il/break/3824292
 https://news.walla.co.il/break/3824293
 https://hamal.co.il/main/ב-3-מרחבים-במקביל-252750
+https://news.walla.co.il/item/3824298
+https://news.walla.co.il/item/3824295
