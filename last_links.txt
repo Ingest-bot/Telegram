@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/דיווח-סעודי-חוסל-מנהיג-חמאס-בתקיפה-בצידון-252073
-https://hamal.co.il/main/השקט-מטעה-וגורם-לאנשים-להיכנס-לשאנננות-ורפיון-252077
-https://e.walla.co.il/item/3823780
+COUNTER:13
 https://e.walla.co.il/item/3823775
 https://news.walla.co.il/item/3823782
 https://news.walla.co.il/break/3823784
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירת-נפיל
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252830
 https://hamal.co.il/main/צהל-לוחם-נפצע-באורח-קל-מיידוי-אבנים-ביוש-252831
 https://hamal.co.il/main/שברי-יירוט-נפלו-בבנייני-מגורים-בראשון-לציון---וגרמו-להרס-רב-252832
+https://news.walla.co.il/item/3824381
+https://news.walla.co.il/break/3824402
+https://hamal.co.il/main/לא-היה-לה-זמן-הכלבה-של-כוכבת-הריאליטי-נשלחה-במונית-לבדה-להס-252519
