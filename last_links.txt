@@ -1,8 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/ישראל-רוצה-לשלוט-במזהת-הפרשן-האמריקני-שוב-מעורר-סערה-251856
-https://hamal.co.il/main/טראמפ-קורא-להקמת-כוח-בינלאומי-להגנת-השיט-במצר-הורמוז-251897
-https://hamal.co.il/main/דיווחים-בלבנון-חיל-האוויר-תוקף-בדאחייה-שבביירות-251899
-https://hamal.co.il/main/לא-הכל-שחור-המרוויחות-המפתיעות-מהמתיחות-באיראן-251906
+COUNTER:7
 https://news.walla.co.il/break/3823683
 https://hamal.co.il/main/הרצוג-שוחח-עם-מנהיגי-הקהילה-היהודית-בהולנד-בעקבות-המתקפות-251917
 https://hamal.co.il/main/מזל-טוב-חן-אמסלם-ומאור-זגורי-הורים-לשלושה-251909
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3824265
 https://news.walla.co.il/break/3824271
 https://news.walla.co.il/break/3824272
 https://news.walla.co.il/break/3824273
+https://news.walla.co.il/item/3824209
+https://hamal.co.il/main/פרסמו-את-העסק-שלכם-אצלנו-בחינם-252721
+https://hamal.co.il/main/2-תושבי-חברון-נאשמים-בהחזקת-נשק-שלא-כדין-252722
+https://hamal.co.il/main/תקדים-בבלגיה-חיילים-יגנו-על-הרובע-היהודי-ועל-מוסדות-יהודיים-252723
