@@ -31,6 +31,10 @@ RLM = "\u200f"
 LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png"
 
 # --- פונקציות עזר ---
+def clean_url(url):
+    """מנקה את הלינק מפרמטרים של זמן או UTM כדי למנוע כפילויות/פספוסים"""
+    return url.split('?')[0].split('#')[0].strip()
+
 def upgrade_image_quality(url):
     if not url: return url
     return re.sub(r'w=\d+', 'w=1200', url).replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
@@ -42,7 +46,6 @@ def extract_image(entry):
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 image_url = link.get('href'); break
-    # בדיקה נוספת בתוך ה-enclosure כפי שרואים בצילום המסך
     if not image_url and 'enclosure' in entry:
         image_url = entry.enclosure.get('url')
     return upgrade_image_quality(image_url)
@@ -67,34 +70,36 @@ def save_history(links_list, counter):
         for link in recent_links:
             f.write(f"{link}\n")
 
-def get_short_url(long_url):
-    try:
-        api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
-        response = requests.get(api_url, timeout=5)
-        if response.status_code == 200: return response.text.strip()
-    except: pass
-    return long_url
-
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
     for category, base_url in WALLA_FEEDS.items():
-        # שימוש ב-timestamp כדי למנוע Cache מהשרת
-        url = f"{base_url}&t={int(time.time())}"
+        # Cache Busting חזק
+        url = f"{base_url}?cache_bust={int(time.time())}"
         
-        # הגדרה שמונעת מ-feedparser לנסות לתקן תאריכים
+        # טעינת הפיד ללא סינון תאריכים
         feed = feedparser.parse(url)
         
         if not feed.entries:
+            print(f"No entries found for {category}")
             continue
             
-        # אנחנו לוקחים את 10 הידיעות האחרונות בלי קשר לזמן שלהן
-        latest_entries = feed.entries[:10]
-        new_entries = [e for e in latest_entries if e.link not in seen_links_set]
+        # סריקה של 15 פריטים כדי לא לפספס כלום אם היה מטח מבזקים
+        latest_entries = feed.entries[:15]
+        
+        # סינון לפי לינק נקי
+        new_entries = []
+        for e in latest_entries:
+            link = clean_url(e.link)
+            if link not in seen_links_set:
+                new_entries.append(e)
         
         for entry in reversed(new_entries):
             is_mivzak = (category == "מבזקים")
+            cleaned_link = clean_url(entry.link)
+            
+            # בניית הודעה
             display_title = f"🔴 {entry.title}" if is_mivzak else entry.title
-            caption = f"{RLE}{RLM}<b>{display_title}</b>{PDF}\n\n{entry.link}"
+            caption = f"{RLE}{RLM}<b>{display_title}</b>{PDF}\n\n{cleaned_link}"
             
             try:
                 image = None if is_mivzak else extract_image(entry)
@@ -104,10 +109,11 @@ async def process_walla(bot, seen_links_set, links_list):
                 else:
                     await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
                 
-                seen_links_set.add(entry.link)
-                links_list.append(entry.link)
-                await asyncio.sleep(0.5)
-            except Exception as e: print(f"Walla Error in {category}: {e}")
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
+                await asyncio.sleep(0.8) # האטה קלה למניעת חסימות
+            except Exception as e: 
+                print(f"Walla Error in {category}: {e}")
             
     return links_list
 
@@ -119,11 +125,18 @@ async def process_hamal(seen_links_set, links_list, counter):
     async with hamal_bot:
         url = f"{HAMAL_RSS}?t={int(time.time())}"
         feed = feedparser.parse(url)
-        latest_entries = feed.entries[:5]
-        new_entries = [e for e in latest_entries if e.link not in seen_links_set]
+        latest_entries = feed.entries[:10]
+        
+        new_entries = []
+        for e in latest_entries:
+            link = clean_url(e.link)
+            if link not in seen_links_set:
+                new_entries.append(e)
         
         for entry in reversed(new_entries):
-            short_link = get_short_url(entry.link)
+            cleaned_link = clean_url(entry.link)
+            short_link = get_short_url(cleaned_link)
+            
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
@@ -132,8 +145,8 @@ async def process_hamal(seen_links_set, links_list, counter):
             
             try:
                 await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
-                seen_links_set.add(entry.link)
-                links_list.append(entry.link)
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
                 counter += 1
                 
                 if counter >= PROMO_EVERY_X_MESSAGES:
@@ -150,8 +163,9 @@ async def process_hamal(seen_links_set, links_list, counter):
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     history = get_history()
-    links_list = history["links"]
-    seen_links_set = set(links_list)
+    # ניקוי ההיסטוריה הקיימת כדי לוודא שאין לינקים עם פרמטרים שחוסמים לינקים נקיים
+    seen_links_set = {clean_url(l) for l in history["links"]}
+    links_list = list(seen_links_set)
     counter = history["counter"]
 
     bot = Bot(token=TELEGRAM_TOKEN)
