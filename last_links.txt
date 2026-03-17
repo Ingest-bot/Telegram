@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3823271
-https://news.walla.co.il/item/3820771
-https://news.walla.co.il/item/3823213
-https://news.walla.co.il/item/3823703
-https://news.walla.co.il/item/3823705
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-251931
+COUNTER:17
 https://news.walla.co.il/break/3823708
 https://news.walla.co.il/break/3823706
 https://news.walla.co.il/break/3823707
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3824293
 https://hamal.co.il/main/ב-3-מרחבים-במקביל-252750
 https://news.walla.co.il/item/3824298
 https://news.walla.co.il/item/3824295
+https://news.walla.co.il/item/3824303
+https://news.walla.co.il/item/3824249
+https://hamal.co.il/main/עם-כדור-בקנה-252753
+https://hamal.co.il/main/קצין-בכיר-בצהל-חיל-האוויר-תוקף-רכיבים-סודיים-בפרויקט-הגרעי-252726
+https://hamal.co.il/main/הרמטכל-חיסלנו-באיראן-טרוריסטיים-מעזה-ויוש-252754
+https://hamal.co.il/main/רוכב-אופנוע-במצב-אנוש-לאחר-שנפגע-252755
