@@ -1,9 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3823690
-https://news.walla.co.il/break/3823691
-https://hamal.co.il/main/דיווח-ישראל-הודיעה-שמלאי-המיירטים-לטילים-בליסטיים---אוזל-251926
-https://hamal.co.il/main/גם-בעיר-אריאל-לא-תפתח-מערכת-החינוך-ביום-שני-הקרוב-251927
-https://news.walla.co.il/item/3823697
+COUNTER:13
 https://hamal.co.il/main/-ראש-ארגון-הבריאות-העולמי-12-אנשי-צוות-רפואי-נהרגו-בתקיפה-251928
 https://hamal.co.il/main/גל-רובין-היא-הדיירת-ה-20-בבית-האח-הגדול-מאור-בן-הרוש-עודכן-251929
 https://news.walla.co.il/item/3823271
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3824287
 https://news.walla.co.il/break/3824288
 https://news.walla.co.il/break/3824286
 https://hamal.co.il/main/דיווח-מדינות-המפרץ-קוראות-לארהב-לא-לעצור-את-המלחמה-באיראן-252749
+https://news.walla.co.il/item/3824291
+https://e.walla.co.il/item/3824282
+https://news.walla.co.il/break/3824292
+https://news.walla.co.il/break/3824293
+https://hamal.co.il/main/ב-3-מרחבים-במקביל-252750
