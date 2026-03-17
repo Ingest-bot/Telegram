@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3823798
-https://news.walla.co.il/item/3823799
-https://news.walla.co.il/item/3823658
+COUNTER:19
 https://news.walla.co.il/item/3823800
 https://hamal.co.il/main/20-מחבלים-חוסלו-ברצועה-אחד-מהם--סגן-מפקד-בנוחבה-שפשט-ב-710-252097
 https://hamal.co.il/main/איפה-התינוק-דיון-בהארכת-מעצר-האישה-שילדה-בבית-ומסרה-את-הילד-252095
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824424
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-252837
 https://news.walla.co.il/item/3824427
 https://hamal.co.il/main/המטח-האחרון-לעבר-ישראל-לא-ידוע-על-נפגעים-252848
+https://news.walla.co.il/item/3824429
+https://hamal.co.il/main/צהל-מתריע-חיזבאללה-נערך-לקראת-מטחי-רקטות-כבדים-252849
+https://hamal.co.il/main/התפטרות-ראשונה-בממשל-טראמפ-בשל-המלחמה-הם-איראן-252851
