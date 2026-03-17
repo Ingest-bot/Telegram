@@ -1,7 +1,4 @@
 COUNTER:11
-https://news.walla.co.il/break/3823686
-https://hamal.co.il/main/גבר-בן-60-נפצע-קשה-בתאונת-דרכים-בבאר-שבע-251918
-https://hamal.co.il/main/אישה-נמצאה-ללא-רוח-חיים-במושב-אמירים---המשטרה-פתחה-בחקירה-251921
 https://news.walla.co.il/item/3823688
 https://news.walla.co.il/item/3823687
 https://news.walla.co.il/item/3823682
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פתח-תקווה-הולך-רגל-נפגע-מאוטוב
 https://hamal.co.il/main/אוגדה-36-252725
 https://hamal.co.il/main/שריפה-פרצה-בחווה-בבנימין-המבנה-המרכזי-ניזוק-כליל-252727
 https://hamal.co.il/main/תיעוד-חריג-שליח-גנב-פריטי-לבוש-אינטימיים---וחבש-אותם-על-ראש-252728
+https://news.walla.co.il/item/3824278
+https://news.walla.co.il/break/3824280
+https://news.walla.co.il/break/3824283
