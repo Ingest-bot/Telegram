@@ -3,6 +3,7 @@ import asyncio
 import os
 import re
 import requests
+import time
 from telegram import Bot
 
 # --- הגדרות ---
@@ -76,24 +77,39 @@ def get_short_url(long_url):
 
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
-    for category, url in WALLA_FEEDS.items():
+    for category, base_url in WALLA_FEEDS.items():
+        # Cache Busting למניעת איחור של שעה
+        url = f"{base_url}&t={int(time.time())}"
+        
         feed = feedparser.parse(url)
-        latest_entries = feed.entries[:5]
+        if not feed.entries:
+            continue
+            
+        latest_entries = feed.entries[:7]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
-            caption = f"{RLE}{RLM}<b>{entry.title}</b>{PDF}\n\n{entry.link}"
+            # בדיקה אם מדובר במבזק
+            is_breaking_news = (category == "חדשות")
+            
+            # הוספת אימוג'י רק למבזקים
+            prefix = "🚨 " if is_breaking_news else ""
+            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{entry.link}"
+            
             try:
-                image = extract_image(entry)
+                # חילוץ תמונה (לא יבוצע למבזקים)
+                image = None if is_breaking_news else extract_image(entry)
+
                 if image:
                     await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
                 else:
-                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML')
+                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
                 
                 seen_links_set.add(entry.link)
                 links_list.append(entry.link)
                 await asyncio.sleep(0.5)
-            except Exception as e: print(f"Walla Error: {e}")
+            except Exception as e: print(f"Walla Error in {category}: {e}")
+            
     return links_list
 
 # --- עיבוד חמ"ל ---
@@ -102,18 +118,15 @@ async def process_hamal(seen_links_set, links_list, counter):
     
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
-        feed = feedparser.parse(HAMAL_RSS)
+        url = f"{HAMAL_RSS}?t={int(time.time())}"
+        feed = feedparser.parse(url)
         latest_entries = feed.entries[:5]
         new_entries = [e for e in latest_entries if e.link not in seen_links_set]
         
         for entry in reversed(new_entries):
             short_link = get_short_url(entry.link)
-            
-            # --- ניקוי כותרת אגרסיבי עם Regex ---
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
-            # מחפש "חמל" או "חמ"ל" עם או בלי מקף/נקודתיים בתחילת המחרוזת
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
-            # ניקוי שאריות של נקודתיים אם נשארו
             clean_title = clean_title.lstrip(" :")
             
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
@@ -160,4 +173,7 @@ async def main():
     save_history(links_list, counter)
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    async def run_main():
+        await main()
+    
+    asyncio.run(run_main())
