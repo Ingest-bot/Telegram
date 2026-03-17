@@ -1,12 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-252150
-https://news.walla.co.il/break/3823839
-https://news.walla.co.il/break/3823841
-https://news.walla.co.il/break/3823842
-https://news.walla.co.il/break/3823844
-https://hamal.co.il/main/הדי-פיצוצים-נשמעים-במרכז-הארץ-252153
-https://hamal.co.il/main/פצוע-קל-בפגיעת-מבנה-בבני-ברק-252154
-https://news.walla.co.il/item/3823849
+COUNTER:16
 https://news.walla.co.il/item/3823850
 https://news.walla.co.il/break/3823847
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252156
@@ -499,3 +491,11 @@ https://hamal.co.il/main/פיקוד-העורף-זוהו-שיגורים-מאיר�
 https://hamal.co.il/main/שוגרו-טילים-מאיראן-לעבר-שטח-מדינת-ישראל-252902
 https://hamal.co.il/main/בצהל-מדווחים-הירי-מאיראן---לא-משולב-252933
 https://hamal.co.il/main/טראמפ-252934
+https://news.walla.co.il/item/3824452
+https://travel.walla.co.il/item/3824460
+https://news.walla.co.il/break/3824461
+https://news.walla.co.il/break/3824462
+https://hamal.co.il/main/בדקות-הקרובות-שיגור-נוסף-מאיראן-252939
+https://hamal.co.il/main/טראמפ-על-סיום-המלחמה-נעזוב-ממש-בזמן-הקרוב-מאוד-252949
+https://hamal.co.il/main/בשלב-זה-לא-התקבלו-קריאות-במוקד-101-של-מדא-כלל-252951
+https://hamal.co.il/main/האם-אזעקה-היא-עילה-לביטול-דוח-מהירות-או-נסיעה-באדום-252895
