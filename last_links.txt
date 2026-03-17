@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/פליי-דובאי-מבטלת-את-כל-טיסותיה-לארץ-עד-30-באפריל-252053
-https://e.walla.co.il/item/3823748
-https://news.walla.co.il/item/3823759
+COUNTER:8
 https://news.walla.co.il/item/3823764
 https://hamal.co.il/main/תיעוד-21-שוהים-בלתי-חוקיים-נעצרו-במחסום-חיזמא-252063
 https://hamal.co.il/main/בתה-של-השרה-אורית-סטרוק-נמצאה-ללא-רוח-חיים-בביתה-252065
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824378
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-ברחבי-טהרן-252811
 https://hamal.co.il/main/והעיר-טהרן-צהלה-צפו-בקריאות-השמחה-בעקבות-חיסול-לריגאני-252812
 https://hamal.co.il/main/מגפת-החצבת-נער-בן-17-נפטר-מהמחלה-252813
+https://news.walla.co.il/item/3824378
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-252815
+https://hamal.co.il/main/דיווח-זה-היקף-הפגיעה-של-צהל-בארגון-הבסיג-252816
