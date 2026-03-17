@@ -1,8 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3823688
-https://news.walla.co.il/item/3823687
-https://news.walla.co.il/item/3823682
-https://hamal.co.il/main/גבר-בן-30-נהרג-באירוע-אלימות-בנצרת-251923
+COUNTER:12
 https://news.walla.co.il/item/3823690
 https://news.walla.co.il/break/3823691
 https://hamal.co.il/main/דיווח-ישראל-הודיעה-שמלאי-המיירטים-לטילים-בליסטיים---אוזל-251926
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-חריג-שליח-גנב-פריטי-לבוש
 https://news.walla.co.il/item/3824278
 https://news.walla.co.il/break/3824280
 https://news.walla.co.il/break/3824283
+https://news.walla.co.il/item/3824287
+https://news.walla.co.il/break/3824288
+https://news.walla.co.il/break/3824286
+https://hamal.co.il/main/דיווח-מדינות-המפרץ-קוראות-לארהב-לא-לעצור-את-המלחמה-באיראן-252749
