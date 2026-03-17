@@ -31,8 +31,20 @@ RLM = "\u200f"
 LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png"
 
 # --- פונקציות עזר ---
+
 def clean_url(url):
+    """מנקה פרמטרים מהקישור למניעת כפילויות"""
     return url.split('?')[0].split('#')[0].strip()
+
+def get_short_url(long_url):
+    """פונקציית קיצור הכתובות שהייתה חסרה"""
+    try:
+        api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
+        response = requests.get(api_url, timeout=5)
+        if response.status_code == 200:
+            return response.text.strip()
+    except: pass
+    return long_url
 
 def upgrade_image_quality(url):
     if not url: return url
@@ -90,7 +102,7 @@ async def process_walla(bot, seen_links_set, links_list):
             
             try:
                 if is_mivzak:
-                    # מבזקים: שליחה כהודעת טקסט ללא תצוגה מקדימה של הלינק
+                    # מבזקים ללא תצוגה מקדימה
                     await bot.send_message(
                         chat_id=CHAT_ID, 
                         text=caption, 
@@ -98,7 +110,6 @@ async def process_walla(bot, seen_links_set, links_list):
                         disable_web_page_preview=True
                     )
                 else:
-                    # קטגוריות אחרות: חילוץ תמונה ושליחה כרגיל
                     image = extract_image(entry)
                     if image:
                         await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
