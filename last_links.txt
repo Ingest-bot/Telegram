@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3823850
-https://news.walla.co.il/break/3823847
+COUNTER:17
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252156
 https://hamal.co.il/main/בזכות-הממד-ניצולת-שואה-ניצלה-לאחר-נפילת-שברי-יירוט-252122
 https://e.walla.co.il/item/3823851
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בדקות-הקרובות-שיגור-נוסף-מאיר�
 https://hamal.co.il/main/טראמפ-על-סיום-המלחמה-נעזוב-ממש-בזמן-הקרוב-מאוד-252949
 https://hamal.co.il/main/בשלב-זה-לא-התקבלו-קריאות-במוקד-101-של-מדא-כלל-252951
 https://hamal.co.il/main/האם-אזעקה-היא-עילה-לביטול-דוח-מהירות-או-נסיעה-באדום-252895
+https://news.walla.co.il/item/3824448
+https://hamal.co.il/main/סמוטריץ-יש-לנו-דרך-ארוכה-להפוך-לדמוקרטיה-252954
