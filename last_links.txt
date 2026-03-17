@@ -1,8 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/3-פצועים-קל-בתל-אביב-252116
-https://hamal.co.il/main/תיעוד-ממערב-איראן-ניסו-לברוח---אבל-חיל-האוויר-חיסל-אותם-252124
-https://hamal.co.il/main/ויכוח-בועדת-חוקה-״התקופה-הכי-שחורה-שהייתה-במדינה״-252129
-https://hamal.co.il/main/כדור-אש-במרכז-הכביש-תיעוד-נפילת-שברי-היירוט-בתל-אביב-252134
+COUNTER:8
 https://hamal.co.il/main/3-פצועים-קל-במטח-האחרון-252136
 https://news.walla.co.il/item/3823833
 https://news.walla.co.il/item/3823831
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3824444
 https://news.walla.co.il/break/3824443
 https://news.walla.co.il/break/3824441
 https://hamal.co.il/main/תיעוד-מיוחד-רגע-החיסול-של-חיילי-יחידת-הסיג-בטהרן-252879
+https://news.walla.co.il/item/3824445
+https://news.walla.co.il/item/3824450
+https://hamal.co.il/main/טראמפ-ארהב-אינה-זקוקה-לנאטו-לאחר-הפעולה-באיראן-252882
+https://hamal.co.il/main/ההייטק-חסין-המסעדות-קורסות-אחד-מכל-ארבעה-עסקים-בישראל-מושב-252898
