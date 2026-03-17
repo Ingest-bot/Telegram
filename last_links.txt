@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3823715
-https://news.walla.co.il/break/3823716
-https://news.walla.co.il/break/3823717
-https://news.walla.co.il/break/3823714
-https://news.walla.co.il/break/3823718
+COUNTER:3
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251966
 https://hamal.co.il/main/שריפות-בכמה-מוקדים-במרכז-הארץ-עקב-נפילת-רסיסי-יירוט-251970
 https://hamal.co.il/main/פעילות-כוחות-מדא-באחת-מזירות-נפילת-הרסיסים-במרכז-הארץ-251972
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3824317
 https://news.walla.co.il/break/3824318
 https://hamal.co.il/main/ה-64-שנתפס-קוף-אותר-בחצר-בית-בכפר-קאסם-252760
 https://hamal.co.il/main/בישראל-מאשרים-חוסל-מפקד-הבסיג-252761
+https://news.walla.co.il/item/3824331
+https://news.walla.co.il/item/3824327
+https://news.walla.co.il/break/3824326
+https://hamal.co.il/main/צהל-מאשר-מפקד-הבסיג-חוסל-בלב-טהרן-252762
+https://hamal.co.il/main/אופטימיות-בישראל-252763
