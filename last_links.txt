@@ -1,10 +1,4 @@
-COUNTER:13
-https://e.walla.co.il/item/3823775
-https://news.walla.co.il/item/3823782
-https://news.walla.co.il/break/3823784
-https://hamal.co.il/main/דיווחים-באיראן-על-פיצוצים-באספהאן-252078
-https://travel.walla.co.il/item/3823789
-https://news.walla.co.il/item/3823787
+COUNTER:14
 https://news.walla.co.il/item/3823792
 https://news.walla.co.il/break/3823785
 https://hamal.co.il/main/למרות-ההנחיות-אלו-הערים-שדוחות-את-הלימודים-הפרונטליים-252083
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שברי-יירוט-נפלו-בבנייני-מגורי�
 https://news.walla.co.il/item/3824381
 https://news.walla.co.il/break/3824402
 https://hamal.co.il/main/לא-היה-לה-זמן-הכלבה-של-כוכבת-הריאליטי-נשלחה-במונית-לבדה-להס-252519
+https://news.walla.co.il/item/3824407
+https://news.walla.co.il/item/3824250
+https://news.walla.co.il/item/3824409
+https://news.walla.co.il/break/3824410
+https://news.walla.co.il/break/3824412
+https://hamal.co.il/main/אחרי-הנפילה-בחולון-252833
