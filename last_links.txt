@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3823794
-https://travel.walla.co.il/item/3823797
+COUNTER:17
 https://news.walla.co.il/item/3823798
 https://news.walla.co.il/item/3823799
 https://news.walla.co.il/item/3823658
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נתניהו-על-חיסול-לריגאני-מערער�
 https://news.walla.co.il/break/3824422
 https://news.walla.co.il/break/3824424
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-252837
+https://news.walla.co.il/item/3824427
+https://hamal.co.il/main/המטח-האחרון-לעבר-ישראל-לא-ידוע-על-נפגעים-252848
