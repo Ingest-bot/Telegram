@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3823722
-https://news.walla.co.il/break/3823723
-https://news.walla.co.il/break/3823724
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251980
-https://hamal.co.il/main/דובר-צהל-צהל-זיהה-כי-לפני-זמן-קצר-שוגרו-טילים-מאיראן-לעב-251992
+COUNTER:9
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-251996
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-והשפלה-252003
 https://news.walla.co.il/break/3823726
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3824334
 https://news.walla.co.il/item/3824335
 https://hamal.co.il/main/באיראן-טוענים-לריגאני-ימסור-הצהרה-בקרוב-252764
 https://hamal.co.il/main/לשכת-רהמ-מפרסמת-הרגע-שבו-נתניהו-הורה-על-חיסול-בכירי-המשטר-252765
+https://news.walla.co.il/item/3824338
+https://hamal.co.il/main/שר-הביטחון-עלי-לירגאני-חוסל-252768
+https://hamal.co.il/main/הורה-לתקוף-מרכזי-אוכלוסייה-ואת-מדינות-המפרץ-252766
+https://hamal.co.il/main/רעננה-נקבע-מותו-של-בן-86-שנפל-מסולם-252769
+https://hamal.co.il/main/טילי-שיוט-ומאות-רקטות-צהל-תקף-מצבור-אמלח-בדרום-לבנון-252770
