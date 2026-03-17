@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/למרות-ההנחיות-אלו-הערים-שדוחות-את-הלימודים-הפרונטליים-252083
-https://hamal.co.il/main/״אתם-מסכנים-את-עצמכם״-אזהרת-פינוי-נוספת-בדרום-לבנון-252087
-https://hamal.co.il/main/20-דקות-וסיימתם-אימון-ביתי-שירים-אותכם-מהספה-252091
+COUNTER:16
 https://news.walla.co.il/item/3823794
 https://travel.walla.co.il/item/3823797
 https://news.walla.co.il/item/3823798
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3824412
 https://hamal.co.il/main/אחרי-הנפילה-בחולון-252833
 https://news.walla.co.il/break/3824413
 https://hamal.co.il/main/נתניהו-על-חיסול-לריגאני-מערערים-את-המשטר-יש-עוד-הפתעות-252835
+https://news.walla.co.il/break/3824422
+https://news.walla.co.il/break/3824424
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-252837
