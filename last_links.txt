@@ -1,6 +1,4 @@
 COUNTER:4
-https://hamal.co.il/main/משטרת-ישראל-עצרה-לחקירה-חשוד-בעבירות-מין-בקטינים-בשנה-האחרונ-251896
-https://news.walla.co.il/item/3823678
 https://hamal.co.il/main/ישראל-רוצה-לשלוט-במזהת-הפרשן-האמריקני-שוב-מעורר-סערה-251856
 https://hamal.co.il/main/טראמפ-קורא-להקמת-כוח-בינלאומי-להגנת-השיט-במצר-הורמוז-251897
 https://hamal.co.il/main/דיווחים-בלבנון-חיל-האוויר-תוקף-בדאחייה-שבביירות-251899
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3824270
 https://hamal.co.il/main/מזג-אוויר-היום-בהיר-עם-עלייה-ניכרת-בטמפרטורות-הים-גלי-הטנפ-252718
 https://news.walla.co.il/item/3824265
 https://news.walla.co.il/break/3824271
+https://news.walla.co.il/break/3824272
+https://news.walla.co.il/break/3824273
