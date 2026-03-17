@@ -1,8 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-251966
-https://hamal.co.il/main/שריפות-בכמה-מוקדים-במרכז-הארץ-עקב-נפילת-רסיסי-יירוט-251970
-https://hamal.co.il/main/פעילות-כוחות-מדא-באחת-מזירות-נפילת-הרסיסים-במרכז-הארץ-251972
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-251974
+COUNTER:5
 https://news.walla.co.il/break/3823722
 https://news.walla.co.il/break/3823723
 https://news.walla.co.il/break/3823724
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3824327
 https://news.walla.co.il/break/3824326
 https://hamal.co.il/main/צהל-מאשר-מפקד-הבסיג-חוסל-בלב-טהרן-252762
 https://hamal.co.il/main/אופטימיות-בישראל-252763
+https://news.walla.co.il/item/3824334
+https://news.walla.co.il/item/3824335
+https://hamal.co.il/main/באיראן-טוענים-לריגאני-ימסור-הצהרה-בקרוב-252764
+https://hamal.co.il/main/לשכת-רהמ-מפרסמת-הרגע-שבו-נתניהו-הורה-על-חיסול-בכירי-המשטר-252765
