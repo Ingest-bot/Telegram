@@ -1,10 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-הארץ-251996
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-והשפלה-252003
-https://news.walla.co.il/break/3823726
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252005
-https://news.walla.co.il/break/3823727
-https://hamal.co.il/main/חשד-להצתה-ברמלה-252007
+COUNTER:13
 https://news.walla.co.il/item/3823730
 https://hamal.co.il/main/״צריך-למלא-את-המחסנים-להמשך״-אישור-התקציב-המיוחד-252010
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בגליל-העליון-252011
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שר-הביטחון-עלי-לירגאני-חוסל-2527
 https://hamal.co.il/main/הורה-לתקוף-מרכזי-אוכלוסייה-ואת-מדינות-המפרץ-252766
 https://hamal.co.il/main/רעננה-נקבע-מותו-של-בן-86-שנפל-מסולם-252769
 https://hamal.co.il/main/טילי-שיוט-ומאות-רקטות-צהל-תקף-מצבור-אמלח-בדרום-לבנון-252770
+https://travel.walla.co.il/item/3824344
+https://news.walla.co.il/item/3824348
+https://hamal.co.il/main/אחרי-הפגיעה-במכון-ויצמן-252771
+https://hamal.co.il/main/אחרי-שחיסולו-אומת-זאת-ההודעה-שפורסמה-מטעמו-של-עלי-לירגאני-252772
+https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-252774
+https://hamal.co.il/main/הירי-מאיראן-לצפון-דיווח-על-נפילה-בשטח-פתוח-ללא-נפגעים-252781
