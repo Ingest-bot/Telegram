@@ -1,13 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3823764
-https://hamal.co.il/main/תיעוד-21-שוהים-בלתי-חוקיים-נעצרו-במחסום-חיזמא-252063
-https://hamal.co.il/main/בתה-של-השרה-אורית-סטרוק-נמצאה-ללא-רוח-חיים-בביתה-252065
-https://hamal.co.il/main/דיווחים-באיראן-בסיס-חיל-האוויר-בדזפול-הותקף-252066
-https://news.walla.co.il/item/3823769
-https://news.walla.co.il/item/3823772
-https://news.walla.co.il/break/3823776
-https://hamal.co.il/main/גבר-כבן-30-נהרג-במהלך-עבודתו-סמוך-לחוסאן-252067
-https://hamal.co.il/main/צה״ל-החל-בגל-תקיפות-נרחב-במערב-איראן-252068
+COUNTER:12
 https://hamal.co.il/main/דיווח-סעודי-חוסל-מנהיג-חמאס-בתקיפה-בצידון-252073
 https://hamal.co.il/main/השקט-מטעה-וגורם-לאנשים-להיכנס-לשאנננות-ורפיון-252077
 https://e.walla.co.il/item/3823780
@@ -499,3 +490,12 @@ https://hamal.co.il/main/מגפת-החצבת-נער-בן-17-נפטר-מהמחל�
 https://news.walla.co.il/item/3824378
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-252815
 https://hamal.co.il/main/דיווח-זה-היקף-הפגיעה-של-צהל-בארגון-הבסיג-252816
+https://news.walla.co.il/item/3824388
+https://news.walla.co.il/break/3824393
+https://news.walla.co.il/break/3824396
+https://news.walla.co.il/break/3824397
+https://news.walla.co.il/break/3824399
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירת-נפילה-במרכז-252828
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252830
+https://hamal.co.il/main/צהל-לוחם-נפצע-באורח-קל-מיידוי-אבנים-ביוש-252831
+https://hamal.co.il/main/שברי-יירוט-נפלו-בבנייני-מגורים-בראשון-לציון---וגרמו-להרס-רב-252832
