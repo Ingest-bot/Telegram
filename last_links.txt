@@ -1,6 +1,4 @@
 COUNTER:4
-https://hamal.co.il/main/כוחות-צהל-חיסלו-מחבלים-חמושים-בדרום-רצועת-עזה-251894
-https://news.walla.co.il/break/3823677
 https://hamal.co.il/main/משטרת-ישראל-עצרה-לחקירה-חשוד-בעבירות-מין-בקטינים-בשנה-האחרונ-251896
 https://news.walla.co.il/item/3823678
 https://hamal.co.il/main/ישראל-רוצה-לשלוט-במזהת-הפרשן-האמריקני-שוב-מעורר-סערה-251856
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טיל-פגע-במכלית-מול-חופי-איחוד-�
 https://hamal.co.il/main/אזעקות-נשמעו-בזרעית-252717
 https://news.walla.co.il/break/3824270
 https://hamal.co.il/main/מזג-אוויר-היום-בהיר-עם-עלייה-ניכרת-בטמפרטורות-הים-גלי-הטנפ-252718
+https://news.walla.co.il/item/3824265
+https://news.walla.co.il/break/3824271
