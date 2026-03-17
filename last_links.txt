@@ -1,11 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/אין-נפילות-או-נפגעים-במטח-האחרון-לצפון-252016
-https://hamal.co.il/main/זוהה-שיגור-נוסף-אזעקות-צפויות-בדרום-252019
-https://hamal.co.il/main/במקביל-לירי-לדרום-שיגור-זוהה-מלבנון-לצפון-252034
-https://news.walla.co.il/item/3823739
-https://news.walla.co.il/item/3823741
-https://news.walla.co.il/break/3823742
-https://hamal.co.il/main/ירי-מלבנון-ואיראן-במקביל-אין-דיווחים-על-נפילות-או-נפגעים-252040
+COUNTER:1
 https://hamal.co.il/main/טראמפ-לא-נמצא-בנקודת-יציאה-מהמלחמה-הזו-252039
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-252042
 https://e.walla.co.il/item/3823740
@@ -499,3 +492,10 @@ https://hamal.co.il/main/ראש-עיריית-שדרות-צריך-לעשות-קו
 https://hamal.co.il/main/מוגתבא-חמינאי-דחה-את-הצעות-התיווך-להביס-את-ישראל-וארהב-252785
 https://news.walla.co.il/item/3824262
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-252787
+https://news.walla.co.il/item/3824365
+https://news.walla.co.il/break/3824367
+https://news.walla.co.il/break/3824368
+https://hamal.co.il/main/הירי-מאיראן-לא-דווח-על-נפגעים-252803
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-252805
+https://hamal.co.il/main/בור-ענק-באמצע-הרחוב-תיעוד-מזירת-נפילה-במרכז-252808
+https://hamal.co.il/main/רסיס-נפל-סמוך-לתחנת-הרכבת-בחולון-הופסקה-תנועת-הרכבות-252809
