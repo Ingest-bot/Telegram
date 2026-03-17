@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3823708
-https://news.walla.co.il/break/3823706
-https://news.walla.co.il/break/3823707
-https://news.walla.co.il/break/3823710
+COUNTER:19
 https://news.walla.co.il/break/3823711
 https://hamal.co.il/main/אזעקות-נשמעו-באילת-והסביבה-251934
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-251936
@@ -499,3 +495,7 @@ https://hamal.co.il/main/עם-כדור-בקנה-252753
 https://hamal.co.il/main/קצין-בכיר-בצהל-חיל-האוויר-תוקף-רכיבים-סודיים-בפרויקט-הגרעי-252726
 https://hamal.co.il/main/הרמטכל-חיסלנו-באיראן-טרוריסטיים-מעזה-ויוש-252754
 https://hamal.co.il/main/רוכב-אופנוע-במצב-אנוש-לאחר-שנפגע-252755
+https://news.walla.co.il/item/3824308
+https://e.walla.co.il/item/3824314
+https://hamal.co.il/main/התקיפה-הדרמטית-בטהרן-ישראל-ניסתה-לחסל-את-עלי-לריגאני-252756
+https://hamal.co.il/main/התחזה-לשוטר---והונה-בעלי-עסקים-אישום-הוגש-נגד-תושב-עפולה-252758
