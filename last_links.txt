@@ -1,9 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3823730
-https://hamal.co.il/main/״צריך-למלא-את-המחסנים-להמשך״-אישור-התקציב-המיוחד-252010
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בגליל-העליון-252011
-https://news.walla.co.il/item/3823734
-https://news.walla.co.il/break/3823735
+COUNTER:16
 https://news.walla.co.il/break/3823736
 https://news.walla.co.il/break/3823738
 https://hamal.co.il/main/אין-נפילות-או-נפגעים-במטח-האחרון-לצפון-252016
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אחרי-הפגיעה-במכון-ויצמן-252771
 https://hamal.co.il/main/אחרי-שחיסולו-אומת-זאת-ההודעה-שפורסמה-מטעמו-של-עלי-לירגאני-252772
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-252774
 https://hamal.co.il/main/הירי-מאיראן-לצפון-דיווח-על-נפילה-בשטח-פתוח-ללא-נפגעים-252781
+https://news.walla.co.il/item/3824350
+https://news.walla.co.il/break/3824354
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהרחבים-המוגנים-בצפון-252783
+https://hamal.co.il/main/ראש-עיריית-שדרות-צריך-לעשות-קו-צהוב-בלבנון-252784
+https://hamal.co.il/main/מוגתבא-חמינאי-דחה-את-הצעות-התיווך-להביס-את-ישראל-וארהב-252785
