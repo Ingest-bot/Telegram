@@ -32,7 +32,6 @@ LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png
 
 # --- פונקציות עזר ---
 def clean_url(url):
-    """מנקה את הלינק מפרמטרים של זמן או UTM כדי למנוע כפילויות/פספוסים"""
     return url.split('?')[0].split('#')[0].strip()
 
 def upgrade_image_quality(url):
@@ -73,20 +72,14 @@ def save_history(links_list, counter):
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
     for category, base_url in WALLA_FEEDS.items():
-        # Cache Busting חזק
-        url = f"{base_url}?cache_bust={int(time.time())}"
-        
-        # טעינת הפיד ללא סינון תאריכים
+        url = f"{base_url}?t={int(time.time())}"
         feed = feedparser.parse(url)
         
         if not feed.entries:
-            print(f"No entries found for {category}")
             continue
             
-        # סריקה של 15 פריטים כדי לא לפספס כלום אם היה מטח מבזקים
         latest_entries = feed.entries[:15]
         
-        # סינון לפי לינק נקי
         new_entries = []
         for e in latest_entries:
             link = clean_url(e.link)
@@ -97,11 +90,12 @@ async def process_walla(bot, seen_links_set, links_list):
             is_mivzak = (category == "מבזקים")
             cleaned_link = clean_url(entry.link)
             
-            # בניית הודעה
-            display_title = f"🔴 {entry.title}" if is_mivzak else entry.title
-            caption = f"{RLE}{RLM}<b>{display_title}</b>{PDF}\n\n{cleaned_link}"
+            # בניית הכותרת עם הסירנה רק למבזקים
+            prefix = "🚨 " if is_mivzak else ""
+            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{cleaned_link}"
             
             try:
+                # חילוץ תמונה רק אם זה לא מבזק
                 image = None if is_mivzak else extract_image(entry)
 
                 if image:
@@ -111,7 +105,7 @@ async def process_walla(bot, seen_links_set, links_list):
                 
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
-                await asyncio.sleep(0.8) # האטה קלה למניעת חסימות
+                await asyncio.sleep(0.5)
             except Exception as e: 
                 print(f"Walla Error in {category}: {e}")
             
@@ -135,6 +129,7 @@ async def process_hamal(seen_links_set, links_list, counter):
         
         for entry in reversed(new_entries):
             cleaned_link = clean_url(entry.link)
+            # לקישור קצר אנחנו שולחים את הלינק המנוקה
             short_link = get_short_url(cleaned_link)
             
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
@@ -163,7 +158,6 @@ async def process_hamal(seen_links_set, links_list, counter):
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     history = get_history()
-    # ניקוי ההיסטוריה הקיימת כדי לוודא שאין לינקים עם פרמטרים שחוסמים לינקים נקיים
     seen_links_set = {clean_url(l) for l in history["links"]}
     links_list = list(seen_links_set)
     counter = history["counter"]
