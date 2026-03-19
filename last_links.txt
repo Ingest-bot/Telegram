@@ -1,4 +1,4 @@
-COUNTER:38
+COUNTER:0
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -68,3 +68,5 @@ https://hamal.co.il/main/זוהו-שיגורים-נוספים-לכיוון-יר�
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-השפלה-והסביבה-254126
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לכיוון-צפון-הארץ-254128
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-בצפון-הארץ-254143
+https://hamal.co.il/main/עקב-המטח-האחרון-תיעוד-משמי-הצפון-254145
+https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-254147
