@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:16
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -32,3 +32,10 @@ https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור
 https://hamal.co.il/main/במקביל-להצהרת-נתניהו-זוהה-שיגור-מאיראן-לצפון-הארץ-254004
 https://news.walla.co.il/break/3825014
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-ידוע-על-נפגעים-254023
+https://news.walla.co.il/break/3825018
+https://news.walla.co.il/break/3825017
+https://news.walla.co.il/break/3825019
+https://news.walla.co.il/break/3825020
+https://news.walla.co.il/item/3825021
+https://hamal.co.il/main/סיום-המחזור-השני-של-קורס-מפקדי-הכיתות-בחטיבת-החשמונאים-254031
+https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבתי-הזיקוק-בחיפה--צפו-253990
