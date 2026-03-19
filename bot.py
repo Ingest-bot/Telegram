@@ -4,6 +4,7 @@ import os
 import re
 import requests
 import time
+from datetime import datetime, timedelta
 from telegram import Bot
 
 # --- הגדרות ---
@@ -23,6 +24,8 @@ HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 LAST_LINKS_FILE = "last_links.txt"
 MAX_LINKS_TO_KEEP = 500
 PROMO_EVERY_X_MESSAGES = 40 
+MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
+MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
 
 RLE = "\u202B" 
 PDF = "\u202C" 
@@ -32,12 +35,22 @@ LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png
 
 # --- פונקציות עזר ---
 
+def is_too_old(entry):
+    """בודק אם האייטם ישן מדי מכדי להישלח"""
+    try:
+        published_struct = entry.get('published_parsed') or entry.get('updated_parsed')
+        if not published_struct: return False
+        
+        published_time = datetime.fromtimestamp(time.mktime(published_struct))
+        if published_time < datetime.now() - timedelta(hours=MAX_AGE_HOURS):
+            return True
+    except: pass
+    return False
+
 def clean_url(url):
-    """מנקה פרמטרים מהקישור למניעת כפילויות"""
     return url.split('?')[0].split('#')[0].strip()
 
 def get_short_url(long_url):
-    """פונקציית קיצור הכתובות שהייתה חסרה"""
     try:
         api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
         response = requests.get(api_url, timeout=5)
@@ -90,8 +103,14 @@ async def process_walla(bot, seen_links_set, links_list):
         if not feed.entries:
             continue
             
-        latest_entries = feed.entries[:15]
-        new_entries = [e for e in latest_entries if clean_url(e.link) not in seen_links_set]
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        # מסנן מה שכבר ראינו ומה שישן מדי
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
         
         for entry in reversed(new_entries):
             is_mivzak = (category == "מבזקים")
@@ -102,7 +121,6 @@ async def process_walla(bot, seen_links_set, links_list):
             
             try:
                 if is_mivzak:
-                    # מבזקים ללא תצוגה מקדימה
                     await bot.send_message(
                         chat_id=CHAT_ID, 
                         text=caption, 
@@ -132,8 +150,14 @@ async def process_hamal(seen_links_set, links_list, counter):
     async with hamal_bot:
         url = f"{HAMAL_RSS}?t={int(time.time())}"
         feed = feedparser.parse(url)
-        latest_entries = feed.entries[:10]
-        new_entries = [e for e in latest_entries if clean_url(e.link) not in seen_links_set]
+        
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
         
         for entry in reversed(new_entries):
             cleaned_link = clean_url(entry.link)
@@ -166,7 +190,7 @@ async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
     history = get_history()
     seen_links_set = {clean_url(l) for l in history["links"]}
-    links_list = list(seen_links_set)
+    links_list = history["links"]
     counter = history["counter"]
 
     bot = Bot(token=TELEGRAM_TOKEN)
