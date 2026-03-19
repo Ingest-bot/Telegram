@@ -1,4 +1,4 @@
-COUNTER:30
+COUNTER:34
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -58,3 +58,8 @@ https://news.walla.co.il/item/3825039
 https://hamal.co.il/main/על-סך-200-אלף-שקלים-אייל-גולן-תובע-את-דיירת-האח-הגדול-253994
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-באזור-ירושלים-ולכיש-254069
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-אשדוד-השפלה-וירושלים-254087
+https://news.walla.co.il/break/3825046
+https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-254091
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בי-ם-254093
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-והסביבה-254109
+https://hamal.co.il/main/נכון-לשעה-זו-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-254117
