@@ -1,11 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/זה-לא-נתפס-תושבים-בתל-אביב-עב-253634
-https://news.walla.co.il/break/3824443
-https://hamal.co.il/main/אזעקות-הופעלו-ברחבי-הצפון-252443
-https://news.walla.co.il/item/3824108
-https://hamal.co.il/main/נתניהו-לאזרחי-איראן-צאו-לחגוג-אנחנו-צופים-מלמעלה-253101
-https://hamal.co.il/main/צהל-מאשר-את-חיסול-לריגאני-הוביל-את-הטבח-במפגינים-252810
-https://news.walla.co.il/break/3824857
+COUNTER:8
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-253469
 https://news.walla.co.il/item/3824544
 https://news.walla.co.il/break/3823891
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צוותי-כבאות-והצלה-פועלים-בזיר�
 https://hamal.co.il/main/דיווח-ראשוני-מספר-נפילות-בקריית-שמונה-253921
 https://hamal.co.il/main/דיווח-פצוע-קשה-כתוצאה-מהנפילה-בקריית-שמונה-253923
 https://hamal.co.il/main/מדא-גבר-פצוע-קשה-אישה-נפצעה-באורח-בינוני-253924
+https://news.walla.co.il/break/3824984
+https://news.walla.co.il/break/3824985
+https://news.walla.co.il/item/3824982
+https://news.walla.co.il/item/3824986
+https://hamal.co.il/main/כבה-אין-חשש-לדליפת-חומרים-מסוכנים-בחיפה-253925
+https://hamal.co.il/main/טראמפ-253926
+https://hamal.co.il/main/אחרי-הפגיעה-הישירה-בעיר---חשש-לחדירת-כטבם-בקש-והסביבה-253930
