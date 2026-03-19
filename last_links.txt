@@ -1,10 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3824220
-https://hamal.co.il/main/דיווח-ראשוני-פגיעה-במבנה-בשרון-253605
-https://hamal.co.il/main/משטרת-ישראל-מס-זירות-נפילה-בתא--כוחות-בדרכם-253765
-https://news.walla.co.il/break/3824923
-https://news.walla.co.il/break/3824820
-https://hamal.co.il/main/הגאון-שפיצח-את-הלוטו-השיטה-שתעזור-לכם-לזכות-בהגרלה-הבאה-253244
+COUNTER:5
 https://hamal.co.il/main/זה-לא-נתפס-תושבים-בתל-אביב-עב-253634
 https://news.walla.co.il/break/3824443
 https://hamal.co.il/main/אזעקות-הופעלו-ברחבי-הצפון-252443
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דיווח-מטוס-253910
 https://hamal.co.il/main/שר-האנרגיה-לא-הייתה-פגיעה-משמעותית-באתרי-תשתית-253911
 https://hamal.co.il/main/אחרי-הפגיעה-בחיפה-מניית-בזן-צללה-ב8-253913
 https://hamal.co.il/main/המשרד-להגנת-הסביבה-צוותים-של-המשרד-בדרכם-לזירה-בחיפה-253914
+https://news.walla.co.il/break/3824978
+https://news.walla.co.il/break/3824977
+https://hamal.co.il/main/צוותי-כבאות-והצלה-פועלים-בזירת-הנפילה-בחיפה-253918
+https://hamal.co.il/main/דיווח-ראשוני-מספר-נפילות-בקריית-שמונה-253921
+https://hamal.co.il/main/דיווח-פצוע-קשה-כתוצאה-מהנפילה-בקריית-שמונה-253923
+https://hamal.co.il/main/מדא-גבר-פצוע-קשה-אישה-נפצעה-באורח-בינוני-253924
