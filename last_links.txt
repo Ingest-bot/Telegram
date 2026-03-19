@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/פגיעה-של-שברי-יירוט-בבית-בכרמיאל---ללא-נפגעים-בשלב-זה-253039
-https://news.walla.co.il/break/3824915
-https://hamal.co.il/main/תיעוד-דרמטי-מחבלי-ח-253303
+COUNTER:1
 https://news.walla.co.il/break/3824220
 https://hamal.co.il/main/דיווח-ראשוני-פגיעה-במבנה-בשרון-253605
 https://hamal.co.il/main/משטרת-ישראל-מס-זירות-נפילה-בתא--כוחות-בדרכם-253765
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3824973
 https://hamal.co.il/main/כוחות-פיקוד-העורף-קפצו-לזירה-בה-התקבלו-דיווחים-על-נפילת-רסיס-253907
 https://hamal.co.il/main/ניתן-לחשוף-פגיעה-בבתי-הזיקוק-בחיפה-253909
 https://hamal.co.il/main/דיווח-מטוס-253910
+https://hamal.co.il/main/שר-האנרגיה-לא-הייתה-פגיעה-משמעותית-באתרי-תשתית-253911
+https://hamal.co.il/main/אחרי-הפגיעה-בחיפה-מניית-בזן-צללה-ב8-253913
+https://hamal.co.il/main/המשרד-להגנת-הסביבה-צוותים-של-המשרד-בדרכם-לזירה-בחיפה-253914
