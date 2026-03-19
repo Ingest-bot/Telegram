@@ -1,4 +1,4 @@
-COUNTER:16
+COUNTER:18
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -39,3 +39,5 @@ https://news.walla.co.il/break/3825020
 https://news.walla.co.il/item/3825021
 https://hamal.co.il/main/סיום-המחזור-השני-של-קורס-מפקדי-הכיתות-בחטיבת-החשמונאים-254031
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבתי-הזיקוק-בחיפה--צפו-253990
+https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-בשעות-האחרונות-בזירת-הנפילה-בצפון-254039
+https://hamal.co.il/main/כרוניקה-של-הפתעה-כך-תכנן-חיל-האוויר-את-חיסול-הבכירים-באיראן-253950
