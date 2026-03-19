@@ -1,4 +1,4 @@
-COUNTER:22
+COUNTER:25
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -49,3 +49,6 @@ https://hamal.co.il/main/החשוד-בתאונת-הפגע-וברח-בחיפה---
 https://news.walla.co.il/break/3825036
 https://news.walla.co.il/item/3825031
 https://hamal.co.il/main/כדי-למנוע-קפיצה-במחירים-סמוטריץ-מבטל-זמנית-את-המס-על-סולר-253986
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254046
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254059
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254061
