@@ -1,4 +1,4 @@
-COUNTER:6
+COUNTER:7
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -21,3 +21,5 @@ https://hamal.co.il/main/רמבם-253967
 https://news.walla.co.il/break/3825003
 https://hamal.co.il/main/האיראנים-ירו-קרוב-ל-300-טילים-לישראל-כמה-מהם-יורטו-253961
 https://hamal.co.il/main/טרגדיה-בחיפה-הולך-רגל-נהרג-בתאונת-פגע-וברח-בזמן-אזעקה-253968
+https://news.walla.co.il/item/3825004
+https://hamal.co.il/main/ההצדעה-של-מפקד-חיל-האוויר-והכלים-שלא-חזרו-לישראל-253946
