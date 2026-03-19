@@ -2,87 +2,68 @@ import feedparser
 import telegram
 import os
 import requests
-import tweepy
 import asyncio
 
-# טעינת משתני סביבה
+# טעינת משתני סביבה לטלגרם בלבד
 TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
 CHAT_ID = os.getenv('CHAT_ID')
 HAMAL_TOKEN = os.getenv('HAMAL_TELEGRAM_TOKEN')
 HAMAL_CHAT_ID = os.getenv('HAMAL_CHAT_ID')
 
-TW_API_KEY = os.getenv('TWITTER_API_KEY')
-TW_API_SECRET = os.getenv('TWITTER_API_SECRET')
-TW_ACCESS_TOKEN = os.getenv('TWITTER_ACCESS_TOKEN')
-TW_ACCESS_SECRET = os.getenv('TWITTER_ACCESS_SECRET')
-
-def post_to_twitter(title, link):
-    try:
-        client = tweepy.Client(
-            consumer_key=TW_API_KEY, consumer_secret=TW_API_SECRET,
-            access_token=TW_ACCESS_TOKEN, access_token_secret=TW_ACCESS_SECRET
-        )
-        client.create_tweet(text=f"{title}\n\n{link}")
-        print(f"DEBUG: Twitter post successful for {title}")
-    except Exception as e:
-        print(f"DEBUG: Twitter Error -> {e}")
-
 async def send_telegram(token, chat_id, message):
+    if not token or not chat_id: return
     try:
         bot = telegram.Bot(token=token)
         await bot.send_message(chat_id=chat_id, text=message, parse_mode='HTML')
-        print(f"DEBUG: Telegram sent to {chat_id}")
+        print(f"DEBUG: Telegram success for {chat_id}")
     except Exception as e:
         print(f"DEBUG: Telegram Error for {chat_id} -> {e}")
 
-def get_last_links():
-    if not os.path.exists('last_links.txt'):
-        return []
-    with open('last_links.txt', 'r') as f:
-        return [line.strip() for line in f.readlines()]
-
 async def main():
-    print("DEBUG: Script started...")
-    last_links = get_last_links()
-    new_links = []
+    print("DEBUG: Starting bot (Telegram mode)...")
+    
+    # User-Agent שגורם לאתרים לחשוב שאנחנו דפדפן רגיל ולא בוט
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0'}
     
     feeds = {
         'Walla': 'https://rss.walla.co.il/feed/1?type=main',
         'Hamal': 'https://hamal.co.il/rss'
     }
 
-    for source, url in feeds.items():
-        print(f"DEBUG: Checking {source} at {url}...")
-        feed = feedparser.parse(url)
-        print(f"DEBUG: Found {len(feed.entries)} entries in {source}")
-        
-        count = 0
-        for entry in feed.entries:
-            if count >= 5: break
-            link = entry.link
-            
-            if link not in last_links:
-                print(f"DEBUG: New item found: {entry.title}")
-                msg = f"<b>{entry.title}</b>\n\n{link}"
-                
-                # שליחה לפי מקור
-                if source == 'Walla':
-                    await send_telegram(TELEGRAM_TOKEN, CHAT_ID, msg)
-                    post_to_twitter(entry.title, link)
-                else:
-                    await send_telegram(HAMAL_TOKEN, HAMAL_CHAT_ID, msg)
-                
-                new_links.append(link)
-                count += 1
+    last_links = []
+    if os.path.exists('last_links.txt'):
+        with open('last_links.txt', 'r') as f:
+            last_links = [l.strip() for l in f.readlines()]
 
-    # עדכון קובץ הזיכרון
+    new_links = []
+    for source, url in feeds.items():
+        try:
+            print(f"DEBUG: Fetching {source}...")
+            # שימוש ב-requests עם ה-headers החדשים
+            resp = requests.get(url, headers=headers, timeout=15)
+            feed = feedparser.parse(resp.content)
+            print(f"DEBUG: {source} returned {len(feed.entries)} items")
+            
+            count = 0
+            for entry in feed.entries:
+                if count >= 3: break
+                if entry.link not in last_links:
+                    msg = f"<b>{entry.title}</b>\n\n{entry.link}"
+                    
+                    if source == 'Walla':
+                        await send_telegram(TELEGRAM_TOKEN, CHAT_ID, msg)
+                    else:
+                        await send_telegram(HAMAL_TOKEN, HAMAL_CHAT_ID, msg)
+                    
+                    new_links.append(entry.link)
+                    count += 1
+        except Exception as e:
+            print(f"DEBUG: Error with {source} -> {e}")
+
     if new_links:
         with open('last_links.txt', 'a') as f:
-            for link in new_links:
-                f.write(link + '\n')
-        print(f"DEBUG: Updated last_links.txt with {len(new_links)} items")
-    else:
-        print("DEBUG: No new items to update.")
+            for l in new_links: f.write(l + '\n')
+        print(f"DEBUG: Finished. Saved {len(new_links)} new links.")
 
 if __name__ == "__main__":
     asyncio.run(main())
