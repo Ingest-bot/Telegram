@@ -1,69 +1,204 @@
 import feedparser
-import telegram
-import os
-import requests
 import asyncio
+import os
+import re
+import requests
+import time
+from datetime import datetime, timedelta
+from telegram import Bot
 
-# טעינת משתני סביבה לטלגרם בלבד
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
-CHAT_ID = os.getenv('CHAT_ID')
-HAMAL_TOKEN = os.getenv('HAMAL_TELEGRAM_TOKEN')
-HAMAL_CHAT_ID = os.getenv('HAMAL_CHAT_ID')
+# --- הגדרות ---
+WALLA_FEEDS = {
+    "מבזקים": "https://rss.walla.co.il/feed/22",
+    "חדשות": "https://rss.walla.co.il/feed/1?type=main",
+    "כסף": "https://rss.walla.co.il/feed/2",
+    "טכנולוגיה": "https://rss.walla.co.il/feed/6"
+}
+HAMAL_RSS = "https://public-api.hamal.co.il/rss"
 
-async def send_telegram(token, chat_id, message):
-    if not token or not chat_id: return
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
+CHAT_ID = os.getenv("CHAT_ID")
+HAMAL_TOKEN = os.getenv("HAMAL_TELEGRAM_TOKEN")
+HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
+
+LAST_LINKS_FILE = "last_links.txt"
+MAX_LINKS_TO_KEEP = 500
+PROMO_EVERY_X_MESSAGES = 40 
+MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
+MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
+
+RLE = "\u202B" 
+PDF = "\u202C" 
+RLM = "\u200f" 
+
+LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png"
+
+# --- פונקציות עזר ---
+
+def is_too_old(entry):
+    """בודק אם האייטם ישן מדי מכדי להישלח"""
     try:
-        bot = telegram.Bot(token=token)
-        await bot.send_message(chat_id=chat_id, text=message, parse_mode='HTML')
-        print(f"DEBUG: Telegram success for {chat_id}")
-    except Exception as e:
-        print(f"DEBUG: Telegram Error for {chat_id} -> {e}")
+        published_struct = entry.get('published_parsed') or entry.get('updated_parsed')
+        if not published_struct: return False
+        
+        published_time = datetime.fromtimestamp(time.mktime(published_struct))
+        if published_time < datetime.now() - timedelta(hours=MAX_AGE_HOURS):
+            return True
+    except: pass
+    return False
+
+def clean_url(url):
+    return url.split('?')[0].split('#')[0].strip()
+
+def get_short_url(long_url):
+    try:
+        api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
+        response = requests.get(api_url, timeout=5)
+        if response.status_code == 200:
+            return response.text.strip()
+    except: pass
+    return long_url
+
+def upgrade_image_quality(url):
+    if not url: return url
+    return re.sub(r'w=\d+', 'w=1200', url).replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
+
+def extract_image(entry):
+    image_url = None
+    if 'media_content' in entry: image_url = entry.media_content[0]['url']
+    elif 'links' in entry:
+        for link in entry.links:
+            if 'image' in link.get('type', ''):
+                image_url = link.get('href'); break
+    if not image_url and 'enclosure' in entry:
+        image_url = entry.enclosure.get('url')
+    return upgrade_image_quality(image_url)
+
+def get_history():
+    history = {"links": [], "counter": 0}
+    if os.path.exists(LAST_LINKS_FILE):
+        with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("COUNTER:"):
+                    try: history["counter"] = int(line.split(":")[1])
+                    except: history["counter"] = 0
+                elif line:
+                    history["links"].append(line)
+    return history
+
+def save_history(links_list, counter):
+    recent_links = links_list[-MAX_LINKS_TO_KEEP:]
+    with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
+        f.write(f"COUNTER:{counter}\n")
+        for link in recent_links:
+            f.write(f"{link}\n")
+
+# --- עיבוד וואלה ---
+async def process_walla(bot, seen_links_set, links_list):
+    for category, base_url in WALLA_FEEDS.items():
+        url = f"{base_url}?t={int(time.time())}"
+        feed = feedparser.parse(url)
+        
+        if not feed.entries:
+            continue
+            
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        # מסנן מה שכבר ראינו ומה שישן מדי
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
+        
+        for entry in reversed(new_entries):
+            is_mivzak = (category == "מבזקים")
+            cleaned_link = clean_url(entry.link)
+            
+            prefix = "🚨 " if is_mivzak else ""
+            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{cleaned_link}"
+            
+            try:
+                if is_mivzak:
+                    await bot.send_message(
+                        chat_id=CHAT_ID, 
+                        text=caption, 
+                        parse_mode='HTML', 
+                        disable_web_page_preview=True
+                    )
+                else:
+                    image = extract_image(entry)
+                    if image:
+                        await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
+                    else:
+                        await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
+                
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
+                await asyncio.sleep(0.5)
+            except Exception as e: 
+                print(f"Walla Error in {category}: {e}")
+            
+    return links_list
+
+# --- עיבוד חמ"ל ---
+async def process_hamal(seen_links_set, links_list, counter):
+    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list, counter
+    
+    hamal_bot = Bot(token=HAMAL_TOKEN)
+    async with hamal_bot:
+        url = f"{HAMAL_RSS}?t={int(time.time())}"
+        feed = feedparser.parse(url)
+        
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
+        
+        for entry in reversed(new_entries):
+            cleaned_link = clean_url(entry.link)
+            short_link = get_short_url(cleaned_link)
+            
+            raw_title = re.sub(r'<[^>]+>', '', entry.title)
+            clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
+            clean_title = clean_title.lstrip(" :")
+            
+            message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
+            
+            try:
+                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
+                counter += 1
+                
+                if counter >= PROMO_EVERY_X_MESSAGES:
+                    promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
+                    try: await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
+                    except: await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
+                    counter = 0 
+                
+                await asyncio.sleep(0.5)
+            except Exception as e: print(f"Hamal Error: {e}")
+            
+    return links_list, counter
 
 async def main():
-    print("DEBUG: Starting bot (Telegram mode)...")
-    
-    # User-Agent שגורם לאתרים לחשוב שאנחנו דפדפן רגיל ולא בוט
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0'}
-    
-    feeds = {
-        'Walla': 'https://rss.walla.co.il/feed/1?type=main',
-        'Hamal': 'https://hamal.co.il/rss'
-    }
+    if not TELEGRAM_TOKEN or not CHAT_ID: return
+    history = get_history()
+    seen_links_set = {clean_url(l) for l in history["links"]}
+    links_list = history["links"]
+    counter = history["counter"]
 
-    last_links = []
-    if os.path.exists('last_links.txt'):
-        with open('last_links.txt', 'r') as f:
-            last_links = [l.strip() for l in f.readlines()]
+    bot = Bot(token=TELEGRAM_TOKEN)
+    async with bot:
+        links_list = await process_walla(bot, seen_links_set, links_list)
+        links_list, counter = await process_hamal(seen_links_set, links_list, counter)
 
-    new_links = []
-    for source, url in feeds.items():
-        try:
-            print(f"DEBUG: Fetching {source}...")
-            # שימוש ב-requests עם ה-headers החדשים
-            resp = requests.get(url, headers=headers, timeout=15)
-            feed = feedparser.parse(resp.content)
-            print(f"DEBUG: {source} returned {len(feed.entries)} items")
-            
-            count = 0
-            for entry in feed.entries:
-                if count >= 3: break
-                if entry.link not in last_links:
-                    msg = f"<b>{entry.title}</b>\n\n{entry.link}"
-                    
-                    if source == 'Walla':
-                        await send_telegram(TELEGRAM_TOKEN, CHAT_ID, msg)
-                    else:
-                        await send_telegram(HAMAL_TOKEN, HAMAL_CHAT_ID, msg)
-                    
-                    new_links.append(entry.link)
-                    count += 1
-        except Exception as e:
-            print(f"DEBUG: Error with {source} -> {e}")
-
-    if new_links:
-        with open('last_links.txt', 'a') as f:
-            for l in new_links: f.write(l + '\n')
-        print(f"DEBUG: Finished. Saved {len(new_links)} new links.")
+    save_history(links_list, counter)
 
 if __name__ == "__main__":
     asyncio.run(main())
