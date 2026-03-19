@@ -1,4 +1,4 @@
-COUNTER:25
+COUNTER:27
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -52,3 +52,5 @@ https://hamal.co.il/main/כדי-למנוע-קפיצה-במחירים-סמוטר�
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254046
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254059
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254061
+https://hamal.co.il/main/הרכבת-הקלה-במרכז-חוזרת-לפעול-בלי-הקטע-התת-קרקעי-254064
+https://hamal.co.il/main/הותקפו-יותר-מ-130-תשתיות-של-משטר-הטרור-האיראני-254067
