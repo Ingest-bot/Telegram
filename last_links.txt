@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:13
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -27,3 +27,6 @@ https://news.walla.co.il/break/3825007
 https://hamal.co.il/main/המשטרה-עצרה-ארבע-שוהים-בלתי-חוקיים-בתל-אביב-253973
 https://hamal.co.il/main/פיקוד-העורף-אלו-הישובים-שיוכלו-לחזור-ללימודים-ביום-ראשון-253981
 https://hamal.co.il/main/נועה-ירון-דיין-מעדכנת-במצבו-של-בנה-שנפצע-בלבנון-קרה-לנו-נס-253938
+https://hamal.co.il/main/מחריד-איראן-הוציאה-להורג-מתאבק-בן-19-עקב-חשד-לריגול-253941
+https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-254000
+https://hamal.co.il/main/במקביל-להצהרת-נתניהו-זוהה-שיגור-מאיראן-לצפון-הארץ-254004
