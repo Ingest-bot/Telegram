@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:10
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -26,3 +26,4 @@ https://hamal.co.il/main/ההצדעה-של-מפקד-חיל-האוויר-והכל
 https://news.walla.co.il/break/3825007
 https://hamal.co.il/main/המשטרה-עצרה-ארבע-שוהים-בלתי-חוקיים-בתל-אביב-253973
 https://hamal.co.il/main/פיקוד-העורף-אלו-הישובים-שיוכלו-לחזור-ללימודים-ביום-ראשון-253981
+https://hamal.co.il/main/נועה-ירון-דיין-מעדכנת-במצבו-של-בנה-שנפצע-בלבנון-קרה-לנו-נס-253938
