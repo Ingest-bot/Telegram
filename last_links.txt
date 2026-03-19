@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:6
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -18,3 +18,6 @@ https://hamal.co.il/main/הותר-לפרסום-הנרצח-מפגיעת-הטיל-
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-253963
 https://hamal.co.il/main/הושגה-שליטה-מלאה-על-אירוע-הפגיעה-בבתי-הזיקוק-בחיפה-253966
 https://hamal.co.il/main/רמבם-253967
+https://news.walla.co.il/break/3825003
+https://hamal.co.il/main/האיראנים-ירו-קרוב-ל-300-טילים-לישראל-כמה-מהם-יורטו-253961
+https://hamal.co.il/main/טרגדיה-בחיפה-הולך-רגל-נהרג-בתאונת-פגע-וברח-בזמן-אזעקה-253968
