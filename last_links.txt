@@ -1,4 +1,4 @@
-COUNTER:34
+COUNTER:38
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -63,3 +63,8 @@ https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-254091
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בי-ם-254093
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-והסביבה-254109
 https://hamal.co.il/main/נכון-לשעה-זו-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-254117
+https://news.walla.co.il/break/3825047
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-לכיוון-ירושלים-254119
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-השפלה-והסביבה-254126
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לכיוון-צפון-הארץ-254128
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-בצפון-הארץ-254143
