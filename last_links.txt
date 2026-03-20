@@ -1,4 +1,4 @@
-COUNTER:29
+COUNTER:30
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -135,3 +135,4 @@ https://hamal.co.il/main/צהל-מאשר-חיסלנו-את-דובר-משמרות
 https://news.walla.co.il/item/3825111
 https://hamal.co.il/main/116-מלונות-מציעים-לילה-שלישי-במתנה-עד-סוף-מרץ-254241
 https://hamal.co.il/main/הירי-מאיראן-אישה-כבת-254242
+https://hamal.co.il/main/פרשת-׳ויקרא׳-ההבדל-בין-עשיר-לעני-במצוות-הקורבן---והקשר-לפסח-254227
