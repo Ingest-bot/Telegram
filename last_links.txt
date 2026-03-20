@@ -1,4 +1,4 @@
-COUNTER:7
+COUNTER:10
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -162,3 +162,7 @@ https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-254290
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-באזור-מודיעין-254345
 https://hamal.co.il/main/סער-לשר-החוץ-הצרפתי-254346
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254348
+https://news.walla.co.il/item/3825131
+https://hamal.co.il/main/3-גברים-נפצעו-באירוע-אלימות-בצפון-בהם-בן-60-במצב-קשה-254349
+https://hamal.co.il/main/תיעוד-רסיס-ענק-נופל-על-רכב-בסמוך-לסופר-בשפלה-254352
+https://hamal.co.il/main/הפגיעה-ברחובות-8-פצועים-פונו-לבית-החולים-בהם-1-במצב-בינוני-254354
