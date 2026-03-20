@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:22
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -116,3 +116,10 @@ https://news.walla.co.il/break/3825096
 https://hamal.co.il/main/דיווחים-באיראן-דובר-משמרות-המהפכה-חוסל-254215
 https://news.walla.co.il/break/3825100
 https://news.walla.co.il/break/3825098
+https://news.walla.co.il/break/3825102
+https://news.walla.co.il/item/3825104
+https://news.walla.co.il/item/3825092
+https://hamal.co.il/main/הקטל-בדרכים-ילד-כבן-5-נדרס-למוות-בערד-254217
+https://hamal.co.il/main/בעקבות-254218
+https://hamal.co.il/main/מפקד-פיקוד-העורף-בקריית-שמונה-254219
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-254221
