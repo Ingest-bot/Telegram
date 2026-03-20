@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:13
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -166,3 +166,6 @@ https://news.walla.co.il/item/3825131
 https://hamal.co.il/main/3-גברים-נפצעו-באירוע-אלימות-בצפון-בהם-בן-60-במצב-קשה-254349
 https://hamal.co.il/main/תיעוד-רסיס-ענק-נופל-על-רכב-בסמוך-לסופר-בשפלה-254352
 https://hamal.co.il/main/הפגיעה-ברחובות-8-פצועים-פונו-לבית-החולים-בהם-1-במצב-בינוני-254354
+https://hamal.co.il/main/לא-נשברים-כך-254355
+https://hamal.co.il/main/אחרי-הפגיעה-הישירה-בזן-חושפת-את-הנזקים-במתחם-254252
+https://hamal.co.il/main/צהל-חיסלנו-254356
