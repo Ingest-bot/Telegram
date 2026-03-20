@@ -1,4 +1,4 @@
-COUNTER:15
+COUNTER:17
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -108,3 +108,7 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-ה
 https://news.walla.co.il/break/3825090
 https://news.walla.co.il/item/3825028
 https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254213
+https://news.walla.co.il/item/3825093
+https://news.walla.co.il/item/3824999
+https://hamal.co.il/main/קם-בבוקר-כשעורו-כחול-הובהל-למיון---וגרם-לרופאים-לפרוץ-בצחוק-253262
+https://hamal.co.il/main/בזמן-המלחמה-חייל-מילואים-בכיפת-ברזל-נאשם-במסירת-מידע-לאיראן-254214
