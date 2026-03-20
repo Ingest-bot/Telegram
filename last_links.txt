@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:22
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -248,3 +248,7 @@ https://news.walla.co.il/break/3825209
 https://news.walla.co.il/break/3825206
 https://news.walla.co.il/break/3825207
 https://hamal.co.il/main/מירה-נואף-עברה-על-החוקים---ויצאה-מבית-האח-הגדול-254543
+https://news.walla.co.il/break/3825211
+https://hamal.co.il/main/זוהו-שיגור-מאיראן-אזעקות-צפיות-בדקות-הקרובות-באזור-בדרום-254545
+https://hamal.co.il/main/אזעקות-הופעלו-באזור-דימונה-והסביבה-254550
+https://hamal.co.il/main/הדי-פיצוצים-נשמעים-באזור-דימונה-254552
