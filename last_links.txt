@@ -1,4 +1,4 @@
-COUNTER:36
+COUNTER:37
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -206,3 +206,5 @@ https://news.walla.co.il/break/3825165
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254434
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הנפילה-בכביש-431--צפו-254438
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-254440
+https://news.walla.co.il/break/3825168
+https://hamal.co.il/main/שני-חשודים-בריגול-לאיראן-נעצרו-בבריטניה-ניסו-להיכנס-לבסיס-254412
