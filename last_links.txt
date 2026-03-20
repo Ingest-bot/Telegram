@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:18
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -112,3 +112,5 @@ https://news.walla.co.il/item/3825093
 https://news.walla.co.il/item/3824999
 https://hamal.co.il/main/קם-בבוקר-כשעורו-כחול-הובהל-למיון---וגרם-לרופאים-לפרוץ-בצחוק-253262
 https://hamal.co.il/main/בזמן-המלחמה-חייל-מילואים-בכיפת-ברזל-נאשם-במסירת-מידע-לאיראן-254214
+https://news.walla.co.il/break/3825096
+https://hamal.co.il/main/דיווחים-באיראן-דובר-משמרות-המהפכה-חוסל-254215
