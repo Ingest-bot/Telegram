@@ -1,4 +1,4 @@
-COUNTER:39
+COUNTER:3
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -153,3 +153,7 @@ https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-קר�
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-המרכז-254268
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-254266
 https://hamal.co.il/main/כביש-4-נחסם-לתנועה-בעקבות-רכב-היברידי-בוער-254272
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-פצוע-בזירת-נפילה-בשפלה-254282
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254284
+https://hamal.co.il/main/בית-בוער---והרס-רב-ברחוב-תיעוד-מהפגיעה-ברחובות-254287
+https://hamal.co.il/main/הפגיעה-ברחובות-2-נפצעו-באורח-קל-7-פונו-עם-שאיפות-עשן-254288
