@@ -1,4 +1,4 @@
-COUNTER:39
+COUNTER:1
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -211,3 +211,5 @@ https://hamal.co.il/main/שני-חשודים-בריגול-לאיראן-נעצר�
 https://news.walla.co.il/break/3825170
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-254452
 https://hamal.co.il/main/טראמפ-אם-נעזוב-עכשיו-הם-ישקמו-לנו-ולישראל-יש-מטרות-דומות-254453
+https://hamal.co.il/main/תיעוד-רגע-הנפילה-סמוך-למסגד-אל-אקצא-בירושלים--צפו-254456
+https://hamal.co.il/main/צה״ל-תקף-אתרי-ייצור-טילים-כשבתוכם-פעלו-חיילים-של-המשטר-254460
