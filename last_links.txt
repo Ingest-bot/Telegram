@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:18
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -243,3 +243,4 @@ https://news.walla.co.il/break/3825202
 https://news.walla.co.il/break/3825203
 https://hamal.co.il/main/--254535
 https://hamal.co.il/main/השוהים-במרחב-המוגן-בקו-העימות-יכולים-לצאת-לצאת-254539
+https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירה-במרכז-הארץ-254541
