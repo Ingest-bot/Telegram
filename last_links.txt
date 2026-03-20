@@ -1,4 +1,4 @@
-COUNTER:33
+COUNTER:35
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -201,3 +201,7 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/ירי-מלבנון-לקו-העימות-זוהה-שיגור-נוסף-מאיראן-למרכז-254420
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-254431
 https://hamal.co.il/main/פלוגה-ד׳-של-גדוד-603-מוסרת-שבת-שלום-מהגזרה-הצפונית-254432
+https://news.walla.co.il/break/3825164
+https://news.walla.co.il/break/3825165
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254434
+https://hamal.co.il/main/תיעוד-דרמטי-רגע-הנפילה-בכביש-431--צפו-254438
