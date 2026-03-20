@@ -1,4 +1,4 @@
-COUNTER:16
+COUNTER:18
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -176,3 +176,7 @@ https://news.walla.co.il/break/3825139
 https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254358
 https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפתחו-לתנועה-ואלו-שעדיין-חסומים-254359
 https://hamal.co.il/main/הותר-לפרסום-שריפה-פרצה-במסוף-לאחסון-מכולות-בחיפה-254360
+https://news.walla.co.il/break/3825143
+https://news.walla.co.il/break/3825144
+https://hamal.co.il/main/צפו-לוחמי-הצנחנים-מאחלים-שבת-שלום-לכל-עם-ישראל-254369
+https://hamal.co.il/main/למען-עם-ישראל-עד-הניצחון-פקודת-הקשר-של-מחט-גולני-254368
