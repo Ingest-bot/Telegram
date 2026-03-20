@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:12
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -230,3 +230,6 @@ https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-שברי-ייר
 https://hamal.co.il/main/טראמפ-254507
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-ידוע-על-נפגעים-254508
 https://hamal.co.il/main/טראמפ-אם-אורה-על-סיום-המלחמה---חושב-שישראל-תסכים-לכך-254509
+https://news.walla.co.il/break/3825193
+https://hamal.co.il/main/רסיסים-נפלו-בקריית-אונו-ואלעד-לא-ידוע-על-נפגעים-254510
+https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרכם-לזירות-בהן-התקבלו-דיווחים-על-פגיעות-254511
