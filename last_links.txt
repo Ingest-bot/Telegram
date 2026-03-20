@@ -1,4 +1,4 @@
-COUNTER:32
+COUNTER:33
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -140,3 +140,4 @@ https://news.walla.co.il/item/3825117
 https://news.walla.co.il/item/3825115
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-באיראן-254244
 https://hamal.co.il/main/דיווח-דרמטי-טראמפ-שוקל-להשתלט-על-אי-הנפט-של-איראן-254251
+https://hamal.co.il/main/מרכזי-254253
