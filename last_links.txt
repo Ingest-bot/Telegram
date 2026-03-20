@@ -1,4 +1,4 @@
-COUNTER:3
+COUNTER:4
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -219,3 +219,6 @@ https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-בשעו�
 https://hamal.co.il/main/כך-חוסל-עלי-שמחאני-בנסיון-השלישי-254463
 https://news.walla.co.il/break/3825181
 https://news.walla.co.il/break/3825184
+https://news.walla.co.il/item/3825185
+https://news.walla.co.il/item/3825186
+https://hamal.co.il/main/בריטניה-אישרה-לארהב-להשתמש-בבסיסיה-לתקיפות-באיראן-254473
