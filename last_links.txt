@@ -1,4 +1,4 @@
-COUNTER:27
+COUNTER:29
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -132,3 +132,6 @@ https://news.walla.co.il/break/3825108
 https://news.walla.co.il/break/3825109
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254233
 https://hamal.co.il/main/צהל-מאשר-חיסלנו-את-דובר-משמרות-המהפכה-254238
+https://news.walla.co.il/item/3825111
+https://hamal.co.il/main/116-מלונות-מציעים-לילה-שלישי-במתנה-עד-סוף-מרץ-254241
+https://hamal.co.il/main/הירי-מאיראן-אישה-כבת-254242
