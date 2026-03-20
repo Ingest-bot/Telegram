@@ -1,4 +1,4 @@
-COUNTER:35
+COUNTER:39
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -147,3 +147,9 @@ https://news.walla.co.il/break/3825125
 https://news.walla.co.il/break/3825126
 https://hamal.co.il/main/פרשת-ויקרא-254234
 https://hamal.co.il/main/מרכזי-254257
+https://news.walla.co.il/break/3825127
+https://news.walla.co.il/break/3825129
+https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-קריאות-על-נפגעים-254264
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-המרכז-254268
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-254266
+https://hamal.co.il/main/כביש-4-נחסם-לתנועה-בעקבות-רכב-היברידי-בוער-254272
