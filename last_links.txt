@@ -1,4 +1,4 @@
-COUNTER:30
+COUNTER:32
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -136,3 +136,7 @@ https://news.walla.co.il/item/3825111
 https://hamal.co.il/main/116-מלונות-מציעים-לילה-שלישי-במתנה-עד-סוף-מרץ-254241
 https://hamal.co.il/main/הירי-מאיראן-אישה-כבת-254242
 https://hamal.co.il/main/פרשת-׳ויקרא׳-ההבדל-בין-עשיר-לעני-במצוות-הקורבן---והקשר-לפסח-254227
+https://news.walla.co.il/item/3825117
+https://news.walla.co.il/item/3825115
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-באיראן-254244
+https://hamal.co.il/main/דיווח-דרמטי-טראמפ-שוקל-להשתלט-על-אי-הנפט-של-איראן-254251
