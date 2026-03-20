@@ -1,4 +1,4 @@
-COUNTER:22
+COUNTER:25
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -123,3 +123,7 @@ https://hamal.co.il/main/הקטל-בדרכים-ילד-כבן-5-נדרס-למוו
 https://hamal.co.il/main/בעקבות-254218
 https://hamal.co.il/main/מפקד-פיקוד-העורף-בקריית-שמונה-254219
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-254221
+https://news.walla.co.il/break/3825106
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-זוהה-שיגור-נוסף-254228
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-עד-כה-לא-דווח-על-נפגעים-254229
+https://hamal.co.il/main/הירי-מאיראן-שברי-יירוט-פגעו-בדירה-ברחובות-אין-נפגעים-254232
