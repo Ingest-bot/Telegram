@@ -1,4 +1,4 @@
-COUNTER:24
+COUNTER:28
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -190,3 +190,9 @@ https://news.walla.co.il/item/3825153
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254391
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-רסיסים-באזור-ירושלים-254399
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-דיווחים-254400
+https://news.walla.co.il/break/3825155
+https://news.walla.co.il/break/3825157
+https://hamal.co.il/main/המשטרה-עורכת-סריקות-לאיתור-נפילות-באזור-ירושלים-254401
+https://hamal.co.il/main/תיעוד-נפילת-רסיסים-בירושלים-254404
+https://hamal.co.il/main/כבה-נפילה-של-פרטי-אמלח-ברובע-היהודי-בירושלים-254406
+https://hamal.co.il/main/השחקן-המיתולוגי-צאק-נוריס-ווקר-הלך-לעולמו-254397
