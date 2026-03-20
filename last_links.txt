@@ -1,4 +1,4 @@
-COUNTER:4
+COUNTER:6
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -86,3 +86,6 @@ https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-254177
 https://hamal.co.il/main/גבר-בשנות-ה-40-נורה-למוות-בעראבה-מערכת-וואלה-חדשות-1-גבר-ב-254178
 https://hamal.co.il/main/דיווח-ביקורת-חריפה-בבית-הלבן-על-התקיפה-הישראלית-במתקני-הגז-254179
 https://hamal.co.il/main/שלושה-צעירים-נפגעו-בתאונת-דרכים-בסכנין---בן-18-במצב-קשה-מערכ-254180
+https://news.walla.co.il/break/3825072
+https://hamal.co.il/main/מדינות-אירופה-יפן-וקנדה-מוכנות-לפעול-להבטחת-השיט-בהורמוז-ר-254181
+https://hamal.co.il/main/מטח-שישי-הלילה-מאיראן-אזעקות-ברחבי-הצפון--היום-ה-21-למלחמה-254182
