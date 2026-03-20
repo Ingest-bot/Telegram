@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:3
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -214,3 +214,6 @@ https://hamal.co.il/main/טראמפ-אם-נעזוב-עכשיו-הם-ישקמו-�
 https://hamal.co.il/main/תיעוד-רגע-הנפילה-סמוך-למסגד-אל-אקצא-בירושלים--צפו-254456
 https://hamal.co.il/main/צה״ל-תקף-אתרי-ייצור-טילים-כשבתוכם-פעלו-חיילים-של-המשטר-254460
 https://news.walla.co.il/item/3825173
+https://news.walla.co.il/break/3825179
+https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-בשעות-אלו-בזירת-הנפילה-בעיר-העתיקה-254465
+https://hamal.co.il/main/כך-חוסל-עלי-שמחאני-בנסיון-השלישי-254463
