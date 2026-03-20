@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:21
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -180,3 +180,7 @@ https://news.walla.co.il/break/3825143
 https://news.walla.co.il/break/3825144
 https://hamal.co.il/main/צפו-לוחמי-הצנחנים-מאחלים-שבת-שלום-לכל-עם-ישראל-254369
 https://hamal.co.il/main/למען-עם-ישראל-עד-הניצחון-פקודת-הקשר-של-מחט-גולני-254368
+https://news.walla.co.il/break/3825147
+https://hamal.co.il/main/הצהרת-דובר-צהל--ישיר-254283
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-254381
+https://hamal.co.il/main/חוסל-מפקד-מרכזי-במיניסטריון-המודיעין-בטהרן-254389
