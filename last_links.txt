@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:11
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -94,3 +94,8 @@ https://news.walla.co.il/break/3825074
 https://hamal.co.il/main/סוף-שבוע-גשום-וחשש-לשיטפונות--תחזית-מזג-האוויר-254185
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-254187
 https://hamal.co.il/main/צהל-תקפנו-את-המשטר-הסורי-בעקבות-254192
+https://news.walla.co.il/break/3825083
+https://news.walla.co.il/break/3825082
+https://news.walla.co.il/break/3825081
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254193
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254195
