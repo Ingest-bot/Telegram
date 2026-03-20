@@ -1,4 +1,4 @@
-COUNTER:33
+COUNTER:35
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -141,3 +141,9 @@ https://news.walla.co.il/item/3825115
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-באיראן-254244
 https://hamal.co.il/main/דיווח-דרמטי-טראמפ-שוקל-להשתלט-על-אי-הנפט-של-איראן-254251
 https://hamal.co.il/main/מרכזי-254253
+https://news.walla.co.il/break/3825124
+https://news.walla.co.il/break/3825122
+https://news.walla.co.il/break/3825125
+https://news.walla.co.il/break/3825126
+https://hamal.co.il/main/פרשת-ויקרא-254234
+https://hamal.co.il/main/מרכזי-254257
