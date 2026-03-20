@@ -1,4 +1,4 @@
-COUNTER:21
+COUNTER:24
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -184,3 +184,9 @@ https://news.walla.co.il/break/3825147
 https://hamal.co.il/main/הצהרת-דובר-צהל--ישיר-254283
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-254381
 https://hamal.co.il/main/חוסל-מפקד-מרכזי-במיניסטריון-המודיעין-בטהרן-254389
+https://news.walla.co.il/break/3825149
+https://news.walla.co.il/break/3825151
+https://news.walla.co.il/item/3825153
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254391
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-רסיסים-באזור-ירושלים-254399
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-דיווחים-254400
