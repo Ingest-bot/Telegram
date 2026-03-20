@@ -1,4 +1,4 @@
-COUNTER:6
+COUNTER:7
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -89,3 +89,6 @@ https://hamal.co.il/main/שלושה-צעירים-נפגעו-בתאונת-דרכ�
 https://news.walla.co.il/break/3825072
 https://hamal.co.il/main/מדינות-אירופה-יפן-וקנדה-מוכנות-לפעול-להבטחת-השיט-בהורמוז-ר-254181
 https://hamal.co.il/main/מטח-שישי-הלילה-מאיראן-אזעקות-ברחבי-הצפון--היום-ה-21-למלחמה-254182
+https://news.walla.co.il/break/3825073
+https://news.walla.co.il/break/3825074
+https://hamal.co.il/main/סוף-שבוע-גשום-וחשש-לשיטפונות--תחזית-מזג-האוויר-254185
