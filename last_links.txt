@@ -1,4 +1,4 @@
-COUNTER:6
+COUNTER:10
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -225,3 +225,8 @@ https://hamal.co.il/main/בריטניה-אישרה-לארהב-להשתמש-בב�
 https://news.walla.co.il/break/3825188
 https://hamal.co.il/main/עולים-שלב-הפנטגון-נערך-לאפשרות-של-כניסה-קרקעית-לאיראן--דיו-254476
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-הארץ-254478
+https://news.walla.co.il/break/3825192
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-שברי-יירוט-בעיר-במרכז-254505
+https://hamal.co.il/main/טראמפ-254507
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-ידוע-על-נפגעים-254508
+https://hamal.co.il/main/טראמפ-אם-אורה-על-סיום-המלחמה---חושב-שישראל-תסכים-לכך-254509
