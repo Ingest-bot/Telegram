@@ -1,4 +1,4 @@
-COUNTER:11
+COUNTER:14
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -99,3 +99,9 @@ https://news.walla.co.il/break/3825082
 https://news.walla.co.il/break/3825081
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254193
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254195
+https://news.walla.co.il/break/3825087
+https://news.walla.co.il/break/3825088
+https://news.walla.co.il/item/3825078
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לעבר-מרכז-הארץ-254197
+https://hamal.co.il/main/הירי-מאיראן-השיגור-יורט-לא-דווח-על-נפגעים-254210
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254212
