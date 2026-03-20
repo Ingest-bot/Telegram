@@ -1,4 +1,4 @@
-COUNTER:13
+COUNTER:14
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -235,3 +235,4 @@ https://hamal.co.il/main/רסיסים-נפלו-בקריית-אונו-ואלעד-
 https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרכם-לזירות-בהן-התקבלו-דיווחים-על-פגיעות-254511
 https://news.walla.co.il/break/3825194
 https://hamal.co.il/main/דיווחים-על-תקיפות-בבושהר-254515
+https://hamal.co.il/main/במשטרה-מצביעים-על-שינוי-מגמתי-לטובה-ברמדאן-254503
