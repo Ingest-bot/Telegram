@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:15
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -105,3 +105,6 @@ https://news.walla.co.il/item/3825078
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לעבר-מרכז-הארץ-254197
 https://hamal.co.il/main/הירי-מאיראן-השיגור-יורט-לא-דווח-על-נפגעים-254210
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254212
+https://news.walla.co.il/break/3825090
+https://news.walla.co.il/item/3825028
+https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254213
