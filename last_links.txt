@@ -1,4 +1,4 @@
-COUNTER:13
+COUNTER:16
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -169,3 +169,10 @@ https://hamal.co.il/main/הפגיעה-ברחובות-8-פצועים-פונו-ל�
 https://hamal.co.il/main/לא-נשברים-כך-254355
 https://hamal.co.il/main/אחרי-הפגיעה-הישירה-בזן-חושפת-את-הנזקים-במתחם-254252
 https://hamal.co.il/main/צהל-חיסלנו-254356
+https://news.walla.co.il/break/3825141
+https://news.walla.co.il/break/3825140
+https://news.walla.co.il/break/3825138
+https://news.walla.co.il/break/3825139
+https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254358
+https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפתחו-לתנועה-ואלו-שעדיין-חסומים-254359
+https://hamal.co.il/main/הותר-לפרסום-שריפה-פרצה-במסוף-לאחסון-מכולות-בחיפה-254360
