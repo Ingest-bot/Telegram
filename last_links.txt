@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:6
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -224,3 +224,4 @@ https://news.walla.co.il/item/3825186
 https://hamal.co.il/main/בריטניה-אישרה-לארהב-להשתמש-בבסיסיה-לתקיפות-באיראן-254473
 https://news.walla.co.il/break/3825188
 https://hamal.co.il/main/עולים-שלב-הפנטגון-נערך-לאפשרות-של-כניסה-קרקעית-לאיראן--דיו-254476
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-הארץ-254478
