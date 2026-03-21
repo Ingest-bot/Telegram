@@ -1,4 +1,4 @@
-COUNTER:39
+COUNTER:3
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -351,3 +351,8 @@ https://hamal.co.il/main/פעילות-צהל-הסופש-באיראן-ולבנו�
 https://hamal.co.il/main/כותרות-השבת-254809
 https://hamal.co.il/main/צהל-דיווחים-על-פגיעות-בצפון-הארץ-254810
 https://hamal.co.il/main/3-לוחמים-פצועים-כתוצאה-מחילופי-אש-מול-חיזבאללה-בלבנון-254811
+https://news.walla.co.il/item/3825319
+https://hamal.co.il/main/פגיעה-ישירה-במעלות---צפו-בתיעוד-254823
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-בבית-בדימונה-254825
+https://hamal.co.il/main/דיווח-על-קריסת-מבנה-בדימונה-כתוצאה-מפגיעת-פריט-אמל״ח-254829
+https://hamal.co.il/main/קריסת-המבנה-בדימונה-3-פצועים-קל-ומספר-נפגעי-חרדה-254831
