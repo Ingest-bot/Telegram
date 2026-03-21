@@ -1,4 +1,4 @@
-COUNTER:35
+COUNTER:39
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -345,3 +345,9 @@ https://news.walla.co.il/break/3825310
 https://news.walla.co.il/break/3825311
 https://news.walla.co.il/break/3825314
 https://hamal.co.il/main/מנכל-מדא-2-נפגעים-בעיר-מעלות-254801
+https://news.walla.co.il/break/3825315
+https://news.walla.co.il/break/3825316
+https://hamal.co.il/main/פעילות-צהל-הסופש-באיראן-ולבנון-254803
+https://hamal.co.il/main/כותרות-השבת-254809
+https://hamal.co.il/main/צהל-דיווחים-על-פגיעות-בצפון-הארץ-254810
+https://hamal.co.il/main/3-לוחמים-פצועים-כתוצאה-מחילופי-אש-מול-חיזבאללה-בלבנון-254811
