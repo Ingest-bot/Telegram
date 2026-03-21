@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:9
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -415,3 +415,10 @@ https://hamal.co.il/main/הטלוויזיה-האיראנית-מכחישה-כי-�
 https://hamal.co.il/main/תניהוהנחתי-את-מנכלית-משרדי-להגיש-את-מלוא-הסיוע-הנדרש-יחד-עם-254967
 https://hamal.co.il/main/בכיר-איראני-אחרי-הפגיעות-שמי-ישראל-חסרי-הגנה-254970
 https://hamal.co.il/main/במשקל-450-קג-תיעוד-מזירת-פגיעת-הטיל-האיראני-בערד-254972
+https://news.walla.co.il/break/3825372
+https://news.walla.co.il/break/3825371
+https://news.walla.co.il/break/3825373
+https://hamal.co.il/main/מנכל-מדא-שיגרנו-עשרות-אמבולנסים-ומסוקים-שהוקפצו-לזירה-254976
+https://hamal.co.il/main/דובר-צהל-מערכות-ההגנה-פעלו---אך-לא-יירטו-את-הטיל-254978
+https://hamal.co.il/main/48-נפגעים-קל-16-בינוני-7-קשה--מתוך-הפצועים-בינוני-3-נוספ-254979
+https://hamal.co.il/main/השר-בן-גביר-בזירה-חייבים-להמשיך-לכתוש-ולנצח-את-ראש-השטן-254980
