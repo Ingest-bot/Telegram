@@ -1,4 +1,4 @@
-COUNTER:25
+COUNTER:26
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -328,3 +328,4 @@ https://hamal.co.il/main/בזמן-שהחליף-גלגל-רכב-נפל-על-גב�
 https://news.walla.co.il/break/3825294
 https://news.walla.co.il/item/3825292
 https://hamal.co.il/main/ראשוני-חשד-לאירוע-דריסה-בצפון-השומרון-254758
+https://hamal.co.il/main/מפקד-סנטקום-השמדנו-אלפי-מטרות-והצי-כמעט-לא-פעיל-254761
