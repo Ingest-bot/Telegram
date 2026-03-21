@@ -1,4 +1,4 @@
-COUNTER:7
+COUNTER:9
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -360,3 +360,9 @@ https://hamal.co.il/main/מדא-20-נפגעים-מרסיסים-בדימונה-25
 https://hamal.co.il/main/סטטיסטיקת-נפגעים-וזירות-לחימה--מצב-מלחמה-254846
 https://hamal.co.il/main/מדא-ילד-כבן-10-במצב-בינוני-בדימונה-254847
 https://hamal.co.il/main/צפו-תיעוד-מזירת-הנפילה-בדימונה-254850
+https://news.walla.co.il/break/3825323
+https://news.walla.co.il/break/3825324
+https://news.walla.co.il/break/3825325
+https://news.walla.co.il/break/3825326
+https://hamal.co.il/main/שריפה-פרצה-כתוצאה-מנפילה-בבית-בכפר-ורדים-254852
+https://hamal.co.il/main/דימונה-2-פצועים-במצב-בינוני-254853
