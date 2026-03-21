@@ -1,4 +1,4 @@
-COUNTER:28
+COUNTER:30
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -333,3 +333,5 @@ https://news.walla.co.il/break/3825297
 https://news.walla.co.il/break/3825298
 https://hamal.co.il/main/כשהיא-על-הגג-אישה-חולצה-מתוך-רכב-שוקע-בצפון--רגע-החילוץ-254763
 https://hamal.co.il/main/דיווח-על-שיגור-מאיראן-לדרום-הארץ-254765
+https://hamal.co.il/main/הטיל-מאיראן-לעבר-הנגב-יורט-בהצלחה-254780
+https://hamal.co.il/main/כלי-תקשורת-איראניים-מדווחים-על-תקיפות-אוויריות-מזרחית-לטהרן-254782
