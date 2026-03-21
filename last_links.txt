@@ -1,4 +1,4 @@
-COUNTER:20
+COUNTER:22
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -384,3 +384,6 @@ https://news.walla.co.il/break/3825343
 https://news.walla.co.il/break/3825344
 https://hamal.co.il/main/ראש-ה-FBI-לשעבר-מת-טראמפ-שנחקר-על-ידו-חגג-אני-שמח-254877
 https://hamal.co.il/main/פיגוע-בשומרון-צעיר-כבן-18-נרצח-בשבת-בפיגוע-דריסה-סמוך-לחומש-254880
+https://news.walla.co.il/item/3825347
+https://hamal.co.il/main/צהל-על-אירוע-הדריסה-בשומרון-עדיין-נבדק-החשד-לפיגוע-254882
+https://hamal.co.il/main/נשארה-בסלון-בזמן-אזעקה-בדימונה-וניצלה-בנס-254883
