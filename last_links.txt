@@ -1,4 +1,4 @@
-COUNTER:24
+COUNTER:28
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -256,3 +256,16 @@ https://news.walla.co.il/break/3825212
 https://news.walla.co.il/break/3825213
 https://hamal.co.il/main/הירי-לדרום-בשלב-זה-לא-התקבלו-דיווחים-במוקד-מדא-254555
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254556
+https://news.walla.co.il/break/3825223
+https://news.walla.co.il/break/3825224
+https://news.walla.co.il/break/3825226
+https://news.walla.co.il/break/3825228
+https://news.walla.co.il/break/3825229
+https://news.walla.co.il/item/3825217
+https://news.walla.co.il/item/3825221
+https://news.walla.co.il/item/3825227
+https://news.walla.co.il/item/3825230
+https://hamal.co.il/main/לאחר-התקיפות-בביירות-צהל-תוקף-בטהרן-254599
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן---אזעקות-צפויות-בדרום-הארץ-254605
+https://hamal.co.il/main/אזעקות-הופעלו-בדרום-הארץ-בעקבות-שיגורים-מאיראן-254609
+https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-עד-כה-לא-דווח-על-נפגעים-254612
