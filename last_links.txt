@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:2
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -289,3 +289,6 @@ https://hamal.co.il/main/טיל-המצרר-מאיראן-27-זירות-נפילה
 https://news.walla.co.il/item/3825249
 https://news.walla.co.il/item/3825240
 https://hamal.co.il/main/איראן-שיגרה-שני-טילים-בליסטיים-לבסיס-דייגו-גרסיה-254655
+https://news.walla.co.il/break/3825251
+https://news.walla.co.il/break/3825252
+https://hamal.co.il/main/איראן-שיגרה-שני-טילים-בליסטיים-לבסיס-דייגו-גרסיה-254656
