@@ -1,4 +1,4 @@
-COUNTER:11
+COUNTER:14
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -369,3 +369,6 @@ https://hamal.co.il/main/דימונה-2-פצועים-במצב-בינוני-25485
 https://news.walla.co.il/break/3825328
 https://hamal.co.il/main/הערוץ-הסעודי-אל-חדת׳-מדווח-על-6-פיצוצים-באספהאן-254858
 https://hamal.co.il/main/מדא-מצב-הפצועים-בזירות-השונות-בדימונה-254859
+https://hamal.co.il/main/סורוקה-מצב-הילד-מפגיעת-הטיל-בדימונה---קשה-254860
+https://hamal.co.il/main/גורם-ביטחוני-צה״ל-מתכוון-לתקף-מחדש-את-מדיניות-היירוט-254861
+https://hamal.co.il/main/הרמטכל-בצפון-לא-נחזור-לסבבים---נרחיק-את-האיום-254856
