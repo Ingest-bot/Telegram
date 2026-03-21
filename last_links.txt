@@ -1,4 +1,4 @@
-COUNTER:19
+COUNTER:21
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -317,3 +317,6 @@ https://news.walla.co.il/break/3825283
 https://hamal.co.il/main/טמפון-בתוך-האוכל-מיכל-הקטנה-שוב-מעוררת-סערה-ברשת-254706
 https://hamal.co.il/main/פגעי-מזג-האוויר-לכודים-חולצו-מהצפות-במג׳ד-אל-כרום-ובטמרה-254709
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-חדירת-כלי-טיס-עוין-בגליל-העליון-254726
+https://news.walla.co.il/item/3825282
+https://hamal.co.il/main/דיווחים-איראניים-פיצוצים-באספהאן-כעת-254735
+https://hamal.co.il/main/צהל-הותקפו-אתרים-לייצור-טילים-בליסטיים-בטהרן-254739
