@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:16
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -372,3 +372,6 @@ https://hamal.co.il/main/מדא-מצב-הפצועים-בזירות-השונות-
 https://hamal.co.il/main/סורוקה-מצב-הילד-מפגיעת-הטיל-בדימונה---קשה-254860
 https://hamal.co.il/main/גורם-ביטחוני-צה״ל-מתכוון-לתקף-מחדש-את-מדיניות-היירוט-254861
 https://hamal.co.il/main/הרמטכל-בצפון-לא-נחזור-לסבבים---נרחיק-את-האיום-254856
+https://news.walla.co.il/item/3825334
+https://hamal.co.il/main/אחרי-ההדחה-הדרמטית-מירה-נואף-פונתה-לבית-החולים-254865
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-254867
