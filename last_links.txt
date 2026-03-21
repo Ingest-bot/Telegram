@@ -1,4 +1,4 @@
-COUNTER:26
+COUNTER:30
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -392,3 +392,7 @@ https://hamal.co.il/main/ראשוני-נבדקת-נפילה-בערד-254890
 https://hamal.co.il/main/ראשוני-חשד-למספר-נפגעים-מהירי-האחרון-לדרום-בעיר-ערד-254893
 https://hamal.co.il/main/נפילות-באיזור-ערד---האיזור-בסריקה-254894
 https://hamal.co.il/main/רגע-פגיעת-הטיל-בערד--צפו-בתיעוד-254898
+https://hamal.co.il/main/עשרות-פצועים-בזירת-הנפילה-בערד-פצוע-אחד-אנוש-254927
+https://hamal.co.il/main/בניין-בוער-בערד-התיעוד-254929
+https://hamal.co.il/main/בחיל-האוויר-מתחקרים-את-אירועי-הנפילות-בערד-ובדימונה-254930
+https://hamal.co.il/main/דיווחים-על-כ-50-פצועים-בזירה-בערד-254932
