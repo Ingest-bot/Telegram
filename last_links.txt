@@ -1,4 +1,4 @@
-COUNTER:38
+COUNTER:1
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -404,3 +404,7 @@ https://hamal.co.il/main/איראן-מפרסמת-אזהרת-פינוי-לביר�
 https://hamal.co.il/main/כוחות-חילוץ-והצלה-של-פיקוד-העורף-בזירת-הנפילה-בדרום-הארץ-254955
 https://hamal.co.il/main/ראש-עיריית-ערד-כל-מי-שהתפנה-למקלט-לא-נפגע-254956
 https://hamal.co.il/main/אחד-התושבים-שביתו-נפגע-הבתים-נחרבו-לגמרי---פינינו-אנשים-254958
+https://news.walla.co.il/break/3825365
+https://hamal.co.il/main/במדא-מעדכנים-59-נפגעים---6-פצועים-במצב-קשה-254959
+https://hamal.co.il/main/מס-הנפגעים-עלה-ל-64--7-פצועים-במצב-קשה-254960
+https://hamal.co.il/main/בעקבות-האירוע-בערד-בוטלו-הלימודים-הפרונטלים-בדרום-הארץ-254961
