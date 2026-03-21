@@ -1,4 +1,4 @@
-COUNTER:18
+COUNTER:20
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -378,3 +378,9 @@ https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-25
 https://news.walla.co.il/break/3825340
 https://hamal.co.il/main/נתניהו-שוחח-עם-ראש-עיריית-דימונה-וראש-עיריית-ראשלצ-254871
 https://hamal.co.il/main/דיווח-ברויטרס-על-תקיפות-ליד-שדה-התעופה-בבגדאד-254873
+https://news.walla.co.il/break/3825341
+https://news.walla.co.il/break/3825342
+https://news.walla.co.il/break/3825343
+https://news.walla.co.il/break/3825344
+https://hamal.co.il/main/ראש-ה-FBI-לשעבר-מת-טראמפ-שנחקר-על-ידו-חגג-אני-שמח-254877
+https://hamal.co.il/main/פיגוע-בשומרון-צעיר-כבן-18-נרצח-בשבת-בפיגוע-דריסה-סמוך-לחומש-254880
