@@ -1,4 +1,4 @@
-COUNTER:3
+COUNTER:7
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -356,3 +356,7 @@ https://hamal.co.il/main/פגיעה-ישירה-במעלות---צפו-בתיעו�
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-בבית-בדימונה-254825
 https://hamal.co.il/main/דיווח-על-קריסת-מבנה-בדימונה-כתוצאה-מפגיעת-פריט-אמל״ח-254829
 https://hamal.co.il/main/קריסת-המבנה-בדימונה-3-פצועים-קל-ומספר-נפגעי-חרדה-254831
+https://hamal.co.il/main/מדא-20-נפגעים-מרסיסים-בדימונה-254845
+https://hamal.co.il/main/סטטיסטיקת-נפגעים-וזירות-לחימה--מצב-מלחמה-254846
+https://hamal.co.il/main/מדא-ילד-כבן-10-במצב-בינוני-בדימונה-254847
+https://hamal.co.il/main/צפו-תיעוד-מזירת-הנפילה-בדימונה-254850
