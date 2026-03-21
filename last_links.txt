@@ -1,4 +1,4 @@
-COUNTER:10
+COUNTER:11
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -303,3 +303,4 @@ https://hamal.co.il/main/תיעוד-ממצלמות-האבטחה-הגן-רועד-
 https://hamal.co.il/main/צהל-טיל-קרקע-נורה-לעבר-מטוס-קרב-ישראלי-אין-נפגעים-254668
 https://news.walla.co.il/item/3825267
 https://hamal.co.il/main/גורם-ביטחוני-תקיפות-חריגות-הלילה-באיראן-בהתמקדות-בבכירים-254672
+https://hamal.co.il/main/ירי-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-254677
