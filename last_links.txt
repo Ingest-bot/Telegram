@@ -1,4 +1,4 @@
-COUNTER:31
+COUNTER:32
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -275,3 +275,5 @@ https://hamal.co.il/main/דיווח-איראן-מוכנה-לאפשר-מעבר-ל
 https://news.walla.co.il/break/3825232
 https://hamal.co.il/main/אזעקות-באצבע-הגליל-בעקבות-שיגורים-מלבנון-254616
 https://news.walla.co.il/break/3825233
+https://news.walla.co.il/item/3825235
+https://hamal.co.il/main/תיעוד-קשה-בארהב-דוור-תקף-ילד-חרדי-בן-4---והטיח-אותו-לרצפה-254620
