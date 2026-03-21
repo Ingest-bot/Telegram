@@ -1,4 +1,4 @@
-COUNTER:35
+COUNTER:38
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -281,3 +281,6 @@ https://news.walla.co.il/break/3825239
 https://hamal.co.il/main/החלה-הלווייתו-של-שר-המודיעין-האיראני-איסמאעיל-חטיב-254624
 https://hamal.co.il/main/שיגורים-מאיראן---למרכז-ולירושלים-254625
 https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בראשון-לציון-הדי-פיצוצים-בירושלים-254639
+https://hamal.co.il/main/מסתמן-3-זירות-נפילה-בראשון-לציון-בעקבות-המטח-האחרון-מאיראן-254642
+https://hamal.co.il/main/הנפילות-בראשון-לציון-נזק-לרכוש-ללא-נפגעים-254645
+https://hamal.co.il/main/אחת-מ-3-זירות-הנפילה-בראשלצ-גן-ילדים-ללא-נפגעים-254647
