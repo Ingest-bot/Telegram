@@ -1,4 +1,4 @@
-COUNTER:7
+COUNTER:9
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -299,3 +299,5 @@ https://hamal.co.il/main/יום-השוויון-כבר-כאן-מה-זה-אומר-
 https://hamal.co.il/main/דיווח-איראני-ישראל-וארהב-תקפו-את-מתקן-ההעשרה-בנתנז-254664
 https://news.walla.co.il/break/3825261
 https://hamal.co.il/main/פה-אחד-254665
+https://hamal.co.il/main/תיעוד-ממצלמות-האבטחה-הגן-רועד---והצילום-נעצר-בדרמטיות-254667
+https://hamal.co.il/main/צהל-טיל-קרקע-נורה-לעבר-מטוס-קרב-ישראלי-אין-נפגעים-254668
