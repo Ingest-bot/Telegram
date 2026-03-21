@@ -1,4 +1,4 @@
-COUNTER:12
+COUNTER:14
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -305,3 +305,5 @@ https://news.walla.co.il/item/3825267
 https://hamal.co.il/main/גורם-ביטחוני-תקיפות-חריגות-הלילה-באיראן-בהתמקדות-בבכירים-254672
 https://hamal.co.il/main/ירי-מלבנון-אזעקות-הופעלו-במטולה-והסביבה-254677
 https://hamal.co.il/main/הירי-מלבנון-פגיעה-ישירה-במבנה-במטולה-254679
+https://hamal.co.il/main/דיווחים-עימותים-בין-צהל-לחיזבאללה-בדרום-לבנון-254684
+https://hamal.co.il/main/כעת-אזעקות-בצפת-והסביבה-254693
