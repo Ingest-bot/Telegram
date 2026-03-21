@@ -1,4 +1,4 @@
-COUNTER:34
+COUNTER:35
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -341,3 +341,7 @@ https://news.walla.co.il/break/3825307
 https://news.walla.co.il/break/3825308
 https://hamal.co.il/main/דניאל-פרץ-הגעתי-לשיא-הקריירה-שלי-זו-התאמה-מושלמת-254790
 https://hamal.co.il/main/דיווחים-בכלי-תקשורת-איראניים-על-פיצוצים-ליד-העיר-לנגרוד-בצפו-254791
+https://news.walla.co.il/break/3825310
+https://news.walla.co.il/break/3825311
+https://news.walla.co.il/break/3825314
+https://hamal.co.il/main/מנכל-מדא-2-נפגעים-בעיר-מעלות-254801
