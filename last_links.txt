@@ -1,4 +1,4 @@
-COUNTER:30
+COUNTER:34
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -396,3 +396,7 @@ https://hamal.co.il/main/עשרות-פצועים-בזירת-הנפילה-בער�
 https://hamal.co.il/main/בניין-בוער-בערד-התיעוד-254929
 https://hamal.co.il/main/בחיל-האוויר-מתחקרים-את-אירועי-הנפילות-בערד-ובדימונה-254930
 https://hamal.co.il/main/דיווחים-על-כ-50-פצועים-בזירה-בערד-254932
+https://hamal.co.il/main/בצל-האירועים-הקשים-מוקד-לתמיכה-נפשית-בעמותת-ערן-254941
+https://hamal.co.il/main/מפכ״ל-המשטרה-רנ״צ-דני-לוי-בדרכו-לזירה-בערד-254942
+https://hamal.co.il/main/33-נפגעים-פונו-לסורוקה-4-ביניהם-במצב-קשה-254943
+https://hamal.co.il/main/קהילה-מאוד-גדולה-בערד-הפגיעה-בבניין-שבו-התגוררו-חסידי-גור-254948
