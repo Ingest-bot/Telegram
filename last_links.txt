@@ -1,4 +1,4 @@
-COUNTER:9
+COUNTER:11
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -366,3 +366,6 @@ https://news.walla.co.il/break/3825325
 https://news.walla.co.il/break/3825326
 https://hamal.co.il/main/שריפה-פרצה-כתוצאה-מנפילה-בבית-בכפר-ורדים-254852
 https://hamal.co.il/main/דימונה-2-פצועים-במצב-בינוני-254853
+https://news.walla.co.il/break/3825328
+https://hamal.co.il/main/הערוץ-הסעודי-אל-חדת׳-מדווח-על-6-פיצוצים-באספהאן-254858
+https://hamal.co.il/main/מדא-מצב-הפצועים-בזירות-השונות-בדימונה-254859
