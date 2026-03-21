@@ -1,4 +1,4 @@
-COUNTER:29
+COUNTER:30
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -271,3 +271,4 @@ https://hamal.co.il/main/אזעקות-הופעלו-בדרום-הארץ-בעקב�
 https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-עד-כה-לא-דווח-על-נפגעים-254612
 https://news.walla.co.il/break/3825231
 https://hamal.co.il/main/גשם-סופות-רעמים---ושלג-בחרמון-שבת-חורפית--התחזית-254602
+https://hamal.co.il/main/דיווח-איראן-מוכנה-לאפשר-מעבר-לכלי-שיט-יפנים-במצרי-הורמוז-254613
