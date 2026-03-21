@@ -1,4 +1,4 @@
-COUNTER:32
+COUNTER:35
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -277,3 +277,7 @@ https://hamal.co.il/main/אזעקות-באצבע-הגליל-בעקבות-שיג�
 https://news.walla.co.il/break/3825233
 https://news.walla.co.il/item/3825235
 https://hamal.co.il/main/תיעוד-קשה-בארהב-דוור-תקף-ילד-חרדי-בן-4---והטיח-אותו-לרצפה-254620
+https://news.walla.co.il/break/3825239
+https://hamal.co.il/main/החלה-הלווייתו-של-שר-המודיעין-האיראני-איסמאעיל-חטיב-254624
+https://hamal.co.il/main/שיגורים-מאיראן---למרכז-ולירושלים-254625
+https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בראשון-לציון-הדי-פיצוצים-בירושלים-254639
