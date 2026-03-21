@@ -1,4 +1,4 @@
-COUNTER:32
+COUNTER:34
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -337,3 +337,7 @@ https://hamal.co.il/main/הטיל-מאיראן-לעבר-הנגב-יורט-בהצ
 https://hamal.co.il/main/כלי-תקשורת-איראניים-מדווחים-על-תקיפות-אוויריות-מזרחית-לטהרן-254782
 https://hamal.co.il/main/דיווח-על-שברי-ירוט-שנפלו-באיזור-דימונה-254783
 https://hamal.co.il/main/תיעוד-מיוחד-משמי-איראן-חמש-תקיפות-שונות-תוך-שניות-254785
+https://news.walla.co.il/break/3825307
+https://news.walla.co.il/break/3825308
+https://hamal.co.il/main/דניאל-פרץ-הגעתי-לשיא-הקריירה-שלי-זו-התאמה-מושלמת-254790
+https://hamal.co.il/main/דיווחים-בכלי-תקשורת-איראניים-על-פיצוצים-ליד-העיר-לנגרוד-בצפו-254791
