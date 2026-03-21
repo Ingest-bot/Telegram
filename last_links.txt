@@ -1,4 +1,4 @@
-COUNTER:38
+COUNTER:0
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -284,3 +284,5 @@ https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בראשון-לצ
 https://hamal.co.il/main/מסתמן-3-זירות-נפילה-בראשון-לציון-בעקבות-המטח-האחרון-מאיראן-254642
 https://hamal.co.il/main/הנפילות-בראשון-לציון-נזק-לרכוש-ללא-נפגעים-254645
 https://hamal.co.il/main/אחת-מ-3-זירות-הנפילה-בראשלצ-גן-ילדים-ללא-נפגעים-254647
+https://hamal.co.il/main/השיגור-למרכז-ממדי-ההרס-בגן-הילדים-בן-70-נחבל-בדרכו-לממד-254648
+https://hamal.co.il/main/טיל-המצרר-מאיראן-27-זירות-נפילה-במרכז-8-בראשון-לציון-254653
