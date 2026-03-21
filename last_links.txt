@@ -1,4 +1,4 @@
-COUNTER:22
+COUNTER:24
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -321,3 +321,7 @@ https://news.walla.co.il/item/3825282
 https://hamal.co.il/main/דיווחים-איראניים-פיצוצים-באספהאן-כעת-254735
 https://hamal.co.il/main/צהל-הותקפו-אתרים-לייצור-טילים-בליסטיים-בטהרן-254739
 https://hamal.co.il/main/ההשקעה-השתלמה-כך-שיקמה-איראן-את-חיזבאללה-לקראת-המלחמה-254746
+https://news.walla.co.il/break/3825289
+https://news.walla.co.il/break/3825290
+https://hamal.co.il/main/תקפו-הלילה-בהיקף-חריג-באיראן---בהתקדמות-באישים-בכירים-254753
+https://hamal.co.il/main/בזמן-שהחליף-גלגל-רכב-נפל-על-גבר-בן-80---נקבע-מותו-254755
