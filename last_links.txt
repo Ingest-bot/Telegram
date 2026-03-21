@@ -1,4 +1,4 @@
-COUNTER:24
+COUNTER:25
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -325,3 +325,6 @@ https://news.walla.co.il/break/3825289
 https://news.walla.co.il/break/3825290
 https://hamal.co.il/main/תקפו-הלילה-בהיקף-חריג-באיראן---בהתקדמות-באישים-בכירים-254753
 https://hamal.co.il/main/בזמן-שהחליף-גלגל-רכב-נפל-על-גבר-בן-80---נקבע-מותו-254755
+https://news.walla.co.il/break/3825294
+https://news.walla.co.il/item/3825292
+https://hamal.co.il/main/ראשוני-חשד-לאירוע-דריסה-בצפון-השומרון-254758
