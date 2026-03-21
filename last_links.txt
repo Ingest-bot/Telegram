@@ -1,4 +1,4 @@
-COUNTER:3
+COUNTER:4
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -293,3 +293,5 @@ https://news.walla.co.il/break/3825251
 https://news.walla.co.il/break/3825252
 https://hamal.co.il/main/איראן-שיגרה-שני-טילים-בליסטיים-לבסיס-דייגו-גרסיה-254656
 https://hamal.co.il/main/אני-לא-פותח-את-מערכת-החינוך-ראש-עיריית-ראשלצ-בזירת-הנפילה-254657
+https://news.walla.co.il/item/3825257
+https://hamal.co.il/main/האם-שווה-להיות-יפה-בחנות-כלי-עבודה-היא-יצאה-לבדוק-את-זה-והו-254661
