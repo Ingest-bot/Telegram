@@ -1,4 +1,4 @@
-COUNTER:14
+COUNTER:17
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -427,3 +427,7 @@ https://hamal.co.il/main/מסוקים-עם-פצועים-מזירת-הנפילה-
 https://hamal.co.il/main/פראס-עד-ראייה-מספר-כל-הרגעים-הראשונים-ראיתי-תינוק-נופל-מקו-254983
 https://hamal.co.il/main/טראמפ-מקדימים-את-הלוז-באיראן-רוצים-להגיע-להסכם---אני-לא-254985
 https://hamal.co.il/main/השר-בן-גביר-בריאיון-עם-כתבנו-בזירת-הפגיעה-בערד-254987
+https://news.walla.co.il/break/3825382
+https://hamal.co.il/main/כתב-ערוץ-14-מספר-על-הנס-בזירה-בדימונה-הממד-נשאר-שלם-254990
+https://hamal.co.il/main/מחז-דרום-מזירת-הנפילה-בערד-httpsbitly4t0z9EW-254988
+https://hamal.co.il/main/עדכון-הנחיות-מדיניות-ההתגוננות-של-פיקוד-העורף-בתום-הערכת-254992
