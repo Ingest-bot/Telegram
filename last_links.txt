@@ -1,4 +1,4 @@
-COUNTER:1
+COUNTER:5
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -408,3 +408,10 @@ https://news.walla.co.il/break/3825365
 https://hamal.co.il/main/במדא-מעדכנים-59-נפגעים---6-פצועים-במצב-קשה-254959
 https://hamal.co.il/main/מס-הנפגעים-עלה-ל-64--7-פצועים-במצב-קשה-254960
 https://hamal.co.il/main/בעקבות-האירוע-בערד-בוטלו-הלימודים-הפרונטלים-בדרום-הארץ-254961
+https://news.walla.co.il/break/3825366
+https://news.walla.co.il/break/3825367
+https://news.walla.co.il/item/3825369
+https://hamal.co.il/main/הטלוויזיה-האיראנית-מכחישה-כי-פורסמה-התרעת-פינוי-רשמית-לדוחא-254966
+https://hamal.co.il/main/תניהוהנחתי-את-מנכלית-משרדי-להגיש-את-מלוא-הסיוע-הנדרש-יחד-עם-254967
+https://hamal.co.il/main/בכיר-איראני-אחרי-הפגיעות-שמי-ישראל-חסרי-הגנה-254970
+https://hamal.co.il/main/במשקל-450-קג-תיעוד-מזירת-פגיעת-הטיל-האיראני-בערד-254972
