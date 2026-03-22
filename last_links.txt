@@ -1,4 +1,4 @@
-COUNTER:24
+COUNTER:28
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -444,3 +444,7 @@ https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-בשל-חשש-לח
 https://news.walla.co.il/break/3825395
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-255028
 https://hamal.co.il/main/הלימודים-במועצה-האזורית-חוף-הכרמל-בוטלו-בעקבות-הירי-לדרום-יו-255029
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-255034
+https://hamal.co.il/main/מאירוע-נפילת-הטיל-בדימונה-פונו-60-פצועים-מאירוע-נפילת-הטיל-ב-255037
+https://hamal.co.il/main/דיווח-ראשוני-נפילת-רסיסים-במרכז-הארץ-כתוצאה-מהשיגור-255039
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255041
