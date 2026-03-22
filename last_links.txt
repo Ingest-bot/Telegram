@@ -1,10 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/פיקוד-העורף-אלו-הישובים-שיוכלו-לחזור-ללימודים-ביום-ראשון-253981
-https://hamal.co.il/main/נועה-ירון-דיין-מעדכנת-במצבו-של-בנה-שנפצע-בלבנון-קרה-לנו-נס-253938
-https://hamal.co.il/main/מחריד-איראן-הוציאה-להורג-מתאבק-בן-19-עקב-חשד-לריגול-253941
-https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו--שידור-ישיר-254000
-https://hamal.co.il/main/במקביל-להצהרת-נתניהו-זוהה-שיגור-מאיראן-לצפון-הארץ-254004
-https://news.walla.co.il/break/3825014
+COUNTER:0
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-ידוע-על-נפגעים-254023
 https://news.walla.co.il/break/3825018
 https://news.walla.co.il/break/3825017
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3825502
 https://news.walla.co.il/break/3825504
 https://hamal.co.il/main/צהל-חיסלנו-את-255190
 https://hamal.co.il/main/יהודה-לוי-ודנה-פרידר-חשפו-את-השם-של-בתם-255181
+https://news.walla.co.il/break/3825506
+https://news.walla.co.il/item/3825503
+https://hamal.co.il/main/שריפה-פרצה-בבניין-בבת-ים-255197
+https://hamal.co.il/main/צפו-פעילות-יחידת-החילוץ-וההצלה-הארצית-במבצע-׳שאגת-הארי׳-255200
+https://hamal.co.il/main/טראמפ-עם-מותה-של-איראן---זו-האויבת-הגדולה-ביותר-של-אמריקה-255201
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-255202
