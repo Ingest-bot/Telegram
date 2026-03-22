@@ -1,4 +1,4 @@
-COUNTER:13
+COUNTER:17
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -485,3 +485,8 @@ https://hamal.co.il/main/כוכב-חתונה-ממבט-ראשון-עבר-תאונ
 https://hamal.co.il/main/הפגיעות-בדימונה-ובערד-זאת-הסיבה-לכישלון-היירוט-255124
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255126
 https://hamal.co.il/main/הירי-מאיראן-טיל-מתפזר-שוגר-דיווח-על-פגיעה-ברכב-במרכז-255136
+https://news.walla.co.il/item/3825452
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255138
+https://hamal.co.il/main/הירי-מאיראן-4-פצועים-בתל-אביב--תיעוד-הפגיעה-באיילון-255139
+https://hamal.co.il/main/כץ-הנח-255140
+https://hamal.co.il/main/עופר-מושקוביץ-הוא-האדם-שנרצח-מירי-חיזבאללה-בצפון-255141
