@@ -1,4 +1,4 @@
-COUNTER:7
+COUNTER:8
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -476,3 +476,7 @@ https://news.walla.co.il/break/3825428
 https://news.walla.co.il/break/3825427
 https://hamal.co.il/main/עוברים-את-הגדר---ונעצרים-19-שבחים-נתפסו-במזרח-י-ם--תיעוד-255112
 https://hamal.co.il/main/ישראל-עוברת-לשעון-קיץ-255113
+https://news.walla.co.il/break/3825436
+https://news.walla.co.il/break/3825442
+https://news.walla.co.il/break/3825433
+https://hamal.co.il/main/רכשו-נשק---והתאמנו-כדי-לבצע-פיגועי-255114
