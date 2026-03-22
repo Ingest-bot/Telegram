@@ -1,4 +1,4 @@
-COUNTER:2
+COUNTER:5
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -465,3 +465,10 @@ https://hamal.co.il/main/תיעוד-רסיס-255087
 https://news.walla.co.il/break/3825408
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-255091
 https://hamal.co.il/main/המשטרה-גופה-נפלטה-מהחוף-באשקלון-זהות-האדם-טרם-התבררה-255092
+https://news.walla.co.il/break/3825412
+https://news.walla.co.il/break/3825411
+https://news.walla.co.il/break/3825410
+https://news.walla.co.il/break/3825417
+https://hamal.co.il/main/הטיל-ששוגר-מאיראן-יורט-הדי-פיצוצים-נשמעו-במרכז-255103
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-סמוך-לכפר-קאסם-255106
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255108
