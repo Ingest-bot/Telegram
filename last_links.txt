@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/הותקפו-יותר-מ-130-תשתיות-של-משטר-הטרור-האיראני-254067
-https://news.walla.co.il/item/3825039
-https://hamal.co.il/main/על-סך-200-אלף-שקלים-אייל-גולן-תובע-את-דיירת-האח-הגדול-253994
+COUNTER:14
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-באזור-ירושלים-ולכיש-254069
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-אשדוד-השפלה-וירושלים-254087
 https://news.walla.co.il/break/3825046
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-מלבנון-תקיפת-הגשר-המרכז�
 https://news.walla.co.il/break/3825533
 https://news.walla.co.il/break/3825534
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-255257
+https://news.walla.co.il/break/3825536
+https://hamal.co.il/main/האולטימטום-של-טראמפ-לאיראן-מרסק-את-ביטקוין-255272
+https://hamal.co.il/main/גם-תחת-אש---אות-גיבורי-החברה-הישראלית-יתקיים-כמתוכנן-255276
