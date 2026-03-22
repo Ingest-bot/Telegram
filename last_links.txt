@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/בעקבות-254218
-https://hamal.co.il/main/מפקד-פיקוד-העורף-בקריית-שמונה-254219
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-254221
-https://news.walla.co.il/break/3825106
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-זוהה-שיגור-נוסף-254228
+COUNTER:14
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-עד-כה-לא-דווח-על-נפגעים-254229
 https://hamal.co.il/main/הירי-מאיראן-שברי-יירוט-פגעו-בדירה-ברחובות-אין-נפגעים-254232
 https://news.walla.co.il/break/3825107
@@ -499,3 +494,8 @@ https://hamal.co.il/main/שוב-טיל-מצרר-שוגר-למרכז-הארז-צ�
 https://hamal.co.il/main/דיווח-בעזה-סוכל-מפקד-בכיר-בג׳יהאד-האסלאמי-255424
 https://hamal.co.il/main/מד״א-לא-ידוע-על-נפגעים-או-נפילות-255425
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255428
+https://news.walla.co.il/break/3825612
+https://news.walla.co.il/break/3825614
+https://hamal.co.il/main/מד״א-אין-נפגעים-במטח-האחרון-255431
+https://hamal.co.il/main/מספר-זירות-שברי-יירוט-במרכז-ובדרום-רסיס-גרם-לנזק-בראש-העין-255435
+https://hamal.co.il/main/חלק-מטיל-נפל-בחצר-בית-ספר-בשומרון-255438
