@@ -1,4 +1,4 @@
-COUNTER:5
+COUNTER:7
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -472,3 +472,7 @@ https://news.walla.co.il/break/3825417
 https://hamal.co.il/main/הטיל-ששוגר-מאיראן-יורט-הדי-פיצוצים-נשמעו-במרכז-255103
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-סמוך-לכפר-קאסם-255106
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255108
+https://news.walla.co.il/break/3825428
+https://news.walla.co.il/break/3825427
+https://hamal.co.il/main/עוברים-את-הגדר---ונעצרים-19-שבחים-נתפסו-במזרח-י-ם--תיעוד-255112
+https://hamal.co.il/main/ישראל-עוברת-לשעון-קיץ-255113
