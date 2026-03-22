@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3825046
-https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-254091
-https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בי-ם-254093
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-והסביבה-254109
-https://hamal.co.il/main/נכון-לשעה-זו-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-254117
+COUNTER:16
 https://news.walla.co.il/break/3825047
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-לכיוון-ירושלים-254119
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-השפלה-והסביבה-254126
@@ -499,3 +494,8 @@ https://hamal.co.il/main/האולטימטום-של-טראמפ-לאיראן-מר�
 https://hamal.co.il/main/גם-תחת-אש---אות-גיבורי-החברה-הישראלית-יתקיים-כמתוכנן-255276
 https://news.walla.co.il/item/3825538
 https://hamal.co.il/main/הנהג-שנפגע-מרסיס-ברכבו-סמוך-לכיכר-הבימה-משחזר-255279
+https://news.walla.co.il/break/3825540
+https://news.walla.co.il/break/3825543
+https://news.walla.co.il/item/3825542
+https://news.walla.co.il/item/3825541
+https://hamal.co.il/main/עקב-המצב-הבחינה-הפסיכומטרית-שתוכננה-ל-29-3032026---תדחה-255283
