@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3825096
+COUNTER:5
 https://hamal.co.il/main/דיווחים-באיראן-דובר-משמרות-המהפכה-חוסל-254215
 https://news.walla.co.il/break/3825100
 https://news.walla.co.il/break/3825098
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-7-לוחמים-נפצעוקל-בתקריות-ש�
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-קריאות-255394
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255395
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-לצפון-הארץ-255397
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-255403
