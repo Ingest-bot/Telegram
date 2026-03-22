@@ -1,4 +1,4 @@
-COUNTER:37
+COUNTER:0
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -458,3 +458,7 @@ https://hamal.co.il/main/הפגיעה-בצפון-הפצוע-במצב-אנוש-כ
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255072
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-הדרום-255074
 https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-שנחסמו-255073
+https://news.walla.co.il/item/3825400
+https://hamal.co.il/main/הפגיעה-במשגב-עם-נקבע-מותו-של-הפצוע-שנלכד-ברכב-255086
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255088
+https://hamal.co.il/main/תיעוד-רסיס-255087
