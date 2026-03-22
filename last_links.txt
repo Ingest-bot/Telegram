@@ -1,5 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3825047
+COUNTER:17
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-לכיוון-ירושלים-254119
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-באזור-ירושלים-השפלה-והסביבה-254126
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לכיוון-צפון-הארץ-254128
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3825543
 https://news.walla.co.il/item/3825542
 https://news.walla.co.il/item/3825541
 https://hamal.co.il/main/עקב-המצב-הבחינה-הפסיכומטרית-שתוכננה-ל-29-3032026---תדחה-255283
+https://hamal.co.il/main/הבדיקה-שתגלה-אם-אתם-בסיכון-להתקף-לב---שזמינה-בחינם-255287
