@@ -1,5 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3824984
+COUNTER:25
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
 https://news.walla.co.il/break/3824996
@@ -495,3 +494,8 @@ https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפ�
 https://hamal.co.il/main/צהל-חיסלנו-255143
 https://hamal.co.il/main/הנפילות-בתא-מספר-הפצועים-עלה-ל-14-בהם-גבר-במצב-בינוני-255144
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-255146
+https://news.walla.co.il/item/3825461
+https://hamal.co.il/main/הטיל-ששוגר-מאיראן-לאילת-יורט-לא-דווח-על-נפגעים-255149
+https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבית-במשגב-עם-255152
+https://hamal.co.il/main/פיקוד-העורף-לתושבי-אילת-ניתן-לצאת-מהמרחב-המוגן-255156
+https://hamal.co.il/main/צהל-מחבלי-חיזבאללה-התקרבו-לעבר-כוחותינו---וחוסלו--תיעוד-255166
