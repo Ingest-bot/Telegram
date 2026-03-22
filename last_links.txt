@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-ידוע-על-נפגעים-254023
-https://news.walla.co.il/break/3825018
-https://news.walla.co.il/break/3825017
+COUNTER:1
 https://news.walla.co.il/break/3825019
 https://news.walla.co.il/break/3825020
 https://news.walla.co.il/item/3825021
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שריפה-פרצה-בבניין-בבת-ים-255197
 https://hamal.co.il/main/צפו-פעילות-יחידת-החילוץ-וההצלה-הארצית-במבצע-׳שאגת-הארי׳-255200
 https://hamal.co.il/main/טראמפ-עם-מותה-של-איראן---זו-האויבת-הגדולה-ביותר-של-אמריקה-255201
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-255202
+https://news.walla.co.il/break/3825509
+https://news.walla.co.il/item/3825510
+https://hamal.co.il/main/המשטרה-מעדכנת-כל-הכבישים-שנחסמו-בשל-מזג-האוויר---נפתחו-255203
