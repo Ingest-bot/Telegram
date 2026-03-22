@@ -1,4 +1,4 @@
-COUNTER:29
+COUNTER:33
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -449,3 +449,8 @@ https://hamal.co.il/main/מאירוע-נפילת-הטיל-בדימונה-פונ�
 https://hamal.co.il/main/דיווח-ראשוני-נפילת-רסיסים-במרכז-הארץ-כתוצאה-מהשיגור-255039
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255041
 https://hamal.co.il/main/מדא-אין-דיווח-על-נפגעים-255043
+https://news.walla.co.il/item/3825397
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-255047
+https://hamal.co.il/main/תוך-כדי-המלחמה-מחזור-הגיוס-מרץ-אפריל-2026-נפתח-255062
+https://hamal.co.il/main/הפעילות-בלבנון-כוחותינו-חיסלו-10-מחבלים-ואיתרו-מצבור-אמלח-255048
+https://hamal.co.il/main/הירי-מלבנון-דיווח-על-פצוע-בצפון-255067
