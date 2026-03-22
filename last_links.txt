@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-באזור-ירושלים-ולכיש-254069
-https://hamal.co.il/main/אזעקות-נשמעו-באזור-אשדוד-השפלה-וירושלים-254087
+COUNTER:15
 https://news.walla.co.il/break/3825046
 https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-254091
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-יישמעו-בדקות-הקרובות-בי-ם-254093
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העלי�
 https://news.walla.co.il/break/3825536
 https://hamal.co.il/main/האולטימטום-של-טראמפ-לאיראן-מרסק-את-ביטקוין-255272
 https://hamal.co.il/main/גם-תחת-אש---אות-גיבורי-החברה-הישראלית-יתקיים-כמתוכנן-255276
+https://news.walla.co.il/item/3825538
+https://hamal.co.il/main/הנהג-שנפגע-מרסיס-ברכבו-סמוך-לכיכר-הבימה-משחזר-255279
