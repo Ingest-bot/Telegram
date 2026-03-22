@@ -1,4 +1,4 @@
-COUNTER:0
+COUNTER:2
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -462,3 +462,6 @@ https://news.walla.co.il/item/3825400
 https://hamal.co.il/main/הפגיעה-במשגב-עם-נקבע-מותו-של-הפצוע-שנלכד-ברכב-255086
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255088
 https://hamal.co.il/main/תיעוד-רסיס-255087
+https://news.walla.co.il/break/3825408
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-255091
+https://hamal.co.il/main/המשטרה-גופה-נפלטה-מהחוף-באשקלון-זהות-האדם-טרם-התבררה-255092
