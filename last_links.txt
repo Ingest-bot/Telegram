@@ -1,4 +1,4 @@
-COUNTER:22
+COUNTER:23
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -441,3 +441,5 @@ https://hamal.co.il/main/ערב-הסעודית-שלושה-טילים-שוגרו-
 https://hamal.co.il/main/ישראלים-הציתו-מבנים-ורכוש-במספר-כפרים-פלסטיניים-בשומרון-אמיר-255019
 https://news.walla.co.il/break/3825394
 https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-בשל-חשש-לחדירת-כטבם-255022
+https://news.walla.co.il/break/3825395
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-255028
