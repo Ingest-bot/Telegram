@@ -1,6 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/רמבם-253967
-https://news.walla.co.il/break/3825003
+COUNTER:34
 https://hamal.co.il/main/האיראנים-ירו-קרוב-ל-300-טילים-לישראל-כמה-מהם-יורטו-253961
 https://hamal.co.il/main/טרגדיה-בחיפה-הולך-רגל-נהרג-בתאונת-פגע-וברח-בזמן-אזעקה-253968
 https://news.walla.co.il/item/3825004
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3825488
 https://news.walla.co.il/break/3825487
 https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בערד-קרה-פה-נס-255179
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-ברכב-סמוך-לכיכר-הבימה-255180
+https://news.walla.co.il/break/3825494
+https://hamal.co.il/main/נשק-צבאי-שאיראן-הפכה-לאמצעי-טרור-מה-הם-טילי-מצרר-ועד-כמה-הם-255121
