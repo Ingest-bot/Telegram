@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:21
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -431,3 +431,11 @@ https://news.walla.co.il/break/3825382
 https://hamal.co.il/main/כתב-ערוץ-14-מספר-על-הנס-בזירה-בדימונה-הממד-נשאר-שלם-254990
 https://hamal.co.il/main/מחז-דרום-מזירת-הנפילה-בערד-httpsbitly4t0z9EW-254988
 https://hamal.co.il/main/עדכון-הנחיות-מדיניות-ההתגוננות-של-פיקוד-העורף-בתום-הערכת-254992
+https://news.walla.co.il/break/3825390
+https://news.walla.co.il/break/3825392
+https://news.walla.co.il/break/3825393
+https://news.walla.co.il/item/3825384
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחשש-לחדירת-כטבם-255011
+https://hamal.co.il/main/אזעקות-הופעלו-במרגליות-שבצפון-255017
+https://hamal.co.il/main/ערב-הסעודית-שלושה-טילים-שוגרו-לעבר-הבירה-ריאד-אחד-יורט-255018
+https://hamal.co.il/main/ישראלים-הציתו-מבנים-ורכוש-במספר-כפרים-פלסטיניים-בשומרון-אמיר-255019
