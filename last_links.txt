@@ -1,4 +1,4 @@
-COUNTER:17
+COUNTER:21
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -490,3 +490,8 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-ה
 https://hamal.co.il/main/הירי-מאיראן-4-פצועים-בתל-אביב--תיעוד-הפגיעה-באיילון-255139
 https://hamal.co.il/main/כץ-הנח-255140
 https://hamal.co.il/main/עופר-מושקוביץ-הוא-האדם-שנרצח-מירי-חיזבאללה-בצפון-255141
+https://news.walla.co.il/item/3825454
+https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפתחו-לתנועה-ואלו-שעדיין-חסומים-255142
+https://hamal.co.il/main/צהל-חיסלנו-255143
+https://hamal.co.il/main/הנפילות-בתא-מספר-הפצועים-עלה-ל-14-בהם-גבר-במצב-בינוני-255144
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-255146
