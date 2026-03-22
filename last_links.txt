@@ -1,4 +1,4 @@
-COUNTER:8
+COUNTER:10
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -480,3 +480,5 @@ https://news.walla.co.il/break/3825436
 https://news.walla.co.il/break/3825442
 https://news.walla.co.il/break/3825433
 https://hamal.co.il/main/רכשו-נשק---והתאמנו-כדי-לבצע-פיגועי-255114
+https://hamal.co.il/main/לתת-מכל-הלב-צפו-בחלוקת-המארזים-לתושבי-הצפון-255119
+https://hamal.co.il/main/כוכב-חתונה-ממבט-ראשון-עבר-תאונת-דרכים-בזמן-אזעקה-הכל-שבר-255110
