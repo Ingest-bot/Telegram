@@ -1,9 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3824930
-https://news.walla.co.il/item/3824986
-https://hamal.co.il/main/הותר-לפרסום-הנרצח-מפגיעת-הטיל-בשרון---צאוואט-ואלניל-253958
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-253963
-https://hamal.co.il/main/הושגה-שליטה-מלאה-על-אירוע-הפגיעה-בבתי-הזיקוק-בחיפה-253966
+COUNTER:33
 https://hamal.co.il/main/רמבם-253967
 https://news.walla.co.il/break/3825003
 https://hamal.co.il/main/האיראנים-ירו-קרוב-ל-300-טילים-לישראל-כמה-מהם-יורטו-253961
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מנהלת-הליגות-הודיעה-זה-התאריך-
 https://hamal.co.il/main/הפגיעות-בערד-ובדימונה-הסיוע-של-מכבי-למפונים-255172
 https://hamal.co.il/main/צפו-כוחות-פיקוד-העורף-פועלים-בזירות-הפגיעה-במרכז-הארץ-255177
 https://hamal.co.il/main/רגע-קטן-של-אור-הפעילות-של-רמי-לוי-וחמל-למען-תושבי-הצפון-255133
+https://news.walla.co.il/break/3825489
+https://news.walla.co.il/break/3825488
+https://news.walla.co.il/break/3825487
+https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בערד-קרה-פה-נס-255179
+https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-ברכב-סמוך-לכיכר-הבימה-255180
