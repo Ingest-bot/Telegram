@@ -1,7 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/צהל-תקפנו-את-המשטר-הסורי-בעקבות-254192
-https://news.walla.co.il/break/3825083
-https://news.walla.co.il/break/3825082
+COUNTER:33
 https://news.walla.co.il/break/3825081
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254193
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254195
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3825584
 https://hamal.co.il/main/אלרגים-לחלב-החטיף-האהוב-עלול-להוות-עבורכם-סכנה-255372
 https://news.walla.co.il/break/3825587
 https://news.walla.co.il/break/3825589
+https://news.walla.co.il/item/3825591
+https://hamal.co.il/main/בעקבות-התגברות-השיגורים-הטיסות-בנתבג-יחתכו-בחצי-255376
+https://hamal.co.il/main/שרה-נתניהו-צפויה-להשתתף-באירוע-של-מלאניה-טראמפ-בבית-הלבן-255379
