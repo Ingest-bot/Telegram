@@ -1,8 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3825025
-https://news.walla.co.il/item/3825027
-https://hamal.co.il/main/נער-בן-15-נפצע-אנוש-בתאונת-דרכים-254041
-https://hamal.co.il/main/בשורה-גדולה-לישראל-פיפא-דחתה-את-הדרישה-הפלסטינית-253971
+COUNTER:9
 https://hamal.co.il/main/החשוד-בתאונת-הפגע-וברח-בחיפה---נעצר-254044
 https://news.walla.co.il/break/3825036
 https://news.walla.co.il/item/3825031
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-רגע-פיצוץ-גשר-בנהר-הליטא
 https://hamal.co.il/main/הירי-מאיראן-עד-כה-לא-דווח-על-נפגעים-255224
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255227
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-במרכז-ללא-נפגעים-255229
+https://news.walla.co.il/break/3825517
+https://news.walla.co.il/break/3825518
+https://hamal.co.il/main/המטח-האחרון-מאיראן-נזקים-לרכוש-במרכז-הארץ-255232
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-אתרי-ייצור-אמלח-ומפקדות-בטהרן-255236
