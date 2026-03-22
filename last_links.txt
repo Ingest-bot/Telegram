@@ -1,6 +1,4 @@
 COUNTER:9
-https://hamal.co.il/main/החשוד-בתאונת-הפגע-וברח-בחיפה---נעצר-254044
-https://news.walla.co.il/break/3825036
 https://news.walla.co.il/item/3825031
 https://hamal.co.il/main/כדי-למנוע-קפיצה-במחירים-סמוטריץ-מבטל-זמנית-את-המס-על-סולר-253986
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254046
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3825517
 https://news.walla.co.il/break/3825518
 https://hamal.co.il/main/המטח-האחרון-מאיראן-נזקים-לרכוש-במרכז-הארץ-255232
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-אתרי-ייצור-אמלח-ומפקדות-בטהרן-255236
+https://news.walla.co.il/break/3825523
+https://news.walla.co.il/item/3825527
