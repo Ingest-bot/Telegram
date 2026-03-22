@@ -1,8 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3825102
-https://news.walla.co.il/item/3825104
-https://news.walla.co.il/item/3825092
-https://hamal.co.il/main/הקטל-בדרכים-ילד-כבן-5-נדרס-למוות-בערד-254217
+COUNTER:11
 https://hamal.co.il/main/בעקבות-254218
 https://hamal.co.il/main/מפקד-פיקוד-העורף-בקריית-שמונה-254219
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-254221
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-די�
 https://news.walla.co.il/break/3825609
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-בין-רכב-למשאית-בכביש-6-255404
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255406
+https://hamal.co.il/main/שוב-טיל-מצרר-שוגר-למרכז-הארז-צוותים-סורקים-זירה-בגני-תקווה-255423
+https://hamal.co.il/main/דיווח-בעזה-סוכל-מפקד-בכיר-בג׳יהאד-האסלאמי-255424
+https://hamal.co.il/main/מד״א-לא-ידוע-על-נפגעים-או-נפילות-255425
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255428
