@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254212
-https://news.walla.co.il/break/3825090
-https://news.walla.co.il/item/3825028
+COUNTER:0
 https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254213
 https://news.walla.co.il/item/3825093
 https://news.walla.co.il/item/3824999
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-השמיד-מעבר-מעל-נהר-הליטאני
 https://news.walla.co.il/break/3825600
 https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-בתאונת-דרכים-בכביש-6-255387
 https://hamal.co.il/main/בלחיצת-כפתור-הנשק-האיראני-שמבודד-100-מיליון-אזרחים-255350
+https://news.walla.co.il/item/3825596
+https://hamal.co.il/main/דיווח-בעזה-חוסל-בכיר-בגיהאד-האיסלאמי-255388
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-255390
