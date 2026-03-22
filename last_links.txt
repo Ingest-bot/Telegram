@@ -1,6 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3825064
-https://news.walla.co.il/break/3825063
+COUNTER:24
 https://news.walla.co.il/break/3825069
 https://news.walla.co.il/break/3825070
 https://news.walla.co.il/item/3825071
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בזמן-האזעקות-כלב-קפץ-בבהלה-לנח
 https://news.walla.co.il/break/3825556
 https://news.walla.co.il/item/3825558
 https://hamal.co.il/main/ההתראות-על-כלי-טיס-שחדר-מלבנון-בגליל-שווא-255325
+https://news.walla.co.il/item/3825557
+https://hamal.co.il/main/עוד-אחת-לאוסף-רז-הרשקו-זכתה-בזהב-בטבילסי-עם-איפון-נפלא-255337
