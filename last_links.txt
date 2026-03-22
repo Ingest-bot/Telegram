@@ -1,4 +1,4 @@
-COUNTER:28
+COUNTER:29
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -448,3 +448,4 @@ https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-25
 https://hamal.co.il/main/מאירוע-נפילת-הטיל-בדימונה-פונו-60-פצועים-מאירוע-נפילת-הטיל-ב-255037
 https://hamal.co.il/main/דיווח-ראשוני-נפילת-רסיסים-במרכז-הארץ-כתוצאה-מהשיגור-255039
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255041
+https://hamal.co.il/main/מדא-אין-דיווח-על-נפגעים-255043
