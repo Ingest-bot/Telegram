@@ -1,6 +1,4 @@
 COUNTER:31
-https://hamal.co.il/main/סוף-שבוע-גשום-וחשש-לשיטפונות--תחזית-מזג-האוויר-254185
-https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-254187
 https://hamal.co.il/main/צהל-תקפנו-את-המשטר-הסורי-בעקבות-254192
 https://news.walla.co.il/break/3825083
 https://news.walla.co.il/break/3825082
@@ -499,3 +497,5 @@ https://hamal.co.il/main/תיעוד-ממצלמת-אבטחה-רגע-פגיעת-ה
 https://news.walla.co.il/item/3825583
 https://news.walla.co.il/item/3825584
 https://hamal.co.il/main/אלרגים-לחלב-החטיף-האהוב-עלול-להוות-עבורכם-סכנה-255372
+https://news.walla.co.il/break/3825587
+https://news.walla.co.il/break/3825589
