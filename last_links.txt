@@ -1,6 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3825069
-https://news.walla.co.il/break/3825070
+COUNTER:25
 https://news.walla.co.il/item/3825071
 https://news.walla.co.il/item/3825067
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-בטהרן-254177
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3825558
 https://hamal.co.il/main/ההתראות-על-כלי-טיס-שחדר-מלבנון-בגליל-שווא-255325
 https://news.walla.co.il/item/3825557
 https://hamal.co.il/main/עוד-אחת-לאוסף-רז-הרשקו-זכתה-בזהב-בטבילסי-עם-איפון-נפלא-255337
+https://news.walla.co.il/item/3825565
+https://hamal.co.il/main/הרמטכל-באישור-תכניות-בפיקוד-הצפון-המערכה-מול-חיזבאללה-רק-255351
