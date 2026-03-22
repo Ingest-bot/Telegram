@@ -1,10 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/האיראנים-ירו-קרוב-ל-300-טילים-לישראל-כמה-מהם-יורטו-253961
-https://hamal.co.il/main/טרגדיה-בחיפה-הולך-רגל-נהרג-בתאונת-פגע-וברח-בזמן-אזעקה-253968
-https://news.walla.co.il/item/3825004
-https://hamal.co.il/main/ההצדעה-של-מפקד-חיל-האוויר-והכלים-שלא-חזרו-לישראל-253946
-https://news.walla.co.il/break/3825007
-https://hamal.co.il/main/המשטרה-עצרה-ארבע-שוהים-בלתי-חוקיים-בתל-אביב-253973
+COUNTER:36
 https://hamal.co.il/main/פיקוד-העורף-אלו-הישובים-שיוכלו-לחזור-ללימודים-ביום-ראשון-253981
 https://hamal.co.il/main/נועה-ירון-דיין-מעדכנת-במצבו-של-בנה-שנפצע-בלבנון-קרה-לנו-נס-253938
 https://hamal.co.il/main/מחריד-איראן-הוציאה-להורג-מתאבק-בן-19-עקב-חשד-לריגול-253941
@@ -499,3 +493,9 @@ https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בערד-קרה-פ
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-ברכב-סמוך-לכיכר-הבימה-255180
 https://news.walla.co.il/break/3825494
 https://hamal.co.il/main/נשק-צבאי-שאיראן-הפכה-לאמצעי-טרור-מה-הם-טילי-מצרר-ועד-כמה-הם-255121
+https://news.walla.co.il/break/3825499
+https://news.walla.co.il/break/3825501
+https://news.walla.co.il/break/3825502
+https://news.walla.co.il/break/3825504
+https://hamal.co.il/main/צהל-חיסלנו-את-255190
+https://hamal.co.il/main/יהודה-לוי-ודנה-פרידר-חשפו-את-השם-של-בתם-255181
