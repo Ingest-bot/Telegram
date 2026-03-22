@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/מטח-שישי-הלילה-מאיראן-אזעקות-ברחבי-הצפון--היום-ה-21-למלחמה-254182
-https://news.walla.co.il/break/3825073
-https://news.walla.co.il/break/3825074
+COUNTER:31
 https://hamal.co.il/main/סוף-שבוע-גשום-וחשש-לשיטפונות--תחזית-מזג-האוויר-254185
 https://hamal.co.il/main/פיקוד-העורף-זוהה-שיגור-מאיראן-254187
 https://hamal.co.il/main/צהל-תקפנו-את-המשטר-הסורי-בעקבות-254192
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3825578
 https://news.walla.co.il/break/3825579
 https://hamal.co.il/main/הצהרת-דובר-צהל-תת-אלוף-אפי-דפרין--שידור-ישיר-255367
 https://hamal.co.il/main/תיעוד-ממצלמת-אבטחה-רגע-פגיעת-הטיל-בערד--צפו-255371
+https://news.walla.co.il/item/3825583
+https://news.walla.co.il/item/3825584
+https://hamal.co.il/main/אלרגים-לחלב-החטיף-האהוב-עלול-להוות-עבורכם-סכנה-255372
