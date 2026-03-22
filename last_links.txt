@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3824985
-https://news.walla.co.il/break/3824988
-https://news.walla.co.il/break/3824996
+COUNTER:27
 https://news.walla.co.il/break/3824998
 https://news.walla.co.il/item/3824942
 https://news.walla.co.il/item/3824959
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הטיל-ששוגר-מאיראן-לאילת-יורט-ל
 https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-בבית-במשגב-עם-255152
 https://hamal.co.il/main/פיקוד-העורף-לתושבי-אילת-ניתן-לצאת-מהמרחב-המוגן-255156
 https://hamal.co.il/main/צהל-מחבלי-חיזבאללה-התקרבו-לעבר-כוחותינו---וחוסלו--תיעוד-255166
+https://news.walla.co.il/item/3825469
+https://hamal.co.il/main/הנפילות-בתא-גבר-כבן-53-נפצע-באורח-קשה-255168
+https://hamal.co.il/main/הנפילה-בפת-חימוש-מתפצל-פגע-במחסן-אין-נפגעים--תיעוד-255169
