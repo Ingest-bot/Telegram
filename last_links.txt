@@ -1,4 +1,4 @@
-COUNTER:21
+COUNTER:22
 https://news.walla.co.il/break/3824984
 https://news.walla.co.il/break/3824985
 https://news.walla.co.il/break/3824988
@@ -439,3 +439,5 @@ https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחש�
 https://hamal.co.il/main/אזעקות-הופעלו-במרגליות-שבצפון-255017
 https://hamal.co.il/main/ערב-הסעודית-שלושה-טילים-שוגרו-לעבר-הבירה-ריאד-אחד-יורט-255018
 https://hamal.co.il/main/ישראלים-הציתו-מבנים-ורכוש-במספר-כפרים-פלסטיניים-בשומרון-אמיר-255019
+https://news.walla.co.il/break/3825394
+https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-בשל-חשש-לחדירת-כטבם-255022
