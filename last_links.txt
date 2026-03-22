@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3825078
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לעבר-מרכז-הארץ-254197
-https://hamal.co.il/main/הירי-מאיראן-השיגור-יורט-לא-דווח-על-נפגעים-254210
+COUNTER:38
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254212
 https://news.walla.co.il/break/3825090
 https://news.walla.co.il/item/3825028
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3825599
 https://hamal.co.il/main/175-דולר-לחבית-נפט-מוכנים-לספוג-כדי-להכניע-את-איראן-255331
 https://hamal.co.il/main/פגיעת-הטיל-בערד-טלפונים-כשרים-עשויים-לא-לקבל-התרעות-255344
 https://hamal.co.il/main/צהל-השמיד-מעבר-מעל-נהר-הליטאני-המשמש-את-מחבלי-חיזבאללה-255384
+https://news.walla.co.il/break/3825600
+https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-בתאונת-דרכים-בכביש-6-255387
+https://hamal.co.il/main/בלחיצת-כפתור-הנשק-האיראני-שמבודד-100-מיליון-אזרחים-255350
