@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3825054
-https://news.walla.co.il/break/3825050
-https://news.walla.co.il/break/3825062
+COUNTER:23
 https://news.walla.co.il/break/3825064
 https://news.walla.co.il/break/3825063
 https://news.walla.co.il/break/3825069
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3825547
 https://hamal.co.il/main/ירי-מקביל-אזעקות-בגליל-בחשש-לחדירת-כלי-טיס-עוין-וטילים-255311
 https://hamal.co.il/main/אומייגאד-תיעוד-מדהים-של-יירוט-בשמי-הנגב---מחוץ-לאטמוספירה-255313
 https://hamal.co.il/main/בזמן-האזעקות-כלב-קפץ-בבהלה-לנחל-איילון---וחולץ-בהצלחה-255323
+https://news.walla.co.il/break/3825556
+https://news.walla.co.il/item/3825558
+https://hamal.co.il/main/ההתראות-על-כלי-טיס-שחדר-מלבנון-בגליל-שווא-255325
