@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3825031
-https://hamal.co.il/main/כדי-למנוע-קפיצה-במחירים-סמוטריץ-מבטל-זמנית-את-המס-על-סולר-253986
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254046
+COUNTER:11
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-254059
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254061
 https://hamal.co.il/main/הרכבת-הקלה-במרכז-חוזרת-לפעול-בלי-הקטע-התת-קרקעי-254064
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המטח-האחרון-מאיראן-נזקים-לרכו�
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-אתרי-ייצור-אמלח-ומפקדות-בטהרן-255236
 https://news.walla.co.il/break/3825523
 https://news.walla.co.il/item/3825527
+https://news.walla.co.il/item/3825528
+https://hamal.co.il/main/לבנוןך-255242
+https://hamal.co.il/main/תיעוד-מלבנון-תקיפת-הגשר-המרכזי-מעל-נהר-הליטני--צפו-255245
