@@ -1,11 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לכיוון-צפון-הארץ-254128
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-בצפון-הארץ-254143
-https://hamal.co.il/main/עקב-המטח-האחרון-תיעוד-משמי-הצפון-254145
-https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-254147
-https://news.walla.co.il/break/3825051
-https://news.walla.co.il/break/3825052
-https://news.walla.co.il/break/3825053
+COUNTER:22
 https://news.walla.co.il/break/3825054
 https://news.walla.co.il/break/3825050
 https://news.walla.co.il/break/3825062
@@ -499,3 +492,10 @@ https://hamal.co.il/main/עקב-המצב-הבחינה-הפסיכומטרית-ש�
 https://hamal.co.il/main/הבדיקה-שתגלה-אם-אתם-בסיכון-להתקף-לב---שזמינה-בחינם-255287
 https://hamal.co.il/main/גורם-צבאי-נבדקת-האפשרות-שעופר-מושקוביץ-נהרג-מאש-צהל-255299
 https://hamal.co.il/main/הטיל-לדרום-יורט-מדא-אין-דיווח-על-נפגעים-255302
+https://news.walla.co.il/break/3825552
+https://news.walla.co.il/break/3825550
+https://news.walla.co.il/break/3825551
+https://news.walla.co.il/item/3825547
+https://hamal.co.il/main/ירי-מקביל-אזעקות-בגליל-בחשש-לחדירת-כלי-טיס-עוין-וטילים-255311
+https://hamal.co.il/main/אומייגאד-תיעוד-מדהים-של-יירוט-בשמי-הנגב---מחוץ-לאטמוספירה-255313
+https://hamal.co.il/main/בזמן-האזעקות-כלב-קפץ-בבהלה-לנחל-איילון---וחולץ-בהצלחה-255323
