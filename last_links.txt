@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3825274
+COUNTER:5
 https://hamal.co.il/main/דיווח-ראשוני-נפילה-במבנה-בצפת-לא-ידוע-על-נפגעים-254696
 https://hamal.co.il/main/החורף-טרם-סיים-לומר-את-דברו-שלג-כבד-באתר-החרמון-254697
 https://news.walla.co.il/break/3825280
@@ -499,3 +498,4 @@ https://hamal.co.il/main/פיצוצים-255735
 https://news.walla.co.il/item/3825849
 https://hamal.co.il/main/כרגע-לא-מתוכנן-ביקור-של-טראמפ-בישראל-ביום-העצמאות-255736
 https://hamal.co.il/main/גורם-פקיסטני-נציגים-אמריקניים-צפויים-להיפגש-עם-האיראנים-השב-255737
+https://hamal.co.il/main/המהלך-שיכריע-את-הבחירות-בימין-בוחנים-הקמת-גוף-פוליטי-חדש-255582
