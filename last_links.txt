@@ -1,7 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/צה״ל-תקף-אתרי-ייצור-טילים-כשבתוכם-פעלו-חיילים-של-המשטר-254460
-https://news.walla.co.il/item/3825173
-https://news.walla.co.il/break/3825179
+COUNTER:22
 https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-בשעות-אלו-בזירת-הנפילה-בעיר-העתיקה-254465
 https://hamal.co.il/main/כך-חוסל-עלי-שמחאני-בנסיון-השלישי-254463
 https://news.walla.co.il/break/3825181
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ההע-255514
 https://hamal.co.il/main/מנהל-255515
 https://news.walla.co.il/item/3825728
 https://hamal.co.il/main/88-שנות-מחקר-חושפות-זה-הגורם-המפתיע-שמנבא-חיים-מאושרים-וברי-255472
+https://news.walla.co.il/item/3825735
+https://hamal.co.il/main/קרב-ביבשה-אפשרי---צריך-להיות-מוכנים-לשלם-באבדות-255517
+https://hamal.co.il/main/טראמפ-התקיפות-על-תחנות-הכוח-באיראן-יידחו-ב-5-ימים-255519
