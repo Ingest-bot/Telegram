@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/במשטרה-מצביעים-על-שינוי-מגמתי-לטובה-ברמדאן-254503
-https://news.walla.co.il/break/3825200
+COUNTER:36
 https://news.walla.co.il/item/3825198
 https://hamal.co.il/main/טראמפ-מתקרבים-להשגת-היעדים-שלנו-254524
 https://news.walla.co.il/break/3825202
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3825765
 https://hamal.co.il/main/טראמפ-איראן-רוצה-לסיים-את-המלחמה-תוך-5-ימים-255540
 https://hamal.co.il/main/ראשוני-חשד-לפגיעה-ישירה-בקש-255542
 https://hamal.co.il/main/הירי-לעבר-קריית-שמונה-פצוע-קשה-מ-255543
+https://hamal.co.il/main/נתניהו-החליט-דורון-כהן-ימונה-לנציב-שירות-המדינה-255544
+https://hamal.co.il/main/במדא-מעדכנים-גבר-כבן-50-במצב-קשה-בן-80-נפצע-באורח-קל-255554
