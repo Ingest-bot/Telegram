@@ -1,8 +1,4 @@
 COUNTER:30
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254284
-https://hamal.co.il/main/בית-בוער---והרס-רב-ברחוב-תיעוד-מהפגיעה-ברחובות-254287
-https://hamal.co.il/main/הפגיעה-ברחובות-2-נפצעו-באורח-קל-7-פונו-עם-שאיפות-עשן-254288
-https://news.walla.co.il/break/3825133
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-254290
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-באזור-מודיעין-254345
 https://hamal.co.il/main/סער-לשר-החוץ-הצרפתי-254346
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שברי-יירוט-זוהו-בצפת-אין-נפגעי
 https://hamal.co.il/main/הגבר-עזב-למילואים---פורץ-השחית-את-ביתו-255469
 https://hamal.co.il/main/תרגיל-צבאי-יתקיים-היום-בפרדס-חנה-כרכור-255470
 https://hamal.co.il/main/פשע-אנטישמי-בלונדון-4-אמבולנסים-של-הארגון-החרדי-הוצתו-255471
+https://news.walla.co.il/break/3825635
+https://news.walla.co.il/break/3825636
+https://news.walla.co.il/break/3825638
+https://news.walla.co.il/item/3825637
