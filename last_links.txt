@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3825217
-https://news.walla.co.il/item/3825221
-https://news.walla.co.il/item/3825227
+COUNTER:12
 https://news.walla.co.il/item/3825230
 https://hamal.co.il/main/לאחר-התקיפות-בביירות-צהל-תוקף-בטהרן-254599
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן---אזעקות-צפויות-בדרום-הארץ-254605
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פועל-נפל-מגובה-של-5-מטר-בנתניה-�
 https://hamal.co.il/main/בנט-בזמן-שהציבור-נלחם-הממשלה-מעבירה-2-מיליארד-שח-לישיבות-255623
 https://hamal.co.il/main/נועה-ארגמני-ואבינתן-אור-נפרדו-255626
 https://hamal.co.il/main/ראשוני-משאית-זבל-ובה-עשרות-שב״חים-נתפסה-במחסום-חיזמא-255629
+https://news.walla.co.il/item/3825811
+https://hamal.co.il/main/חייו-היו-הופעה-אחת-גדולה-הובא-למנוחות-עופר-מושקוביץ-255632
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-בחשש-לחדירת-כטבם-255638
