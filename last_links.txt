@@ -1,11 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בצפון-חדירת-כלי-טיס-עוין-בגליל-העליון-254726
-https://news.walla.co.il/item/3825282
-https://hamal.co.il/main/דיווחים-איראניים-פיצוצים-באספהאן-כעת-254735
-https://hamal.co.il/main/צהל-הותקפו-אתרים-לייצור-טילים-בליסטיים-בטהרן-254739
-https://hamal.co.il/main/ההשקעה-השתלמה-כך-שיקמה-איראן-את-חיזבאללה-לקראת-המלחמה-254746
-https://news.walla.co.il/break/3825289
-https://news.walla.co.il/break/3825290
+COUNTER:14
 https://hamal.co.il/main/תקפו-הלילה-בהיקף-חריג-באיראן---בהתקדמות-באישים-בכירים-254753
 https://hamal.co.il/main/בזמן-שהחליף-גלגל-רכב-נפל-על-גבר-בן-80---נקבע-מותו-254755
 https://news.walla.co.il/break/3825294
@@ -499,3 +492,10 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/דיווח-הבית-הלבן-מעוניין-לקדם-את-ה-255761
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-בשלב-זה-לא-ידוע-על-נפגעים-255762
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255763
+https://news.walla.co.il/break/3825861
+https://news.walla.co.il/break/3825862
+https://news.walla.co.il/break/3825863
+https://hamal.co.il/main/בניין-בנשר-ספג-פגיעה-מהמטח-האחרון-אין-נפגעים--צפו-בתיעוד-255766
+https://hamal.co.il/main/פריט-אמל״ח-פגע-בשטח-מפעל-בלימן-אין-נפגעים-255770
+https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-כעת-בזירת-הנפילה-בצפון-הארץ-255771
+https://hamal.co.il/main/מדא-פצוע-קל-בצפון-לאחר-שדרך-על-רסיס-255772
