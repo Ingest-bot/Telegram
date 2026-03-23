@@ -1,9 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3825198
-https://hamal.co.il/main/טראמפ-מתקרבים-להשגת-היעדים-שלנו-254524
-https://news.walla.co.il/break/3825202
-https://news.walla.co.il/break/3825203
-https://hamal.co.il/main/--254535
+COUNTER:37
 https://hamal.co.il/main/השוהים-במרחב-המוגן-בקו-העימות-יכולים-לצאת-לצאת-254539
 https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירה-במרכז-הארץ-254541
 https://news.walla.co.il/break/3825209
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ראשוני-חשד-לפגיעה-ישירה-בקש-2555
 https://hamal.co.il/main/הירי-לעבר-קריית-שמונה-פצוע-קשה-מ-255543
 https://hamal.co.il/main/נתניהו-החליט-דורון-כהן-ימונה-לנציב-שירות-המדינה-255544
 https://hamal.co.il/main/במדא-מעדכנים-גבר-כבן-50-במצב-קשה-בן-80-נפצע-באורח-קל-255554
+https://news.walla.co.il/break/3825778
+https://news.walla.co.il/break/3825780
+https://news.walla.co.il/break/3825782
+https://news.walla.co.il/break/3825783
+https://hamal.co.il/main/הצבא-עדכן-את-תושבי-קו-העימות-יש-לשהות-בסמוך-למרחב-מוגן-255557
