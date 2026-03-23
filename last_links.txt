@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254358
-https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפתחו-לתנועה-ואלו-שעדיין-חסומים-254359
-https://hamal.co.il/main/הותר-לפרסום-שריפה-פרצה-במסוף-לאחסון-מכולות-בחיפה-254360
-https://news.walla.co.il/break/3825143
-https://news.walla.co.il/break/3825144
+COUNTER:2
 https://hamal.co.il/main/צפו-לוחמי-הצנחנים-מאחלים-שבת-שלום-לכל-עם-ישראל-254369
 https://hamal.co.il/main/למען-עם-ישראל-עד-הניצחון-פקודת-הקשר-של-מחט-גולני-254368
 https://news.walla.co.il/break/3825147
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3825666
 https://news.walla.co.il/item/3825668
 https://hamal.co.il/main/דיווחים-בלבנון-צהל-שוב-תקף-גשר-בנהר-הליטני-255482
 https://hamal.co.il/main/דיווחים-באיראן-255483
+https://news.walla.co.il/item/3825672
+https://hamal.co.il/main/צפו-לוחמי-מגב-השיבו-סוס-255485
+https://hamal.co.il/main/צפו-רסיס-ענק-נפל-בחצר-בית-ספר-יסודי-בשומרון-255486
+https://hamal.co.il/main/המהלך-בלבנון-בידוד-הזירה-ותפיסת-255189
+https://hamal.co.il/main/וועדת-הכספים-אישרה-את-תקציב-המדינה-255487
