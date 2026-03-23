@@ -1,8 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3825157
-https://hamal.co.il/main/המשטרה-עורכת-סריקות-לאיתור-נפילות-באזור-ירושלים-254401
-https://hamal.co.il/main/תיעוד-נפילת-רסיסים-בירושלים-254404
-https://hamal.co.il/main/כבה-נפילה-של-פרטי-אמלח-ברובע-היהודי-בירושלים-254406
+COUNTER:10
 https://hamal.co.il/main/השחקן-המיתולוגי-צאק-נוריס-ווקר-הלך-לעולמו-254397
 https://hamal.co.il/main/נתניהו-קיים-היום-הערכת-מצב-ביטחונית-בפיקוד-המרכז-254408
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-254414
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-ה
 https://hamal.co.il/main/הזירה-באשקלון---ללא-נפגעים-בצהל-בודקים-255503
 https://hamal.co.il/main/לראשונה-כוחות-חטיבת-החשמונאים-פועלים-בלבנון--צפו-255504
 https://hamal.co.il/main/מפקד-פיקוד-255505
+https://news.walla.co.il/break/3825696
+https://news.walla.co.il/break/3825701
+https://news.walla.co.il/item/3825700
+https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-בכביש-6-מצבו-קשה-255506
