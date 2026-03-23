@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3825151
-https://news.walla.co.il/item/3825153
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254391
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-רסיסים-באזור-ירושלים-254399
+COUNTER:7
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-דיווחים-254400
 https://news.walla.co.il/break/3825155
 https://news.walla.co.il/break/3825157
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3825682
 https://news.walla.co.il/break/3825684
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255480
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255500
+https://news.walla.co.il/break/3825687
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255501
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255502
+https://hamal.co.il/main/הזירה-באשקלון---ללא-נפגעים-בצהל-בודקים-255503
