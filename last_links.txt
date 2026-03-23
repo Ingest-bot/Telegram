@@ -1,11 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/צפו-לוחמי-הצנחנים-מאחלים-שבת-שלום-לכל-עם-ישראל-254369
-https://hamal.co.il/main/למען-עם-ישראל-עד-הניצחון-פקודת-הקשר-של-מחט-גולני-254368
-https://news.walla.co.il/break/3825147
-https://hamal.co.il/main/הצהרת-דובר-צהל--ישיר-254283
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-254381
-https://hamal.co.il/main/חוסל-מפקד-מרכזי-במיניסטריון-המודיעין-בטהרן-254389
-https://news.walla.co.il/break/3825149
+COUNTER:4
 https://news.walla.co.il/break/3825151
 https://news.walla.co.il/item/3825153
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-באזורים-נרחבים-בישראל-254391
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צפו-לוחמי-מגב-השיבו-סוס-255485
 https://hamal.co.il/main/צפו-רסיס-ענק-נפל-בחצר-בית-ספר-יסודי-בשומרון-255486
 https://hamal.co.il/main/המהלך-בלבנון-בידוד-הזירה-ותפיסת-255189
 https://hamal.co.il/main/וועדת-הכספים-אישרה-את-תקציב-המדינה-255487
+https://news.walla.co.il/break/3825678
+https://news.walla.co.il/break/3825679
+https://news.walla.co.il/break/3825680
+https://news.walla.co.il/break/3825682
+https://news.walla.co.il/break/3825684
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-255480
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255500
