@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3825232
-https://hamal.co.il/main/אזעקות-באצבע-הגליל-בעקבות-שיגורים-מלבנון-254616
-https://news.walla.co.il/break/3825233
+COUNTER:20
 https://news.walla.co.il/item/3825235
 https://hamal.co.il/main/תיעוד-קשה-בארהב-דוור-תקף-ילד-חרדי-בן-4---והטיח-אותו-לרצפה-254620
 https://news.walla.co.il/break/3825239
@@ -499,3 +496,6 @@ https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הצורך-בה
 https://hamal.co.il/main/טראמפ-אנחנו-מנהלים-מומ-עם-איראן-הרבה-זמן-הפעם-הם-רציניים-255653
 https://hamal.co.il/main/דיווחים-בלבנון-תקיפות-במחוז-נבטיה-בדרום-המדינה-255660
 https://hamal.co.il/main/בזמן-שאנחנו-רצים-לממד---הם-שרים-ורוקדים-9-שב״חים-נעצרו-255587
+https://news.walla.co.il/item/3825820
+https://hamal.co.il/main/סקר-חמ״ל-לאור-הצהרת-טראמפ---האם-אתם-בעד-או-נגד-הפסקת-אש-255666
+https://hamal.co.il/main/רקטה-שנורתה-מלבנון-התפוצצה-בשטח-פתוח-ברמת-הגולן-255667
