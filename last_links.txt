@@ -1,9 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/item/3825186
-https://hamal.co.il/main/בריטניה-אישרה-לארהב-להשתמש-בבסיסיה-לתקיפות-באיראן-254473
-https://news.walla.co.il/break/3825188
-https://hamal.co.il/main/עולים-שלב-הפנטגון-נערך-לאפשרות-של-כניסה-קרקעית-לאיראן--דיו-254476
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-הארץ-254478
+COUNTER:27
 https://news.walla.co.il/break/3825192
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-שברי-יירוט-בעיר-במרכז-254505
 https://hamal.co.il/main/טראמפ-254507
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-ב
 https://news.walla.co.il/break/3825748
 https://news.walla.co.il/break/3825749
 https://hamal.co.il/main/באיראן-מכחישים-את-דברי-טראמפ-עוד-תבוסה-255524
+https://news.walla.co.il/break/3825757
+https://news.walla.co.il/break/3825758
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נוסף-בטהרן-255525
+https://hamal.co.il/main/איראן-ההודעה-של-טראמפ-255527
+https://hamal.co.il/main/בכיר-לשעבר-במוסד-הדיווחים-על-התכנית-להפלת-המשטר---פייק-מוחל-255526
