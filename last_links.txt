@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-עד-כה-לא-דווח-על-נפגעים-254612
-https://news.walla.co.il/break/3825231
+COUNTER:16
 https://hamal.co.il/main/גשם-סופות-רעמים---ושלג-בחרמון-שבת-חורפית--התחזית-254602
 https://hamal.co.il/main/דיווח-איראן-מוכנה-לאפשר-מעבר-לכלי-שיט-יפנים-במצרי-הורמוז-254613
 https://news.walla.co.il/break/3825232
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יו״ר-הפרלמנט-האיראני-מכחיש-לא-
 https://news.walla.co.il/break/3825819
 https://news.walla.co.il/item/3825816
 https://hamal.co.il/main/הציתה-את-דירתה-כשעשרות-דיירים-בפנים-השכן-נרצח-255646
+https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הצורך-בהרתחת-מים-בגבעת-שפירא-255648
+https://hamal.co.il/main/טראמפ-אנחנו-מנהלים-מומ-עם-איראן-הרבה-זמן-הפעם-הם-רציניים-255653
