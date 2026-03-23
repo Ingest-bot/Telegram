@@ -1,6 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-דיווחים-254400
-https://news.walla.co.il/break/3825155
+COUNTER:9
 https://news.walla.co.il/break/3825157
 https://hamal.co.il/main/המשטרה-עורכת-סריקות-לאיתור-נפילות-באזור-ירושלים-254401
 https://hamal.co.il/main/תיעוד-נפילת-רסיסים-בירושלים-254404
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3825687
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255501
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255502
 https://hamal.co.il/main/הזירה-באשקלון---ללא-נפגעים-בצהל-בודקים-255503
+https://hamal.co.il/main/לראשונה-כוחות-חטיבת-החשמונאים-פועלים-בלבנון--צפו-255504
+https://hamal.co.il/main/מפקד-פיקוד-255505
