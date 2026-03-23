@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3825240
 https://hamal.co.il/main/איראן-שיגרה-שני-טילים-בליסטיים-לבסיס-דייגו-גרסיה-254655
 https://news.walla.co.il/break/3825251
 https://news.walla.co.il/break/3825252
@@ -499,3 +498,4 @@ https://hamal.co.il/main/כוחות-צהל-עצרו-מחבלים-חמושים-מ
 https://hamal.co.il/main/נתניהו-על-המומ-״נשמור-על-האינטרסים-החיוניים-שלנו-בכל-מצב״-255692
 https://hamal.co.il/main/בעקבות-המתיחות-לופטהנזה-מאריכה-את-השעיית-הטיסות-לישראל-255687
 https://hamal.co.il/main/נשות-מילואימניקים-אין-זמן-לגיוס-חרדים-זה-הנושא-הכי-קריטי-255695
+https://news.walla.co.il/item/3825839
