@@ -1,9 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3825193
-https://hamal.co.il/main/רסיסים-נפלו-בקריית-אונו-ואלעד-לא-ידוע-על-נפגעים-254510
-https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרכם-לזירות-בהן-התקבלו-דיווחים-על-פגיעות-254511
-https://news.walla.co.il/break/3825194
-https://hamal.co.il/main/דיווחים-על-תקיפות-בבושהר-254515
+COUNTER:34
 https://hamal.co.il/main/במשטרה-מצביעים-על-שינוי-מגמתי-לטובה-ברמדאן-254503
 https://news.walla.co.il/break/3825200
 https://news.walla.co.il/item/3825198
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-ישראל-עודכנה-במומ---ותלך-
 https://hamal.co.il/main/טראמפ-לחץ-על-הברקס-הנפט-קורס-ב-12-הבורסות-בזינוק-255536
 https://hamal.co.il/main/יצילו-את-המשטר-אלו-המדינות-שתיווכו-בין-ארהב-לאיראן-255537
 https://hamal.co.il/main/נסע-על-קורקינט-לקבר-יוסף-אזרח-ישראלי-חולץ-משכם-255538
+https://news.walla.co.il/break/3825767
+https://news.walla.co.il/item/3825765
+https://hamal.co.il/main/טראמפ-איראן-רוצה-לסיים-את-המלחמה-תוך-5-ימים-255540
+https://hamal.co.il/main/ראשוני-חשד-לפגיעה-ישירה-בקש-255542
+https://hamal.co.il/main/הירי-לעבר-קריית-שמונה-פצוע-קשה-מ-255543
