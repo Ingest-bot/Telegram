@@ -1,8 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/מרכזי-254257
-https://news.walla.co.il/break/3825127
-https://news.walla.co.il/break/3825129
-https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-קריאות-על-נפגעים-254264
+COUNTER:26
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-המרכז-254268
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-254266
 https://hamal.co.il/main/כביש-4-נחסם-לתנועה-בעקבות-רכב-היברידי-בוער-254272
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3825631
 https://hamal.co.il/main/צה״ל-מבצע-ירי-ארטילרי-ברצועה-255450
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-255452
 https://hamal.co.il/main/אזעקות-הופעלו-מחיפה-ועד-לרמת-הגולן-255461
+https://news.walla.co.il/break/3825633
+https://hamal.co.il/main/הירי-לצפון-אין-דיווחים-על-נפילות-או-נפגעים-255462
+https://hamal.co.il/main/גשם-שלג---וסכנת-שטפונות--התחזית-255463
+https://hamal.co.il/main/ניו-יורק-2-הרוגים-ו-60-פצועים-בהתנגשות-מטוס-ברכב-כיבוי-255464
