@@ -1,9 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/הדי-פיצוצים-נשמעים-באזור-דימונה-254552
-https://news.walla.co.il/break/3825212
-https://news.walla.co.il/break/3825213
-https://hamal.co.il/main/הירי-לדרום-בשלב-זה-לא-התקבלו-דיווחים-במוקד-מדא-254555
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-254556
+COUNTER:6
 https://news.walla.co.il/break/3825223
 https://news.walla.co.il/break/3825224
 https://news.walla.co.il/break/3825226
@@ -499,3 +494,8 @@ https://hamal.co.il/main/גורם-ישראלי-זה-האיראני-הבכיר-ש
 https://hamal.co.il/main/ראשוני-צה״ל-תקף-לפני-זמן-קצר-מחבל-מיחידת-׳כוח-קדס׳-בביירות-255594
 https://news.walla.co.il/item/3825795
 https://hamal.co.il/main/כעת-התרעת-כטבם-בגליל-המערבי-255604
+https://news.walla.co.il/break/3825804
+https://news.walla.co.il/break/3825805
+https://hamal.co.il/main/בעקבות-ההגבלות-בנתבג-אל-על-תפעיל-רק-5-מכלל-טיסותיה-255607
+https://hamal.co.il/main/בזמן-שאנחנו-רצים-לממד---הם-שרים-ורוקדים-9-שבחים-נעצרו-255611
+https://hamal.co.il/main/מסתמן-וויטקוף-וקושנר-נערכים-לשיחות-מומ-עם-האיראנים-בפקיסטן-255614
