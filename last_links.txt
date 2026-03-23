@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3825207
-https://hamal.co.il/main/מירה-נואף-עברה-על-החוקים---ויצאה-מבית-האח-הגדול-254543
-https://news.walla.co.il/break/3825211
+COUNTER:2
 https://hamal.co.il/main/זוהו-שיגור-מאיראן-אזעקות-צפיות-בדקות-הקרובות-באזור-בדרום-254545
 https://hamal.co.il/main/אזעקות-הופעלו-באזור-דימונה-והסביבה-254550
 https://hamal.co.il/main/הדי-פיצוצים-נשמעים-באזור-דימונה-254552
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-היו-שיחות-חזקות-עם-איראן
 https://news.walla.co.il/item/3825791
 https://hamal.co.il/main/פרסום-ראשון-הפקת-האח-הגדול-הצמידו-למירה-נואף-מאבטח-255570
 https://hamal.co.il/main/נפילת-אמלח-בגליל-העליון-פצוע-קשה-וקל-בזירה-255572
+https://news.walla.co.il/break/3825793
+https://hamal.co.il/main/גורם-ישראלי-זה-האיראני-הבכיר-שארה״ב-מנהלת-מולו-את-המומ-255583
+https://hamal.co.il/main/ראשוני-צה״ל-תקף-לפני-זמן-קצר-מחבל-מיחידת-׳כוח-קדס׳-בביירות-255594
