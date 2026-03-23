@@ -1,10 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3825164
-https://news.walla.co.il/break/3825165
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-254434
-https://hamal.co.il/main/תיעוד-דרמטי-רגע-הנפילה-בכביש-431--צפו-254438
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-254440
-https://news.walla.co.il/break/3825168
+COUNTER:17
 https://hamal.co.il/main/שני-חשודים-בריגול-לאיראן-נעצרו-בבריטניה-ניסו-להיכנס-לבסיס-254412
 https://news.walla.co.il/break/3825170
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-254452
@@ -499,3 +493,9 @@ https://hamal.co.il/main/טילי-נט-סמוך-לגבול-כוחותינו-אי
 https://news.walla.co.il/break/3825706
 https://hamal.co.il/main/צפו-מעריץ-ישראלי-זרק-מעיל-לעבר-ליידי-גאגא---ונדהם-מאיך-שהגי-255511
 https://hamal.co.il/main/טובים-לשריר-7-ירקות-אביביים-עם-כמות-חלבון-מפתיעה-255477
+https://news.walla.co.il/break/3825711
+https://news.walla.co.il/break/3825712
+https://news.walla.co.il/break/3825720
+https://news.walla.co.il/item/3825717
+https://hamal.co.il/main/ליברמן-נגד-הרחבת-סמכויות-בתי-הדין-הרבניים-לא-ייאמן-255512
+https://hamal.co.il/main/נוסעים-על-טנדר-255513
