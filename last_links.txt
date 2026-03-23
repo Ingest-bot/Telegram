@@ -1,5 +1,4 @@
 COUNTER:17
-https://hamal.co.il/main/ראשוני-חשד-לאירוע-דריסה-בצפון-השומרון-254758
 https://hamal.co.il/main/מפקד-סנטקום-השמדנו-אלפי-מטרות-והצי-כמעט-לא-פעיל-254761
 https://news.walla.co.il/break/3825297
 https://news.walla.co.il/break/3825298
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3825864
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-255775
 https://hamal.co.il/main/צהל-בהודעת-פינוי-לתושבי-כפרים-בלבנון-255785
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255787
+https://news.walla.co.il/break/3825865
