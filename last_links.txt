@@ -1,7 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3825181
-https://news.walla.co.il/break/3825184
-https://news.walla.co.il/item/3825185
+COUNTER:24
 https://news.walla.co.il/item/3825186
 https://hamal.co.il/main/בריטניה-אישרה-לארהב-להשתמש-בבסיסיה-לתקיפות-באיראן-254473
 https://news.walla.co.il/break/3825188
@@ -499,3 +496,6 @@ https://hamal.co.il/main/קרב-ביבשה-אפשרי---צריך-להיות-מו
 https://hamal.co.il/main/טראמפ-התקיפות-על-תחנות-הכוח-באיראן-יידחו-ב-5-ימים-255519
 https://news.walla.co.il/break/3825746
 https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-255521
+https://news.walla.co.il/break/3825748
+https://news.walla.co.il/break/3825749
+https://hamal.co.il/main/באיראן-מכחישים-את-דברי-טראמפ-עוד-תבוסה-255524
