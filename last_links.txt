@@ -1,6 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/טיל-המצרר-מאיראן-27-זירות-נפילה-במרכז-8-בראשון-לציון-254653
-https://news.walla.co.il/item/3825249
+COUNTER:28
 https://news.walla.co.il/item/3825240
 https://hamal.co.il/main/איראן-שיגרה-שני-טילים-בליסטיים-לבסיס-דייגו-גרסיה-254655
 https://news.walla.co.il/break/3825251
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3825834
 https://news.walla.co.il/break/3825833
 https://hamal.co.il/main/כוחות-צהל-עצרו-מחבלים-חמושים-מיחידת-כוח-רדואן-בדרום-לבנון-255679
 https://hamal.co.il/main/נתניהו-על-המומ-״נשמור-על-האינטרסים-החיוניים-שלנו-בכל-מצב״-255692
+https://hamal.co.il/main/בעקבות-המתיחות-לופטהנזה-מאריכה-את-השעיית-הטיסות-לישראל-255687
+https://hamal.co.il/main/נשות-מילואימניקים-אין-זמן-לגיוס-חרדים-זה-הנושא-הכי-קריטי-255695
