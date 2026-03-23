@@ -1,9 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3825124
-https://news.walla.co.il/break/3825122
-https://news.walla.co.il/break/3825125
-https://news.walla.co.il/break/3825126
-https://hamal.co.il/main/פרשת-ויקרא-254234
+COUNTER:23
 https://hamal.co.il/main/מרכזי-254257
 https://news.walla.co.il/break/3825127
 https://news.walla.co.il/break/3825129
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3825630
 https://news.walla.co.il/break/3825631
 https://hamal.co.il/main/הסתיימה-סדרת-תקיפות-ברחבי-איראן-255449
 https://hamal.co.il/main/״שכב-על-הבטן״-תושב-חורה-שנהג-במהירות-מופרזת-וברכב-שנאסר-לשי-255448
+https://news.walla.co.il/break/3825632
+https://news.walla.co.il/item/3825631
+https://hamal.co.il/main/צה״ל-מבצע-ירי-ארטילרי-ברצועה-255450
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-הארץ-255452
+https://hamal.co.il/main/אזעקות-הופעלו-מחיפה-ועד-לרמת-הגולן-255461
