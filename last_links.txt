@@ -1,6 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/טראמפ-אם-נעזוב-עכשיו-הם-ישקמו-לנו-ולישראל-יש-מטרות-דומות-254453
-https://hamal.co.il/main/תיעוד-רגע-הנפילה-סמוך-למסגד-אל-אקצא-בירושלים--צפו-254456
+COUNTER:20
 https://hamal.co.il/main/צה״ל-תקף-אתרי-ייצור-טילים-כשבתוכם-פעלו-חיילים-של-המשטר-254460
 https://news.walla.co.il/item/3825173
 https://news.walla.co.il/break/3825179
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נוסעים-על-טנדר-255513
 https://news.walla.co.il/break/3825725
 https://hamal.co.il/main/ההע-255514
 https://hamal.co.il/main/מנהל-255515
+https://news.walla.co.il/item/3825728
+https://hamal.co.il/main/88-שנות-מחקר-חושפות-זה-הגורם-המפתיע-שמנבא-חיים-מאושרים-וברי-255472
