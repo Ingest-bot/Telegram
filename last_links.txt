@@ -1,5 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/השוהים-במרחב-המוגן-בקו-העימות-יכולים-לצאת-לצאת-254539
+COUNTER:38
 https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירה-במרכז-הארץ-254541
 https://news.walla.co.il/break/3825209
 https://news.walla.co.il/break/3825206
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3825780
 https://news.walla.co.il/break/3825782
 https://news.walla.co.il/break/3825783
 https://hamal.co.il/main/הצבא-עדכן-את-תושבי-קו-העימות-יש-לשהות-בסמוך-למרחב-מוגן-255557
+https://hamal.co.il/main/טראמפ-היו-שיחות-חזקות-עם-איראן-255564
