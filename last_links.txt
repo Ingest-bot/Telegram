@@ -1,8 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3825141
-https://news.walla.co.il/break/3825140
-https://news.walla.co.il/break/3825138
-https://news.walla.co.il/break/3825139
+COUNTER:38
 https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-254358
 https://hamal.co.il/main/בעקבות-מזג-האוויר-הכבישים-שנפתחו-לתנועה-ואלו-שעדיין-חסומים-254359
 https://hamal.co.il/main/הותר-לפרסום-שריפה-פרצה-במסוף-לאחסון-מכולות-בחיפה-254360
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3825657
 https://hamal.co.il/main/רקדו-ושמחו-בזמן-האזעקה-9-שבחים-נעצרו-ביבנה-255478
 https://hamal.co.il/main/נפלתם-בדרך-לממד-כך-תדעו-אם-מגיע-לכם-מענק-חד-פעמי-או-קצבה-ל-255192
 https://hamal.co.il/main/הסוד-של-הדיאטנים-הארוחה-הראשונה-שיכולה-לשנות-את-כל-היום-שלכ-255476
+https://news.walla.co.il/item/3825666
+https://news.walla.co.il/item/3825668
+https://hamal.co.il/main/דיווחים-בלבנון-צהל-שוב-תקף-גשר-בנהר-הליטני-255482
+https://hamal.co.il/main/דיווחים-באיראן-255483
