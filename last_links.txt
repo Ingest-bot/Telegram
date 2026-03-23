@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/כעת-אזעקות-בצפת-והסביבה-254693
-https://news.walla.co.il/break/3825271
-https://news.walla.co.il/break/3825273
+COUNTER:4
 https://news.walla.co.il/break/3825274
 https://hamal.co.il/main/דיווח-ראשוני-נפילה-במבנה-בצפת-לא-ידוע-על-נפגעים-254696
 https://hamal.co.il/main/החורף-טרם-סיים-לומר-את-דברו-שלג-כבד-באתר-החרמון-254697
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ליאוניד-רדבינסקי-הבעלים-של-או�
 https://hamal.co.il/main/חשבתם-ש-AI-יחסוך-לכם-זמן-מחקר-עולמי-חדש-מספר-סיפור-אחר-255596
 https://hamal.co.il/main/שורדת-פגיעות-טקסיות-חשפה-עברתי-התעללות-הריונות-וניסיון-רצח-255589
 https://hamal.co.il/main/פיצוצים-255735
+https://news.walla.co.il/item/3825849
+https://hamal.co.il/main/כרגע-לא-מתוכנן-ביקור-של-טראמפ-בישראל-ביום-העצמאות-255736
+https://hamal.co.il/main/גורם-פקיסטני-נציגים-אמריקניים-צפויים-להיפגש-עם-האיראנים-השב-255737
