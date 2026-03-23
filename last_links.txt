@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/הירי-מלבנון-פגיעה-ישירה-במבנה-במטולה-254679
-https://hamal.co.il/main/דיווחים-עימותים-בין-צהל-לחיזבאללה-בדרום-לבנון-254684
+COUNTER:2
 https://hamal.co.il/main/כעת-אזעקות-בצפת-והסביבה-254693
 https://news.walla.co.il/break/3825271
 https://news.walla.co.il/break/3825273
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3825847
 https://hamal.co.il/main/בעקבות-המלחמה-שורדי-שואה-ומשלחות-לא-יצאו-השנה-למצעד-החיים-255634
 https://hamal.co.il/main/ליאוניד-רדבינסקי-הבעלים-של-אונליפאנס-מת-בגיל-43-255729
 https://hamal.co.il/main/חשבתם-ש-AI-יחסוך-לכם-זמן-מחקר-עולמי-חדש-מספר-סיפור-אחר-255596
+https://hamal.co.il/main/שורדת-פגיעות-טקסיות-חשפה-עברתי-התעללות-הריונות-וניסיון-רצח-255589
+https://hamal.co.il/main/פיצוצים-255735
