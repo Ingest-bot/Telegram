@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3825223
-https://news.walla.co.il/break/3825224
-https://news.walla.co.il/break/3825226
-https://news.walla.co.il/break/3825228
-https://news.walla.co.il/break/3825229
+COUNTER:10
 https://news.walla.co.il/item/3825217
 https://news.walla.co.il/item/3825221
 https://news.walla.co.il/item/3825227
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3825805
 https://hamal.co.il/main/בעקבות-ההגבלות-בנתבג-אל-על-תפעיל-רק-5-מכלל-טיסותיה-255607
 https://hamal.co.il/main/בזמן-שאנחנו-רצים-לממד---הם-שרים-ורוקדים-9-שבחים-נעצרו-255611
 https://hamal.co.il/main/מסתמן-וויטקוף-וקושנר-נערכים-לשיחות-מומ-עם-האיראנים-בפקיסטן-255614
+https://news.walla.co.il/item/3825801
+https://hamal.co.il/main/פועל-נפל-מגובה-של-5-מטר-בנתניה-מצבו-קשה-255618
+https://hamal.co.il/main/בנט-בזמן-שהציבור-נלחם-הממשלה-מעבירה-2-מיליארד-שח-לישיבות-255623
+https://hamal.co.il/main/נועה-ארגמני-ואבינתן-אור-נפרדו-255626
+https://hamal.co.il/main/ראשוני-משאית-זבל-ובה-עשרות-שב״חים-נתפסה-במחסום-חיזמא-255629
