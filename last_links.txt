@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירה-במרכז-הארץ-254541
-https://news.walla.co.il/break/3825209
-https://news.walla.co.il/break/3825206
+COUNTER:0
 https://news.walla.co.il/break/3825207
 https://hamal.co.il/main/מירה-נואף-עברה-על-החוקים---ויצאה-מבית-האח-הגדול-254543
 https://news.walla.co.il/break/3825211
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3825782
 https://news.walla.co.il/break/3825783
 https://hamal.co.il/main/הצבא-עדכן-את-תושבי-קו-העימות-יש-לשהות-בסמוך-למרחב-מוגן-255557
 https://hamal.co.il/main/טראמפ-היו-שיחות-חזקות-עם-איראן-255564
+https://news.walla.co.il/item/3825791
+https://hamal.co.il/main/פרסום-ראשון-הפקת-האח-הגדול-הצמידו-למירה-נואף-מאבטח-255570
+https://hamal.co.il/main/נפילת-אמלח-בגליל-העליון-פצוע-קשה-וקל-בזירה-255572
