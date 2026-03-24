@@ -1,9 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3825308
-https://hamal.co.il/main/דניאל-פרץ-הגעתי-לשיא-הקריירה-שלי-זו-התאמה-מושלמת-254790
-https://hamal.co.il/main/דיווחים-בכלי-תקשורת-איראניים-על-פיצוצים-ליד-העיר-לנגרוד-בצפו-254791
-https://news.walla.co.il/break/3825310
-https://news.walla.co.il/break/3825311
+COUNTER:25
 https://news.walla.co.il/break/3825314
 https://hamal.co.il/main/מנכל-מדא-2-נפגעים-בעיר-מעלות-254801
 https://news.walla.co.il/break/3825315
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/מדא-בשלב-זה-לא-ידוע-על-נפגעים-255832
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255834
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-255837
+https://news.walla.co.il/break/3825871
+https://news.walla.co.il/break/3825872
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255854
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו-לסרוק-2-זירות-בבאר-שבע-255855
+https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרך-לזירות-נפילה-בדרום-הארץ-255856
