@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3825436
-https://news.walla.co.il/break/3825442
+COUNTER:22
 https://news.walla.co.il/break/3825433
 https://hamal.co.il/main/רכשו-נשק---והתאמנו-כדי-לבצע-פיגועי-255114
 https://hamal.co.il/main/לתת-מכל-הלב-צפו-בחלוקת-המארזים-לתושבי-הצפון-255119
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826060
 https://news.walla.co.il/item/3826058
 https://hamal.co.il/main/טיל-ששוגר-מאיראן-על-ידי-משטר-הטרור-האיראני-נפל-בביירות-256132
 https://hamal.co.il/main/מקרון-שוחח-עם-הרצוג-והביע-סולידריות-מלאה-עם-ישראל-256133
+https://news.walla.co.il/item/3826057
+https://hamal.co.il/main/דובר-צהל-חיסלנו-את-החולייה-שהייתה-אחראית-לשיגור-לערד-256135
