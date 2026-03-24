@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/דיווח-ראשוני-נפילת-רסיסים-במרכז-הארץ-כתוצאה-מהשיגור-255039
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255041
+COUNTER:0
 https://hamal.co.il/main/מדא-אין-דיווח-על-נפגעים-255043
 https://news.walla.co.il/item/3825397
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255047
@@ -499,3 +497,5 @@ https://hamal.co.il/main/תיעוד-מהמרפסת-תקיפות-בסאחל-על�
 https://news.walla.co.il/break/3826028
 https://news.walla.co.il/break/3826029
 https://hamal.co.il/main/בצה״ל-בודקים-אפשרות-שטיל-בליסטי-ששוגר-לעבר-ישראל-נפל-באיראן-256032
+https://news.walla.co.il/item/3826033
+https://hamal.co.il/main/דיווח-טיל-איראני-יורט-מצפון-לביירות---וכוון-לשגרירות-ארהב-256033
