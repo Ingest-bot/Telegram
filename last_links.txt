@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3825482
-https://news.walla.co.il/break/3825483
-https://hamal.co.il/main/מנהלת-הליגות-הודיעה-זה-התאריך-בו-ישובו-המשחקים-255171
+COUNTER:4
 https://hamal.co.il/main/הפגיעות-בערד-ובדימונה-הסיוע-של-מכבי-למפונים-255172
 https://hamal.co.il/main/צפו-כוחות-פיקוד-העורף-פועלים-בזירות-הפגיעה-במרכז-הארץ-255177
 https://hamal.co.il/main/רגע-קטן-של-אור-הפעילות-של-רמי-לוי-וחמל-למען-תושבי-הצפון-255133
@@ -499,3 +496,6 @@ https://hamal.co.il/main/האזעקות-באילת-בוצע-יירוט-מחוץ-
 https://hamal.co.il/main/אזעקות-הופעלו-באיזור-ירושלים-ובשפלה-256208
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-256209
 https://hamal.co.il/main/הקלפיות-לבחירות-החוזרות-בעכו-נסגרו-החלה-ספירת-הקולות-256210
+https://news.walla.co.il/item/3826097
+https://news.walla.co.il/item/3826096
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-256213
