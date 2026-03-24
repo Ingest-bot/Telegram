@@ -1,5 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/מנכל-מדא-2-נפגעים-בעיר-מעלות-254801
 https://news.walla.co.il/break/3825315
 https://news.walla.co.il/break/3825316
 https://hamal.co.il/main/פעילות-צהל-הסופש-באיראן-ולבנון-254803
@@ -499,3 +498,4 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו-לסרוק-2-זירות-בבאר-שבע-255855
 https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרך-לזירות-נפילה-בדרום-הארץ-255856
 https://news.walla.co.il/item/3825856
+https://news.walla.co.il/break/3825875
