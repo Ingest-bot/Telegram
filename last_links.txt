@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/תניהוהנחתי-את-מנכלית-משרדי-להגיש-את-מלוא-הסיוע-הנדרש-יחד-עם-254967
-https://hamal.co.il/main/בכיר-איראני-אחרי-הפגיעות-שמי-ישראל-חסרי-הגנה-254970
-https://hamal.co.il/main/במשקל-450-קג-תיעוד-מזירת-פגיעת-הטיל-האיראני-בערד-254972
+COUNTER:23
 https://news.walla.co.il/break/3825372
 https://news.walla.co.il/break/3825371
 https://news.walla.co.il/break/3825373
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נשיא-איראן-הודיע-זה-המחליף-של-�
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-בקריית-גת-255966
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255968
 https://hamal.co.il/main/הירי-לדרום-מספר-זירות-נפילה-בקריית-גת-אין-נפגעים-255969
+https://news.walla.co.il/break/3825986
+https://news.walla.co.il/break/3825985
+https://hamal.co.il/main/בניגוד-לעמדתו-של-בן-גביר-רינת-סבן-קודמה-לדרגת-סנצ-255970
