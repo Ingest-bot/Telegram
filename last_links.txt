@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/הלימודים-במועצה-האזורית-חוף-הכרמל-בוטלו-בעקבות-הירי-לדרום-יו-255029
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-255034
-https://hamal.co.il/main/מאירוע-נפילת-הטיל-בדימונה-פונו-60-פצועים-מאירוע-נפילת-הטיל-ב-255037
+COUNTER:39
 https://hamal.co.il/main/דיווח-ראשוני-נפילת-רסיסים-במרכז-הארץ-כתוצאה-מהשיגור-255039
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255041
 https://hamal.co.il/main/מדא-אין-דיווח-על-נפגעים-255043
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826021
 https://news.walla.co.il/break/3826023
 https://news.walla.co.il/item/3826022
 https://hamal.co.il/main/תיעוד-מהמרפסת-תקיפות-בסאחל-עלמא-לבנון-256030
+https://news.walla.co.il/break/3826028
+https://news.walla.co.il/break/3826029
+https://hamal.co.il/main/בצה״ל-בודקים-אפשרות-שטיל-בליסטי-ששוגר-לעבר-ישראל-נפל-באיראן-256032
