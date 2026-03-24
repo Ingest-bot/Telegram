@@ -1,8 +1,4 @@
 COUNTER:9
-https://news.walla.co.il/break/3825487
-https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בערד-קרה-פה-נס-255179
-https://hamal.co.il/main/תיעוד-דרמטי-רגע-הפגיעה-ברכב-סמוך-לכיכר-הבימה-255180
-https://news.walla.co.il/break/3825494
 https://hamal.co.il/main/נשק-צבאי-שאיראן-הפכה-לאמצעי-טרור-מה-הם-טילי-מצרר-ועד-כמה-הם-255121
 https://news.walla.co.il/break/3825499
 https://news.walla.co.il/break/3825501
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ראש-עיר-חדש-לעכו-מטה-אוהד-שגב-מ
 https://hamal.co.il/main/דקות-אחרי-יירוט-השיגור-זוהה-שוב-ירי-לאילת-256220
 https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-משטר-הטרור-האיראני-בטהרן-256221
 https://hamal.co.il/main/לא-זוהה-שיגור-נוסף-לאילת---מדובר-בתקלה-256222
+https://news.walla.co.il/break/3826101
+https://news.walla.co.il/break/3826102
+https://news.walla.co.il/break/3826103
+https://news.walla.co.il/break/3826104
