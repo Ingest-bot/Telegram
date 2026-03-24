@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3825394
-https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-בשל-חשש-לחדירת-כטבם-255022
-https://news.walla.co.il/break/3825395
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-255028
+COUNTER:38
 https://hamal.co.il/main/הלימודים-במועצה-האזורית-חוף-הכרמל-בוטלו-בעקבות-הירי-לדרום-יו-255029
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-255034
 https://hamal.co.il/main/מאירוע-נפילת-הטיל-בדימונה-פונו-60-פצועים-מאירוע-נפילת-הטיל-ב-255037
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3826019
 https://hamal.co.il/main/חשד-לרצח-בריינה-נקבע-מותה-של-אישה-שזהותה-טרם-ידועה-256013
 https://hamal.co.il/main/נסחף-בנהר-הירדן-נמצא-אדם-256021
 https://hamal.co.il/main/בהמשך-לירי-לעבר-דרם-מדינת-ישראל-לא-התקבלו-קריאות-מדא-256027
+https://news.walla.co.il/break/3826021
+https://news.walla.co.il/break/3826023
+https://news.walla.co.il/item/3826022
+https://hamal.co.il/main/תיעוד-מהמרפסת-תקיפות-בסאחל-עלמא-לבנון-256030
