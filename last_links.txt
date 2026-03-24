@@ -1,9 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3825343
-https://news.walla.co.il/break/3825344
-https://hamal.co.il/main/ראש-ה-FBI-לשעבר-מת-טראמפ-שנחקר-על-ידו-חגג-אני-שמח-254877
-https://hamal.co.il/main/פיגוע-בשומרון-צעיר-כבן-18-נרצח-בשבת-בפיגוע-דריסה-סמוך-לחומש-254880
-https://news.walla.co.il/item/3825347
+COUNTER:6
 https://hamal.co.il/main/צהל-על-אירוע-הדריסה-בשומרון-עדיין-נבדק-החשד-לפיגוע-254882
 https://hamal.co.il/main/נשארה-בסלון-בזמן-אזעקה-בדימונה-וניצלה-בנס-254883
 https://news.walla.co.il/item/3825346
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ערביי-יוש-ביצעו-לינץ-בנער-יהוד
 https://news.walla.co.il/item/3825936
 https://hamal.co.il/main/20-רקטות-שוגרו-מלבנון-דיווח-על-מספר-255919
 https://hamal.co.il/main/המטח-הכבד-לצפון-עד-כה-לא-דווח-על-נפגעים--תיעוד-היירוטים-255923
+https://news.walla.co.il/break/3825942
+https://news.walla.co.il/break/3825944
+https://hamal.co.il/main/צפו-צהל-תקף-תחנת-שידור-ומפקדות-של-חיזבאללה-בלבנון-255925
+https://hamal.co.il/main/מסתמן-המצב-המיוחד-בעורף-יוארך-לעוד-3-שבועות-255926
+https://hamal.co.il/main/טרגדיה-בזמן-האזעקה-ירדו-למקלט-בבת-ים---ומצאו-צעיר-ללא-רוח-ח-255927
