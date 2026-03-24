@@ -1,6 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3825315
-https://news.walla.co.il/break/3825316
+COUNTER:27
 https://hamal.co.il/main/פעילות-צהל-הסופש-באיראן-ולבנון-254803
 https://hamal.co.il/main/כותרות-השבת-254809
 https://hamal.co.il/main/צהל-דיווחים-על-פגיעות-בצפון-הארץ-254810
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו
 https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרך-לזירות-נפילה-בדרום-הארץ-255856
 https://news.walla.co.il/item/3825856
 https://news.walla.co.il/break/3825875
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-255858
+https://hamal.co.il/main/ראשוני-דיווח-על-נפילות-בתל-אביב-255876
