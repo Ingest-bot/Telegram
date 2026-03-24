@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/הנפילות-בתא-גבר-כבן-53-נפצע-באורח-קשה-255168
-https://hamal.co.il/main/הנפילה-בפת-חימוש-מתפצל-פגע-במחסן-אין-נפגעים--תיעוד-255169
-https://news.walla.co.il/break/3825479
+COUNTER:1
 https://news.walla.co.il/break/3825480
 https://news.walla.co.il/break/3825481
 https://news.walla.co.il/break/3825482
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חוק-עונש-מוות-למחבלים-אושר-בוו
 https://news.walla.co.il/item/3826091
 https://hamal.co.il/main/נשבר-הלב-נוריאל-דובין-בת-ה-27-היא-הנרצחת-מירי-חיזבאללה-256177
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-256179
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-256188
+https://hamal.co.il/main/האזעקות-באילת-בוצע-יירוט-מחוץ-למרחב-ללא-נפילות-256206
+https://hamal.co.il/main/אזעקות-הופעלו-באיזור-ירושלים-ובשפלה-256208
