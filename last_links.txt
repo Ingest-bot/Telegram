@@ -1,8 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-255091
-https://hamal.co.il/main/המשטרה-גופה-נפלטה-מהחוף-באשקלון-זהות-האדם-טרם-התבררה-255092
-https://news.walla.co.il/break/3825412
-https://news.walla.co.il/break/3825411
+COUNTER:17
 https://news.walla.co.il/break/3825410
 https://news.walla.co.il/break/3825417
 https://hamal.co.il/main/הטיל-ששוגר-מאיראן-יורט-הדי-פיצוצים-נשמעו-במרכז-255103
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3826048
 https://hamal.co.il/main/נקבע-מותה-של-הצעירה-שנפצעה-אנוש-במטח-האחרון-לצפון-256107
 https://hamal.co.il/main/חייל-המילואים-שטבע-בירדן-כשניסה-להציל-את-בנו-אוריה-סרוסי-256110
 https://hamal.co.il/main/שיגור-מאיראן-לצפון-הארץ-256111
+https://news.walla.co.il/item/3826050
+https://hamal.co.il/main/מפקד-בכיר-בצבא-ארהב-קיבל-הוראה-להיערך-לפריסה-למזרח-התיכון-256120
+https://hamal.co.il/main/ראשוני-חשד-לנפילה-בצפון-256122
+https://hamal.co.il/main/מקום-הפגיעה-בכביש-90-שבו-נהרגה-האישה-256125
