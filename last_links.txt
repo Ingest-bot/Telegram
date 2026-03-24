@@ -1,11 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/אחד-התושבים-שביתו-נפגע-הבתים-נחרבו-לגמרי---פינינו-אנשים-254958
-https://news.walla.co.il/break/3825365
-https://hamal.co.il/main/במדא-מעדכנים-59-נפגעים---6-פצועים-במצב-קשה-254959
-https://hamal.co.il/main/מס-הנפגעים-עלה-ל-64--7-פצועים-במצב-קשה-254960
-https://hamal.co.il/main/בעקבות-האירוע-בערד-בוטלו-הלימודים-הפרונטלים-בדרום-הארץ-254961
-https://news.walla.co.il/break/3825366
-https://news.walla.co.il/break/3825367
+COUNTER:20
 https://news.walla.co.il/item/3825369
 https://hamal.co.il/main/הטלוויזיה-האיראנית-מכחישה-כי-פורסמה-התרעת-פינוי-רשמית-לדוחא-254966
 https://hamal.co.il/main/תניהוהנחתי-את-מנכלית-משרדי-להגיש-את-מלוא-הסיוע-הנדרש-יחד-עם-254967
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3825967
 https://news.walla.co.il/item/3825968
 https://hamal.co.il/main/גורם-ישראלי-יש-סיכוי-להסכם-עם-איראן-אך-ייתכן-ומדובר-בהונאה-255949
 https://hamal.co.il/main/צהל-השלמנו-גל-255950
+https://news.walla.co.il/break/3825970
+https://news.walla.co.il/item/3825973
+https://news.walla.co.il/item/3825978
+https://hamal.co.il/main/גורם-ישראלי-יש-היתכנות-להסכם-עם-איראן-גיא-אלסטר-3-גורם-יש-255963
+https://hamal.co.il/main/ממשלת-לבנון-בהחלטה-דרמטית-שגריר-איראן-גורש-מהמדינה-255965
+https://hamal.co.il/main/נשיא-איראן-הודיע-זה-המחליף-של-עלי-לריגאני-255964
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-בקריית-גת-255966
