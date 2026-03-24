@@ -1,6 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/גורם-ביטחוני-צה״ל-מתכוון-לתקף-מחדש-את-מדיניות-היירוט-254861
-https://hamal.co.il/main/הרמטכל-בצפון-לא-נחזור-לסבבים---נרחיק-את-האיום-254856
+COUNTER:39
 https://news.walla.co.il/item/3825334
 https://hamal.co.il/main/אחרי-ההדחה-הדרמטית-מירה-נואף-פונתה-לבית-החולים-254865
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-254867
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3825907
 https://hamal.co.il/main/מדא-על-הירי-לדרום-255898
 https://hamal.co.il/main/תיעוד-רסיס-ענק-נפל-בשומרון-255899
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-255901
+https://hamal.co.il/main/צהל-תקפנו-255902
+https://hamal.co.il/main/החורף-255881
