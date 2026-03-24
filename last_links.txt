@@ -1,11 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3825326
-https://hamal.co.il/main/שריפה-פרצה-כתוצאה-מנפילה-בבית-בכפר-ורדים-254852
-https://hamal.co.il/main/דימונה-2-פצועים-במצב-בינוני-254853
-https://news.walla.co.il/break/3825328
-https://hamal.co.il/main/הערוץ-הסעודי-אל-חדת׳-מדווח-על-6-פיצוצים-באספהאן-254858
-https://hamal.co.il/main/מדא-מצב-הפצועים-בזירות-השונות-בדימונה-254859
-https://hamal.co.il/main/סורוקה-מצב-הילד-מפגיעת-הטיל-בדימונה---קשה-254860
+COUNTER:37
 https://hamal.co.il/main/גורם-ביטחוני-צה״ל-מתכוון-לתקף-מחדש-את-מדיניות-היירוט-254861
 https://hamal.co.il/main/הרמטכל-בצפון-לא-נחזור-לסבבים---נרחיק-את-האיום-254856
 https://news.walla.co.il/item/3825334
@@ -499,3 +492,10 @@ https://hamal.co.il/main/המשטרה-מבנה-בתל-אביב-ספג-פגיעה
 https://hamal.co.il/main/בן-גביר-לא-חתם-על-המינוי-של-רינת-סבן-וערער-255884
 https://hamal.co.il/main/תיעוד-כוחות-פיקוד-העורף-פועלים-בזירת-הנפילה-בתא-255886
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-255888
+https://news.walla.co.il/break/3825903
+https://news.walla.co.il/break/3825905
+https://news.walla.co.il/item/3825906
+https://news.walla.co.il/item/3825907
+https://hamal.co.il/main/מדא-על-הירי-לדרום-255898
+https://hamal.co.il/main/תיעוד-רסיס-ענק-נפל-בשומרון-255899
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-255901
