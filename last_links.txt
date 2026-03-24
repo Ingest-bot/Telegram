@@ -1,9 +1,4 @@
 COUNTER:30
-https://hamal.co.il/main/3-לוחמים-פצועים-כתוצאה-מחילופי-אש-מול-חיזבאללה-בלבנון-254811
-https://news.walla.co.il/item/3825319
-https://hamal.co.il/main/פגיעה-ישירה-במעלות---צפו-בתיעוד-254823
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-בבית-בדימונה-254825
-https://hamal.co.il/main/דיווח-על-קריסת-מבנה-בדימונה-כתוצאה-מפגיעת-פריט-אמל״ח-254829
 https://hamal.co.il/main/קריסת-המבנה-בדימונה-3-פצועים-קל-ומספר-נפגעי-חרדה-254831
 https://hamal.co.il/main/מדא-20-נפגעים-מרסיסים-בדימונה-254845
 https://hamal.co.il/main/סטטיסטיקת-נפגעים-וזירות-לחימה--מצב-מלחמה-254846
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ראשוני-דיווח-על-נפילות-בתל-אבי
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255878
 https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-4-זירות-נפילה-בתא-4-פצועים-בעקבות-255879
 https://hamal.co.il/main/הירי-מאיראן-שריפות-פרצו-בשטחים-פתוחים-סמוך-לנתניה-וראש-העין-255880
+https://news.walla.co.il/break/3825881
+https://news.walla.co.il/break/3825882
+https://news.walla.co.il/break/3825886
+https://news.walla.co.il/break/3825883
+https://news.walla.co.il/item/3825829
