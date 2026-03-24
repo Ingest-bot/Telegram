@@ -1,5 +1,4 @@
 COUNTER:30
-https://hamal.co.il/main/קריסת-המבנה-בדימונה-3-פצועים-קל-ומספר-נפגעי-חרדה-254831
 https://hamal.co.il/main/מדא-20-נפגעים-מרסיסים-בדימונה-254845
 https://hamal.co.il/main/סטטיסטיקת-נפגעים-וזירות-לחימה--מצב-מלחמה-254846
 https://hamal.co.il/main/מדא-ילד-כבן-10-במצב-בינוני-בדימונה-254847
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3825882
 https://news.walla.co.il/break/3825886
 https://news.walla.co.il/break/3825883
 https://news.walla.co.il/item/3825829
+https://news.walla.co.il/break/3825889
