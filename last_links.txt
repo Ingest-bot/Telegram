@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3825372
-https://news.walla.co.il/break/3825371
-https://news.walla.co.il/break/3825373
-https://hamal.co.il/main/מנכל-מדא-שיגרנו-עשרות-אמבולנסים-ומסוקים-שהוקפצו-לזירה-254976
+COUNTER:24
 https://hamal.co.il/main/דובר-צהל-מערכות-ההגנה-פעלו---אך-לא-יירטו-את-הטיל-254978
 https://hamal.co.il/main/48-נפגעים-קל-16-בינוני-7-קשה--מתוך-הפצועים-בינוני-3-נוספ-254979
 https://hamal.co.il/main/השר-בן-גביר-בזירה-חייבים-להמשיך-לכתוש-ולנצח-את-ראש-השטן-254980
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הירי-לדרום-מספר-זירות-נפילה-בק
 https://news.walla.co.il/break/3825986
 https://news.walla.co.il/break/3825985
 https://hamal.co.il/main/בניגוד-לעמדתו-של-בן-גביר-רינת-סבן-קודמה-לדרגת-סנצ-255970
+https://news.walla.co.il/break/3825995
+https://news.walla.co.il/break/3825997
+https://news.walla.co.il/item/3825996
+https://hamal.co.il/main/הותר-לפרסום-2-אחים-מי-ם-מואשמים-בריגול-למען-איראן-255971
