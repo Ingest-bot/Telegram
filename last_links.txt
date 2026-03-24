@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3825340
-https://hamal.co.il/main/נתניהו-שוחח-עם-ראש-עיריית-דימונה-וראש-עיריית-ראשלצ-254871
+COUNTER:1
 https://hamal.co.il/main/דיווח-ברויטרס-על-תקיפות-ליד-שדה-התעופה-בבגדאד-254873
 https://news.walla.co.il/break/3825341
 https://news.walla.co.il/break/3825342
@@ -499,3 +497,5 @@ https://hamal.co.il/main/החורף-255881
 https://news.walla.co.il/break/3825918
 https://news.walla.co.il/break/3825922
 https://news.walla.co.il/item/3825920
+https://hamal.co.il/main/השר-עמיחי-אליהו-העביר-את-חוות-דעתו-על-בקשת-החנינה-לנשיא-255906
+https://hamal.co.il/main/ערביי-יוש-ביצעו-לינץ-בנער-יהודי-אי-255907
