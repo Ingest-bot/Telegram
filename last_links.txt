@@ -1,6 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3825480
-https://news.walla.co.il/break/3825481
+COUNTER:3
 https://news.walla.co.il/break/3825482
 https://news.walla.co.il/break/3825483
 https://hamal.co.il/main/מנהלת-הליגות-הודיעה-זה-התאריך-בו-ישובו-המשחקים-255171
@@ -499,3 +497,5 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-256179
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-256188
 https://hamal.co.il/main/האזעקות-באילת-בוצע-יירוט-מחוץ-למרחב-ללא-נפילות-256206
 https://hamal.co.il/main/אזעקות-הופעלו-באיזור-ירושלים-ובשפלה-256208
+https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-256209
+https://hamal.co.il/main/הקלפיות-לבחירות-החוזרות-בעכו-נסגרו-החלה-ספירת-הקולות-256210
