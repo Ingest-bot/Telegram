@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3825410
-https://news.walla.co.il/break/3825417
-https://hamal.co.il/main/הטיל-ששוגר-מאיראן-יורט-הדי-פיצוצים-נשמעו-במרכז-255103
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילת-שברי-יירוט-סמוך-לכפר-קאסם-255106
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255108
+COUNTER:19
 https://news.walla.co.il/break/3825428
 https://news.walla.co.il/break/3825427
 https://hamal.co.il/main/עוברים-את-הגדר---ונעצרים-19-שבחים-נתפסו-במזרח-י-ם--תיעוד-255112
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826050
 https://hamal.co.il/main/מפקד-בכיר-בצבא-ארהב-קיבל-הוראה-להיערך-לפריסה-למזרח-התיכון-256120
 https://hamal.co.il/main/ראשוני-חשד-לנפילה-בצפון-256122
 https://hamal.co.il/main/מקום-הפגיעה-בכביש-90-שבו-נהרגה-האישה-256125
+https://news.walla.co.il/break/3826054
+https://news.walla.co.il/break/3826053
+https://news.walla.co.il/break/3826051
+https://hamal.co.il/main/הירי-לצפון-2-פצועים-מרסיסי-זכוכיות-במצב-קל-256126
+https://hamal.co.il/main/רגע-הנפילה-של-הטיל-האיראני-בצפת-256130
