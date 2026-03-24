@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3825392
-https://news.walla.co.il/break/3825393
-https://news.walla.co.il/item/3825384
+COUNTER:34
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחשש-לחדירת-כטבם-255011
 https://hamal.co.il/main/אזעקות-הופעלו-במרגליות-שבצפון-255017
 https://hamal.co.il/main/ערב-הסעודית-שלושה-טילים-שוגרו-לעבר-הבירה-ריאד-אחד-יורט-255018
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826014
 https://news.walla.co.il/item/3826010
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-255994
 https://hamal.co.il/main/הנפילה-בפזורה-4-נפצעו-בהם-בן-30-באורח-בינוני-255995
+https://news.walla.co.il/break/3826016
+https://hamal.co.il/main/לבנון-כוחותינו-חיסלו-8-מחבלים---והשמידו-את-הפיר-ממנו-יצאו-256003
+https://hamal.co.il/main/דיווח-על-שיגור-נוסף-מאיראן-לדרום-הארץ-256006
