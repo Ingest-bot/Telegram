@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/דיווח-ברויטרס-על-תקיפות-ליד-שדה-התעופה-בבגדאד-254873
-https://news.walla.co.il/break/3825341
-https://news.walla.co.il/break/3825342
+COUNTER:3
 https://news.walla.co.il/break/3825343
 https://news.walla.co.il/break/3825344
 https://hamal.co.il/main/ראש-ה-FBI-לשעבר-מת-טראמפ-שנחקר-על-ידו-חגג-אני-שמח-254877
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3825922
 https://news.walla.co.il/item/3825920
 https://hamal.co.il/main/השר-עמיחי-אליהו-העביר-את-חוות-דעתו-על-בקשת-החנינה-לנשיא-255906
 https://hamal.co.il/main/ערביי-יוש-ביצעו-לינץ-בנער-יהודי-אי-255907
+https://news.walla.co.il/item/3825936
+https://hamal.co.il/main/20-רקטות-שוגרו-מלבנון-דיווח-על-מספר-255919
+https://hamal.co.il/main/המטח-הכבד-לצפון-עד-כה-לא-דווח-על-נפגעים--תיעוד-היירוטים-255923
