@@ -1,8 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/הפגיעות-בערד-ובדימונה-הסיוע-של-מכבי-למפונים-255172
-https://hamal.co.il/main/צפו-כוחות-פיקוד-העורף-פועלים-בזירות-הפגיעה-במרכז-הארץ-255177
-https://hamal.co.il/main/רגע-קטן-של-אור-הפעילות-של-רמי-לוי-וחמל-למען-תושבי-הצפון-255133
-https://news.walla.co.il/break/3825489
+COUNTER:8
 https://news.walla.co.il/break/3825488
 https://news.walla.co.il/break/3825487
 https://hamal.co.il/main/נתניהו-בזירת-הנפילה-בערד-קרה-פה-נס-255179
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הקלפיות-לבחירות-החוזרות-בעכו-�
 https://news.walla.co.il/item/3826097
 https://news.walla.co.il/item/3826096
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-256213
+https://hamal.co.il/main/יורט-בהצלחה-הטיל-ששוגר-לאילת-256217
+https://hamal.co.il/main/ראש-עיר-חדש-לעכו-מטה-אוהד-שגב-מכריז-על-ניצחון-256218
+https://hamal.co.il/main/דקות-אחרי-יירוט-השיגור-זוהה-שוב-ירי-לאילת-256220
+https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-משטר-הטרור-האיראני-בטהרן-256221
