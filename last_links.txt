@@ -1,7 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/item/3825334
-https://hamal.co.il/main/אחרי-ההדחה-הדרמטית-מירה-נואף-פונתה-לבית-החולים-254865
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-254867
 https://news.walla.co.il/break/3825340
 https://hamal.co.il/main/נתניהו-שוחח-עם-ראש-עיריית-דימונה-וראש-עיריית-ראשלצ-254871
 https://hamal.co.il/main/דיווח-ברויטרס-על-תקיפות-ליד-שדה-התעופה-בבגדאד-254873
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-רסיס-ענק-נפל-בשומרון-255899
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-255901
 https://hamal.co.il/main/צהל-תקפנו-255902
 https://hamal.co.il/main/החורף-255881
+https://news.walla.co.il/break/3825918
+https://news.walla.co.il/break/3825922
+https://news.walla.co.il/item/3825920
