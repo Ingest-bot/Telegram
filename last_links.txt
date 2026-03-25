@@ -1,13 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255502
-https://hamal.co.il/main/הזירה-באשקלון---ללא-נפגעים-בצהל-בודקים-255503
-https://hamal.co.il/main/לראשונה-כוחות-חטיבת-החשמונאים-פועלים-בלבנון--צפו-255504
-https://hamal.co.il/main/מפקד-פיקוד-255505
-https://news.walla.co.il/break/3825696
-https://news.walla.co.il/break/3825701
-https://news.walla.co.il/item/3825700
-https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-בכביש-6-מצבו-קשה-255506
-https://hamal.co.il/main/הטעויות-האסטרטגיות-של-המשטר-האיראני-שמובילות-אותו-אל-התהום-255507
+COUNTER:27
 https://hamal.co.il/main/ראיתי-רכב-חצי-בוער---מאחוריו-אנשים-עמדו-בתור-להזמין-סנדוויץ-255508
 https://hamal.co.il/main/טילי-נט-סמוך-לגבול-כוחותינו-איתרו-מצבור-אמלח-בדרום-לבנון-255510
 https://news.walla.co.il/break/3825706
@@ -499,3 +490,12 @@ https://hamal.co.il/main/אזעקות-נשמעו-במטולה-256560
 https://hamal.co.il/main/דיווח-רה״מ-הורה-להאיץ-את-התקיפות-באיראן-ונתן-לצהל-48-שעות-256564
 https://hamal.co.il/main/אזעקות-בצפון-הגולן-256567
 https://hamal.co.il/main/לא-העת-להטריל-החוק-של-לפיד-להגדרת-קטאר-כמדינת-איוב-נפל-256495
+https://news.walla.co.il/break/3826328
+https://news.walla.co.il/break/3826331
+https://news.walla.co.il/break/3826332
+https://news.walla.co.il/break/3826334
+https://news.walla.co.il/break/3826333
+https://hamal.co.il/main/זיו-אגמון-מודיעי-על-סיום-תפקידו-ופרישה-מהחיים-הציבוריים-256572
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-וסביבתה-256579
+https://hamal.co.il/main/גורם-ביטחוני-״ישראל-לא-תסכים-להקפאת-הגרעין-רק-לחיסול-מוחלט-256573
+https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-256581
