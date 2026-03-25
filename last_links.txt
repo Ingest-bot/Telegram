@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/בזמן-האזעקות-כלב-קפץ-בבהלה-לנחל-איילון---וחולץ-בהצלחה-255323
-https://news.walla.co.il/break/3825556
-https://news.walla.co.il/item/3825558
-https://hamal.co.il/main/ההתראות-על-כלי-טיס-שחדר-מלבנון-בגליל-שווא-255325
-https://news.walla.co.il/item/3825557
+COUNTER:1
 https://hamal.co.il/main/עוד-אחת-לאוסף-רז-הרשקו-זכתה-בזהב-בטבילסי-עם-איפון-נפלא-255337
 https://news.walla.co.il/item/3825565
 https://hamal.co.il/main/הרמטכל-באישור-תכניות-בפיקוד-הצפון-המערכה-מול-חיזבאללה-רק-255351
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826178
 https://hamal.co.il/main/בתום-מרדף-יורט-הכטבם-שחדר-לצפון-256343
 https://hamal.co.il/main/שיגרו-רקטות---וניסו-לברוח-כלי-טיס-של-חיל-האוויר-זיהו-וחיסלו-256346
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255905
+https://news.walla.co.il/item/3826186
+https://news.walla.co.il/item/3826183
+https://hamal.co.il/main/אחרי-האזעקות-זוהה-שיגור-נוסף-מאיראן-256355
+https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-הופעלו-באצבע-הגליל-256357
+https://hamal.co.il/main/הירי-מאיראן-256359
