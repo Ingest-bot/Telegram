@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-בין-רכב-למשאית-בכביש-6-255404
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-255406
-https://hamal.co.il/main/שוב-טיל-מצרר-שוגר-למרכז-הארז-צוותים-סורקים-זירה-בגני-תקווה-255423
-https://hamal.co.il/main/דיווח-בעזה-סוכל-מפקד-בכיר-בג׳יהאד-האסלאמי-255424
-https://hamal.co.il/main/מד״א-לא-ידוע-על-נפגעים-או-נפילות-255425
+COUNTER:21
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255428
 https://news.walla.co.il/break/3825612
 https://news.walla.co.il/break/3825614
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826241
 https://news.walla.co.il/item/3826244
 https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-בטהרן-256411
 https://hamal.co.il/main/צהל-חיסלנו-256415
+https://news.walla.co.il/break/3826249
+https://news.walla.co.il/item/3826251
+https://hamal.co.il/main/דיווחים-באיראן-בכיר-בצי-חוסל-256410
+https://hamal.co.il/main/פרסום-ראשון-צהל-חיסל-למעלה-מ-60-מחבלים-ברצועת-עזה-256416
+https://hamal.co.il/main/האזעקות-בקריית-שמונה-דיווח-על-נפילה-בעיר-256421
