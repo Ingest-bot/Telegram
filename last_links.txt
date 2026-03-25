@@ -1,6 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/צהל-השמיד-מעבר-מעל-נהר-הליטאני-המשמש-את-מחבלי-חיזבאללה-255384
-https://news.walla.co.il/break/3825600
+COUNTER:14
 https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-בתאונת-דרכים-בכביש-6-255387
 https://hamal.co.il/main/בלחיצת-כפתור-הנשק-האיראני-שמבודד-100-מיליון-אזרחים-255350
 https://news.walla.co.il/item/3825596
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מתווה-הפיצויים-למעונות-ולגנים
 https://hamal.co.il/main/כץ-אישרנו-256392
 https://news.walla.co.il/break/3826222
 https://news.walla.co.il/break/3826228
+https://news.walla.co.il/break/3826231
+https://hamal.co.il/main/בכיר-איראני-מאשר-מסמך-הצעת-הפסקת-האש-הועבר-לידינו-256398
