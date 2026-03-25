@@ -1,13 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/אזעקות-הופעלו-מחיפה-ועד-לרמת-הגולן-255461
-https://news.walla.co.il/break/3825633
-https://hamal.co.il/main/הירי-לצפון-אין-דיווחים-על-נפילות-או-נפגעים-255462
-https://hamal.co.il/main/גשם-שלג---וסכנת-שטפונות--התחזית-255463
-https://hamal.co.il/main/ניו-יורק-2-הרוגים-ו-60-פצועים-בהתנגשות-מטוס-ברכב-כיבוי-255464
-https://hamal.co.il/main/שברי-יירוט-זוהו-בצפת-אין-נפגעים-255468
-https://hamal.co.il/main/הגבר-עזב-למילואים---פורץ-השחית-את-ביתו-255469
-https://hamal.co.il/main/תרגיל-צבאי-יתקיים-היום-בפרדס-חנה-כרכור-255470
-https://hamal.co.il/main/פשע-אנטישמי-בלונדון-4-אמבולנסים-של-הארגון-החרדי-הוצתו-255471
+COUNTER:1
 https://news.walla.co.il/break/3825635
 https://news.walla.co.il/break/3825636
 https://news.walla.co.il/break/3825638
@@ -499,3 +490,12 @@ https://hamal.co.il/main/תיעוד-לוחמי-מג״ב-איו״ש-עצרו-חש
 https://hamal.co.il/main/הממיר-נשאר-בכפר-עזה-ב-7-באוקטובר-הוט-איימה-בתביעה-ליאת-רון-256485
 https://hamal.co.il/main/בתום-הערכת-מצב-פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-לצאת-מהמרחב-256486
 https://hamal.co.il/main/טלטלה-בשווקים-מחיר-הנפט-צונח-המדדים-בוול-סטריט-מזנקים-256488
+https://news.walla.co.il/break/3826293
+https://news.walla.co.il/break/3826294
+https://news.walla.co.il/break/3826295
+https://news.walla.co.il/break/3826296
+https://news.walla.co.il/break/3826297
+https://hamal.co.il/main/מקור-איראניטהרן-עדכנה-שלא-תוכל-לקבל-את-ההצעה-האמריקנית-בת-15-256490
+https://hamal.co.il/main/בכיר-איראניהתגובה-הראשונית-של-טהרן-להצעה-לא-חיובית-אבל-הי-256491
+https://hamal.co.il/main/אזהרה-חריגה-לקראת-פסח-שיא-של-איומים-נגד-ישראלים-ויהודים-בע-256489
+https://hamal.co.il/main/אזעקות-נשמעו-בקריות-ובאזור-הגליל-המערבי-256508
