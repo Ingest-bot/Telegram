@@ -1,9 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3825540
-https://news.walla.co.il/break/3825543
-https://news.walla.co.il/item/3825542
-https://news.walla.co.il/item/3825541
-https://hamal.co.il/main/עקב-המצב-הבחינה-הפסיכומטרית-שתוכננה-ל-29-3032026---תדחה-255283
+COUNTER:33
 https://hamal.co.il/main/הבדיקה-שתגלה-אם-אתם-בסיכון-להתקף-לב---שזמינה-בחינם-255287
 https://hamal.co.il/main/גורם-צבאי-נבדקת-האפשרות-שעופר-מושקוביץ-נהרג-מאש-צהל-255299
 https://hamal.co.il/main/הטיל-לדרום-יורט-מדא-אין-דיווח-על-נפגעים-255302
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826149
 https://hamal.co.il/main/המלל-מזהיר-256300
 https://hamal.co.il/main/צהל-256301
 https://hamal.co.il/main/בשל-מזג-האוויר-כביש-40-בדרום-נחסם-לתנועה-256302
+https://news.walla.co.il/break/3826155
+https://news.walla.co.il/item/3826150
+https://hamal.co.il/main/עבודות-המיגון-בצפון-120-מיגוניות-נוספות-נפרסו-מתחילת-המבצע-256303
+https://hamal.co.il/main/בשל-חשש-לשיטפונות-אלו-הכבישים-בדרום-256304
+https://hamal.co.il/main/מפקד-פיקוד-המרכז-לראשי-רשויות-256306
