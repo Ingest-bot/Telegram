@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/טראמפ-איראן-רוצה-לסיים-את-המלחמה-תוך-5-ימים-255540
-https://hamal.co.il/main/ראשוני-חשד-לפגיעה-ישירה-בקש-255542
-https://hamal.co.il/main/הירי-לעבר-קריית-שמונה-פצוע-קשה-מ-255543
-https://hamal.co.il/main/נתניהו-החליט-דורון-כהן-ימונה-לנציב-שירות-המדינה-255544
-https://hamal.co.il/main/במדא-מעדכנים-גבר-כבן-50-במצב-קשה-בן-80-נפצע-באורח-קל-255554
+COUNTER:14
 https://news.walla.co.il/break/3825778
 https://news.walla.co.il/break/3825780
 https://news.walla.co.il/break/3825782
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826372
 https://news.walla.co.il/break/3826373
 https://hamal.co.il/main/שריפה-פרצה-במרכז-רפואי-בשרון-4-נפצעו---המשטרה-חוקרת-256634
 https://hamal.co.il/main/אזעקות-במרכז-הארץ-256643
+https://news.walla.co.il/break/3826381
+https://news.walla.co.il/break/3826382
+https://hamal.co.il/main/בעקבות-שיגור-מלבנון-אזעקות-הופעלו-במרכז---ללא-התרעה-מקדימה-256653
+https://hamal.co.il/main/מדא-לא-ידוע-על-נפגעים-צוותים-יצאו-לסרוק-זי-256654
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256656
