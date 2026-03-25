@@ -1,9 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3825725
-https://hamal.co.il/main/ההע-255514
-https://hamal.co.il/main/מנהל-255515
-https://news.walla.co.il/item/3825728
-https://hamal.co.il/main/88-שנות-מחקר-חושפות-זה-הגורם-המפתיע-שמנבא-חיים-מאושרים-וברי-255472
+COUNTER:39
 https://news.walla.co.il/item/3825735
 https://hamal.co.il/main/קרב-ביבשה-אפשרי---צריך-להיות-מוכנים-לשלם-באבדות-255517
 https://hamal.co.il/main/טראמפ-התקיפות-על-תחנות-הכוח-באיראן-יידחו-ב-5-ימים-255519
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826347
 https://hamal.co.il/main/שר-החוץ-של-איראן-עבאס-עראקצ׳י-טוען-שאין-משא-ומתן-עם-ארהב-256597
 https://hamal.co.il/main/ירי-לא-הפסקה-אזעקות-בקריית-שמונה-והסביבה-256600
 https://hamal.co.il/main/ישראל-מתנגדת-להכנסת-חיזבאללה-למומ-עם-איראן-256604
+https://news.walla.co.il/break/3826348
+https://hamal.co.il/main/הרחק-מהעין-בתנאים-קיצוניים-הצצה-לזרוע-הארוכה-של-חיל-האוויר-256577
+https://hamal.co.il/main/חייל-במילואים-נפצע-באורח-קשה-כתוצאה-מירי-רקטי-לעבר-הכוחות-בש-256606
+https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-256610
+https://hamal.co.il/main/אין-לנו-לאן-לרוץ-זעם-בתא-על-מקלטים-בגנים-שנסגרו-לציבור-256614
