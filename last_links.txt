@@ -1,10 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255428
-https://news.walla.co.il/break/3825612
-https://news.walla.co.il/break/3825614
-https://hamal.co.il/main/מד״א-אין-נפגעים-במטח-האחרון-255431
-https://hamal.co.il/main/מספר-זירות-שברי-יירוט-במרכז-ובדרום-רסיס-גרם-לנזק-בראש-העין-255435
-https://hamal.co.il/main/חלק-מטיל-נפל-בחצר-בית-ספר-בשומרון-255438
+COUNTER:25
 https://hamal.co.il/main/״-255432
 https://news.walla.co.il/break/3825622
 https://news.walla.co.il/break/3825624
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3826251
 https://hamal.co.il/main/דיווחים-באיראן-בכיר-בצי-חוסל-256410
 https://hamal.co.il/main/פרסום-ראשון-צהל-חיסל-למעלה-מ-60-מחבלים-ברצועת-עזה-256416
 https://hamal.co.il/main/האזעקות-בקריית-שמונה-דיווח-על-נפילה-בעיר-256421
+https://news.walla.co.il/break/3826254
+https://news.walla.co.il/item/3826252
+https://hamal.co.il/main/חשד-להתעללות-בתינוק-בן-8-חודשים-זוג-הורים-מעכו-נעצרו-256422
+https://hamal.co.il/main/חמץ-256419
+https://hamal.co.il/main/הירי-מלבנון-דיווחים-על-2-פצועים-קל-בכרמיאל-256447
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-256449
