@@ -1,11 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-בתאונת-דרכים-בכביש-6-255387
-https://hamal.co.il/main/בלחיצת-כפתור-הנשק-האיראני-שמבודד-100-מיליון-אזרחים-255350
-https://news.walla.co.il/item/3825596
-https://hamal.co.il/main/דיווח-בעזה-חוסל-בכיר-בגיהאד-האיסלאמי-255388
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-255390
-https://news.walla.co.il/break/3825604
-https://hamal.co.il/main/צהל-7-לוחמים-נפצעוקל-בתקריות-שונות-בדרום-לבנון-255393
+COUNTER:16
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-קריאות-255394
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255395
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-לצפון-הארץ-255397
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3826222
 https://news.walla.co.il/break/3826228
 https://news.walla.co.il/break/3826231
 https://hamal.co.il/main/בכיר-איראני-מאשר-מסמך-הצעת-הפסקת-האש-הועבר-לידינו-256398
+https://news.walla.co.il/break/3826235
+https://news.walla.co.il/break/3826237
+https://news.walla.co.il/item/3826236
+https://news.walla.co.il/item/3826240
+https://news.walla.co.il/item/3826216
+https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256408
+https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256409
