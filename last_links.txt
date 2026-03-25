@@ -1,6 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3825635
-https://news.walla.co.il/break/3825636
+COUNTER:3
 https://news.walla.co.il/break/3825638
 https://news.walla.co.il/item/3825637
 https://news.walla.co.il/break/3825640
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מקור-איראניטהרן-עדכנה-שלא-תוכ�
 https://hamal.co.il/main/בכיר-איראניהתגובה-הראשונית-של-טהרן-להצעה-לא-חיובית-אבל-הי-256491
 https://hamal.co.il/main/אזהרה-חריגה-לקראת-פסח-שיא-של-איומים-נגד-ישראלים-ויהודים-בע-256489
 https://hamal.co.il/main/אזעקות-נשמעו-בקריות-ובאזור-הגליל-המערבי-256508
+https://hamal.co.il/main/אביחי-שטרן-בזעקה-מול-נציגי-משרדי-ממשלה-לא-שווה-256522
+https://hamal.co.il/main/מד״א-בירי-לכיוון-חיפה-והקריות-לא-התקבלו-קריאות-על-נפגעים-256526
