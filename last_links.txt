@@ -1,5 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3825509
+COUNTER:15
 https://news.walla.co.il/item/3825510
 https://hamal.co.il/main/המשטרה-מעדכנת-כל-הכבישים-שנחסמו-בשל-מזג-האוויר---נפתחו-255203
 https://news.walla.co.il/break/3825513
@@ -499,3 +498,4 @@ https://hamal.co.il/main/לטראמפ-עומדות-כל-האפשרויות-אל�
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליון-256259
 https://news.walla.co.il/break/3826122
 https://hamal.co.il/main/בשעה-האחרונה-צהל-מבצע-ירי-ארטילרי-לעבר-האזור-המזרחי-בעיר-עז-256261
+https://hamal.co.il/main/אזעקות-הופעלו-בצפת-וסביבתה-256267
