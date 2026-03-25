@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3825680
-https://news.walla.co.il/break/3825682
-https://news.walla.co.il/break/3825684
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-255480
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255500
+COUNTER:21
 https://news.walla.co.il/break/3825687
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בדרום-אין-נפגעים-255501
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255502
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826319
 https://hamal.co.il/main/חמישה-חודשים-אחרי-שנפרדו-טום-אביב-ומוריאל-לוי-חזרו-זה-לזו-256519
 https://hamal.co.il/main/אזעקות-בשל-חשש-לחדירת-כלי-טיס-עוין-בגליל-העליון-256555
 https://hamal.co.il/main/חפר-מנהרה-בחצר---כדי-להחזיק-בה-חטופים-המעצר-החריג-בשומרון-256553
+https://news.walla.co.il/item/3826323
+https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-משגר-ממנו-בוצעו-השיגורים-לחיפה-256556
+https://hamal.co.il/main/כך-הפתיעו-עובדי-בית-החולים-פלימן-את-המאושפזים-עובדי-בית-החו-256557
+https://hamal.co.il/main/אזעקות-נשמעו-במטולה-256560
+https://hamal.co.il/main/דיווח-רה״מ-הורה-להאיץ-את-התקיפות-באיראן-ונתן-לצהל-48-שעות-256564
