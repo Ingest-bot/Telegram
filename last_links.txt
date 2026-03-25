@@ -1,9 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3825591
-https://hamal.co.il/main/בעקבות-התגברות-השיגורים-הטיסות-בנתבג-יחתכו-בחצי-255376
-https://hamal.co.il/main/שרה-נתניהו-צפויה-להשתתף-באירוע-של-מלאניה-טראמפ-בבית-הלבן-255379
-https://news.walla.co.il/break/3825597
-https://news.walla.co.il/break/3825599
+COUNTER:13
 https://hamal.co.il/main/175-דולר-לחבית-נפט-מוכנים-לספוג-כדי-להכניע-את-איראן-255331
 https://hamal.co.il/main/פגיעת-הטיל-בערד-טלפונים-כשרים-עשויים-לא-לקבל-התרעות-255344
 https://hamal.co.il/main/צהל-השמיד-מעבר-מעל-נהר-הליטאני-המשמש-את-מחבלי-חיזבאללה-255384
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826201
 https://hamal.co.il/main/נער-בן-14-256385
 https://hamal.co.il/main/--256384
 https://hamal.co.il/main/פועל-נפל-באתר-בנייה-בחיפה-מצבו-קשה-256388
+https://news.walla.co.il/break/3826217
+https://news.walla.co.il/break/3826214
+https://news.walla.co.il/item/3826212
+https://hamal.co.il/main/מתווה-הפיצויים-למעונות-ולגנים-כך-תקבלו-את-הכסף-חזרה-256391
+https://hamal.co.il/main/כץ-אישרנו-256392
