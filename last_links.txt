@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/המהלך-בלבנון-בידוד-הזירה-ותפיסת-255189
-https://hamal.co.il/main/וועדת-הכספים-אישרה-את-תקציב-המדינה-255487
+COUNTER:15
 https://news.walla.co.il/break/3825678
 https://news.walla.co.il/break/3825679
 https://news.walla.co.il/break/3825680
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826314
 https://news.walla.co.il/break/3826315
 https://hamal.co.il/main/ירי-בלתי-פוסק-אזעקות-נשמעו-באצבע-הגליל-256548
 https://hamal.co.il/main/הרצוג-חי-בסרט-שימשיך-להסתבך-עם-טראמפ-בליכוד-תוקפים-256521
+https://news.walla.co.il/break/3826319
+https://hamal.co.il/main/חמישה-חודשים-אחרי-שנפרדו-טום-אביב-ומוריאל-לוי-חזרו-זה-לזו-256519
