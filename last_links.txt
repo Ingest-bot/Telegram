@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3825510
-https://hamal.co.il/main/המשטרה-מעדכנת-כל-הכבישים-שנחסמו-בשל-מזג-האוויר---נפתחו-255203
-https://news.walla.co.il/break/3825513
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-255208
-https://hamal.co.il/main/הברחת-אמלח-סוכלה-בגבוך-סיני-255206
+COUNTER:16
 https://hamal.co.il/main/תיעוד-רגע-פיצוץ-גשר-בנהר-הליטאני-255223
 https://hamal.co.il/main/הירי-מאיראן-עד-כה-לא-דווח-על-נפגעים-255224
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255227
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליו
 https://news.walla.co.il/break/3826122
 https://hamal.co.il/main/בשעה-האחרונה-צהל-מבצע-ירי-ארטילרי-לעבר-האזור-המזרחי-בעיר-עז-256261
 https://hamal.co.il/main/אזעקות-הופעלו-בצפת-וסביבתה-256267
+https://news.walla.co.il/break/3826123
+https://news.walla.co.il/break/3826124
+https://news.walla.co.il/break/3826126
+https://news.walla.co.il/break/3826127
+https://hamal.co.il/main/ירי-בלתי-פוסק-לצפון-אזעקות-בגליל-העליון-256272
