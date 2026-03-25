@@ -1,6 +1,4 @@
 COUNTER:9
-https://hamal.co.il/main/יצילו-את-המשטר-אלו-המדינות-שתיווכו-בין-ארהב-לאיראן-255537
-https://hamal.co.il/main/נסע-על-קורקינט-לקבר-יוסף-אזרח-ישראלי-חולץ-משכם-255538
 https://news.walla.co.il/break/3825767
 https://news.walla.co.il/item/3825765
 https://hamal.co.il/main/טראמפ-איראן-רוצה-לסיים-את-המלחמה-תוך-5-ימים-255540
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826362
 https://hamal.co.il/main/אזעקות-בקש-והסביבה-256629
 https://hamal.co.il/main/דרמה-ביהמש-קבע-כי-מטא-וגוגל-אשמות-בהתמכרות-בני-נוער-256633
 https://news.walla.co.il/break/3826364
+https://news.walla.co.il/break/3826372
+https://news.walla.co.il/break/3826373
