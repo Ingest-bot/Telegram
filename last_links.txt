@@ -1,9 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3825749
-https://hamal.co.il/main/באיראן-מכחישים-את-דברי-טראמפ-עוד-תבוסה-255524
-https://news.walla.co.il/break/3825757
-https://news.walla.co.il/break/3825758
-https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-נוסף-בטהרן-255525
+COUNTER:7
 https://hamal.co.il/main/איראן-ההודעה-של-טראמפ-255527
 https://hamal.co.il/main/בכיר-לשעבר-במוסד-הדיווחים-על-התכנית-להפלת-המשטר---פייק-מוחל-255526
 https://news.walla.co.il/break/3825763
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תיעדו-כל-תנועה-בבניין-יוקרה-בת
 https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-256618
 https://news.walla.co.il/item/3826355
 https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-מחשש-לחדירת-כטבם-256621
+https://news.walla.co.il/item/3826354
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-256624
+https://hamal.co.il/main/התשובה-לכשהגלים-מתחזקים-מיה-שם-תככב-במיקרו-דרמה-של-רשת-13-256499
+https://hamal.co.il/main/שמרן-מושחת-וחסר-תחכום-זהו-הפרטנר-של-טראמפ-בטהרן-256493
+https://hamal.co.il/main/בשורה-למילואימניקים-הכנסת-אישרה-העדפה-מתקנת-למשרתים-באקדמיה-256626
