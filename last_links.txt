@@ -1,6 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/תיעוד-מלבנון-תקיפת-הגשר-המרכזי-מעל-נהר-הליטני--צפו-255245
-https://news.walla.co.il/break/3825533
+COUNTER:25
 https://news.walla.co.il/break/3825534
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-255257
 https://news.walla.co.il/break/3825536
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שריפה-פרצה-במושב-סמוך-לרמלה-2562
 https://hamal.co.il/main/אישום-הוגש-נגד-החשוד-ברצח-מחוץ-למועדון-בתא-256288
 https://hamal.co.il/main/ניסה-לחטוף-נשק-של-לוחם---וחוסל-3-מחבלים-נעצרו-במזרח-י-ם-256289
 https://hamal.co.il/main/באיראן-לועגים-לטראמפ-ארהב-מנהלת-מומ-עם-עצמה-256290
+https://news.walla.co.il/break/3826138
+https://hamal.co.il/main/זה-הרכיב-התזונתי-שאולי-חסר-לכם---והוא-משפיע-על-מצב-הרוח-255903
