@@ -1,6 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3825706
-https://hamal.co.il/main/צפו-מעריץ-ישראלי-זרק-מעיל-לעבר-ליידי-גאגא---ונדהם-מאיך-שהגי-255511
+COUNTER:30
 https://hamal.co.il/main/טובים-לשריר-7-ירקות-אביביים-עם-כמות-חלבון-מפתיעה-255477
 https://news.walla.co.il/break/3825711
 https://news.walla.co.il/break/3825712
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גורם-ביטחוני-״ישראל-לא-תסכים-ל
 https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-256581
 https://news.walla.co.il/break/3826335
 https://hamal.co.il/main/אחרי-סערת-הציטוטים-זיו-אגמון-פורש-מלשכת-רהמ--כל-הפרטים-עי-256582
+https://hamal.co.il/main/בישראל-לא-פוסלים-את-האפשרות-בסופ״ש-יכריז-טראמפ-על-הפסקת-האש-256585
+https://hamal.co.il/main/הנסיעה-במונית-בעיר-תוזל-ב-3-אך-תתייקר-בעשרות-אחוזים-מנתבג-256584
