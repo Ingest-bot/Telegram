@@ -1,8 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255227
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-במרכז-ללא-נפגעים-255229
-https://news.walla.co.il/break/3825517
-https://news.walla.co.il/break/3825518
+COUNTER:19
 https://hamal.co.il/main/המטח-האחרון-מאיראן-נזקים-לרכוש-במרכז-הארץ-255232
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-אתרי-ייצור-אמלח-ומפקדות-בטהרן-255236
 https://news.walla.co.il/break/3825523
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3826127
 https://hamal.co.il/main/ירי-בלתי-פוסק-לצפון-אזעקות-בגליל-העליון-256272
 https://news.walla.co.il/break/3826129
 https://hamal.co.il/main/אזעקות-בדרום-עקב-שיגור-מאיראן-256281
+https://news.walla.co.il/break/3826132
+https://news.walla.co.il/item/3826131
+https://hamal.co.il/main/פינוי-תושבים-בישרש-בשל-שריפה-שפרצה-במושב-256284
+https://hamal.co.il/main/מד״א-עד-כה-ללא-אירועים-חריגים-במטח-האחרון-256285
