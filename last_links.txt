@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3825645
-https://hamal.co.il/main/נשק-צבאי-שאיראן-הפכה-לאמצעי-טרור-מה-הם-טילי-מצרר-ועד-כמה-הם-255122
-https://news.walla.co.il/break/3825646
-https://hamal.co.il/main/צהל-קבע-מותו-עופר-מוסקוביץ-נגרם-מאש-כוחותינו-255474
-https://hamal.co.il/main/גבר-כבן-30-נפצע-קשה-בתאונת-דרכים-ברחובות-255475
+COUNTER:8
 https://news.walla.co.il/break/3825657
 https://hamal.co.il/main/רקדו-ושמחו-בזמן-האזעקה-9-שבחים-נעצרו-ביבנה-255478
 https://hamal.co.il/main/נפלתם-בדרך-לממד-כך-תדעו-אם-מגיע-לכם-מענק-חד-פעמי-או-קצבה-ל-255192
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826304
 https://news.walla.co.il/break/3826305
 https://hamal.co.il/main/2-עתירות-לבגץ-נגד-מינוי-יפעת-בן-חי-שגב-ליור-הרשות-השניה-256514
 https://hamal.co.il/main/פצוע-קשה-באירוע-ירי-בשגב-שלום-המשטרה-פתחה-בחקירה-256531
+https://news.walla.co.il/break/3826306
+https://news.walla.co.il/break/3826308
+https://hamal.co.il/main/בתיעוד-ממצלמות-גוף-של-יחידת-אגוז-בהר-דב-שבדרום-לבנון-נעצר-א-256530
+https://hamal.co.il/main/סערה-בצל-האזעקות-גשמים-שלג---ושיבושי-תנועה-בדרך-לאילת-256534
+https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-256537
