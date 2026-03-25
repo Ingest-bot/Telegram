@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/טובים-לשריר-7-ירקות-אביביים-עם-כמות-חלבון-מפתיעה-255477
-https://news.walla.co.il/break/3825711
-https://news.walla.co.il/break/3825712
+COUNTER:32
 https://news.walla.co.il/break/3825720
 https://news.walla.co.il/item/3825717
 https://hamal.co.il/main/ליברמן-נגד-הרחבת-סמכויות-בתי-הדין-הרבניים-לא-ייאמן-255512
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826335
 https://hamal.co.il/main/אחרי-סערת-הציטוטים-זיו-אגמון-פורש-מלשכת-רהמ--כל-הפרטים-עי-256582
 https://hamal.co.il/main/בישראל-לא-פוסלים-את-האפשרות-בסופ״ש-יכריז-טראמפ-על-הפסקת-האש-256585
 https://hamal.co.il/main/הנסיעה-במונית-בעיר-תוזל-ב-3-אך-תתייקר-בעשרות-אחוזים-מנתבג-256584
+https://news.walla.co.il/break/3826345
+https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-המערבי-256588
+https://hamal.co.il/main/דלתא-איירליינס-מבטלת-את-הטיסות-לישראל-עד-לספטמבר-256591
