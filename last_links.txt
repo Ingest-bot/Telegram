@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/המטח-האחרון-מאיראן-נזקים-לרכוש-במרכז-הארץ-255232
-https://hamal.co.il/main/צהל-השלים-גל-תקיפות-לעבר-אתרי-ייצור-אמלח-ומפקדות-בטהרן-255236
-https://news.walla.co.il/break/3825523
-https://news.walla.co.il/item/3825527
-https://news.walla.co.il/item/3825528
+COUNTER:23
 https://hamal.co.il/main/לבנוןך-255242
 https://hamal.co.il/main/תיעוד-מלבנון-תקיפת-הגשר-המרכזי-מעל-נהר-הליטני--צפו-255245
 https://news.walla.co.il/break/3825533
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826132
 https://news.walla.co.il/item/3826131
 https://hamal.co.il/main/פינוי-תושבים-בישרש-בשל-שריפה-שפרצה-במושב-256284
 https://hamal.co.il/main/מד״א-עד-כה-ללא-אירועים-חריגים-במטח-האחרון-256285
+https://news.walla.co.il/break/3826135
+https://hamal.co.il/main/מזג-האוויר-גשמים-וחשש-לשיטפונות---מתי-יגיע-המהפך--התחזית-256286
+https://hamal.co.il/main/שריפה-פרצה-במושב-סמוך-לרמלה-256287
+https://hamal.co.il/main/אישום-הוגש-נגד-החשוד-ברצח-מחוץ-למועדון-בתא-256288
+https://hamal.co.il/main/ניסה-לחטוף-נשק-של-לוחם---וחוסל-3-מחבלים-נעצרו-במזרח-י-ם-256289
