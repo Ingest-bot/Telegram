@@ -1,8 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3825720
-https://news.walla.co.il/item/3825717
-https://hamal.co.il/main/ליברמן-נגד-הרחבת-סמכויות-בתי-הדין-הרבניים-לא-ייאמן-255512
-https://hamal.co.il/main/נוסעים-על-טנדר-255513
+COUNTER:35
 https://news.walla.co.il/break/3825725
 https://hamal.co.il/main/ההע-255514
 https://hamal.co.il/main/מנהל-255515
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הנסיעה-במונית-בעיר-תוזל-ב-3-אך-�
 https://news.walla.co.il/break/3826345
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-המערבי-256588
 https://hamal.co.il/main/דלתא-איירליינס-מבטלת-את-הטיסות-לישראל-עד-לספטמבר-256591
+https://news.walla.co.il/item/3826347
+https://hamal.co.il/main/שר-החוץ-של-איראן-עבאס-עראקצ׳י-טוען-שאין-משא-ומתן-עם-ארהב-256597
+https://hamal.co.il/main/ירי-לא-הפסקה-אזעקות-בקריית-שמונה-והסביבה-256600
+https://hamal.co.il/main/ישראל-מתנגדת-להכנסת-חיזבאללה-למומ-עם-איראן-256604
