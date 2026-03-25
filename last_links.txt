@@ -1,9 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/דיווחים-בלבנון-צהל-שוב-תקף-גשר-בנהר-הליטני-255482
-https://hamal.co.il/main/דיווחים-באיראן-255483
-https://news.walla.co.il/item/3825672
-https://hamal.co.il/main/צפו-לוחמי-מגב-השיבו-סוס-255485
-https://hamal.co.il/main/צפו-רסיס-ענק-נפל-בחצר-בית-ספר-יסודי-בשומרון-255486
+COUNTER:14
 https://hamal.co.il/main/המהלך-בלבנון-בידוד-הזירה-ותפיסת-255189
 https://hamal.co.il/main/וועדת-הכספים-אישרה-את-תקציב-המדינה-255487
 https://news.walla.co.il/break/3825678
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נתניהו-בשיחה-עם-פורום-מנכלי-מש
 https://hamal.co.il/main/דיווחים-באיראן-תקיפות-ממערב-לתבריז-256542
 https://hamal.co.il/main/שב״כ-היחידה-המרכזית-במחוז-ש״י-וצה״ל-סיכלו-חולייה-של-עשרה-פל-256543
 https://hamal.co.il/main/טראמפ-הודיע-על-משא-ומתן-עם-איראן---והותיר-את-צהל-מתוח-256541
+https://news.walla.co.il/break/3826313
+https://news.walla.co.il/break/3826314
+https://news.walla.co.il/break/3826315
+https://hamal.co.il/main/ירי-בלתי-פוסק-אזעקות-נשמעו-באצבע-הגליל-256548
+https://hamal.co.il/main/הרצוג-חי-בסרט-שימשיך-להסתבך-עם-טראמפ-בליכוד-תוקפים-256521
