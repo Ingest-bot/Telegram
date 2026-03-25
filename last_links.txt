@@ -1,6 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/תיעוד-רגע-פיצוץ-גשר-בנהר-הליטאני-255223
-https://hamal.co.il/main/הירי-מאיראן-עד-כה-לא-דווח-על-נפגעים-255224
+COUNTER:17
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255227
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-במרכז-ללא-נפגעים-255229
 https://news.walla.co.il/break/3825517
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826124
 https://news.walla.co.il/break/3826126
 https://news.walla.co.il/break/3826127
 https://hamal.co.il/main/ירי-בלתי-פוסק-לצפון-אזעקות-בגליל-העליון-256272
+https://news.walla.co.il/break/3826129
+https://hamal.co.il/main/אזעקות-בדרום-עקב-שיגור-מאיראן-256281
