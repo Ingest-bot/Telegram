@@ -1,5 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/לבנוןך-255242
+COUNTER:24
 https://hamal.co.il/main/תיעוד-מלבנון-תקיפת-הגשר-המרכזי-מעל-נהר-הליטני--צפו-255245
 https://news.walla.co.il/break/3825533
 https://news.walla.co.il/break/3825534
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מזג-האוויר-גשמים-וחשש-לשיטפונ�
 https://hamal.co.il/main/שריפה-פרצה-במושב-סמוך-לרמלה-256287
 https://hamal.co.il/main/אישום-הוגש-נגד-החשוד-ברצח-מחוץ-למועדון-בתא-256288
 https://hamal.co.il/main/ניסה-לחטוף-נשק-של-לוחם---וחוסל-3-מחבלים-נעצרו-במזרח-י-ם-256289
+https://hamal.co.il/main/באיראן-לועגים-לטראמפ-ארהב-מנהלת-מומ-עם-עצמה-256290
