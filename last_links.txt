@@ -1,5 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3825765
+COUNTER:11
 https://hamal.co.il/main/טראמפ-איראן-רוצה-לסיים-את-המלחמה-תוך-5-ימים-255540
 https://hamal.co.il/main/ראשוני-חשד-לפגיעה-ישירה-בקש-255542
 https://hamal.co.il/main/הירי-לעבר-קריית-שמונה-פצוע-קשה-מ-255543
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3826364
 https://news.walla.co.il/break/3826372
 https://news.walla.co.il/break/3826373
 https://hamal.co.il/main/שריפה-פרצה-במרכז-רפואי-בשרון-4-נפצעו---המשטרה-חוקרת-256634
+https://hamal.co.il/main/אזעקות-במרכז-הארץ-256643
