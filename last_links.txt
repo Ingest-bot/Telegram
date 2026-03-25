@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/בשל-ירי-מלבנון-אזעקות-הופעלו-בקריית-שמונה-255521
-https://news.walla.co.il/break/3825748
+COUNTER:3
 https://news.walla.co.il/break/3825749
 https://hamal.co.il/main/באיראן-מכחישים-את-דברי-טראמפ-עוד-תבוסה-255524
 https://news.walla.co.il/break/3825757
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826350
 https://hamal.co.il/main/ארה״ב-וישראל-הסירו-זמנית-שני-בכירים-איראנים-מרשימת-החיסולים-256615
 https://hamal.co.il/main/תיעדו-כל-תנועה-בבניין-יוקרה-בת״א-ראש-ארגון-פשע-וזוגתו-עוכבו-256502
 https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-256618
+https://news.walla.co.il/item/3826355
+https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-מחשש-לחדירת-כטבם-256621
