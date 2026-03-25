@@ -1,9 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3825550
-https://news.walla.co.il/break/3825551
-https://news.walla.co.il/item/3825547
-https://hamal.co.il/main/ירי-מקביל-אזעקות-בגליל-בחשש-לחדירת-כלי-טיס-עוין-וטילים-255311
-https://hamal.co.il/main/אומייגאד-תיעוד-מדהים-של-יירוט-בשמי-הנגב---מחוץ-לאטמוספירה-255313
+COUNTER:38
 https://hamal.co.il/main/בזמן-האזעקות-כלב-קפץ-בבהלה-לנחל-איילון---וחולץ-בהצלחה-255323
 https://news.walla.co.il/break/3825556
 https://news.walla.co.il/item/3825558
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826162
 https://news.walla.co.il/break/3826163
 https://hamal.co.il/main/רכב-חשוד-זוהה-256307
 https://hamal.co.il/main/לא-רק-מצה-ארבעה-תחליפים-בריאים-ללחם-בפסח-שכדאי-לאמץ-כל-השנה-256291
+https://news.walla.co.il/break/3826177
+https://news.walla.co.il/break/3826178
+https://hamal.co.il/main/בתום-מרדף-יורט-הכטבם-שחדר-לצפון-256343
+https://hamal.co.il/main/שיגרו-רקטות---וניסו-לברוח-כלי-טיס-של-חיל-האוויר-זיהו-וחיסלו-256346
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-255905
