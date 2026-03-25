@@ -1,8 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3825630
-https://news.walla.co.il/break/3825631
-https://hamal.co.il/main/הסתיימה-סדרת-תקיפות-ברחבי-איראן-255449
-https://hamal.co.il/main/״שכב-על-הבטן״-תושב-חורה-שנהג-במהירות-מופרזת-וברכב-שנאסר-לשי-255448
+COUNTER:33
 https://news.walla.co.il/break/3825632
 https://news.walla.co.il/item/3825631
 https://hamal.co.il/main/צה״ל-מבצע-ירי-ארטילרי-ברצועה-255450
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3826273
 https://hamal.co.il/main/המעבר-לשעון-קיץ-הולך-להיות-קשה-כך-תשרדו-את-השבוע-הקרוב-256294
 https://hamal.co.il/main/מזכל-חיזבאללה-נמשיך-להילחם-ללא-גבולות-משא-ומתן-תחת-אש-ה-256475
 https://hamal.co.il/main/צה״ל-השלים-במהלך-הלילה-גל-תקיפות-לעבר-אתרי-ייצור-אמצעי-לחימה-256476
+https://news.walla.co.il/break/3826287
+https://hamal.co.il/main/בסגירת-מעגל-מהירה-לוחמי-חטיבה-401-חיסלו-מהקרקע-חוליית-מחבלי-256477
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יופעלו-באילת-והסביבה-256479
+https://hamal.co.il/main/אזעקות-נשמעו-באילת-הערבה-והסביבה-256483
