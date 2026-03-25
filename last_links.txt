@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3825678
-https://news.walla.co.il/break/3825679
+COUNTER:17
 https://news.walla.co.il/break/3825680
 https://news.walla.co.il/break/3825682
 https://news.walla.co.il/break/3825684
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ירי-בלתי-פוסק-אזעקות-נשמעו-באצ
 https://hamal.co.il/main/הרצוג-חי-בסרט-שימשיך-להסתבך-עם-טראמפ-בליכוד-תוקפים-256521
 https://news.walla.co.il/break/3826319
 https://hamal.co.il/main/חמישה-חודשים-אחרי-שנפרדו-טום-אביב-ומוריאל-לוי-חזרו-זה-לזו-256519
+https://hamal.co.il/main/אזעקות-בשל-חשש-לחדירת-כלי-טיס-עוין-בגליל-העליון-256555
+https://hamal.co.il/main/חפר-מנהרה-בחצר---כדי-להחזיק-בה-חטופים-המעצר-החריג-בשומרון-256553
