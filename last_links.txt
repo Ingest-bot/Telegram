@@ -1,6 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/שגריר-ישראל-בארהב-אנשי-משמרות-המהפכה-והבסיג-לא-באים-לעבוד-255444
-https://hamal.co.il/main/צה״ל-פתח-בגל-תקיפות-נרחב-לעבר-תשתיות-של-משטר-הטרור-האיראני-ב-255445
+COUNTER:30
 https://news.walla.co.il/break/3825630
 https://news.walla.co.il/break/3825631
 https://hamal.co.il/main/הסתיימה-סדרת-תקיפות-ברחבי-איראן-255449
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3826268
 https://news.walla.co.il/break/3826274
 https://news.walla.co.il/item/3826273
 https://hamal.co.il/main/המעבר-לשעון-קיץ-הולך-להיות-קשה-כך-תשרדו-את-השבוע-הקרוב-256294
+https://hamal.co.il/main/מזכל-חיזבאללה-נמשיך-להילחם-ללא-גבולות-משא-ומתן-תחת-אש-ה-256475
+https://hamal.co.il/main/צה״ל-השלים-במהלך-הלילה-גל-תקיפות-לעבר-אתרי-ייצור-אמצעי-לחימה-256476
