@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-קריאות-255394
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255395
-https://hamal.co.il/main/זוהו-שיגורים-נוספים-לצפון-הארץ-255397
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-255403
-https://news.walla.co.il/break/3825609
+COUNTER:18
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-בין-רכב-למשאית-בכביש-6-255404
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255406
 https://hamal.co.il/main/שוב-טיל-מצרר-שוגר-למרכז-הארז-צוותים-סורקים-זירה-בגני-תקווה-255423
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826240
 https://news.walla.co.il/item/3826216
 https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256408
 https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256409
+https://news.walla.co.il/break/3826243
+https://news.walla.co.il/item/3826241
+https://news.walla.co.il/item/3826244
+https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-בטהרן-256411
+https://hamal.co.il/main/צהל-חיסלנו-256415
