@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3825534
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-255257
-https://news.walla.co.il/break/3825536
+COUNTER:27
 https://hamal.co.il/main/האולטימטום-של-טראמפ-לאיראן-מרסק-את-ביטקוין-255272
 https://hamal.co.il/main/גם-תחת-אש---אות-גיבורי-החברה-הישראלית-יתקיים-כמתוכנן-255276
 https://news.walla.co.il/item/3825538
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ניסה-לחטוף-נשק-של-לוחם---וחוסל-3
 https://hamal.co.il/main/באיראן-לועגים-לטראמפ-ארהב-מנהלת-מומ-עם-עצמה-256290
 https://news.walla.co.il/break/3826138
 https://hamal.co.il/main/זה-הרכיב-התזונתי-שאולי-חסר-לכם---והוא-משפיע-על-מצב-הרוח-255903
+https://news.walla.co.il/item/3826140
+https://hamal.co.il/main/היא-חשבה-שהיא-סובלת-מהנגאובר---למחרת-כבר-איבדה-את-הראייה-255516
+https://hamal.co.il/main/60-מיליון-שח-ליישובים-בקו-העימות-הסיוע-לתושבי-הצפון-256299
