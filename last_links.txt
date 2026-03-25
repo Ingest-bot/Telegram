@@ -1,9 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/״-255432
-https://news.walla.co.il/break/3825622
-https://news.walla.co.il/break/3825624
-https://news.walla.co.il/break/3825625
-https://news.walla.co.il/break/3825626
+COUNTER:27
 https://news.walla.co.il/break/3825627
 https://news.walla.co.il/item/3825616
 https://news.walla.co.il/item/3825623
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חשד-להתעללות-בתינוק-בן-8-חודשי�
 https://hamal.co.il/main/חמץ-256419
 https://hamal.co.il/main/הירי-מלבנון-דיווחים-על-2-פצועים-קל-בכרמיאל-256447
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-256449
+https://news.walla.co.il/break/3826259
+https://news.walla.co.il/break/3826263
+https://news.walla.co.il/break/3826264
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-256463
+https://hamal.co.il/main/הירי-לדרום-דיווחים-על-נפילה-בשטח-פתוח-בנגב-אין-נפגעים-256473
