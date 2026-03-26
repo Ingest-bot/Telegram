@@ -1,5 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/גורם-ישראלי-זה-האיראני-הבכיר-שארה״ב-מנהלת-מולו-את-המומ-255583
+COUNTER:19
 https://hamal.co.il/main/ראשוני-צה״ל-תקף-לפני-זמן-קצר-מחבל-מיחידת-׳כוח-קדס׳-בביירות-255594
 https://news.walla.co.il/item/3825795
 https://hamal.co.il/main/כעת-התרעת-כטבם-בגליל-המערבי-255604
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נרחב-באיספ
 https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-מירי-פצצת-מרגמה-בלבנון-256664
 https://news.walla.co.il/break/3826387
 https://news.walla.co.il/break/3826388
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-ודרום-הארץ-256671
