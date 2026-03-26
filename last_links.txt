@@ -1,9 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/מדא-על-הירי-לדרום-255898
-https://hamal.co.il/main/תיעוד-רסיס-ענק-נפל-בשומרון-255899
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-255901
-https://hamal.co.il/main/צהל-תקפנו-255902
-https://hamal.co.il/main/החורף-255881
+COUNTER:22
 https://news.walla.co.il/break/3825918
 https://news.walla.co.il/break/3825922
 https://news.walla.co.il/item/3825920
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מנכל-מדא-26-נפגעים-באירוע-בנהרי
 https://hamal.co.il/main/אביו-של-סמר-גרינברג-ספד-כשהיה-הכי-מפחיד---הוא-הסתער-256983
 https://hamal.co.il/main/פרסום-ראשון-גל-התייקרויות-במוצרי-אפל-בישראל-החל-מיום-ראשון-256979
 https://hamal.co.il/main/שורדת-השבי-נקלעה-לאזעקה-התקף-החרדה-הכי-קיצוני-מאז-שחזרתי-256975
+https://news.walla.co.il/break/3826558
+https://news.walla.co.il/break/3826557
+https://news.walla.co.il/break/3826556
+https://hamal.co.il/main/זוהה-שיגור-נוסף-למרכז-הארץ-257040
+https://hamal.co.il/main/טיל-מצרר-שוגר-לאזור-ירושלים-והשפלה-והמרכז--תיעוד-257048
