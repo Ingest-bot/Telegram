@@ -1,11 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3825964
-https://news.walla.co.il/item/3825967
-https://news.walla.co.il/item/3825968
-https://hamal.co.il/main/גורם-ישראלי-יש-סיכוי-להסכם-עם-איראן-אך-ייתכן-ומדובר-בהונאה-255949
-https://hamal.co.il/main/צהל-השלמנו-גל-255950
-https://news.walla.co.il/break/3825970
-https://news.walla.co.il/item/3825973
+COUNTER:38
 https://news.walla.co.il/item/3825978
 https://hamal.co.il/main/גורם-ישראלי-יש-היתכנות-להסכם-עם-איראן-גיא-אלסטר-3-גורם-יש-255963
 https://hamal.co.il/main/ממשלת-לבנון-בהחלטה-דרמטית-שגריר-איראן-גורש-מהמדינה-255965
@@ -499,3 +492,10 @@ https://hamal.co.il/main/טרנסגנדריות-לא-יורשו-להתחרות-�
 https://news.walla.co.il/item/3826597
 https://hamal.co.il/main/הותר-לפרסום-סמל-אביעד-וולנסקי-נפל-בקרב-בדרום-לבנון-257092
 https://hamal.co.il/main/ישראל-כץ-אני-מכיר-מקרוב-את-אביו-של-אביעד-257093
+https://news.walla.co.il/break/3826600
+https://news.walla.co.il/break/3826601
+https://news.walla.co.il/break/3826602
+https://news.walla.co.il/break/3826603
+https://news.walla.co.il/break/3826604
+https://hamal.co.il/main/מתגבר-החשד-האירוע-סמוך-ישוב-חומש---פגיעה-על-רקע-לאומני-257101
+https://hamal.co.il/main/דובר-צהל-חסרים-כ-15000-חיילים-לצהל-257109
