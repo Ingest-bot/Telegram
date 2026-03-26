@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/ברקע-ההתפתחויות-עם-איראן-נתניהו-כינס-שיחה-דחופה-עם-ראשי-הקו-255723
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-בדקות-הקרובות-צפויות-אזעקות-באילת-והסביבה-255725
-https://news.walla.co.il/break/3825844
+COUNTER:11
 https://news.walla.co.il/break/3825845
 https://news.walla.co.il/break/3825843
 https://hamal.co.il/main/ערב-מתוח-נתניהו-מכנס-כעת-דיון-בקבינט-המצומצם-255726
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3826424
 https://hamal.co.il/main/גורם-ישראלי-חוסל-מפקד-חיל-הים-של-משמרות-המהפכה-256826
 https://hamal.co.il/main/200-תשתיות-הושמדו-צפו-בפעילות-צהל-בדרום-לבנון-256829
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאזור-המרכז-256850
+https://hamal.co.il/main/מצבה-של-הילדה-שלקתה-בדום-לב-בצפת-התייצב-256867
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256870
+https://hamal.co.il/main/ירי-בלתי-פוסק-זוהה-שיגור-נוסף-מאיראן-256872
