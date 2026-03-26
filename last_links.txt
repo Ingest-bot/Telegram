@@ -1,9 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-255775
-https://hamal.co.il/main/צהל-בהודעת-פינוי-לתושבי-כפרים-בלבנון-255785
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255787
-https://news.walla.co.il/break/3825865
-https://news.walla.co.il/break/3825866
+COUNTER:32
 https://news.walla.co.il/break/3825867
 https://news.walla.co.il/break/3825868
 https://news.walla.co.il/break/3825869
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-256922
 https://hamal.co.il/main/הירי-מאיראן-256949
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256946
 https://hamal.co.il/main/תיעוד-256952
+https://news.walla.co.il/break/3826504
+https://news.walla.co.il/break/3826505
+https://news.walla.co.il/break/3826503
+https://news.walla.co.il/item/3826500
+https://hamal.co.il/main/נתניהו-החיסול-בבנדר-עבאס---דוגמא-לשיתוף-הפעולה-עם-ארהב-256953
