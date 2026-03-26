@@ -1,6 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/איתור-פיר-והשמדת-מצבור-אמלח-255939
-https://news.walla.co.il/break/3825959
+COUNTER:31
 https://news.walla.co.il/item/3825957
 https://hamal.co.il/main/הירי-מלבנון-סריקות-סמוך-לקריית-שמונה-בשל-חשד-לנפילה-בכביש-255945
 https://news.walla.co.il/break/3825961
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-חיסל-מפקד-בכיר-במערך-הנט-ש�
 https://hamal.co.il/main/סידני-סוויני-שוב-מעוררת-סערה-אחיה-נשלח-למות-למען-ישראל-257053
 https://hamal.co.il/main/הוסר-החשש-לנעדרים-בערבה-257081
 https://hamal.co.il/main/חיל-האוויר-השלים-כ-20-מטסי-תקיפות-לעבר-אתרי-שיגור-באיראן-257084
+https://hamal.co.il/main/מדיניות-257085
+https://hamal.co.il/main/דיווח-איראן-דורשת-מארה״ב-לצמצם-את-דרישותיה-257087
