@@ -1,7 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3825944
-https://hamal.co.il/main/צפו-צהל-תקף-תחנת-שידור-ומפקדות-של-חיזבאללה-בלבנון-255925
-https://hamal.co.il/main/מסתמן-המצב-המיוחד-בעורף-יוארך-לעוד-3-שבועות-255926
+COUNTER:24
 https://hamal.co.il/main/טרגדיה-בזמן-האזעקה-ירדו-למקלט-בבת-ים---ומצאו-צעיר-ללא-רוח-ח-255927
 https://news.walla.co.il/break/3825950
 https://hamal.co.il/main/חיל-ההנדסה-הקרבית-מקבל-את-דור-הלוחמים-הבא-255929
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826570
 https://news.walla.co.il/break/3826569
 https://news.walla.co.il/break/3826574
 https://news.walla.co.il/item/3826571
+https://news.walla.co.il/break/3826578
+https://news.walla.co.il/item/3826582
+https://hamal.co.il/main/השטפונות-בדרום-מספר-נעדרים-בעקבות-סחף-בנחל-הערבה-257064
