@@ -1,11 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3826006
-https://news.walla.co.il/break/3826007
-https://hamal.co.il/main/אדם-נסחף-בנהר-הירדן-צוותי-הצלה-פועלים-255986
-https://hamal.co.il/main/השיגורים-לדרום-יורטו-לא-דווח-על-נפגעים-255987
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255989
-https://hamal.co.il/main/הירי-לדרום-דיווח-על-מספר-פצועים-בזירת-נפילה-בפזורה-הבדואית-255991
-https://news.walla.co.il/break/3826014
+COUNTER:9
 https://news.walla.co.il/item/3826010
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-255994
 https://hamal.co.il/main/הנפילה-בפזורה-4-נפצעו-בהם-בן-30-באורח-בינוני-255995
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3826613
 https://news.walla.co.il/break/3826626
 https://news.walla.co.il/break/3826624
 https://news.walla.co.il/break/3826625
+https://news.walla.co.il/break/3826627
+https://news.walla.co.il/break/3826629
+https://news.walla.co.il/break/3826630
+https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-257136
+https://hamal.co.il/main/טראמפ-במובן-מסוים-כבר-ניצחנו---אנחנו-מנהלים-משא-ומתן-פורה-257137
+https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-גם-בשעה-זו-ממשי-257138
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לעבר-דרום-הארץ-257140
