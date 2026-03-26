@@ -1,5 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3825864
+COUNTER:31
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-255775
 https://hamal.co.il/main/צהל-בהודעת-פינוי-לתושבי-כפרים-בלבנון-255785
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255787
@@ -499,3 +498,4 @@ https://hamal.co.il/main/תיעוד-לוחמי-מגב-מסייעים-בחילו�
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-256922
 https://hamal.co.il/main/הירי-מאיראן-256949
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256946
+https://hamal.co.il/main/תיעוד-256952
