@@ -1,6 +1,4 @@
 COUNTER:23
-https://hamal.co.il/main/השר-עמיחי-אליהו-העביר-את-חוות-דעתו-על-בקשת-החנינה-לנשיא-255906
-https://hamal.co.il/main/ערביי-יוש-ביצעו-לינץ-בנער-יהודי-אי-255907
 https://news.walla.co.il/item/3825936
 https://hamal.co.il/main/20-רקטות-שוגרו-מלבנון-דיווח-על-מספר-255919
 https://hamal.co.il/main/המטח-הכבד-לצפון-עד-כה-לא-דווח-על-נפגעים--תיעוד-היירוטים-255923
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טיל-מצרר-שוגר-לאזור-ירושלים-וה
 https://news.walla.co.il/break/3826562
 https://news.walla.co.il/item/3826560
 https://hamal.co.il/main/המטח-האחרון-דיווח-על-נפילת-רסיס-במודיעין---ללא-נפגעים-257050
+https://news.walla.co.il/break/3826563
+https://news.walla.co.il/item/3826566
