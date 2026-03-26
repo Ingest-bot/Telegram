@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3825856
-https://news.walla.co.il/break/3825875
+COUNTER:4
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-255858
 https://hamal.co.il/main/ראשוני-דיווח-על-נפילות-בתל-אביב-255876
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-255878
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אישה-נהרגה-בתאונת-דרכים-ביוש-2-
 https://news.walla.co.il/break/3826526
 https://hamal.co.il/main/מבצע-החילוץ-בעיצומו-חכ-שקלטה-256968
 https://hamal.co.il/main/דיווח-איראן-העבירה-רשמית-את-תגובתה-להצעה-האמריקנית-256969
+https://hamal.co.il/main/צוות-מד״א-יוצא-לסריקות-במס׳-זירות-בנהריה-256984
+https://hamal.co.il/main/פגיעה-ישירה-בצומת-מרכזית-בעיר-נהריה-256987
