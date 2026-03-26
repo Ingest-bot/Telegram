@@ -1,6 +1,4 @@
 COUNTER:5
-https://news.walla.co.il/item/3825996
-https://hamal.co.il/main/הותר-לפרסום-2-אחים-מי-ם-מואשמים-בריגול-למען-איראן-255971
 https://hamal.co.il/main/הדרמה-בלבנון-חיזבאללה-קורא-לשגריר-איראן-להישאר-במדינה-255974
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255978
 https://news.walla.co.il/break/3826008
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826616
 https://news.walla.co.il/break/3826617
 https://news.walla.co.il/break/3826618
 https://hamal.co.il/main/חיכוך-בין-אזרחים-ישראלים-לפלסטינים-תושב-מזרח-ירושלים-נהרג-257126
+https://news.walla.co.il/break/3826623
+https://news.walla.co.il/item/3826613
