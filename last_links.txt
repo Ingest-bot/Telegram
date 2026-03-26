@@ -1,5 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/כוחות-פיקוד-העורף-בדרך-לזירות-נפילה-בדרום-הארץ-255856
+COUNTER:2
 https://news.walla.co.il/item/3825856
 https://news.walla.co.il/break/3825875
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-255858
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מסע-כומתה-למחזור-השלישי-של-חטי
 https://hamal.co.il/main/אישה-נהרגה-בתאונת-דרכים-ביוש-2-גברים-פונו-במצב-קשה-256967
 https://news.walla.co.il/break/3826526
 https://hamal.co.il/main/מבצע-החילוץ-בעיצומו-חכ-שקלטה-256968
+https://hamal.co.il/main/דיווח-איראן-העבירה-רשמית-את-תגובתה-להצעה-האמריקנית-256969
