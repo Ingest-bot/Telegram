@@ -1,8 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3825858
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בצפון-הארץ-255747
-https://hamal.co.il/main/דיווח-הבית-הלבן-מעוניין-לקדם-את-ה-255761
-https://hamal.co.il/main/מדא-על-הירי-מאיראן-בשלב-זה-לא-ידוע-על-נפגעים-255762
+COUNTER:23
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255763
 https://news.walla.co.il/break/3825861
 https://news.walla.co.il/break/3825862
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3826468
 https://news.walla.co.il/item/3826464
 https://hamal.co.il/main/הרכבת-האווירית-לישראל--8000-טונות-של-ציוד-הגיעו-ב-200-טיסו-256903
 https://hamal.co.il/main/כץ-מאשר-חוסל-מפקד-חיל-הים-של-משמרות-המהפכה-256908
+https://news.walla.co.il/break/3826467
+https://news.walla.co.il/break/3826471
+https://hamal.co.il/main/טראמפ-מדינות-נאטו-לא-עזרו-עם-איראן-שכעת-הושמדה-נזכור-זאת-256911
+https://hamal.co.il/main/גבר-בן-82-נמשה-ממקווה-בפתח-תקווה-במצב-קשה-256912
