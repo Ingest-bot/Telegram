@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3825957
-https://hamal.co.il/main/הירי-מלבנון-סריקות-סמוך-לקריית-שמונה-בשל-חשד-לנפילה-בכביש-255945
-https://news.walla.co.il/break/3825961
-https://news.walla.co.il/break/3825962
+COUNTER:34
 https://hamal.co.il/main/צהל-255946
 https://hamal.co.il/main/הירי-מלבנון-רסיס-נפל-בקריית-שמונה-אין-נפגעים-255947
 https://hamal.co.il/main/לוחם-צהל-נפצע-באורח-בינוני-בתאונה-מבצעית-בדרום-לבנון-255948
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הוסר-החשש-לנעדרים-בערבה-257081
 https://hamal.co.il/main/חיל-האוויר-השלים-כ-20-מטסי-תקיפות-לעבר-אתרי-שיגור-באיראן-257084
 https://hamal.co.il/main/מדיניות-257085
 https://hamal.co.il/main/דיווח-איראן-דורשת-מארה״ב-לצמצם-את-דרישותיה-257087
+https://news.walla.co.il/break/3826590
+https://hamal.co.il/main/הפלת-המשטר-אינה-ריאלית-בשלב-זה-ישראל-משנה-את-מוקד-התקיפות-257090
+https://hamal.co.il/main/ארץ-המנהרות-וסרבנות-בקרב-צוותי-הירי-הצצה-לציד-המשגרים-257079
+https://hamal.co.il/main/טרנסגנדריות-לא-יורשו-להתחרות-מול-נשים-באולימפיאדה-257057
