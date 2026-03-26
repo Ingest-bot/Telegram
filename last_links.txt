@@ -1,8 +1,4 @@
 COUNTER:23
-https://news.walla.co.il/item/3825936
-https://hamal.co.il/main/20-רקטות-שוגרו-מלבנון-דיווח-על-מספר-255919
-https://hamal.co.il/main/המטח-הכבד-לצפון-עד-כה-לא-דווח-על-נפגעים--תיעוד-היירוטים-255923
-https://news.walla.co.il/break/3825942
 https://news.walla.co.il/break/3825944
 https://hamal.co.il/main/צפו-צהל-תקף-תחנת-שידור-ומפקדות-של-חיזבאללה-בלבנון-255925
 https://hamal.co.il/main/מסתמן-המצב-המיוחד-בעורף-יוארך-לעוד-3-שבועות-255926
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3826560
 https://hamal.co.il/main/המטח-האחרון-דיווח-על-נפילת-רסיס-במודיעין---ללא-נפגעים-257050
 https://news.walla.co.il/break/3826563
 https://news.walla.co.il/item/3826566
+https://news.walla.co.il/break/3826570
+https://news.walla.co.il/break/3826569
+https://news.walla.co.il/break/3826574
+https://news.walla.co.il/item/3826571
