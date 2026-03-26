@@ -1,9 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3825986
-https://news.walla.co.il/break/3825985
-https://hamal.co.il/main/בניגוד-לעמדתו-של-בן-גביר-רינת-סבן-קודמה-לדרגת-סנצ-255970
-https://news.walla.co.il/break/3825995
-https://news.walla.co.il/break/3825997
+COUNTER:5
 https://news.walla.co.il/item/3825996
 https://hamal.co.il/main/הותר-לפרסום-2-אחים-מי-ם-מואשמים-בריגול-למען-איראן-255971
 https://hamal.co.il/main/הדרמה-בלבנון-חיזבאללה-קורא-לשגריר-איראן-להישאר-במדינה-255974
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בנט-נתניהו-לא-יודע-לנצח-חיזבאל
 https://hamal.co.il/main/נתניהו-מחבקים-את-משפחתו-של-אביעד-זל-257123
 https://hamal.co.il/main/טראמפ-משהה-את-תקיפת-מתקני-האנרגיה-לתקופה-של-10-ימים-257124
 https://hamal.co.il/main/הותר-לפרסום-אורי-פרץ-זל-הוא-ההרוג-היום-בנהריה-257125
+https://news.walla.co.il/break/3826615
+https://news.walla.co.il/break/3826616
+https://news.walla.co.il/break/3826617
+https://news.walla.co.il/break/3826618
+https://hamal.co.il/main/חיכוך-בין-אזרחים-ישראלים-לפלסטינים-תושב-מזרח-ירושלים-נהרג-257126
