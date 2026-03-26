@@ -1,12 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3825778
-https://news.walla.co.il/break/3825780
-https://news.walla.co.il/break/3825782
-https://news.walla.co.il/break/3825783
-https://hamal.co.il/main/הצבא-עדכן-את-תושבי-קו-העימות-יש-לשהות-בסמוך-למרחב-מוגן-255557
-https://hamal.co.il/main/טראמפ-היו-שיחות-חזקות-עם-איראן-255564
-https://news.walla.co.il/item/3825791
-https://hamal.co.il/main/פרסום-ראשון-הפקת-האח-הגדול-הצמידו-למירה-נואף-מאבטח-255570
+COUNTER:18
 https://hamal.co.il/main/נפילת-אמלח-בגליל-העליון-פצוע-קשה-וקל-בזירה-255572
 https://news.walla.co.il/break/3825793
 https://hamal.co.il/main/גורם-ישראלי-זה-האיראני-הבכיר-שארה״ב-מנהלת-מולו-את-המומ-255583
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3826382
 https://hamal.co.il/main/בעקבות-שיגור-מלבנון-אזעקות-הופעלו-במרכז---ללא-התרעה-מקדימה-256653
 https://hamal.co.il/main/מדא-לא-ידוע-על-נפגעים-צוותים-יצאו-לסרוק-זי-256654
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256656
+https://news.walla.co.il/break/3826383
+https://news.walla.co.il/break/3826384
+https://news.walla.co.il/break/3826385
+https://news.walla.co.il/break/3826386
+https://hamal.co.il/main/מדא-אין-נפגעים-מהירי-למרכז-256658
+https://hamal.co.il/main/דיווח-טראמפ-מכוון-לסיים-את-המלחמה-בשבעות-הקרובים-256660
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נרחב-באיספהאן-256661
+https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-מירי-פצצת-מרגמה-בלבנון-256664
