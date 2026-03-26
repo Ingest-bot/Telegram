@@ -1,9 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3825899
-https://news.walla.co.il/item/3825893
-https://news.walla.co.il/item/3825898
-https://hamal.co.il/main/המשטרה-מבנה-בתל-אביב-ספג-פגיעה-ישירה-255883
-https://hamal.co.il/main/בן-גביר-לא-חתם-על-המינוי-של-רינת-סבן-וערער-255884
+COUNTER:16
 https://hamal.co.il/main/תיעוד-כוחות-פיקוד-העורף-פועלים-בזירת-הנפילה-בתא-255886
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-255888
 https://news.walla.co.il/break/3825903
@@ -499,3 +494,8 @@ https://hamal.co.il/main/קיבלנו-את-החיים-שלנו-לפני-החג--
 https://hamal.co.il/main/נפילה-באיזור-שלומי-בצפון-הארץ-257008
 https://hamal.co.il/main/מנכל-מדא-257015
 https://hamal.co.il/main/הרמטכל-זמיר-מזהיר-צהל-קורס-לתוך-עצמו-257016
+https://news.walla.co.il/break/3826548
+https://hamal.co.il/main/ראשוני-צהל-תוקף-כעת-תשתיות-של-חיזבאללה-בדרום-לבנון-257017
+https://hamal.co.il/main/שיגור-מאיראן-אל-עבר-מרכז-הארץ-257019
+https://hamal.co.il/main/וויטקוף-איראן-מחפשת-כעת-דרך-יציאה-257032
+https://hamal.co.il/main/הטיל-למרכז-הארץ-יורט-בהצלחה-257033
