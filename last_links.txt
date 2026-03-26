@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3825918
-https://news.walla.co.il/break/3825922
-https://news.walla.co.il/item/3825920
+COUNTER:23
 https://hamal.co.il/main/השר-עמיחי-אליהו-העביר-את-חוות-דעתו-על-בקשת-החנינה-לנשיא-255906
 https://hamal.co.il/main/ערביי-יוש-ביצעו-לינץ-בנער-יהודי-אי-255907
 https://news.walla.co.il/item/3825936
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826557
 https://news.walla.co.il/break/3826556
 https://hamal.co.il/main/זוהה-שיגור-נוסף-למרכז-הארץ-257040
 https://hamal.co.il/main/טיל-מצרר-שוגר-לאזור-ירושלים-והשפלה-והמרכז--תיעוד-257048
+https://news.walla.co.il/break/3826562
+https://news.walla.co.il/item/3826560
+https://hamal.co.il/main/המטח-האחרון-דיווח-על-נפילת-רסיס-במודיעין---ללא-נפגעים-257050
