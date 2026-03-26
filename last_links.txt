@@ -1,7 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255763
-https://news.walla.co.il/break/3825861
-https://news.walla.co.il/break/3825862
+COUNTER:25
 https://news.walla.co.il/break/3825863
 https://hamal.co.il/main/בניין-בנשר-ספג-פגיעה-מהמטח-האחרון-אין-נפגעים--צפו-בתיעוד-255766
 https://hamal.co.il/main/פריט-אמל״ח-פגע-בשטח-מפעל-בלימן-אין-נפגעים-255770
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826467
 https://news.walla.co.il/break/3826471
 https://hamal.co.il/main/טראמפ-מדינות-נאטו-לא-עזרו-עם-איראן-שכעת-הושמדה-נזכור-זאת-256911
 https://hamal.co.il/main/גבר-בן-82-נמשה-ממקווה-בפתח-תקווה-במצב-קשה-256912
+https://news.walla.co.il/break/3826482
+https://hamal.co.il/main/רוכב-אופניים-חשמליים-נפגע-מרכב-בראשלצ-מצבו-קשה-256913
+https://hamal.co.il/main/טראמפ-מנהלי-המומ-האיראנים-מתחננים-לעסקה-256914
