@@ -1,11 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/הירי-מאיראן-שריפות-פרצו-בשטחים-פתוחים-סמוך-לנתניה-וראש-העין-255880
-https://news.walla.co.il/break/3825881
-https://news.walla.co.il/break/3825882
-https://news.walla.co.il/break/3825886
-https://news.walla.co.il/break/3825883
-https://news.walla.co.il/item/3825829
-https://news.walla.co.il/break/3825889
+COUNTER:12
 https://news.walla.co.il/break/3825899
 https://news.walla.co.il/item/3825893
 https://news.walla.co.il/item/3825898
@@ -499,3 +492,10 @@ https://hamal.co.il/main/מדא-האירוע-בנהריה---פצוע-אנוש-ו
 https://hamal.co.il/main/צהל-כוחות-בדרכם-לזירה-בנהריה-256996
 https://hamal.co.il/main/מנכל-מדא-הרוג-בזירה-בנהריה-257000
 https://hamal.co.il/main/מדא-מצב-הפצועים-בפגיעה-בנהריה-257003
+https://news.walla.co.il/break/3826543
+https://news.walla.co.il/item/3826541
+https://news.walla.co.il/item/3826531
+https://hamal.co.il/main/קיבלנו-את-החיים-שלנו-לפני-החג--תושב-נהריה-ששהה-סמוך-לנפיל-257006
+https://hamal.co.il/main/נפילה-באיזור-שלומי-בצפון-הארץ-257008
+https://hamal.co.il/main/מנכל-מדא-257015
+https://hamal.co.il/main/הרמטכל-זמיר-מזהיר-צהל-קורס-לתוך-עצמו-257016
