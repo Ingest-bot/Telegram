@@ -1,12 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/חייו-היו-הופעה-אחת-גדולה-הובא-למנוחות-עופר-מושקוביץ-255632
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-בחשש-לחדירת-כטבם-255638
-https://hamal.co.il/main/יו״ר-הפרלמנט-האיראני-מכחיש-לא-התקיים-משא-ומתן-עם-ארהב-255641
-https://news.walla.co.il/break/3825819
-https://news.walla.co.il/item/3825816
-https://hamal.co.il/main/הציתה-את-דירתה-כשעשרות-דיירים-בפנים-השכן-נרצח-255646
-https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הצורך-בהרתחת-מים-בגבעת-שפירא-255648
-https://hamal.co.il/main/טראמפ-אנחנו-מנהלים-מומ-עם-איראן-הרבה-זמן-הפעם-הם-רציניים-255653
+COUNTER:35
 https://hamal.co.il/main/דיווחים-בלבנון-תקיפות-במחוז-נבטיה-בדרום-המדינה-255660
 https://hamal.co.il/main/בזמן-שאנחנו-רצים-לממד---הם-שרים-ורוקדים-9-שב״חים-נעצרו-255587
 https://news.walla.co.il/item/3825820
@@ -499,3 +491,11 @@ https://hamal.co.il/main/בשל-מזג-האוויר-הכבישים-שנחסמו-
 https://hamal.co.il/main/היערכות-לתרחישי-חירום-כוחות-אוגדת-עזה-השלימו-תרגיל-במרחב-256703
 https://hamal.co.il/main/כבה-2-זירות-נפילה-בשומרון-אין-נפגעים-256704
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-ולאזור-ירושלים-256706
+https://news.walla.co.il/break/3826404
+https://news.walla.co.il/break/3826405
+https://news.walla.co.il/break/3826408
+https://news.walla.co.il/break/3826406
+https://news.walla.co.il/break/3826407
+https://news.walla.co.il/item/3826398
+https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-נפילה-במודיעין-לא-ידוע-על-נפגעים-256732
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256734
