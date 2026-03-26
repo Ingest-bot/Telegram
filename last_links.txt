@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/דיווחים-פיצוצים-נשמעים-בסעודיה-255719
+COUNTER:8
 https://hamal.co.il/main/ברקע-ההתפתחויות-עם-איראן-נתניהו-כינס-שיחה-דחופה-עם-ראשי-הקו-255723
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-בדקות-הקרובות-צפויות-אזעקות-באילת-והסביבה-255725
 https://news.walla.co.il/break/3825844
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3826433
 https://news.walla.co.il/item/3826424
 https://hamal.co.il/main/גורם-ישראלי-חוסל-מפקד-חיל-הים-של-משמרות-המהפכה-256826
 https://hamal.co.il/main/200-תשתיות-הושמדו-צפו-בפעילות-צהל-בדרום-לבנון-256829
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאזור-המרכז-256850
