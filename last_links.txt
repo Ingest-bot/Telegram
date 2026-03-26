@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/צהל-255946
-https://hamal.co.il/main/הירי-מלבנון-רסיס-נפל-בקריית-שמונה-אין-נפגעים-255947
-https://hamal.co.il/main/לוחם-צהל-נפצע-באורח-בינוני-בתאונה-מבצעית-בדרום-לבנון-255948
+COUNTER:36
 https://news.walla.co.il/break/3825964
 https://news.walla.co.il/item/3825967
 https://news.walla.co.il/item/3825968
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826590
 https://hamal.co.il/main/הפלת-המשטר-אינה-ריאלית-בשלב-זה-ישראל-משנה-את-מוקד-התקיפות-257090
 https://hamal.co.il/main/ארץ-המנהרות-וסרבנות-בקרב-צוותי-הירי-הצצה-לציד-המשגרים-257079
 https://hamal.co.il/main/טרנסגנדריות-לא-יורשו-להתחרות-מול-נשים-באולימפיאדה-257057
+https://news.walla.co.il/item/3826597
+https://hamal.co.il/main/הותר-לפרסום-סמל-אביעד-וולנסקי-נפל-בקרב-בדרום-לבנון-257092
+https://hamal.co.il/main/ישראל-כץ-אני-מכיר-מקרוב-את-אביו-של-אביעד-257093
