@@ -1,7 +1,4 @@
 COUNTER:5
-https://hamal.co.il/main/הדרמה-בלבנון-חיזבאללה-קורא-לשגריר-איראן-להישאר-במדינה-255974
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-255978
-https://news.walla.co.il/break/3826008
 https://news.walla.co.il/break/3826006
 https://news.walla.co.il/break/3826007
 https://hamal.co.il/main/אדם-נסחף-בנהר-הירדן-צוותי-הצלה-פועלים-255986
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826618
 https://hamal.co.il/main/חיכוך-בין-אזרחים-ישראלים-לפלסטינים-תושב-מזרח-ירושלים-נהרג-257126
 https://news.walla.co.il/break/3826623
 https://news.walla.co.il/item/3826613
+https://news.walla.co.il/break/3826626
+https://news.walla.co.il/break/3826624
+https://news.walla.co.il/break/3826625
