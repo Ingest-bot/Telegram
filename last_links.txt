@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-255820
-https://hamal.co.il/main/מדא-בשלב-זה-לא-ידוע-על-נפגעים-255832
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255834
+COUNTER:37
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-בדרום-255837
 https://news.walla.co.il/break/3825871
 https://news.walla.co.il/break/3825872
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3826495
 https://hamal.co.il/main/הדרך-המפתיעה-להרגיע-את-הגוף-בזמן-אזעקות-256846
 https://hamal.co.il/main/מודל-הליטני-התוכנית-לשינוי-פני-דרום-לבנון-נחשפת-256959
 https://hamal.co.il/main/דיווח-256958
+https://news.walla.co.il/item/3826515
+https://hamal.co.il/main/צהל-חיסלנו-את-ראש-המודיעין-יחד-עם-מפקד-חיל-הים-האיראני-256960
+https://hamal.co.il/main/מהאוויר-מטנקים-ומירי-צלפים-צפו-256962
