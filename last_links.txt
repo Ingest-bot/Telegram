@@ -1,9 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3825867
-https://news.walla.co.il/break/3825868
-https://news.walla.co.il/break/3825869
-https://news.walla.co.il/item/3825870
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255818
+COUNTER:35
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדקות-הקרובות-במרכז-הארץ-255820
 https://hamal.co.il/main/מדא-בשלב-זה-לא-ידוע-על-נפגעים-255832
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-255834
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3826505
 https://news.walla.co.il/break/3826503
 https://news.walla.co.il/item/3826500
 https://hamal.co.il/main/נתניהו-החיסול-בבנדר-עבאס---דוגמא-לשיתוף-הפעולה-עם-ארהב-256953
+https://news.walla.co.il/break/3826512
+https://news.walla.co.il/item/3826495
+https://hamal.co.il/main/הדרך-המפתיעה-להרגיע-את-הגוף-בזמן-אזעקות-256846
+https://hamal.co.il/main/מודל-הליטני-התוכנית-לשינוי-פני-דרום-לבנון-נחשפת-256959
+https://hamal.co.il/main/דיווח-256958
