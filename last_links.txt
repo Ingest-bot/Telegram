@@ -1,6 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/טראמפ-איראן-נתנה-מתנה-ענקית-מעכשיו-נשלוט-במיצר-הורמוז-256161
-https://news.walla.co.il/break/3826077
+COUNTER:6
 https://news.walla.co.il/break/3826076
 https://news.walla.co.il/break/3826075
 https://news.walla.co.il/break/3826079
@@ -499,3 +497,5 @@ https://hamal.co.il/main/-הפגנות-נגד-ישראל-צפויות-במספר
 https://hamal.co.il/main/פרשת-״צו״--זמני-השבת-257243
 https://hamal.co.il/main/יהודה-ושומרון-כ-80-מבוקשים-נעצרו-100-אלף-כספי-טרור-הוחרמו-257247
 https://hamal.co.il/main/מהו-קורבן-התודה-שאנו-מקריבים-וכיצד-הוא-יכול-לנו-257244
+https://hamal.co.il/main/25000-פצצות-ההפתעה-של-צהל-למשגרי-הטילים-המתוחכמים-באיראן-257256
+https://hamal.co.il/main/בשורה-לתושבי-קו-העימות-זמן-ההתגוננות-יוארך-257259
