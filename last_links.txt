@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3826119
+COUNTER:29
 https://news.walla.co.il/break/3826118
 https://news.walla.co.il/break/3826120
 https://news.walla.co.il/break/3826121
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צוות-מדא-יילד-תינוק---ורץ-איתו-�
 https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-257334
 https://hamal.co.il/main/דיווחים-בלבנון-יותר-מ-10-הרוגים-ועשרות-פצועים-בתקיפה-בדרום-257335
 https://hamal.co.il/main/מחבל-חיזבאללה-יצא-מפיר-תת-קרקעי--וחוסל-בהיתקלות-פנים-אל-פנים-257336
+https://hamal.co.il/main/בעקבות-הירי-האחרון-נזק-במלון-במרכז--צפו-257338
