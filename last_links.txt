@@ -1,10 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-256188
-https://hamal.co.il/main/האזעקות-באילת-בוצע-יירוט-מחוץ-למרחב-ללא-נפילות-256206
-https://hamal.co.il/main/אזעקות-הופעלו-באיזור-ירושלים-ובשפלה-256208
-https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-256209
-https://hamal.co.il/main/הקלפיות-לבחירות-החוזרות-בעכו-נסגרו-החלה-ספירת-הקולות-256210
-https://news.walla.co.il/item/3826097
+COUNTER:18
 https://news.walla.co.il/item/3826096
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-256213
 https://hamal.co.il/main/יורט-בהצלחה-הטיל-ששוגר-לאילת-256217
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דיווח-תקיפה-על-בסיס-משמרות-המה
 https://hamal.co.il/main/אזעקות-הופעלו-בירושלים-בשומרון-ובשפלה-257283
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-מאיראן-257287
 https://hamal.co.il/main/כ״ץ-״התקיפות-באיראן-יעלו-מדרגה״-257288
+https://news.walla.co.il/break/3826703
+https://news.walla.co.il/item/3826704
+https://news.walla.co.il/item/3826514
+https://hamal.co.il/main/בפעם-השנייה-היום-אזעקות-הטפעלו-בדרום-עקב-שיגורים-מאיראן-257295
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-אזעקות-צפויות-באיזור-גוש-דן-257296
+https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-הופעלו-בנהריה-257300
