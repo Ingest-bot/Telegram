@@ -1,7 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3826138
-https://hamal.co.il/main/זה-הרכיב-התזונתי-שאולי-חסר-לכם---והוא-משפיע-על-מצב-הרוח-255903
-https://news.walla.co.il/item/3826140
+COUNTER:10
 https://hamal.co.il/main/היא-חשבה-שהיא-סובלת-מהנגאובר---למחרת-כבר-איבדה-את-הראייה-255516
 https://hamal.co.il/main/60-מיליון-שח-ליישובים-בקו-העימות-הסיוע-לתושבי-הצפון-256299
 https://news.walla.co.il/item/3826149
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826735
 https://news.walla.co.il/break/3826736
 https://news.walla.co.il/break/3826737
 https://hamal.co.il/main/הרמטכל-בדרום-לבנון-257373
+https://hamal.co.il/main/רוביו-על-המערכה-באיראן-תסתיים-בשבועות-הקרובים-257374
+https://hamal.co.il/main/איראן-מאיימת-בנקמה-בתגובה-לתקיפות-על-מפעלי-הפלדה-257375
+https://hamal.co.il/main/חיל-האוויר-תקף-את-מפעל-המים-הכבדים-באראכ-257378
