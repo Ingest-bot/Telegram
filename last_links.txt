@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3826162
-https://news.walla.co.il/break/3826163
-https://hamal.co.il/main/רכב-חשוד-זוהה-256307
+COUNTER:16
 https://hamal.co.il/main/לא-רק-מצה-ארבעה-תחליפים-בריאים-ללחם-בפסח-שכדאי-לאמץ-כל-השנה-256291
 https://news.walla.co.il/break/3826177
 https://news.walla.co.il/break/3826178
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3826747
 https://hamal.co.il/main/האקרים-הקשורים-לאיראן-פרסמו-תמונות-אישיות-של-ראש-ה-FBI-257394
 https://news.walla.co.il/item/3826750
 https://hamal.co.il/main/איראן-מאשימה-ישראל-הפרה-את-הדד-ליין-שהציב-טראמפ-למומ-257398
+https://news.walla.co.il/break/3826754
+https://news.walla.co.il/break/3826753
+https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-לעבר-תשתיות-חיזבאללה-בביירות-257399
