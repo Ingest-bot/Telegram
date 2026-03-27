@@ -1,7 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3826102
-https://news.walla.co.il/break/3826103
-https://news.walla.co.il/break/3826104
+COUNTER:27
 https://news.walla.co.il/break/3826115
 https://news.walla.co.il/break/3826119
 https://news.walla.co.il/break/3826118
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826706
 https://news.walla.co.il/item/3826711
 https://hamal.co.il/main/שבר-יירוט-נפל-בחצר-בית-בהרצליה-ללא-נפגעים-257326
 https://hamal.co.il/main/כוחותינו-איתרו-מנהרה-של-חיזבאלה-בתוך-כנסייה-בדרום-לבנון-257327
+https://hamal.co.il/main/צוות-מדא-יילד-תינוק---ורץ-איתו-למקלט-דקות-לאחר-מכן-257330
+https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-257334
+https://hamal.co.il/main/דיווחים-בלבנון-יותר-מ-10-הרוגים-ועשרות-פצועים-בתקיפה-בדרום-257335
