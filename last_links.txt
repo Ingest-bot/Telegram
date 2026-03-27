@@ -1,9 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/שרה-נתניהו-ילדיי-חוו-השפלה-רק-בגלל-שהם-ילדיו-של-רהמ-256104
-https://hamal.co.il/main/מנכל-מדא-מעדכן-נפגעת-אנוש-בצומת-מחניים-256105
-https://news.walla.co.il/item/3826048
-https://hamal.co.il/main/נקבע-מותה-של-הצעירה-שנפצעה-אנוש-במטח-האחרון-לצפון-256107
-https://hamal.co.il/main/חייל-המילואים-שטבע-בירדן-כשניסה-להציל-את-בנו-אוריה-סרוסי-256110
+COUNTER:25
 https://hamal.co.il/main/שיגור-מאיראן-לצפון-הארץ-256111
 https://news.walla.co.il/item/3826050
 https://hamal.co.il/main/מפקד-בכיר-בצבא-ארהב-קיבל-הוראה-להיערך-לפריסה-למזרח-התיכון-256120
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3826657
 https://hamal.co.il/main/דיווח-הותקף-בכיר-במשמרות-המהפכה-257193
 https://news.walla.co.il/break/3826660
 https://hamal.co.il/main/אישום-קצין-בחיל-האוויר-העביר-מידע-סודי-על-תקיפה-באיראן-257196
+https://news.walla.co.il/break/3826663
+https://news.walla.co.il/item/3826662
+https://news.walla.co.il/item/3826666
+https://hamal.co.il/main/הלך-לעולמו-עורך-מעריב-לשעבר-יעקב-ארז-257201
+https://hamal.co.il/main/לאורך-הלילה-צהל-תקף-אתרי-ייצור-טילים-בליסטיים-ברחבי-איראן-257202
