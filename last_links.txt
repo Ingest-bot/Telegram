@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/אזעקות-בדרום-עקב-שיגור-מאיראן-256281
-https://news.walla.co.il/break/3826132
-https://news.walla.co.il/item/3826131
-https://hamal.co.il/main/פינוי-תושבים-בישרש-בשל-שריפה-שפרצה-במושב-256284
+COUNTER:4
 https://hamal.co.il/main/מד״א-עד-כה-ללא-אירועים-חריגים-במטח-האחרון-256285
 https://news.walla.co.il/break/3826135
 https://hamal.co.il/main/מזג-האוויר-גשמים-וחשש-לשיטפונות---מתי-יגיע-המהפך--התחזית-256286
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מכירת-חמץ-עם-בית-חבד-שדרות-ויש�
 https://hamal.co.il/main/צעיר-כבן-20-נפצע-קשה-בתאונת-דרכים-בכביש-431-257356
 https://hamal.co.il/main/חיל-האוויר-יירט-יותר-מ-90-אחוזים-257357
 https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-נרחב-באיראן-257358
+https://news.walla.co.il/item/3826730
+https://hamal.co.il/main/דיווח-באיראן-ישראל-תקפנ-את-מתקן-המים-הכבדים-בארכ-257360
+https://hamal.co.il/main/דיווח-איראן-צפויה-להשיב-היום-להצעה-האמריקנית-257362
+https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-257364
