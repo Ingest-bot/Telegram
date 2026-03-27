@@ -1,7 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3826198
-https://news.walla.co.il/break/3826199
-https://news.walla.co.il/break/3826202
+COUNTER:32
 https://news.walla.co.il/item/3826201
 https://hamal.co.il/main/נער-בן-14-256385
 https://hamal.co.il/main/--256384
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הרוג-ועוד-2-פצועים-קל-בזירת-נפי
 https://hamal.co.il/main/חבלני-המשטרה-פועלים-כעת-על-מנת-לבודד-את-זירות-הנפילה-257442
 https://hamal.co.il/main/צוות-קובעו-את-מותו-של-גבר-כבן-60-257443
 https://hamal.co.il/main/תיעוד-אחת-הנפילות-בגוש-דן-257446
+https://hamal.co.il/main/תיעוד-מזירות-הנפילה-השונות-257452
+https://hamal.co.il/main/פצוע-בינוני-257453
+https://hamal.co.il/main/ניצב-חיים-סרגרוף-מפקד-משטרת-מחוז-בתל-אביב-מסר-בזירה-257455
