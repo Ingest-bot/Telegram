@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/ירי-בלתי-פוסק-לצפון-אזעקות-בגליל-העליון-256272
-https://news.walla.co.il/break/3826129
+COUNTER:1
 https://hamal.co.il/main/אזעקות-בדרום-עקב-שיגור-מאיראן-256281
 https://news.walla.co.il/break/3826132
 https://news.walla.co.il/item/3826131
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826725
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-חיזבאללה-בביירות-257352
 https://hamal.co.il/main/מכירת-חמץ-עם-בית-חבד-שדרות-וישובי-שער-הנגב-257353
 https://hamal.co.il/main/צעיר-כבן-20-נפצע-קשה-בתאונת-דרכים-בכביש-431-257356
+https://hamal.co.il/main/חיל-האוויר-יירט-יותר-מ-90-אחוזים-257357
+https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-נרחב-באיראן-257358
