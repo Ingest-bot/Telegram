@@ -1,8 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3826123
-https://news.walla.co.il/break/3826124
-https://news.walla.co.il/break/3826126
-https://news.walla.co.il/break/3826127
+COUNTER:39
 https://hamal.co.il/main/ירי-בלתי-פוסק-לצפון-אזעקות-בגליל-העליון-256272
 https://news.walla.co.il/break/3826129
 https://hamal.co.il/main/אזעקות-בדרום-עקב-שיגור-מאיראן-256281
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3826722
 https://news.walla.co.il/item/3826723
 https://hamal.co.il/main/נזק-של-מיליארדים-צהל-תקף-את-2-מפעלי-הפלדה-הגדולים-באיראן-257348
 https://hamal.co.il/main/איך-האיראנים-ממשיכים-לשגר-טילים-על-העורף-הישראלי-257351
+https://news.walla.co.il/break/3826725
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-חיזבאללה-בביירות-257352
+https://hamal.co.il/main/מכירת-חמץ-עם-בית-חבד-שדרות-וישובי-שער-הנגב-257353
+https://hamal.co.il/main/צעיר-כבן-20-נפצע-קשה-בתאונת-דרכים-בכביש-431-257356
