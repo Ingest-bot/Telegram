@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3826075
-https://news.walla.co.il/break/3826079
-https://hamal.co.il/main/מצב-פינוי-נפגעים-מהשיגור-הערב-למרכז-הארץ-256162
-https://hamal.co.il/main/לירז-ארז-לא-ממליצה-לאף-בת-18-להפוך-לאמא-256165
-https://hamal.co.il/main/עונת-הרחצה-היתה-אמורה-להיפתח-מחר-אבל-החופים-יישארו-סגורים-256168
+COUNTER:9
 https://hamal.co.il/main/ערבות-הדדית-בערד-מאות-בני-נוער-הגיעו-להתנדב-בפינוי-הריסות-256171
 https://hamal.co.il/main/השר-עמיחי-אליהו-הגיש-לנשיא-המדינה-את-בקשת-החנינה-לנתניהו-256173
 https://news.walla.co.il/break/3826084
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מהו-קורבן-התודה-שאנו-מקריבים-ו
 https://hamal.co.il/main/25000-פצצות-ההפתעה-של-צהל-למשגרי-הטילים-המתוחכמים-באיראן-257256
 https://hamal.co.il/main/בשורה-לתושבי-קו-העימות-זמן-ההתגוננות-יוארך-257259
 https://news.walla.co.il/break/3826692
+https://news.walla.co.il/break/3826695
+https://news.walla.co.il/break/3826696
+https://hamal.co.il/main/ניקיון-פסח-מסוכן-יותר-השנה---כך-תשמרו-על-בני-המשפחה-257249
+https://hamal.co.il/main/קצין-ולוחם-נפצעו-קשה-בתאונה-מבצעית-במהלך-היתקלות-בדרום-לבנון-257262
+https://hamal.co.il/main/אזעקות-הופעלו-בצפון-257268
