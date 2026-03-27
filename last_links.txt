@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/בשעה-האחרונה-צהל-מבצע-ירי-ארטילרי-לעבר-האזור-המזרחי-בעיר-עז-256261
-https://hamal.co.il/main/אזעקות-הופעלו-בצפת-וסביבתה-256267
+COUNTER:36
 https://news.walla.co.il/break/3826123
 https://news.walla.co.il/break/3826124
 https://news.walla.co.il/break/3826126
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-מודיע-יוארך-זמן-ההתגוננות-
 https://hamal.co.il/main/דיווח-מפעלי-פלדה-באיראן-הותקפו-הנשיא-יצא-לסיבוב-בחנויות-257347
 https://news.walla.co.il/break/3826722
 https://news.walla.co.il/item/3826723
+https://hamal.co.il/main/נזק-של-מיליארדים-צהל-תקף-את-2-מפעלי-הפלדה-הגדולים-באיראן-257348
+https://hamal.co.il/main/איך-האיראנים-ממשיכים-לשגר-טילים-על-העורף-הישראלי-257351
