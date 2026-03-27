@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/מקום-הפגיעה-בכביש-90-שבו-נהרגה-האישה-256125
-https://news.walla.co.il/break/3826054
-https://news.walla.co.il/break/3826053
+COUNTER:31
 https://news.walla.co.il/break/3826051
 https://hamal.co.il/main/הירי-לצפון-2-פצועים-מרסיסי-זכוכיות-במצב-קל-256126
 https://hamal.co.il/main/רגע-הנפילה-של-הטיל-האיראני-בצפת-256130
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הליכוד-יורד-בן-גביר-עולה-איזנק
 https://hamal.co.il/main/דירה-בחולון-שימשה-בית-בושת-מחתרתי-257203
 https://hamal.co.il/main/כווית-נמל-א-שוויח׳-הותקף-על-ידי-כטב״מים-257204
 https://hamal.co.il/main/שגרירות-סעודה-בביירות-לאזרחיה-בקריאה-מיידית-לעזוב-את-לבנון-257205
+https://news.walla.co.il/item/3826670
+https://hamal.co.il/main/עיתונאי-ספורט-נעצר-בדרום-אפריקה-בחשד-לטרור-ליד-מוסד-יהודי-257207
+https://hamal.co.il/main/הפגיעה-במערך-הימי-נמשכת-257208
