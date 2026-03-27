@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/בשל-חשש-לשיטפונות-אלו-הכבישים-בדרום-256304
-https://hamal.co.il/main/מפקד-פיקוד-המרכז-לראשי-רשויות-256306
+COUNTER:15
 https://news.walla.co.il/break/3826162
 https://news.walla.co.il/break/3826163
 https://hamal.co.il/main/רכב-חשוד-זוהה-256307
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826744
 https://news.walla.co.il/break/3826745
 https://news.walla.co.il/item/3826747
 https://hamal.co.il/main/האקרים-הקשורים-לאיראן-פרסמו-תמונות-אישיות-של-ראש-ה-FBI-257394
+https://news.walla.co.il/item/3826750
+https://hamal.co.il/main/איראן-מאשימה-ישראל-הפרה-את-הדד-ליין-שהציב-טראמפ-למומ-257398
