@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3826201
-https://hamal.co.il/main/נער-בן-14-256385
-https://hamal.co.il/main/--256384
+COUNTER:35
 https://hamal.co.il/main/פועל-נפל-באתר-בנייה-בחיפה-מצבו-קשה-256388
 https://news.walla.co.il/break/3826217
 https://news.walla.co.il/break/3826214
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-אחת-הנפילות-בגוש-דן-257446
 https://hamal.co.il/main/תיעוד-מזירות-הנפילה-השונות-257452
 https://hamal.co.il/main/פצוע-בינוני-257453
 https://hamal.co.il/main/ניצב-חיים-סרגרוף-מפקד-משטרת-מחוז-בתל-אביב-מסר-בזירה-257455
+https://hamal.co.il/main/טראמפ-״אנחנו-קרובים-מתמיד-למזרח-תיכון-חופשי-מטרור-איראני-257456
+https://hamal.co.il/main/לוחמי-האש-פועלים-ב-11-זירות-במחוז-דן-257457
+https://hamal.co.il/main/נפילת-שבר-ירוט-סמוך-לכפר-סבא-257459
