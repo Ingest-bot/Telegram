@@ -1,9 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3826051
-https://hamal.co.il/main/הירי-לצפון-2-פצועים-מרסיסי-זכוכיות-במצב-קל-256126
-https://hamal.co.il/main/רגע-הנפילה-של-הטיל-האיראני-בצפת-256130
-https://news.walla.co.il/break/3826060
-https://news.walla.co.il/item/3826058
+COUNTER:35
 https://hamal.co.il/main/טיל-ששוגר-מאיראן-על-ידי-משטר-הטרור-האיראני-נפל-בביירות-256132
 https://hamal.co.il/main/מקרון-שוחח-עם-הרצוג-והביע-סולידריות-מלאה-עם-ישראל-256133
 https://news.walla.co.il/item/3826057
@@ -499,3 +494,8 @@ https://hamal.co.il/main/שגרירות-סעודה-בביירות-לאזרחיה
 https://news.walla.co.il/item/3826670
 https://hamal.co.il/main/עיתונאי-ספורט-נעצר-בדרום-אפריקה-בחשד-לטרור-ליד-מוסד-יהודי-257207
 https://hamal.co.il/main/הפגיעה-במערך-הימי-נמשכת-257208
+https://news.walla.co.il/break/3826672
+https://hamal.co.il/main/אזעקות-הופעלו-במטולה-257211
+https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליון-257217
+https://hamal.co.il/main/פוטין-התחנן-לאוליגרכים-תרמו-מכספכם-לתקציב-המדינה-257215
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-257218
