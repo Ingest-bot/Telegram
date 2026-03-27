@@ -1,5 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/item/3826150
 https://hamal.co.il/main/עבודות-המיגון-בצפון-120-מיגוניות-נוספות-נפרסו-מתחילת-המבצע-256303
 https://hamal.co.il/main/בשל-חשש-לשיטפונות-אלו-הכבישים-בדרום-256304
 https://hamal.co.il/main/מפקד-פיקוד-המרכז-לראשי-רשויות-256306
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3826741
 https://news.walla.co.il/break/3826742
 https://news.walla.co.il/break/3826744
 https://news.walla.co.il/break/3826745
+https://news.walla.co.il/item/3826747
