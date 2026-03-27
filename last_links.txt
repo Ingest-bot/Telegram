@@ -1,9 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/מזג-האוויר-גשמים-וחשש-לשיטפונות---מתי-יגיע-המהפך--התחזית-256286
-https://hamal.co.il/main/שריפה-פרצה-במושב-סמוך-לרמלה-256287
-https://hamal.co.il/main/אישום-הוגש-נגד-החשוד-ברצח-מחוץ-למועדון-בתא-256288
-https://hamal.co.il/main/ניסה-לחטוף-נשק-של-לוחם---וחוסל-3-מחבלים-נעצרו-במזרח-י-ם-256289
-https://hamal.co.il/main/באיראן-לועגים-לטראמפ-ארהב-מנהלת-מומ-עם-עצמה-256290
+COUNTER:7
 https://news.walla.co.il/break/3826138
 https://hamal.co.il/main/זה-הרכיב-התזונתי-שאולי-חסר-לכם---והוא-משפיע-על-מצב-הרוח-255903
 https://news.walla.co.il/item/3826140
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-איראן-צפויה-להשיב-היום-ל
 https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-257364
 https://hamal.co.il/main/חשש-לחדירת-כלי-טיס-עוין-אזעקות-הופעלו-בגליל-העליון-257371
 https://hamal.co.il/main/באיראן-מדווחים-הותקן-מתקן-גרעין-נוסף-במדינה-257372
+https://news.walla.co.il/break/3826734
+https://news.walla.co.il/break/3826735
+https://news.walla.co.il/break/3826736
+https://news.walla.co.il/break/3826737
+https://hamal.co.il/main/הרמטכל-בדרום-לבנון-257373
