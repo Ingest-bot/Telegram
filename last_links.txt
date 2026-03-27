@@ -1,7 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-255905
-https://news.walla.co.il/item/3826186
-https://news.walla.co.il/item/3826183
+COUNTER:17
 https://hamal.co.il/main/אחרי-האזעקות-זוהה-שיגור-נוסף-מאיראן-256355
 https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-הופעלו-באצבע-הגליל-256357
 https://hamal.co.il/main/הירי-מאיראן-256359
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826757
 https://news.walla.co.il/break/3826759
 https://news.walla.co.il/item/3826752
 https://news.walla.co.il/item/3826756
+https://news.walla.co.il/break/3826760
+https://news.walla.co.il/item/3826759
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-257401
