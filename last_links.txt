@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/שיגור-מאיראן-לצפון-הארץ-256111
-https://news.walla.co.il/item/3826050
+COUNTER:27
 https://hamal.co.il/main/מפקד-בכיר-בצבא-ארהב-קיבל-הוראה-להיערך-לפריסה-למזרח-התיכון-256120
 https://hamal.co.il/main/ראשוני-חשד-לנפילה-בצפון-256122
 https://hamal.co.il/main/מקום-הפגיעה-בכביש-90-שבו-נהרגה-האישה-256125
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3826662
 https://news.walla.co.il/item/3826666
 https://hamal.co.il/main/הלך-לעולמו-עורך-מעריב-לשעבר-יעקב-ארז-257201
 https://hamal.co.il/main/לאורך-הלילה-צהל-תקף-אתרי-ייצור-טילים-בליסטיים-ברחבי-איראן-257202
+https://hamal.co.il/main/הליכוד-יורד-בן-גביר-עולה-איזנקוט-מתחזק--סקר-מעריב-257191
+https://hamal.co.il/main/דירה-בחולון-שימשה-בית-בושת-מחתרתי-257203
