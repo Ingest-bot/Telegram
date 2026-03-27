@@ -1,8 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/דקות-אחרי-יירוט-השיגור-זוהה-שוב-ירי-לאילת-256220
-https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-משטר-הטרור-האיראני-בטהרן-256221
-https://hamal.co.il/main/לא-זוהה-שיגור-נוסף-לאילת---מדובר-בתקלה-256222
-https://news.walla.co.il/break/3826101
+COUNTER:24
 https://news.walla.co.il/break/3826102
 https://news.walla.co.il/break/3826103
 https://news.walla.co.il/break/3826104
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווח-בסעודיה-יירוט-כטב״ם-באז�
 https://hamal.co.il/main/דיווח-בלבנון-תקיפה-בצפון-איזוא-בקאע-257322
 https://hamal.co.il/main/חדירת-כלי-הטיס-בגליל-המערבי---אזעקת-שווא-257323
 https://hamal.co.il/main/כשהוא-מחופש-ללוחם-כליאה-בן-גביר-ערך-ביקורת-פתע-257325
+https://news.walla.co.il/break/3826706
+https://news.walla.co.il/item/3826711
+https://hamal.co.il/main/שבר-יירוט-נפל-בחצר-בית-בהרצליה-ללא-נפגעים-257326
+https://hamal.co.il/main/כוחותינו-איתרו-מנהרה-של-חיזבאלה-בתוך-כנסייה-בדרום-לבנון-257327
