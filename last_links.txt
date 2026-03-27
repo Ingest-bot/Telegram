@@ -1,5 +1,4 @@
 COUNTER:6
-https://news.walla.co.il/break/3826076
 https://news.walla.co.il/break/3826075
 https://news.walla.co.il/break/3826079
 https://hamal.co.il/main/מצב-פינוי-נפגעים-מהשיגור-הערב-למרכז-הארץ-256162
@@ -499,3 +498,4 @@ https://hamal.co.il/main/יהודה-ושומרון-כ-80-מבוקשים-נעצר
 https://hamal.co.il/main/מהו-קורבן-התודה-שאנו-מקריבים-וכיצד-הוא-יכול-לנו-257244
 https://hamal.co.il/main/25000-פצצות-ההפתעה-של-צהל-למשגרי-הטילים-המתוחכמים-באיראן-257256
 https://hamal.co.il/main/בשורה-לתושבי-קו-העימות-זמן-ההתגוננות-יוארך-257259
+https://news.walla.co.il/break/3826692
