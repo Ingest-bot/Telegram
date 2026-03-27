@@ -1,9 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/לא-רק-מצה-ארבעה-תחליפים-בריאים-ללחם-בפסח-שכדאי-לאמץ-כל-השנה-256291
-https://news.walla.co.il/break/3826177
-https://news.walla.co.il/break/3826178
-https://hamal.co.il/main/בתום-מרדף-יורט-הכטבם-שחדר-לצפון-256343
-https://hamal.co.il/main/שיגרו-רקטות---וניסו-לברוח-כלי-טיס-של-חיל-האוויר-זיהו-וחיסלו-256346
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-255905
 https://news.walla.co.il/item/3826186
 https://news.walla.co.il/item/3826183
@@ -499,3 +494,8 @@ https://hamal.co.il/main/איראן-מאשימה-ישראל-הפרה-את-הדד
 https://news.walla.co.il/break/3826754
 https://news.walla.co.il/break/3826753
 https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-לעבר-תשתיות-חיזבאללה-בביירות-257399
+https://news.walla.co.il/break/3826758
+https://news.walla.co.il/break/3826757
+https://news.walla.co.il/break/3826759
+https://news.walla.co.il/item/3826752
+https://news.walla.co.il/item/3826756
