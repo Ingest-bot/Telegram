@@ -1,5 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3826149
+COUNTER:13
 https://hamal.co.il/main/המלל-מזהיר-256300
 https://hamal.co.il/main/צהל-256301
 https://hamal.co.il/main/בשל-מזג-האוויר-כביש-40-בדרום-נחסם-לתנועה-256302
@@ -499,3 +498,4 @@ https://hamal.co.il/main/איראן-מאיימת-בנקמה-בתגובה-לתק�
 https://hamal.co.il/main/חיל-האוויר-תקף-את-מפעל-המים-הכבדים-באראכ-257378
 https://hamal.co.il/main/צהל-מאשר-תקפנו-מתקן-גרעין-נוסף-באיראן-257381
 https://hamal.co.il/main/אזעקות-בגליל-העליון-ובקריות-257386
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-קריאות-257387
