@@ -1,8 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3826121
-https://news.walla.co.il/item/3826111
-https://news.walla.co.il/item/3826117
-https://hamal.co.il/main/יורט-בהצלחה-הטיל-ששוגר-מאיראן-256246
+COUNTER:32
 https://hamal.co.il/main/רוכב-אופנוע-בן-26-נהרג-ברחובות-256247
 https://hamal.co.il/main/לטראמפ-עומדות-כל-האפשרויות-אלפי-חיילים-אמריקאים-בדרך-256251
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליון-256259
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מחבל-חיזבאללה-יצא-מפיר-תת-קרקע
 https://hamal.co.il/main/בעקבות-הירי-האחרון-נזק-במלון-במרכז--צפו-257338
 https://news.walla.co.il/break/3826716
 https://news.walla.co.il/break/3826717
+https://news.walla.co.il/item/3826720
+https://hamal.co.il/main/דיווח-המודיעין-האמריקני-מעריך---שני-שליש-מארסנל-הטילים-של-א-257341
+https://hamal.co.il/main/מאות-אמצעי-לחימה-אותרו-בבית-ספר-בכפר-אל-חיאם-בדרום-לבנון-257340
+https://hamal.co.il/main/ראש-אכא-למשרתים-257342
