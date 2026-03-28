@@ -1,13 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3826214
-https://news.walla.co.il/item/3826212
-https://hamal.co.il/main/מתווה-הפיצויים-למעונות-ולגנים-כך-תקבלו-את-הכסף-חזרה-256391
-https://hamal.co.il/main/כץ-אישרנו-256392
-https://news.walla.co.il/break/3826222
-https://news.walla.co.il/break/3826228
-https://news.walla.co.il/break/3826231
-https://hamal.co.il/main/בכיר-איראני-מאשר-מסמך-הצעת-הפסקת-האש-הועבר-לידינו-256398
-https://news.walla.co.il/break/3826235
+COUNTER:1
 https://news.walla.co.il/break/3826237
 https://news.walla.co.il/item/3826236
 https://news.walla.co.il/item/3826240
@@ -499,3 +490,12 @@ https://hamal.co.il/main/לוחמי-האש-פועלים-ב-11-זירות-במח�
 https://hamal.co.il/main/נפילת-שבר-ירוט-סמוך-לכפר-סבא-257459
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לעבר-הדרום-אזעקות-צפויות-בדקות-הקרובות-257461
 https://hamal.co.il/main/הרוג-ו-4-פצועים-קל-בינוני-בזירות-נפילה-בתל-אביב-ובדרום-257464
+https://news.walla.co.il/break/3826772
+https://news.walla.co.il/break/3826773
+https://news.walla.co.il/break/3826776
+https://news.walla.co.il/break/3826775
+https://news.walla.co.il/break/3826777
+https://hamal.co.il/main/12-חיילים-אמריקאים-נפצעו-בתקיפה-האיראנית-בסעודיה-257483
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-257485
+https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-257489
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257490
