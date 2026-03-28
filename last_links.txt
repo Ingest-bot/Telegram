@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/פרסום-ראשון-צהל-חיסל-למעלה-מ-60-מחבלים-ברצועת-עזה-256416
-https://hamal.co.il/main/האזעקות-בקריית-שמונה-דיווח-על-נפילה-בעיר-256421
-https://news.walla.co.il/break/3826254
+COUNTER:10
 https://news.walla.co.il/item/3826252
 https://hamal.co.il/main/חשד-להתעללות-בתינוק-בן-8-חודשים-זוג-הורים-מעכו-נעצרו-256422
 https://hamal.co.il/main/חמץ-256419
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826783
 https://news.walla.co.il/break/3826785
 https://news.walla.co.il/break/3826787
 https://hamal.co.il/main/במהלך-היתקלות-2-קצינים-נפצעו-באורח-קשה-ובינוני-בלבנון-257549
+https://news.walla.co.il/break/3826788
+https://news.walla.co.il/break/3826789
+https://hamal.co.il/main/לאחר-40-דקות-של-מרדף-יורט-הכטבם-בצפון-257551
