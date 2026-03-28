@@ -1,5 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256408
+COUNTER:6
 https://hamal.co.il/main/נתיב-אסטרטגי-התקיפה-הישראלית-החריגה-בלב-הים-הכספי--דיווח-256409
 https://news.walla.co.il/break/3826243
 https://news.walla.co.il/item/3826241
@@ -499,3 +498,4 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257495
 https://hamal.co.il/main/הטיל-ששוגר-מאיראן-לעבר-מרכז-הארץ-יורט-בהצלחה-257504
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257505
 https://hamal.co.il/main/זוהו-שיגורים-לדרום-257509
+https://hamal.co.il/main/זוהו-שיגורים-לעבר-אילת-257512
