@@ -1,6 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3826348
-https://hamal.co.il/main/הרחק-מהעין-בתנאים-קיצוניים-הצצה-לזרוע-הארוכה-של-חיל-האוויר-256577
 https://hamal.co.il/main/חייל-במילואים-נפצע-באורח-קשה-כתוצאה-מירי-רקטי-לעבר-הכוחות-בש-256606
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-256610
 https://hamal.co.il/main/אין-לנו-לאן-לרוץ-זעם-בתא-על-מקלטים-בגנים-שנסגרו-לציבור-256614
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826879
 https://news.walla.co.il/break/3826880
 https://news.walla.co.il/break/3826881
 https://hamal.co.il/main/הכטבם-מתקרב---ומתפוצץ-באוויר-תיעוד-היירוט-באילת-257744
+https://news.walla.co.il/break/3826883
+https://news.walla.co.il/break/3826884
