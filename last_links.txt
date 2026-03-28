@@ -1,7 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3826266
-https://news.walla.co.il/item/3826268
-https://news.walla.co.il/break/3826274
 https://news.walla.co.il/item/3826273
 https://hamal.co.il/main/המעבר-לשעון-קיץ-הולך-להיות-קשה-כך-תשרדו-את-השבוע-הקרוב-256294
 https://hamal.co.il/main/מזכל-חיזבאללה-נמשיך-להילחם-ללא-גבולות-משא-ומתן-תחת-אש-ה-256475
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826800
 https://news.walla.co.il/item/3826796
 https://news.walla.co.il/break/3826807
 https://news.walla.co.il/break/3826806
+https://news.walla.co.il/break/3826808
+https://news.walla.co.il/break/3826809
+https://news.walla.co.il/break/3826810
