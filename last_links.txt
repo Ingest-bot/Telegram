@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/מזכל-חיזבאללה-נמשיך-להילחם-ללא-גבולות-משא-ומתן-תחת-אש-ה-256475
-https://hamal.co.il/main/צה״ל-השלים-במהלך-הלילה-גל-תקיפות-לעבר-אתרי-ייצור-אמצעי-לחימה-256476
-https://news.walla.co.il/break/3826287
+COUNTER:16
 https://hamal.co.il/main/בסגירת-מעגל-מהירה-לוחמי-חטיבה-401-חיסלו-מהקרקע-חוליית-מחבלי-256477
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יופעלו-באילת-והסביבה-256479
 https://hamal.co.il/main/אזעקות-נשמעו-באילת-הערבה-והסביבה-256483
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826809
 https://news.walla.co.il/break/3826810
 https://news.walla.co.il/item/3826814
 https://hamal.co.il/main/דובר-צה״ל-בערבית-מפרסם-אזהרה-לתושבי-לבנון-257558
+https://news.walla.co.il/item/3826802
+https://hamal.co.il/main/פגישת-חירום-בין-מצרים-איראן-טורקיה-וסעודיה-257559
+https://hamal.co.il/main/נשיא-איראן-ניתן-תגובה-חזקה-לאויב-257561
