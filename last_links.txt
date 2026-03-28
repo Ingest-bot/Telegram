@@ -1,7 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3826304
-https://news.walla.co.il/break/3826305
-https://hamal.co.il/main/2-עתירות-לבגץ-נגד-מינוי-יפעת-בן-חי-שגב-ליור-הרשות-השניה-256514
+COUNTER:30
 https://hamal.co.il/main/פצוע-קשה-באירוע-ירי-בשגב-שלום-המשטרה-פתחה-בחקירה-256531
 https://news.walla.co.il/break/3826306
 https://news.walla.co.il/break/3826308
@@ -499,3 +496,6 @@ https://hamal.co.il/main/כוחות-חילוץ-והצלה-בדרכם-לזירת-
 https://hamal.co.il/main/מדא-מדווחים-על-נזקים-במס-בתים-עדיין-לא-ידוע-על-נפגעים-257610
 https://hamal.co.il/main/הנפילה-סמוך-לבית-שמש-הרס-במספר-בתים-257611
 https://hamal.co.il/main/במדא-מעדכנים-257612
+https://hamal.co.il/main/צהל-חיסלנו-מחבל-חיזבאללה-שפעל-במסווה-של-עיתונאי--התיעוד-257613
+https://hamal.co.il/main/הזירה-באשתאול-במקום---נפגעים-קל-בלבד-257616
+https://hamal.co.il/main/הנפילה-באשתאול-7-פצועים-במצב-קל-257617
