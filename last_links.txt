@@ -1,6 +1,4 @@
 COUNTER:13
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-256463
-https://hamal.co.il/main/הירי-לדרום-דיווחים-על-נפילה-בשטח-פתוח-בנגב-אין-נפגעים-256473
 https://news.walla.co.il/break/3826266
 https://news.walla.co.il/item/3826268
 https://news.walla.co.il/break/3826274
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826798
 https://news.walla.co.il/break/3826799
 https://news.walla.co.il/break/3826800
 https://news.walla.co.il/item/3826796
+https://news.walla.co.il/break/3826807
+https://news.walla.co.il/break/3826806
