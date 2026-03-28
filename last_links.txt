@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/בשורה-למילואימניקים-הכנסת-אישרה-העדפה-מתקנת-למשרתים-באקדמיה-256626
-https://news.walla.co.il/break/3826361
-https://news.walla.co.il/break/3826362
-https://hamal.co.il/main/אזעקות-בקש-והסביבה-256629
+COUNTER:21
 https://hamal.co.il/main/דרמה-ביהמש-קבע-כי-מטא-וגוגל-אשמות-בהתמכרות-בני-נוער-256633
 https://news.walla.co.il/break/3826364
 https://news.walla.co.il/break/3826372
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווח-באיראן-צהל-תקף-בטהראן-2577
 https://news.walla.co.il/item/3826896
 https://hamal.co.il/main/שבר-טיל-אותר-בבית-בסביון-תושבים-הונחו-להישאר-במרחבים-מוגנים-257793
 https://news.walla.co.il/break/3826897
+https://news.walla.co.il/break/3826899
+https://news.walla.co.il/item/3826897
+https://hamal.co.il/main/בן-30-נורה-למוות-ביפיע-הרקע-פלילי-257795
+https://hamal.co.il/main/שיגור-מלבנון-אזעקות-בנהריה-והסביבה-257799
