@@ -1,8 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/דרמה-ביהמש-קבע-כי-מטא-וגוגל-אשמות-בהתמכרות-בני-נוער-256633
-https://news.walla.co.il/break/3826364
-https://news.walla.co.il/break/3826372
-https://news.walla.co.il/break/3826373
+COUNTER:22
 https://hamal.co.il/main/שריפה-פרצה-במרכז-רפואי-בשרון-4-נפצעו---המשטרה-חוקרת-256634
 https://hamal.co.il/main/אזעקות-במרכז-הארץ-256643
 https://news.walla.co.il/break/3826381
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3826899
 https://news.walla.co.il/item/3826897
 https://hamal.co.il/main/בן-30-נורה-למוות-ביפיע-הרקע-פלילי-257795
 https://hamal.co.il/main/שיגור-מלבנון-אזעקות-בנהריה-והסביבה-257799
+https://news.walla.co.il/break/3826903
+https://news.walla.co.il/break/3826905
+https://news.walla.co.il/break/3826907
+https://hamal.co.il/main/דובר-החותים-שהאויב-הפושע-יפסיק-את-תוקפנותו-והתקפותיו-257805
