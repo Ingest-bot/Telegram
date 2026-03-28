@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3826252
-https://hamal.co.il/main/חשד-להתעללות-בתינוק-בן-8-חודשים-זוג-הורים-מעכו-נעצרו-256422
-https://hamal.co.il/main/חמץ-256419
+COUNTER:13
 https://hamal.co.il/main/הירי-מלבנון-דיווחים-על-2-פצועים-קל-בכרמיאל-256447
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-256449
 https://news.walla.co.il/break/3826259
@@ -499,3 +496,6 @@ https://hamal.co.il/main/במהלך-היתקלות-2-קצינים-נפצעו-ב�
 https://news.walla.co.il/break/3826788
 https://news.walla.co.il/break/3826789
 https://hamal.co.il/main/לאחר-40-דקות-של-מרדף-יורט-הכטבם-בצפון-257551
+https://hamal.co.il/main/החותים-בהצהרה-נמשיך-עד-שתפסק-התוקפנות-בכל-החזיתות-257553
+https://hamal.co.il/main/יותר-מ-50-מטוסים-מטס-תקיפה-לעבר-תשתיות-משטר-הטרור-האיראני-257555
+https://hamal.co.il/main/תקיפות-נגד-מתחם-תעשייתי-בנמל-דיר-במחוז-בושהר-דרום-איראן-257556
