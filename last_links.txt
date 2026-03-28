@@ -1,8 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3826347
-https://hamal.co.il/main/שר-החוץ-של-איראן-עבאס-עראקצ׳י-טוען-שאין-משא-ומתן-עם-ארהב-256597
-https://hamal.co.il/main/ירי-לא-הפסקה-אזעקות-בקריית-שמונה-והסביבה-256600
-https://hamal.co.il/main/ישראל-מתנגדת-להכנסת-חיזבאללה-למומ-עם-איראן-256604
+COUNTER:13
 https://news.walla.co.il/break/3826348
 https://hamal.co.il/main/הרחק-מהעין-בתנאים-קיצוניים-הצצה-לזרוע-הארוכה-של-חיל-האוויר-256577
 https://hamal.co.il/main/חייל-במילואים-נפצע-באורח-קשה-כתוצאה-מירי-רקטי-לעבר-הכוחות-בש-256606
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תמר-הברפלד-בת-12-מחיפה-היא-ההרו�
 https://news.walla.co.il/break/3826878
 https://hamal.co.il/main/כוכבת-חתונה-ממבט-ראשון-התחתנה-עברנו-חתיכת-מסע-257738
 https://hamal.co.il/main/שיגור-מתימן-אזעקות-חדירת-כטבם-באילת-והסביבה-257742
+https://news.walla.co.il/break/3826879
+https://news.walla.co.il/break/3826880
+https://news.walla.co.il/break/3826881
+https://hamal.co.il/main/הכטבם-מתקרב---ומתפוצץ-באוויר-תיעוד-היירוט-באילת-257744
