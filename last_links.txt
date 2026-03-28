@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/כך-הפתיעו-עובדי-בית-החולים-פלימן-את-המאושפזים-עובדי-בית-החו-256557
-https://hamal.co.il/main/אזעקות-נשמעו-במטולה-256560
-https://hamal.co.il/main/דיווח-רה״מ-הורה-להאיץ-את-התקיפות-באיראן-ונתן-לצהל-48-שעות-256564
-https://hamal.co.il/main/אזעקות-בצפון-הגולן-256567
+COUNTER:0
 https://hamal.co.il/main/לא-העת-להטריל-החוק-של-לפיד-להגדרת-קטאר-כמדינת-איוב-נפל-256495
 https://news.walla.co.il/break/3826328
 https://news.walla.co.il/break/3826331
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3826857
 https://hamal.co.il/main/הפליטה---והבדיחה-של-הבית-הלבן-צריכים-לפתוח-את-מצר-טראמפ-257669
 https://news.walla.co.il/break/3826859
 https://hamal.co.il/main/רוני-דיילה-וחלק-מהזרים-במכבי-תא-צפויים-לשוב-לישראל-בקרוב-257676
+https://news.walla.co.il/break/3826865
+https://hamal.co.il/main/כעת-בחיפה-257683
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-בדקות-הקרובות-יופעלו-אזעקות-257686
+https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בבאר-שבע-מצבו-קשה-257687
