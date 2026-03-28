@@ -1,10 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3826350
-https://hamal.co.il/main/ארה״ב-וישראל-הסירו-זמנית-שני-בכירים-איראנים-מרשימת-החיסולים-256615
-https://hamal.co.il/main/תיעדו-כל-תנועה-בבניין-יוקרה-בת״א-ראש-ארגון-פשע-וזוגתו-עוכבו-256502
-https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-256618
-https://news.walla.co.il/item/3826355
-https://hamal.co.il/main/אזעקות-נשמעו-באצבע-הגליל-מחשש-לחדירת-כטבם-256621
+COUNTER:17
 https://news.walla.co.il/item/3826354
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-256624
 https://hamal.co.il/main/התשובה-לכשהגלים-מתחזקים-מיה-שם-תככב-במיקרו-דרמה-של-רשת-13-256499
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3826884
 https://hamal.co.il/main/שיגור-מאיראן-בדקות-הקרובות-יופעלו-אזעקות-בדרום-הארץ-257748
 https://hamal.co.il/main/במקביל-לירי-מאיראן-לדרום-שיגור-לגליל-המערבי---מלבנון-257771
 https://hamal.co.il/main/הירי-לגליל-ולנגב-הטילים-יורטו-בהצלחה-אין-דיווחים-חריגים-257773
+https://news.walla.co.il/break/3826890
+https://news.walla.co.il/break/3826889
+https://news.walla.co.il/break/3826887
+https://news.walla.co.il/break/3826888
+https://news.walla.co.il/break/3826891
+https://hamal.co.il/main/ערערה-גבר-בן-30-נפצע-באירוע-אלימות-מצבו-קשה-257774
