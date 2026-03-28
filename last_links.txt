@@ -1,8 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3826331
-https://news.walla.co.il/break/3826332
-https://news.walla.co.il/break/3826334
-https://news.walla.co.il/break/3826333
+COUNTER:4
 https://hamal.co.il/main/זיו-אגמון-מודיעי-על-סיום-תפקידו-ופרישה-מהחיים-הציבוריים-256572
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-וסביבתה-256579
 https://hamal.co.il/main/גורם-ביטחוני-״ישראל-לא-תסכים-להקפאת-הגרעין-רק-לחיסול-מוחלט-256573
@@ -499,3 +495,7 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-בדק�
 https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בבאר-שבע-מצבו-קשה-257687
 https://hamal.co.il/main/הירי-מאיראן-לאילת-257693
 https://hamal.co.il/main/דיווח-ראשוני-פריט-אמלח-נפל-במבנה-באילת-אין-נפגעים-257697
+https://news.walla.co.il/break/3826869
+https://news.walla.co.il/break/3826870
+https://hamal.co.il/main/החשד-לנפילת-אמלח-באילת-לא-אותרה-פגיעה-או-ממצאים-בזירה-257703
+https://hamal.co.il/main/תאונת-דרכים-בנגב-3-גברים-נהרגו-2-גברים-פונו-במצב-קשה-257704
