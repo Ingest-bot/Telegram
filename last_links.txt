@@ -1,6 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3826383
-https://news.walla.co.il/break/3826384
+COUNTER:29
 https://news.walla.co.il/break/3826385
 https://news.walla.co.il/break/3826386
 https://hamal.co.il/main/מדא-אין-נפגעים-מהירי-למרכז-256658
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחש�
 https://news.walla.co.il/break/3826923
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-מחשש-לחדירת-כטבם-257827
 https://hamal.co.il/main/אזעקות-בקש-והסביבה-מחשש-לחדירת-כטבם-257834
+https://hamal.co.il/main/אזעקות-באזור-הכרמל-והשרון-בעקבות-שיגורים-מלבנון-257843
+https://hamal.co.il/main/האזעקות-בצפון-הטיל-ככל-הנראה-יורט-257845
