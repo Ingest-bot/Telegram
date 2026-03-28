@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3826296
-https://news.walla.co.il/break/3826297
+COUNTER:21
 https://hamal.co.il/main/מקור-איראניטהרן-עדכנה-שלא-תוכל-לקבל-את-ההצעה-האמריקנית-בת-15-256490
 https://hamal.co.il/main/בכיר-איראניהתגובה-הראשונית-של-טהרן-להצעה-לא-חיובית-אבל-הי-256491
 https://hamal.co.il/main/אזהרה-חריגה-לקראת-פסח-שיא-של-איומים-נגד-ישראלים-ויהודים-בע-256489
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826830
 https://news.walla.co.il/item/3826827
 https://hamal.co.il/main/טרגדיה-בצרפת-אוטובוס-מלא-בנוסעים-התהפך---בת-12-נהרגה-257563
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נוסף-בטהרן-257565
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-257567
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-הארץ-257573
