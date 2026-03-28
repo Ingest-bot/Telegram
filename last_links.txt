@@ -1,11 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3826311
-https://news.walla.co.il/item/3826312
-https://hamal.co.il/main/נתניהו-בשיחה-עם-פורום-מנכלי-משרדי-הממשלה-וראשי-רשויות-סוג-256538
-https://hamal.co.il/main/דיווחים-באיראן-תקיפות-ממערב-לתבריז-256542
-https://hamal.co.il/main/שב״כ-היחידה-המרכזית-במחוז-ש״י-וצה״ל-סיכלו-חולייה-של-עשרה-פל-256543
-https://hamal.co.il/main/טראמפ-הודיע-על-משא-ומתן-עם-איראן---והותיר-את-צהל-מתוח-256541
-https://news.walla.co.il/break/3826313
+COUNTER:33
 https://news.walla.co.il/break/3826314
 https://news.walla.co.il/break/3826315
 https://hamal.co.il/main/ירי-בלתי-פוסק-אזעקות-נשמעו-באצבע-הגליל-256548
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3826840
 https://news.walla.co.il/break/3826842
 https://hamal.co.il/main/מדא-בזירה-באשתאול-מספר-הפצועים-עלה-ל-11-257618
 https://hamal.co.il/main/נשיא-לבנון-גינה-את-הרג-העיתונאים-אזרחים-הממלאים-את-חובתם-257619
+https://news.walla.co.il/break/3826843
+https://news.walla.co.il/break/3826844
+https://news.walla.co.il/break/3826845
+https://news.walla.co.il/break/3826846
+https://news.walla.co.il/break/3826848
+https://news.walla.co.il/item/3826847
+https://hamal.co.il/main/רסיס-אחד-קטלני-בן-57-נהרג-מפגיעת-ראש-בתא-257623
