@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/בעקבות-שיגור-מלבנון-אזעקות-הופעלו-במרכז---ללא-התרעה-מקדימה-256653
-https://hamal.co.il/main/מדא-לא-ידוע-על-נפגעים-צוותים-יצאו-לסרוק-זי-256654
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256656
+COUNTER:27
 https://news.walla.co.il/break/3826383
 https://news.walla.co.il/break/3826384
 https://news.walla.co.il/break/3826385
@@ -499,3 +496,6 @@ https://hamal.co.il/main/יוצר-התוכן-בני-ווילד-על-הסערה-�
 https://news.walla.co.il/break/3826919
 https://hamal.co.il/main/אזעקות-נשמעו-בכפר-גלעדי-257809
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כלי-טיס-עוין-257816
+https://news.walla.co.il/break/3826923
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-מחשש-לחדירת-כטבם-257827
+https://hamal.co.il/main/אזעקות-בקש-והסביבה-מחשש-לחדירת-כטבם-257834
