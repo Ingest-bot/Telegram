@@ -1,11 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/אזעקות-נשמעו-באילת-הערבה-והסביבה-256483
-https://hamal.co.il/main/תיעוד-לוחמי-מג״ב-איו״ש-עצרו-חשוד-שתועד-מיידה-אבנים-לעבר-כוח-256484
-https://hamal.co.il/main/הממיר-נשאר-בכפר-עזה-ב-7-באוקטובר-הוט-איימה-בתביעה-ליאת-רון-256485
-https://hamal.co.il/main/בתום-הערכת-מצב-פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-לצאת-מהמרחב-256486
-https://hamal.co.il/main/טלטלה-בשווקים-מחיר-הנפט-צונח-המדדים-בוול-סטריט-מזנקים-256488
-https://news.walla.co.il/break/3826293
-https://news.walla.co.il/break/3826294
+COUNTER:18
 https://news.walla.co.il/break/3826295
 https://news.walla.co.il/break/3826296
 https://news.walla.co.il/break/3826297
@@ -499,3 +492,10 @@ https://hamal.co.il/main/פגישת-חירום-בין-מצרים-איראן-טו
 https://hamal.co.il/main/נשיא-איראן-ניתן-תגובה-חזקה-לאויב-257561
 https://news.walla.co.il/item/3826818
 https://hamal.co.il/main/תקיפה-אווירית-נגד-מכונית-בכביש-כפר-חונה-גזין-בדרום-לבנון-257562
+https://news.walla.co.il/break/3826824
+https://news.walla.co.il/break/3826825
+https://news.walla.co.il/break/3826828
+https://news.walla.co.il/break/3826829
+https://news.walla.co.il/break/3826830
+https://news.walla.co.il/item/3826827
+https://hamal.co.il/main/טרגדיה-בצרפת-אוטובוס-מלא-בנוסעים-התהפך---בת-12-נהרגה-257563
