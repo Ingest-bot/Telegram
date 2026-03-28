@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/לא-העת-להטריל-החוק-של-לפיד-להגדרת-קטאר-כמדינת-איוב-נפל-256495
-https://news.walla.co.il/break/3826328
+COUNTER:2
 https://news.walla.co.il/break/3826331
 https://news.walla.co.il/break/3826332
 https://news.walla.co.il/break/3826334
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826865
 https://hamal.co.il/main/כעת-בחיפה-257683
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-בדקות-הקרובות-יופעלו-אזעקות-257686
 https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בבאר-שבע-מצבו-קשה-257687
+https://hamal.co.il/main/הירי-מאיראן-לאילת-257693
+https://hamal.co.il/main/דיווח-ראשוני-פריט-אמלח-נפל-במבנה-באילת-אין-נפגעים-257697
