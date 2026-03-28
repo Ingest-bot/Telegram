@@ -1,7 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/הרצוג-חי-בסרט-שימשיך-להסתבך-עם-טראמפ-בליכוד-תוקפים-256521
-https://news.walla.co.il/break/3826319
-https://hamal.co.il/main/חמישה-חודשים-אחרי-שנפרדו-טום-אביב-ומוריאל-לוי-חזרו-זה-לזו-256519
+COUNTER:35
 https://hamal.co.il/main/אזעקות-בשל-חשש-לחדירת-כלי-טיס-עוין-בגליל-העליון-256555
 https://hamal.co.il/main/חפר-מנהרה-בחצר---כדי-להחזיק-בה-חטופים-המעצר-החריג-בשומרון-256553
 https://news.walla.co.il/item/3826323
@@ -499,3 +496,6 @@ https://hamal.co.il/main/רסיס-אחד-קטלני-בן-57-נהרג-מפגיע�
 https://news.walla.co.il/break/3826853
 https://news.walla.co.il/break/3826850
 https://news.walla.co.il/item/3826851
+https://news.walla.co.il/break/3826854
+https://hamal.co.il/main/לצד-קאסם-סולימאני-המחבל-עלי-שעיב-פעל-במשך-שנים-במסווה-257626
+https://hamal.co.il/main/לראשונה-מתחילת-המלחמה-המחאות-נגד-ההפיכה-המשטרית-חוזרות-257632
