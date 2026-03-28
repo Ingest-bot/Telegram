@@ -1,5 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3826295
+COUNTER:19
 https://news.walla.co.il/break/3826296
 https://news.walla.co.il/break/3826297
 https://hamal.co.il/main/מקור-איראניטהרן-עדכנה-שלא-תוכל-לקבל-את-ההצעה-האמריקנית-בת-15-256490
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3826829
 https://news.walla.co.il/break/3826830
 https://news.walla.co.il/item/3826827
 https://hamal.co.il/main/טרגדיה-בצרפת-אוטובוס-מלא-בנוסעים-התהפך---בת-12-נהרגה-257563
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נוסף-בטהרן-257565
