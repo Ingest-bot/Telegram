@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3826241
-https://news.walla.co.il/item/3826244
+COUNTER:8
 https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-בטהרן-256411
 https://hamal.co.il/main/צהל-חיסלנו-256415
 https://news.walla.co.il/break/3826249
@@ -499,3 +497,5 @@ https://hamal.co.il/main/זוהו-שיגורים-לדרום-257509
 https://hamal.co.il/main/זוהו-שיגורים-לעבר-אילת-257512
 https://news.walla.co.il/break/3826778
 https://news.walla.co.il/break/3826779
+https://hamal.co.il/main/יום-בהיר-ואז-שוב-חורף-וגשם-תחזית-מזג-האוויר-257515
+https://hamal.co.il/main/דיווח-12-חיילים-אמריקנים-נפצעו-בהפצצה-בערב-הסעודית-257517
