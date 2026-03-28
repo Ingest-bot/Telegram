@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-256624
-https://hamal.co.il/main/התשובה-לכשהגלים-מתחזקים-מיה-שם-תככב-במיקרו-דרמה-של-רשת-13-256499
+COUNTER:19
 https://hamal.co.il/main/שמרן-מושחת-וחסר-תחכום-זהו-הפרטנר-של-טראמפ-בטהרן-256493
 https://hamal.co.il/main/בשורה-למילואימניקים-הכנסת-אישרה-העדפה-מתקנת-למשרתים-באקדמיה-256626
 https://news.walla.co.il/break/3826361
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3826888
 https://news.walla.co.il/break/3826891
 https://hamal.co.il/main/ערערה-גבר-בן-30-נפצע-באירוע-אלימות-מצבו-קשה-257774
 https://hamal.co.il/main/דיווח-באיראן-צהל-תקף-בטהראן-257786
+https://news.walla.co.il/item/3826896
+https://hamal.co.il/main/שבר-טיל-אותר-בבית-בסביון-תושבים-הונחו-להישאר-במרחבים-מוגנים-257793
