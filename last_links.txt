@@ -1,5 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/break/3826249
 https://news.walla.co.il/item/3826251
 https://hamal.co.il/main/דיווחים-באיראן-בכיר-בצי-חוסל-256410
 https://hamal.co.il/main/פרסום-ראשון-צהל-חיסל-למעלה-מ-60-מחבלים-ברצועת-עזה-256416
@@ -499,3 +498,4 @@ https://hamal.co.il/main/יום-בהיר-ואז-שוב-חורף-וגשם-תחז�
 https://hamal.co.il/main/דיווח-12-חיילים-אמריקנים-נפצעו-בהפצצה-בערב-הסעודית-257517
 https://news.walla.co.il/break/3826784
 https://news.walla.co.il/break/3826783
+https://news.walla.co.il/break/3826785
