@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/פגיעה-ישירה-בצומת-מרכזית-בעיר-נהריה-256987
-https://hamal.co.il/main/מדא-האירוע-בנהריה---פצוע-אנוש-ופצוע-קשה-בזירה-256995
-https://hamal.co.il/main/צהל-כוחות-בדרכם-לזירה-בנהריה-256996
-https://hamal.co.il/main/מנכל-מדא-הרוג-בזירה-בנהריה-257000
-https://hamal.co.il/main/מדא-מצב-הפצועים-בפגיעה-בנהריה-257003
+COUNTER:6
 https://news.walla.co.il/break/3826543
 https://news.walla.co.il/item/3826541
 https://news.walla.co.il/item/3826531
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827104
 https://news.walla.co.il/break/3827107
 https://news.walla.co.il/item/3827095
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-למרכז-הארץ-258084
+https://news.walla.co.il/break/3827109
+https://hamal.co.il/main/נפילה-ביישוב-נאות-חובב-בדרום-הארץ-258106
+https://hamal.co.il/main/מנכל-מדא-נפגע-אחד-במצב-קל-בזירה-בנאות-חובב-258107
+https://hamal.co.il/main/תיעודים-נוספים-מזירת-הנפילה-בנאות-חובב-258108
+https://hamal.co.il/main/שברי-רסיסים-ברחבי-העיר-חיפה-כתוצאה-מהירי-מאיראן-258109
