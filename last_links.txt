@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו-לסרוק-זירות-256691
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256692
-https://hamal.co.il/main/דיווח-ראשוני-על-פגיעה-בכפר-קאסם-256694
+COUNTER:37
 https://hamal.co.il/main/הירי-מאיראןמכוניות-הפוכות-והרס-רב-בכפר-קאסם-לא-אותרו-פצועים-256695
 https://hamal.co.il/main/במדא-מעדכנים-עלה-ל-5-מספר-הפצועים-בכפר-קאסם-מצבם-קל-256697
 https://hamal.co.il/main/בשל-מזג-האוויר-הכבישים-שנחסמו-ואלו-שנפתחו-לתנועה-256698
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3826937
 https://news.walla.co.il/break/3826938
 https://news.walla.co.il/break/3826939
 https://hamal.co.il/main/סמל-משה-יצחק-הכהן-כץ-Moshe-Yitzchak-hacohen-Katz-בן-22-מ-257915
+https://hamal.co.il/main/פרטים-נוספים-257920
+https://hamal.co.il/main/מפקדות-זמניות-ואתרי-ייצור-אמלח-צהל-השלים-גל-תקיפות-בטהרן-257922
+https://hamal.co.il/main/לאחר-ההפוגה-גשמים-צפויים-בכל-הארץ-מה-צפוי-בליל-הסדר-257916
