@@ -1,10 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3826613
-https://news.walla.co.il/break/3826626
-https://news.walla.co.il/break/3826624
-https://news.walla.co.il/break/3826625
-https://news.walla.co.il/break/3826627
-https://news.walla.co.il/break/3826629
+COUNTER:10
 https://news.walla.co.il/break/3826630
 https://hamal.co.il/main/אזעקות-נשמעו-במשגב-עם-257136
 https://hamal.co.il/main/טראמפ-במובן-מסוים-כבר-ניצחנו---אנחנו-מנהלים-משא-ומתן-פורה-257137
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שר-החוץ-של-פקיסטן-״נארח-שיחות-�
 https://news.walla.co.il/break/3827189
 https://news.walla.co.il/break/3827187
 https://hamal.co.il/main/30-ימים-למלחמה-מאמצי-הבלימה-באירופה---וההזדמנות-של-סין-258239
+https://news.walla.co.il/break/3827191
+https://news.walla.co.il/item/3827192
+https://hamal.co.il/main/הממלכה-הערבית-פתחה-את-צינור-אלף-הקילומטר-257983
+https://hamal.co.il/main/העולם-יעקוף-את-הורמוז-הממלכה-הערבית-פתחה-את-צינור-אלף-הקיל-257978
+https://hamal.co.il/main/12-טונות-של-שוקולד-נעלמו-שוד-הקיטקט-הגדול-של-אירופה-257990
+https://hamal.co.il/main/בעקבות-תקיפות-צהל-הפסקות-חשמל-בטהרן-258269
