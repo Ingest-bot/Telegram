@@ -1,9 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3826604
-https://hamal.co.il/main/מתגבר-החשד-האירוע-סמוך-ישוב-חומש---פגיעה-על-רקע-לאומני-257101
-https://hamal.co.il/main/דובר-צהל-חסרים-כ-15000-חיילים-לצהל-257109
-https://hamal.co.il/main/הירי-מלבנון-בנהריה-עד-כה-ללא-דיווח-על-נפגעים--תיעוד-257121
-https://hamal.co.il/main/דיווח-ראשוני-על-פגיעת-פריט-אמלח-במבנה-בג׳דידה-מכר-257122
+COUNTER:0
 https://news.walla.co.il/break/3826593
 https://hamal.co.il/main/בנט-נתניהו-לא-יודע-לנצח-חיזבאללה-השתקם-לפני-קריית-שמונה-257103
 https://hamal.co.il/main/נתניהו-מחבקים-את-משפחתו-של-אביעד-זל-257123
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3827171
 https://news.walla.co.il/item/3827168
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקו-צפויות-בדרום-הארץ-258213
 https://hamal.co.il/main/הטיל-מאיראן-ששוגר-לבאר-שבע-והסביבה---יורט--התיעוד-258228
+https://news.walla.co.il/break/3827173
+https://news.walla.co.il/break/3827175
+https://hamal.co.il/main/השיגור-לדרום-לא-התקבלו-דיווחים-על-נפגעים-258229
+https://hamal.co.il/main/ראש-עיריית-באר-שבע-טרנר-לא-נפגע-והוא-כשיר-258234
+https://hamal.co.il/main/המיירטים-מוכיחים-עליונות-בלעדיהם-כבר-היינו-מטילים-אטום-257987
