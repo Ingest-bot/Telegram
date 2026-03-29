@@ -1,10 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/נפילה-באיזור-שלומי-בצפון-הארץ-257008
-https://hamal.co.il/main/מנכל-מדא-257015
-https://hamal.co.il/main/הרמטכל-זמיר-מזהיר-צהל-קורס-לתוך-עצמו-257016
-https://news.walla.co.il/break/3826548
-https://hamal.co.il/main/ראשוני-צהל-תוקף-כעת-תשתיות-של-חיזבאללה-בדרום-לבנון-257017
-https://hamal.co.il/main/שיגור-מאיראן-אל-עבר-מרכז-הארץ-257019
+COUNTER:12
 https://hamal.co.il/main/וויטקוף-איראן-מחפשת-כעת-דרך-יציאה-257032
 https://hamal.co.il/main/הטיל-למרכז-הארץ-יורט-בהצלחה-257033
 https://news.walla.co.il/break/3826550
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3827119
 https://hamal.co.il/main/רהט-בן-30-נהרג-כתוצאה-מאירוע-אלימות-258113
 https://hamal.co.il/main/המפעל-בבדיקת-אירוע-חומרים-מסוכנים-המפעלים-הסמוכים-התפנו-258116
 https://hamal.co.il/main/עזה-חוסל-מחבל-שהפר-את-ההסכם-לאחר-ששוחרר-ב--כנפי-דרור-258119
+https://news.walla.co.il/break/3827123
+https://news.walla.co.il/break/3827126
+https://news.walla.co.il/break/3827128
+https://hamal.co.il/main/חשד-לרצח-ברהט-נקבע-מותו-של-גבר-בן-44-258124
+https://hamal.co.il/main/שברי-יירוט-אותרו-בשומרון---ללא-נפגעים-258131
+https://hamal.co.il/main/אחלה-של-גשם-ירד-בסופש-זה-מה-שזה-עשה-לכנרת-258046
