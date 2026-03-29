@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3826615
-https://news.walla.co.il/break/3826616
-https://news.walla.co.il/break/3826617
+COUNTER:5
 https://news.walla.co.il/break/3826618
 https://hamal.co.il/main/חיכוך-בין-אזרחים-ישראלים-לפלסטינים-תושב-מזרח-ירושלים-נהרג-257126
 https://news.walla.co.il/break/3826623
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תנאי-ירי-לא-אופטימלים-הרמטכל-ב
 https://hamal.co.il/main/6-שיגורים-מלבנון-חלקם-יורטו-חלם-נפלו-בשטחים-פתוחים-258260
 https://news.walla.co.il/item/3827181
 https://hamal.co.il/main/6-נפגעים-במצב-קל-מפגיעת-הטיל-באזור-נאות-חובב-258262
+https://news.walla.co.il/break/3827179
+https://hamal.co.il/main/חולה-שאובחן-עם-שחפת-ריאתית-שהה-בבית-החולים-שיבא-258263
+https://hamal.co.il/main/שר-החוץ-של-פקיסטן-״נארח-שיחות-בין-ארה״ב-לאיראן-258266
