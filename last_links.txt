@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/מכוניות-עולות-באש-תיעוד-זירת-הנפילה-בגני-תקווה-256897
-https://hamal.co.il/main/צהל-מעל-330-מחבלי-חיזבאללה-חוסלו-עד-כה--צפו-בתיעודים-256868
-https://news.walla.co.il/break/3826459
+COUNTER:21
 https://news.walla.co.il/break/3826458
 https://news.walla.co.il/break/3826460
 https://news.walla.co.il/item/3826451
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827017
 https://news.walla.co.il/break/3827021
 https://news.walla.co.il/item/3827026
 https://hamal.co.il/main/הירי-מאיראן-לדרום-31-נפגעי-חרדה-פונו-לסורוקה-257967
+https://news.walla.co.il/break/3827029
+https://hamal.co.il/main/צפו-הערוץ-הקטארי-שתיעד-את-הפגיעה-במשרדו-שבטהרן-257968
+https://hamal.co.il/main/מפקד-פיקוד-העורף-באשתאול-ההבדל---הישמעות-להנחיות-257972
