@@ -1,9 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/טראמפ-במובן-מסוים-כבר-ניצחנו---אנחנו-מנהלים-משא-ומתן-פורה-257137
-https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-גם-בשעה-זו-ממשי-257138
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לעבר-דרום-הארץ-257140
-https://hamal.co.il/main/אזעקות-הופעלו-בדרום-הארץ-257142
-https://hamal.co.il/main/הירי-לדרום-הארץ-השיגור-ככל-הנראה-יורט-257144
+COUNTER:12
 https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-257148
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-בשל-חדירת-כטבם-257153
 https://news.walla.co.il/item/3826635
@@ -499,3 +494,8 @@ https://hamal.co.il/main/12-טונות-של-שוקולד-נעלמו-שוד-הק�
 https://hamal.co.il/main/בעקבות-תקיפות-צהל-הפסקות-חשמל-בטהרן-258269
 https://news.walla.co.il/item/3827196
 https://hamal.co.il/main/צה״ל-תוקף-בשעה-זו-מטרות-של-משטר-הטרור-האיראני-ברחבי-טהרן-258271
+https://news.walla.co.il/break/3827194
+https://news.walla.co.il/break/3827200
+https://news.walla.co.il/break/3827201
+https://news.walla.co.il/item/3827199
+https://hamal.co.il/main/זוהה-שיגור-מאיראן--בדקות-הקרובות-ישמעו-אזעקות-בדרום-הארץ-258273
