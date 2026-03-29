@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3826425
-https://news.walla.co.il/break/3826423
-https://news.walla.co.il/break/3826427
-https://news.walla.co.il/break/3826433
-https://news.walla.co.il/item/3826424
-https://hamal.co.il/main/גורם-ישראלי-חוסל-מפקד-חיל-הים-של-משמרות-המהפכה-256826
+COUNTER:16
 https://hamal.co.il/main/200-תשתיות-הושמדו-צפו-בפעילות-צהל-בדרום-לבנון-256829
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאזור-המרכז-256850
 https://hamal.co.il/main/מצבה-של-הילדה-שלקתה-בדום-לב-בצפת-התייצב-256867
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3826993
 https://news.walla.co.il/item/3826998
 https://hamal.co.il/main/ארקיע-מודיעה-257958
 https://hamal.co.il/main/האקרים-איראנים-טוענים-פרצנו-למערכות-אישיות-וסודיות-של-יואב-257959
+https://news.walla.co.il/item/3826993
+https://news.walla.co.il/item/3827006
+https://news.walla.co.il/item/3827001
+https://hamal.co.il/main/הדיפלומט-הישראלי-מעריך-זאת-האפשרות-257960
+https://hamal.co.il/main/חשד-לרצח-ברהט-גבר-נורה-למוות-מצוד-מתנהל-אחר-החשודים-257961
+https://hamal.co.il/main/אביו-של-אורי-גרינברג-ספד-לבנו-257962
