@@ -1,6 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-למרכז-הארץ-256680
-https://hamal.co.il/main/הדי-פיצוצים-בגוש-דן-צוותי-מדא-יצאו-לסרוק-זירות-256690
+COUNTER:34
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו-לסרוק-זירות-256691
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256692
 https://hamal.co.il/main/דיווח-ראשוני-על-פגיעה-בכפר-קאסם-256694
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-ובנגב-
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257897
 https://news.walla.co.il/break/3826937
 https://news.walla.co.il/break/3826938
+https://news.walla.co.il/break/3826939
+https://hamal.co.il/main/סמל-משה-יצחק-הכהן-כץ-Moshe-Yitzchak-hacohen-Katz-בן-22-מ-257915
