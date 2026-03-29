@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3826647
-https://news.walla.co.il/break/3826649
+COUNTER:16
 https://news.walla.co.il/break/3826650
 https://news.walla.co.il/item/3826648
 https://hamal.co.il/main/דיווח-טראמפ-טען-שאיראן-ביקשה-הפוגה-במומ---המתווכות-אומרות-257176
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827210
 https://news.walla.co.il/item/3827209
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-258282
 https://hamal.co.il/main/התושבים-מעדכנים-בב״ש-הופעלו-אזעקות-ללא-התראה-258288
+https://news.walla.co.il/break/3827213
+https://hamal.co.il/main/אושר-סופית-תקרת-הגירעון-לשנת-2026-תעמוד-על-49-258289
