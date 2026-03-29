@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3826404
-https://news.walla.co.il/break/3826405
-https://news.walla.co.il/break/3826408
-https://news.walla.co.il/break/3826406
-https://news.walla.co.il/break/3826407
+COUNTER:5
 https://news.walla.co.il/item/3826398
 https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-נפילה-במודיעין-לא-ידוע-על-נפגעים-256732
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256734
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מחקר-חדש-דיאטה-אחת-יכולה-להאט-�
 https://news.walla.co.il/item/3826955
 https://hamal.co.il/main/גמישות-הקלות-ומועדים-מיוחדים-256837
 https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-ברחבי-איראן-257928
+https://news.walla.co.il/break/3826961
+https://hamal.co.il/main/נתניהו-ספד-257929
+https://hamal.co.il/main/לראשונה-יחידת-257930
+https://hamal.co.il/main/גבר-נפצע-קשה-באירוע-אלימות-ברהט-סובל-מפציעות-חודרות-בגופו-257933
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-257924
