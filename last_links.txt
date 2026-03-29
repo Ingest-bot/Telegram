@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3826398
-https://hamal.co.il/main/הירי-מאיראן-דיווחים-על-נפילה-במודיעין-לא-ידוע-על-נפגעים-256732
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256734
+COUNTER:7
 https://hamal.co.il/main/בפעם-הרביעית-הבוקר-זוהו-שיגורים-מאיראן-256737
 https://news.walla.co.il/item/3826377
 https://hamal.co.il/main/לוחם-צהל-במצב-בינוני-לאחר-שנפגע-256738
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נתניהו-ספד-257929
 https://hamal.co.il/main/לראשונה-יחידת-257930
 https://hamal.co.il/main/גבר-נפצע-קשה-באירוע-אלימות-ברהט-סובל-מפציעות-חודרות-בגופו-257933
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-257924
+https://news.walla.co.il/item/3826968
+https://hamal.co.il/main/הטילים-ששוגרו-257944
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-לדרום-257948
