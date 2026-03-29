@@ -1,11 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3826563
-https://news.walla.co.il/item/3826566
-https://news.walla.co.il/break/3826570
-https://news.walla.co.il/break/3826569
-https://news.walla.co.il/break/3826574
-https://news.walla.co.il/item/3826571
-https://news.walla.co.il/break/3826578
+COUNTER:26
 https://news.walla.co.il/item/3826582
 https://hamal.co.il/main/השטפונות-בדרום-מספר-נעדרים-בעקבות-סחף-בנחל-הערבה-257064
 https://hamal.co.il/main/מפקד-פיקוד-הצפון-הרחבנו-את-הפעילות-הקרקעית-צעד-קדימה-257066
@@ -499,3 +492,10 @@ https://hamal.co.il/main/מספר-זירות-נפילה-בבאר-שבע-עד-כ�
 https://hamal.co.il/main/האירוע-בנאות-חובב-מעבר-ל-800-מטר-מהמקום-לא-נשקפת-סכנה-258181
 https://hamal.co.il/main/מדא-דיווח-על-פצוע-באחת-מזירות-הנפילה-בבאר-שבע-258182
 https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בבאר-שבע-258187
+https://news.walla.co.il/break/3827148
+https://news.walla.co.il/break/3827150
+https://news.walla.co.il/item/3827145
+https://news.walla.co.il/item/3827149
+https://hamal.co.il/main/המטח-לבאר-שבע-מס-נפגעי-חרדה-במקום-258188
+https://hamal.co.il/main/זירת-נפילה-בבית-האדום-מתחם-האימונים-של-הפועל-באר-שבע-258191
+https://hamal.co.il/main/באר-שבע-עד-כה-6-נפגעים-קל-וחרדה-258192
