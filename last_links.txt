@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/טראמפ-משהה-את-תקיפת-מתקני-האנרגיה-לתקופה-של-10-ימים-257124
-https://hamal.co.il/main/הותר-לפרסום-אורי-פרץ-זל-הוא-ההרוג-היום-בנהריה-257125
+COUNTER:3
 https://news.walla.co.il/break/3826615
 https://news.walla.co.il/break/3826616
 https://news.walla.co.il/break/3826617
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המיירטים-מוכיחים-עליונות-בלעד
 https://news.walla.co.il/break/3827176
 https://hamal.co.il/main/תנאי-ירי-לא-אופטימלים-הרמטכל-בתחקיר-הירי-לעבר-משגב-עם-258245
 https://hamal.co.il/main/6-שיגורים-מלבנון-חלקם-יורטו-חלם-נפלו-בשטחים-פתוחים-258260
+https://news.walla.co.il/item/3827181
+https://hamal.co.il/main/6-נפגעים-במצב-קל-מפגיעת-הטיל-באזור-נאות-חובב-258262
