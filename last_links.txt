@@ -1,8 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3826458
-https://news.walla.co.il/break/3826460
-https://news.walla.co.il/item/3826451
-https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-בדרום-שנחסמו-לתנועה-256898
+COUNTER:24
 https://hamal.co.il/main/גמישות-הקלות-ומועדים-מיוחדים-256831
 https://news.walla.co.il/item/3826468
 https://news.walla.co.il/item/3826464
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הירי-מאיראן-לדרום-31-נפגעי-חרדה
 https://news.walla.co.il/break/3827029
 https://hamal.co.il/main/צפו-הערוץ-הקטארי-שתיעד-את-הפגיעה-במשרדו-שבטהרן-257968
 https://hamal.co.il/main/מפקד-פיקוד-העורף-באשתאול-ההבדל---הישמעות-להנחיות-257972
+https://news.walla.co.il/item/3827038
+https://hamal.co.il/main/פיקאצו-נגד-טראמפ-דמויות-הפוקימון-תועדו-בהפגנות-נגד-הנשיא-257975
+https://hamal.co.il/main/צהל-חושף-תיעוד-הרגעים-הדרמטיים-שקדמו-למבצע-״שאגת-הארי״-257974
+https://hamal.co.il/main/מאמץ-מיגון-בצפון-257976
