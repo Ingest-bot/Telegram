@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-ולאזור-ירושלים-256706
+COUNTER:1
 https://news.walla.co.il/break/3826404
 https://news.walla.co.il/break/3826405
 https://news.walla.co.il/break/3826408
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הירי-מלבנון-רסיס-אותר-בגליל-הע
 https://hamal.co.il/main/מחקר-חדש-דיאטה-אחת-יכולה-להאט-את-הזדקנות-המוח-ביותר-משנתיים-256823
 https://news.walla.co.il/item/3826955
 https://hamal.co.il/main/גמישות-הקלות-ומועדים-מיוחדים-256837
+https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-ברחבי-איראן-257928
