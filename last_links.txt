@@ -1,8 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3826543
-https://news.walla.co.il/item/3826541
-https://news.walla.co.il/item/3826531
-https://hamal.co.il/main/קיבלנו-את-החיים-שלנו-לפני-החג--תושב-נהריה-ששהה-סמוך-לנפיל-257006
+COUNTER:9
 https://hamal.co.il/main/נפילה-באיזור-שלומי-בצפון-הארץ-257008
 https://hamal.co.il/main/מנכל-מדא-257015
 https://hamal.co.il/main/הרמטכל-זמיר-מזהיר-צהל-קורס-לתוך-עצמו-257016
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נפילה-ביישוב-נאות-חובב-בדרום-ה
 https://hamal.co.il/main/מנכל-מדא-נפגע-אחד-במצב-קל-בזירה-בנאות-חובב-258107
 https://hamal.co.il/main/תיעודים-נוספים-מזירת-הנפילה-בנאות-חובב-258108
 https://hamal.co.il/main/שברי-רסיסים-ברחבי-העיר-חיפה-כתוצאה-מהירי-מאיראן-258109
+https://news.walla.co.il/item/3827119
+https://hamal.co.il/main/רהט-בן-30-נהרג-כתוצאה-מאירוע-אלימות-258113
+https://hamal.co.il/main/המפעל-בבדיקת-אירוע-חומרים-מסוכנים-המפעלים-הסמוכים-התפנו-258116
+https://hamal.co.il/main/עזה-חוסל-מחבל-שהפר-את-ההסכם-לאחר-ששוחרר-ב--כנפי-דרור-258119
