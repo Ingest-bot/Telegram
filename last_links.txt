@@ -1,9 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-256922
-https://hamal.co.il/main/הירי-מאיראן-256949
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256946
-https://hamal.co.il/main/תיעוד-256952
-https://news.walla.co.il/break/3826504
+COUNTER:33
 https://news.walla.co.il/break/3826505
 https://news.walla.co.il/break/3826503
 https://news.walla.co.il/item/3826500
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3827059
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257996
 https://hamal.co.il/main/תיעוד-קשה-258006
 https://hamal.co.il/main/תיעוד-קשה-258013
+https://news.walla.co.il/break/3827071
+https://news.walla.co.il/break/3827070
+https://news.walla.co.il/break/3827069
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-258020
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-באזור-חיפה-258040
