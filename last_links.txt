@@ -1,6 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3826652
-https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-והסביבה-257189
+COUNTER:24
 https://hamal.co.il/main/הטמפרטורות-עולות-והגשם-מתחיל-לדעוך--תחזית-מזג-האוויר-257192
 https://news.walla.co.il/item/3826657
 https://hamal.co.il/main/דיווח-הותקף-בכיר-במשמרות-המהפכה-257193
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827223
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-באיזור-אילת-258297
 https://hamal.co.il/main/הכטב״ם-ששוגר-לאילת---מתימן-258299
 https://hamal.co.il/main/צה״ל-מאשר-הרמטכ״ל-יפסיק-את-פעילות-גדוד-המילואים-בלבנון-258300
+https://hamal.co.il/main/חיל-האוויר-יירט-2-כטב״מים-ששוגרו-מתימן-258301
+https://hamal.co.il/main/ברוב-של-62-אושר-סופית-תקציב-המדינה-לשנת-2026-258302
