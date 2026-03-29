@@ -1,7 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/פרסום-ראשון-גל-התייקרויות-במוצרי-אפל-בישראל-החל-מיום-ראשון-256979
-https://hamal.co.il/main/שורדת-השבי-נקלעה-לאזעקה-התקף-החרדה-הכי-קיצוני-מאז-שחזרתי-256975
-https://news.walla.co.il/break/3826558
+COUNTER:19
 https://news.walla.co.il/break/3826557
 https://news.walla.co.il/break/3826556
 https://hamal.co.il/main/זוהה-שיגור-נוסף-למרכז-הארץ-257040
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווחים-בלבנון-על-חידוש-התקיפ�
 https://hamal.co.il/main/משרד-הבריאות-אזהרת-רחצה-בחוף-מי-עמי-שבאשדוד-258144
 https://news.walla.co.il/break/3827136
 https://hamal.co.il/main/ההודעה-החריגה-שקיבלו-התושבים-באזור-המפעל-בנאות-חובב-258147
+https://hamal.co.il/main/צהל-מאשר-הפצנו-הנחייה-לשוהים-בקרבת-המפעל-להסתגר-258149
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לנגב-258151
+https://hamal.co.il/main/משרד-רה״מ-מודיע-ישראל-תנסה-למצוא-דרך-לאפשר-כניסה-לכנסיות-258152
