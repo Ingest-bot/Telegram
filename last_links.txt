@@ -1,8 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3826417
-https://hamal.co.il/main/הירי-לאזור-חיפה-פצוע-קל-ונפגעת-חרדה-ב-2-זירות-נפילה-256820
-https://hamal.co.il/main/הירי-לאזור-חיפה-פצוע-קל-ונפגעת-חרדה-ב-2-זירות-נפילה-256822
-https://news.walla.co.il/break/3826428
+COUNTER:13
 https://news.walla.co.il/break/3826425
 https://news.walla.co.il/break/3826423
 https://news.walla.co.il/break/3826427
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הירי-מאיראן-הטיל-ששוגר-לדרום-נ
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-257946
 https://hamal.co.il/main/גבר-כבן-70-נפצע-ממסור-דיסק-ביבנה-מצבו-קשה-257956
 https://hamal.co.il/main/אדם-נפל-לבור-מים-בקריית-ים---וחולץ-כשמצבו-מוגדר-יציב-257957
+https://news.walla.co.il/break/3826993
+https://news.walla.co.il/item/3826998
+https://hamal.co.il/main/ארקיע-מודיעה-257958
+https://hamal.co.il/main/האקרים-איראנים-טוענים-פרצנו-למערכות-אישיות-וסודיות-של-יואב-257959
