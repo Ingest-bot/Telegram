@@ -1,6 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/item/3826635
-https://news.walla.co.il/break/3826637
 https://news.walla.co.il/item/3826639
 https://news.walla.co.il/break/3826640
 https://news.walla.co.il/break/3826645
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3827199
 https://hamal.co.il/main/זוהה-שיגור-מאיראן--בדקות-הקרובות-ישמעו-אזעקות-בדרום-הארץ-258273
 https://news.walla.co.il/break/3827202
 https://hamal.co.il/main/הטיל-ששוגר-לירושלים-והסביבה---יורט-258280
+https://news.walla.co.il/break/3827207
+https://news.walla.co.il/item/3827206
