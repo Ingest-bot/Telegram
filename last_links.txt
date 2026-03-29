@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/דיווח-טראמפ-טען-שאיראן-ביקשה-הפוגה-במומ---המתווכות-אומרות-257176
-https://hamal.co.il/main/אזעקות-הופעלו-במטולה-257178
+COUNTER:18
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נרחב-בלב-טהרן-צהל-השלים-לפני-זמן-קצ-257179
 https://hamal.co.il/main/אזעקות-נשמעו-בקריית-שמונה-257184
 https://news.walla.co.il/break/3826651
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827213
 https://hamal.co.il/main/אושר-סופית-תקרת-הגירעון-לשנת-2026-תעמוד-על-49-258289
 https://news.walla.co.il/break/3827217
 https://hamal.co.il/main/מסתמן-תקיפת-צוות-CNN-הרמטכל-יעצור-את-הפעילות-המבצעית-של-גד-258290
+https://news.walla.co.il/break/3827219
+https://hamal.co.il/main/אחרי-הגינויים-המשטרה-אישרה-מתווה-תפילה-בכנסיית-הקבר-258291
