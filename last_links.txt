@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/ירי-בלתי-פוסק-זוהה-שיגור-נוסף-מאיראן-256872
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-נפילה-בתל-אביב-256884
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256889
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירות-נפילה-גם-בחולון-וגני-תקווה-256892
-https://hamal.co.il/main/הנפילה-בתל-אביב-3-נפצעו-קל-מהדף-256896
+COUNTER:19
 https://hamal.co.il/main/מכוניות-עולות-באש-תיעוד-זירת-הנפילה-בגני-תקווה-256897
 https://hamal.co.il/main/צהל-מעל-330-מחבלי-חיזבאללה-חוסלו-עד-כה--צפו-בתיעודים-256868
 https://news.walla.co.il/break/3826459
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827002
 https://news.walla.co.il/item/3827011
 https://hamal.co.il/main/עקב-גל-הברחות-כך-תוודאו-שהבשר-והביצים-שאתם-קונים-בטוחים-למא-257927
 https://hamal.co.il/main/יור-הפרלמנט-האיראני-ארהב-מתכננת-פלישה-חשאית-257966
+https://news.walla.co.il/break/3827018
+https://news.walla.co.il/break/3827017
+https://news.walla.co.il/break/3827021
+https://news.walla.co.il/item/3827026
+https://hamal.co.il/main/הירי-מאיראן-לדרום-31-נפגעי-חרדה-פונו-לסורוקה-257967
