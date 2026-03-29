@@ -1,11 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3826557
-https://news.walla.co.il/break/3826556
-https://hamal.co.il/main/זוהה-שיגור-נוסף-למרכז-הארץ-257040
-https://hamal.co.il/main/טיל-מצרר-שוגר-לאזור-ירושלים-והשפלה-והמרכז--תיעוד-257048
-https://news.walla.co.il/break/3826562
-https://news.walla.co.il/item/3826560
-https://hamal.co.il/main/המטח-האחרון-דיווח-על-נפילת-רסיס-במודיעין---ללא-נפגעים-257050
+COUNTER:23
 https://news.walla.co.il/break/3826563
 https://news.walla.co.il/item/3826566
 https://news.walla.co.il/break/3826570
@@ -499,3 +492,10 @@ https://hamal.co.il/main/ההודעה-החריגה-שקיבלו-התושבים-�
 https://hamal.co.il/main/צהל-מאשר-הפצנו-הנחייה-לשוהים-בקרבת-המפעל-להסתגר-258149
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לנגב-258151
 https://hamal.co.il/main/משרד-רה״מ-מודיע-ישראל-תנסה-למצוא-דרך-לאפשר-כניסה-לכנסיות-258152
+https://news.walla.co.il/break/3827141
+https://news.walla.co.il/break/3827142
+https://news.walla.co.il/break/3827144
+https://hamal.co.il/main/מספר-זירות-נפילה-בבאר-שבע-עד-כה-לא-ידוע-על-נפגעים--תיעוד-258180
+https://hamal.co.il/main/האירוע-בנאות-חובב-מעבר-ל-800-מטר-מהמקום-לא-נשקפת-סכנה-258181
+https://hamal.co.il/main/מדא-דיווח-על-פצוע-באחת-מזירות-הנפילה-בבאר-שבע-258182
+https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בבאר-שבע-258187
