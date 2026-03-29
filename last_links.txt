@@ -1,9 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3826505
-https://news.walla.co.il/break/3826503
-https://news.walla.co.il/item/3826500
-https://hamal.co.il/main/נתניהו-החיסול-בבנדר-עבאס---דוגמא-לשיתוף-הפעולה-עם-ארהב-256953
-https://news.walla.co.il/break/3826512
+COUNTER:35
 https://news.walla.co.il/item/3826495
 https://hamal.co.il/main/הדרך-המפתיעה-להרגיע-את-הגוף-בזמן-אזעקות-256846
 https://hamal.co.il/main/מודל-הליטני-התוכנית-לשינוי-פני-דרום-לבנון-נחשפת-256959
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827070
 https://news.walla.co.il/break/3827069
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-258020
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-באזור-חיפה-258040
+https://news.walla.co.il/break/3827073
+https://news.walla.co.il/break/3827074
+https://news.walla.co.il/break/3827078
+https://hamal.co.il/main/צהל-תקפנו-אתרים-בהפותחו-רכיבים-קריטיים-להרכבת-והשמשת-טילים-258043
+https://hamal.co.il/main/תיעוד-שברי-יירוט-אותרו-בקריית-אתא-258051
