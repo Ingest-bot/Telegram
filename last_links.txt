@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3826482
-https://hamal.co.il/main/רוכב-אופניים-חשמליים-נפגע-מרכב-בראשלצ-מצבו-קשה-256913
-https://hamal.co.il/main/טראמפ-מנהלי-המומ-האיראנים-מתחננים-לעסקה-256914
-https://hamal.co.il/main/התוכנית-למכת-הסיום-באיראן---אם-המומ-ייכשל--דיווח-256915
-https://hamal.co.il/main/תיעוד-לוחמי-מגב-מסייעים-בחילוץ-אזרחים-מתוך-זירות-נפילה-256916
+COUNTER:31
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-256922
 https://hamal.co.il/main/הירי-מאיראן-256949
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-256946
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827053
 https://news.walla.co.il/break/3827052
 https://hamal.co.il/main/ארקיע-מודיעה-עוצרים-257979
 https://hamal.co.il/main/הנציג-הדני-לאירוויזיון-העלה-תמונה-עם-מסרים-בעד-ישראל-257994
+https://news.walla.co.il/break/3827061
+https://news.walla.co.il/item/3827059
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257996
+https://hamal.co.il/main/תיעוד-קשה-258006
+https://hamal.co.il/main/תיעוד-קשה-258013
