@@ -1,6 +1,4 @@
 COUNTER:33
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-256677
-https://hamal.co.il/main/מזג-האוויר-256678
 https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-למרכז-הארץ-256680
 https://hamal.co.il/main/הדי-פיצוצים-בגוש-דן-צוותי-מדא-יצאו-לסרוק-זירות-256690
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-צוותים-יצאו-לסרוק-זירות-256691
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-257
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדרום-הארץ-257889
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-ובנגב-257894
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257897
+https://news.walla.co.il/break/3826937
+https://news.walla.co.il/break/3826938
