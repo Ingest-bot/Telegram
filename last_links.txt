@@ -1,9 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/איראן-מאיימת-בנקמה-בתגובה-לתקיפות-על-מפעלי-הפלדה-257375
-https://hamal.co.il/main/חיל-האוויר-תקף-את-מפעל-המים-הכבדים-באראכ-257378
-https://hamal.co.il/main/צהל-מאשר-תקפנו-מתקן-גרעין-נוסף-באיראן-257381
-https://hamal.co.il/main/אזעקות-בגליל-העליון-ובקריות-257386
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-קריאות-257387
+COUNTER:37
 https://news.walla.co.il/break/3826741
 https://news.walla.co.il/break/3826742
 https://news.walla.co.il/break/3826744
@@ -499,3 +494,8 @@ https://hamal.co.il/main/באיראן-משיבים-לארהב-258481
 https://hamal.co.il/main/באיראן-משיבים-לארהב-258505
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258507
 https://news.walla.co.il/item/3827384
+https://news.walla.co.il/item/3827388
+https://hamal.co.il/main/פיצוץ---ועשן-מיתמר-תיעוד-רגע-הפגיעה-בבתי-הזיקוק-258510
+https://hamal.co.il/main/השר-אלי-כהן-מתקני-הייצור-בבזן-לא-נפגעו-אספקת-הדלקים-תימשך-258512
+https://hamal.co.il/main/חוליית-מחבלים-גויסה-258513
+https://hamal.co.il/main/--258516
