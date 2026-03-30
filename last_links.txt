@@ -1,8 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3826730
-https://hamal.co.il/main/דיווח-באיראן-ישראל-תקפנ-את-מתקן-המים-הכבדים-בארכ-257360
-https://hamal.co.il/main/דיווח-איראן-צפויה-להשיב-היום-להצעה-האמריקנית-257362
-https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-257364
+COUNTER:29
 https://hamal.co.il/main/חשש-לחדירת-כלי-טיס-עוין-אזעקות-הופעלו-בגליל-העליון-257371
 https://hamal.co.il/main/באיראן-מדווחים-הותקן-מתקן-גרעין-נוסף-במדינה-257372
 https://news.walla.co.il/break/3826734
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827363
 https://news.walla.co.il/item/3827362
 https://hamal.co.il/main/כץ-ביקר-את-הלוחם-שנפצע-לא-נעצור---גם-באיראן-וגם-בלבנון-258477
 https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258478
+https://news.walla.co.il/break/3827365
+https://news.walla.co.il/break/3827366
+https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258479
+https://hamal.co.il/main/הותר-לפרסום-258482
