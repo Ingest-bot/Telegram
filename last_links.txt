@@ -1,9 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליון-257217
-https://hamal.co.il/main/פוטין-התחנן-לאוליגרכים-תרמו-מכספכם-לתקציב-המדינה-257215
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-257218
-https://news.walla.co.il/break/3826674
-https://hamal.co.il/main/אזעקות-הופעלו-בערד-ובאר-שבע-257224
+COUNTER:33
 https://hamal.co.il/main/יורט-הטיל-ששוגר-מאיראן-לדרום-257227
 https://hamal.co.il/main/לוחמי-פלחוד-שקד-של-גבעתי-מאחלים-לכם-שבת-שלום-257225
 https://news.walla.co.il/item/3826680
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וס�
 https://hamal.co.il/main/לקראת-ליל-הסדר-התחממות-קלה-וגשמים--התחזית-258350
 https://hamal.co.il/main/טרם-התקבלו-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-258359
 https://hamal.co.il/main/אזעקות-נוספות-הופעלו-בדרום-פצוע-קל-סמוך-לקריית-שמונה-258361
+https://news.walla.co.il/break/3827246
+https://news.walla.co.il/break/3827247
+https://news.walla.co.il/break/3827248
+https://news.walla.co.il/item/3827245
+https://hamal.co.il/main/בפעם-ה-3-זוהו-שיגורים-נוספים-מאיראן-לדרום-258362
