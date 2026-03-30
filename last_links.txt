@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3826758
-https://news.walla.co.il/break/3826757
-https://news.walla.co.il/break/3826759
+COUNTER:3
 https://news.walla.co.il/item/3826752
 https://news.walla.co.il/item/3826756
 https://news.walla.co.il/break/3826760
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827404
 https://news.walla.co.il/item/3827405
 https://hamal.co.il/main/המפכל-ליועמשית-מקפיא-את-מדור-ההסתות-שבן-גביר-הקים-258525
 https://hamal.co.il/main/בייבי-בום-בסוואנה-6-סייחי-זברות-נולדו-בספארי-258526
+https://news.walla.co.il/item/3827412
+https://hamal.co.il/main/המפכל-ליועמשית-מקפיא-את-מדור-ההסתות-שבן-גביר-הקים-258527
+https://hamal.co.il/main/טראמפ-258528
