@@ -1,10 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3826796
-https://news.walla.co.il/break/3826807
-https://news.walla.co.il/break/3826806
-https://news.walla.co.il/break/3826808
-https://news.walla.co.il/break/3826809
-https://news.walla.co.il/break/3826810
+COUNTER:33
 https://news.walla.co.il/item/3826814
 https://hamal.co.il/main/דובר-צה״ל-בערבית-מפרסם-אזהרה-לתושבי-לבנון-257558
 https://news.walla.co.il/item/3826802
@@ -499,3 +493,9 @@ https://hamal.co.il/main/נפתלי-בנטבממשלה-החדשה-אקים-וע�
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-258577
 https://hamal.co.il/main/פסח-בפתח-הלוחמים-בשטח-גדוד-1891-מוכיחים-שהניצחון-מתחיל-בער-258578
 https://hamal.co.il/main/יותר-מ-100-מגדלי-טרור-רבי-קומות-הושמדו-בלב-ביירות-חיל-האווי-258579
+https://news.walla.co.il/break/3827477
+https://news.walla.co.il/break/3827479
+https://news.walla.co.il/break/3827480
+https://news.walla.co.il/break/3827481
+https://news.walla.co.il/break/3827482
+https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-258586
