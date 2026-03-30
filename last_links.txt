@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3826752
-https://news.walla.co.il/item/3826756
-https://news.walla.co.il/break/3826760
-https://news.walla.co.il/item/3826759
+COUNTER:4
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-257401
 https://hamal.co.il/main/גבר-נרצח-ביריות-ביפו-המשטרה-חוקרת-257414
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-257413
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בייבי-בום-בסוואנה-6-סייחי-זברו�
 https://news.walla.co.il/item/3827412
 https://hamal.co.il/main/המפכל-ליועמשית-מקפיא-את-מדור-ההסתות-שבן-גביר-הקים-258527
 https://hamal.co.il/main/טראמפ-258528
+https://news.walla.co.il/break/3827413
+https://news.walla.co.il/break/3827415
+https://news.walla.co.il/item/3827414
+https://hamal.co.il/main/דקר-בזמן-האזעקואישום-הוגש-נגד-נער-מבני-ברק-258531
