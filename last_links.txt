@@ -1,8 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/עיתונאי-ספורט-נעצר-בדרום-אפריקה-בחשד-לטרור-ליד-מוסד-יהודי-257207
-https://hamal.co.il/main/הפגיעה-במערך-הימי-נמשכת-257208
-https://news.walla.co.il/break/3826672
-https://hamal.co.il/main/אזעקות-הופעלו-במטולה-257211
+COUNTER:32
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בגליל-העליון-257217
 https://hamal.co.il/main/פוטין-התחנן-לאוליגרכים-תרמו-מכספכם-לתקציב-המדינה-257215
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-257218
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827240
 https://news.walla.co.il/item/3827236
 https://news.walla.co.il/break/3827241
 https://news.walla.co.il/break/3827242
+https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבה-258348
+https://hamal.co.il/main/לקראת-ליל-הסדר-התחממות-קלה-וגשמים--התחזית-258350
+https://hamal.co.il/main/טרם-התקבלו-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-258359
+https://hamal.co.il/main/אזעקות-נוספות-הופעלו-בדרום-פצוע-קל-סמוך-לקריית-שמונה-258361
