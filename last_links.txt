@@ -1,12 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/דיווח-תקיפה-על-בסיס-משמרות-המהפכה-בבושהר-257272
-https://hamal.co.il/main/אזעקות-הופעלו-בירושלים-בשומרון-ובשפלה-257283
-https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-מאיראן-257287
-https://hamal.co.il/main/כ״ץ-״התקיפות-באיראן-יעלו-מדרגה״-257288
-https://news.walla.co.il/break/3826703
-https://news.walla.co.il/item/3826704
-https://news.walla.co.il/item/3826514
-https://hamal.co.il/main/בפעם-השנייה-היום-אזעקות-הטפעלו-בדרום-עקב-שיגורים-מאיראן-257295
+COUNTER:8
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-אזעקות-צפויות-באיזור-גוש-דן-257296
 https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-הופעלו-בנהריה-257300
 https://hamal.co.il/main/דיווח-בסעודיה-יירוט-כטב״ם-באזור-ריאד-257321
@@ -499,3 +491,11 @@ https://hamal.co.il/main/ממצאי-258395
 https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258396
 https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258397
 https://hamal.co.il/main/בתוך-המקפיא-אקדח-אותר-בבית-בקלנסווה-2-חשודים-נעצרו-258401
+https://news.walla.co.il/break/3827287
+https://news.walla.co.il/break/3827289
+https://news.walla.co.il/break/3827290
+https://news.walla.co.il/item/3827291
+https://news.walla.co.il/item/3827295
+https://hamal.co.il/main/רכבת-258402
+https://hamal.co.il/main/עקב-אחרי-הקורבן---ודקר-באכזריות-258403
+https://hamal.co.il/main/מחבל-ניסה-לדרוס-לוחמים-בשומרון---ונוטרל-אין-נפגעים-258404
