@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3826850
-https://news.walla.co.il/item/3826851
-https://news.walla.co.il/break/3826854
+COUNTER:16
 https://hamal.co.il/main/לצד-קאסם-סולימאני-המחבל-עלי-שעיב-פעל-במשך-שנים-במסווה-257626
 https://hamal.co.il/main/לראשונה-מתחילת-המלחמה-המחאות-נגד-ההפיכה-המשטרית-חוזרות-257632
 https://news.walla.co.il/break/3826857
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827520
 https://news.walla.co.il/break/3827521
 https://news.walla.co.il/item/3827519
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נוסף-בטהרן-258648
+https://news.walla.co.il/break/3827524
+https://news.walla.co.il/item/3827525
+https://hamal.co.il/main/סיוט-בחופשה-תאילנד-קפץ-מהמיטה-עם-נחש-קוברה-על-הצוואר--צפו-258649
