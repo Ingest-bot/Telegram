@@ -1,11 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/מהו-קורבן-התודה-שאנו-מקריבים-וכיצד-הוא-יכול-לנו-257244
-https://hamal.co.il/main/25000-פצצות-ההפתעה-של-צהל-למשגרי-הטילים-המתוחכמים-באיראן-257256
-https://hamal.co.il/main/בשורה-לתושבי-קו-העימות-זמן-ההתגוננות-יוארך-257259
-https://news.walla.co.il/break/3826692
-https://news.walla.co.il/break/3826695
-https://news.walla.co.il/break/3826696
-https://hamal.co.il/main/ניקיון-פסח-מסוכן-יותר-השנה---כך-תשמרו-על-בני-המשפחה-257249
+COUNTER:1
 https://hamal.co.il/main/קצין-ולוחם-נפצעו-קשה-בתאונה-מבצעית-במהלך-היתקלות-בדרום-לבנון-257262
 https://hamal.co.il/main/אזעקות-הופעלו-בצפון-257268
 https://news.walla.co.il/item/3826697
@@ -499,3 +492,10 @@ https://hamal.co.il/main/פיקוד-העורף-258384
 https://hamal.co.il/main/במהלך-האזעקה-הקצין-במשטרה-שעזר-לנער-חרדי-מפוחד-258385
 https://hamal.co.il/main/אחרי-אישור-התקציב-אילן-רום-מסיים-את-תפקידו-כמנכל-האוצר-258389
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-258388
+https://news.walla.co.il/break/3827271
+https://news.walla.co.il/break/3827272
+https://news.walla.co.il/break/3827273
+https://news.walla.co.il/break/3827274
+https://news.walla.co.il/break/3827277
+https://news.walla.co.il/item/3827269
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258394
