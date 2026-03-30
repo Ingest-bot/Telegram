@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3826772
-https://news.walla.co.il/break/3826773
-https://news.walla.co.il/break/3826776
-https://news.walla.co.il/break/3826775
-https://news.walla.co.il/break/3826777
+COUNTER:17
 https://hamal.co.il/main/12-חיילים-אמריקאים-נפצעו-בתקיפה-האיראנית-בסעודיה-257483
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-257485
 https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-257489
@@ -499,3 +494,8 @@ https://hamal.co.il/main/שר-האוצר-האמריקאי-בסנט-ארהב-תי
 https://hamal.co.il/main/אזעקות-נשמעו-בברעם-מחשש-לחדירת-כטבם-258545
 https://hamal.co.il/main/ברוח-החגמאפית-מצה-שמורה-מצה-שמורה-258547
 https://hamal.co.il/main/מתעדכנים-מהטלגרם-לפני-פיקוד-העורף-זה-עובד-נועה-גבאי-עודכן-258548
+https://news.walla.co.il/break/3827450
+https://news.walla.co.il/item/3827448
+https://news.walla.co.il/item/3827225
+https://hamal.co.il/main/האם-שקלתם-לפנות-את-יישובי-הצפון-בגץ-דרש-מצהל-תשובות-אלי-א-258549
+https://hamal.co.il/main/אזעקות-נשמעו-בקריות-258553
