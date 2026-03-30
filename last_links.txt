@@ -1,11 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3826747
-https://hamal.co.il/main/האקרים-הקשורים-לאיראן-פרסמו-תמונות-אישיות-של-ראש-ה-FBI-257394
-https://news.walla.co.il/item/3826750
-https://hamal.co.il/main/איראן-מאשימה-ישראל-הפרה-את-הדד-ליין-שהציב-טראמפ-למומ-257398
-https://news.walla.co.il/break/3826754
-https://news.walla.co.il/break/3826753
-https://hamal.co.il/main/צהל-פתח-בגל-תקיפות-לעבר-תשתיות-חיזבאללה-בביירות-257399
+COUNTER:1
 https://news.walla.co.il/break/3826758
 https://news.walla.co.il/break/3826757
 https://news.walla.co.il/break/3826759
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3827396
 https://news.walla.co.il/break/3827398
 https://hamal.co.il/main/מחבלי-חמאס-פעלו-בצפון-הרצועה---וחוסלו-258517
 https://hamal.co.il/main/דיווח-בספרד-מטוסים-התוקפים-באיראן-לא-יעברו-בשמי-המדינה-258521
+https://news.walla.co.il/break/3827400
+https://news.walla.co.il/break/3827401
+https://news.walla.co.il/break/3827403
+https://news.walla.co.il/break/3827404
+https://news.walla.co.il/item/3827405
+https://hamal.co.il/main/המפכל-ליועמשית-מקפיא-את-מדור-ההסתות-שבן-גביר-הקים-258525
+https://hamal.co.il/main/בייבי-בום-בסוואנה-6-סייחי-זברות-נולדו-בספארי-258526
