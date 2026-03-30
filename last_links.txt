@@ -1,10 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/דיווח-בסעודיה-יירוט-כטב״ם-באזור-ריאד-257321
-https://hamal.co.il/main/דיווח-בלבנון-תקיפה-בצפון-איזוא-בקאע-257322
-https://hamal.co.il/main/חדירת-כלי-הטיס-בגליל-המערבי---אזעקת-שווא-257323
-https://hamal.co.il/main/כשהוא-מחופש-ללוחם-כליאה-בן-גביר-ערך-ביקורת-פתע-257325
-https://news.walla.co.il/break/3826706
-https://news.walla.co.il/item/3826711
+COUNTER:12
 https://hamal.co.il/main/שבר-יירוט-נפל-בחצר-בית-בהרצליה-ללא-נפגעים-257326
 https://hamal.co.il/main/כוחותינו-איתרו-מנהרה-של-חיזבאלה-בתוך-כנסייה-בדרום-לבנון-257327
 https://hamal.co.il/main/צוות-מדא-יילד-תינוק---ורץ-איתו-למקלט-דקות-לאחר-מכן-257330
@@ -499,3 +493,9 @@ https://hamal.co.il/main/עקב-אחרי-הקורבן---ודקר-באכזריו�
 https://hamal.co.il/main/מחבל-ניסה-לדרוס-לוחמים-בשומרון---ונוטרל-אין-נפגעים-258404
 https://news.walla.co.il/item/3827290
 https://hamal.co.il/main/צהל-תקפנו-258406
+https://news.walla.co.il/break/3827314
+https://news.walla.co.il/break/3827308
+https://news.walla.co.il/break/3827312
+https://hamal.co.il/main/תיעוד-258405
+https://hamal.co.il/main/ביסמוט-לרמטכל-בטל-את-השעיית-גדוד-המילואים-258407
+https://hamal.co.il/main/ליצן-של-איראן-258408
