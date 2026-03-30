@@ -1,12 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3826787
-https://hamal.co.il/main/במהלך-היתקלות-2-קצינים-נפצעו-באורח-קשה-ובינוני-בלבנון-257549
-https://news.walla.co.il/break/3826788
-https://news.walla.co.il/break/3826789
-https://hamal.co.il/main/לאחר-40-דקות-של-מרדף-יורט-הכטבם-בצפון-257551
-https://hamal.co.il/main/החותים-בהצהרה-נמשיך-עד-שתפסק-התוקפנות-בכל-החזיתות-257553
-https://hamal.co.il/main/יותר-מ-50-מטוסים-מטס-תקיפה-לעבר-תשתיות-משטר-הטרור-האיראני-257555
-https://hamal.co.il/main/תקיפות-נגד-מתחם-תעשייתי-בנמל-דיר-במחוז-בושהר-דרום-איראן-257556
+COUNTER:28
 https://news.walla.co.il/break/3826797
 https://news.walla.co.il/break/3826798
 https://news.walla.co.il/break/3826799
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3827467
 https://news.walla.co.il/item/3827465
 https://hamal.co.il/main/צעיר-יהודי-נעצר-בחשד-שתכנן-לפגוע-בפעילה-פלסטינית-מניו-יורק-258563
 https://hamal.co.il/main/טראמפ-לאחר-התקיפה-האיראנית-בחיפה-התשובה-שלנו-תגיע-בקרוב-258564
+https://news.walla.co.il/break/3827472
+https://news.walla.co.il/break/3827470
+https://news.walla.co.il/break/3827473
+https://news.walla.co.il/break/3827475
+https://news.walla.co.il/item/3827469
+https://hamal.co.il/main/החום-וההערכה-ריגשו-אותה-שרה-נתניהו-וויתרה-על-ההצעה-להדל-258565
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-258569
+https://hamal.co.il/main/אופירה-אסייג-חושפת-הפרט-המפתיע-שלא-ידענו-על-החברות-שלה-ושל-258571
