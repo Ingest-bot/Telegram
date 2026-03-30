@@ -1,9 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3826846
-https://news.walla.co.il/break/3826848
-https://news.walla.co.il/item/3826847
-https://hamal.co.il/main/רסיס-אחד-קטלני-בן-57-נהרג-מפגיעת-ראש-בתא-257623
-https://news.walla.co.il/break/3826853
+COUNTER:15
 https://news.walla.co.il/break/3826850
 https://news.walla.co.il/item/3826851
 https://news.walla.co.il/break/3826854
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צוותי-מדא-בדרכם-לסריקות-בזירה-
 https://hamal.co.il/main/פיקוד-העורף-כי-ניתן-לצאת-מהמרחב-המוגן-258645
 https://hamal.co.il/main/אושר-בקריאה-שלישית-בכנסת-חוק-עונש-מוות-למחבלים-ייכנס-לספר-ה-258646
 https://hamal.co.il/main/פרצה-ב-ChatGPT-מחקר-חושף-כיצד-דלף-מידע-אישי-ללא-ידיעת-המשתמ-258647
+https://news.walla.co.il/break/3827518
+https://news.walla.co.il/break/3827520
+https://news.walla.co.il/break/3827521
+https://news.walla.co.il/item/3827519
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נוסף-בטהרן-258648
