@@ -1,10 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/במדא-מעדכנים-257612
-https://hamal.co.il/main/צהל-חיסלנו-מחבל-חיזבאללה-שפעל-במסווה-של-עיתונאי--התיעוד-257613
-https://hamal.co.il/main/הזירה-באשתאול-במקום---נפגעים-קל-בלבד-257616
-https://hamal.co.il/main/הנפילה-באשתאול-7-פצועים-במצב-קל-257617
-https://news.walla.co.il/break/3826837
-https://news.walla.co.il/break/3826838
+COUNTER:10
 https://news.walla.co.il/break/3826840
 https://news.walla.co.il/break/3826842
 https://hamal.co.il/main/מדא-בזירה-באשתאול-מספר-הפצועים-עלה-ל-11-257618
@@ -499,3 +493,9 @@ https://hamal.co.il/main/אזעקות-נשמעות-באזור-המרכז-258613
 https://hamal.co.il/main/מד״א-נכון-לשעה-זו-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-258619
 https://hamal.co.il/main/השרה-לשוויון-חברתי-וקידום-מעמד-האישה-מאי-גולן-הגישה-תלונה-258620
 https://hamal.co.il/main/ח״כ-יברמן-בתגובה-לניסיון-הפיגוע-בשומרון-על-ידי-קצין-במשטרת-258621
+https://news.walla.co.il/break/3827509
+https://news.walla.co.il/break/3827510
+https://hamal.co.il/main/דובר-צהל-בתום-הערכת-מצב-פיקוד-העורף-הפיץ-הנחייה-כי-ניתן-258622
+https://hamal.co.il/main/איים-על-עורך-הדין-יש-לך-עד-מחר-בבוקר-להכין-300000-שקל-במז-258623
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-באזור-המרכז-בדקות-הקרובות-258624
+https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-ובשפלה-258638
