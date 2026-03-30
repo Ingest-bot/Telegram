@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257495
-https://hamal.co.il/main/הטיל-ששוגר-מאיראן-לעבר-מרכז-הארץ-יורט-בהצלחה-257504
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257505
-https://hamal.co.il/main/זוהו-שיגורים-לדרום-257509
-https://hamal.co.il/main/זוהו-שיגורים-לעבר-אילת-257512
+COUNTER:21
 https://news.walla.co.il/break/3826778
 https://news.walla.co.il/break/3826779
 https://hamal.co.il/main/יום-בהיר-ואז-שוב-חורף-וגשם-תחזית-מזג-האוויר-257515
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827452
 https://news.walla.co.il/break/3827451
 https://news.walla.co.il/break/3827455
 https://hamal.co.il/main/בלידת-מים-כוכבת-הישרדות-הביאה-לעולם-בת-בכורה-מאור-בן-הרוש-258557
+https://news.walla.co.il/break/3827459
+https://news.walla.co.il/item/3827458
+https://hamal.co.il/main/היועמשית-נגד-המחטף-הלילי-תקציבי-החרדים-שאושרו-בכנסת---לא-258558
+https://hamal.co.il/main/שרה-נתניהו-מוותרת-על-המשואה-ראויה-להיות-לאזרחי-המדינה-258559
+https://hamal.co.il/main/מפקד-כוח-קודס-ב-X-נתניהו-חלם-על-הרחבת-חגורת-הביטחון-ליה-ו-258560
