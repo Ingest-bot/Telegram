@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3826741
-https://news.walla.co.il/break/3826742
-https://news.walla.co.il/break/3826744
-https://news.walla.co.il/break/3826745
+COUNTER:39
 https://news.walla.co.il/item/3826747
 https://hamal.co.il/main/האקרים-הקשורים-לאיראן-פרסמו-תמונות-אישיות-של-ראש-ה-FBI-257394
 https://news.walla.co.il/item/3826750
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פיצוץ---ועשן-מיתמר-תיעוד-רגע-הפ
 https://hamal.co.il/main/השר-אלי-כהן-מתקני-הייצור-בבזן-לא-נפגעו-אספקת-הדלקים-תימשך-258512
 https://hamal.co.il/main/חוליית-מחבלים-גויסה-258513
 https://hamal.co.il/main/--258516
+https://news.walla.co.il/break/3827396
+https://news.walla.co.il/break/3827398
+https://hamal.co.il/main/מחבלי-חמאס-פעלו-בצפון-הרצועה---וחוסלו-258517
+https://hamal.co.il/main/דיווח-בספרד-מטוסים-התוקפים-באיראן-לא-יעברו-בשמי-המדינה-258521
