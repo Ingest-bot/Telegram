@@ -1,8 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/12-חיילים-אמריקאים-נפצעו-בתקיפה-האיראנית-בסעודיה-257483
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-257485
-https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-257489
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257490
+COUNTER:18
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257495
 https://hamal.co.il/main/הטיל-ששוגר-מאיראן-לעבר-מרכז-הארץ-יורט-בהצלחה-257504
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257505
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3827448
 https://news.walla.co.il/item/3827225
 https://hamal.co.il/main/האם-שקלתם-לפנות-את-יישובי-הצפון-בגץ-דרש-מצהל-תשובות-אלי-א-258549
 https://hamal.co.il/main/אזעקות-נשמעו-בקריות-258553
+https://news.walla.co.il/break/3827452
+https://news.walla.co.il/break/3827451
+https://news.walla.co.il/break/3827455
+https://hamal.co.il/main/בלידת-מים-כוכבת-הישרדות-הביאה-לעולם-בת-בכורה-מאור-בן-הרוש-258557
