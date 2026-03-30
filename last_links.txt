@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/זוהו-שיגורים-נוספים-אזעקות-צפויות-באיזור-גוש-דן-257296
-https://hamal.co.il/main/במקביל-לירי-מאיראן-אזעקות-הופעלו-בנהריה-257300
+COUNTER:9
 https://hamal.co.il/main/דיווח-בסעודיה-יירוט-כטב״ם-באזור-ריאד-257321
 https://hamal.co.il/main/דיווח-בלבנון-תקיפה-בצפון-איזוא-בקאע-257322
 https://hamal.co.il/main/חדירת-כלי-הטיס-בגליל-המערבי---אזעקת-שווא-257323
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3827295
 https://hamal.co.il/main/רכבת-258402
 https://hamal.co.il/main/עקב-אחרי-הקורבן---ודקר-באכזריות-258403
 https://hamal.co.il/main/מחבל-ניסה-לדרוס-לוחמים-בשומרון---ונוטרל-אין-נפגעים-258404
+https://news.walla.co.il/item/3827290
+https://hamal.co.il/main/צהל-תקפנו-258406
