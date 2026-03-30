@@ -1,8 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/דיווח-12-חיילים-אמריקנים-נפצעו-בהפצצה-בערב-הסעודית-257517
-https://news.walla.co.il/break/3826784
-https://news.walla.co.il/break/3826783
-https://news.walla.co.il/break/3826785
+COUNTER:25
 https://news.walla.co.il/break/3826787
 https://hamal.co.il/main/במהלך-היתקלות-2-קצינים-נפצעו-באורח-קשה-ובינוני-בלבנון-257549
 https://news.walla.co.il/break/3826788
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מפקד-כוח-קודס-ב-X-נתניהו-חלם-על-
 https://news.walla.co.il/item/3827464
 https://hamal.co.il/main/צפו-בתיעוד-מדרום-לבנון-חיסול-חוליית-מחבלים-ותקיפת-מפקדה-של-258561
 https://hamal.co.il/main/בנס-לא-נהרגתי-פעמיים-פגע-טיל-באותו-רחוב-בתא---התושבים-שה-258562
+https://news.walla.co.il/break/3827467
+https://news.walla.co.il/item/3827465
+https://hamal.co.il/main/צעיר-יהודי-נעצר-בחשד-שתכנן-לפגוע-בפעילה-פלסטינית-מניו-יורק-258563
+https://hamal.co.il/main/טראמפ-לאחר-התקיפה-האיראנית-בחיפה-התשובה-שלנו-תגיע-בקרוב-258564
