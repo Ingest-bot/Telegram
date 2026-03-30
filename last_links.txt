@@ -1,7 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/תקיפה-אווירית-נגד-מכונית-בכביש-כפר-חונה-גזין-בדרום-לבנון-257562
-https://news.walla.co.il/break/3826824
-https://news.walla.co.il/break/3826825
+COUNTER:37
 https://news.walla.co.il/break/3826828
 https://news.walla.co.il/break/3826829
 https://news.walla.co.il/break/3826830
@@ -499,3 +496,6 @@ https://hamal.co.il/main/קארין-עליה-התארסה-לבן-זוגה-אמר
 https://news.walla.co.il/break/3827496
 https://news.walla.co.il/item/3827493
 https://hamal.co.il/main/קרוב-לשיא-כל-הזמנים-מחיר-הבנזין-מזנק-המדינה-תגזור-קופון-נו-258588
+https://news.walla.co.il/break/3827498
+https://news.walla.co.il/break/3827497
+https://hamal.co.il/main/הקרב-על-טהרן-צהל-בשלב-הרגל-המסיימת-של-המבצע---והמשטר-האי-258591
