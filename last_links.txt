@@ -1,11 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3826840
-https://news.walla.co.il/break/3826842
-https://hamal.co.il/main/מדא-בזירה-באשתאול-מספר-הפצועים-עלה-ל-11-257618
-https://hamal.co.il/main/נשיא-לבנון-גינה-את-הרג-העיתונאים-אזרחים-הממלאים-את-חובתם-257619
-https://news.walla.co.il/break/3826843
-https://news.walla.co.il/break/3826844
-https://news.walla.co.il/break/3826845
+COUNTER:14
 https://news.walla.co.il/break/3826846
 https://news.walla.co.il/break/3826848
 https://news.walla.co.il/item/3826847
@@ -499,3 +492,10 @@ https://hamal.co.il/main/דובר-צהל-בתום-הערכת-מצב-פיקוד-�
 https://hamal.co.il/main/איים-על-עורך-הדין-יש-לך-עד-מחר-בבוקר-להכין-300000-שקל-במז-258623
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-באזור-המרכז-בדקות-הקרובות-258624
 https://hamal.co.il/main/אזעקות-נשמעות-כעת-במרכז-הארץ-ובשפלה-258638
+https://news.walla.co.il/break/3827514
+https://news.walla.co.il/break/3827511
+https://news.walla.co.il/item/3827513
+https://hamal.co.il/main/צוותי-מדא-בדרכם-לסריקות-בזירה-במרכז-הארץ-258644
+https://hamal.co.il/main/פיקוד-העורף-כי-ניתן-לצאת-מהמרחב-המוגן-258645
+https://hamal.co.il/main/אושר-בקריאה-שלישית-בכנסת-חוק-עונש-מוות-למחבלים-ייכנס-לספר-ה-258646
+https://hamal.co.il/main/פרצה-ב-ChatGPT-מחקר-חושף-כיצד-דלף-מידע-אישי-ללא-ידיעת-המשתמ-258647
