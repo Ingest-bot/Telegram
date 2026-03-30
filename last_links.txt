@@ -1,6 +1,4 @@
 COUNTER:5
-https://hamal.co.il/main/במשטרה-מבקשים-מהציבור-להשמע-להנחיות-257427
-https://hamal.co.il/main/תיעוד-של-הטיל-מתפצל-257432
 https://hamal.co.il/main/סריקות-במספר-זירות-צוותי-מדא-מבצעים-סריקות-257434
 https://hamal.co.il/main/נפילת-פריטי-אמל״ח-בגזרת-מחוז-דן-257436
 https://hamal.co.il/main/תיעודים-מזירות-הנפילה-השונות-במרכז-הארץ-257439
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827421
 https://news.walla.co.il/break/3827422
 https://news.walla.co.il/item/3827423
 https://hamal.co.il/main/מצאה-פתק-מזר-מוחלט-על-הרכב---וגילתה-את-הסוד-של-בעלה-257934
+https://news.walla.co.il/break/3827427
+https://news.walla.co.il/break/3827429
