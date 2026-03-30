@@ -1,11 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/חשש-לחדירת-כלי-טיס-עוין-אזעקות-הופעלו-בגליל-העליון-257371
-https://hamal.co.il/main/באיראן-מדווחים-הותקן-מתקן-גרעין-נוסף-במדינה-257372
-https://news.walla.co.il/break/3826734
-https://news.walla.co.il/break/3826735
-https://news.walla.co.il/break/3826736
-https://news.walla.co.il/break/3826737
-https://hamal.co.il/main/הרמטכל-בדרום-לבנון-257373
+COUNTER:33
 https://hamal.co.il/main/רוביו-על-המערכה-באיראן-תסתיים-בשבועות-הקרובים-257374
 https://hamal.co.il/main/איראן-מאיימת-בנקמה-בתגובה-לתקיפות-על-מפעלי-הפלדה-257375
 https://hamal.co.il/main/חיל-האוויר-תקף-את-מפעל-המים-הכבדים-באראכ-257378
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3827365
 https://news.walla.co.il/break/3827366
 https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258479
 https://hamal.co.il/main/הותר-לפרסום-258482
+https://news.walla.co.il/break/3827375
+https://news.walla.co.il/break/3827380
+https://news.walla.co.il/break/3827379
+https://hamal.co.il/main/התחבאו-בגג-הרכב-שבחים-נעצרו-בירושלים-258504
+https://hamal.co.il/main/באיראן-משיבים-לארהב-258481
+https://hamal.co.il/main/באיראן-משיבים-לארהב-258505
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258507
