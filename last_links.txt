@@ -1,9 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/יורט-הטיל-ששוגר-מאיראן-לדרום-257227
-https://hamal.co.il/main/לוחמי-פלחוד-שקד-של-גבעתי-מאחלים-לכם-שבת-שלום-257225
-https://news.walla.co.il/item/3826680
-https://hamal.co.il/main/חשד-לגרימת-מותו-של-תינוק-בדימונה---הוריו-נעצרו-לחקירה-257228
-https://hamal.co.il/main/סמל-אביעד-אלחנן-וולנסקי-שנהרג-מירי-בלבנון-מובא-למנוחות-257234
+COUNTER:36
 https://news.walla.co.il/break/3826684
 https://hamal.co.il/main/-הפגנות-נגד-ישראל-צפויות-במספר-מוקדים-באירופה-257235
 https://hamal.co.il/main/פרשת-״צו״--זמני-השבת-257243
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827247
 https://news.walla.co.il/break/3827248
 https://news.walla.co.il/item/3827245
 https://hamal.co.il/main/בפעם-ה-3-זוהו-שיגורים-נוספים-מאיראן-לדרום-258362
+https://news.walla.co.il/break/3827250
+https://news.walla.co.il/break/3827251
+https://hamal.co.il/main/השיגור-מאיראן-לדרום-יורט-לא-ידוע-על-נפגעים-258373
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258375
+https://hamal.co.il/main/מבצע-מסוכן-טראמפ-שוקל-פעולה-צבאית-להוצאת-האורניום-מאיראן-258383
