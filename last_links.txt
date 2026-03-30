@@ -1,10 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/דיווחים-בלבנון-יותר-מ-10-הרוגים-ועשרות-פצועים-בתקיפה-בדרום-257335
-https://hamal.co.il/main/מחבל-חיזבאללה-יצא-מפיר-תת-קרקעי--וחוסל-בהיתקלות-פנים-אל-פנים-257336
-https://hamal.co.il/main/בעקבות-הירי-האחרון-נזק-במלון-במרכז--צפו-257338
-https://news.walla.co.il/break/3826716
-https://news.walla.co.il/break/3826717
-https://news.walla.co.il/item/3826720
+COUNTER:18
 https://hamal.co.il/main/דיווח-המודיעין-האמריקני-מעריך---שני-שליש-מארסנל-הטילים-של-א-257341
 https://hamal.co.il/main/מאות-אמצעי-לחימה-אותרו-בבית-ספר-בכפר-אל-חיאם-בדרום-לבנון-257340
 https://hamal.co.il/main/ראש-אכא-למשרתים-257342
@@ -499,3 +493,9 @@ https://hamal.co.il/main/בקלות-וביעילות-בצעו-מכירת-חמץ-
 https://hamal.co.il/main/צהל-תקפנו-תשתיות-של-חיזבאללה-בביירות-258411
 https://hamal.co.il/main/דיווחים-בלבנון-התקיפה-כוונה-לעבר-דירה-בבניין-ברובע-הדאחייה-258412
 https://hamal.co.il/main/טראמפ-אני-שוקל-להורות-על-השתלטות-על-האי-חארג-258413
+https://news.walla.co.il/break/3827328
+https://news.walla.co.il/break/3827330
+https://news.walla.co.il/item/3827331
+https://news.walla.co.il/item/3827188
+https://hamal.co.il/main/מחבלים-התחש-258414
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-258416
