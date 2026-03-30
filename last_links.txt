@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/שגרירות-סעודה-בביירות-לאזרחיה-בקריאה-מיידית-לעזוב-את-לבנון-257205
-https://news.walla.co.il/item/3826670
 https://hamal.co.il/main/עיתונאי-ספורט-נעצר-בדרום-אפריקה-בחשד-לטרור-ליד-מוסד-יהודי-257207
 https://hamal.co.il/main/הפגיעה-במערך-הימי-נמשכת-257208
 https://news.walla.co.il/break/3826672
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אין-דיווחים-על-נפגעים-בירי-לצפ
 https://news.walla.co.il/break/3827239
 https://news.walla.co.il/break/3827240
 https://news.walla.co.il/item/3827236
+https://news.walla.co.il/break/3827241
+https://news.walla.co.il/break/3827242
