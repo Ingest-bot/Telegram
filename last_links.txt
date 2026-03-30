@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/פגישת-חירום-בין-מצרים-איראן-טורקיה-וסעודיה-257559
-https://hamal.co.il/main/נשיא-איראן-ניתן-תגובה-חזקה-לאויב-257561
-https://news.walla.co.il/item/3826818
+COUNTER:36
 https://hamal.co.il/main/תקיפה-אווירית-נגד-מכונית-בכביש-כפר-חונה-גזין-בדרום-לבנון-257562
 https://news.walla.co.il/break/3826824
 https://news.walla.co.il/break/3826825
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-258
 https://news.walla.co.il/break/3827489
 https://hamal.co.il/main/צהל-חיסל-בביירות-מפקדים-בכירים-ביחידה-שאחראית-על-התיאום-בי-258587
 https://hamal.co.il/main/קארין-עליה-התארסה-לבן-זוגה-אמרתי-כן-לחבר-הכי-טוב-שלי-מאור-258589
+https://news.walla.co.il/break/3827496
+https://news.walla.co.il/item/3827493
+https://hamal.co.il/main/קרוב-לשיא-כל-הזמנים-מחיר-הבנזין-מזנק-המדינה-תגזור-קופון-נו-258588
