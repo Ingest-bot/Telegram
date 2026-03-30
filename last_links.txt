@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/הפליטה---והבדיחה-של-הבית-הלבן-צריכים-לפתוח-את-מצר-טראמפ-257669
-https://news.walla.co.il/break/3826859
+COUNTER:18
 https://hamal.co.il/main/רוני-דיילה-וחלק-מהזרים-במכבי-תא-צפויים-לשוב-לישראל-בקרוב-257676
 https://news.walla.co.il/break/3826865
 https://hamal.co.il/main/כעת-בחיפה-257683
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סיוט-בחופשה-תאילנד-קפץ-מהמיטה-
 https://news.walla.co.il/break/3827528
 https://news.walla.co.il/item/3827527
 https://hamal.co.il/main/פגיעה-באמון-הלוחמים-31-חברי-כנסת-נגד-השעיית-פעילות-הגדוד-258650
+https://news.walla.co.il/item/3827533
+https://hamal.co.il/main/בשורה-שחיכו-לה-תושבי-אשקלון-יקבלו-הטבות-מס-258655
