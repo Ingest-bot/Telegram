@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3826865
-https://hamal.co.il/main/כעת-בחיפה-257683
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לאילת-בדקות-הקרובות-יופעלו-אזעקות-257686
+COUNTER:20
 https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בבאר-שבע-מצבו-קשה-257687
 https://hamal.co.il/main/הירי-מאיראן-לאילת-257693
 https://hamal.co.il/main/דיווח-ראשוני-פריט-אמלח-נפל-במבנה-באילת-אין-נפגעים-257697
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פגיעה-באמון-הלוחמים-31-חברי-כנס
 https://news.walla.co.il/item/3827533
 https://hamal.co.il/main/בשורה-שחיכו-לה-תושבי-אשקלון-יקבלו-הטבות-מס-258655
 https://news.walla.co.il/break/3827539
+https://news.walla.co.il/break/3827544
+https://hamal.co.il/main/מאות-מטרים-מבתי-מגורים-תיעוד-חדש-מרגע-פגיעת-הטיל-סמוך-לבש-258656
+https://hamal.co.il/main/דיווח-מכלית-נפגעה-מטיל-סמוך-לדובאי-שריפה-פרצה-במקום-258657
