@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3826797
-https://news.walla.co.il/break/3826798
-https://news.walla.co.il/break/3826799
-https://news.walla.co.il/break/3826800
+COUNTER:32
 https://news.walla.co.il/item/3826796
 https://news.walla.co.il/break/3826807
 https://news.walla.co.il/break/3826806
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3827469
 https://hamal.co.il/main/החום-וההערכה-ריגשו-אותה-שרה-נתניהו-וויתרה-על-ההצעה-להדל-258565
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-258569
 https://hamal.co.il/main/אופירה-אסייג-חושפת-הפרט-המפתיע-שלא-ידענו-על-החברות-שלה-ושל-258571
+https://hamal.co.il/main/נפתלי-בנטבממשלה-החדשה-אקים-ועדת-בדיקה-מיוחדת-לעניין-טירפוד-258572
+https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-258577
+https://hamal.co.il/main/פסח-בפתח-הלוחמים-בשטח-גדוד-1891-מוכיחים-שהניצחון-מתחיל-בער-258578
+https://hamal.co.il/main/יותר-מ-100-מגדלי-טרור-רבי-קומות-הושמדו-בלב-ביירות-חיל-האווי-258579
