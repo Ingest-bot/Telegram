@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/קצין-ולוחם-נפצעו-קשה-בתאונה-מבצעית-במהלך-היתקלות-בדרום-לבנון-257262
-https://hamal.co.il/main/אזעקות-הופעלו-בצפון-257268
-https://news.walla.co.il/item/3826697
+COUNTER:3
 https://hamal.co.il/main/מותו-של-אורי-פרץ-ז״ל-בנהריה---כתוצאה-מפגיעת-טיל-שלא-יורט-257269
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-257271
 https://hamal.co.il/main/דיווח-תקיפה-על-בסיס-משמרות-המהפכה-בבושהר-257272
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827274
 https://news.walla.co.il/break/3827277
 https://news.walla.co.il/item/3827269
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258394
+https://news.walla.co.il/break/3827278
+https://hamal.co.il/main/ממצאי-258395
+https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258396
