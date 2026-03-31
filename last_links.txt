@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/צהל-מאשר-הפצנו-הנחייה-לשוהים-בקרבת-המפעל-להסתגר-258149
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לנגב-258151
-https://hamal.co.il/main/משרד-רה״מ-מודיע-ישראל-תנסה-למצוא-דרך-לאפשר-כניסה-לכנסיות-258152
-https://news.walla.co.il/break/3827141
-https://news.walla.co.il/break/3827142
+COUNTER:39
 https://news.walla.co.il/break/3827144
 https://hamal.co.il/main/מספר-זירות-נפילה-בבאר-שבע-עד-כה-לא-ידוע-על-נפגעים--תיעוד-258180
 https://hamal.co.il/main/האירוע-בנאות-חובב-מעבר-ל-800-מטר-מהמקום-לא-נשקפת-סכנה-258181
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-תקף-משגרים-מהם-נורו-הרקטות
 https://hamal.co.il/main/אירוע-אלימות-בכפר-סבא-גבר-כבן-30-במצב-קשה-259086
 https://hamal.co.il/main/כוחות-המנהל-האזרחי-חילצו-שלושה-יהודים-ממסעדה-בעיר-קלקיליה-259092
 https://hamal.co.il/main/טראמפ-ל-NBC-״המלחמה-קרובה-לסיום״-259096
+https://news.walla.co.il/break/3827801
+https://news.walla.co.il/break/3827800
+https://news.walla.co.il/break/3827802
+https://news.walla.co.il/item/3827798
+https://hamal.co.il/main/ערב-פסח-חייה-של-בת-60-שנחשפה-לחרוסת-259097
