@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3826889
-https://news.walla.co.il/break/3826887
+COUNTER:37
 https://news.walla.co.il/break/3826888
 https://news.walla.co.il/break/3826891
 https://hamal.co.il/main/ערערה-גבר-בן-30-נפצע-באירוע-אלימות-מצבו-קשה-257774
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827566
 https://hamal.co.il/main/2-בני-אדם-הוצאו-להורג-באיראן-בגין-קשר-לאופוזיציה-258724
 https://hamal.co.il/main/6-שיטות-פשוטות-וזולות-להעלים-עובש-ממכונת-הכביסה-258723
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-258727
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-258728
+https://hamal.co.il/main/אזעקות-הופעלו-במרכז-הארץ-הדי-פיצוצים-נשמעים-במרחב-258748
