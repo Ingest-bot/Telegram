@@ -1,5 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3827011
+COUNTER:2
 https://hamal.co.il/main/עקב-גל-הברחות-כך-תוודאו-שהבשר-והביצים-שאתם-קונים-בטוחים-למא-257927
 https://hamal.co.il/main/יור-הפרלמנט-האיראני-ארהב-מתכננת-פלישה-חשאית-257966
 https://news.walla.co.il/break/3827018
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3827702
 https://news.walla.co.il/item/3827706
 https://hamal.co.il/main/דובר-צהל-בערבית-מפרסם-אזהרה-לתושבי-הדאחיה-בביירות-258874
 https://hamal.co.il/main/ראשוני-258875
+https://hamal.co.il/main/צהל-חושף-ארגון-הטרור-חזבאללה-השתלט-על-הכפר-הנוצרי-בלבנון-258880
