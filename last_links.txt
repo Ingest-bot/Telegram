@@ -1,6 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3826876
-https://hamal.co.il/main/תמר-הברפלד-בת-12-מחיפה-היא-ההרוגה-בהתהפכות-האוטובוס-בצרפת-257731
+COUNTER:26
 https://news.walla.co.il/break/3826878
 https://hamal.co.il/main/כוכבת-חתונה-ממבט-ראשון-התחתנה-עברנו-חתיכת-מסע-257738
 https://hamal.co.il/main/שיגור-מתימן-אזעקות-חדירת-כטבם-באילת-והסביבה-257742
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-בשעות-הבוקר-ייערך-תרגיל-צב
 https://hamal.co.il/main/יירוט-מוצלח-אין-נפגעים-במטח-האחרון-מאיראן-לירושלים-258695
 https://news.walla.co.il/break/3827555
 https://hamal.co.il/main/מבוקש-ברומניה-הארגון-הפלסטיני-בלגי-בבקשה-לעצור-חייל-צהל-258701
+https://news.walla.co.il/break/3827556
+https://hamal.co.il/main/הותר-לפרסום-קצין-ושלושה-לוחמי-סיירת-נחל-נפלו-בדרום-לבנון-258702
