@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3826933
-https://news.walla.co.il/break/3826935
+COUNTER:11
 https://news.walla.co.il/break/3826936
 https://news.walla.co.il/item/3826934
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-257887
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827617
 https://news.walla.co.il/item/3827614
 https://hamal.co.il/main/לבנון-הודיעה-לאו״ם-חיזבאללה---ארגון-מחוץ-לחוק-258785
 https://hamal.co.il/main/21-שוהים-בלתי-חוקיים-נעצרו-באתר-בנייה-בירושלים-258788
+https://hamal.co.il/main/כוחותינו-חיסלו-מחבל-שהאיץ-לעברם-סמוך-לטול-כרם-258790
+https://hamal.co.il/main/גלעד-הראל-ז״ל-הוא-החלל-הרביעי-שנפצע-באירוע-בדרום-לבנון-258791
