@@ -1,8 +1,4 @@
 COUNTER:22
-https://hamal.co.il/main/חשד-להתעללות-במעון-לחתושבת-העיר-נעצרה-258053
-https://hamal.co.il/main/חשד-להתעללות-במעון-לחתושבת-העיר-נעצרה-258054
-https://news.walla.co.il/break/3827089
-https://hamal.co.il/main/700-מיליון-שח-יוקצו-258055
 https://hamal.co.il/main/מטריד-הימים-שלנו-מתארכים-בקצב-חסר-תקדים---וזו-הסיבה-257926
 https://hamal.co.il/main/עצמאים-אתם-חייבים-לבצע-את-הפעולה-הזאת-258070
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-258075
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לגורל-היו-תוכניות-משלו-מעיין-א
 https://hamal.co.il/main/ירי-מלבנון-מטח-של-מספר-כטבמים-לצפון-הארץ-258951
 https://hamal.co.il/main/ראש-ממשלת-ספרד-חוק-עונש-המוות---צעד-בדרך-לאפרטהייד-258966
 https://hamal.co.il/main/דיווחים-בעיראק-עיתונאית-אמריקנית-נחטפה-258971
+https://news.walla.co.il/break/3827759
+https://news.walla.co.il/break/3827758
+https://news.walla.co.il/break/3827762
+https://news.walla.co.il/item/3827761
