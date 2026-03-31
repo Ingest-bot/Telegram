@@ -1,6 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/תיעודים-נוספים-מזירת-הנפילה-בנאות-חובב-258108
-https://hamal.co.il/main/שברי-רסיסים-ברחבי-העיר-חיפה-כתוצאה-מהירי-מאיראן-258109
+COUNTER:28
 https://news.walla.co.il/item/3827119
 https://hamal.co.il/main/רהט-בן-30-נהרג-כתוצאה-מאירוע-אלימות-258113
 https://hamal.co.il/main/המפעל-בבדיקת-אירוע-חומרים-מסוכנים-המפעלים-הסמוכים-התפנו-258116
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בדקות-הקרובות-הצהרת-ראש-הממשל�
 https://hamal.co.il/main/המטח-לצפון-בשלב-זה-לא-אותרו-נפגעים-259060
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-בינימין-נתניהו-259071
 https://news.walla.co.il/break/3827774
+https://news.walla.co.il/item/3827781
+https://hamal.co.il/main/מות-תינוק-בברית-מילה-מוהל-בן-66-נעצר-בחשד-לרשלנות-259076
