@@ -1,5 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3826878
+COUNTER:27
 https://hamal.co.il/main/כוכבת-חתונה-ממבט-ראשון-התחתנה-עברנו-חתיכת-מסע-257738
 https://hamal.co.il/main/שיגור-מתימן-אזעקות-חדירת-כטבם-באילת-והסביבה-257742
 https://news.walla.co.il/break/3826879
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3827555
 https://hamal.co.il/main/מבוקש-ברומניה-הארגון-הפלסטיני-בלגי-בבקשה-לעצור-חייל-צהל-258701
 https://news.walla.co.il/break/3827556
 https://hamal.co.il/main/הותר-לפרסום-קצין-ושלושה-לוחמי-סיירת-נחל-נפלו-בדרום-לבנון-258702
+https://hamal.co.il/main/גשם-קל---עם-עלייה-קלה-בטמפרטורות--התחזית-258707
