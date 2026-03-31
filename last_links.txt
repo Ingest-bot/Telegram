@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3826879
+COUNTER:29
 https://news.walla.co.il/break/3826880
 https://news.walla.co.il/break/3826881
 https://hamal.co.il/main/הכטבם-מתקרב---ומתפוצץ-באוויר-תיעוד-היירוט-באילת-257744
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הותר-לפרסום-קצין-ושלושה-לוחמי-
 https://hamal.co.il/main/גשם-קל---עם-עלייה-קלה-בטמפרטורות--התחזית-258707
 https://hamal.co.il/main/גשם-קל---עם-עלייה-קלה-בטמפרטורות--התחזית-258710
 https://news.walla.co.il/break/3827558
+https://hamal.co.il/main/״מי-שחושב-שנגיע-לטיל-האיראני-האחרון---מבולבל״-258716
