@@ -1,6 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3827119
-https://hamal.co.il/main/רהט-בן-30-נהרג-כתוצאה-מאירוע-אלימות-258113
+COUNTER:30
 https://hamal.co.il/main/המפעל-בבדיקת-אירוע-חומרים-מסוכנים-המפעלים-הסמוכים-התפנו-258116
 https://hamal.co.il/main/עזה-חוסל-מחבל-שהפר-את-ההסכם-לאחר-ששוחרר-ב--כנפי-דרור-258119
 https://news.walla.co.il/break/3827123
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הצהרת-ראש-הממשלה-בינימין-נתני�
 https://news.walla.co.il/break/3827774
 https://news.walla.co.il/item/3827781
 https://hamal.co.il/main/מות-תינוק-בברית-מילה-מוהל-בן-66-נעצר-בחשד-לרשלנות-259076
+https://hamal.co.il/main/הנגב-כולו-בוכה-עליך-היום-באדום-לזכרו-של-סמר-בן-כהן-זל-259077
+https://hamal.co.il/main/הירי-לצפון-הארץ-2-נפגעים-במצב-קל-ונפגע-חרדה-1-259078
