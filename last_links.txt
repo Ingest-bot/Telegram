@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/יוצר-התוכן-בני-ווילד-על-הסערה-בין-גל-רובין-לתמיר-באח-הגדול-257806
-https://news.walla.co.il/break/3826919
-https://hamal.co.il/main/אזעקות-נשמעו-בכפר-גלעדי-257809
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כלי-טיס-עוין-257816
+COUNTER:6
 https://news.walla.co.il/break/3826923
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-מחשש-לחדירת-כטבם-257827
 https://hamal.co.il/main/אזעקות-בקש-והסביבה-מחשש-לחדירת-כטבם-257834
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827592
 https://news.walla.co.il/break/3827596
 https://hamal.co.il/main/גם-בלבנון-סוריה-ועזה-צה״ל-כשר-לפסח-258762
 https://hamal.co.il/main/8-פצועים-קל-מהדף-בבני-ברק-258763
+https://news.walla.co.il/break/3827600
+https://news.walla.co.il/break/3827601
+https://news.walla.co.il/item/3827606
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-258767
