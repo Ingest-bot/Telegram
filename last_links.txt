@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/לראשונה-יחידת-257930
-https://hamal.co.il/main/גבר-נפצע-קשה-באירוע-אלימות-ברהט-סובל-מפציעות-חודרות-בגופו-257933
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-257924
+COUNTER:26
 https://news.walla.co.il/item/3826968
 https://hamal.co.il/main/הטילים-ששוגרו-257944
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-לדרום-257948
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3827654
 https://hamal.co.il/main/הפגיעה-בתעשיות-הייצור-הצבאיות-בטהרן-נמשכת-258820
 https://hamal.co.il/main/בזמן-אזעקה-זה-מה-שעשה-כוכב-יומני-הערפד-בתל-אביב-258794
 https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליון-258827
+https://news.walla.co.il/item/3827669
+https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בכפר-עיתא-א-שעב-בדרום-258830
+https://hamal.co.il/main/בקטאר-מגנים-את-איזור-החיץ-בלבנון-״הפרות-של-החוק-הבינלאומי״-258833
