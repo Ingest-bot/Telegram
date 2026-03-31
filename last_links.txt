@@ -1,12 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/תיעוד-257977
-https://news.walla.co.il/break/3827053
-https://news.walla.co.il/break/3827052
-https://hamal.co.il/main/ארקיע-מודיעה-עוצרים-257979
-https://hamal.co.il/main/הנציג-הדני-לאירוויזיון-העלה-תמונה-עם-מסרים-בעד-ישראל-257994
-https://news.walla.co.il/break/3827061
-https://news.walla.co.il/item/3827059
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-257996
+COUNTER:13
 https://hamal.co.il/main/תיעוד-קשה-258006
 https://hamal.co.il/main/תיעוד-קשה-258013
 https://news.walla.co.il/break/3827071
@@ -499,3 +491,11 @@ https://hamal.co.il/main/סין-ופקיסטן-ביוזמה-משותפת-קור�
 https://hamal.co.il/main/אירוע-אלימות-בכביש-444-גבר-בן-29-במצב-קשה-258893
 https://news.walla.co.il/item/3827739
 https://hamal.co.il/main/בול-פגיעה-תיעוד-דרמטי-של-תקיפה-ממוקדת-בדאחיה-שבביירות-258898
+https://news.walla.co.il/break/3827740
+https://news.walla.co.il/break/3827741
+https://news.walla.co.il/break/3827743
+https://news.walla.co.il/item/3827745
+https://hamal.co.il/main/האזעקות-בקריות-חלק-מהטילים-יורטו-וחלק-נפלו-בשטחים-פתוחים-258911
+https://hamal.co.il/main/גבר-כבן-35-נפצע-בתאונת-דרכים-בקרית-ביאליק-מצבו-קשה-מערכת-וו-258912
+https://hamal.co.il/main/הירי-לעבר-צפון-הארץ-258914
+https://hamal.co.il/main/טראמפ-מוחקים-את-איראן--לא-נהיה-שם-עוד-הרבה-זמן-258917
