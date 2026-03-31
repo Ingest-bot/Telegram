@@ -1,10 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/מחקר-חדש-דיאטה-אחת-יכולה-להאט-את-הזדקנות-המוח-ביותר-משנתיים-256823
-https://news.walla.co.il/item/3826955
-https://hamal.co.il/main/גמישות-הקלות-ומועדים-מיוחדים-256837
-https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-נוסף-ברחבי-איראן-257928
-https://news.walla.co.il/break/3826961
-https://hamal.co.il/main/נתניהו-ספד-257929
+COUNTER:24
 https://hamal.co.il/main/לראשונה-יחידת-257930
 https://hamal.co.il/main/גבר-נפצע-קשה-באירוע-אלימות-ברהט-סובל-מפציעות-חודרות-בגופו-257933
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-257924
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דרום-לבנון-2-הרוגים-בתקיפה-אוו�
 https://hamal.co.il/main/מחרשת-הכסף-כך-צהל-משנה-את-המציאות-בכפרי-המגע-בדרום-לבנ-258804
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-258811
 https://hamal.co.il/main/פצוע-בינוני-מרסיסים-באחד-היישובים-בקו-העימות-258817
+https://news.walla.co.il/break/3827663
+https://news.walla.co.il/break/3827662
+https://news.walla.co.il/item/3827654
+https://hamal.co.il/main/הפגיעה-בתעשיות-הייצור-הצבאיות-בטהרן-נמשכת-258820
+https://hamal.co.il/main/בזמן-אזעקה-זה-מה-שעשה-כוכב-יומני-הערפד-בתל-אביב-258794
+https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליון-258827
