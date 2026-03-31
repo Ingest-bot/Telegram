@@ -1,8 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/הדיפלומט-הישראלי-מעריך-זאת-האפשרות-257960
-https://hamal.co.il/main/חשד-לרצח-ברהט-גבר-נורה-למוות-מצוד-מתנהל-אחר-החשודים-257961
-https://hamal.co.il/main/אביו-של-אורי-גרינברג-ספד-לבנו-257962
-https://news.walla.co.il/break/3827002
+COUNTER:1
 https://news.walla.co.il/item/3827011
 https://hamal.co.il/main/עקב-גל-הברחות-כך-תוודאו-שהבשר-והביצים-שאתם-קונים-בטוחים-למא-257927
 https://hamal.co.il/main/יור-הפרלמנט-האיראני-ארהב-מתכננת-פלישה-חשאית-257966
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3827694
 https://hamal.co.il/main/לא-מצליחים-לעמוד-על-רגל-אחת-זה-עלול-להעיד-על-בעיה-בריאותית-258799
 https://hamal.co.il/main/גבר-כבן-31-במצב-קשה-תאונת-עבודה-במפעל-במעלה-אדומים-258862
 https://hamal.co.il/main/בעומק-הים-מול-חופי-הרצליה-אותרו-חלקי-שלד-אדם-258863
+https://news.walla.co.il/break/3827702
+https://news.walla.co.il/item/3827706
+https://hamal.co.il/main/דובר-צהל-בערבית-מפרסם-אזהרה-לתושבי-הדאחיה-בביירות-258874
+https://hamal.co.il/main/ראשוני-258875
