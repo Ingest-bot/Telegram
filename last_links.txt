@@ -1,13 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/עקב-גל-הברחות-כך-תוודאו-שהבשר-והביצים-שאתם-קונים-בטוחים-למא-257927
-https://hamal.co.il/main/יור-הפרלמנט-האיראני-ארהב-מתכננת-פלישה-חשאית-257966
-https://news.walla.co.il/break/3827018
-https://news.walla.co.il/break/3827017
-https://news.walla.co.il/break/3827021
-https://news.walla.co.il/item/3827026
-https://hamal.co.il/main/הירי-מאיראן-לדרום-31-נפגעי-חרדה-פונו-לסורוקה-257967
-https://news.walla.co.il/break/3827029
-https://hamal.co.il/main/צפו-הערוץ-הקטארי-שתיעד-את-הפגיעה-במשרדו-שבטהרן-257968
+COUNTER:6
 https://hamal.co.il/main/מפקד-פיקוד-העורף-באשתאול-ההבדל---הישמעות-להנחיות-257972
 https://news.walla.co.il/item/3827038
 https://hamal.co.il/main/פיקאצו-נגד-טראמפ-דמויות-הפוקימון-תועדו-בהפגנות-נגד-הנשיא-257975
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3827706
 https://hamal.co.il/main/דובר-צהל-בערבית-מפרסם-אזהרה-לתושבי-הדאחיה-בביירות-258874
 https://hamal.co.il/main/ראשוני-258875
 https://hamal.co.il/main/צהל-חושף-ארגון-הטרור-חזבאללה-השתלט-על-הכפר-הנוצרי-בלבנון-258880
+https://news.walla.co.il/break/3827720
+https://news.walla.co.il/break/3827721
+https://news.walla.co.il/break/3827723
+https://news.walla.co.il/item/3827711
+https://news.walla.co.il/item/3827726
+https://hamal.co.il/main/בלב-טהרן-צהל-חושף-תיעוד-מתקיפות-על-מערכות-ההגנה-האיראניות-258883
+https://hamal.co.il/main/עשרות-משפחות-חזרו-הקיבוץ-שעבר-טבח-הופך-שוב-לבית-שקט-ובטוח-258886
+https://hamal.co.il/main/צרפת-לא-אפשרה-לישראל-להעביר-נשק-אמריקני-טראמפ-נזכור-זאת-258887
+https://hamal.co.il/main/טראמפ-על-האורניום-האיראני-קבור-עמוק-מאוד-יהיה-קשה-להגיע-א-258888
