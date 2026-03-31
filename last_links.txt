@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/אדם-נפל-לבור-מים-בקריית-ים---וחולץ-כשמצבו-מוגדר-יציב-257957
-https://news.walla.co.il/break/3826993
-https://news.walla.co.il/item/3826998
-https://hamal.co.il/main/ארקיע-מודיעה-257958
+COUNTER:36
 https://hamal.co.il/main/האקרים-איראנים-טוענים-פרצנו-למערכות-אישיות-וסודיות-של-יואב-257959
 https://news.walla.co.il/item/3826993
 https://news.walla.co.il/item/3827006
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827682
 https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-טרור-בביירות-258853
 https://hamal.co.il/main/אנחנו-חוזרים-לימים-שדלק-מאוד-יקר-במדינת-ישראל-0000-0353-258805
 https://hamal.co.il/main/חלקי-שלד-אותרו-בעומק-הים-מול-חופי-הרצליה-חקירה-נפתחה-258855
+https://news.walla.co.il/break/3827690
+https://hamal.co.il/main/חודש-למלחמה-ירידהבפניות-למיון-זינוק-במצוקה-נפשית-וכאבי-גב-258844
+https://hamal.co.il/main/הגסת׳-״הימים-הקרובים-יהיו-מכריעים-ואיראן-יודעת-זאת״-258858
+https://hamal.co.il/main/בונוס-של-אלפי-שקלים-לכל-עובד-הבשורה-של-שופרסל-לפסח-ליאת-רון-258798
