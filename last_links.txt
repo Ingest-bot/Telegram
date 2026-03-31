@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3827107
-https://news.walla.co.il/item/3827095
-https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-למרכז-הארץ-258084
-https://news.walla.co.il/break/3827109
+COUNTER:26
 https://hamal.co.il/main/נפילה-ביישוב-נאות-חובב-בדרום-הארץ-258106
 https://hamal.co.il/main/מנכל-מדא-נפגע-אחד-במצב-קל-בזירה-בנאות-חובב-258107
 https://hamal.co.il/main/תיעודים-נוספים-מזירת-הנפילה-בנאות-חובב-258108
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827767
 https://news.walla.co.il/break/3827768
 https://news.walla.co.il/item/3827765
 https://hamal.co.il/main/בהמשך-למטח-לעבר-הצפון-במדא-יצאו-לסרוק-מספר-זירות-259023
+https://news.walla.co.il/break/3827770
+https://hamal.co.il/main/דיווח-על-שבר-יירוט-בקרית-חיים-259038
+https://hamal.co.il/main/בדקות-הקרובות-הצהרת-ראש-הממשלה-נתניהו-259055
+https://hamal.co.il/main/המטח-לצפון-בשלב-זה-לא-אותרו-נפגעים-259060
