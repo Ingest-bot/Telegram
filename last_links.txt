@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/תיעוד-שברי-יירוט-אותרו-בקריית-אתא-258051
-https://news.walla.co.il/break/3827080
-https://news.walla.co.il/break/3827085
+COUNTER:22
 https://hamal.co.il/main/חשד-להתעללות-במעון-לחתושבת-העיר-נעצרה-258053
 https://hamal.co.il/main/חשד-להתעללות-במעון-לחתושבת-העיר-נעצרה-258054
 https://news.walla.co.il/break/3827089
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פרויקט-פסח-בצה״ל-כך-נערכים-ללי
 https://news.walla.co.il/item/3827755
 https://hamal.co.il/main/הערב-ב-2020-נתניהו-ימסור-הצהרה-לתקשורת-258930
 https://hamal.co.il/main/לגורל-היו-תוכניות-משלו-מעיין-אדם-בהיריון-שלישי-258933
+https://hamal.co.il/main/ירי-מלבנון-מטח-של-מספר-כטבמים-לצפון-הארץ-258951
+https://hamal.co.il/main/ראש-ממשלת-ספרד-חוק-עונש-המוות---צעד-בדרך-לאפרטהייד-258966
+https://hamal.co.il/main/דיווחים-בעיראק-עיתונאית-אמריקנית-נחטפה-258971
