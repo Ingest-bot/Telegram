@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3826938
-https://news.walla.co.il/break/3826939
-https://hamal.co.il/main/סמל-משה-יצחק-הכהן-כץ-Moshe-Yitzchak-hacohen-Katz-בן-22-מ-257915
-https://hamal.co.il/main/פרטים-נוספים-257920
-https://hamal.co.il/main/מפקדות-זמניות-ואתרי-ייצור-אמלח-צהל-השלים-גל-תקיפות-בטהרן-257922
+COUNTER:18
 https://hamal.co.il/main/לאחר-ההפוגה-גשמים-צפויים-בכל-הארץ-מה-צפוי-בליל-הסדר-257916
 https://news.walla.co.il/item/3826746
 https://hamal.co.il/main/הירי-מלבנון-רסיס-אותר-בגליל-העליון-אין-נפגעים-257925
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827638
 https://hamal.co.il/main/התקיפות-האיראניות-על-מדינות-המפרץ-נמשכות-258796
 https://hamal.co.il/main/2-תושבי-הנגב-נעצרו-בחשד-למעורבות-בעבירות-נשק-בלתי-חוקי-258797
 https://hamal.co.il/main/לא-רק-ספרד-איטליה-מנעה-ממטוסים-אמריקניים-לנחות-בסיציליה-258795
+https://news.walla.co.il/break/3827645
+https://news.walla.co.il/break/3827646
+https://hamal.co.il/main/השר-כ״ץ-״צה״ל-ישלוט-ביטחונית-בכל-המרחב-עד-הליטני״-258801
+https://hamal.co.il/main/זה-רשמי-אחרי-שנים-של-מאבק-במחלה-קשה-סלין-דיון-חוזרת-להופיע-258802
+https://hamal.co.il/main/דרום-לבנון-2-הרוגים-בתקיפה-אווירית-על-כלי-רכב-258803
