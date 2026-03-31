@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3826903
-https://news.walla.co.il/break/3826905
-https://news.walla.co.il/break/3826907
-https://hamal.co.il/main/דובר-החותים-שהאויב-הפושע-יפסיק-את-תוקפנותו-והתקפותיו-257805
+COUNTER:5
 https://hamal.co.il/main/יוצר-התוכן-בני-ווילד-על-הסערה-בין-גל-רובין-לתמיר-באח-הגדול-257806
 https://news.walla.co.il/break/3826919
 https://hamal.co.il/main/אזעקות-נשמעו-בכפר-גלעדי-257809
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827589
 https://news.walla.co.il/item/3827584
 https://hamal.co.il/main/משמרות-המהפכה-טוענים-תקפנו-ספינת-מכולות-השייכת-לישראל-258755
 https://hamal.co.il/main/רסיסים-עפים-לכל-עבר-תיעוד-הנפילה-בבני-ברק-258761
+https://news.walla.co.il/break/3827592
+https://news.walla.co.il/break/3827596
+https://hamal.co.il/main/גם-בלבנון-סוריה-ועזה-צה״ל-כשר-לפסח-258762
+https://hamal.co.il/main/8-פצועים-קל-מהדף-בבני-ברק-258763
