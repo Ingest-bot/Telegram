@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/מדא-דיווח-על-פצוע-באחת-מזירות-הנפילה-בבאר-שבע-258182
-https://hamal.co.il/main/דיווח-על-פגיעה-במבנה-בבאר-שבע-258187
+COUNTER:3
 https://news.walla.co.il/break/3827148
 https://news.walla.co.il/break/3827150
 https://news.walla.co.il/item/3827145
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ערב-פסח-חייה-של-בת-60-שנחשפה-לחר
 https://hamal.co.il/main/לאחר-החשיפה-באום-דנון-הביע-תנחומים-בפני-שגריר-אינדונזיה-259108
 https://hamal.co.il/main/במחאה-על-חוק-עונש-מוות-למחבלים-שביתה-הוכרזה-במזרח-י-ם-259110
 https://hamal.co.il/main/במחאה-על-חוק-עונש-מוות-למחבלים-שביתה-הוכרזה-במזרח-י-ם-259112
+https://news.walla.co.il/break/3827804
+https://hamal.co.il/main/ישיר-נאום-טראמפ-ביית-הלבן-259098
