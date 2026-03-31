@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/הכטבם-מתקרב---ומתפוצץ-באוויר-תיעוד-היירוט-באילת-257744
-https://news.walla.co.il/break/3826883
-https://news.walla.co.il/break/3826884
+COUNTER:32
 https://hamal.co.il/main/שיגור-מאיראן-בדקות-הקרובות-יופעלו-אזעקות-בדרום-הארץ-257748
 https://hamal.co.il/main/במקביל-לירי-מאיראן-לדרום-שיגור-לגליל-המערבי---מלבנון-257771
 https://hamal.co.il/main/הירי-לגליל-ולנגב-הטילים-יורטו-בהצלחה-אין-דיווחים-חריגים-257773
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827558
 https://hamal.co.il/main/״מי-שחושב-שנגיע-לטיל-האיראני-האחרון---מבולבל״-258716
 https://news.walla.co.il/break/3827560
 https://hamal.co.il/main/הושלם-גל-תקיפות-נוסף-בטהרן-258717
+https://news.walla.co.il/item/3827563
+https://hamal.co.il/main/אלימות-פטיש---וגז-פלפל-4-חשודים-בשוד-אלים-נעצרו-ביפו-258718
+https://hamal.co.il/main/כוחות-אוגדה-36-ממשיכים-להשמיד-תשתיות-טרור-בדרום-לבנון-258720
