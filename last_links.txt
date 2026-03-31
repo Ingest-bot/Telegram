@@ -1,6 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/שיגור-מאיראן-בדקות-הקרובות-יופעלו-אזעקות-בדרום-הארץ-257748
-https://hamal.co.il/main/במקביל-לירי-מאיראן-לדרום-שיגור-לגליל-המערבי---מלבנון-257771
+COUNTER:33
 https://hamal.co.il/main/הירי-לגליל-ולנגב-הטילים-יורטו-בהצלחה-אין-דיווחים-חריגים-257773
 https://news.walla.co.il/break/3826890
 https://news.walla.co.il/break/3826889
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הושלם-גל-תקיפות-נוסף-בטהרן-258717
 https://news.walla.co.il/item/3827563
 https://hamal.co.il/main/אלימות-פטיש---וגז-פלפל-4-חשודים-בשוד-אלים-נעצרו-ביפו-258718
 https://hamal.co.il/main/כוחות-אוגדה-36-ממשיכים-להשמיד-תשתיות-טרור-בדרום-לבנון-258720
+https://news.walla.co.il/break/3827566
+https://hamal.co.il/main/2-בני-אדם-הוצאו-להורג-באיראן-בגין-קשר-לאופוזיציה-258724
