@@ -1,11 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/מפקד-פיקוד-העורף-באשתאול-ההבדל---הישמעות-להנחיות-257972
-https://news.walla.co.il/item/3827038
-https://hamal.co.il/main/פיקאצו-נגד-טראמפ-דמויות-הפוקימון-תועדו-בהפגנות-נגד-הנשיא-257975
-https://hamal.co.il/main/צהל-חושף-תיעוד-הרגעים-הדרמטיים-שקדמו-למבצע-״שאגת-הארי״-257974
-https://hamal.co.il/main/מאמץ-מיגון-בצפון-257976
-https://news.walla.co.il/break/3827042
-https://news.walla.co.il/break/3827040
+COUNTER:8
 https://news.walla.co.il/break/3827039
 https://hamal.co.il/main/נחצה-לשניים-תיעוד-מההרס-של-מטוס-הביון-האמריקני-257964
 https://hamal.co.il/main/תיעוד-257977
@@ -499,3 +492,10 @@ https://hamal.co.il/main/בלב-טהרן-צהל-חושף-תיעוד-מתקיפו
 https://hamal.co.il/main/עשרות-משפחות-חזרו-הקיבוץ-שעבר-טבח-הופך-שוב-לבית-שקט-ובטוח-258886
 https://hamal.co.il/main/צרפת-לא-אפשרה-לישראל-להעביר-נשק-אמריקני-טראמפ-נזכור-זאת-258887
 https://hamal.co.il/main/טראמפ-על-האורניום-האיראני-קבור-עמוק-מאוד-יהיה-קשה-להגיע-א-258888
+https://news.walla.co.il/break/3827732
+https://news.walla.co.il/break/3827733
+https://news.walla.co.il/break/3827735
+https://news.walla.co.il/item/3827729
+https://news.walla.co.il/item/3827734
+https://hamal.co.il/main/סין-ופקיסטן-ביוזמה-משותפת-קוראות-להפסקת-אש-במזרח-התיכון-258892
+https://hamal.co.il/main/אירוע-אלימות-בכביש-444-גבר-בן-29-במצב-קשה-258893
