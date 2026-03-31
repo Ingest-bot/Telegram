@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3827039
-https://hamal.co.il/main/נחצה-לשניים-תיעוד-מההרס-של-מטוס-הביון-האמריקני-257964
+COUNTER:9
 https://hamal.co.il/main/תיעוד-257977
 https://news.walla.co.il/break/3827053
 https://news.walla.co.il/break/3827052
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3827729
 https://news.walla.co.il/item/3827734
 https://hamal.co.il/main/סין-ופקיסטן-ביוזמה-משותפת-קוראות-להפסקת-אש-במזרח-התיכון-258892
 https://hamal.co.il/main/אירוע-אלימות-בכביש-444-גבר-בן-29-במצב-קשה-258893
+https://news.walla.co.il/item/3827739
+https://hamal.co.il/main/בול-פגיעה-תיעוד-דרמטי-של-תקיפה-ממוקדת-בדאחיה-שבביירות-258898
