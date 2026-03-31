@@ -1,9 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-257887
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדרום-הארץ-257889
-https://hamal.co.il/main/אזעקות-נשמעות-כעת-בדרום-ובנגב-257894
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-257897
-https://news.walla.co.il/break/3826937
+COUNTER:15
 https://news.walla.co.il/break/3826938
 https://news.walla.co.il/break/3826939
 https://hamal.co.il/main/סמל-משה-יצחק-הכהן-כץ-Moshe-Yitzchak-hacohen-Katz-בן-22-מ-257915
@@ -499,3 +494,8 @@ https://hamal.co.il/main/כוחותינו-חיסלו-מחבל-שהאיץ-לעב�
 https://hamal.co.il/main/גלעד-הראל-ז״ל-הוא-החלל-הרביעי-שנפצע-באירוע-בדרום-לבנון-258791
 https://news.walla.co.il/item/3827627
 https://hamal.co.il/main/סריקות-הלוויין-במצרים-חושפות-ספינקס-נוסף-קבור-מתחת-לחולות-258766
+https://news.walla.co.il/break/3827636
+https://news.walla.co.il/break/3827638
+https://hamal.co.il/main/התקיפות-האיראניות-על-מדינות-המפרץ-נמשכות-258796
+https://hamal.co.il/main/2-תושבי-הנגב-נעצרו-בחשד-למעורבות-בעבירות-נשק-בלתי-חוקי-258797
+https://hamal.co.il/main/לא-רק-ספרד-איטליה-מנעה-ממטוסים-אמריקניים-לנחות-בסיציליה-258795
