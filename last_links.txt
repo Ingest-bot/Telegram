@@ -1,11 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3826985
-https://news.walla.co.il/break/3826986
-https://news.walla.co.il/break/3826987
-https://news.walla.co.il/item/3826983
-https://hamal.co.il/main/הירי-מאיראן-הטיל-ששוגר-לדרום-נפל-בשטח-פתוח-אין-נפגעים-257955
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-257946
-https://hamal.co.il/main/גבר-כבן-70-נפצע-ממסור-דיסק-ביבנה-מצבו-קשה-257956
+COUNTER:33
 https://hamal.co.il/main/אדם-נפל-לבור-מים-בקריית-ים---וחולץ-כשמצבו-מוגדר-יציב-257957
 https://news.walla.co.il/break/3826993
 https://news.walla.co.il/item/3826998
@@ -499,3 +492,10 @@ https://hamal.co.il/main/כדור-אש-תיעוד-מההנפילה-באביבי�
 https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחיה-בביירות-258841
 https://hamal.co.il/main/טראמפ-נגד-צרפת-״הייתה-מאוד-לא-מועילה-נזכור-זאת״-258842
 https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-258849
+https://news.walla.co.il/break/3827685
+https://news.walla.co.il/break/3827684
+https://news.walla.co.il/break/3827683
+https://news.walla.co.il/break/3827682
+https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-טרור-בביירות-258853
+https://hamal.co.il/main/אנחנו-חוזרים-לימים-שדלק-מאוד-יקר-במדינת-ישראל-0000-0353-258805
+https://hamal.co.il/main/חלקי-שלד-אותרו-בעומק-הים-מול-חופי-הרצליה-חקירה-נפתחה-258855
