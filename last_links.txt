@@ -1,9 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/מטריד-הימים-שלנו-מתארכים-בקצב-חסר-תקדים---וזו-הסיבה-257926
-https://hamal.co.il/main/עצמאים-אתם-חייבים-לבצע-את-הפעולה-הזאת-258070
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-258075
-https://news.walla.co.il/break/3827103
-https://news.walla.co.il/break/3827104
+COUNTER:23
 https://news.walla.co.il/break/3827107
 https://news.walla.co.il/item/3827095
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-למרכז-הארץ-258084
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827759
 https://news.walla.co.il/break/3827758
 https://news.walla.co.il/break/3827762
 https://news.walla.co.il/item/3827761
+https://news.walla.co.il/break/3827766
+https://news.walla.co.il/break/3827767
+https://news.walla.co.il/break/3827768
+https://news.walla.co.il/item/3827765
+https://hamal.co.il/main/בהמשך-למטח-לעבר-הצפון-במדא-יצאו-לסרוק-מספר-זירות-259023
