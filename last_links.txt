@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3827074
-https://news.walla.co.il/break/3827078
-https://hamal.co.il/main/צהל-תקפנו-אתרים-בהפותחו-רכיבים-קריטיים-להרכבת-והשמשת-טילים-258043
+COUNTER:19
 https://hamal.co.il/main/תיעוד-שברי-יירוט-אותרו-בקריית-אתא-258051
 https://news.walla.co.il/break/3827080
 https://news.walla.co.il/break/3827085
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827753
 https://news.walla.co.il/item/3827751
 https://hamal.co.il/main/אני-עייף-אבל-מחזיק-לא-ליפול-איתי-לוי-הוציא-אלבום-אולפן-חד-258918
 https://hamal.co.il/main/פרויקט-פסח-בצה״ל-כך-נערכים-לליל-הסדר-בכל-הזירות-258929
+https://news.walla.co.il/item/3827755
+https://hamal.co.il/main/הערב-ב-2020-נתניהו-ימסור-הצהרה-לתקשורת-258930
+https://hamal.co.il/main/לגורל-היו-תוכניות-משלו-מעיין-אדם-בהיריון-שלישי-258933
