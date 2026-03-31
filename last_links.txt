@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3827149
+COUNTER:6
 https://hamal.co.il/main/המטח-לבאר-שבע-מס-נפגעי-חרדה-במקום-258188
 https://hamal.co.il/main/זירת-נפילה-בבית-האדום-מתחם-האימונים-של-הפועל-באר-שבע-258191
 https://hamal.co.il/main/באר-שבע-עד-כה-6-נפגעים-קל-וחרדה-258192
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ישיר-נאום-טראמפ-ביית-הלבן-259098
 https://news.walla.co.il/break/3827806
 https://hamal.co.il/main/נתניהו-בירך-את-השרה-מאי-גולן-259114
 https://hamal.co.il/main/טראמפ-נעזוב-את-איראן-בעוד-שבועיים-או-שלושה-259116
+https://hamal.co.il/main/חומר-קטלני-ביותר-259117
