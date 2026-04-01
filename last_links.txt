@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3827375
-https://news.walla.co.il/break/3827380
+COUNTER:15
 https://news.walla.co.il/break/3827379
 https://hamal.co.il/main/התחבאו-בגג-הרכב-שבחים-נעצרו-בירושלים-258504
 https://hamal.co.il/main/באיראן-משיבים-לארהב-258481
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827952
 https://news.walla.co.il/item/3827953
 https://news.walla.co.il/break/3827956
 https://news.walla.co.il/item/3827954
+https://news.walla.co.il/break/3827957
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-259569
