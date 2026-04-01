@@ -1,7 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3827291
-https://news.walla.co.il/item/3827295
-https://hamal.co.il/main/רכבת-258402
+COUNTER:38
 https://hamal.co.il/main/עקב-אחרי-הקורבן---ודקר-באכזריות-258403
 https://hamal.co.il/main/מחבל-ניסה-לדרוס-לוחמים-בשומרון---ונוטרל-אין-נפגעים-258404
 https://news.walla.co.il/item/3827290
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווחים-על-8-זירות-נפילה-במקבי�
 https://hamal.co.il/main/אש-ועשן-מיתמר-רגע-הנפילה-ברמת-גן-259452
 https://hamal.co.il/main/ליל-סדר-תחת-ירי-אזעקות-צפויות-במרכז-בירושלים-ובלכיש-259458
 https://hamal.co.il/main/הרס-רב-בזירות-259470
+https://news.walla.co.il/break/3827910
+https://news.walla.co.il/break/3827911
+https://hamal.co.il/main/סגן-הנשיא-ואנס-טראמפ-מגלה-חוסר-סבלנות-259475
