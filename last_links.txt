@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3827287
-https://news.walla.co.il/break/3827289
-https://news.walla.co.il/break/3827290
+COUNTER:37
 https://news.walla.co.il/item/3827291
 https://news.walla.co.il/item/3827295
 https://hamal.co.il/main/רכבת-258402
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווח-על-נפילות-רסיסים-בתא-נכו
 https://hamal.co.il/main/המטח-מאיראן-נפילה-במרכז-הארץ-אין-נפגעים-259443
 https://hamal.co.il/main/חשד-לנפילות-כוחות-יצאו-לסרוק-מס-זירות-נפילה-במרכז-הארץ-259447
 https://hamal.co.il/main/דיווחים-על-8-זירות-נפילה-במקביל-צהל-תוקף-בטהרן-259450
+https://hamal.co.il/main/אש-ועשן-מיתמר-רגע-הנפילה-ברמת-גן-259452
+https://hamal.co.il/main/ליל-סדר-תחת-ירי-אזעקות-צפויות-במרכז-בירושלים-ובלכיש-259458
+https://hamal.co.il/main/הרס-רב-בזירות-259470
