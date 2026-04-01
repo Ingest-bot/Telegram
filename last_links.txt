@@ -1,6 +1,4 @@
 COUNTER:8
-https://hamal.co.il/main/המטח-לצפון-ירי-מלבנון-במקביל-לשיגור-טיל-מצרר-מאיראן-258448
-https://hamal.co.il/main/במקביל-לירי-לעבר-הצפון-טילים-שוגרו-מלבנון-לאזור-השרון-258465
 https://hamal.co.il/main/הירי-מאיראן-מלבנון-7-זירות-נפילה-באזור-חיפה-258469
 https://hamal.co.il/main/פגיעה-נוספת-בבתי-הזיקוק-תושבים-מדווחים-על-הפסקות-חשמל-258472
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-258474
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בית-חנינא-2-גברים-נפצעו-באירוע-
 https://hamal.co.il/main/המשטרה-פתחה-בחקירה-אודות-התאונה-בכביש-4-במהלכה-נהרג-בן-60-259532
 https://news.walla.co.il/break/3827938
 https://news.walla.co.il/break/3827940
+https://news.walla.co.il/break/3827941
+https://news.walla.co.il/break/3827943
