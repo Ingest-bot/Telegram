@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3827167
-https://news.walla.co.il/break/3827169
+COUNTER:16
 https://news.walla.co.il/item/3827171
 https://news.walla.co.il/item/3827168
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקו-צפויות-בדרום-הארץ-258213
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827817
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-259126
 https://hamal.co.il/main/הירי-259138
 https://hamal.co.il/main/צהל-הטיל-ששוגר-מתימן-יורט-בהצלחה-259137
+https://news.walla.co.il/break/3827818
+https://hamal.co.il/main/אישה-חולצה-ללא-רוח-חיים-משריפה-שפרצה-בדירה-בצפון-259154
