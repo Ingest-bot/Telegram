@@ -1,6 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/break/3827365
-https://news.walla.co.il/break/3827366
 https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258479
 https://hamal.co.il/main/הותר-לפרסום-258482
 https://news.walla.co.il/break/3827375
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827948
 https://news.walla.co.il/break/3827949
 https://hamal.co.il/main/חשד-לרצח-בבאקה-אל-ערביה-נקבע-מותו-של-גבר-בן-30-259562
 https://hamal.co.il/main/--259563
+https://news.walla.co.il/break/3827952
+https://news.walla.co.il/item/3827953
