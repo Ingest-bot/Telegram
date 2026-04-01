@@ -1,6 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/item/3827326
-https://hamal.co.il/main/הכומתה-החדשה-של-חטיבת-258410
 https://hamal.co.il/main/המטח-לצפון-ירי-מלבנון-במקביל-לשיגור-טיל-מצרר-מאיראן-258448
 https://hamal.co.il/main/במקביל-לירי-לעבר-הצפון-טילים-שוגרו-מלבנון-לאזור-השרון-258465
 https://hamal.co.il/main/הירי-מאיראן-מלבנון-7-זירות-נפילה-באזור-חיפה-258469
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827934
 https://news.walla.co.il/break/3827935
 https://hamal.co.il/main/בית-חנינא-2-גברים-נפצעו-באירוע-אלימות-אחד-במצב-קשה-259531
 https://hamal.co.il/main/המשטרה-פתחה-בחקירה-אודות-התאונה-בכביש-4-במהלכה-נהרג-בן-60-259532
+https://news.walla.co.il/break/3827938
+https://news.walla.co.il/break/3827940
