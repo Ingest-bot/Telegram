@@ -1,5 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/אזעקות-נוספות-הופעלו-בדרום-פצוע-קל-סמוך-לקריית-שמונה-258361
+COUNTER:17
 https://news.walla.co.il/break/3827246
 https://news.walla.co.il/break/3827247
 https://news.walla.co.il/break/3827248
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-בסוריה-מספר-עיתונאים-הו�
 https://news.walla.co.il/break/3827878
 https://news.walla.co.il/break/3827877
 https://news.walla.co.il/break/3827876
+https://hamal.co.il/main/״בהצלחה-במשימה״-יותר-מ-2000-תדלוקים-אוויריים-בוצעו-259300
