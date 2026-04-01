@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3827239
-https://news.walla.co.il/break/3827240
-https://news.walla.co.il/item/3827236
+COUNTER:14
 https://news.walla.co.il/break/3827241
 https://news.walla.co.il/break/3827242
 https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבה-258348
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מחלקת-החנינות-במשרד-המשפטים-ה�
 https://news.walla.co.il/item/3827871
 https://hamal.co.il/main/משרד-הבריאות-הלבנוני-מדווח-על-7-הרוגים-ו-26-פצועים-בתקיפת-צה-259279
 https://hamal.co.il/main/מרפסת-קרסה-ביפו-2-נפצעו-קל-259283
+https://hamal.co.il/main/לכודה-חולצה-ממבנה-שקרס-בתל-אביב-259284
+https://hamal.co.il/main/תקיפה-מדוייקת-של-חיל-הים-חוסל-מפקד-הדרום-של-חיזבאללה-בביירו-259286
+https://hamal.co.il/main/קריסת-המרפסת-ביפו---259287
