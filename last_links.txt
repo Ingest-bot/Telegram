@@ -1,8 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/הממלכה-הערבית-פתחה-את-צינור-אלף-הקילומטר-257983
-https://hamal.co.il/main/העולם-יעקוף-את-הורמוז-הממלכה-הערבית-פתחה-את-צינור-אלף-הקיל-257978
-https://hamal.co.il/main/12-טונות-של-שוקולד-נעלמו-שוד-הקיטקט-הגדול-של-אירופה-257990
-https://hamal.co.il/main/בעקבות-תקיפות-צהל-הפסקות-חשמל-בטהרן-258269
+COUNTER:27
 https://news.walla.co.il/item/3827196
 https://hamal.co.il/main/צה״ל-תוקף-בשעה-זו-מטרות-של-משטר-הטרור-האיראני-ברחבי-טהרן-258271
 https://news.walla.co.il/break/3827194
@@ -499,3 +495,7 @@ https://hamal.co.il/main/איגרת-הרמטכ״ל-״רואה-דור-הקונה-
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-259186
 https://hamal.co.il/main/תוך-פחות-משעה-2-אזעקות-הופעלו-ברצף-במרכז-הארץ-259208
 https://hamal.co.il/main/לפחות-16-נפגעים-במטח-האחרון-בהם-259209
+https://news.walla.co.il/break/3827838
+https://news.walla.co.il/item/3827364
+https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-259213
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-259217
