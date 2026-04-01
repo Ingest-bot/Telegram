@@ -1,12 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/נתניהו-מפיקוד-צפון-נרחיב-את-רצועת-הביטחון-הקיימת-258197
-https://hamal.co.il/main/באר-שבע-4-נפגעים-במצב-קל-ו-9-נפגעי-חרדה-258198
-https://hamal.co.il/main/מה-זה-פוליגון-מה-ההבדל-בין-קלע-דוד-למערכת-חץ-258138
-https://hamal.co.il/main/צהל-השלים-למעלה-מ-140-תקיפות-לעבר-מערך-הטילים-של-איראן-258199
-https://news.walla.co.il/break/3827154
-https://news.walla.co.il/break/3827153
-https://news.walla.co.il/break/3827156
-https://hamal.co.il/main/התקציב-הכי-אנטי-ציוני-בתולדות-המדינה-המתקפה-של-בנט-258201
+COUNTER:10
 https://hamal.co.il/main/כבאות-והצלה-האירוע-בנאות-חובב---בשליטה-258205
 https://news.walla.co.il/break/3827161
 https://hamal.co.il/main/השרה-להגנת-הסביבה-אין-אירוע-חומרים-מסוכנים-בנאות-חובב-258207
@@ -499,3 +491,11 @@ https://hamal.co.il/main/חומר-קטלני-ביותר-259117
 https://news.walla.co.il/break/3827808
 https://news.walla.co.il/break/3827809
 https://hamal.co.il/main/צהל-259118
+https://news.walla.co.il/break/3827811
+https://news.walla.co.il/break/3827812
+https://news.walla.co.il/break/3827814
+https://news.walla.co.il/break/3827815
+https://news.walla.co.il/break/3827816
+https://hamal.co.il/main/דיווח-ראש-הרשות-השופטת-של-איראן-חוסל-259119
+https://hamal.co.il/main/הבית-הלבן-טראמפ-יישא-מחר-נאום-לאומה-על-המלחמה-עם-איראן-259120
+https://hamal.co.il/main/לילה-טראגי-בנתניה-שני-גברים-אותרו-ללא-רוח-חיים-בשתי-זירות-ב-259122
