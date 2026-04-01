@@ -1,5 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3827171
+COUNTER:17
 https://news.walla.co.il/item/3827168
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקו-צפויות-בדרום-הארץ-258213
 https://hamal.co.il/main/הטיל-מאיראן-ששוגר-לבאר-שבע-והסביבה---יורט--התיעוד-258228
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הירי-259138
 https://hamal.co.il/main/צהל-הטיל-ששוגר-מתימן-יורט-בהצלחה-259137
 https://news.walla.co.il/break/3827818
 https://hamal.co.il/main/אישה-חולצה-ללא-רוח-חיים-משריפה-שפרצה-בדירה-בצפון-259154
+https://hamal.co.il/main/צהל-כטבם-של-חיל-האוויר-נפל-בדרום-לבנון-259169
