@@ -1,5 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/בפעם-ה-3-זוהו-שיגורים-נוספים-מאיראן-לדרום-258362
+COUNTER:20
 https://news.walla.co.il/break/3827250
 https://news.walla.co.il/break/3827251
 https://hamal.co.il/main/השיגור-מאיראן-לדרום-יורט-לא-ידוע-על-נפגעים-258373
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הרמת-כוסית-בגדוד-703-של-אגד-טנ״א
 https://news.walla.co.il/break/3827883
 https://news.walla.co.il/item/3827882
 https://hamal.co.il/main/״הפחד-מחדירה-ירד-משמעותית-קצין-על-המציאות-הבטחונית-בצפון-259302
+https://hamal.co.il/main/דיווח-על-נפילת-פריט-בקריית-שמונה-לא-ידוע-על-נפגעים-259306
