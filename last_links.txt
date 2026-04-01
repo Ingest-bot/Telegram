@@ -1,5 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3827246
+COUNTER:18
 https://news.walla.co.il/break/3827247
 https://news.walla.co.il/break/3827248
 https://news.walla.co.il/item/3827245
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3827878
 https://news.walla.co.il/break/3827877
 https://news.walla.co.il/break/3827876
 https://hamal.co.il/main/״בהצלחה-במשימה״-יותר-מ-2000-תדלוקים-אוויריים-בוצעו-259300
+https://hamal.co.il/main/הרמת-כוסית-בגדוד-703-של-אגד-טנ״א-ארצי-לכבוד-חג-הפסח-259301
