@@ -1,9 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3827196
-https://hamal.co.il/main/צה״ל-תוקף-בשעה-זו-מטרות-של-משטר-הטרור-האיראני-ברחבי-טהרן-258271
-https://news.walla.co.il/break/3827194
-https://news.walla.co.il/break/3827200
-https://news.walla.co.il/break/3827201
+COUNTER:30
 https://news.walla.co.il/item/3827199
 https://hamal.co.il/main/זוהה-שיגור-מאיראן--בדקות-הקרובות-ישמעו-אזעקות-בדרום-הארץ-258273
 https://news.walla.co.il/break/3827202
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827838
 https://news.walla.co.il/item/3827364
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-259213
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-259217
+https://news.walla.co.il/break/3827842
+https://news.walla.co.il/item/3827841
+https://hamal.co.il/main/צהל-חיסל-את-ראש-ענף-ההנדסה-בגיס-לבנון-של-כוח-קדס-באיראן-259218
+https://hamal.co.il/main/בן-13-ואמו-החירשת-נפצעו-לאחר-שלא-הספיקו-להגיע-למרחב-מוגן-259226
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-מהשיגור-האחרון-259229
