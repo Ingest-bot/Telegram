@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/אזעקות-הופעלו-בחיפה-258312
-https://hamal.co.il/main/אחרי-האזעקות-בחיפה-חדירת-כלי-טיס-עוין-בגליל-המערבי-258318
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-בירי-לצפון-הארץ-258324
+COUNTER:11
 https://news.walla.co.il/break/3827239
 https://news.walla.co.il/break/3827240
 https://news.walla.co.il/item/3827236
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-באמירה-דרמטית-״שוקל-לפר�
 https://hamal.co.il/main/דיווחים-באיראן-תקיפה-ממוקדת-ברובע-טהראנסר-שבעיר-טהרן-259275
 https://hamal.co.il/main/סקר-בינלאומי-מצא-אלו-העמים-הכי-מנומסים-בעולם-ומה-עם-ישראל-259277
 https://hamal.co.il/main/מחלקת-החנינות-במשרד-המשפטים-העבירה-את-עמדתה-259278
+https://news.walla.co.il/item/3827871
+https://hamal.co.il/main/משרד-הבריאות-הלבנוני-מדווח-על-7-הרוגים-ו-26-פצועים-בתקיפת-צה-259279
+https://hamal.co.il/main/מרפסת-קרסה-ביפו-2-נפצעו-קל-259283
