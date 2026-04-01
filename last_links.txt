@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3827274
-https://news.walla.co.il/break/3827277
-https://news.walla.co.il/item/3827269
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258394
-https://news.walla.co.il/break/3827278
+COUNTER:30
 https://hamal.co.il/main/ממצאי-258395
 https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258396
 https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258397
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3827895
 https://hamal.co.il/main/טראמפ-לרויטרס-נצא-מאיראן-די-מהר-לא-אכפת-לי-מהאורניום״-259331
 https://hamal.co.il/main/שולחנות-ערוכים-וארוכים-פסח-בשיבא-תל-השומר-259337
 https://hamal.co.il/main/זה-הטריק-המדעי-המוכח-שיגרום-לכם-לאכול-פחות-בארוחת-החג-259341
+https://news.walla.co.il/break/3827899
+https://news.walla.co.il/break/3827900
+https://news.walla.co.il/break/3827902
+https://hamal.co.il/main/דובר-צהל-ייתכן-שאיראן-ולבנון-יירו-הערב-במטרה-לפגוע-בחג-259347
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בירושלים-במרכז-ובלכיש-259356
