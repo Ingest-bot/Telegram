@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/ליצן-של-איראן-258408
+COUNTER:1
 https://hamal.co.il/main/בקלות-וביעילות-בצעו-מכירת-חמץ-258409
 https://hamal.co.il/main/צהל-תקפנו-תשתיות-של-חיזבאללה-בביירות-258411
 https://hamal.co.il/main/דיווחים-בלבנון-התקיפה-כוונה-לעבר-דירה-בבניין-ברובע-הדאחייה-258412
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3827917
 https://news.walla.co.il/break/3827919
 https://news.walla.co.il/break/3827921
 https://hamal.co.il/main/גרם-לנמק-המוהל-החשוד-בגרימת-מוות-ברשלנות-שוחרר-למעצר-בית-259485
+https://hamal.co.il/main/ערב-החג-במערכת-הביטחון-לא-פוסלים-תרחיש-של-מטחים-משולבים-259488
