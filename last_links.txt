@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/פיקוד-העורף-258384
-https://hamal.co.il/main/במהלך-האזעקה-הקצין-במשטרה-שעזר-לנער-חרדי-מפוחד-258385
-https://hamal.co.il/main/אחרי-אישור-התקציב-אילן-רום-מסיים-את-תפקידו-כמנכל-האוצר-258389
+COUNTER:25
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-258388
 https://news.walla.co.il/break/3827271
 https://news.walla.co.il/break/3827272
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פצוע-קל-ו-4-נפגעי-חרדה-בשתי-זיר�
 https://hamal.co.il/main/האמרגן-המיתולוגי-אשר-ראובני-הלך-לעולמו-בגיל-76-259311
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-259320
 https://hamal.co.il/main/טראמפ-נשיא-המשטר-החדש-של-איראן-ביקש-הפסקת-אש-259323
+https://news.walla.co.il/break/3827889
+https://news.walla.co.il/break/3827890
+https://hamal.co.il/main/המטח-לנהריה-מספר-שיגורים-יורטו-או-נפלו-בשטחים-פתוחים-259325
