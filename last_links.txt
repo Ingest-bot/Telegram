@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3827328
+COUNTER:6
 https://news.walla.co.il/break/3827330
 https://news.walla.co.il/item/3827331
 https://news.walla.co.il/item/3827188
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ללא-התרעה-מקדימה-אזעקות-במרכז-
 https://hamal.co.il/main/הירי-מלבנון-ללא-דיווחים-על-נפילות-או-נפגעים-בשלב-הזה-259507
 https://hamal.co.il/main/נתן-לוי-בשביל-הישראלים-להיות-לוחמים-זה-בדם-שלנו-259514
 https://hamal.co.il/main/כעת-אזעקות-באצבע-הגליל-בעקבות-חדירת-כטבם-259525
+https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בכביש-4-מותו-נקבע-במקום-259529
