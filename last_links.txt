@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/הירי-מאיראן-מלבנון-7-זירות-נפילה-באזור-חיפה-258469
-https://hamal.co.il/main/פגיעה-נוספת-בבתי-הזיקוק-תושבים-מדווחים-על-הפסקות-חשמל-258472
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-258474
+COUNTER:11
 https://hamal.co.il/main/הירי-לצפון-דווחים-על-4-פצועים-בשפרעם-258476
 https://news.walla.co.il/break/3827361
 https://news.walla.co.il/break/3827363
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827938
 https://news.walla.co.il/break/3827940
 https://news.walla.co.il/break/3827941
 https://news.walla.co.il/break/3827943
+https://hamal.co.il/main/מרגל-וחצי-בחוץ-למאמן-נחשק-המהפך-ביחסי-מכבי-תא-ועודד-קטש-259535
+https://hamal.co.il/main/ממדאני-259537
+https://hamal.co.il/main/שני-כטבמים-אזעקות-הופעלו-בגליל-המערבי-259548
