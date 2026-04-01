@@ -1,8 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3827250
-https://news.walla.co.il/break/3827251
-https://hamal.co.il/main/השיגור-מאיראן-לדרום-יורט-לא-ידוע-על-נפגעים-258373
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בדרום-258375
+COUNTER:23
 https://hamal.co.il/main/מבצע-מסוכן-טראמפ-שוקל-פעולה-צבאית-להוצאת-האורניום-מאיראן-258383
 https://hamal.co.il/main/פיקוד-העורף-258384
 https://hamal.co.il/main/במהלך-האזעקה-הקצין-במשטרה-שעזר-לנער-חרדי-מפוחד-258385
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3827883
 https://news.walla.co.il/item/3827882
 https://hamal.co.il/main/״הפחד-מחדירה-ירד-משמעותית-קצין-על-המציאות-הבטחונית-בצפון-259302
 https://hamal.co.il/main/דיווח-על-נפילת-פריט-בקריית-שמונה-לא-ידוע-על-נפגעים-259306
+https://news.walla.co.il/break/3827888
+https://hamal.co.il/main/פצוע-קל-ו-4-נפגעי-חרדה-בשתי-זירות-בקריית-שמונה-259307
+https://hamal.co.il/main/האמרגן-המיתולוגי-אשר-ראובני-הלך-לעולמו-בגיל-76-259311
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-259320
