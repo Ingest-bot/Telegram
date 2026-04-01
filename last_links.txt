@@ -1,5 +1,4 @@
 COUNTER:2
-https://hamal.co.il/main/הכטב״ם-ששוגר-לאילת---מתימן-258299
 https://hamal.co.il/main/צה״ל-מאשר-הרמטכ״ל-יפסיק-את-פעילות-גדוד-המילואים-בלבנון-258300
 https://hamal.co.il/main/חיל-האוויר-יירט-2-כטב״מים-ששוגרו-מתימן-258301
 https://hamal.co.il/main/ברוב-של-62-אושר-סופית-תקציב-המדינה-לשנת-2026-258302
@@ -499,3 +498,4 @@ https://hamal.co.il/main/כואב-הלב-הכלב-לאקי-נחטף-באכזרי
 https://hamal.co.il/main/״לא-קיימנו-מ״ומ---ולא-נקיים״-באיראן-מכחישים-את-דברי-טראמפ-259264
 https://news.walla.co.il/break/3827856
 https://news.walla.co.il/item/3827096
+https://news.walla.co.il/break/3827859
