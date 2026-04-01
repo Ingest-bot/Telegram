@@ -1,7 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3827312
-https://hamal.co.il/main/תיעוד-258405
-https://hamal.co.il/main/ביסמוט-לרמטכל-בטל-את-השעיית-גדוד-המילואים-258407
+COUNTER:0
 https://hamal.co.il/main/ליצן-של-איראן-258408
 https://hamal.co.il/main/בקלות-וביעילות-בצעו-מכירת-חמץ-258409
 https://hamal.co.il/main/צהל-תקפנו-תשתיות-של-חיזבאללה-בביירות-258411
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827914
 https://news.walla.co.il/break/3827916
 https://hamal.co.il/main/במהלך-האזעקות-צעיר-בן-25-איבד-הכרה-ונפטר-ברמת-גן-259479
 https://news.walla.co.il/item/3827917
+https://news.walla.co.il/break/3827919
+https://news.walla.co.il/break/3827921
+https://hamal.co.il/main/גרם-לנמק-המוהל-החשוד-בגרימת-מוות-ברשלנות-שוחרר-למעצר-בית-259485
