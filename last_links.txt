@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/ממצאי-258395
-https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258396
+COUNTER:32
 https://hamal.co.il/main/התעצמות-תוך-כדי-לחימה-258397
 https://hamal.co.il/main/בתוך-המקפיא-אקדח-אותר-בבית-בקלנסווה-2-חשודים-נעצרו-258401
 https://news.walla.co.il/break/3827287
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827900
 https://news.walla.co.il/break/3827902
 https://hamal.co.il/main/דובר-צהל-ייתכן-שאיראן-ולבנון-יירו-הערב-במטרה-לפגוע-בחג-259347
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בירושלים-במרכז-ובלכיש-259356
+https://hamal.co.il/main/דיווח-על-נפילות-רסיסים-בתא-נכון-לעכשיו---אין-נפגעים-259441
+https://hamal.co.il/main/המטח-מאיראן-נפילה-במרכז-הארץ-אין-נפגעים-259443
