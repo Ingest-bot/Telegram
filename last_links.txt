@@ -1,6 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/הירי-לצפון-דווחים-על-4-פצועים-בשפרעם-258476
-https://news.walla.co.il/break/3827361
+COUNTER:12
 https://news.walla.co.il/break/3827363
 https://news.walla.co.il/item/3827362
 https://hamal.co.il/main/כץ-ביקר-את-הלוחם-שנפצע-לא-נעצור---גם-באיראן-וגם-בלבנון-258477
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827943
 https://hamal.co.il/main/מרגל-וחצי-בחוץ-למאמן-נחשק-המהפך-ביחסי-מכבי-תא-ועודד-קטש-259535
 https://hamal.co.il/main/ממדאני-259537
 https://hamal.co.il/main/שני-כטבמים-אזעקות-הופעלו-בגליל-המערבי-259548
+https://news.walla.co.il/break/3827945
+https://hamal.co.il/main/דיווח-על-נפילת-שברי-ירוט-בנהריה--כוחות-מדא-סורקים-259560
