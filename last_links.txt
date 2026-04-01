@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לדרום-הארץ-258282
-https://hamal.co.il/main/התושבים-מעדכנים-בב״ש-הופעלו-אזעקות-ללא-התראה-258288
-https://news.walla.co.il/break/3827213
+COUNTER:37
 https://hamal.co.il/main/אושר-סופית-תקרת-הגירעון-לשנת-2026-תעמוד-על-49-258289
 https://news.walla.co.il/break/3827217
 https://hamal.co.il/main/מסתמן-תקיפת-צוות-CNN-הרמטכל-יעצור-את-הפעילות-המבצעית-של-גד-258290
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3827847
 https://news.walla.co.il/break/3827848
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-צפויות-במרכז-259237
 https://hamal.co.il/main/דיווח-איחוד-האמירויות-נערכת-לסייע-לפתוח-בכוח-את-מצר-הורמוז-259239
+https://news.walla.co.il/break/3827850
+https://hamal.co.il/main/אין-דיווחים-על-נפגעים-בירי-האחרון-למרכז-הארץ-259248
+https://hamal.co.il/main/ראש-הרשות-השופטת-באיראן-״טראמפ-לא-השיג-אף-אחת-ממטרותיו״-259249
