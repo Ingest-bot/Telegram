@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/צה״ל-מאשר-הרמטכ״ל-יפסיק-את-פעילות-גדוד-המילואים-בלבנון-258300
-https://hamal.co.il/main/חיל-האוויר-יירט-2-כטב״מים-ששוגרו-מתימן-258301
+COUNTER:4
 https://hamal.co.il/main/ברוב-של-62-אושר-סופית-תקציב-המדינה-לשנת-2026-258302
 https://news.walla.co.il/break/3827232
 https://news.walla.co.il/break/3827233
@@ -499,3 +497,5 @@ https://hamal.co.il/main/״לא-קיימנו-מ״ומ---ולא-נקיים״-בא
 https://news.walla.co.il/break/3827856
 https://news.walla.co.il/item/3827096
 https://news.walla.co.il/break/3827859
+https://hamal.co.il/main/הסודות-של-פרעה-התגליות-ההיסטוריות-שמסתתרות-בהגדה-של-פסח-259268
+https://hamal.co.il/main/כטבם-תקף-שדה-נפט-באזור-דהוק-שבחבל-כורדיסטן-בעיראק--כך-לפי-ר-259270
