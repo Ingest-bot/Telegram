@@ -1,5 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/טראמפ-אני-שוקל-להורות-על-השתלטות-על-האי-חארג-258413
+COUNTER:5
 https://news.walla.co.il/break/3827328
 https://news.walla.co.il/break/3827330
 https://news.walla.co.il/item/3827331
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ערב-החג-במערכת-הביטחון-לא-פוסל
 https://hamal.co.il/main/ללא-התרעה-מקדימה-אזעקות-במרכז-אשקלון-והסביבה-259505
 https://hamal.co.il/main/הירי-מלבנון-ללא-דיווחים-על-נפילות-או-נפגעים-בשלב-הזה-259507
 https://hamal.co.il/main/נתן-לוי-בשביל-הישראלים-להיות-לוחמים-זה-בדם-שלנו-259514
+https://hamal.co.il/main/כעת-אזעקות-באצבע-הגליל-בעקבות-חדירת-כטבם-259525
