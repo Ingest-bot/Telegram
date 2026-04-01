@@ -1,6 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3827272
-https://news.walla.co.il/break/3827273
+COUNTER:28
 https://news.walla.co.il/break/3827274
 https://news.walla.co.il/break/3827277
 https://news.walla.co.il/item/3827269
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3827890
 https://hamal.co.il/main/המטח-לנהריה-מספר-שיגורים-יורטו-או-נפלו-בשטחים-פתוחים-259325
 https://news.walla.co.il/break/3827895
 https://hamal.co.il/main/טראמפ-לרויטרס-נצא-מאיראן-די-מהר-לא-אכפת-לי-מהאורניום״-259331
+https://hamal.co.il/main/שולחנות-ערוכים-וארוכים-פסח-בשיבא-תל-השומר-259337
+https://hamal.co.il/main/זה-הטריק-המדעי-המוכח-שיגרום-לכם-לאכול-פחות-בארוחת-החג-259341
