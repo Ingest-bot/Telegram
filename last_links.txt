@@ -1,5 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258478
+COUNTER:14
 https://news.walla.co.il/break/3827365
 https://news.walla.co.il/break/3827366
 https://hamal.co.il/main/2-נפגעי-חרדה-בזירת-נפילה-בחיפה--תיעוד-חילוץ-258479
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-על-נפילת-שברי-ירוט-בנהרי
 https://news.walla.co.il/break/3827948
 https://news.walla.co.il/break/3827949
 https://hamal.co.il/main/חשד-לרצח-בבאקה-אל-ערביה-נקבע-מותו-של-גבר-בן-30-259562
+https://hamal.co.il/main/--259563
