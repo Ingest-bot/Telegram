@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-258388
-https://news.walla.co.il/break/3827271
+COUNTER:26
 https://news.walla.co.il/break/3827272
 https://news.walla.co.il/break/3827273
 https://news.walla.co.il/break/3827274
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-נשיא-המשטר-החדש-של-איראן
 https://news.walla.co.il/break/3827889
 https://news.walla.co.il/break/3827890
 https://hamal.co.il/main/המטח-לנהריה-מספר-שיגורים-יורטו-או-נפלו-בשטחים-פתוחים-259325
+https://news.walla.co.il/break/3827895
+https://hamal.co.il/main/טראמפ-לרויטרס-נצא-מאיראן-די-מהר-לא-אכפת-לי-מהאורניום״-259331
