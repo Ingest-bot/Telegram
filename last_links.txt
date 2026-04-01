@@ -1,13 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/6-נפגעים-במצב-קל-מפגיעת-הטיל-באזור-נאות-חובב-258262
-https://news.walla.co.il/break/3827179
-https://hamal.co.il/main/חולה-שאובחן-עם-שחפת-ריאתית-שהה-בבית-החולים-שיבא-258263
-https://hamal.co.il/main/שר-החוץ-של-פקיסטן-״נארח-שיחות-בין-ארה״ב-לאיראן-258266
-https://news.walla.co.il/break/3827189
-https://news.walla.co.il/break/3827187
-https://hamal.co.il/main/30-ימים-למלחמה-מאמצי-הבלימה-באירופה---וההזדמנות-של-סין-258239
-https://news.walla.co.il/break/3827191
-https://news.walla.co.il/item/3827192
+COUNTER:25
 https://hamal.co.il/main/הממלכה-הערבית-פתחה-את-צינור-אלף-הקילומטר-257983
 https://hamal.co.il/main/העולם-יעקוף-את-הורמוז-הממלכה-הערבית-פתחה-את-צינור-אלף-הקיל-257978
 https://hamal.co.il/main/12-טונות-של-שוקולד-נעלמו-שוד-הקיטקט-הגדול-של-אירופה-257990
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3827828
 https://hamal.co.il/main/טיל-מצרר-שוגר-מאיראן-נפילת-שברי-יירוט-בבני-ברק-259179
 https://hamal.co.il/main/2-ילדים-נפצעו-ב-2-מוקדים-שונים-בבני-ברק-259180
 https://hamal.co.il/main/בני-ברק-ילדה-בת-11-במצב-קשה-2-פצועים-במצב-קל-259183
+https://news.walla.co.il/break/3827831
+https://news.walla.co.il/break/3827832
+https://news.walla.co.il/break/3827834
+https://news.walla.co.il/break/3827836
+https://news.walla.co.il/break/3827837
+https://hamal.co.il/main/איגרת-הרמטכ״ל-״רואה-דור-הקונה-את-חירותו-במאמץ-עילאי-והקרבה״-259181
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-259186
+https://hamal.co.il/main/תוך-פחות-משעה-2-אזעקות-הופעלו-ברצף-במרכז-הארץ-259208
+https://hamal.co.il/main/לפחות-16-נפגעים-במטח-האחרון-בהם-259209
