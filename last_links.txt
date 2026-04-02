@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3827496
-https://news.walla.co.il/item/3827493
-https://hamal.co.il/main/קרוב-לשיא-כל-הזמנים-מחיר-הבנזין-מזנק-המדינה-תגזור-קופון-נו-258588
-https://news.walla.co.il/break/3827498
-https://news.walla.co.il/break/3827497
+COUNTER:20
 https://hamal.co.il/main/הקרב-על-טהרן-צהל-בשלב-הרגל-המסיימת-של-המבצע---והמשטר-האי-258591
 https://news.walla.co.il/break/3827502
 https://news.walla.co.il/break/3827503
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828061
 https://news.walla.co.il/break/3828062
 https://news.walla.co.il/break/3828063
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-259806
+https://news.walla.co.il/break/3828065
+https://news.walla.co.il/break/3828066
+https://hamal.co.il/main/מדא-לא-התקבלו-דיווחים-על-זירות-פגיעה-מהמטח-האחרון-לירושלים-259823
+https://hamal.co.il/main/צהל-בניגוד-לפרסומים-על-ירי-מוגבר---אין-מודיעין-בנושא-259820
+https://hamal.co.il/main/ך-משטר-הטרור-האיראני-ניתב-מיליארדים-למימון-שלוחיו-259822
