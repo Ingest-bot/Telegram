@@ -1,5 +1,4 @@
 COUNTER:2
-https://news.walla.co.il/break/3827552
 https://news.walla.co.il/break/3827553
 https://news.walla.co.il/item/3827550
 https://news.walla.co.il/item/3827554
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828120
 https://news.walla.co.il/item/3828119
 https://hamal.co.il/main/טראמפ-המלחמה-קרובה-לסיומה-אבל-צפויה-הסלמה-נוספת-259955
 https://hamal.co.il/main/אירוע-אלימות-בטייבה-גבר-כבן-20-במצב-קשה-259956
+https://news.walla.co.il/break/3828121
