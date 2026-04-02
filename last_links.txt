@@ -1,6 +1,4 @@
 COUNTER:7
-https://hamal.co.il/main/טראמפ-לאחר-התקיפה-האיראנית-בחיפה-התשובה-שלנו-תגיע-בקרוב-258564
-https://news.walla.co.il/break/3827472
 https://news.walla.co.il/break/3827470
 https://news.walla.co.il/break/3827473
 https://news.walla.co.il/break/3827475
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828040
 https://news.walla.co.il/break/3828042
 https://hamal.co.il/main/שר-הביטחון-ישראל-כץ-מאיים-על-נעים-קאסם-259763
 https://hamal.co.il/main/בהתקלות-פנים-מול-פנים-לוחמי-סיירת-הנחל-חיסלו-מחבל-חיזבאללה-259766
+https://news.walla.co.il/break/3828049
+https://news.walla.co.il/break/3828047
