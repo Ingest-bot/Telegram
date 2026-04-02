@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3827436
-https://hamal.co.il/main/מאחורי-דופן-כפולה---על-גג-רכב-9-שבחים-נעצרו-בי-ם-258535
-https://hamal.co.il/main/מד״א-מהירי-לקריות-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-258536
+COUNTER:33
 https://hamal.co.il/main/יאיר-נתניהו-שיתף-פוסט-נגד-הרמטכל-זעק-שצהל-קורס---ואז-מעי-258537
 https://news.walla.co.il/break/3827441
 https://news.walla.co.il/item/3827434
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צה״ל-החל-להרוס-בתים-בכפרים-בלב
 https://hamal.co.il/main/הפזמונאית-צרויה-להב-הלכה-לעולמה-בגיל-74-259693
 https://news.walla.co.il/break/3827990
 https://hamal.co.il/main/כביש-40-וכביש-234-נסגרו-לתנועה-בשל-מזג-האוויר-259695
+https://news.walla.co.il/break/3827994
+https://news.walla.co.il/item/3827991
+https://hamal.co.il/main/מטח-נוסף-לצפון-כ-15-רקטות-נורו-לעבר-מטולה-וחצור-הגלילת-259702
