@@ -1,5 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3827400
+COUNTER:23
 https://news.walla.co.il/break/3827401
 https://news.walla.co.il/break/3827403
 https://news.walla.co.il/break/3827404
@@ -499,3 +498,4 @@ https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-25
 https://news.walla.co.il/break/3827973
 https://hamal.co.il/main/אין-נפגעים-בירי-מאיראן-לצפון-259655
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-259657
+https://hamal.co.il/main/גשמים-רוחות-ואיום-שיטפונות-בדרום--התחזית-259660
