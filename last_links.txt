@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3827554
-https://hamal.co.il/main/אמין-ממדאני-השתתף-בסדר-פסח-במנהטן-258672
-https://hamal.co.il/main/אחרי-לילה-עם-שקט-יחסי-זוהו-שיגורים-מאיראן-למרכז-258679
-https://hamal.co.il/main/צהל-בשעות-הבוקר-ייערך-תרגיל-צבאי-באוגדת-יהודה-ושומרון-258691
+COUNTER:5
 https://hamal.co.il/main/יירוט-מוצלח-אין-נפגעים-במטח-האחרון-מאיראן-לירושלים-258695
 https://news.walla.co.il/break/3827555
 https://hamal.co.il/main/מבוקש-ברומניה-הארגון-הפלסטיני-בלגי-בבקשה-לעצור-חייל-צהל-258701
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אירוע-אלימות-בטייבה-גבר-כבן-20-�
 https://news.walla.co.il/break/3828121
 https://news.walla.co.il/break/3828124
 https://hamal.co.il/main/השאלה-השכיחה-ביותר-עד-מתי-המלחמה-מול-איראן-259959
+https://news.walla.co.il/break/3828129
+https://news.walla.co.il/item/3828125
+https://hamal.co.il/main/תושב-רהט-בן-27-נורה-היום-חמישי-למוות-בכניסה-לביתו-בעיר-צו-259960
+https://hamal.co.il/main/נער-בן-14-נפצע-קשה-במהלך-רכיבה-על-אופניים-חשמליים-בעראבה-259961
