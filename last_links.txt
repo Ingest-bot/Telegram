@@ -1,7 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/ברוח-החגמאפית-מצה-שמורה-מצה-שמורה-258547
-https://hamal.co.il/main/מתעדכנים-מהטלגרם-לפני-פיקוד-העורף-זה-עובד-נועה-גבאי-עודכן-258548
-https://news.walla.co.il/break/3827450
+COUNTER:38
 https://news.walla.co.il/item/3827448
 https://news.walla.co.il/item/3827225
 https://hamal.co.il/main/האם-שקלתם-לפנות-את-יישובי-הצפון-בגץ-דרש-מצהל-תשובות-אלי-א-258549
@@ -499,3 +496,6 @@ https://hamal.co.il/main/החל-משעות-הצוהריים-חזוי-זיהום-
 https://news.walla.co.il/break/3828011
 https://news.walla.co.il/break/3828012
 https://hamal.co.il/main/המשטר-במצוקה-איראן-מגייסת-ילדים-לתפקידי-לחימה-259716
+https://news.walla.co.il/break/3828018
+https://news.walla.co.il/item/3828014
+https://hamal.co.il/main/מהאוויר-מהים-ומהיבשה-צהל-חיסל-יותר-מ-40-מחבלים-ותקף-עשרות-259718
