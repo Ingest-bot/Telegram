@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3827398
-https://hamal.co.il/main/מחבלי-חמאס-פעלו-בצפון-הרצועה---וחוסלו-258517
-https://hamal.co.il/main/דיווח-בספרד-מטוסים-התוקפים-באיראן-לא-יעברו-בשמי-המדינה-258521
+COUNTER:22
 https://news.walla.co.il/break/3827400
 https://news.walla.co.il/break/3827401
 https://news.walla.co.il/break/3827403
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הירי-לצפון-לא-התקבלו-דיווחים-25
 https://news.walla.co.il/break/3827971
 https://news.walla.co.il/break/3827972
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-259644
+https://news.walla.co.il/break/3827973
+https://hamal.co.il/main/אין-נפגעים-בירי-מאיראן-לצפון-259655
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-259657
