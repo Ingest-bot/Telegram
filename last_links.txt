@@ -1,9 +1,4 @@
 COUNTER:0
-https://news.walla.co.il/item/3827533
-https://hamal.co.il/main/בשורה-שחיכו-לה-תושבי-אשקלון-יקבלו-הטבות-מס-258655
-https://news.walla.co.il/break/3827539
-https://news.walla.co.il/break/3827544
-https://hamal.co.il/main/מאות-מטרים-מבתי-מגורים-תיעוד-חדש-מרגע-פגיעת-הטיל-סמוך-לבש-258656
 https://hamal.co.il/main/דיווח-מכלית-נפגעה-מטיל-סמוך-לדובאי-שריפה-פרצה-במקום-258657
 https://news.walla.co.il/break/3827548
 https://news.walla.co.il/break/3827549
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828103
 https://hamal.co.il/main/עומר-אדם-וסשה-ישראלוביץ-מאורסים-259951
 https://news.walla.co.il/break/3828111
 https://hamal.co.il/main/דניאל-פרץ-בריאיון-נרחב-מהיום-הראשון-פשוט-הייתי-מי-שאני-259954
+https://news.walla.co.il/break/3828114
+https://news.walla.co.il/break/3828115
+https://news.walla.co.il/break/3828116
+https://news.walla.co.il/break/3828117
+https://news.walla.co.il/item/3828110
