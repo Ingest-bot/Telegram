@@ -1,5 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/item/3827527
 https://hamal.co.il/main/פגיעה-באמון-הלוחמים-31-חברי-כנסת-נגד-השעיית-פעילות-הגדוד-258650
 https://news.walla.co.il/item/3827533
 https://hamal.co.il/main/בשורה-שחיכו-לה-תושבי-אשקלון-יקבלו-הטבות-מס-258655
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828095
 https://hamal.co.il/main/צהל-חיסל-את-מפקד-יחידת-הטילים-הבליסטיים-במרחב-כרמאנשה-259945
 https://news.walla.co.il/break/3828103
 https://hamal.co.il/main/עומר-אדם-וסשה-ישראלוביץ-מאורסים-259951
+https://news.walla.co.il/break/3828111
