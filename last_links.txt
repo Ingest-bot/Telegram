@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3827524
-https://news.walla.co.il/item/3827525
+COUNTER:38
 https://hamal.co.il/main/סיוט-בחופשה-תאילנד-קפץ-מהמיטה-עם-נחש-קוברה-על-הצוואר--צפו-258649
 https://news.walla.co.il/break/3827528
 https://news.walla.co.il/item/3827527
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המטח-מאיראן-מספר-זירות-של-שברי
 https://hamal.co.il/main/כתוצאה-משברי-ירוט-שריפה-פרצה-ברפת-בבקעת-הירדן-259935
 https://hamal.co.il/main/תיעוד-מדויק-רגע-הפגיעה-בפתח-תקווה-259939
 https://hamal.co.il/main/נחשף-סדר-השירים-בחצי-גמר-האירוויזיון-זה-השיבוץ-של-ישראל-259943
+https://news.walla.co.il/break/3828095
+https://hamal.co.il/main/צהל-חיסל-את-מפקד-יחידת-הטילים-הבליסטיים-במרחב-כרמאנשה-259945
