@@ -1,6 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/במרחק-של-יותר-מ-1600-קילומטרים-צה״ל-תקף-אתר-הגנה-אווירית-258540
-https://news.walla.co.il/break/3827444
+COUNTER:36
 https://news.walla.co.il/item/3827445
 https://hamal.co.il/main/שר-האוצר-האמריקאי-בסנט-ארהב-תיקח-שליטה-על-המצר-עם-הזמן-עיד-258543
 https://hamal.co.il/main/אזעקות-נשמעו-בברעם-מחשש-לחדירת-כטבם-258545
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828000
 https://news.walla.co.il/break/3827997
 https://hamal.co.il/main/צפו-בהרס-בסניף-מקדונלדס-באצבע-הגלילמקדונלדס-259706
 https://hamal.co.il/main/צהל-השלים-אתמול-גל-תקיפות-נרחב-לעבר-תשתיות-של-משטר-האיראני-259709
+https://news.walla.co.il/break/3828009
+https://hamal.co.il/main/החל-משעות-הצוהריים-חזוי-זיהום-אוויר-גבוה-בכל-חלקי-הארץ-259712
