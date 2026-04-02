@@ -1,10 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3827458
-https://hamal.co.il/main/היועמשית-נגד-המחטף-הלילי-תקציבי-החרדים-שאושרו-בכנסת---לא-258558
-https://hamal.co.il/main/שרה-נתניהו-מוותרת-על-המשואה-ראויה-להיות-לאזרחי-המדינה-258559
-https://hamal.co.il/main/מפקד-כוח-קודס-ב-X-נתניהו-חלם-על-הרחבת-חגורת-הביטחון-ליה-ו-258560
-https://news.walla.co.il/item/3827464
-https://hamal.co.il/main/צפו-בתיעוד-מדרום-לבנון-חיסול-חוליית-מחבלים-ותקיפת-מפקדה-של-258561
+COUNTER:5
 https://hamal.co.il/main/בנס-לא-נהרגתי-פעמיים-פגע-טיל-באותו-רחוב-בתא---התושבים-שה-258562
 https://news.walla.co.il/break/3827467
 https://news.walla.co.il/item/3827465
@@ -499,3 +493,9 @@ https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וה�
 https://news.walla.co.il/break/3828030
 https://news.walla.co.il/break/3828034
 https://news.walla.co.il/break/3828036
+https://news.walla.co.il/break/3828037
+https://news.walla.co.il/break/3828039
+https://hamal.co.il/main/כרתים-נצבעה-בכתום-259743
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-259750
+https://hamal.co.il/main/גלולה-במקום-זריקה-האם-אורפורגליפרון-תשנה-את-הטיפול-בהשמנה-259756
+https://hamal.co.il/main/צהל-תקף-את-גשר-B1-המחבר-את-טהראן-לכרג-259760
