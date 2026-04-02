@@ -1,6 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/יירוט-מוצלח-אין-נפגעים-במטח-האחרון-מאיראן-לירושלים-258695
-https://news.walla.co.il/break/3827555
+COUNTER:6
 https://hamal.co.il/main/מבוקש-ברומניה-הארגון-הפלסטיני-בלגי-בבקשה-לעצור-חייל-צהל-258701
 https://news.walla.co.il/break/3827556
 https://hamal.co.il/main/הותר-לפרסום-קצין-ושלושה-לוחמי-סיירת-נחל-נפלו-בדרום-לבנון-258702
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828129
 https://news.walla.co.il/item/3828125
 https://hamal.co.il/main/תושב-רהט-בן-27-נורה-היום-חמישי-למוות-בכניסה-לביתו-בעיר-צו-259960
 https://hamal.co.il/main/נער-בן-14-נפצע-קשה-במהלך-רכיבה-על-אופניים-חשמליים-בעראבה-259961
+https://news.walla.co.il/break/3828133
+https://hamal.co.il/main/משרד-הפנים-האמריקני-יציע-לעובדיו-תוכנית-נוספת-לפרישה-מוקדמת-259962
