@@ -1,10 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/המעונות-קורסים-וההורים-משלמים-זעקת-מפעילי-המעונות-הפרטיים-258592
-https://hamal.co.il/main/ישראל-ביתנו-ח״כ-אביגדור-ליברמן-וחברי-הסיעה-הצביעו-כעת-בעד-ח-258593
-https://news.walla.co.il/break/3827506
-https://hamal.co.il/main/דוברת-הבית-הלבן-השיחות-עם-איראן-מתקדמות-היטב-עידן-קוולר-258594
-https://hamal.co.il/main/עבר-חוק-עונש-מוות-למחבלים-בתוצאה-של-62-48-258595
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-באזור-המרכז-בדקות-הקרובות-258597
+COUNTER:25
 https://news.walla.co.il/break/3827508
 https://hamal.co.il/main/אזעקות-נשמעות-באזור-המרכז-258613
 https://hamal.co.il/main/מד״א-נכון-לשעה-זו-לא-התקבלו-קריאות-על-נפגעים-או-נפילות-258619
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ך-משטר-הטרור-האיראני-ניתב-מילי
 https://news.walla.co.il/break/3828070
 https://news.walla.co.il/break/3828072
 https://hamal.co.il/main/השיגור-מלבנון-לכרמיאל-צוותים-יצאו-לזרוק-בשתי-זירות-259829
+https://news.walla.co.il/break/3828076
+https://news.walla.co.il/break/3828075
+https://hamal.co.il/main/צהל-חיסל-את-מפקד-מפקדת-הנפט-של-משטר-הטרור-האיראני-259833
+https://hamal.co.il/main/דיווח-איראן-תקפה-מטוסי-קרב-אמריקנים-בירדן-259834
+https://hamal.co.il/main/משמרות-המהפכה-259843
+https://hamal.co.il/main/בעקבות-תקיפת-הגשר-הפסקת-חשמל-באזור-המקשר-באיראן-259845
