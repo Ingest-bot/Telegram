@@ -1,9 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/יאיר-נתניהו-שיתף-פוסט-נגד-הרמטכל-זעק-שצהל-קורס---ואז-מעי-258537
-https://news.walla.co.il/break/3827441
-https://news.walla.co.il/item/3827434
-https://hamal.co.il/main/כצפוי-ריבית-בנק-ישראל-ללא-שינוי-וואלה-כסף-3032026--160-258538
-https://hamal.co.il/main/חניה-כחול-לבן-ללא-תשלום-ממשיכה-גם-במהלך-השבוע-הזה-ובמהלך-חג-258539
+COUNTER:35
 https://hamal.co.il/main/במרחק-של-יותר-מ-1600-קילומטרים-צה״ל-תקף-אתר-הגנה-אווירית-258540
 https://news.walla.co.il/break/3827444
 https://news.walla.co.il/item/3827445
@@ -499,3 +494,8 @@ https://hamal.co.il/main/כביש-40-וכביש-234-נסגרו-לתנועה-בש
 https://news.walla.co.il/break/3827994
 https://news.walla.co.il/item/3827991
 https://hamal.co.il/main/מטח-נוסף-לצפון-כ-15-רקטות-נורו-לעבר-מטולה-וחצור-הגלילת-259702
+https://news.walla.co.il/break/3827998
+https://news.walla.co.il/break/3828000
+https://news.walla.co.il/break/3827997
+https://hamal.co.il/main/צפו-בהרס-בסניף-מקדונלדס-באצבע-הגלילמקדונלדס-259706
+https://hamal.co.il/main/צהל-השלים-אתמול-גל-תקיפות-נרחב-לעבר-תשתיות-של-משטר-האיראני-259709
