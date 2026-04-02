@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/אזעקות-נשמעו-בקריות-258553
-https://news.walla.co.il/break/3827452
-https://news.walla.co.il/break/3827451
+COUNTER:1
 https://news.walla.co.il/break/3827455
 https://hamal.co.il/main/בלידת-מים-כוכבת-הישרדות-הביאה-לעולם-בת-בכורה-מאור-בן-הרוש-258557
 https://news.walla.co.il/break/3827459
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מהאוויר-מהים-ומהיבשה-צהל-חיסל-
 https://news.walla.co.il/break/3828021
 https://hamal.co.il/main/כביש-234---גשר-צאלים-נפתח-לתנועת-רכבים-259720
 https://hamal.co.il/main/גל-מלכה-נפצעה-בתאונת-דרכים-חשבתי-שיש-לי-נזק-בלתי-הפיך-259723
+https://news.walla.co.il/break/3828026
+https://news.walla.co.il/break/3828025
+https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-והסביבה-בעקבות-חדירת-כטבם-259733
