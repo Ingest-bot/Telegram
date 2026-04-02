@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3827477
-https://news.walla.co.il/break/3827479
-https://news.walla.co.il/break/3827480
+COUNTER:14
 https://news.walla.co.il/break/3827481
 https://news.walla.co.il/break/3827482
 https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-258586
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828057
 https://hamal.co.il/main/האזעקות-בנהריה-והסביבה-מטח-של-כ-5-טילים-מלבנון-שרובם-יורטו-259784
 https://hamal.co.il/main/3-זירות-בצפון-הארץ-בשלב-זה-לא-דווח-על-נפגעים-259787
 https://hamal.co.il/main/התקבל-דיווח-על-פגיעות-במבנים-וכלי-רכב-שלוש-זירות-בנהריה-259788
+https://news.walla.co.il/break/3828058
+https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-במספר-זירות-פגיעה-בנהריה-259792
+https://hamal.co.il/main/אזהרת-השטפונות-נמשכת-גם-היום-תיעוד-זרימת-נחל-דוד-259796
