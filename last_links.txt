@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3827445
-https://hamal.co.il/main/שר-האוצר-האמריקאי-בסנט-ארהב-תיקח-שליטה-על-המצר-עם-הזמן-עיד-258543
-https://hamal.co.il/main/אזעקות-נשמעו-בברעם-מחשש-לחדירת-כטבם-258545
+COUNTER:37
 https://hamal.co.il/main/ברוח-החגמאפית-מצה-שמורה-מצה-שמורה-258547
 https://hamal.co.il/main/מתעדכנים-מהטלגרם-לפני-פיקוד-העורף-זה-עובד-נועה-גבאי-עודכן-258548
 https://news.walla.co.il/break/3827450
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צפו-בהרס-בסניף-מקדונלדס-באצבע-
 https://hamal.co.il/main/צהל-השלים-אתמול-גל-תקיפות-נרחב-לעבר-תשתיות-של-משטר-האיראני-259709
 https://news.walla.co.il/break/3828009
 https://hamal.co.il/main/החל-משעות-הצוהריים-חזוי-זיהום-אוויר-גבוה-בכל-חלקי-הארץ-259712
+https://news.walla.co.il/break/3828011
+https://news.walla.co.il/break/3828012
+https://hamal.co.il/main/המשטר-במצוקה-איראן-מגייסת-ילדים-לתפקידי-לחימה-259716
