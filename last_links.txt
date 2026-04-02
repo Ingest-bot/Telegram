@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3827481
-https://news.walla.co.il/break/3827482
+COUNTER:16
 https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-258586
 https://news.walla.co.il/break/3827489
 https://hamal.co.il/main/צהל-חיסל-בביירות-מפקדים-בכירים-ביחידה-שאחראית-על-התיאום-בי-258587
@@ -499,3 +497,5 @@ https://hamal.co.il/main/התקבל-דיווח-על-פגיעות-במבנים-ו
 https://news.walla.co.il/break/3828058
 https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-במספר-זירות-פגיעה-בנהריה-259792
 https://hamal.co.il/main/אזהרת-השטפונות-נמשכת-גם-היום-תיעוד-זרימת-נחל-דוד-259796
+https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-259801
+https://hamal.co.il/main/רגע-התקיפה-תיעוד-מקריסת-הגשר-B1-שמחבר-את-טהרן-וכרג׳-259804
