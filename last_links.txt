@@ -1,10 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3827470
-https://news.walla.co.il/break/3827473
-https://news.walla.co.il/break/3827475
-https://news.walla.co.il/item/3827469
-https://hamal.co.il/main/החום-וההערכה-ריגשו-אותה-שרה-נתניהו-וויתרה-על-ההצעה-להדל-258565
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-258569
+COUNTER:9
 https://hamal.co.il/main/אופירה-אסייג-חושפת-הפרט-המפתיע-שלא-ידענו-על-החברות-שלה-ושל-258571
 https://hamal.co.il/main/נפתלי-בנטבממשלה-החדשה-אקים-ועדת-בדיקה-מיוחדת-לעניין-טירפוד-258572
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-258577
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שר-הביטחון-ישראל-כץ-מאיים-על-נ�
 https://hamal.co.il/main/בהתקלות-פנים-מול-פנים-לוחמי-סיירת-הנחל-חיסלו-מחבל-חיזבאללה-259766
 https://news.walla.co.il/break/3828049
 https://news.walla.co.il/break/3828047
+https://news.walla.co.il/break/3828053
+https://news.walla.co.il/break/3828055
+https://news.walla.co.il/item/3827620
+https://news.walla.co.il/item/3828051
+https://hamal.co.il/main/טראמפ-חושף-התכוונתי-למלחמה-בת-3-ימים-בלבד-259767
+https://hamal.co.il/main/התקיפה-ליד-שדה-התעופה-משהד-באיראן-259779
