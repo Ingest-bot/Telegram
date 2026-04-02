@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/בנס-לא-נהרגתי-פעמיים-פגע-טיל-באותו-רחוב-בתא---התושבים-שה-258562
-https://news.walla.co.il/break/3827467
-https://news.walla.co.il/item/3827465
+COUNTER:6
 https://hamal.co.il/main/צעיר-יהודי-נעצר-בחשד-שתכנן-לפגוע-בפעילה-פלסטינית-מניו-יורק-258563
 https://hamal.co.il/main/טראמפ-לאחר-התקיפה-האיראנית-בחיפה-התשובה-שלנו-תגיע-בקרוב-258564
 https://news.walla.co.il/break/3827472
@@ -499,3 +496,6 @@ https://hamal.co.il/main/כרתים-נצבעה-בכתום-259743
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-259750
 https://hamal.co.il/main/גלולה-במקום-זריקה-האם-אורפורגליפרון-תשנה-את-הטיפול-בהשמנה-259756
 https://hamal.co.il/main/צהל-תקף-את-גשר-B1-המחבר-את-טהראן-לכרג-259760
+https://news.walla.co.il/break/3828040
+https://news.walla.co.il/break/3828042
+https://hamal.co.il/main/שר-הביטחון-ישראל-כץ-מאיים-על-נעים-קאסם-259763
