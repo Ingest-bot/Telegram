@@ -1,8 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-258586
-https://news.walla.co.il/break/3827489
-https://hamal.co.il/main/צהל-חיסל-בביירות-מפקדים-בכירים-ביחידה-שאחראית-על-התיאום-בי-258587
-https://hamal.co.il/main/קארין-עליה-התארסה-לבן-זוגה-אמרתי-כן-לחבר-הכי-טוב-שלי-מאור-258589
+COUNTER:17
 https://news.walla.co.il/break/3827496
 https://news.walla.co.il/item/3827493
 https://hamal.co.il/main/קרוב-לשיא-כל-הזמנים-מחיר-הבנזין-מזנק-המדינה-תגזור-קופון-נו-258588
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-במספ�
 https://hamal.co.il/main/אזהרת-השטפונות-נמשכת-גם-היום-תיעוד-זרימת-נחל-דוד-259796
 https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-259801
 https://hamal.co.il/main/רגע-התקיפה-תיעוד-מקריסת-הגשר-B1-שמחבר-את-טהרן-וכרג׳-259804
+https://news.walla.co.il/break/3828061
+https://news.walla.co.il/break/3828062
+https://news.walla.co.il/break/3828063
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-259806
