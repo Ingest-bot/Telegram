@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3827421
-https://news.walla.co.il/break/3827422
-https://news.walla.co.il/item/3827423
-https://hamal.co.il/main/מצאה-פתק-מזר-מוחלט-על-הרכב---וגילתה-את-הסוד-של-בעלה-257934
+COUNTER:31
 https://news.walla.co.il/break/3827427
 https://news.walla.co.il/break/3827429
 https://news.walla.co.il/break/3827436
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3827347
 https://news.walla.co.il/item/3827986
 https://hamal.co.il/main/גורם-ביטחוני-צה״ל-העמיק-הלילה-את-התמרון-בשטח-לבנון-259687
 https://hamal.co.il/main/המטח-לצפון-מספר-מוקדי-נפילה-בקריית-שמונה-2-פצועים-קל-259688
+https://news.walla.co.il/break/3827987
+https://hamal.co.il/main/תוך-כדי-קרבות-צהל-לקח-מחבלי-חיזבאללה-בשבי-259689
+https://hamal.co.il/main/צה״ל-החל-להרוס-בתים-בכפרים-בלבנון-שנמצאים-בקו-ראשון-לגבול-259690
+https://hamal.co.il/main/הפזמונאית-צרויה-להב-הלכה-לעולמה-בגיל-74-259693
