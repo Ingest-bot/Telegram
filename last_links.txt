@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-258849
-https://news.walla.co.il/break/3827685
+COUNTER:8
 https://news.walla.co.il/break/3827684
 https://news.walla.co.il/break/3827683
 https://news.walla.co.il/break/3827682
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828212
 https://news.walla.co.il/break/3828211
 https://hamal.co.il/main/מתווה-חדש-מסתמן-בנתב״ג-מספר-הנוסעים-בטיסות-היוצאות-יעלה-260116
 https://hamal.co.il/main/צה״ל-מזהיר-את-תושבי-לבנון-״מתכוונים-לתקוף-גשר-260117
+https://hamal.co.il/main/אזעקות-הופעלו-בצפת-עקב-ירי-מלבנון-260121
+https://hamal.co.il/main/איחוד-האמירויות-18-טילים-ו-47-כטב״מים-שהגיעו-מאיראן-יורטו-260122
