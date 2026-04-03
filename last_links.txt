@@ -1,5 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3827592
+COUNTER:21
 https://news.walla.co.il/break/3827596
 https://hamal.co.il/main/גם-בלבנון-סוריה-ועזה-צה״ל-כשר-לפסח-258762
 https://hamal.co.il/main/8-פצועים-קל-מהדף-בבני-ברק-258763
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828167
 https://news.walla.co.il/break/3828165
 https://hamal.co.il/main/מרססים-ספריי-פלפל---ודוקרים-סכסוך-כנופיות-הוביל-למסע-אלימות-260026
 https://hamal.co.il/main/איראן-טוענת-הפלנו-מטוס-F35-אמריקני-במרכז-המדינה-260027
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-260032
