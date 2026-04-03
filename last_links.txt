@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3827734
-https://hamal.co.il/main/סין-ופקיסטן-ביוזמה-משותפת-קוראות-להפסקת-אש-במזרח-התיכון-258892
-https://hamal.co.il/main/אירוע-אלימות-בכביש-444-גבר-בן-29-במצב-קשה-258893
+COUNTER:28
 https://news.walla.co.il/item/3827739
 https://hamal.co.il/main/בול-פגיעה-תיעוד-דרמטי-של-תקיפה-ממוקדת-בדאחיה-שבביירות-258898
 https://news.walla.co.il/break/3827740
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828237
 https://news.walla.co.il/item/3828234
 https://hamal.co.il/main/גבר-בן-22-נפצע-אנוש-באירוע-אלימות-260187
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-טרור-בביירות-260188
+https://hamal.co.il/main/במקביל-לתקיפות-בביירות-צהל-תוקף-בטהרן-260191
+https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-260193
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260195
