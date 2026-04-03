@@ -1,6 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/דיווח-על-שבר-יירוט-בקרית-חיים-259038
-https://hamal.co.il/main/בדקות-הקרובות-הצהרת-ראש-הממשלה-נתניהו-259055
+COUNTER:6
 https://hamal.co.il/main/המטח-לצפון-בשלב-זה-לא-אותרו-נפגעים-259060
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-בינימין-נתניהו-259071
 https://news.walla.co.il/break/3827774
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828275
 https://news.walla.co.il/break/3828278
 https://news.walla.co.il/item/3828277
 https://hamal.co.il/main/חיזבאללה-שיגר-רקטה-שנפלה-במוצב-יוניפיל-בדרום-לבנון-260322
+https://news.walla.co.il/break/3828282
+https://hamal.co.il/main/טראמפ-הפלת-המטוס-לא-תשפיע-על-המשא-ומתן-260323
