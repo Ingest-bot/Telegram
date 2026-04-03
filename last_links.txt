@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3827684
-https://news.walla.co.il/break/3827683
+COUNTER:9
 https://news.walla.co.il/break/3827682
 https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-טרור-בביירות-258853
 https://hamal.co.il/main/אנחנו-חוזרים-לימים-שדלק-מאוד-יקר-במדינת-ישראל-0000-0353-258805
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מתווה-חדש-מסתמן-בנתב״ג-מספר-הנ
 https://hamal.co.il/main/צה״ל-מזהיר-את-תושבי-לבנון-״מתכוונים-לתקוף-גשר-260117
 https://hamal.co.il/main/אזעקות-הופעלו-בצפת-עקב-ירי-מלבנון-260121
 https://hamal.co.il/main/איחוד-האמירויות-18-טילים-ו-47-כטב״מים-שהגיעו-מאיראן-יורטו-260122
+https://news.walla.co.il/item/3828215
+https://hamal.co.il/main/נתניהו-בקריה-״נמשיך-לכתוש-את-משטר-הטרור-באיראן״-260123
