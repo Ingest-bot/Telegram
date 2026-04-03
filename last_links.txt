@@ -1,8 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/המטח-לצפון-בשלב-זה-לא-אותרו-נפגעים-259060
-https://hamal.co.il/main/הצהרת-ראש-הממשלה-בינימין-נתניהו-259071
-https://news.walla.co.il/break/3827774
-https://news.walla.co.il/item/3827781
+COUNTER:9
 https://hamal.co.il/main/מות-תינוק-בברית-מילה-מוהל-בן-66-נעצר-בחשד-לרשלנות-259076
 https://hamal.co.il/main/הנגב-כולו-בוכה-עליך-היום-באדום-לזכרו-של-סמר-בן-כהן-זל-259077
 https://hamal.co.il/main/הירי-לצפון-הארץ-2-נפגעים-במצב-קל-ונפגע-חרדה-1-259078
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3828277
 https://hamal.co.il/main/חיזבאללה-שיגר-רקטה-שנפלה-במוצב-יוניפיל-בדרום-לבנון-260322
 https://news.walla.co.il/break/3828282
 https://hamal.co.il/main/טראמפ-הפלת-המטוס-לא-תשפיע-על-המשא-ומתן-260323
+https://news.walla.co.il/break/3828286
+https://hamal.co.il/main/בעקבות-שיגורים-מלבנון-אזעקות-באזורים-נרחבים-בצפון-הארץ-260342
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260343
+https://hamal.co.il/main/מדא-על-הירי-לחיפה-והקריות-לא-התקבלו-דיווחים-260349
