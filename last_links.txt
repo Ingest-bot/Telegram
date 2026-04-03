@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/התקיפות-האיראניות-על-מדינות-המפרץ-נמשכות-258796
-https://hamal.co.il/main/2-תושבי-הנגב-נעצרו-בחשד-למעורבות-בעבירות-נשק-בלתי-חוקי-258797
-https://hamal.co.il/main/לא-רק-ספרד-איטליה-מנעה-ממטוסים-אמריקניים-לנחות-בסיציליה-258795
+COUNTER:36
 https://news.walla.co.il/break/3827645
 https://news.walla.co.il/break/3827646
 https://hamal.co.il/main/השר-כ״ץ-״צה״ל-ישלוט-ביטחונית-בכל-המרחב-עד-הליטני״-258801
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צפו-לוחמי-גבעתי-חיסלו-מחבלי-חי
 https://hamal.co.il/main/מספר-זירות-בחיפה-ובקריות-אין-דיווחים-על-נפגעים-260081
 https://news.walla.co.il/break/3828192
 https://news.walla.co.il/break/3828193
+https://news.walla.co.il/item/3827731
+https://hamal.co.il/main/אישור-ראשון-להצעת-הנישואין-של-עומר-אדם-וסשה-ישראלוביץ-260089
+https://hamal.co.il/main/מחבלי-כוח-רדואן-הודו-בחקירה-״חיזבאללה-שולח-אותנו-למות״-260093
