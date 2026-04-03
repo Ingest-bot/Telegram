@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3827765
-https://hamal.co.il/main/בהמשך-למטח-לעבר-הצפון-במדא-יצאו-לסרוק-מספר-זירות-259023
-https://news.walla.co.il/break/3827770
+COUNTER:5
 https://hamal.co.il/main/דיווח-על-שבר-יירוט-בקרית-חיים-259038
 https://hamal.co.il/main/בדקות-הקרובות-הצהרת-ראש-הממשלה-נתניהו-259055
 https://hamal.co.il/main/המטח-לצפון-בשלב-זה-לא-אותרו-נפגעים-259060
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828270
 https://news.walla.co.il/break/3828271
 https://news.walla.co.il/break/3828272
 https://news.walla.co.il/break/3828275
+https://news.walla.co.il/break/3828278
+https://news.walla.co.il/item/3828277
+https://hamal.co.il/main/חיזבאללה-שיגר-רקטה-שנפלה-במוצב-יוניפיל-בדרום-לבנון-260322
