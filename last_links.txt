@@ -1,9 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/בקטאר-מגנים-את-איזור-החיץ-בלבנון-״הפרות-של-החוק-הבינלאומי״-258833
-https://news.walla.co.il/item/3827674
-https://hamal.co.il/main/כדור-אש-תיעוד-מההנפילה-באביבים-שבקו-העימות-258840
-https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחיה-בביירות-258841
-https://hamal.co.il/main/טראמפ-נגד-צרפת-״הייתה-מאוד-לא-מועילה-נזכור-זאת״-258842
+COUNTER:6
 https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-258849
 https://news.walla.co.il/break/3827685
 https://news.walla.co.il/break/3827684
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וס�
 https://hamal.co.il/main/דיווח-באיראן-2-260109
 https://news.walla.co.il/break/3828209
 https://hamal.co.il/main/פרשת-חול-המועד-פסח--זמני-השבת-260111
+https://news.walla.co.il/break/3828210
+https://news.walla.co.il/break/3828212
+https://news.walla.co.il/break/3828211
+https://hamal.co.il/main/מתווה-חדש-מסתמן-בנתב״ג-מספר-הנוסעים-בטיסות-היוצאות-יעלה-260116
+https://hamal.co.il/main/צה״ל-מזהיר-את-תושבי-לבנון-״מתכוונים-לתקוף-גשר-260117
