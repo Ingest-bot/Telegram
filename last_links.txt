@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/בקרוב-הפשעים-של-גפרי-אפשטיין-מגיעים-לטלוויזיה-שגיא-בן-נון-258913
-https://hamal.co.il/main/משלוש-יוצאת-אחת-כבר-ברור-לגמרי-מי-הדיירות-ששולטות-בבית-האח-258890
-https://news.walla.co.il/break/3827791
+COUNTER:12
 https://hamal.co.il/main/שחמטאי-איראני-שיחק-מול-ישראלית-לחץ-את-ידה-ושוחח-איתה-259082
 https://hamal.co.il/main/צהל-תקף-משגרים-מהם-נורו-הרקטות-בירי-האחרון-מלבנון-259085
 https://hamal.co.il/main/אירוע-אלימות-בכפר-סבא-גבר-כבן-30-במצב-קשה-259086
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3828296
 https://hamal.co.il/main/תוך-דקות-צהל-תקף-משגר-ממנו-בוצעו-השיגורים-לצפון-הארץ-260357
 https://news.walla.co.il/break/3828298
 https://news.walla.co.il/break/3828299
+https://news.walla.co.il/break/3828301
+https://news.walla.co.il/break/3828304
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאזור-הנגב-260363
