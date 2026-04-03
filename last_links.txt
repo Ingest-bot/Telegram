@@ -1,6 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/הירי-לצפון-הארץ-2-נפגעים-במצב-קל-ונפגע-חרדה-1-259078
-https://news.walla.co.il/break/3827783
+COUNTER:10
 https://news.walla.co.il/break/3827785
 https://news.walla.co.il/break/3827786
 https://news.walla.co.il/break/3827787
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-די�
 https://hamal.co.il/main/מדא-על-הירי-לחיפה-והקריות-לא-התקבלו-דיווחים-260349
 https://news.walla.co.il/item/3828288
 https://news.walla.co.il/break/3828291
+https://news.walla.co.il/break/3828293
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-וסביבה-260354
