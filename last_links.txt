@@ -1,5 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/אם-ו-2-ילדיה-נפגעו-קל-בבני-ברק-258754
+COUNTER:17
 https://news.walla.co.il/break/3827591
 https://news.walla.co.il/break/3827590
 https://news.walla.co.il/break/3827589
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אזעקות-בקריית-שמונה-מטולה-והס�
 https://news.walla.co.il/break/3828157
 https://news.walla.co.il/break/3828158
 https://hamal.co.il/main/טראמפ-מאיים-על-איראן-הצבא-שלנו-עוד-לא-התחיל-עידן-קוולר-1-260015
+https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-עם-אובך-קל-עד-בינוני-וקר-מהרג-260016
