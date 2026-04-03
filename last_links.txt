@@ -1,5 +1,4 @@
 COUNTER:9
-https://hamal.co.il/main/הנגב-כולו-בוכה-עליך-היום-באדום-לזכרו-של-סמר-בן-כהן-זל-259077
 https://hamal.co.il/main/הירי-לצפון-הארץ-2-נפגעים-במצב-קל-ונפגע-חרדה-1-259078
 https://news.walla.co.il/break/3827783
 https://news.walla.co.il/break/3827785
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בעקבות-שיגורים-מלבנון-אזעקות-�
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260343
 https://hamal.co.il/main/מדא-על-הירי-לחיפה-והקריות-לא-התקבלו-דיווחים-260349
 https://news.walla.co.il/item/3828288
+https://news.walla.co.il/break/3828291
