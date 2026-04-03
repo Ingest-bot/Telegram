@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3827591
-https://news.walla.co.il/break/3827590
+COUNTER:18
 https://news.walla.co.il/break/3827589
 https://news.walla.co.il/item/3827584
 https://hamal.co.il/main/משמרות-המהפכה-טוענים-תקפנו-ספינת-מכולות-השייכת-לישראל-258755
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828157
 https://news.walla.co.il/break/3828158
 https://hamal.co.il/main/טראמפ-מאיים-על-איראן-הצבא-שלנו-עוד-לא-התחיל-עידן-קוולר-1-260015
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-עם-אובך-קל-עד-בינוני-וקר-מהרג-260016
+https://news.walla.co.il/item/3828162
+https://hamal.co.il/main/דיווח-עקב-המלחמה-באיראן---משלוח-טילים-מארה״ב-ליפן-יתעכב-260019
