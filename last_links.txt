@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/בלב-טהרן-צהל-חושף-תיעוד-מתקיפות-על-מערכות-ההגנה-האיראניות-258883
-https://hamal.co.il/main/עשרות-משפחות-חזרו-הקיבוץ-שעבר-טבח-הופך-שוב-לבית-שקט-ובטוח-258886
-https://hamal.co.il/main/צרפת-לא-אפשרה-לישראל-להעביר-נשק-אמריקני-טראמפ-נזכור-זאת-258887
+COUNTER:23
 https://hamal.co.il/main/טראמפ-על-האורניום-האיראני-קבור-עמוק-מאוד-יהיה-קשה-להגיע-א-258888
 https://news.walla.co.il/break/3827732
 https://news.walla.co.il/break/3827733
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828228
 https://hamal.co.il/main/גורמים-אמריקנים-מאשרים-איראן-הפילה-מטוס-קרב-260173
 https://hamal.co.il/main/ראש-אכא-אלוף-דדו-בר-כליפה-באגרת-לחיילים-לכבוד-השבת-260177
 https://hamal.co.il/main/אזעקות-בצפת-והסביבה-260183
+https://news.walla.co.il/break/3828232
+https://news.walla.co.il/break/3828233
+https://hamal.co.il/main/כך-פועלת-מכונת-החילוץ-המשומנת-של-חיל-האוויר-האמריקני-260186
