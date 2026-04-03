@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3827669
-https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בכפר-עיתא-א-שעב-בדרום-258830
+COUNTER:4
 https://hamal.co.il/main/בקטאר-מגנים-את-איזור-החיץ-בלבנון-״הפרות-של-החוק-הבינלאומי״-258833
 https://news.walla.co.il/item/3827674
 https://hamal.co.il/main/כדור-אש-תיעוד-מההנפילה-באביבים-שבקו-העימות-258840
@@ -499,3 +497,5 @@ https://hamal.co.il/main/איזנקוט-ובנט-מטפסים-נתניהו-יו�
 https://news.walla.co.il/item/3828208
 https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-260108
 https://hamal.co.il/main/דיווח-באיראן-2-260109
+https://news.walla.co.il/break/3828209
+https://hamal.co.il/main/פרשת-חול-המועד-פסח--זמני-השבת-260111
