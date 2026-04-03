@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/הפגיעה-בתעשיות-הייצור-הצבאיות-בטהרן-נמשכת-258820
-https://hamal.co.il/main/בזמן-אזעקה-זה-מה-שעשה-כוכב-יומני-הערפד-בתל-אביב-258794
-https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליון-258827
+COUNTER:3
 https://news.walla.co.il/item/3827669
 https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בכפר-עיתא-א-שעב-בדרום-258830
 https://hamal.co.il/main/בקטאר-מגנים-את-איזור-החיץ-בלבנון-״הפרות-של-החוק-הבינלאומי״-258833
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מדוע-נקרא-החג-על-שם-המצה-260097
 https://news.walla.co.il/break/3828205
 https://hamal.co.il/main/פצוע-קשה-בתאונת-אופנוע-בראשון-לציון-260098
 https://hamal.co.il/main/איזנקוט-ובנט-מטפסים-נתניהו-יורד--סקר-מעריב-260102
+https://news.walla.co.il/item/3828208
+https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-260108
+https://hamal.co.il/main/דיווח-באיראן-2-260109
