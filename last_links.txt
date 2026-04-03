@@ -1,7 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3827600
-https://news.walla.co.il/break/3827601
-https://news.walla.co.il/item/3827606
+COUNTER:25
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-258767
 https://news.walla.co.il/break/3827609
 https://news.walla.co.il/item/3827608
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-26003
 https://hamal.co.il/main/שנה-אחרי-יום-השחרור-טראמפ-מטיל-מכסי-עתק-של-100-260018
 https://hamal.co.il/main/פיצוצים-עזים-נשמעו-בבגדדכתוצאה-מתקפה-עיראקית-על-בסיס-ויקטורי-260033
 https://hamal.co.il/main/בהתקפה-ממוקדת-בדרום-לבנון-חוסלו-כ-15-מחבלים-מהאוויר-260043
+https://news.walla.co.il/break/3828175
+https://news.walla.co.il/item/3828173
+https://hamal.co.il/main/ירי-בלתי-פוסק-לעבר-הצפון-260054
