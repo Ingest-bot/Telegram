@@ -1,11 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/פרויקט-פסח-בצה״ל-כך-נערכים-לליל-הסדר-בכל-הזירות-258929
-https://news.walla.co.il/item/3827755
-https://hamal.co.il/main/הערב-ב-2020-נתניהו-ימסור-הצהרה-לתקשורת-258930
-https://hamal.co.il/main/לגורל-היו-תוכניות-משלו-מעיין-אדם-בהיריון-שלישי-258933
-https://hamal.co.il/main/ירי-מלבנון-מטח-של-מספר-כטבמים-לצפון-הארץ-258951
-https://hamal.co.il/main/ראש-ממשלת-ספרד-חוק-עונש-המוות---צעד-בדרך-לאפרטהייד-258966
-https://hamal.co.il/main/דיווחים-בעיראק-עיתונאית-אמריקנית-נחטפה-258971
+COUNTER:1
 https://news.walla.co.il/break/3827759
 https://news.walla.co.il/break/3827758
 https://news.walla.co.il/break/3827762
@@ -499,3 +492,10 @@ https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבי�
 https://hamal.co.il/main/בפעם-השלישית-בתוך-שעה-זוהו-שיגורים-מאיראן-לצפון-הארץ-260286
 https://hamal.co.il/main/צהל-תקף-חוליית-מחבלי-חמאס-שפעלו-סמוך-לכוחותינו-בצפון-עזה-260288
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260311
+https://news.walla.co.il/break/3828255
+https://news.walla.co.il/break/3828256
+https://news.walla.co.il/break/3828257
+https://news.walla.co.il/break/3828258
+https://news.walla.co.il/break/3828259
+https://hamal.co.il/main/מנכל-פעילות-בתי-הקפה-של-פקטורי-54-נטע-קסטין-נמצא-מת-בביתו-260251
+https://hamal.co.il/main/דיווח-המגעים-להפסקת-אש-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-260314
