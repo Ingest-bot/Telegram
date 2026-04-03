@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3827694
-https://hamal.co.il/main/לא-מצליחים-לעמוד-על-רגל-אחת-זה-עלול-להעיד-על-בעיה-בריאותית-258799
-https://hamal.co.il/main/גבר-כבן-31-במצב-קשה-תאונת-עבודה-במפעל-במעלה-אדומים-258862
+COUNTER:15
 https://hamal.co.il/main/בעומק-הים-מול-חופי-הרצליה-אותרו-חלקי-שלד-אדם-258863
 https://news.walla.co.il/break/3827702
 https://news.walla.co.il/item/3827706
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828222
 https://news.walla.co.il/item/3828221
 https://hamal.co.il/main/דיווחים-מטוס-קרב-אמריקני-הופל-באיראן-חיפושים-אחרי-הצוות-260126
 https://hamal.co.il/main/פעילות-היחידה-הרב-ממדית-בדרום-לבנון-יותר-מ-40-חיסולים-260133
+https://news.walla.co.il/item/3828172
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-הארץ-260135
+https://hamal.co.il/main/תיעוד-מאיראן-מסוקים-אמריקאים-מבצעים-חיפושים-אחרי-הצוות-260160
