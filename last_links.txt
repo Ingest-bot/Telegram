@@ -1,9 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/טראמפ-על-האורניום-האיראני-קבור-עמוק-מאוד-יהיה-קשה-להגיע-א-258888
-https://news.walla.co.il/break/3827732
-https://news.walla.co.il/break/3827733
-https://news.walla.co.il/break/3827735
-https://news.walla.co.il/item/3827729
+COUNTER:25
 https://news.walla.co.il/item/3827734
 https://hamal.co.il/main/סין-ופקיסטן-ביוזמה-משותפת-קוראות-להפסקת-אש-במזרח-התיכון-258892
 https://hamal.co.il/main/אירוע-אלימות-בכביש-444-גבר-בן-29-במצב-קשה-258893
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אזעקות-בצפת-והסביבה-260183
 https://news.walla.co.il/break/3828232
 https://news.walla.co.il/break/3828233
 https://hamal.co.il/main/כך-פועלת-מכונת-החילוץ-המשומנת-של-חיל-האוויר-האמריקני-260186
+https://news.walla.co.il/break/3828235
+https://news.walla.co.il/break/3828237
+https://news.walla.co.il/item/3828234
+https://hamal.co.il/main/גבר-בן-22-נפצע-אנוש-באירוע-אלימות-260187
+https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-טרור-בביירות-260188
