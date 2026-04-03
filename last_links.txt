@@ -1,6 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/רכבים-עלו-באש-בפתח-תקווה-אישה-נפצעה-קל-מרסיסים-258751
-https://hamal.co.il/main/2-זירות-שברי-יירוט-דווחו-בת״א-אין-נפגעים-258752
+COUNTER:16
 https://hamal.co.il/main/אם-ו-2-ילדיה-נפגעו-קל-בבני-ברק-258754
 https://news.walla.co.il/break/3827591
 https://news.walla.co.il/break/3827590
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אחרי-מעל-לחודש-בתי-הקולנוע-חוז
 https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-260010
 https://hamal.co.il/main/אזעקות-בקריית-שמונה-מטולה-והסביבה-260014
 https://news.walla.co.il/break/3828157
+https://news.walla.co.il/break/3828158
+https://hamal.co.il/main/טראמפ-מאיים-על-איראן-הצבא-שלנו-עוד-לא-התחיל-עידן-קוולר-1-260015
