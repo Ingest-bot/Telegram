@@ -1,10 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3827645
-https://news.walla.co.il/break/3827646
-https://hamal.co.il/main/השר-כ״ץ-״צה״ל-ישלוט-ביטחונית-בכל-המרחב-עד-הליטני״-258801
-https://hamal.co.il/main/זה-רשמי-אחרי-שנים-של-מאבק-במחלה-קשה-סלין-דיון-חוזרת-להופיע-258802
-https://hamal.co.il/main/דרום-לבנון-2-הרוגים-בתקיפה-אווירית-על-כלי-רכב-258803
-https://hamal.co.il/main/מחרשת-הכסף-כך-צהל-משנה-את-המציאות-בכפרי-המגע-בדרום-לבנ-258804
+COUNTER:38
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-258811
 https://hamal.co.il/main/פצוע-בינוני-מרסיסים-באחד-היישובים-בקו-העימות-258817
 https://news.walla.co.il/break/3827663
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3828193
 https://news.walla.co.il/item/3827731
 https://hamal.co.il/main/אישור-ראשון-להצעת-הנישואין-של-עומר-אדם-וסשה-ישראלוביץ-260089
 https://hamal.co.il/main/מחבלי-כוח-רדואן-הודו-בחקירה-״חיזבאללה-שולח-אותנו-למות״-260093
+https://news.walla.co.il/break/3828198
+https://news.walla.co.il/break/3828199
+https://news.walla.co.il/break/3828200
+https://news.walla.co.il/break/3828202
+https://hamal.co.il/main/אל-תצאו-מהבית-260094
+https://hamal.co.il/main/גבר-כבן-70-טבע-למוות-בחוף-הילטון-בתל-אביב-260095
