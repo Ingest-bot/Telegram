@@ -1,11 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/בעומק-הים-מול-חופי-הרצליה-אותרו-חלקי-שלד-אדם-258863
-https://news.walla.co.il/break/3827702
-https://news.walla.co.il/item/3827706
-https://hamal.co.il/main/דובר-צהל-בערבית-מפרסם-אזהרה-לתושבי-הדאחיה-בביירות-258874
-https://hamal.co.il/main/ראשוני-258875
-https://hamal.co.il/main/צהל-חושף-ארגון-הטרור-חזבאללה-השתלט-על-הכפר-הנוצרי-בלבנון-258880
-https://news.walla.co.il/break/3827720
+COUNTER:19
 https://news.walla.co.il/break/3827721
 https://news.walla.co.il/break/3827723
 https://news.walla.co.il/item/3827711
@@ -499,3 +492,10 @@ https://hamal.co.il/main/פעילות-היחידה-הרב-ממדית-בדרום-
 https://news.walla.co.il/item/3828172
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-הארץ-260135
 https://hamal.co.il/main/תיעוד-מאיראן-מסוקים-אמריקאים-מבצעים-חיפושים-אחרי-הצוות-260160
+https://news.walla.co.il/break/3828226
+https://news.walla.co.il/break/3828227
+https://news.walla.co.il/item/3828225
+https://hamal.co.il/main/הירי-מאיראן-הטיל-ככל-הנראה-יורט-לא-דווח-על-נפגעים-260162
+https://hamal.co.il/main/אזעקות-בצפת-והסביבה-260170
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-260168
+https://hamal.co.il/main/באיראן-מציעים-פרס-משמעותי-למי-שיתפוס-את-הצוות-האמריקאי-260171
