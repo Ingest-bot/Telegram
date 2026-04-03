@@ -1,5 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/break/3827663
 https://news.walla.co.il/break/3827662
 https://news.walla.co.il/item/3827654
 https://hamal.co.il/main/הפגיעה-בתעשיות-הייצור-הצבאיות-בטהרן-נמשכת-258820
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אל-תצאו-מהבית-260094
 https://hamal.co.il/main/גבר-כבן-70-טבע-למוות-בחוף-הילטון-בתל-אביב-260095
 https://news.walla.co.il/item/3828201
 https://hamal.co.il/main/מדוע-נקרא-החג-על-שם-המצה-260097
+https://news.walla.co.il/break/3828205
