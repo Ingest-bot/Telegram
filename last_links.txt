@@ -1,13 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3827743
-https://news.walla.co.il/item/3827745
-https://hamal.co.il/main/האזעקות-בקריות-חלק-מהטילים-יורטו-וחלק-נפלו-בשטחים-פתוחים-258911
-https://hamal.co.il/main/גבר-כבן-35-נפצע-בתאונת-דרכים-בקרית-ביאליק-מצבו-קשה-מערכת-וו-258912
-https://hamal.co.il/main/הירי-לעבר-צפון-הארץ-258914
-https://hamal.co.il/main/טראמפ-מוחקים-את-איראן--לא-נהיה-שם-עוד-הרבה-זמן-258917
-https://news.walla.co.il/break/3827749
-https://news.walla.co.il/item/3827748
-https://hamal.co.il/main/צהל-חיסל-את-מחבל-המערך-הימי-של-חמאס--התיעוד-258921
+COUNTER:35
 https://hamal.co.il/main/מכירת-חמץ-און-ליין-עם-בית-חבד-שדרות-וישובי-שער-הנגב-258924
 https://news.walla.co.il/break/3827753
 https://news.walla.co.il/item/3827751
@@ -499,3 +490,12 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/במהלך-היממה-האחרונה-צהל-השלים-יותר-מ-70-תקיפות-באיראן-260201
 https://hamal.co.il/main/דובר-צהל-צהל-לא-יוותר-על-היעד-של-פירוק-חיזבאללה-מנשקו-260204
 https://hamal.co.il/main/גורם-ישראלי-אחד-מאנשי-הצוות-האמריקני-חולץ-260253
+https://news.walla.co.il/break/3828242
+https://news.walla.co.il/break/3828243
+https://news.walla.co.il/break/3828244
+https://news.walla.co.il/break/3828245
+https://news.walla.co.il/break/3828246
+https://finance.walla.co.il/item/3828234
+https://hamal.co.il/main/הפלת-המטוס-האמריקני-באיראן-הנשיא-טראמפ-עודכן-260254
+https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-הארץ-260256
+https://hamal.co.il/main/פגיעות-במבנים-בגשר-הזיו-ובמושב-יערה---ללא-נפגעים-260281
