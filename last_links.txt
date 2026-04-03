@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3827739
-https://hamal.co.il/main/בול-פגיעה-תיעוד-דרמטי-של-תקיפה-ממוקדת-בדאחיה-שבביירות-258898
-https://news.walla.co.il/break/3827740
-https://news.walla.co.il/break/3827741
+COUNTER:32
 https://news.walla.co.il/break/3827743
 https://news.walla.co.il/item/3827745
 https://hamal.co.il/main/האזעקות-בקריות-חלק-מהטילים-יורטו-וחלק-נפלו-בשטחים-פתוחים-258911
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות
 https://hamal.co.il/main/במקביל-לתקיפות-בביירות-צהל-תוקף-בטהרן-260191
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-260193
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260195
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260198
+https://hamal.co.il/main/במהלך-היממה-האחרונה-צהל-השלים-יותר-מ-70-תקיפות-באיראן-260201
+https://hamal.co.il/main/דובר-צהל-צהל-לא-יוותר-על-היעד-של-פירוק-חיזבאללה-מנשקו-260204
+https://hamal.co.il/main/גורם-ישראלי-אחד-מאנשי-הצוות-האמריקני-חולץ-260253
