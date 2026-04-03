@@ -1,5 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3827759
+COUNTER:2
 https://news.walla.co.il/break/3827758
 https://news.walla.co.il/break/3827762
 https://news.walla.co.il/item/3827761
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828258
 https://news.walla.co.il/break/3828259
 https://hamal.co.il/main/מנכל-פעילות-בתי-הקפה-של-פקטורי-54-נטע-קסטין-נמצא-מת-בביתו-260251
 https://hamal.co.il/main/דיווח-המגעים-להפסקת-אש-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-260314
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-הארץ-260316
