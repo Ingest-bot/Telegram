@@ -1,6 +1,4 @@
 COUNTER:26
-https://news.walla.co.il/break/3827818
-https://hamal.co.il/main/אישה-חולצה-ללא-רוח-חיים-משריפה-שפרצה-בדירה-בצפון-259154
 https://hamal.co.il/main/צהל-כטבם-של-חיל-האוויר-נפל-בדרום-לבנון-259169
 https://news.walla.co.il/break/3827821
 https://news.walla.co.il/break/3827822
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828336
 https://news.walla.co.il/break/3828337
 https://news.walla.co.il/break/3828339
 https://hamal.co.il/main/ההערכה-בארהב-איראן-משקמת-במהירות-את-מערכי-הטילים-שנפגעו-260457
+https://news.walla.co.il/break/3828341
+https://news.walla.co.il/break/3828340
