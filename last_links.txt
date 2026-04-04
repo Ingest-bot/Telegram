@@ -1,5 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/--259563
+COUNTER:18
 https://news.walla.co.il/break/3827952
 https://news.walla.co.il/item/3827953
 https://news.walla.co.il/break/3827956
@@ -499,3 +498,4 @@ https://hamal.co.il/main/כוכבת-המירוץ-למיליון-התארסה-ל�
 https://news.walla.co.il/break/3828480
 https://hamal.co.il/main/ילד-בן-3-נחנק-מפריט-שנכרך-סביב-צווארו-בבני-ברק-מצבו-בינוני-260718
 https://hamal.co.il/main/רב-הכותל-פנה-לפיקוד-העורף-בבקשה-להרחיב-את-כניסת-המתפללים-ביר-260719
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-260721
