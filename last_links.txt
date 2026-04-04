@@ -1,5 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-במרכז-259170
+COUNTER:30
 https://news.walla.co.il/break/3827827
 https://news.walla.co.il/item/3827828
 https://hamal.co.il/main/טיל-מצרר-שוגר-מאיראן-נפילת-שברי-יירוט-בבני-ברק-259179
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828350
 https://news.walla.co.il/break/3828351
 https://news.walla.co.il/item/3828349
 https://hamal.co.il/main/פשע-בחדרה-בקתב-הושלך-לעבר-בית-אין-נפגעים-260468
+https://hamal.co.il/main/דיווחים-איראניים-תקיפות-במפעל-הנפט-במאהשהר-260469
