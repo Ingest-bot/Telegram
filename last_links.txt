@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/בני-ברק-ילדה-בת-11-במצב-קשה-2-פצועים-במצב-קל-259183
-https://news.walla.co.il/break/3827831
-https://news.walla.co.il/break/3827832
-https://news.walla.co.il/break/3827834
+COUNTER:35
 https://news.walla.co.il/break/3827836
 https://news.walla.co.il/break/3827837
 https://hamal.co.il/main/איגרת-הרמטכ״ל-״רואה-דור-הקונה-את-חירותו-במאמץ-עילאי-והקרבה״-259181
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828354
 https://news.walla.co.il/break/3828355
 https://hamal.co.il/main/העשירים-מצאו-מקלט-מפנק-בדובאי-עכשיו-מתפוצצים-עליהם-כטבמים-260478
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-260480
+https://news.walla.co.il/item/3828358
+https://hamal.co.il/main/הירי-למרכז-חשד-לנפילות-בפתח-תקווה-תא-רמת-גן-ובני-ברק-260491
+https://hamal.co.il/main/הירי-למרכז-פגיעה-ישירה-בבניין-בבני-ברק-ובמבנה-ברמת-גן-260493
+https://hamal.co.il/main/6-זירות-נפילה-בעקבות-טיל-המצרר-מאיראן-אין-נפגעים-260495
