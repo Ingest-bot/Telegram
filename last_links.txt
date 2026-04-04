@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3827912
-https://news.walla.co.il/break/3827913
-https://news.walla.co.il/break/3827914
-https://news.walla.co.il/break/3827916
-https://hamal.co.il/main/במהלך-האזעקות-צעיר-בן-25-איבד-הכרה-ונפטר-ברמת-גן-259479
+COUNTER:3
 https://news.walla.co.il/item/3827917
 https://news.walla.co.il/break/3827919
 https://news.walla.co.il/break/3827921
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3828444
 https://hamal.co.il/main/הירי-מתימן-הטיל-נפל-בשטח-פתוח-אין-נפגעים-260689
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-260691
 https://hamal.co.il/main/ייצור-המתחם-הפטרוכימי-שהותקף-באיראן-260692
+https://news.walla.co.il/break/3828448
+https://news.walla.co.il/break/3828449
+https://news.walla.co.il/break/3828450
+https://hamal.co.il/main/בצהל-מבהירים-מחוייבים-לפירוק-חיזבאללה---גם-אם-זה-ייקח-זמן-260637
+https://hamal.co.il/main/התקהלו-בניגוד-לחוק-10-מפגינים-נעצרו-ברחבת-הבימה-260696
