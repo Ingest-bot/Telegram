@@ -1,11 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3827859
-https://hamal.co.il/main/הסודות-של-פרעה-התגליות-ההיסטוריות-שמסתתרות-בהגדה-של-פסח-259268
-https://hamal.co.il/main/כטבם-תקף-שדה-נפט-באזור-דהוק-שבחבל-כורדיסטן-בעיראק--כך-לפי-ר-259270
-https://news.walla.co.il/break/3827868
-https://news.walla.co.il/item/3827867
-https://news.walla.co.il/item/3827864
-https://hamal.co.il/main/בחריין-186-טילים-ו-419-כטב״מים-יורטו-והושמדו-259271
+COUNTER:11
 https://hamal.co.il/main/טראמפ-באמירה-דרמטית-״שוקל-לפרוש-מנאטו״-259272
 https://hamal.co.il/main/דיווחים-באיראן-תקיפה-ממוקדת-ברובע-טהראנסר-שבעיר-טהרן-259275
 https://hamal.co.il/main/סקר-בינלאומי-מצא-אלו-העמים-הכי-מנומסים-בעולם-ומה-עם-ישראל-259277
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3828392
 https://news.walla.co.il/break/3828393
 https://news.walla.co.il/break/3828394
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260537
+https://news.walla.co.il/break/3828395
+https://news.walla.co.il/break/3828396
+https://news.walla.co.il/break/3828399
+https://news.walla.co.il/break/3828401
+https://hamal.co.il/main/צהל-לא-מוכרת-אינדיקציה-לירי-נרחב-מלבנון-לישראל-260551
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-260552
+https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-260555
