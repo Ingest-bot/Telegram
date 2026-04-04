@@ -1,6 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/צהל-כטבם-של-חיל-האוויר-נפל-בדרום-לבנון-259169
-https://news.walla.co.il/break/3827821
+COUNTER:28
 https://news.walla.co.il/break/3827822
 https://news.walla.co.il/item/3827820
 https://news.walla.co.il/break/3827825
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828339
 https://hamal.co.il/main/ההערכה-בארהב-איראן-משקמת-במהירות-את-מערכי-הטילים-שנפגעו-260457
 https://news.walla.co.il/break/3828341
 https://news.walla.co.il/break/3828340
+https://hamal.co.il/main/החקלאים-דורשים-הגנה-שברי-טילים-ויירוטים-גורמים-לנזקים-260461
+https://hamal.co.il/main/ללא-התרעה-מוקדמת-תיעוד-רגעי-הנפילה-בקרית-שמונה-260466
