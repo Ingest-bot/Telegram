@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3827814
-https://news.walla.co.il/break/3827815
+COUNTER:22
 https://news.walla.co.il/break/3827816
 https://hamal.co.il/main/דיווח-ראש-הרשות-השופטת-של-איראן-חוסל-259119
 https://hamal.co.il/main/הבית-הלבן-טראמפ-יישא-מחר-נאום-לאומה-על-המלחמה-עם-איראן-259120
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3828321
 https://news.walla.co.il/item/3828324
 https://news.walla.co.il/break/3828326
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-260438
+https://news.walla.co.il/break/3828328
+https://hamal.co.il/main/הטמפרטורות-נמוכות-מהרגיל-האובך-נמשך---ומתי-יעלם--התחזית-260444
