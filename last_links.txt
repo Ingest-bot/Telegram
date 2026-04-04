@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3827364
-https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-259213
-https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-259217
+COUNTER:37
 https://news.walla.co.il/break/3827842
 https://news.walla.co.il/item/3827841
 https://hamal.co.il/main/צהל-חיסל-את-ראש-ענף-ההנדסה-בגיס-לבנון-של-כוח-קדס-באיראן-259218
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828368
 https://news.walla.co.il/break/3828367
 https://news.walla.co.il/item/3828361
 https://hamal.co.il/main/מכה-למפגינים-פיקוד-העורף-לבגץ---יש-להגביל-את-הפגנות-260498
+https://news.walla.co.il/break/3828373
+https://news.walla.co.il/break/3828370
+https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-באיראן-260499
