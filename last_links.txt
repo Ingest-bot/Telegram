@@ -1,5 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3827842
+COUNTER:38
 https://news.walla.co.il/item/3827841
 https://hamal.co.il/main/צהל-חיסל-את-ראש-ענף-ההנדסה-בגיס-לבנון-של-כוח-קדס-באיראן-259218
 https://hamal.co.il/main/בן-13-ואמו-החירשת-נפצעו-לאחר-שלא-הספיקו-להגיע-למרחב-מוגן-259226
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מכה-למפגינים-פיקוד-העורף-לבגץ-
 https://news.walla.co.il/break/3828373
 https://news.walla.co.il/break/3828370
 https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-באיראן-260499
+https://hamal.co.il/main/קרה-לי-נס-בן-ה-84-שביתו-נפגע-ברמת-גן-מדבר-260500
