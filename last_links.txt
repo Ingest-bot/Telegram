@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/במחאה-על-חוק-עונש-מוות-למחבלים-שביתה-הוכרזה-במזרח-י-ם-259112
-https://news.walla.co.il/break/3827804
-https://hamal.co.il/main/ישיר-נאום-טראמפ-ביית-הלבן-259098
-https://news.walla.co.il/break/3827806
-https://hamal.co.il/main/נתניהו-בירך-את-השרה-מאי-גולן-259114
+COUNTER:19
 https://hamal.co.il/main/טראמפ-נעזוב-את-איראן-בעוד-שבועיים-או-שלושה-259116
 https://hamal.co.il/main/חומר-קטלני-ביותר-259117
 https://news.walla.co.il/break/3827808
@@ -499,3 +494,8 @@ https://hamal.co.il/main/עיריית-ראש-עין-לתושבים-הצפי-לה
 https://hamal.co.il/main/הושגה-שליטה-על-השריפה-במפעל-בנאות-חובב-260416
 https://hamal.co.il/main/ראשוני-צהל-החל-לתקוף-בביירות-260418
 https://hamal.co.il/main/ראש-עיריית-ראש-העין-רז-שגיא-בזרית-הפגיעה-בעיר-260421
+https://news.walla.co.il/break/3828320
+https://news.walla.co.il/item/3828319
+https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-המרינה-בדובאי-ללא-נפגעים-260423
+https://hamal.co.il/main/כוחות-מיוחדים-של-צבא-ארהב-נכנסו-לאיראן-לחלץ-את-הנווט-הנעדר-260428
+https://hamal.co.il/main/הטמפרטורות-נמוכות-מהרגיל-האובך-נמשך-260430
