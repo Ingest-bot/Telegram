@@ -1,5 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3827848
+COUNTER:1
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-צפויות-במרכז-259237
 https://hamal.co.il/main/דיווח-איחוד-האמירויות-נערכת-לסייע-לפתוח-בכוח-את-מצר-הורמוז-259239
 https://news.walla.co.il/break/3827850
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828381
 https://news.walla.co.il/break/3828378
 https://news.walla.co.il/item/3828359
 https://hamal.co.il/main/במערכת-החינוך-נערכים-לחזרה-חלקית-לבתי-הספר-אחרי-פסח-260504
+https://hamal.co.il/main/יונייטד-איירליינס-לא-תחדש-את-טיסותיה-עד-ספטמבר-260508
