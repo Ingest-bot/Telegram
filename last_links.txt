@@ -1,9 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3827933
-https://news.walla.co.il/break/3827934
-https://news.walla.co.il/break/3827935
-https://hamal.co.il/main/בית-חנינא-2-גברים-נפצעו-באירוע-אלימות-אחד-במצב-קשה-259531
-https://hamal.co.il/main/המשטרה-פתחה-בחקירה-אודות-התאונה-בכביש-4-במהלכה-נהרג-בן-60-259532
+COUNTER:10
 https://news.walla.co.il/break/3827938
 https://news.walla.co.il/break/3827940
 https://news.walla.co.il/break/3827941
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-יתקוף-בגבול-260700
 https://hamal.co.il/main/הרב-יצחק-יוסף-נגד-בגץ-260701
 https://news.walla.co.il/break/3828461
 https://hamal.co.il/main/מחש-חוקרת-שוטר-מהצפון-נעצר-בחשד-לביצוע-עבירות-מין-חמורות-260704
+https://news.walla.co.il/break/3828466
+https://news.walla.co.il/break/3828468
+https://news.walla.co.il/item/3828463
+https://hamal.co.il/main/ההפגנה-הלא-חוקית-בהבימה-17-260705
+https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים-בדרו-260706
