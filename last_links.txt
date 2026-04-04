@@ -1,5 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/2-ילדים-נפצעו-ב-2-מוקדים-שונים-בבני-ברק-259180
+COUNTER:32
 https://hamal.co.il/main/בני-ברק-ילדה-בת-11-במצב-קשה-2-פצועים-במצב-קל-259183
 https://news.walla.co.il/break/3827831
 https://news.walla.co.il/break/3827832
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווחים-איראניים-תקיפות-במפעל
 https://news.walla.co.il/break/3828354
 https://news.walla.co.il/break/3828355
 https://hamal.co.il/main/העשירים-מצאו-מקלט-מפנק-בדובאי-עכשיו-מתפוצצים-עליהם-כטבמים-260478
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-260480
