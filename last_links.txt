@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/טראמפ-נעזוב-את-איראן-בעוד-שבועיים-או-שלושה-259116
-https://hamal.co.il/main/חומר-קטלני-ביותר-259117
-https://news.walla.co.il/break/3827808
+COUNTER:20
 https://news.walla.co.il/break/3827809
 https://hamal.co.il/main/צהל-259118
 https://news.walla.co.il/break/3827811
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3828319
 https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-המרינה-בדובאי-ללא-נפגעים-260423
 https://hamal.co.il/main/כוחות-מיוחדים-של-צבא-ארהב-נכנסו-לאיראן-לחלץ-את-הנווט-הנעדר-260428
 https://hamal.co.il/main/הטמפרטורות-נמוכות-מהרגיל-האובך-נמשך-260430
+https://news.walla.co.il/break/3828321
+https://news.walla.co.il/break/3828322
+https://hamal.co.il/main/צעיר-בן-22-נהרג-לאחר-שהתהפך-עם-רכבו-בשטח-פתוח-סמוך-לקריית-גת-260434
