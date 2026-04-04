@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3827811
-https://news.walla.co.il/break/3827812
+COUNTER:21
 https://news.walla.co.il/break/3827814
 https://news.walla.co.il/break/3827815
 https://news.walla.co.il/break/3827816
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828322
 https://hamal.co.il/main/צעיר-בן-22-נהרג-לאחר-שהתהפך-עם-רכבו-בשטח-פתוח-סמוך-לקריית-גת-260434
 https://news.walla.co.il/item/3828321
 https://news.walla.co.il/item/3828324
+https://news.walla.co.il/break/3828326
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-260438
