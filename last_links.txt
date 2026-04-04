@@ -1,11 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3827836
-https://news.walla.co.il/break/3827837
-https://hamal.co.il/main/איגרת-הרמטכ״ל-״רואה-דור-הקונה-את-חירותו-במאמץ-עילאי-והקרבה״-259181
-https://hamal.co.il/main/זוהו-שיגורים-נוספים-259186
-https://hamal.co.il/main/תוך-פחות-משעה-2-אזעקות-הופעלו-ברצף-במרכז-הארץ-259208
-https://hamal.co.il/main/לפחות-16-נפגעים-במטח-האחרון-בהם-259209
-https://news.walla.co.il/break/3827838
+COUNTER:36
 https://news.walla.co.il/item/3827364
 https://hamal.co.il/main/אין-דיווחים-על-נפילות-או-נפגעים-במטח-האחרון-259213
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-259217
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3828358
 https://hamal.co.il/main/הירי-למרכז-חשד-לנפילות-בפתח-תקווה-תא-רמת-גן-ובני-ברק-260491
 https://hamal.co.il/main/הירי-למרכז-פגיעה-ישירה-בבניין-בבני-ברק-ובמבנה-ברמת-גן-260493
 https://hamal.co.il/main/6-זירות-נפילה-בעקבות-טיל-המצרר-מאיראן-אין-נפגעים-260495
+https://news.walla.co.il/break/3828364
+https://news.walla.co.il/break/3828365
+https://news.walla.co.il/break/3828366
+https://news.walla.co.il/break/3828368
+https://news.walla.co.il/break/3828367
+https://news.walla.co.il/item/3828361
+https://hamal.co.il/main/מכה-למפגינים-פיקוד-העורף-לבגץ---יש-להגביל-את-הפגנות-260498
