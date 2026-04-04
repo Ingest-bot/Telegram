@@ -1,6 +1,4 @@
 COUNTER:13
-https://hamal.co.il/main/מרגל-וחצי-בחוץ-למאמן-נחשק-המהפך-ביחסי-מכבי-תא-ועודד-קטש-259535
-https://hamal.co.il/main/ממדאני-259537
 https://hamal.co.il/main/שני-כטבמים-אזעקות-הופעלו-בגליל-המערבי-259548
 https://news.walla.co.il/break/3827945
 https://hamal.co.il/main/דיווח-על-נפילת-שברי-ירוט-בנהריה--כוחות-מדא-סורקים-259560
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828469
 https://hamal.co.il/main/צימקה-את-הפער-ביתר-חזרה-מפיגור---וניצחה-260707
 https://hamal.co.il/main/מצדיעה-לחיילים-השלט-שביתר-התקינה-באצטדיון-טדי-260708
 https://hamal.co.il/main/הרב-יצחק-יוסף-תוקף-את-בגץ-הקבה-ישמיד-אותם-260712
+https://news.walla.co.il/break/3828474
+https://news.walla.co.il/break/3828475
