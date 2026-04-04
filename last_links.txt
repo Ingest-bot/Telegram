@@ -1,11 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/בן-13-ואמו-החירשת-נפצעו-לאחר-שלא-הספיקו-להגיע-למרחב-מוגן-259226
-https://hamal.co.il/main/אין-דיווחים-על-נפגעים-מהשיגור-האחרון-259229
-https://news.walla.co.il/break/3827844
-https://hamal.co.il/main/הילדה-שנפגעה-בבני-ברק-במצב-אנוש-״נאבקים-על-חייה״-259231
-https://hamal.co.il/main/תיעוד-מפעילות-כוחות-חטיבת-8-בדרום-לבנון-259235
-https://hamal.co.il/main/החות׳ים-טוענים-שיגרנו-הלילה-טילים-לישראל-259236
-https://news.walla.co.il/break/3827847
+COUNTER:0
 https://news.walla.co.il/break/3827848
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-אזעקות-צפויות-במרכז-259237
 https://hamal.co.il/main/דיווח-איחוד-האמירויות-נערכת-לסייע-לפתוח-בכוח-את-מצר-הורמוז-259239
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-באיראן-2604
 https://hamal.co.il/main/קרה-לי-נס-בן-ה-84-שביתו-נפגע-ברמת-גן-מדבר-260500
 https://news.walla.co.il/item/3828375
 https://hamal.co.il/main/בשל-טעות-אנוש-מסוק-קרב-הטיל-הלילה-חימוש-בצפון-אין-נפגעים-260501
+https://news.walla.co.il/break/3828377
+https://news.walla.co.il/break/3828379
+https://news.walla.co.il/break/3828380
+https://news.walla.co.il/break/3828381
+https://news.walla.co.il/break/3828378
+https://news.walla.co.il/item/3828359
+https://hamal.co.il/main/במערכת-החינוך-נערכים-לחזרה-חלקית-לבתי-הספר-אחרי-פסח-260504
