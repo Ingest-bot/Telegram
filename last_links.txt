@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3827948
-https://news.walla.co.il/break/3827949
-https://hamal.co.il/main/חשד-לרצח-בבאקה-אל-ערביה-נקבע-מותו-של-גבר-בן-30-259562
+COUNTER:17
 https://hamal.co.il/main/--259563
 https://news.walla.co.il/break/3827952
 https://news.walla.co.il/item/3827953
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828475
 https://news.walla.co.il/break/3828476
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-260716
 https://hamal.co.il/main/כוכבת-המירוץ-למיליון-התארסה-לבן-זוגה-מאור-בן-הרוש-עודכן-ל-260717
+https://news.walla.co.il/break/3828480
+https://hamal.co.il/main/ילד-בן-3-נחנק-מפריט-שנכרך-סביב-צווארו-בבני-ברק-מצבו-בינוני-260718
+https://hamal.co.il/main/רב-הכותל-פנה-לפיקוד-העורף-בבקשה-להרחיב-את-כניסת-המתפללים-ביר-260719
