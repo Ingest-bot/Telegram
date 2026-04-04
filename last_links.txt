@@ -1,9 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/למעלה-מ-800-מטסי-תקיפה-ו-16000-חימושים-נתוני-צהל-במבצע-ש-259124
-https://news.walla.co.il/break/3827817
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-259126
-https://hamal.co.il/main/הירי-259138
-https://hamal.co.il/main/צהל-הטיל-ששוגר-מתימן-יורט-בהצלחה-259137
+COUNTER:26
 https://news.walla.co.il/break/3827818
 https://hamal.co.il/main/אישה-חולצה-ללא-רוח-חיים-משריפה-שפרצה-בדירה-בצפון-259154
 https://hamal.co.il/main/צהל-כטבם-של-חיל-האוויר-נפל-בדרום-לבנון-259169
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828331
 https://news.walla.co.il/item/3828333
 https://hamal.co.il/main/ספרינגסטין-נפרד-מצרויה-להב-אנו-שבורי-לב-הייתה-חברה-נפלאה-260451
 https://hamal.co.il/main/תושבי-קריית-שמונה-רקטה-נפלה-מבלי-שהופעלה-אזעקה-אין-נפגעים-260454
+https://news.walla.co.il/break/3828335
+https://news.walla.co.il/break/3828336
+https://news.walla.co.il/break/3828337
+https://news.walla.co.il/break/3828339
+https://hamal.co.il/main/ההערכה-בארהב-איראן-משקמת-במהירות-את-מערכי-הטילים-שנפגעו-260457
