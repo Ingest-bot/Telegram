@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3827871
-https://hamal.co.il/main/משרד-הבריאות-הלבנוני-מדווח-על-7-הרוגים-ו-26-פצועים-בתקיפת-צה-259279
-https://hamal.co.il/main/מרפסת-קרסה-ביפו-2-נפצעו-קל-259283
-https://hamal.co.il/main/לכודה-חולצה-ממבנה-שקרס-בתל-אביב-259284
+COUNTER:15
 https://hamal.co.il/main/תקיפה-מדוייקת-של-חיל-הים-חוסל-מפקד-הדרום-של-חיזבאללה-בביירו-259286
 https://hamal.co.il/main/קריסת-המרפסת-ביפו---259287
 https://hamal.co.il/main/״בשורת-יציאת-מצרים״-אותר-קברו-של-החלל-דב-פרמט-שנפל-ב-1948-259297
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828402
 https://news.walla.co.il/item/3828406
 https://hamal.co.il/main/פצצת-מצרר-נפלה-ליד-הקריה-בתל-אביב-260561
 https://hamal.co.il/main/מדא-על-הירי-לצפת-צוותים-יצאו-לסרוק-זירות-260562
+https://news.walla.co.il/break/3828408
+https://news.walla.co.il/break/3828412
+https://hamal.co.il/main/טראמפ-על-איראן-260565
+https://hamal.co.il/main/צעיר-בן-22-נפצע-קשה-בתאונת-דרכים-סמוך-לנוף-הגליל-260566
