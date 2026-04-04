@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3827876
-https://hamal.co.il/main/״בהצלחה-במשימה״-יותר-מ-2000-תדלוקים-אוויריים-בוצעו-259300
+COUNTER:20
 https://hamal.co.il/main/הרמת-כוסית-בגדוד-703-של-אגד-טנ״א-ארצי-לכבוד-חג-הפסח-259301
 https://news.walla.co.il/break/3827883
 https://news.walla.co.il/item/3827882
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828418
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260572
 https://hamal.co.il/main/לוחמי-האש-פעלו-בזירת-פגיעה-ישירה-בצפת-260586
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260587
+https://news.walla.co.il/break/3828419
+https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-פריטי-אמל״ח-בקריות-260592
