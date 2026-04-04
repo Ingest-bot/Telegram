@@ -1,10 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/ערב-החג-במערכת-הביטחון-לא-פוסלים-תרחיש-של-מטחים-משולבים-259488
-https://hamal.co.il/main/ללא-התרעה-מקדימה-אזעקות-במרכז-אשקלון-והסביבה-259505
-https://hamal.co.il/main/הירי-מלבנון-ללא-דיווחים-על-נפילות-או-נפגעים-בשלב-הזה-259507
-https://hamal.co.il/main/נתן-לוי-בשביל-הישראלים-להיות-לוחמים-זה-בדם-שלנו-259514
-https://hamal.co.il/main/כעת-אזעקות-באצבע-הגליל-בעקבות-חדירת-כטבם-259525
-https://hamal.co.il/main/הולך-רגל-בן-60-נפגע-מרכב-בכביש-4-מותו-נקבע-במקום-259529
+COUNTER:7
 https://news.walla.co.il/break/3827931
 https://news.walla.co.il/break/3827932
 https://news.walla.co.il/break/3827933
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3828452
 https://news.walla.co.il/break/3828453
 https://hamal.co.il/main/דיווח-ישראל-נערכת-לתקוף-260698
 https://hamal.co.il/main/בזמן-האזעקות-מפגין-כבן-50-התמוטט-במקלט-בהבימה-מצבו-קשה-260699
+https://news.walla.co.il/break/3828457
+https://news.walla.co.il/item/3828454
+https://news.walla.co.il/item/3828455
+https://news.walla.co.il/item/3828459
+https://hamal.co.il/main/צהל-יתקוף-בגבול-260700
+https://hamal.co.il/main/הרב-יצחק-יוסף-נגד-בגץ-260701
