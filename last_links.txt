@@ -1,10 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/ילד-בן-6-נפגע-מרכב-במהלך-האזעקה-בראשון-לציון-259252
-https://hamal.co.il/main/צבא-לבנון-מצהיר-ביצענו-פעולות-פריסה-של-כוחותינו-בדרום-המדינ-259253
-https://hamal.co.il/main/כואב-הלב-הכלב-לאקי-נחטף-באכזריות-מפתח-ביתו---ואותר-חבול-259261
-https://hamal.co.il/main/״לא-קיימנו-מ״ומ---ולא-נקיים״-באיראן-מכחישים-את-דברי-טראמפ-259264
-https://news.walla.co.il/break/3827856
-https://news.walla.co.il/item/3827096
+COUNTER:8
 https://news.walla.co.il/break/3827859
 https://hamal.co.il/main/הסודות-של-פרעה-התגליות-ההיסטוריות-שמסתתרות-בהגדה-של-פסח-259268
 https://hamal.co.il/main/כטבם-תקף-שדה-נפט-באזור-דהוק-שבחבל-כורדיסטן-בעיראק--כך-לפי-ר-259270
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שריפות-עשן-והרס-רב-מעל-ל-10-זירו
 https://news.walla.co.il/item/3828389
 https://hamal.co.il/main/תיעוד-חיל-האוויר-השמיד-משאית-ששימשה-כמשגר-טילים-באיראן-260532
 https://hamal.co.il/main/מועצת-מטה-אשר-לתושבים-הישארו-בזמן-הקרוב-ליד-מרחב-מוגן-260535
+https://news.walla.co.il/break/3828390
+https://news.walla.co.il/break/3828391
+https://news.walla.co.il/break/3828392
+https://news.walla.co.il/break/3828393
+https://news.walla.co.il/break/3828394
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260537
