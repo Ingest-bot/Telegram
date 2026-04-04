@@ -1,9 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/קריסת-המרפסת-ביפו---259287
-https://hamal.co.il/main/״בשורת-יציאת-מצרים״-אותר-קברו-של-החלל-דב-פרמט-שנפל-ב-1948-259297
-https://hamal.co.il/main/דיווח-בסוריה-מספר-עיתונאים-הותקפו-באזור-קוניטרה-259299
-https://news.walla.co.il/break/3827878
-https://news.walla.co.il/break/3827877
+COUNTER:19
 https://news.walla.co.il/break/3827876
 https://hamal.co.il/main/״בהצלחה-במשימה״-יותר-מ-2000-תדלוקים-אוויריים-בוצעו-259300
 https://hamal.co.il/main/הרמת-כוסית-בגדוד-703-של-אגד-טנ״א-ארצי-לכבוד-חג-הפסח-259301
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828412
 https://hamal.co.il/main/טראמפ-על-איראן-260565
 https://hamal.co.il/main/צעיר-בן-22-נפצע-קשה-בתאונת-דרכים-סמוך-לנוף-הגליל-260566
 https://hamal.co.il/main/איתור-אמלח-וחיסול-מחבלים-פעילות-לוחמי-גבעתי-בלבנון-260567
+https://news.walla.co.il/break/3828415
+https://news.walla.co.il/break/3828418
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260572
+https://hamal.co.il/main/לוחמי-האש-פעלו-בזירת-פגיעה-ישירה-בצפת-260586
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260587
