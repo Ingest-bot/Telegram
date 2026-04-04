@@ -1,11 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/דיווח-על-נפילת-פריט-בקריית-שמונה-לא-ידוע-על-נפגעים-259306
-https://news.walla.co.il/break/3827888
-https://hamal.co.il/main/פצוע-קל-ו-4-נפגעי-חרדה-בשתי-זירות-בקריית-שמונה-259307
-https://hamal.co.il/main/האמרגן-המיתולוגי-אשר-ראובני-הלך-לעולמו-בגיל-76-259311
-https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-259320
-https://hamal.co.il/main/טראמפ-נשיא-המשטר-החדש-של-איראן-ביקש-הפסקת-אש-259323
-https://news.walla.co.il/break/3827889
+COUNTER:27
 https://news.walla.co.il/break/3827890
 https://hamal.co.il/main/המטח-לנהריה-מספר-שיגורים-יורטו-או-נפלו-בשטחים-פתוחים-259325
 https://news.walla.co.il/break/3827895
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3828422
 https://hamal.co.il/main/ללא-התרעה-מוקדמת-אזעקות-בירושלים-וים-המלח-260603
 https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-זוהו-שיגורים-ללכיש-והשפלה-260618
 https://hamal.co.il/main/מדא-על-הירי-לאזור-ירושלים-לא-התקבלו-דיווחים-על-נפילות-260621
+https://news.walla.co.il/break/3828424
+https://news.walla.co.il/break/3828425
+https://news.walla.co.il/break/3828426
+https://hamal.co.il/main/השיטה-החדשה-של-חיזבאללה---והמורל-הירוד-בארגון-260634
+https://hamal.co.il/main/כבה-התקבל-דיווח-ראשוני-על-נפילה-באזור-מזרח-ירושלים-260638
+https://hamal.co.il/main/צהל-על-ההפגנות-מאשרים-החרגה-בכיכר-הבימה-בתל-אביב-260640
+https://hamal.co.il/main/מדא-על-הירי-לאזור-נהריה-לא-התקבלו-דיווחים-260642
