@@ -1,10 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3828030
-https://news.walla.co.il/break/3828034
-https://news.walla.co.il/break/3828036
-https://news.walla.co.il/break/3828037
-https://news.walla.co.il/break/3828039
-https://hamal.co.il/main/כרתים-נצבעה-בכתום-259743
+COUNTER:8
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-259750
 https://hamal.co.il/main/גלולה-במקום-זריקה-האם-אורפורגליפרון-תשנה-את-הטיפול-בהשמנה-259756
 https://hamal.co.il/main/צהל-תקף-את-גשר-B1-המחבר-את-טהראן-לכרג-259760
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3828580
 https://hamal.co.il/main/החל-מהיום-260825
 https://hamal.co.il/main/רסל-גיא-לודר-לוחם-מגלן-שנהרג-בלבנון-מובא-למנוחות--ישיר-260826
 https://hamal.co.il/main/הנהגת-חמאס-נפגשה-עם-ארדואן-דנו-260827
+https://news.walla.co.il/break/3828582
+https://news.walla.co.il/break/3828583
+https://news.walla.co.il/item/3828584
+https://hamal.co.il/main/תכין-300-אלף-נער-260828
+https://hamal.co.il/main/צהל-חושף-כ-165-שיגורים-260829
+https://hamal.co.il/main/להיות-עם-חופשי---מאיתנו-260830
