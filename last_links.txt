@@ -1,10 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3828115
-https://news.walla.co.il/break/3828116
-https://news.walla.co.il/break/3828117
-https://news.walla.co.il/item/3828110
-https://news.walla.co.il/break/3828120
-https://news.walla.co.il/item/3828119
+COUNTER:14
 https://hamal.co.il/main/טראמפ-המלחמה-קרובה-לסיומה-אבל-צפויה-הסלמה-נוספת-259955
 https://hamal.co.il/main/אירוע-אלימות-בטייבה-גבר-כבן-20-במצב-קשה-259956
 https://news.walla.co.il/break/3828121
@@ -499,3 +493,9 @@ https://hamal.co.il/main/הייר-מאיראן-תיעוד-ההרס-בחיפה-26
 https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-260938
 https://hamal.co.il/main/הפגיעה-במבנה-בחיפה-פצוע-קשה-חולץ-260939
 https://hamal.co.il/main/אירוע-פגיעה-ישירה-במבנה-בעיר-חיפה-חשש-ללכודים-לוחמי-האש-מ-260940
+https://news.walla.co.il/break/3828667
+https://news.walla.co.il/break/3828668
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטב-260949
+https://hamal.co.il/main/תיעוד-מאמצי-הכיבוי-והחילוץ-בזירה-בחיפה-260953
+https://hamal.co.il/main/מנכ״ל-מד״א-״זירה-מורכבת-עם-הרס-רב-ופגיעה-משמעותית״-260965
+https://hamal.co.il/main/פראמדיקית-מדא-על-הזירה-בחיפה-ממשיכים-לסרוק-מדובר-בהרס-רב-260966
