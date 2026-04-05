@@ -1,7 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3827973
-https://hamal.co.il/main/אין-נפגעים-בירי-מאיראן-לצפון-259655
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-259657
+COUNTER:26
 https://hamal.co.il/main/גשמים-רוחות-ואיום-שיטפונות-בדרום--התחזית-259660
 https://news.walla.co.il/item/3827964
 https://news.walla.co.il/break/3827978
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828494
 https://news.walla.co.il/break/3828496
 https://news.walla.co.il/break/3828498
 https://hamal.co.il/main/מהמשימות-המורכבות-בהיסטוריה-כך-חולץ-הנווט-מאיראן--דיווח-260767
+https://news.walla.co.il/break/3828499
+https://hamal.co.il/main/אחרי-האובך-גשמים-צפויים-בצפון-ובמרכז--התחזית-260771
+https://hamal.co.il/main/אישום-יוגש-נגד-בן-40-מהמרכז-260772
