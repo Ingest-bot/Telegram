@@ -1,11 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/עדכון-חסימות-כבישים-בדרום-בעקבות-מזג-האוויר-259801
-https://hamal.co.il/main/רגע-התקיפה-תיעוד-מקריסת-הגשר-B1-שמחבר-את-טהרן-וכרג׳-259804
-https://news.walla.co.il/break/3828061
-https://news.walla.co.il/break/3828062
-https://news.walla.co.il/break/3828063
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-259806
-https://news.walla.co.il/break/3828065
+COUNTER:27
 https://news.walla.co.il/break/3828066
 https://hamal.co.il/main/מדא-לא-התקבלו-דיווחים-על-זירות-פגיעה-מהמטח-האחרון-לירושלים-259823
 https://hamal.co.il/main/צהל-בניגוד-לפרסומים-על-ירי-מוגבר---אין-מודיעין-בנושא-259820
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3828602
 https://hamal.co.il/main/כץ-משמרות-המהפכה-הרוויחו-260870
 https://hamal.co.il/main/דיווחים-באיראן-חוסל-אחד-המועמדים-לתפקיד-המנהיג-העליון-260871
 https://hamal.co.il/main/המשטרה-על-ניסיון-הדקירה-בתא-הרקע-פלילי-260878
+https://news.walla.co.il/break/3828609
+https://news.walla.co.il/break/3828613
+https://news.walla.co.il/item/3828605
+https://hamal.co.il/main/שרף-את-דגל-המדינה-תושב-בית-לחם-260879
+https://hamal.co.il/main/שרף-את-דגל-המדינה-תושב-בית-לחם-260880
+https://hamal.co.il/main/הירי-בליל-הסדר-השתפר-מצבה-של-הילדה-שנפצעה-באורח-אנוש-260881
+https://hamal.co.il/main/נתניהו-בירך-את-טראמפ-260882
