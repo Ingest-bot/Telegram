@@ -1,8 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/גל-מלכה-נפצעה-בתאונת-דרכים-חשבתי-שיש-לי-נזק-בלתי-הפיך-259723
-https://news.walla.co.il/break/3828026
-https://news.walla.co.il/break/3828025
-https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-והסביבה-בעקבות-חדירת-כטבם-259733
+COUNTER:5
 https://news.walla.co.il/break/3828030
 https://news.walla.co.il/break/3828034
 https://news.walla.co.il/break/3828036
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828573
 https://news.walla.co.il/break/3828575
 https://news.walla.co.il/item/3828576
 https://hamal.co.il/main/אחרי-הודעת-הפינוי-צהל-החל-לתקוף-בביירות-260824
+https://news.walla.co.il/break/3828580
+https://hamal.co.il/main/החל-מהיום-260825
+https://hamal.co.il/main/רסל-גיא-לודר-לוחם-מגלן-שנהרג-בלבנון-מובא-למנוחות--ישיר-260826
+https://hamal.co.il/main/הנהגת-חמאס-נפגשה-עם-ארדואן-דנו-260827
