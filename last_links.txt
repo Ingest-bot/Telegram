@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3828042
-https://hamal.co.il/main/שר-הביטחון-ישראל-כץ-מאיים-על-נעים-קאסם-259763
-https://hamal.co.il/main/בהתקלות-פנים-מול-פנים-לוחמי-סיירת-הנחל-חיסלו-מחבל-חיזבאללה-259766
-https://news.walla.co.il/break/3828049
-https://news.walla.co.il/break/3828047
-https://news.walla.co.il/break/3828053
+COUNTER:13
 https://news.walla.co.il/break/3828055
 https://news.walla.co.il/item/3827620
 https://news.walla.co.il/item/3828051
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3828586
 https://news.walla.co.il/break/3828589
 https://news.walla.co.il/item/3828587
 https://hamal.co.il/main/נהג-משאית-נהרג-בתאונת-דרכים-260836
+https://news.walla.co.il/break/3828591
+https://news.walla.co.il/break/3828594
+https://hamal.co.il/main/ראשוני-גבר-ניסה-לדקור-פקח-עירוני-ושוטר-בתא---ונוטרל-260838
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-260840
+https://hamal.co.il/main/ניסיון-הדקירה-בתא-החשוד---מעורער-בנפשו-260845
+https://hamal.co.il/main/הירי-לדרום-דיווח-על-פגיעה-באזור-תעשייה-בנגב-260848
