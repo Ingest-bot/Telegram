@@ -1,13 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3827952
-https://news.walla.co.il/item/3827953
-https://news.walla.co.il/break/3827956
-https://news.walla.co.il/item/3827954
-https://news.walla.co.il/break/3827957
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-למרכז-259569
-https://news.walla.co.il/break/3827966
-https://news.walla.co.il/break/3827967
-https://news.walla.co.il/break/3827968
+COUNTER:22
 https://news.walla.co.il/break/3827969
 https://news.walla.co.il/break/3827970
 https://hamal.co.il/main/טראמפ-על-איראן-חיל-האוויר-שלהם-הרוס-259619
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3828480
 https://hamal.co.il/main/ילד-בן-3-נחנק-מפריט-שנכרך-סביב-צווארו-בבני-ברק-מצבו-בינוני-260718
 https://hamal.co.il/main/רב-הכותל-פנה-לפיקוד-העורף-בבקשה-להרחיב-את-כניסת-המתפללים-ביר-260719
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-260721
+https://news.walla.co.il/break/3828483
+https://news.walla.co.il/break/3828486
+https://news.walla.co.il/break/3828487
+https://news.walla.co.il/break/3828485
+https://news.walla.co.il/break/3828489
+https://hamal.co.il/main/הירי-מאיראן-לא-ידוע-על-נפגעים-260762
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-260763
+https://hamal.co.il/main/-הירי-לצפון-מספר-שיגורים-יורטו-ואחרים-נפלו-בשטחים-פתוחים-י-260764
+https://hamal.co.il/main/מצרים-מחירי-החשמל-למגורים-ולמסחר-יעלו-בשל-משבר-האנרגיה-רויט-260765
