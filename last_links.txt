@@ -1,7 +1,4 @@
 COUNTER:23
-https://hamal.co.il/main/המטח-לצפון-מאיראן-מדובר-בשיגורים-בודדים---שכולם-יורטו-259636
-https://hamal.co.il/main/הירי-לצפון-לא-התקבלו-דיווחים-259637
-https://news.walla.co.il/break/3827971
 https://news.walla.co.il/break/3827972
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-259644
 https://news.walla.co.il/break/3827973
@@ -499,3 +496,6 @@ https://hamal.co.il/main/כוחות-ארה״ב-חילצו-את-איש-הצוות
 https://news.walla.co.il/break/3828492
 https://news.walla.co.il/break/3828490
 https://news.walla.co.il/item/3828493
+https://news.walla.co.il/break/3828495
+https://news.walla.co.il/break/3828494
+https://news.walla.co.il/break/3828496
