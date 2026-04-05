@@ -1,7 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3827978
-https://news.walla.co.il/break/3827977
-https://news.walla.co.il/break/3827980
+COUNTER:28
 https://hamal.co.il/main/בצהל-לא-פוסלים-אפשרות-להרחיב-את-התמרון-259669
 https://news.walla.co.il/break/3827981
 https://news.walla.co.il/item/3827974
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אחרי-האובך-גשמים-צפויים-בצפון-
 https://hamal.co.il/main/אישום-יוגש-נגד-בן-40-מהמרכז-260772
 https://news.walla.co.il/item/3828503
 https://hamal.co.il/main/תיעוד-מעין-הטיל-260774
+https://news.walla.co.il/break/3828511
+https://news.walla.co.il/item/3828509
+https://hamal.co.il/main/פחדתי-מוות-עומר-מילר-נעצר-מול-ילדיו-בדובאי-260773
