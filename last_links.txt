@@ -1,6 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3827972
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לצפון-הארץ-259644
+COUNTER:24
 https://news.walla.co.il/break/3827973
 https://hamal.co.il/main/אין-נפגעים-בירי-מאיראן-לצפון-259655
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-259657
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3828493
 https://news.walla.co.il/break/3828495
 https://news.walla.co.il/break/3828494
 https://news.walla.co.il/break/3828496
+https://news.walla.co.il/break/3828498
+https://hamal.co.il/main/מהמשימות-המורכבות-בהיסטוריה-כך-חולץ-הנווט-מאיראן--דיווח-260767
