@@ -1,12 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/טראמפ-המלחמה-קרובה-לסיומה-אבל-צפויה-הסלמה-נוספת-259955
-https://hamal.co.il/main/אירוע-אלימות-בטייבה-גבר-כבן-20-במצב-קשה-259956
-https://news.walla.co.il/break/3828121
-https://news.walla.co.il/break/3828124
-https://hamal.co.il/main/השאלה-השכיחה-ביותר-עד-מתי-המלחמה-מול-איראן-259959
-https://news.walla.co.il/break/3828129
-https://news.walla.co.il/item/3828125
-https://hamal.co.il/main/תושב-רהט-בן-27-נורה-היום-חמישי-למוות-בכניסה-לביתו-בעיר-צו-259960
+COUNTER:17
 https://hamal.co.il/main/נער-בן-14-נפצע-קשה-במהלך-רכיבה-על-אופניים-חשמליים-בעראבה-259961
 https://news.walla.co.il/break/3828133
 https://hamal.co.il/main/משרד-הפנים-האמריקני-יציע-לעובדיו-תוכנית-נוספת-לפרישה-מוקדמת-259962
@@ -499,3 +491,11 @@ https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחש�
 https://hamal.co.il/main/תיעוד-מאמצי-הכיבוי-והחילוץ-בזירה-בחיפה-260953
 https://hamal.co.il/main/מנכ״ל-מד״א-״זירה-מורכבת-עם-הרס-רב-ופגיעה-משמעותית״-260965
 https://hamal.co.il/main/פראמדיקית-מדא-על-הזירה-בחיפה-ממשיכים-לסרוק-מדובר-בהרס-רב-260966
+https://news.walla.co.il/break/3828673
+https://news.walla.co.il/break/3828674
+https://news.walla.co.il/break/3828675
+https://news.walla.co.il/item/3828671
+https://news.walla.co.il/item/3828672
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-ורחבי-הגליל-המערבי-260990
+https://hamal.co.il/main/אחת-אחרי-השנייה-אזעקות-ללא-הרף-בנהריה-וסביבתה-261002
+https://hamal.co.il/main/שלוש-אזעקות-בזו-אחר-זו-מרדף-אחרי-כטבמים-בשמי-הגליל-המערבי-261010
