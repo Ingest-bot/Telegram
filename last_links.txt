@@ -1,9 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/גורם-ביטחוני-צה״ל-העמיק-הלילה-את-התמרון-בשטח-לבנון-259687
-https://hamal.co.il/main/המטח-לצפון-מספר-מוקדי-נפילה-בקריית-שמונה-2-פצועים-קל-259688
-https://news.walla.co.il/break/3827987
-https://hamal.co.il/main/תוך-כדי-קרבות-צהל-לקח-מחבלי-חיזבאללה-בשבי-259689
-https://hamal.co.il/main/צה״ל-החל-להרוס-בתים-בכפרים-בלבנון-שנמצאים-בקו-ראשון-לגבול-259690
+COUNTER:33
 https://hamal.co.il/main/הפזמונאית-צרויה-להב-הלכה-לעולמה-בגיל-74-259693
 https://news.walla.co.il/break/3827990
 https://hamal.co.il/main/כביש-40-וכביש-234-נסגרו-לתנועה-בשל-מזג-האוויר-259695
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צפו-כך-נראה-שיתוף-הפעולה-בין-ח�
 https://news.walla.co.il/item/3828533
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-260776
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-260783
+https://news.walla.co.il/break/3828537
+https://news.walla.co.il/item/3828531
+https://news.walla.co.il/item/3828535
+https://hamal.co.il/main/הירי-מאיראן-לצפון-הטיל-יורט-ניתן-לצאת-מהמרחב-המוגן-260799
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-ידוע-על-נפגעים-260800
