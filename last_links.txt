@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3828075
-https://hamal.co.il/main/צהל-חיסל-את-מפקד-מפקדת-הנפט-של-משטר-הטרור-האיראני-259833
+COUNTER:30
 https://hamal.co.il/main/דיווח-איראן-תקפה-מטוסי-קרב-אמריקנים-בירדן-259834
 https://hamal.co.il/main/משמרות-המהפכה-259843
 https://hamal.co.il/main/בעקבות-תקיפת-הגשר-הפסקת-חשמל-באזור-המקשר-באיראן-259845
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828621
 https://news.walla.co.il/item/3828615
 https://hamal.co.il/main/צהל-חיסלנו-את-260883
 https://hamal.co.il/main/לקראת-הכרעה-ההתלבטות-260834
+https://news.walla.co.il/break/3828624
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-260890
