@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/דיווח-איראן-תקפה-מטוסי-קרב-אמריקנים-בירדן-259834
-https://hamal.co.il/main/משמרות-המהפכה-259843
-https://hamal.co.il/main/בעקבות-תקיפת-הגשר-הפסקת-חשמל-באזור-המקשר-באיראן-259845
-https://news.walla.co.il/break/3828077
-https://news.walla.co.il/item/3828078
+COUNTER:33
 https://news.walla.co.il/item/3828081
 https://hamal.co.il/main/דיווח-על-נפילה-בפתח-תקווה-259909
 https://hamal.co.il/main/בהמשך-לירי-לעבר-מדינת-ישראל-בשלב-זה-לא-דווח-על-נפגעים-259912
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-חיסלנו-את-260883
 https://hamal.co.il/main/לקראת-הכרעה-ההתלבטות-260834
 https://news.walla.co.il/break/3828624
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-260890
+https://news.walla.co.il/item/3828632
+https://news.walla.co.il/item/3828622
+https://hamal.co.il/main/דניאל-פרץ-אחרי-ההצגה-מול-ארסנל-כיף-שזה-קורה-בפסח-260808
+https://hamal.co.il/main/איראן-מציגה-את-מבצע-חילוץ-הטייס-כניצחון-האמריקנים-נכשלו-בז-260892
+https://hamal.co.il/main/הירי-לעבר-צפון-הארץ-פונו-6-נפגעים-במצב-קל-עם-פגיעות-הדף-260893
