@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-259750
-https://hamal.co.il/main/גלולה-במקום-זריקה-האם-אורפורגליפרון-תשנה-את-הטיפול-בהשמנה-259756
-https://hamal.co.il/main/צהל-תקף-את-גשר-B1-המחבר-את-טהראן-לכרג-259760
-https://news.walla.co.il/break/3828040
+COUNTER:9
 https://news.walla.co.il/break/3828042
 https://hamal.co.il/main/שר-הביטחון-ישראל-כץ-מאיים-על-נעים-קאסם-259763
 https://hamal.co.il/main/בהתקלות-פנים-מול-פנים-לוחמי-סיירת-הנחל-חיסלו-מחבל-חיזבאללה-259766
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3828584
 https://hamal.co.il/main/תכין-300-אלף-נער-260828
 https://hamal.co.il/main/צהל-חושף-כ-165-שיגורים-260829
 https://hamal.co.il/main/להיות-עם-חופשי---מאיתנו-260830
+https://news.walla.co.il/break/3828586
+https://news.walla.co.il/break/3828589
+https://news.walla.co.il/item/3828587
+https://hamal.co.il/main/נהג-משאית-נהרג-בתאונת-דרכים-260836
