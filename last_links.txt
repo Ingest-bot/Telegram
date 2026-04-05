@@ -1,8 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3828084
-https://news.walla.co.il/break/3828089
-https://news.walla.co.il/item/3828086
-https://news.walla.co.il/item/3828092
+COUNTER:2
 https://hamal.co.il/main/המטח-מאיראן-מספר-זירות-של-שברי-ירוט-אותרו-בראשון-לציון-259934
 https://hamal.co.il/main/כתוצאה-משברי-ירוט-שריפה-פרצה-ברפת-בבקעת-הירדן-259935
 https://hamal.co.il/main/תיעוד-מדויק-רגע-הפגיעה-בפתח-תקווה-259939
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828653
 https://news.walla.co.il/item/3828654
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-260901
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-260907
+https://news.walla.co.il/break/3828657
+https://hamal.co.il/main/ניסו-להימלט---ונתפסו-בתום-מרדף-מותח-25-שב״חים-נעצרו-בדרום-260910
+https://hamal.co.il/main/גבר-כבן-50-במצב-קשה-עם-חבלה-רב-מערכתית-ואת-נהגת-הרכב-במצב-ק-260914
+https://hamal.co.il/main/אוגדה-91-מרחיבה-את-הפעילות-הקרקעית-הממוקדת-בדרום-לבנון-לוחמ-260915
