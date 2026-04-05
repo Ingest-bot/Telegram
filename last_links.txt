@@ -1,8 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3828014
-https://hamal.co.il/main/מהאוויר-מהים-ומהיבשה-צהל-חיסל-יותר-מ-40-מחבלים-ותקף-עשרות-259718
-https://news.walla.co.il/break/3828021
-https://hamal.co.il/main/כביש-234---גשר-צאלים-נפתח-לתנועת-רכבים-259720
+COUNTER:2
 https://hamal.co.il/main/גל-מלכה-נפצעה-בתאונת-דרכים-חשבתי-שיש-לי-נזק-בלתי-הפיך-259723
 https://news.walla.co.il/break/3828026
 https://news.walla.co.il/break/3828025
@@ -499,3 +495,7 @@ https://hamal.co.il/main/במתכונת-מצומצמת-צפו-ב-260810
 https://hamal.co.il/main/הירי-בליל-הסדר-השתפר-מצבה-של-הילדה-שנפצעה-באורח-אנוש-260813
 https://news.walla.co.il/item/3828571
 https://hamal.co.il/main/הירי-בליל-הסדר-השתפר-מצבה-של-הילדה-שנפצעה-באורח-אנוש-260819
+https://news.walla.co.il/break/3828573
+https://news.walla.co.il/break/3828575
+https://news.walla.co.il/item/3828576
+https://hamal.co.il/main/אחרי-הודעת-הפינוי-צהל-החל-לתקוף-בביירות-260824
