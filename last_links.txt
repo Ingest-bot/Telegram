@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3828151
-https://news.walla.co.il/break/3828152
-https://news.walla.co.il/break/3828154
+COUNTER:27
 https://news.walla.co.il/item/3828142
 https://hamal.co.il/main/כמחווה-הומניטרית-קובה-החליטה-להעניק-חנינה-ל-2010-אסירים-259995
 https://hamal.co.il/main/גבר-בן-22-במצב-קשה-בהכרה-עם-פציעות-חודרות-דניאל-חובש-מתנד-259996
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828683
 https://hamal.co.il/main/צהל-תקף-בביירות-מפקדות-ותחנות-דלק-ששימשו-את-חיזבאללה-צה-261015
 https://hamal.co.il/main/חשש-ל-4-לכודים-בבניין-בן-ה-7-קומות-שספג-פגיעה-ישירה-בחיפה-261019
 https://hamal.co.il/main/עדכון-לאירוע-בשומרת-אין-שריפה-במקום-ללא-נפגעים-כבאות-והצ-261020
+https://news.walla.co.il/item/3828687
+https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-בצפון-הארץ-261021
+https://hamal.co.il/main/שרה-נתניהו-לפוקס-ניוז-אנחנו-נמצאים-במלחמה-קיומית-261017
