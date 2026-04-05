@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3828055
-https://news.walla.co.il/item/3827620
-https://news.walla.co.il/item/3828051
-https://hamal.co.il/main/טראמפ-חושף-התכוונתי-למלחמה-בת-3-ימים-בלבד-259767
+COUNTER:16
 https://hamal.co.il/main/התקיפה-ליד-שדה-התעופה-משהד-באיראן-259779
 https://news.walla.co.il/break/3828056
 https://news.walla.co.il/break/3828057
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ראשוני-גבר-ניסה-לדקור-פקח-עירו
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-260840
 https://hamal.co.il/main/ניסיון-הדקירה-בתא-החשוד---מעורער-בנפשו-260845
 https://hamal.co.il/main/הירי-לדרום-דיווח-על-פגיעה-באזור-תעשייה-בנגב-260848
+https://news.walla.co.il/item/3828597
+https://hamal.co.il/main/דיווח-ישראל-הפעילה-יחידות-מיוחדות-במהלך-מבצע-החילוץ-באיראן-260849
+https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-לעבר-דרום-הארץ-260853
+https://hamal.co.il/main/בפעם-ה-3-אזור-התעשייה-נאות-חובב-נפגע--תיעוד-260860
