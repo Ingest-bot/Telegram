@@ -1,9 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/item/3827991
-https://hamal.co.il/main/מטח-נוסף-לצפון-כ-15-רקטות-נורו-לעבר-מטולה-וחצור-הגלילת-259702
-https://news.walla.co.il/break/3827998
-https://news.walla.co.il/break/3828000
-https://news.walla.co.il/break/3827997
+COUNTER:36
 https://hamal.co.il/main/צפו-בהרס-בסניף-מקדונלדס-באצבע-הגלילמקדונלדס-259706
 https://hamal.co.il/main/צהל-השלים-אתמול-גל-תקיפות-נרחב-לעבר-תשתיות-של-משטר-האיראני-259709
 https://news.walla.co.il/break/3828009
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828542
 https://news.walla.co.il/break/3828544
 https://hamal.co.il/main/שבח-התחזה-לאיש-מוסד-וטייס-קרב-260796
 https://hamal.co.il/main/אירוע-חומרים-מסוכנים-בנתבג-חבילה-חשודה-260801
+https://news.walla.co.il/break/3828554
+https://news.walla.co.il/break/3828555
+https://news.walla.co.il/break/3828556
+https://news.walla.co.il/break/3828557
+https://hamal.co.il/main/חוליות-של-חיזבאללה-זוהו---והושמדו-מעל-90-מחבלים-חוסלו-עד-כה-260803
