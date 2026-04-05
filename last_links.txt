@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/דיווח-ראשוני-על-פגיעה-ישירה-בקריית-שמונה-259682
-https://news.walla.co.il/item/3827347
-https://news.walla.co.il/item/3827986
+COUNTER:31
 https://hamal.co.il/main/גורם-ביטחוני-צה״ל-העמיק-הלילה-את-התמרון-בשטח-לבנון-259687
 https://hamal.co.il/main/המטח-לצפון-מספר-מוקדי-נפילה-בקריית-שמונה-2-פצועים-קל-259688
 https://news.walla.co.il/break/3827987
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828512
 https://news.walla.co.il/break/3828513
 https://news.walla.co.il/break/3828514
 https://hamal.co.il/main/צפו-כך-נראה-שיתוף-הפעולה-בין-חיל-האוויר-260780
+https://news.walla.co.il/item/3828533
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-260776
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-260783
