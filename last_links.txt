@@ -1,5 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3828012
+COUNTER:0
 https://hamal.co.il/main/המשטר-במצוקה-איראן-מגייסת-ילדים-לתפקידי-לחימה-259716
 https://news.walla.co.il/break/3828018
 https://news.walla.co.il/item/3828014
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828559
 https://hamal.co.il/main/דניאל-פרץ-אחרי-ההצגה-מול-ארסנל-כיף-שזה-קורה-בפסח-260807
 https://hamal.co.il/main/בת-18-260809
 https://hamal.co.il/main/במתכונת-מצומצמת-צפו-ב-260810
+https://hamal.co.il/main/הירי-בליל-הסדר-השתפר-מצבה-של-הילדה-שנפצעה-באורח-אנוש-260813
