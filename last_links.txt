@@ -1,11 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3828142
-https://hamal.co.il/main/כמחווה-הומניטרית-קובה-החליטה-להעניק-חנינה-ל-2010-אסירים-259995
-https://hamal.co.il/main/גבר-בן-22-במצב-קשה-בהכרה-עם-פציעות-חודרות-דניאל-חובש-מתנד-259996
-https://hamal.co.il/main/דיווח-טראמפ-שוקל-לפטר-בכירים-בממשל-בהם-ראש-ה-FBI-מערכת-ו-259997
-https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-260000
-https://news.walla.co.il/break/3828156
-https://news.walla.co.il/break/3828155
+COUNTER:30
 https://hamal.co.il/main/אחרי-מעל-לחודש-בתי-הקולנוע-חוזרים-לפעילות-מערכת-וואלה-חדש-260008
 https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-260010
 https://hamal.co.il/main/אזעקות-בקריית-שמונה-מטולה-והסביבה-260014
@@ -499,3 +492,10 @@ https://hamal.co.il/main/עדכון-לאירוע-בשומרת-אין-שריפה-
 https://news.walla.co.il/item/3828687
 https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-בצפון-הארץ-261021
 https://hamal.co.il/main/שרה-נתניהו-לפוקס-ניוז-אנחנו-נמצאים-במלחמה-קיומית-261017
+https://news.walla.co.il/break/3828689
+https://news.walla.co.il/break/3828690
+https://news.walla.co.il/break/3828691
+https://news.walla.co.il/break/3828692
+https://hamal.co.il/main/חשד-לרצח-נקבע-מותו-של-גבר-בן-36-שנפצע-באירוע-אלימות-באופקים-261023
+https://hamal.co.il/main/מפכל-המשטרה-בזירת-פגיעת-הטיל-בחיפה-הערכה---שלא-התפוצץ-261025
+https://hamal.co.il/main/ראש-עיריית-ר״ג-על-החזרה-ללימודים-״אין-שום-החלטה״-261026
