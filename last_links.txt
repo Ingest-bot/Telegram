@@ -1,5 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3828173
+COUNTER:3
 https://hamal.co.il/main/ירי-בלתי-פוסק-לעבר-הצפון-260054
 https://news.walla.co.il/break/3828177
 https://hamal.co.il/main/תושב-קלנווסה-ביצע-משימות-עבור-גורם-עוין-בתיווך-ערוץ-אלג׳זירה-260059
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מפגש-פסגה-חנן-בן-ארי-ופאר-טסי-מ
 https://hamal.co.il/main/כוכבת-האח-הגדול-מודה-אני-מתחילה-לחשוב-על-רילוקיישן-ספיר-ס-261040
 https://news.walla.co.il/break/3828709
 https://hamal.co.il/main/ירי-סמוך-לבית-הלבן-אין-נפגעים-מצוד-אחר-חשוד-261042
+https://hamal.co.il/main/משמרות-המהפכה-261043
