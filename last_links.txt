@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3828103
-https://hamal.co.il/main/עומר-אדם-וסשה-ישראלוביץ-מאורסים-259951
-https://news.walla.co.il/break/3828111
-https://hamal.co.il/main/דניאל-פרץ-בריאיון-נרחב-מהיום-הראשון-פשוט-הייתי-מי-שאני-259954
-https://news.walla.co.il/break/3828114
+COUNTER:10
 https://news.walla.co.il/break/3828115
 https://news.walla.co.il/break/3828116
 https://news.walla.co.il/break/3828117
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יי�
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-חיפה-והסביבה-260925
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-הנגב-באר-שבע-והסביבה-260933
 https://hamal.co.il/main/חשד-לנפילה-באזור-חיפה-צוותים-בדרכם-לסריקות-260935
+https://news.walla.co.il/break/3828663
+https://hamal.co.il/main/הייר-מאיראן-תיעוד-ההרס-בחיפה-260937
+https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-260938
+https://hamal.co.il/main/הפגיעה-במבנה-בחיפה-פצוע-קשה-חולץ-260939
+https://hamal.co.il/main/אירוע-פגיעה-ישירה-במבנה-בעיר-חיפה-חשש-ללכודים-לוחמי-האש-מ-260940
