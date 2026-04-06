@@ -1,8 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/פשע-בחדרה-בקתב-הושלך-לעבר-בית-אין-נפגעים-260468
-https://hamal.co.il/main/דיווחים-איראניים-תקיפות-במפעל-הנפט-במאהשהר-260469
-https://news.walla.co.il/break/3828354
-https://news.walla.co.il/break/3828355
+COUNTER:15
 https://hamal.co.il/main/העשירים-מצאו-מקלט-מפנק-בדובאי-עכשיו-מתפוצצים-עליהם-כטבמים-260478
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-260480
 https://news.walla.co.il/item/3828358
@@ -499,3 +495,7 @@ https://hamal.co.il/main/באוצר-רוצים-חופשה-כפויה-מהלימ�
 https://news.walla.co.il/item/3828895
 https://hamal.co.il/main/משרד-הבריאות-מעדכן-על-חולה-חצבת-שהציבור-בא-איתו-במגע-261426
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-261428
+https://news.walla.co.il/item/3828897
+https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרה-ללא-שינוי-261430
+https://hamal.co.il/main/טראמפ-״איראן-יכולה-להימחק-בלילה-אחד-261431
+https://hamal.co.il/main/יוצרי-עספור-סופדים-למורה-לנה-אוסטרובסקי-שנרצחה-בחיפה-261434
