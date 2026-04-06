@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3828350
-https://news.walla.co.il/break/3828351
-https://news.walla.co.il/item/3828349
+COUNTER:12
 https://hamal.co.il/main/פשע-בחדרה-בקתב-הושלך-לעבר-בית-אין-נפגעים-260468
 https://hamal.co.il/main/דיווחים-איראניים-תקיפות-במפעל-הנפט-במאהשהר-260469
 https://news.walla.co.il/break/3828354
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3828892
 https://hamal.co.il/main/תיעודים-נוספים-מתקיפת-מסוקים-בשדות-תעופה-בטהרן-261416
 https://hamal.co.il/main/אנשי-החינוך-מכריזים-261417
 https://hamal.co.il/main/באוצר-רוצים-חופשה-כפויה-מהלימודים-על-חשבון-הקיץ-261421
+https://news.walla.co.il/item/3828895
+https://hamal.co.il/main/משרד-הבריאות-מעדכן-על-חולה-חצבת-שהציבור-בא-איתו-במגע-261426
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-261428
