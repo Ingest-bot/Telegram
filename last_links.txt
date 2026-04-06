@@ -1,10 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/תוך-דקות-צהל-תקף-משגר-ממנו-בוצעו-השיגורים-לצפון-הארץ-260357
-https://news.walla.co.il/break/3828298
-https://news.walla.co.il/break/3828299
-https://news.walla.co.il/break/3828301
-https://news.walla.co.il/break/3828304
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאזור-הנגב-260363
+COUNTER:28
 https://news.walla.co.il/break/3828312
 https://news.walla.co.il/break/3828314
 https://news.walla.co.il/break/3828315
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3828847
 https://hamal.co.il/main/דיווחים-על-תקיפה-בשדה-התעופה-של-דובאי-261284
 https://hamal.co.il/main/אישה-נפלה-מגובה-בדרכה-להתמגן-בכביש-20-מצבה-בינוני-261285
 https://hamal.co.il/main/אזעקות-הופעלו-באילת-עקב-חדירת-כטב״ם-261288
+https://news.walla.co.il/break/3828851
+https://news.walla.co.il/break/3828853
+https://news.walla.co.il/item/3828850
+https://hamal.co.il/main/אימו-של-עומר-אדם-מגיבה-לאירוסים-יצאתי-לקנות-שמלה-261225
+https://hamal.co.il/main/יוון-רכשה-מערכת-ארטילריה-מתוצרת-אלביט-ב-23-מיליארד-שקל-261290
+https://hamal.co.il/main/תיעוד-מיוחד-כוחות-חטיבת-גולני-השמידו-יותר-מ-300-תשתיות-טרור-261291
