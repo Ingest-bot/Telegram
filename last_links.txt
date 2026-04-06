@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3828202
-https://hamal.co.il/main/אל-תצאו-מהבית-260094
-https://hamal.co.il/main/גבר-כבן-70-טבע-למוות-בחוף-הילטון-בתל-אביב-260095
+COUNTER:19
 https://news.walla.co.il/item/3828201
 https://hamal.co.il/main/מדוע-נקרא-החג-על-שם-המצה-260097
 https://news.walla.co.il/break/3828205
@@ -499,3 +496,6 @@ https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפ�
 https://hamal.co.il/main/מדא-על-הירי-לצפון-4-פצועים-קל-בזירת-נפילה-בחיפה-261140
 https://hamal.co.il/main/מדא-על-הירי-למרכז-צוותים-יצאו-לסרוק-זירות-261141
 https://hamal.co.il/main/דיווח-ראשוני-על-פצוע-קשה-בזירת-נפילה-בגוש-דן-261143
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-261145
+https://hamal.co.il/main/דיווח-על-15-זירות-במרכז-אישה-נפצעה-קשה-בפתח-תקווה-261147
+https://hamal.co.il/main/דיווח-על-פצוע-בינוני-בזירת-נפילה-בתל-אביב-261149
