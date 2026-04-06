@@ -1,5 +1,4 @@
 COUNTER:22
-https://news.walla.co.il/item/3828359
 https://hamal.co.il/main/במערכת-החינוך-נערכים-לחזרה-חלקית-לבתי-הספר-אחרי-פסח-260504
 https://hamal.co.il/main/יונייטד-איירליינס-לא-תחדש-את-טיסותיה-עד-ספטמבר-260508
 https://hamal.co.il/main/משמרות-המהפכה-תקפנו-ספינה-שקשורה-לישראל-במצר-הורמוז-260511
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828934
 https://hamal.co.il/main/הפיקוד-העליון-של-איראן-איומי-טראמפ-הזויים-ולא-יחפו-על-ההשפל-261447
 https://news.walla.co.il/item/3828937
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-261452
+https://news.walla.co.il/break/3828939
