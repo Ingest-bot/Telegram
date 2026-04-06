@@ -1,8 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3828256
-https://news.walla.co.il/break/3828257
-https://news.walla.co.il/break/3828258
-https://news.walla.co.il/break/3828259
+COUNTER:13
 https://hamal.co.il/main/מנכל-פעילות-בתי-הקפה-של-פקטורי-54-נטע-קסטין-נמצא-מת-בביתו-260251
 https://hamal.co.il/main/דיווח-המגעים-להפסקת-אש-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-260314
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-הארץ-260316
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שני-לכודים-261226
 https://hamal.co.il/main/צילם-בשטח-ישראל---וקיבל-קריפטו-צעיר-חשוד-בריגול-עבור-איראן-261227
 https://news.walla.co.il/item/3828813
 https://hamal.co.il/main/צה״ל-חיסל-את-אחראי-הארטילריה-261228
+https://news.walla.co.il/break/3828817
+https://news.walla.co.il/item/3828818
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-261236
+https://hamal.co.il/main/סיבת-המוות-נחשפה-נטע-קסטין-נפטר-ממפרצת-מוחית-מולדת-261184
