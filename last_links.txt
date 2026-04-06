@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3828312
-https://news.walla.co.il/break/3828314
 https://news.walla.co.il/break/3828315
 https://news.walla.co.il/break/3828317
 https://news.walla.co.il/break/3828318
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3828850
 https://hamal.co.il/main/אימו-של-עומר-אדם-מגיבה-לאירוסים-יצאתי-לקנות-שמלה-261225
 https://hamal.co.il/main/יוון-רכשה-מערכת-ארטילריה-מתוצרת-אלביט-ב-23-מיליארד-שקל-261290
 https://hamal.co.il/main/תיעוד-מיוחד-כוחות-חטיבת-גולני-השמידו-יותר-מ-300-תשתיות-טרור-261291
+https://news.walla.co.il/break/3828856
+https://news.walla.co.il/item/3828857
