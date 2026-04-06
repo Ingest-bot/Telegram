@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260311
-https://news.walla.co.il/break/3828255
+COUNTER:11
 https://news.walla.co.il/break/3828256
 https://news.walla.co.il/break/3828257
 https://news.walla.co.il/break/3828258
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828806
 https://news.walla.co.il/break/3828805
 https://hamal.co.il/main/שני-לכודים-261226
 https://hamal.co.il/main/צילם-בשטח-ישראל---וקיבל-קריפטו-צעיר-חשוד-בריגול-עבור-איראן-261227
+https://news.walla.co.il/item/3828813
+https://hamal.co.il/main/צה״ל-חיסל-את-אחראי-הארטילריה-261228
