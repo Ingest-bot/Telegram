@@ -1,9 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3828232
-https://news.walla.co.il/break/3828233
-https://hamal.co.il/main/כך-פועלת-מכונת-החילוץ-המשומנת-של-חיל-האוויר-האמריקני-260186
-https://news.walla.co.il/break/3828235
-https://news.walla.co.il/break/3828237
+COUNTER:1
 https://news.walla.co.il/item/3828234
 https://hamal.co.il/main/גבר-בן-22-נפצע-אנוש-באירוע-אלימות-260187
 https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-טרור-בביירות-260188
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-בטהרן-13-הרוגים-ו-20-פצועי�
 https://news.walla.co.il/item/3828775
 https://hamal.co.il/main/3-ישראליות-נעצרו-בפשיטה-על-גני-ילדים-בתאילנד-ייענשו-בחומרה-261177
 https://hamal.co.il/main/חוסלו-המחבלים-שאחראים-למותם-של-ארבעת-החללים-שנפלו-בלבנון-261200
+https://news.walla.co.il/break/3828785
+https://hamal.co.il/main/איראן-מאשרת-ראש-המודיעין-במשמרות-המהפכה-חוסל-261204
+https://hamal.co.il/main/״טהרן-לא-תסכים-לפתוח-את-מיצר-הורמוז-תמורת-הפסקת-אש-זמנית״-261201
+https://hamal.co.il/main/חשד-לפרשה-ביטחונית-חמורה-ישראלים-סיפקו-שירותים-לגורמים-באירן-261207
+https://hamal.co.il/main/העיירה-אנצאריה-בדרום-לבנון-לאחר-התקיפות-261213
