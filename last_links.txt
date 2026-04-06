@@ -1,11 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/דובר-צהל-צהל-לא-יוותר-על-היעד-של-פירוק-חיזבאללה-מנשקו-260204
-https://hamal.co.il/main/גורם-ישראלי-אחד-מאנשי-הצוות-האמריקני-חולץ-260253
-https://news.walla.co.il/break/3828242
-https://news.walla.co.il/break/3828243
-https://news.walla.co.il/break/3828244
-https://news.walla.co.il/break/3828245
-https://news.walla.co.il/break/3828246
+COUNTER:7
 https://finance.walla.co.il/item/3828234
 https://hamal.co.il/main/הפלת-המטוס-האמריקני-באיראן-הנשיא-טראמפ-עודכן-260254
 https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-הארץ-260256
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3828785
 https://hamal.co.il/main/הרגשתם-את-זה-רעידת-אדמה-בעוצמה-45-התרחשה-261215
 https://hamal.co.il/main/השר-כ״ץ-״מנהיגי-איראן-חיים-בתחושת-נרדפות-נמשיך-לצוד-אותם״-261214
 https://hamal.co.il/main/איראן-תקפנו-בסיס-אמריקאי-באי-בוביאן-בכווית-261216
+https://news.walla.co.il/break/3828794
+https://news.walla.co.il/break/3828797
+https://news.walla.co.il/break/3828798
+https://news.walla.co.il/item/3828796
+https://hamal.co.il/main/האצה-בייצור-מיירטי-החץ-הממשלה-אישרה-הרחבה-משמעותית-261210
+https://hamal.co.il/main/צה״ל-מאשר-חוסל-בטהרן-יו״ר-ארגון-המודיעין-של-משמרות-המהפכה-261220
+https://hamal.co.il/main/בלבנון-מדווחים-על-תקיפות-בדאחיה-כעת-261221
