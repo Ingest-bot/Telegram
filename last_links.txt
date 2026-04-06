@@ -1,7 +1,4 @@
 COUNTER:19
-https://news.walla.co.il/break/3828373
-https://news.walla.co.il/break/3828370
-https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-באיראן-260499
 https://hamal.co.il/main/קרה-לי-נס-בן-ה-84-שביתו-נפגע-ברמת-גן-מדבר-260500
 https://news.walla.co.il/item/3828375
 https://hamal.co.il/main/בשל-טעות-אנוש-מסוק-קרב-הטיל-הלילה-חימוש-בצפון-אין-נפגעים-260501
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828913
 https://news.walla.co.il/break/3828914
 https://news.walla.co.il/item/3828916
 https://hamal.co.il/main/טראמפ-חושף-את-המבצע-לחילוץ-הטייסים-שהתרסקו-באיראן-261443
+https://news.walla.co.il/break/3828923
+https://news.walla.co.il/break/3828920
+https://news.walla.co.il/break/3828921
