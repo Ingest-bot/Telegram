@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3828311
-https://news.walla.co.il/item/3828313
-https://hamal.co.il/main/עיריית-ראש-עין-לתושבים-הצפי-להחזרת-החשמל-500-בבוקר-260414
-https://hamal.co.il/main/הושגה-שליטה-על-השריפה-במפעל-בנאות-חובב-260416
+COUNTER:33
 https://hamal.co.il/main/ראשוני-צהל-החל-לתקוף-בביירות-260418
 https://hamal.co.il/main/ראש-עיריית-ראש-העין-רז-שגיא-בזרית-הפגיעה-בעיר-260421
 https://news.walla.co.il/break/3828320
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828858
 https://hamal.co.il/main/המטח-למרכז-זירות-נפילה-בבננ-261346
 https://hamal.co.il/main/חג-בצל-מלחמה-ביג-פאשן-אשדוד-בהישמע-האזעקה-261349
 https://hamal.co.il/main/דיווח-על-שריפה-בדירה-בתל-אביב-לא-ברור-אם-קשור-לירי-מאיראן-261352
+https://news.walla.co.il/break/3828864
+https://news.walla.co.il/break/3828863
+https://hamal.co.il/main/צוותי-מדא-יצאו-לסרוק-זירות-בהן-התקבלו-דיווחים-261355
+https://hamal.co.il/main/בכיר-בבית-הלבן-בוחנים-הצעה-להפסקת-אש-של-45-יום-261357
