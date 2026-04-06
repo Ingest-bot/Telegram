@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3828358
-https://hamal.co.il/main/הירי-למרכז-חשד-לנפילות-בפתח-תקווה-תא-רמת-גן-ובני-ברק-260491
-https://hamal.co.il/main/הירי-למרכז-פגיעה-ישירה-בבניין-בבני-ברק-ובמבנה-ברמת-גן-260493
-https://hamal.co.il/main/6-זירות-נפילה-בעקבות-טיל-המצרר-מאיראן-אין-נפגעים-260495
-https://news.walla.co.il/break/3828364
+COUNTER:18
 https://news.walla.co.il/break/3828365
 https://news.walla.co.il/break/3828366
 https://news.walla.co.il/break/3828368
@@ -499,3 +494,8 @@ https://hamal.co.il/main/טראמפ-״איראן-יכולה-להימחק-בלי�
 https://hamal.co.il/main/יוצרי-עספור-סופדים-למורה-לנה-אוסטרובסקי-שנרצחה-בחיפה-261434
 https://finance.walla.co.il/item/3828905
 https://hamal.co.il/main/דובר-צהל-ביצענו-2-סיכולים-משמעותיים-בטהרן-261438
+https://news.walla.co.il/break/3828910
+https://news.walla.co.il/item/3828904
+https://news.walla.co.il/item/3828909
+https://hamal.co.il/main/טראמפ-״יש-לאיראנים-עד-מחר-ב-8-בערב-שעון-החוף-המזרחי-261439
+https://hamal.co.il/main/לאה-יוכבד-זינגר-תושבת-ירושלים-נהרגה-בתאונת-דרכים-בבולגריה-261441
