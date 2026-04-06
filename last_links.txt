@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3828379
-https://news.walla.co.il/break/3828380
+COUNTER:21
 https://news.walla.co.il/break/3828381
 https://news.walla.co.il/break/3828378
 https://news.walla.co.il/item/3828359
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הקו-התת-קרקעי-של-הרכבת-הקלה-יש�
 https://news.walla.co.il/break/3828926
 https://news.walla.co.il/break/3828931
 https://news.walla.co.il/break/3828933
+https://news.walla.co.il/break/3828934
+https://hamal.co.il/main/הפיקוד-העליון-של-איראן-איומי-טראמפ-הזויים-ולא-יחפו-על-ההשפל-261447
