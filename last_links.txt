@@ -1,7 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/פרשת-חול-המועד-פסח--זמני-השבת-260111
-https://news.walla.co.il/break/3828210
-https://news.walla.co.il/break/3828212
+COUNTER:24
 https://news.walla.co.il/break/3828211
 https://hamal.co.il/main/מתווה-חדש-מסתמן-בנתב״ג-מספר-הנוסעים-בטיסות-היוצאות-יעלה-260116
 https://hamal.co.il/main/צה״ל-מזהיר-את-תושבי-לבנון-״מתכוונים-לתקוף-גשר-260117
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828732
 https://hamal.co.il/main/האישה-שנפצעה-קשה---אותרה-ברכב-עם-חלונות-מנופצים-261155
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-261157
 https://hamal.co.il/main/מעונן-חלקית-עם-טמפרטורות-נמוכות-מהרגיל--התחזית-261158
+https://news.walla.co.il/item/3828726
+https://news.walla.co.il/item/3828734
+https://hamal.co.il/main/אזעקות-הופעלו-בנגב-ובים-המלח-261170
