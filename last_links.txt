@@ -1,11 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/תושבי-קריית-שמונה-רקטה-נפלה-מבלי-שהופעלה-אזעקה-אין-נפגעים-260454
-https://news.walla.co.il/break/3828335
-https://news.walla.co.il/break/3828336
-https://news.walla.co.il/break/3828337
-https://news.walla.co.il/break/3828339
-https://hamal.co.il/main/ההערכה-בארהב-איראן-משקמת-במהירות-את-מערכי-הטילים-שנפגעו-260457
-https://news.walla.co.il/break/3828341
+COUNTER:7
 https://news.walla.co.il/break/3828340
 https://hamal.co.il/main/החקלאים-דורשים-הגנה-שברי-טילים-ויירוטים-גורמים-לנזקים-260461
 https://hamal.co.il/main/ללא-התרעה-מוקדמת-תיעוד-רגעי-הנפילה-בקרית-שמונה-260466
@@ -499,3 +492,10 @@ https://hamal.co.il/main/שתי-נפילות-במטולה-נזק-קל-לרכוש
 https://news.walla.co.il/break/3828884
 https://news.walla.co.il/break/3828885
 https://news.walla.co.il/break/3828882
+https://news.walla.co.il/break/3828886
+https://news.walla.co.il/break/3828887
+https://news.walla.co.il/break/3828888
+https://news.walla.co.il/item/3828889
+https://hamal.co.il/main/אלו-ההרוגים-בנפילת-הטיל-בחיפה-261409
+https://hamal.co.il/main/הסתיים-הליך-הזיהוי-של-4-הקורבנות-מפגיעת-טיל-בחיפה-261410
+https://hamal.co.il/main/אנשים-אהובים-עם-לב-זהב-עיריית-חיפה-נפרדת-261414
