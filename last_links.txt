@@ -1,10 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/פצוע-קשה-בתאונת-אופנוע-בראשון-לציון-260098
-https://hamal.co.il/main/איזנקוט-ובנט-מטפסים-נתניהו-יורד--סקר-מעריב-260102
-https://news.walla.co.il/item/3828208
-https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-וסביבתה-260108
-https://hamal.co.il/main/דיווח-באיראן-2-260109
-https://news.walla.co.il/break/3828209
+COUNTER:23
 https://hamal.co.il/main/פרשת-חול-המועד-פסח--זמני-השבת-260111
 https://news.walla.co.il/break/3828210
 https://news.walla.co.il/break/3828212
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דיווח-על-פצוע-בינוני-בזירת-נפי
 https://news.walla.co.il/break/3828727
 https://news.walla.co.il/break/3828729
 https://hamal.co.il/main/בילינסון-פצועה-במצב-בינוני-קשה-הגיעה-לבית-החולים-261151
+https://news.walla.co.il/break/3828730
+https://news.walla.co.il/break/3828731
+https://news.walla.co.il/break/3828732
+https://hamal.co.il/main/האישה-שנפצעה-קשה---אותרה-ברכב-עם-חלונות-מנופצים-261155
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-261157
+https://hamal.co.il/main/מעונן-חלקית-עם-טמפרטורות-נמוכות-מהרגיל--התחזית-261158
