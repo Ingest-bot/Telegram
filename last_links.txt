@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/מנכל-פעילות-בתי-הקפה-של-פקטורי-54-נטע-קסטין-נמצא-מת-בביתו-260251
-https://hamal.co.il/main/דיווח-המגעים-להפסקת-אש-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-260314
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-הארץ-260316
-https://hamal.co.il/main/גבר-בם-30-נפצע-קשה-בתאונת-דרכים-בירושלים-260318
-https://hamal.co.il/main/דיווח-מטוס-קרב-אמריקני-נוסף-התרסק-היום-במפרץ-הטייס-חולץ-260319
+COUNTER:14
 https://news.walla.co.il/break/3828270
 https://news.walla.co.il/break/3828271
 https://news.walla.co.il/break/3828272
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828817
 https://news.walla.co.il/item/3828818
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-261236
 https://hamal.co.il/main/סיבת-המוות-נחשפה-נטע-קסטין-נפטר-ממפרצת-מוחית-מולדת-261184
+https://news.walla.co.il/break/3828823
+https://news.walla.co.il/break/3828825
+https://news.walla.co.il/break/3828822
+https://news.walla.co.il/break/3828821
+https://hamal.co.il/main/ללא-שינוי-הלמידה-מרחוק-תמשיך---נבחנת-חזרה-חלקית-מהשבוע-הבא-261239
