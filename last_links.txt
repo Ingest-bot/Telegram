@@ -1,8 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/מחבלי-כוח-רדואן-הודו-בחקירה-״חיזבאללה-שולח-אותנו-למות״-260093
-https://news.walla.co.il/break/3828198
-https://news.walla.co.il/break/3828199
-https://news.walla.co.il/break/3828200
+COUNTER:16
 https://news.walla.co.il/break/3828202
 https://hamal.co.il/main/אל-תצאו-מהבית-260094
 https://hamal.co.il/main/גבר-כבן-70-טבע-למוות-בחוף-הילטון-בתל-אביב-260095
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגני�
 https://hamal.co.il/main/צהל-השלים-גל-תקיפות-בטהרן-261125
 https://hamal.co.il/main/מדא-על-הירי-לצפון-צוותים-יצאו-לסרוק-זירות-261126
 https://hamal.co.il/main/המאבק-בפשיעה-המשטרה-פשטה-על-עשרות-יעדים-ברחבי-הארץ-261127
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-הארץ-261132
+https://hamal.co.il/main/מדא-על-הירי-לצפון-4-פצועים-קל-בזירת-נפילה-בחיפה-261140
+https://hamal.co.il/main/מדא-על-הירי-למרכז-צוותים-יצאו-לסרוק-זירות-261141
+https://hamal.co.il/main/דיווח-ראשוני-על-פצוע-קשה-בזירת-נפילה-בגוש-דן-261143
