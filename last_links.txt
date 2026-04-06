@@ -1,5 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/מכה-למפגינים-פיקוד-העורף-לבגץ---יש-להגביל-את-הפגנות-260498
+COUNTER:19
 https://news.walla.co.il/break/3828373
 https://news.walla.co.il/break/3828370
 https://hamal.co.il/main/צהל-השלמנו-גל-תקיפות-באיראן-260499
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3828912
 https://news.walla.co.il/break/3828913
 https://news.walla.co.il/break/3828914
 https://news.walla.co.il/item/3828916
+https://hamal.co.il/main/טראמפ-חושף-את-המבצע-לחילוץ-הטייסים-שהתרסקו-באיראן-261443
