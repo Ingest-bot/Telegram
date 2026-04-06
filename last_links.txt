@@ -1,12 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260343
-https://hamal.co.il/main/מדא-על-הירי-לחיפה-והקריות-לא-התקבלו-דיווחים-260349
-https://news.walla.co.il/item/3828288
-https://news.walla.co.il/break/3828291
-https://news.walla.co.il/break/3828293
-https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-וסביבה-260354
-https://news.walla.co.il/item/3828295
-https://news.walla.co.il/item/3828296
+COUNTER:25
 https://hamal.co.il/main/תוך-דקות-צהל-תקף-משגר-ממנו-בוצעו-השיגורים-לצפון-הארץ-260357
 https://news.walla.co.il/break/3828298
 https://news.walla.co.il/break/3828299
@@ -499,3 +491,11 @@ https://hamal.co.il/main/נתניהו-מי-שממלא-אחר-ההנחיות---ה
 https://hamal.co.il/main/כ״ץ-״צה״ל-תקף-את-המתקן-הפטרוכימי-הגדול-ביותר-באיראן״-261263
 https://hamal.co.il/main/חיסול-מפקדי-המשטר-בטהרן-נמשך-צהל-חיסל-את-מפקד-יחידת-המבצעי-261270
 https://hamal.co.il/main/אזעקות-לא-פוסקות-בגליל-המערבי-ונהריה-עקב-כטב״ם-261276
+https://news.walla.co.il/break/3828843
+https://news.walla.co.il/break/3828845
+https://news.walla.co.il/break/3828844
+https://news.walla.co.il/break/3828842
+https://news.walla.co.il/break/3828847
+https://hamal.co.il/main/דיווחים-על-תקיפה-בשדה-התעופה-של-דובאי-261284
+https://hamal.co.il/main/אישה-נפלה-מגובה-בדרכה-להתמגן-בכביש-20-מצבה-בינוני-261285
+https://hamal.co.il/main/אזעקות-הופעלו-באילת-עקב-חדירת-כטב״ם-261288
