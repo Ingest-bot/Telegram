@@ -1,12 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3828226
-https://news.walla.co.il/break/3828227
-https://news.walla.co.il/item/3828225
-https://hamal.co.il/main/הירי-מאיראן-הטיל-ככל-הנראה-יורט-לא-דווח-על-נפגעים-260162
-https://hamal.co.il/main/אזעקות-בצפת-והסביבה-260170
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-במרכז-הארץ-260168
-https://hamal.co.il/main/באיראן-מציעים-פרס-משמעותי-למי-שיתפוס-את-הצוות-האמריקאי-260171
-https://news.walla.co.il/break/3828228
+COUNTER:35
 https://hamal.co.il/main/גורמים-אמריקנים-מאשרים-איראן-הפילה-מטוס-קרב-260173
 https://hamal.co.il/main/ראש-אכא-אלוף-דדו-בר-כליפה-באגרת-לחיילים-לכבוד-השבת-260177
 https://hamal.co.il/main/אזעקות-בצפת-והסביבה-260183
@@ -499,3 +491,11 @@ https://hamal.co.il/main/3-נערים-שטיילו-במצוקי-דרגות-חו�
 https://hamal.co.il/main/עומדת-ליד-הרכב-מביטה-לשמיים---ונפגעת--תיעוד-דרמטי-מהנפילה-261181
 https://news.walla.co.il/item/3828762
 https://hamal.co.il/main/פקיסטן-העבירה-הצעה-לסיום-המלחמה-באיראן-״תיכנס-לתוקף-היום״-261182
+https://news.walla.co.il/break/3828771
+https://news.walla.co.il/break/3828768
+https://news.walla.co.il/break/3828772
+https://news.walla.co.il/item/3828766
+https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-ובגליל-העליון-261189
+https://hamal.co.il/main/החזיק-בצוואה-טרם-ביצוע-פיגוע-261190
+https://hamal.co.il/main/תקיפות-בפאתי-נבטיה-בדרום-לבנון-261192
+https://hamal.co.il/main/דיווח-בטהרן-13-הרוגים-ו-20-פצועים-בתקיפה-על-שכונת-מגורים-261194
