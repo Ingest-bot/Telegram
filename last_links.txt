@@ -1,7 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/ראשוני-צהל-החל-לתקוף-בביירות-260418
-https://hamal.co.il/main/ראש-עיריית-ראש-העין-רז-שגיא-בזרית-הפגיעה-בעיר-260421
-https://news.walla.co.il/break/3828320
+COUNTER:35
 https://news.walla.co.il/item/3828319
 https://hamal.co.il/main/שברי-יירוט-נפלו-באזור-המרינה-בדובאי-ללא-נפגעים-260423
 https://hamal.co.il/main/כוחות-מיוחדים-של-צבא-ארהב-נכנסו-לאיראן-לחלץ-את-הנווט-הנעדר-260428
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3828864
 https://news.walla.co.il/break/3828863
 https://hamal.co.il/main/צוותי-מדא-יצאו-לסרוק-זירות-בהן-התקבלו-דיווחים-261355
 https://hamal.co.il/main/בכיר-בבית-הלבן-בוחנים-הצעה-להפסקת-אש-של-45-יום-261357
+https://news.walla.co.il/break/3828865
+https://hamal.co.il/main/בשדות-התעופה-בטהרן-צה״ל-תקף-עשרות-מטוסים-ומסוקים-261361
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-נרחב-בטהרן-וברחבי-איראן-261368
