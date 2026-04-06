@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3828315
 https://news.walla.co.il/break/3828317
 https://news.walla.co.il/break/3828318
 https://news.walla.co.il/item/3828310
@@ -499,3 +498,4 @@ https://hamal.co.il/main/יוון-רכשה-מערכת-ארטילריה-מתוצ�
 https://hamal.co.il/main/תיעוד-מיוחד-כוחות-חטיבת-גולני-השמידו-יותר-מ-300-תשתיות-טרור-261291
 https://news.walla.co.il/break/3828856
 https://news.walla.co.il/item/3828857
+https://news.walla.co.il/break/3828858
