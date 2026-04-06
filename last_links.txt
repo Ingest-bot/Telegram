@@ -1,9 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3828321
-https://news.walla.co.il/break/3828322
-https://hamal.co.il/main/צעיר-בן-22-נהרג-לאחר-שהתהפך-עם-רכבו-בשטח-פתוח-סמוך-לקריית-גת-260434
-https://news.walla.co.il/item/3828321
-https://news.walla.co.il/item/3828324
+COUNTER:39
 https://news.walla.co.il/break/3828326
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-260438
 https://news.walla.co.il/break/3828328
@@ -499,3 +494,8 @@ https://hamal.co.il/main/רפאל-מציינת-15-שנה-ליירוט-הראשו
 https://news.walla.co.il/break/3828870
 https://hamal.co.il/main/המשטרה-סורקת-באילת-לאיתור-נפילות-פריטי-אמלח-261374
 https://hamal.co.il/main/תיעוד-רגע-הנפילה-בפתח-תקווה-במטח-האחרון--צפו-261378
+https://news.walla.co.il/break/3828874
+https://news.walla.co.il/break/3828875
+https://news.walla.co.il/break/3828876
+https://news.walla.co.il/item/3828877
+https://hamal.co.il/main/התקשורת-האיראנית-נסכים-רק-לסיום-מוחלט-של-המלחמה-261386
