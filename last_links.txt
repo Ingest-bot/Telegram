@@ -1,6 +1,4 @@
 COUNTER:20
-https://hamal.co.il/main/בשל-טעות-אנוש-מסוק-קרב-הטיל-הלילה-חימוש-בצפון-אין-נפגעים-260501
-https://news.walla.co.il/break/3828377
 https://news.walla.co.il/break/3828379
 https://news.walla.co.il/break/3828380
 https://news.walla.co.il/break/3828381
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3828920
 https://news.walla.co.il/break/3828921
 https://hamal.co.il/main/הקו-התת-קרקעי-של-הרכבת-הקלה-ישוב-לפעול-ביום-חמישי-261446
 https://news.walla.co.il/break/3828926
+https://news.walla.co.il/break/3828931
+https://news.walla.co.il/break/3828933
