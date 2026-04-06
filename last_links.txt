@@ -1,12 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3828234
-https://hamal.co.il/main/גבר-בן-22-נפצע-אנוש-באירוע-אלימות-260187
-https://hamal.co.il/main/צהל-החל-בגל-תקיפות-לעבר-תשתיות-טרור-בביירות-260188
-https://hamal.co.il/main/במקביל-לתקיפות-בביירות-צהל-תוקף-בטהרן-260191
-https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-260193
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-260195
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260198
-https://hamal.co.il/main/במהלך-היממה-האחרונה-צהל-השלים-יותר-מ-70-תקיפות-באיראן-260201
+COUNTER:4
 https://hamal.co.il/main/דובר-צהל-צהל-לא-יוותר-על-היעד-של-פירוק-חיזבאללה-מנשקו-260204
 https://hamal.co.il/main/גורם-ישראלי-אחד-מאנשי-הצוות-האמריקני-חולץ-260253
 https://news.walla.co.il/break/3828242
@@ -499,3 +491,11 @@ https://hamal.co.il/main/איראן-מאשרת-ראש-המודיעין-במשמ�
 https://hamal.co.il/main/״טהרן-לא-תסכים-לפתוח-את-מיצר-הורמוז-תמורת-הפסקת-אש-זמנית״-261201
 https://hamal.co.il/main/חשד-לפרשה-ביטחונית-חמורה-ישראלים-סיפקו-שירותים-לגורמים-באירן-261207
 https://hamal.co.il/main/העיירה-אנצאריה-בדרום-לבנון-לאחר-התקיפות-261213
+https://news.walla.co.il/break/3828791
+https://news.walla.co.il/break/3828792
+https://news.walla.co.il/break/3828788
+https://news.walla.co.il/break/3828790
+https://news.walla.co.il/item/3828785
+https://hamal.co.il/main/הרגשתם-את-זה-רעידת-אדמה-בעוצמה-45-התרחשה-261215
+https://hamal.co.il/main/השר-כ״ץ-״מנהיגי-איראן-חיים-בתחושת-נרדפות-נמשיך-לצוד-אותם״-261214
+https://hamal.co.il/main/איראן-תקפנו-בסיס-אמריקאי-באי-בוביאן-בכווית-261216
