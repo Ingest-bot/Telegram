@@ -1,13 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/כ-100-מחבלים-חוסלו-3500-מטרות-הותקפו-260051
-https://hamal.co.il/main/קצין-בכיר-בצהל-הרחבנו-את-השליטה-המבצעית-בדרום-לבנון-260063
-https://hamal.co.il/main/דיווח-באיראן-פיצוצים-בערים-בדרום-המדינה-260064
-https://hamal.co.il/main/2-צעירים-נאשמים-בריגול-עבור-איראן-״קיבלו-תשלום-בקריפטו״-260055
-https://news.walla.co.il/break/3828185
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-צפויות-בצפון-260067
-https://news.walla.co.il/break/3828189
-https://hamal.co.il/main/אזעקות-הופעלו-בצפון-הארץ-דיווח-על-שברי-יירוט-בחיפה-260078
-https://hamal.co.il/main/צפו-לוחמי-גבעתי-חיסלו-מחבלי-חיזבאללה-חמושים-שהתקרבו-לכוחות-260068
+COUNTER:8
 https://hamal.co.il/main/מספר-זירות-בחיפה-ובקריות-אין-דיווחים-על-נפגעים-260081
 https://news.walla.co.il/break/3828192
 https://news.walla.co.il/break/3828193
@@ -499,3 +490,12 @@ https://hamal.co.il/main/משמרות-המהפכה-261043
 https://news.walla.co.il/break/3828717
 https://news.walla.co.il/break/3828716
 https://hamal.co.il/main/הפרת-סדר-באזור-קברי-המלכים-בירושלים-שוטרים-נפצעו-261046
+https://news.walla.co.il/break/3828718
+https://news.walla.co.il/break/3828720
+https://news.walla.co.il/break/3828722
+https://news.walla.co.il/break/3828721
+https://news.walla.co.il/item/3828719
+https://hamal.co.il/main/דיווח-אישה-מחוסרת-הכרה-בתא-ככל-הנראה-נפלה-בדרך-למרחב-מוגן-261103
+https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-רחב-היקף-במדינה--צפו-בתיעוד-261106
+https://hamal.co.il/main/2-לכודים-חולצו-ללא-רוח-חיים-מההריסות-בזירת-הנפילה-בחיפה-261108
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-261110
