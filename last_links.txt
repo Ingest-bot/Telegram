@@ -1,9 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/״פצוע-ראשון-בפנים״-תיעוד-מפינוי-הפצועים-בלבנון-260124
-https://news.walla.co.il/break/3828220
-https://hamal.co.il/main/פוליטיקאית-מהשמאל-הקיצוני-בצרפת-נאשמת-בתמיכה-בטרור-260114
-https://news.walla.co.il/break/3828222
-https://news.walla.co.il/item/3828221
+COUNTER:27
 https://hamal.co.il/main/דיווחים-מטוס-קרב-אמריקני-הופל-באיראן-חיפושים-אחרי-הצוות-260126
 https://hamal.co.il/main/פעילות-היחידה-הרב-ממדית-בדרום-לבנון-יותר-מ-40-חיסולים-260133
 https://news.walla.co.il/item/3828172
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3828744
 https://news.walla.co.il/break/3828745
 https://news.walla.co.il/break/3828746
 https://news.walla.co.il/item/3828735
+https://news.walla.co.il/break/3828751
+https://news.walla.co.il/break/3828753
+https://news.walla.co.il/item/3828748
+https://news.walla.co.il/item/3828752
+https://hamal.co.il/main/תיעודים-חדשים-מתקיפות-חיל-האוויר-בלבנון-261175
