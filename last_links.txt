@@ -1,7 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3828331
-https://news.walla.co.il/item/3828333
-https://hamal.co.il/main/ספרינגסטין-נפרד-מצרויה-להב-אנו-שבורי-לב-הייתה-חברה-נפלאה-260451
 https://hamal.co.il/main/תושבי-קריית-שמונה-רקטה-נפלה-מבלי-שהופעלה-אזעקה-אין-נפגעים-260454
 https://news.walla.co.il/break/3828335
 https://news.walla.co.il/break/3828336
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נתניהו-אנחנו-מחסלים-בשיטתיות-�
 https://hamal.co.il/main/טראמפ-אני-קורא-כל-הצעה-במשא-ומתן-ההצעה-האחרונה---משמעתית-261394
 https://hamal.co.il/main/הוגדל-מספר-הנוסעים-בכל-המראה-מנתבג-ל-100-בכל-טיסה-261402
 https://hamal.co.il/main/שתי-נפילות-במטולה-נזק-קל-לרכוש-אין-משהו-חריג-מעבר-לכך-261403
+https://news.walla.co.il/break/3828884
+https://news.walla.co.il/break/3828885
+https://news.walla.co.il/break/3828882
