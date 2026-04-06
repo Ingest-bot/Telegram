@@ -1,9 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/שוב-זוהו-שיגורים-מאיראן-לצפון-הארץ-260256
-https://hamal.co.il/main/פגיעות-במבנים-בגשר-הזיו-ובמושב-יערה---ללא-נפגעים-260281
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-בצפון-הארץ-260284
-https://hamal.co.il/main/בפעם-השלישית-בתוך-שעה-זוהו-שיגורים-מאיראן-לצפון-הארץ-260286
-https://hamal.co.il/main/צהל-תקף-חוליית-מחבלי-חמאס-שפעלו-סמוך-לכוחותינו-בצפון-עזה-260288
+COUNTER:10
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260311
 https://news.walla.co.il/break/3828255
 https://news.walla.co.il/break/3828256
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צה״ל-מאשר-חוסל-בטהרן-יו״ר-ארגו
 https://hamal.co.il/main/בלבנון-מדווחים-על-תקיפות-בדאחיה-כעת-261221
 https://news.walla.co.il/break/3828802
 https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-חיזבאללה-בביירות-261223
+https://news.walla.co.il/break/3828809
+https://news.walla.co.il/break/3828806
+https://news.walla.co.il/break/3828805
+https://hamal.co.il/main/שני-לכודים-261226
+https://hamal.co.il/main/צילם-בשטח-ישראל---וקיבל-קריפטו-צעיר-חשוד-בריגול-עבור-איראן-261227
