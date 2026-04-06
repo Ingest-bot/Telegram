@@ -1,9 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/מספר-זירות-בחיפה-ובקריות-אין-דיווחים-על-נפגעים-260081
-https://news.walla.co.il/break/3828192
-https://news.walla.co.il/break/3828193
-https://news.walla.co.il/item/3827731
-https://hamal.co.il/main/אישור-ראשון-להצעת-הנישואין-של-עומר-אדם-וסשה-ישראלוביץ-260089
+COUNTER:12
 https://hamal.co.il/main/מחבלי-כוח-רדואן-הודו-בחקירה-״חיזבאללה-שולח-אותנו-למות״-260093
 https://news.walla.co.il/break/3828198
 https://news.walla.co.il/break/3828199
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-אישה-מחוסרת-הכרה-בתא-ככל
 https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-רחב-היקף-במדינה--צפו-בתיעוד-261106
 https://hamal.co.il/main/2-לכודים-חולצו-ללא-רוח-חיים-מההריסות-בזירת-הנפילה-בחיפה-261108
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-261110
+https://news.walla.co.il/break/3828724
+https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261124
+https://hamal.co.il/main/צהל-השלים-גל-תקיפות-בטהרן-261125
+https://hamal.co.il/main/מדא-על-הירי-לצפון-צוותים-יצאו-לסרוק-זירות-261126
+https://hamal.co.il/main/המאבק-בפשיעה-המשטרה-פשטה-על-עשרות-יעדים-ברחבי-הארץ-261127
