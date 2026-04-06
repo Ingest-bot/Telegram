@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3828317
-https://news.walla.co.il/break/3828318
-https://news.walla.co.il/item/3828310
+COUNTER:31
 https://news.walla.co.il/item/3828311
 https://news.walla.co.il/item/3828313
 https://hamal.co.il/main/עיריית-ראש-עין-לתושבים-הצפי-להחזרת-החשמל-500-בבוקר-260414
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-מיוחד-כוחות-חטיבת-גולני-
 https://news.walla.co.il/break/3828856
 https://news.walla.co.il/item/3828857
 https://news.walla.co.il/break/3828858
+https://hamal.co.il/main/המטח-למרכז-זירות-נפילה-בבננ-261346
+https://hamal.co.il/main/חג-בצל-מלחמה-ביג-פאשן-אשדוד-בהישמע-האזעקה-261349
+https://hamal.co.il/main/דיווח-על-שריפה-בדירה-בתל-אביב-לא-ברור-אם-קשור-לירי-מאיראן-261352
