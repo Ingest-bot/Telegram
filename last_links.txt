@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3828201
-https://hamal.co.il/main/מדוע-נקרא-החג-על-שם-המצה-260097
-https://news.walla.co.il/break/3828205
+COUNTER:20
 https://hamal.co.il/main/פצוע-קשה-בתאונת-אופנוע-בראשון-לציון-260098
 https://hamal.co.il/main/איזנקוט-ובנט-מטפסים-נתניהו-יורד--סקר-מעריב-260102
 https://news.walla.co.il/item/3828208
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווח-ראשוני-על-פצוע-קשה-בזירת
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-261145
 https://hamal.co.il/main/דיווח-על-15-זירות-במרכז-אישה-נפצעה-קשה-בפתח-תקווה-261147
 https://hamal.co.il/main/דיווח-על-פצוע-בינוני-בזירת-נפילה-בתל-אביב-261149
+https://news.walla.co.il/break/3828727
+https://news.walla.co.il/break/3828729
+https://hamal.co.il/main/בילינסון-פצועה-במצב-בינוני-קשה-הגיעה-לבית-החולים-261151
