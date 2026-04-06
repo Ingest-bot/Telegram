@@ -1,9 +1,4 @@
 COUNTER:18
-https://news.walla.co.il/break/3828365
-https://news.walla.co.il/break/3828366
-https://news.walla.co.il/break/3828368
-https://news.walla.co.il/break/3828367
-https://news.walla.co.il/item/3828361
 https://hamal.co.il/main/מכה-למפגינים-פיקוד-העורף-לבגץ---יש-להגביל-את-הפגנות-260498
 https://news.walla.co.il/break/3828373
 https://news.walla.co.il/break/3828370
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3828904
 https://news.walla.co.il/item/3828909
 https://hamal.co.il/main/טראמפ-״יש-לאיראנים-עד-מחר-ב-8-בערב-שעון-החוף-המזרחי-261439
 https://hamal.co.il/main/לאה-יוכבד-זינגר-תושבת-ירושלים-נהרגה-בתאונת-דרכים-בבולגריה-261441
+https://news.walla.co.il/break/3828911
+https://news.walla.co.il/break/3828912
+https://news.walla.co.il/break/3828913
+https://news.walla.co.il/break/3828914
+https://news.walla.co.il/item/3828916
