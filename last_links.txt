@@ -1,5 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3828555
+COUNTER:35
 https://news.walla.co.il/break/3828556
 https://news.walla.co.il/break/3828557
 https://hamal.co.il/main/חוליות-של-חיזבאללה-זוהו---והושמדו-מעל-90-מחבלים-חוסלו-עד-כה-260803
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829089
 https://news.walla.co.il/break/3829090
 https://news.walla.co.il/break/3829091
 https://hamal.co.il/main/רויטרס-מתקן-דיפלומטי-אמריקני-הותקף-ליד-נמל-התעופה-בבגדד-261854
+https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבי-צור-בלבנון-261855
