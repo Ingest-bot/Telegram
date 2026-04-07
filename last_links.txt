@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3828487
-https://news.walla.co.il/break/3828485
-https://news.walla.co.il/break/3828489
+COUNTER:12
 https://hamal.co.il/main/הירי-מאיראן-לא-ידוע-על-נפגעים-260762
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-260763
 https://hamal.co.il/main/-הירי-לצפון-מספר-שיגורים-יורטו-ואחרים-נפלו-בשטחים-פתוחים-י-260764
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829046
 https://news.walla.co.il/item/3829042
 https://hamal.co.il/main/לקראת-הסלמה-איראן-ניתקה-את-התקשורת-הישירה-עם-ארהב-261732
 https://hamal.co.il/main/תיעוד-מאיראן-המשטר-משתמש-באזרחים-כדי-למנוע-פגיעה-בתשתיות-261735
+https://hamal.co.il/main/הרמטכל-אנו-לקראת-צומת-אסטרטגי-במערכה-המשותפת-מול-איראן-261738
+https://hamal.co.il/main/דיווח-סעודי-התקף-מפגש-של-בכירים-איראנים-261739
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-הארץ-261741
