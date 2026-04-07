@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3828422
-https://hamal.co.il/main/ללא-התרעה-מוקדמת-אזעקות-בירושלים-וים-המלח-260603
-https://hamal.co.il/main/במקביל-לאזעקות-בירושלים-זוהו-שיגורים-ללכיש-והשפלה-260618
+COUNTER:7
 https://hamal.co.il/main/מדא-על-הירי-לאזור-ירושלים-לא-התקבלו-דיווחים-על-נפילות-260621
 https://news.walla.co.il/break/3828424
 https://news.walla.co.il/break/3828425
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ניתץ-א-261559
 https://news.walla.co.il/item/3828977
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-261560
 https://hamal.co.il/main/תיעוד-מעין-הטיל-261565
+https://news.walla.co.il/break/3828980
+https://hamal.co.il/main/תינוק-כבן-שנה-טבע-261567
+https://hamal.co.il/main/פיצוץ-אדיר---ובור-שנפער-בכביש-תיעוד-הנפילה-בראש-העין-261571
