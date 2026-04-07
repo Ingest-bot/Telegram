@@ -1,5 +1,4 @@
 COUNTER:27
-https://news.walla.co.il/break/3828392
 https://news.walla.co.il/break/3828393
 https://news.walla.co.il/break/3828394
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260537
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הירי-מאיראן-תיעוד-משמי-הנגב-2614
 https://hamal.co.il/main/מדא-בהמשך-לירי-מאיראן-ללא-דיווחים-על-נפגעים-261478
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261480
 https://hamal.co.il/main/להבות-ענק-ועמודי-עשן-תיעוד-מתקיפה-סמוך-לשדה-התעופה-מהראבאד-261483
+https://news.walla.co.il/break/3828954
