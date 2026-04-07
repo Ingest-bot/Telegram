@@ -1,11 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים-בדרו-260706
-https://news.walla.co.il/break/3828469
-https://hamal.co.il/main/צימקה-את-הפער-ביתר-חזרה-מפיגור---וניצחה-260707
-https://hamal.co.il/main/מצדיעה-לחיילים-השלט-שביתר-התקינה-באצטדיון-טדי-260708
-https://hamal.co.il/main/הרב-יצחק-יוסף-תוקף-את-בגץ-הקבה-ישמיד-אותם-260712
-https://news.walla.co.il/break/3828474
-https://news.walla.co.il/break/3828475
+COUNTER:4
 https://news.walla.co.il/break/3828476
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-260716
 https://hamal.co.il/main/כוכבת-המירוץ-למיליון-התארסה-לבן-זוגה-מאור-בן-הרוש-עודכן-ל-260717
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3829030
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-261672
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-261689
 https://hamal.co.il/main/הטיל-מאיראן-יורט-לא-ידוע-על-נפגעים-261704
+https://news.walla.co.il/break/3829034
+https://news.walla.co.il/break/3829035
+https://news.walla.co.il/item/3829037
+https://hamal.co.il/main/נתניהו-תקפנו-את-המסילות-והגשרים-שמשמשים-את-משמרות-המהפכה-261708
+https://hamal.co.il/main/דובר-צהל-מעריכים-שאיראן-וחיזבאללה-ירו-לישראל-בערב-החג-261709
+https://hamal.co.il/main/מקור-איראני-אם-ארהב-תתקוף-מתקני-אנרגיה---האזור-יהיה-בחשכה-261712
+https://hamal.co.il/main/מדא-שני-פצועים-קל-משברי-יירוט-ורסיסים-בצפון-ובדרום-261713
