@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3828494
-https://news.walla.co.il/break/3828496
+COUNTER:20
 https://news.walla.co.il/break/3828498
 https://hamal.co.il/main/מהמשימות-המורכבות-בהיסטוריה-כך-חולץ-הנווט-מאיראן--דיווח-260767
 https://news.walla.co.il/break/3828499
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-ק�
 https://hamal.co.il/main/המיליציות-בעיראק-החליטו-לשחרר-את-העיתונאית-האמריקאית-החטופה-261804
 https://hamal.co.il/main/130-מחבלים-חוסלו-פעילות-אוגדה-146-בדרום-לבנון-261812
 https://hamal.co.il/main/צהל-מודיע-על-סגר-ימי-מצור-דרומה-בדרום-לבנון--כל-הפרטים-261813
+https://hamal.co.il/main/הותר-לפרסום-261815
+https://hamal.co.il/main/כביש-90-נפתח-לתנועה-261817
