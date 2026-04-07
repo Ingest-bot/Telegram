@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3828531
-https://news.walla.co.il/item/3828535
+COUNTER:33
 https://hamal.co.il/main/הירי-מאיראן-לצפון-הטיל-יורט-ניתן-לצאת-מהמרחב-המוגן-260799
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-ידוע-על-נפגעים-260800
 https://news.walla.co.il/break/3828542
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגני�
 https://news.walla.co.il/item/3829084
 https://hamal.co.il/main/רהמ-פקיסטן-קורא-לטראמפ-להאריך-את-הדד-ליין-לאיראן-בשבועיים-261849
 https://hamal.co.il/main/מדא-2-פצועים-קל-מרסיסים-בדרום-הארץ-261850
+https://hamal.co.il/main/צהל-ייתכן-ירי-מוגבר-לישראל-בשעות-הקרובות-261851
+https://hamal.co.il/main/בכיר-איראני-לרויטרס-שוקלים-בחיוב-את-ההצעה-של-פקיסטן-261853
