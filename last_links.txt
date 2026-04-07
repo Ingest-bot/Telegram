@@ -1,13 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/משמרות-המהפכה-תקפנו-ספינה-שקשורה-לישראל-במצר-הורמוז-260511
-https://hamal.co.il/main/טיל-מצרר-נוסף-מאיראן-הדי-פיצוצים-נשמעו-במרכז-חשד-ל-4-זירות-260519
-https://hamal.co.il/main/עשן-שחור-ברמתן-גן-תיעוז-מזירת-הנפילה-260522
-https://hamal.co.il/main/שריפות-עשן-והרס-רב-מעל-ל-10-זירות-נפילה-בסריקה-260528
-https://news.walla.co.il/item/3828389
-https://hamal.co.il/main/תיעוד-חיל-האוויר-השמיד-משאית-ששימשה-כמשגר-טילים-באיראן-260532
-https://hamal.co.il/main/מועצת-מטה-אשר-לתושבים-הישארו-בזמן-הקרוב-ליד-מרחב-מוגן-260535
-https://news.walla.co.il/break/3828390
-https://news.walla.co.il/break/3828391
+COUNTER:27
 https://news.walla.co.il/break/3828392
 https://news.walla.co.il/break/3828393
 https://news.walla.co.il/break/3828394
@@ -499,3 +490,12 @@ https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-261
 https://news.walla.co.il/break/3828939
 https://news.walla.co.il/break/3828943
 https://hamal.co.il/main/ראש-הממשלה-אישר-את-חזרת-התלמידים-לגנים-ובתי-הספר---לאחר-חג-ה-261453
+https://news.walla.co.il/break/3828948
+https://news.walla.co.il/break/3828951
+https://news.walla.co.il/break/3828950
+https://news.walla.co.il/break/3828952
+https://news.walla.co.il/break/3828953
+https://hamal.co.il/main/הירי-מאיראן-תיעוד-משמי-הנגב-261476
+https://hamal.co.il/main/מדא-בהמשך-לירי-מאיראן-ללא-דיווחים-על-נפגעים-261478
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261480
+https://hamal.co.il/main/להבות-ענק-ועמודי-עשן-תיעוד-מתקיפה-סמוך-לשדה-התעופה-מהראבאד-261483
