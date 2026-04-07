@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3828401
-https://hamal.co.il/main/צהל-לא-מוכרת-אינדיקציה-לירי-נרחב-מלבנון-לישראל-260551
+COUNTER:32
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-260552
 https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-260555
 https://news.walla.co.il/break/3828402
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3828956
 https://hamal.co.il/main/אחרי-ההפוגה-הגשם-חוזר-לקראת-החג--התחזית-261491
 https://hamal.co.il/main/דיווח-המנהיג-העליון-261493
 https://hamal.co.il/main/תיעוד-מחבלי-חיזבאללה-261494
+https://news.walla.co.il/item/3828957
+https://hamal.co.il/main/מתחת-לאף-האיראני-מבצע-עריפת-ראשי-משמרות-המהפכה-נחשף-261498
