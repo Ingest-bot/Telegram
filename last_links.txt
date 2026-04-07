@@ -1,9 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3828454
-https://news.walla.co.il/item/3828455
-https://news.walla.co.il/item/3828459
-https://hamal.co.il/main/צהל-יתקוף-בגבול-260700
-https://hamal.co.il/main/הרב-יצחק-יוסף-נגד-בגץ-260701
+COUNTER:36
 https://news.walla.co.il/break/3828461
 https://hamal.co.il/main/מחש-חוקרת-שוטר-מהצפון-נעצר-בחשד-לביצוע-עבירות-מין-חמורות-260704
 https://news.walla.co.il/break/3828466
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צפו-דגל-ענק-נפרס-על-בניין-שנפג�
 https://hamal.co.il/main/בארהב-מאשרים-תקפנו-מטרות-באי-חארג-261649
 https://hamal.co.il/main/שביעי-של-פסח-אלו-זמני-כניסת-ויציאת-החג-261651
 https://hamal.co.il/main/הכירו-את-נקודת-האור-של-החיילים-בשדה-הקרב-בלבנון-כאשר-חייל-261653
+https://news.walla.co.il/break/3829025
+https://news.walla.co.il/item/3829023
+https://hamal.co.il/main/הָלְכוּ-בַיַּבָּשָׁה-בְּתוֹךְ-הַיָּם״-261594
+https://hamal.co.il/main/טראמפ-מחריף-את-האיומים-על-איראן-ציוויליזציה-שלמה-תימחק-261658
+https://hamal.co.il/main/גורם-ביטחוני-מאשר-התקיפות-באיראן---שלב-ראשון-לפני-הסלמה-261659
