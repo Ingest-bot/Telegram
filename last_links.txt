@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-260552
-https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-260555
-https://news.walla.co.il/break/3828402
-https://news.walla.co.il/item/3828406
+COUNTER:33
 https://hamal.co.il/main/פצצת-מצרר-נפלה-ליד-הקריה-בתל-אביב-260561
 https://hamal.co.il/main/מדא-על-הירי-לצפת-צוותים-יצאו-לסרוק-זירות-260562
 https://news.walla.co.il/break/3828408
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דיווח-המנהיג-העליון-261493
 https://hamal.co.il/main/תיעוד-מחבלי-חיזבאללה-261494
 https://news.walla.co.il/item/3828957
 https://hamal.co.il/main/מתחת-לאף-האיראני-מבצע-עריפת-ראשי-משמרות-המהפכה-נחשף-261498
+https://news.walla.co.il/break/3828962
+https://news.walla.co.il/break/3828959
+https://news.walla.co.il/break/3828960
+https://hamal.co.il/main/צהל-באזהרה-חריגה-לאיראנים--261503
