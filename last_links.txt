@@ -1,11 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3828438
-https://news.walla.co.il/break/3828439
-https://news.walla.co.il/break/3828440
-https://news.walla.co.il/break/3828441
-https://hamal.co.il/main/צהל-אין-שינוי-בהנחיות-פיקוד-העורף-עד-ליום-שני-260678
-https://hamal.co.il/main/התקרית-בדרום-לבנון-260679
-https://hamal.co.il/main/מעל-200-מטרות-אלו-התשתיות-שצהל-תקף-באיראן-ובלבנון--צפו-260681
+COUNTER:23
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לעבר-המרכז-260685
 https://news.walla.co.il/item/3828444
 https://hamal.co.il/main/הירי-מתימן-הטיל-נפל-בשטח-פתוח-אין-נפגעים-260689
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3829000
 https://hamal.co.il/main/דיווח-יריות-נשמעו-261595
 https://hamal.co.il/main/הירי-באיסטנבול-3-אנשים-נוטרלו-סמוך-לקונסוליה-הישראלית-261596
 https://hamal.co.il/main/הירי-261597
+https://news.walla.co.il/break/3829007
+https://news.walla.co.il/break/3829008
+https://news.walla.co.il/break/3829010
+https://hamal.co.il/main/הירי-באיסטנבול-3-אנשים-נוטרלו-סמוך-לקונסוליה-הישראלית-261600
+https://hamal.co.il/main/הטיל-מתמרן---ומתפוצץ-בשמיים-תיעוד-היירוט-באילת-261604
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בתא-ובפת-261620
+https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261621
