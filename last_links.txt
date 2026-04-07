@@ -1,9 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3828498
-https://hamal.co.il/main/מהמשימות-המורכבות-בהיסטוריה-כך-חולץ-הנווט-מאיראן--דיווח-260767
-https://news.walla.co.il/break/3828499
-https://hamal.co.il/main/אחרי-האובך-גשמים-צפויים-בצפון-ובמרכז--התחזית-260771
-https://hamal.co.il/main/אישום-יוגש-נגד-בן-40-מהמרכז-260772
+COUNTER:21
 https://news.walla.co.il/item/3828503
 https://hamal.co.il/main/תיעוד-מעין-הטיל-260774
 https://news.walla.co.il/break/3828511
@@ -499,3 +494,8 @@ https://hamal.co.il/main/130-מחבלים-חוסלו-פעילות-אוגדה-146
 https://hamal.co.il/main/צהל-מודיע-על-סגר-ימי-מצור-דרומה-בדרום-לבנון--כל-הפרטים-261813
 https://hamal.co.il/main/הותר-לפרסום-261815
 https://hamal.co.il/main/כביש-90-נפתח-לתנועה-261817
+https://news.walla.co.il/break/3829071
+https://news.walla.co.il/break/3829073
+https://news.walla.co.il/break/3829074
+https://news.walla.co.il/break/3829075
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261819
