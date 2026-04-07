@@ -1,6 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260537
-https://news.walla.co.il/break/3828395
+COUNTER:29
 https://news.walla.co.il/break/3828396
 https://news.walla.co.il/break/3828399
 https://news.walla.co.il/break/3828401
@@ -499,3 +497,5 @@ https://hamal.co.il/main/להבות-ענק-ועמודי-עשן-תיעוד-מתק
 https://news.walla.co.il/break/3828954
 https://hamal.co.il/main/ראמפ-ציין-את-פסח-בבית-הלבן---ונפגש-עם-מנהיגים-יהודים-עידן-קו-261485
 https://news.walla.co.il/item/3828955
+https://news.walla.co.il/item/3828956
+https://hamal.co.il/main/אחרי-ההפוגה-הגשם-חוזר-לקראת-החג--התחזית-261491
