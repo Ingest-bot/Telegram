@@ -1,7 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/שני-מוקדים-של-פגיעות-במזרח-העיר-ירושלים-260647
-https://news.walla.co.il/item/3828428
-https://hamal.co.il/main/ארהב-עצרה-קרובות-משפחה-של-סולימאני-תמכו-במשטר-האיראני-260629
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260650
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-260671
 https://hamal.co.il/main/חדשות-השבת-260670
@@ -499,3 +496,6 @@ https://hamal.co.il/main/רכב-261583
 https://hamal.co.il/main/הירי-לצפון-דיווח-על-נפילה-בנהריה-261588
 https://hamal.co.il/main/המשטרה-על-פיצוץ-הרכב-בטירה-הרקע---פלילי-261589
 https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קל-ב-3-זירות-נפילה-בנהריה-261593
+https://news.walla.co.il/item/3828997
+https://news.walla.co.il/item/3828999
+https://news.walla.co.il/item/3828998
