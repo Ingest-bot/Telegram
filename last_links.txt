@@ -1,5 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3828561
+COUNTER:38
 https://news.walla.co.il/break/3828559
 https://hamal.co.il/main/דניאל-פרץ-אחרי-ההצגה-מול-ארסנל-כיף-שזה-קורה-בפסח-260807
 https://hamal.co.il/main/בת-18-260809
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבי-צור-ב
 https://hamal.co.il/main/גורם-איראני-בכיר-בוחנים-בחיוב-את-הצעת-ההפוגה-261856
 https://hamal.co.il/main/גורם-במזרח-התיכון-הסכם-צפוי-להיסגר-הלילה-261858
 https://news.walla.co.il/break/3829097
+https://hamal.co.il/main/טראמפ-״שנים-של-סחיטה-שחיתות-ומוות-יסתיימו-בסוף״-261860
