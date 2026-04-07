@@ -1,9 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/איתור-אמלח-וחיסול-מחבלים-פעילות-לוחמי-גבעתי-בלבנון-260567
-https://news.walla.co.il/break/3828415
-https://news.walla.co.il/break/3828418
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-260572
-https://hamal.co.il/main/לוחמי-האש-פעלו-בזירת-פגיעה-ישירה-בצפת-260586
+COUNTER:3
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-או-נפילות-260587
 https://news.walla.co.il/break/3828419
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-פריטי-אמל״ח-בקריות-260592
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-הושלמה-התייצבות-כוחותינו-�
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירת-נפילה-בבני-ברק-261536
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261539
 https://hamal.co.il/main/מסתמן-הטילים-ששגורו-מאיראן---מסוג-מצרר--תיעוד-היירוטים-261533
+https://news.walla.co.il/item/3828971
+https://hamal.co.il/main/הרס-רב-ורכב-הפוך-תיעוד-מזירת-נפילה-בשרון-261554
+https://hamal.co.il/main/--261555
+https://hamal.co.il/main/החל-מהשעה-1100-כביש-90---ייחסם-לתנועה-בשל-מזג-האוויר-261558
+https://hamal.co.il/main/ניתץ-א-261559
