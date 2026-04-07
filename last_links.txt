@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-260776
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לצפון-260783
-https://news.walla.co.il/break/3828537
+COUNTER:31
 https://news.walla.co.il/item/3828531
 https://news.walla.co.il/item/3828535
 https://hamal.co.il/main/הירי-מאיראן-לצפון-הטיל-יורט-ניתן-לצאת-מהמרחב-המוגן-260799
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דרמה-על-קניה-ווסט-נאסר-להיכנס-�
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261835
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-רסיסים-בבאר-שבע-לא-ידוע-על-נפגעים-261845
 https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261847
+https://news.walla.co.il/item/3829084
+https://hamal.co.il/main/רהמ-פקיסטן-קורא-לטראמפ-להאריך-את-הדד-ליין-לאיראן-בשבועיים-261849
+https://hamal.co.il/main/מדא-2-פצועים-קל-מרסיסים-בדרום-הארץ-261850
