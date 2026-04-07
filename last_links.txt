@@ -1,7 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/מחש-חוקרת-שוטר-מהצפון-נעצר-בחשד-לביצוע-עבירות-מין-חמורות-260704
-https://news.walla.co.il/break/3828466
-https://news.walla.co.il/break/3828468
+COUNTER:38
 https://news.walla.co.il/item/3828463
 https://hamal.co.il/main/ההפגנה-הלא-חוקית-בהבימה-17-260705
 https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים-בדרו-260706
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הָלְכוּ-בַיַּבָּשָׁה-בְּתוֹך�
 https://hamal.co.il/main/טראמפ-מחריף-את-האיומים-על-איראן-ציוויליזציה-שלמה-תימחק-261658
 https://hamal.co.il/main/גורם-ביטחוני-מאשר-התקיפות-באיראן---שלב-ראשון-לפני-הסלמה-261659
 https://hamal.co.il/main/סגן-הנשיא-ואנס-מטרות-המלחמה-באיראן-הושלמו-היא-תסתיים-בקרוב-261661
+https://news.walla.co.il/break/3829027
+https://news.walla.co.il/item/3829030
+https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-261672
