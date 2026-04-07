@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3828490
-https://news.walla.co.il/item/3828493
-https://news.walla.co.il/break/3828495
+COUNTER:18
 https://news.walla.co.il/break/3828494
 https://news.walla.co.il/break/3828496
 https://news.walla.co.il/break/3828498
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-ק�
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-למרכז-הארץ-261775
 https://news.walla.co.il/break/3829055
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-על-נפילות-או-נפגעים-261798
+https://hamal.co.il/main/המיליציות-בעיראק-החליטו-לשחרר-את-העיתונאית-האמריקאית-החטופה-261804
+https://hamal.co.il/main/130-מחבלים-חוסלו-פעילות-אוגדה-146-בדרום-לבנון-261812
+https://hamal.co.il/main/צהל-מודיע-על-סגר-ימי-מצור-דרומה-בדרום-לבנון--כל-הפרטים-261813
