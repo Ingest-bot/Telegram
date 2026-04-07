@@ -1,6 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3828513
-https://news.walla.co.il/break/3828514
+COUNTER:27
 https://hamal.co.il/main/צפו-כך-נראה-שיתוף-הפעולה-בין-חיל-האוויר-260780
 https://news.walla.co.il/item/3828533
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-260776
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נער-כבן-16-נרצח-ביריות-בכפר-קרע-
 https://news.walla.co.il/break/3829080
 https://news.walla.co.il/item/3829078
 https://hamal.co.il/main/צהל-תקף-באיראן-את-האתר-המרכזי-ביותר-לייצור-מערכות-סונאר-261833
+https://hamal.co.il/main/דרמה-על-קניה-ווסט-נאסר-להיכנס-לבריטניה-הפסטיבל-בוטל-261729
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261835
