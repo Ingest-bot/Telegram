@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/כוחות-ארה״ב-חילצו-את-איש-הצוות-השני-ממטוס-F-15E-שהופל-באיראן-260766
-https://news.walla.co.il/break/3828492
+COUNTER:15
 https://news.walla.co.il/break/3828490
 https://news.walla.co.il/item/3828493
 https://news.walla.co.il/break/3828495
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829052
 https://news.walla.co.il/break/3829053
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-על-נפילות-או-נפגעים-261773
 https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-למרכז-הארץ-261775
+https://news.walla.co.il/break/3829055
+https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-על-נפילות-או-נפגעים-261798
