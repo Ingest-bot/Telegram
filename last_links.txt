@@ -1,7 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3828503
-https://hamal.co.il/main/תיעוד-מעין-הטיל-260774
-https://news.walla.co.il/break/3828511
+COUNTER:24
 https://news.walla.co.il/item/3828509
 https://hamal.co.il/main/פחדתי-מוות-עומר-מילר-נעצר-מול-ילדיו-בדובאי-260773
 https://news.walla.co.il/break/3828512
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829073
 https://news.walla.co.il/break/3829074
 https://news.walla.co.il/break/3829075
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261819
+https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-דיווחים-261825
+https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261827
+https://hamal.co.il/main/נער-כבן-16-נרצח-ביריות-בכפר-קרע---המשטרה-פתחה-בחקירה-261829
