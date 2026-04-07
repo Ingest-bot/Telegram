@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3828450
-https://hamal.co.il/main/בצהל-מבהירים-מחוייבים-לפירוק-חיזבאללה---גם-אם-זה-ייקח-זמן-260637
-https://hamal.co.il/main/התקהלו-בניגוד-לחוק-10-מפגינים-נעצרו-ברחבת-הבימה-260696
+COUNTER:29
 https://news.walla.co.il/break/3828452
 https://news.walla.co.il/break/3828453
 https://hamal.co.il/main/דיווח-ישראל-נערכת-לתקוף-260698
@@ -499,3 +496,6 @@ https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה
 https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה-בפתח-תקווה-261637
 https://hamal.co.il/main/דיווח-תקיפות-261638
 https://hamal.co.il/main/דיווח-תקיפות-261639
+https://news.walla.co.il/break/3829016
+https://news.walla.co.il/break/3829018
+https://hamal.co.il/main/מגיח-מאחורי-רכב---וטוען-את-הנשק-תיעוד-הירי-באיסטנבול-261642
