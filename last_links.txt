@@ -1,5 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3828463
+COUNTER:39
 https://hamal.co.il/main/ההפגנה-הלא-חוקית-בהבימה-17-260705
 https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים-בדרו-260706
 https://news.walla.co.il/break/3828469
@@ -499,3 +498,4 @@ https://hamal.co.il/main/סגן-הנשיא-ואנס-מטרות-המלחמה-בא
 https://news.walla.co.il/break/3829027
 https://news.walla.co.il/item/3829030
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-261672
+https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-261689
