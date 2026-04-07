@@ -1,6 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/אירוע-חומרים-מסוכנים-בנתבג-חבילה-חשודה-260801
-https://news.walla.co.il/break/3828554
+COUNTER:34
 https://news.walla.co.il/break/3828555
 https://news.walla.co.il/break/3828556
 https://news.walla.co.il/break/3828557
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829087
 https://news.walla.co.il/break/3829088
 https://news.walla.co.il/break/3829089
 https://news.walla.co.il/break/3829090
+https://news.walla.co.il/break/3829091
+https://hamal.co.il/main/רויטרס-מתקן-דיפלומטי-אמריקני-הותקף-ליד-נמל-התעופה-בבגדד-261854
