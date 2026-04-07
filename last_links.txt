@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/מדא-על-הירי-לאזור-ירושלים-לא-התקבלו-דיווחים-על-נפילות-260621
-https://news.walla.co.il/break/3828424
-https://news.walla.co.il/break/3828425
-https://news.walla.co.il/break/3828426
+COUNTER:10
 https://hamal.co.il/main/השיטה-החדשה-של-חיזבאללה---והמורל-הירוד-בארגון-260634
 https://hamal.co.il/main/כבה-התקבל-דיווח-ראשוני-על-נפילה-באזור-מזרח-ירושלים-260638
 https://hamal.co.il/main/צהל-על-ההפגנות-מאשרים-החרגה-בכיכר-הבימה-בתל-אביב-260640
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-מעין-הטיל-261565
 https://news.walla.co.il/break/3828980
 https://hamal.co.il/main/תינוק-כבן-שנה-טבע-261567
 https://hamal.co.il/main/פיצוץ-אדיר---ובור-שנפער-בכביש-תיעוד-הנפילה-בראש-העין-261571
+https://news.walla.co.il/break/3828985
+https://hamal.co.il/main/פיקוד-העורף-ההנחיות-נותרו-ללא-שינוי-עד-ליום-חמישי-261575
+https://hamal.co.il/main/אישה-כבת-74-נמצאה-עם-סימני-היפותרמיה-בחיפה-מצבה-קשה-261576
+https://hamal.co.il/main/קרלסון-נגד-טראמפ-מי-אתה-בכלל-פגעת-בכל-הדתות-בעולם-261577
