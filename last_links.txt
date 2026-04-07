@@ -1,5 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3828457
+COUNTER:33
 https://news.walla.co.il/item/3828454
 https://news.walla.co.il/item/3828455
 https://news.walla.co.il/item/3828459
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829019
 https://hamal.co.il/main/צפו-דגל-ענק-נפרס-על-בניין-שנפגע-ברמת-דן-261646
 https://hamal.co.il/main/בארהב-מאשרים-תקפנו-מטרות-באי-חארג-261649
 https://hamal.co.il/main/שביעי-של-פסח-אלו-זמני-כניסת-ויציאת-החג-261651
+https://hamal.co.il/main/הכירו-את-נקודת-האור-של-החיילים-בשדה-הקרב-בלבנון-כאשר-חייל-261653
