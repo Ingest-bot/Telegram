@@ -1,9 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/הירי-מתימן-הטיל-נפל-בשטח-פתוח-אין-נפגעים-260689
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-260691
-https://hamal.co.il/main/ייצור-המתחם-הפטרוכימי-שהותקף-באיראן-260692
-https://news.walla.co.il/break/3828448
-https://news.walla.co.il/break/3828449
+COUNTER:28
 https://news.walla.co.il/break/3828450
 https://hamal.co.il/main/בצהל-מבהירים-מחוייבים-לפירוק-חיזבאללה---גם-אם-זה-ייקח-זמן-260637
 https://hamal.co.il/main/התקהלו-בניגוד-לחוק-10-מפגינים-נעצרו-ברחבת-הבימה-260696
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירו
 https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261621
 https://news.walla.co.il/break/3829012
 https://hamal.co.il/main/הירי-מאיראן-11-זירות-נפילה-במרכז-לא-דווח-על-נפגעים-261632
+https://news.walla.co.il/break/3829015
+https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה-בפתח-תקווה-261636
+https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה-בפתח-תקווה-261637
+https://hamal.co.il/main/דיווח-תקיפות-261638
+https://hamal.co.il/main/דיווח-תקיפות-261639
