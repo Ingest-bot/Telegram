@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/פצצת-מצרר-נפלה-ליד-הקריה-בתל-אביב-260561
-https://hamal.co.il/main/מדא-על-הירי-לצפת-צוותים-יצאו-לסרוק-זירות-260562
-https://news.walla.co.il/break/3828408
-https://news.walla.co.il/break/3828412
+COUNTER:37
 https://hamal.co.il/main/טראמפ-על-איראן-260565
 https://hamal.co.il/main/צעיר-בן-22-נפצע-קשה-בתאונת-דרכים-סמוך-לנוף-הגליל-260566
 https://hamal.co.il/main/איתור-אמלח-וחיסול-מחבלים-פעילות-לוחמי-גבעתי-בלבנון-260567
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3828962
 https://news.walla.co.il/break/3828959
 https://news.walla.co.il/break/3828960
 https://hamal.co.il/main/צהל-באזהרה-חריגה-לאיראנים--261503
+https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-261507
+https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-המרכז-261510
+https://hamal.co.il/main/צהל-הושלמה-התייצבות-כוחותינו-בקו-הנט-בדרום-לבנון-261508
+https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירת-נפילה-בבני-ברק-261536
