@@ -1,9 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/ילד-בן-3-נחנק-מפריט-שנכרך-סביב-צווארו-בבני-ברק-מצבו-בינוני-260718
-https://hamal.co.il/main/רב-הכותל-פנה-לפיקוד-העורף-בבקשה-להרחיב-את-כניסת-המתפללים-ביר-260719
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יופעלו-בדקות-הקרובות-260721
-https://news.walla.co.il/break/3828483
-https://news.walla.co.il/break/3828486
+COUNTER:9
 https://news.walla.co.il/break/3828487
 https://news.walla.co.il/break/3828485
 https://news.walla.co.il/break/3828489
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3827438
 https://hamal.co.il/main/מבצע-הגשרים-צהל-מודיע-שהותקפו-8-גשרים-ששימשו-להעברת-נשק-261718
 https://hamal.co.il/main/כוחות-חטיבת-יהודה-פשטו-על-מוקדי-טרור-בעיר-חברון-261722
 https://hamal.co.il/main/גבר-בן-42-נורה-למוות-בלוד---האירוע-מסתמן-כפלילי-261725
+https://news.walla.co.il/break/3829044
+https://news.walla.co.il/break/3829046
+https://news.walla.co.il/item/3829042
+https://hamal.co.il/main/לקראת-הסלמה-איראן-ניתקה-את-התקשורת-הישירה-עם-ארהב-261732
+https://hamal.co.il/main/תיעוד-מאיראן-המשטר-משתמש-באזרחים-כדי-למנוע-פגיעה-בתשתיות-261735
