@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3828556
-https://news.walla.co.il/break/3828557
+COUNTER:37
 https://hamal.co.il/main/חוליות-של-חיזבאללה-זוהו---והושמדו-מעל-90-מחבלים-חוסלו-עד-כה-260803
 https://news.walla.co.il/break/3828561
 https://news.walla.co.il/break/3828559
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829090
 https://news.walla.co.il/break/3829091
 https://hamal.co.il/main/רויטרס-מתקן-דיפלומטי-אמריקני-הותקף-ליד-נמל-התעופה-בבגדד-261854
 https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבי-צור-בלבנון-261855
+https://hamal.co.il/main/גורם-איראני-בכיר-בוחנים-בחיוב-את-הצעת-ההפוגה-261856
+https://hamal.co.il/main/גורם-במזרח-התיכון-הסכם-צפוי-להיסגר-הלילה-261858
