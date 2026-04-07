@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3828396
-https://news.walla.co.il/break/3828399
+COUNTER:31
 https://news.walla.co.il/break/3828401
 https://hamal.co.il/main/צהל-לא-מוכרת-אינדיקציה-לירי-נרחב-מלבנון-לישראל-260551
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפילות-או-נפגעים-260552
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ראמפ-ציין-את-פסח-בבית-הלבן---ונ�
 https://news.walla.co.il/item/3828955
 https://news.walla.co.il/item/3828956
 https://hamal.co.il/main/אחרי-ההפוגה-הגשם-חוזר-לקראת-החג--התחזית-261491
+https://hamal.co.il/main/דיווח-המנהיג-העליון-261493
+https://hamal.co.il/main/תיעוד-מחבלי-חיזבאללה-261494
