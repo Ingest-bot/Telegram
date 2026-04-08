@@ -1,5 +1,4 @@
 COUNTER:7
-https://news.walla.co.il/break/3828586
 https://news.walla.co.il/break/3828589
 https://news.walla.co.il/item/3828587
 https://hamal.co.il/main/נהג-משאית-נהרג-בתאונת-דרכים-260836
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מהפך-במזג-האוויר-גשם-סופות-ושי
 https://news.walla.co.il/break/3829119
 https://hamal.co.il/main/טראמפ-איראן-יכולה-להתחיל-בתהליך-השיקום-261998
 https://hamal.co.il/main/אזעקה-הופעלה-בבחריין-261999
+https://news.walla.co.il/item/3829120
