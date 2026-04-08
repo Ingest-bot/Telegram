@@ -1,6 +1,4 @@
 COUNTER:29
-https://news.walla.co.il/break/3828692
-https://hamal.co.il/main/חשד-לרצח-נקבע-מותו-של-גבר-בן-36-שנפצע-באירוע-אלימות-באופקים-261023
 https://hamal.co.il/main/מפכל-המשטרה-בזירת-פגיעת-הטיל-בחיפה-הערכה---שלא-התפוצץ-261025
 https://hamal.co.il/main/ראש-עיריית-ר״ג-על-החזרה-ללימודים-״אין-שום-החלטה״-261026
 https://hamal.co.il/main/רהמ-נתניהו-מקבל-את-התנצלותו-של-זיו-אגמון-261027
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סמר-טובאל-יוסף-ליפשיץ-נפל-בקרב
 https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262156
 https://news.walla.co.il/item/3829229
 https://news.walla.co.il/item/3829227
+https://news.walla.co.il/break/3829232
+https://news.walla.co.il/item/3829231
