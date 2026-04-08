@@ -1,5 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/item/3828587
 https://hamal.co.il/main/נהג-משאית-נהרג-בתאונת-דרכים-260836
 https://news.walla.co.il/break/3828591
 https://news.walla.co.il/break/3828594
@@ -499,3 +498,4 @@ https://hamal.co.il/main/טראמפ-איראן-יכולה-להתחיל-בתהל�
 https://hamal.co.il/main/אזעקה-הופעלה-בבחריין-261999
 https://news.walla.co.il/item/3829120
 https://hamal.co.il/main/חיסול-ממוקד-חיל-האוויר-חיסל-4-מחבלים-סמוך-לצור-262004
+https://news.walla.co.il/break/3829122
