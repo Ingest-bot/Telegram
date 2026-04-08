@@ -1,5 +1,4 @@
 COUNTER:29
-https://news.walla.co.il/break/3828617
 https://news.walla.co.il/break/3828616
 https://news.walla.co.il/break/3828621
 https://news.walla.co.il/item/3828615
@@ -499,3 +498,4 @@ https://hamal.co.il/main/טרגדיה-בסיני-נועה-מור-בת-38-נהר�
 https://news.walla.co.il/item/3829149
 https://hamal.co.il/main/משרד-החינוך-הודיע-חזרה-ללימודים-החל-ממחר-262067
 https://hamal.co.il/main/צהל-מבהיר-כי-נכון-לשעה-זו-לא-חל-שינוי-בהנחיות-פיקוד-העורף-262068
+https://news.walla.co.il/item/3829154
