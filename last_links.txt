@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/ירי-סמוך-לבית-הלבן-אין-נפגעים-מצוד-אחר-חשוד-261042
-https://hamal.co.il/main/משמרות-המהפכה-261043
-https://news.walla.co.il/break/3828717
-https://news.walla.co.il/break/3828716
+COUNTER:38
 https://hamal.co.il/main/הפרת-סדר-באזור-קברי-המלכים-בירושלים-שוטרים-נפצעו-261046
 https://news.walla.co.il/break/3828718
 https://news.walla.co.il/break/3828720
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בעקבות-הפסקת-האש-הרכבת-הקלה-במ
 https://hamal.co.il/main/תאונת-אופנוע-קטלנית-בירושלים-נקבע-מותו-של-גבר-בן-25-262169
 https://hamal.co.il/main/איראן-מכלית-נפט-ניסתה-לעבור-במיצרי-הורמוז---ונחסמה-262171
 https://hamal.co.il/main/משרד-הבריאות-מעדכן-7433-נפגעים-במבצע-שאגת-הארי-262172
+https://news.walla.co.il/break/3829251
+https://news.walla.co.il/break/3829252
+https://news.walla.co.il/break/3829253
+https://hamal.co.il/main/סגנו-של-טראמפ-הישראלים-הציעו-״לרסן״-את-עצמם-בזירה-הלבנונית-262173
