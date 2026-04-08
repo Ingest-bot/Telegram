@@ -1,5 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/הפרת-סדר-באזור-קברי-המלכים-בירושלים-שוטרים-נפצעו-261046
+COUNTER:39
 https://news.walla.co.il/break/3828718
 https://news.walla.co.il/break/3828720
 https://news.walla.co.il/break/3828722
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829251
 https://news.walla.co.il/break/3829252
 https://news.walla.co.il/break/3829253
 https://hamal.co.il/main/סגנו-של-טראמפ-הישראלים-הציעו-״לרסן״-את-עצמם-בזירה-הלבנונית-262173
+https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-בביירות-כעת--צפו-בתיעוד-262175
