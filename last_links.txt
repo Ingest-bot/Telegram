@@ -1,5 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3828642
+COUNTER:39
 https://hamal.co.il/main/השר-יריב-לוין-נגד-בגץ-על-הקבינט-להנחות-את-המשטרה-למנוע-הפג-260895
 https://news.walla.co.il/break/3828648
 https://news.walla.co.il/break/3828650
@@ -499,3 +498,4 @@ https://hamal.co.il/main/איראן-תקיפות-במפרץ-כתגובה-לפג�
 https://news.walla.co.il/item/3829168
 https://hamal.co.il/main/מספר-פצועים-בתקיפה-ישראלית-בחאן-יונס-262090
 https://hamal.co.il/main/כלי-טיס-של-חיל-האוויר-תקף-רכב-בכביש-בדרום-לבנון-262093
+https://hamal.co.il/main/תושבים-באיראן-חוששים-מהיום-שאחרי-המלחמה-262098
