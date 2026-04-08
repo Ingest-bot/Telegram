@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3828663
-https://hamal.co.il/main/הייר-מאיראן-תיעוד-ההרס-בחיפה-260937
-https://hamal.co.il/main/ניתן-לצאת-מהמרחב-המוגן-260938
-https://hamal.co.il/main/הפגיעה-במבנה-בחיפה-פצוע-קשה-חולץ-260939
-https://hamal.co.il/main/אירוע-פגיעה-ישירה-במבנה-בעיר-חיפה-חשש-ללכודים-לוחמי-האש-מ-260940
-https://news.walla.co.il/break/3828667
+COUNTER:14
 https://news.walla.co.il/break/3828668
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטב-260949
 https://hamal.co.il/main/תיעוד-מאמצי-הכיבוי-והחילוץ-בזירה-בחיפה-260953
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ראש-הצלב-האדום-הלבנוני-מדווח-י
 https://hamal.co.il/main/מחקר-חדש-בארהב-רוב-האמריקנים-מחזיקים-בדעה-שלילית-על-ישראל-262125
 https://hamal.co.il/main/ראש-ממשלת-לבנון-קורבנותיה-של-ישראל-אזרחים-חפים-מפשע-262126
 https://hamal.co.il/main/חיזבאללה-קיבל-את-המכה-הגדולה-ביותר-מאז-מבצע-הביפרים-262131
+https://news.walla.co.il/break/3829189
+https://news.walla.co.il/break/3829190
+https://news.walla.co.il/break/3829191
+https://news.walla.co.il/break/3829192
+https://news.walla.co.il/break/3829193
+https://hamal.co.il/main/האזעקות-בקריית-שמונה-והסביבה-זיהוי-שווא-262134
