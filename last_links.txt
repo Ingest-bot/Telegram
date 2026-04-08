@@ -1,5 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3828674
+COUNTER:19
 https://news.walla.co.il/break/3828675
 https://news.walla.co.il/item/3828671
 https://news.walla.co.il/item/3828672
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829200
 https://hamal.co.il/main/איראן-תיסוג-מהסכם-הפסקת-האש-אם-ישראל-תמשיך-להפר-אותו-262137
 https://hamal.co.il/main/בכיר-איראני-נעניש-את-ישראל-בתגובה-לתקיפה-בלבנון-262138
 https://hamal.co.il/main/תנועת-מכליות-הנפט-דרך-מצר-הורמוז-נעצרה-בגלל-התקיפות-בלבנון-262139
+https://hamal.co.il/main/טראמפ-עומד-לצד-ישראל-חיזבאללה-לא-חלק-מהסכם-הפסקת-האש-262140
