@@ -1,5 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3828721
+COUNTER:1
 https://news.walla.co.il/item/3828719
 https://hamal.co.il/main/דיווח-אישה-מחוסרת-הכרה-בתא-ככל-הנראה-נפלה-בדרך-למרחב-מוגן-261103
 https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-רחב-היקף-במדינה--צפו-בתיעוד-261106
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-בבי�
 https://hamal.co.il/main/ממשל-טראמפ-שוקל-להעניש-חלק-ממדינות-ברית-נאט״ו-262176
 https://news.walla.co.il/break/3829255
 https://news.walla.co.il/break/3829258
+https://hamal.co.il/main/משפחת-הלוחם-שנפל-העבירה-מכתב-לחבריו-בלבנון-״תהיו-חזקים״-262178
