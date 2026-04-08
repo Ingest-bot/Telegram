@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3828675
-https://news.walla.co.il/item/3828671
-https://news.walla.co.il/item/3828672
-https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-ורחבי-הגליל-המערבי-260990
+COUNTER:20
 https://hamal.co.il/main/אחת-אחרי-השנייה-אזעקות-ללא-הרף-בנהריה-וסביבתה-261002
 https://hamal.co.il/main/שלוש-אזעקות-בזו-אחר-זו-מרדף-אחרי-כטבמים-בשמי-הגליל-המערבי-261010
 https://hamal.co.il/main/ברמב״ם-מטופל-גבר-בן-82-מאתר-הפגיעה-בחיפה-מוגדר-בינוני-ויעבו-261011
@@ -499,3 +495,7 @@ https://hamal.co.il/main/איראן-תיסוג-מהסכם-הפסקת-האש-אם
 https://hamal.co.il/main/בכיר-איראני-נעניש-את-ישראל-בתגובה-לתקיפה-בלבנון-262138
 https://hamal.co.il/main/תנועת-מכליות-הנפט-דרך-מצר-הורמוז-נעצרה-בגלל-התקיפות-בלבנון-262139
 https://hamal.co.il/main/טראמפ-עומד-לצד-ישראל-חיזבאללה-לא-חלק-מהסכם-הפסקת-האש-262140
+https://news.walla.co.il/break/3829210
+https://news.walla.co.il/break/3829211
+https://news.walla.co.il/item/3829213
+https://hamal.co.il/main/איראן-הבהירה-למתווכות-כי-היא-לא-תשתתף-בשיחות-השלום-בפקיסטן-262141
