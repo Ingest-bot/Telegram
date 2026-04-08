@@ -1,9 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/אל-על-מאריכה-את-ביטולי-הטיסות---וממשיכה-להפעיל-לוח-חירום-מצו-260913
-https://hamal.co.il/main/לוחמי-אש-בשיתוף-עם-פקער-מחפשים-אחר-3-מנותקי-קשר-בהמשך-לדי-261013
-https://hamal.co.il/main/הרמטכל-בהערכת-מצב-בדרום-לבנון-״יש-לחיזבאללה-1000-הרוגים-ו-261012
-https://hamal.co.il/main/מצבו-של-הגבר-שנפצע-בפגיעת-הטיל-בחיפה-מוגדר-קשה-והוא-מועבר-מ-261014
-https://news.walla.co.il/break/3828683
+COUNTER:22
 https://hamal.co.il/main/צהל-תקף-בביירות-מפקדות-ותחנות-דלק-ששימשו-את-חיזבאללה-צה-261015
 https://hamal.co.il/main/חשש-ל-4-לכודים-בבניין-בן-ה-7-קומות-שספג-פגיעה-ישירה-בחיפה-261019
 https://hamal.co.il/main/עדכון-לאירוע-בשומרת-אין-שריפה-במקום-ללא-נפגעים-כבאות-והצ-261020
@@ -499,3 +494,8 @@ https://hamal.co.il/main/איראן-הבהירה-למתווכות-כי-היא-ל
 https://news.walla.co.il/break/3829215
 https://news.walla.co.il/break/3829216
 https://news.walla.co.il/break/3829217
+https://news.walla.co.il/break/3829218
+https://news.walla.co.il/break/3829219
+https://news.walla.co.il/item/3829220
+https://hamal.co.il/main/בנתיים-בביירות--צפו-בתיעוד-262143
+https://hamal.co.il/main/ראשוני-צהל-תקף-לפני-זמן-קצר-מחבל-מארגון-הטרור-חיזבאללה-בבי-262144
