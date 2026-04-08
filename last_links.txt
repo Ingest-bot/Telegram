@@ -1,5 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3828718
+COUNTER:0
 https://news.walla.co.il/break/3828720
 https://news.walla.co.il/break/3828722
 https://news.walla.co.il/break/3828721
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829252
 https://news.walla.co.il/break/3829253
 https://hamal.co.il/main/סגנו-של-טראמפ-הישראלים-הציעו-״לרסן״-את-עצמם-בזירה-הלבנונית-262173
 https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-בביירות-כעת--צפו-בתיעוד-262175
+https://hamal.co.il/main/ממשל-טראמפ-שוקל-להעניש-חלק-ממדינות-ברית-נאט״ו-262176
