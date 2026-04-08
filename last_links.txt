@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/צהל-חיסלנו-את-260883
-https://hamal.co.il/main/לקראת-הכרעה-ההתלבטות-260834
+COUNTER:32
 https://news.walla.co.il/break/3828624
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-260890
 https://news.walla.co.il/item/3828632
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829154
 https://news.walla.co.il/break/3829157
 https://news.walla.co.il/break/3829159
 https://hamal.co.il/main/מערכת-החינוך-בבת-ים-תיפתח-מחר-262070
+https://hamal.co.il/main/אופטימיות-זהירה-קהל-בליגת-העל-כבר-בשבת-262074
+https://hamal.co.il/main/צה״ל-חיסל-בעזה-מחבל-מומחה-בתחום-ייצור-מטענים-262076
