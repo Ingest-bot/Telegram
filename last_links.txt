@@ -1,11 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3828703
-https://news.walla.co.il/break/3828704
-https://news.walla.co.il/break/3828701
-https://hamal.co.il/main/לוין-זעם-נתניהו-תקף-בגץ-מעלה-את-מכסת-המתפללים-בכותל-אורי-261036
-https://hamal.co.il/main/הרגעים-הקריטיים-המודיעין---והמרוץ-נגד-הזמן-מאחורי-חילוץ-הט-261038
-https://hamal.co.il/main/צבא-ניגריה-חילץ-31-בני-ערובה-ממתקפה-על-כנסייה-5-נהרגו-261037
-https://hamal.co.il/main/מפגש-פסגה-חנן-בן-ארי-ופאר-טסי-מוציאים-שיר-משותף-וואלה-תרבות-261039
+COUNTER:35
 https://hamal.co.il/main/כוכבת-האח-הגדול-מודה-אני-מתחילה-לחשוב-על-רילוקיישן-ספיר-ס-261040
 https://news.walla.co.il/break/3828709
 https://hamal.co.il/main/ירי-סמוך-לבית-הלבן-אין-נפגעים-מצוד-אחר-חשוד-261042
@@ -499,3 +492,10 @@ https://hamal.co.il/main/כך-שבר-אמ״ן-את-חומות-המידור-של-
 https://news.walla.co.il/break/3829242
 https://hamal.co.il/main/חג-שמח-מוזמנים-לשלוח-לנו-את-התיעודים-שלכם-מחגיגות-המימונה-262163
 https://hamal.co.il/main/דובר-צהל-בפרסית-מערכה-זו-טרם-הסתיימה-262165
+https://news.walla.co.il/break/3829246
+https://news.walla.co.il/break/3829247
+https://news.walla.co.il/break/3829248
+https://news.walla.co.il/break/3829249
+https://news.walla.co.il/item/3829245
+https://hamal.co.il/main/בעקבות-הפסקת-האש-הרכבת-הקלה-במרכז-חוזרת-מחר-לפעילות-מלאה-262168
+https://hamal.co.il/main/תאונת-אופנוע-קטלנית-בירושלים-נקבע-מותו-של-גבר-בן-25-262169
