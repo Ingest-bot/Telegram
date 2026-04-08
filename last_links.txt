@@ -1,6 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/תכין-300-אלף-נער-260828
-https://hamal.co.il/main/צהל-חושף-כ-165-שיגורים-260829
+COUNTER:6
 https://hamal.co.il/main/להיות-עם-חופשי---מאיתנו-260830
 https://news.walla.co.il/break/3828586
 https://news.walla.co.il/break/3828589
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829116
 https://news.walla.co.il/break/3829117
 https://news.walla.co.il/break/3829118
 https://hamal.co.il/main/מהפך-במזג-האוויר-גשם-סופות-ושיטפונות---ומתי-מגיע-השרב-261997
+https://news.walla.co.il/break/3829119
+https://hamal.co.il/main/טראמפ-איראן-יכולה-להתחיל-בתהליך-השיקום-261998
