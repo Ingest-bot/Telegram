@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3828687
-https://hamal.co.il/main/תיעודים-מפעילות-כוחות-פיקוד-העורף-בזירות-הנפילה-בצפון-הארץ-261021
-https://hamal.co.il/main/שרה-נתניהו-לפוקס-ניוז-אנחנו-נמצאים-במלחמה-קיומית-261017
+COUNTER:28
 https://news.walla.co.il/break/3828689
 https://news.walla.co.il/break/3828690
 https://news.walla.co.il/break/3828691
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ראשוני-צהל-תקף-לפני-זמן-קצר-מח�
 https://hamal.co.il/main/נתניהו-ימסור-הצהרה-לתקשורת-הערב-262145
 https://hamal.co.il/main/גילויים-חדשים-על-מבצע-״חושך-נצחי״-262146
 https://hamal.co.il/main/יעד-התקיפה-בלבנון-המזכיר-האישי-ואחיין-של-נעים-קאסם-262147
+https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-262151
+https://hamal.co.il/main/תרבחו-ותסעדו-חג-מימונה-שמח-לכל-בית-ישראל-262154
+https://hamal.co.il/main/סמר-טובאל-יוסף-ליפשיץ-נפל-בקרב-בדרום-לבנון-262155
