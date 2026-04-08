@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/נהג-משאית-נהרג-בתאונת-דרכים-260836
-https://news.walla.co.il/break/3828591
-https://news.walla.co.il/break/3828594
+COUNTER:9
 https://hamal.co.il/main/ראשוני-גבר-ניסה-לדקור-פקח-עירוני-ושוטר-בתא---ונוטרל-260838
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-260840
 https://hamal.co.il/main/ניסיון-הדקירה-בתא-החשוד---מעורער-בנפשו-260845
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקה-הופעלה-בבחריין-261999
 https://news.walla.co.il/item/3829120
 https://hamal.co.il/main/חיסול-ממוקד-חיל-האוויר-חיסל-4-מחבלים-סמוך-לצור-262004
 https://news.walla.co.il/break/3829122
+https://news.walla.co.il/break/3829127
+https://news.walla.co.il/item/3829124
+https://hamal.co.il/main/העיתונאית-האמריקנית-שנחטפה-בעיראק-שוחררה-עליה-לעזוב-מידית-262007
