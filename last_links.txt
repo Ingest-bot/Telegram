@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/להיות-עם-חופשי---מאיתנו-260830
+COUNTER:7
 https://news.walla.co.il/break/3828586
 https://news.walla.co.il/break/3828589
 https://news.walla.co.il/item/3828587
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829118
 https://hamal.co.il/main/מהפך-במזג-האוויר-גשם-סופות-ושיטפונות---ומתי-מגיע-השרב-261997
 https://news.walla.co.il/break/3829119
 https://hamal.co.il/main/טראמפ-איראן-יכולה-להתחיל-בתהליך-השיקום-261998
+https://hamal.co.il/main/אזעקה-הופעלה-בבחריין-261999
