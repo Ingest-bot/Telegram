@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/שרף-את-דגל-המדינה-תושב-בית-לחם-260879
-https://hamal.co.il/main/שרף-את-דגל-המדינה-תושב-בית-לחם-260880
-https://hamal.co.il/main/הירי-בליל-הסדר-השתפר-מצבה-של-הילדה-שנפצעה-באורח-אנוש-260881
+COUNTER:27
 https://hamal.co.il/main/נתניהו-בירך-את-טראמפ-260882
 https://news.walla.co.il/break/3828619
 https://news.walla.co.il/break/3828618
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3829140
 https://news.walla.co.il/item/3829143
 https://hamal.co.il/main/האיום-שנותר-באיראן-וחבל-ההצלה-של-חיזבאללה-השאלות-הקשות-262057
 https://hamal.co.il/main/ארגוני-הטרור-חמאס-והגיהאד-האסלאמי-מברכים-את-איראן-262060
+https://news.walla.co.il/item/3829147
+https://hamal.co.il/main/ראש-עיריית-רמת-גן-כבר-הודיע-שגרה-מלאה-בחגיגות-המימונה-262062
+https://hamal.co.il/main/טרגדיה-בסיני-נועה-מור-בת-38-נהרגה-בתאונת-גלישת-קייט-בסיני-262065
