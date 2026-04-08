@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/דיווח-אישה-מחוסרת-הכרה-בתא-ככל-הנראה-נפלה-בדרך-למרחב-מוגן-261103
-https://hamal.co.il/main/דיווחים-באיראן-גל-תקיפות-רחב-היקף-במדינה--צפו-בתיעוד-261106
+COUNTER:3
 https://hamal.co.il/main/2-לכודים-חולצו-ללא-רוח-חיים-מההריסות-בזירת-הנפילה-בחיפה-261108
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בצפון-הארץ-261110
 https://news.walla.co.il/break/3828724
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829255
 https://news.walla.co.il/break/3829258
 https://hamal.co.il/main/משפחת-הלוחם-שנפל-העבירה-מכתב-לחבריו-בלבנון-״תהיו-חזקים״-262178
 https://hamal.co.il/main/עימותים-בבקעת-הירדן-מתיישב-נ-262179
+https://news.walla.co.il/break/3829260
+https://hamal.co.il/main/נער-בן-16-נפגע-מרכב-בקריית-אתא-מצבו-קשה-262180
