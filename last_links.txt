@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3828689
+COUNTER:29
 https://news.walla.co.il/break/3828690
 https://news.walla.co.il/break/3828691
 https://news.walla.co.il/break/3828692
@@ -499,3 +498,4 @@ https://hamal.co.il/main/יעד-התקיפה-בלבנון-המזכיר-האיש�
 https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-262151
 https://hamal.co.il/main/תרבחו-ותסעדו-חג-מימונה-שמח-לכל-בית-ישראל-262154
 https://hamal.co.il/main/סמר-טובאל-יוסף-ליפשיץ-נפל-בקרב-בדרום-לבנון-262155
+https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262156
