@@ -1,11 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/ניסו-להימלט---ונתפסו-בתום-מרדף-מותח-25-שב״חים-נעצרו-בדרום-260910
-https://hamal.co.il/main/גבר-כבן-50-במצב-קשה-עם-חבלה-רב-מערכתית-ואת-נהגת-הרכב-במצב-ק-260914
-https://hamal.co.il/main/אוגדה-91-מרחיבה-את-הפעילות-הקרקעית-הממוקדת-בדרום-לבנון-לוחמ-260915
-https://news.walla.co.il/break/3828658
-https://news.walla.co.il/break/3828662
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-יישמעו-בצפון-הארץ-260917
-https://hamal.co.il/main/אזעקות-נשמעו-באזור-חיפה-והסביבה-260925
+COUNTER:11
 https://hamal.co.il/main/אזעקות-נשמעו-באזור-הנגב-באר-שבע-והסביבה-260933
 https://hamal.co.il/main/חשד-לנפילה-באזור-חיפה-צוותים-בדרכם-לסריקות-260935
 https://news.walla.co.il/break/3828663
@@ -499,3 +492,10 @@ https://hamal.co.il/main/הרמטכל-262114
 https://news.walla.co.il/break/3829179
 https://hamal.co.il/main/נטלי-דדון-נגד-הפסקת-האש-הכסף-ניצח-את-המוסר-262116
 https://hamal.co.il/main/טראמפ-שנשקל-מיזם-משותף-לגביית-אגרות-מעבר-במיצרי-הורמוז-262118
+https://news.walla.co.il/break/3829181
+https://news.walla.co.il/break/3829182
+https://news.walla.co.il/item/3829169
+https://news.walla.co.il/item/3829183
+https://hamal.co.il/main/הרמטכל-נמשיך-להכות-בארגון-הטרור-חיזבאללה-ונמצה-כל-הזדמנות-262121
+https://hamal.co.il/main/ראש-הצלב-האדום-הלבנוני-מדווח-יותר-מ-300-הרוגים-ופצועים-בביי-262122
+https://hamal.co.il/main/מחקר-חדש-בארהב-רוב-האמריקנים-מחזיקים-בדעה-שלילית-על-ישראל-262125
