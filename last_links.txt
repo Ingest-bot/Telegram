@@ -1,7 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/הירי-לעבר-צפון-הארץ-פונו-6-נפגעים-במצב-קל-עם-פגיעות-הדף-260893
-https://news.walla.co.il/break/3828634
-https://hamal.co.il/main/בגלל-המלחמה-תחנת-הרכבת-הזאת-נסגרה-עד-להודעה-חדשה-אודי-עציון-260894
+COUNTER:38
 https://news.walla.co.il/break/3828642
 https://hamal.co.il/main/השר-יריב-לוין-נגד-בגץ-על-הקבינט-להנחות-את-המשטרה-למנוע-הפג-260895
 https://news.walla.co.il/break/3828648
@@ -499,3 +496,6 @@ https://hamal.co.il/main/כווית-יירטנו-28-כטב״מים-איראני�
 https://news.walla.co.il/break/3829164
 https://news.walla.co.il/break/3829165
 https://hamal.co.il/main/איראן-תקיפות-במפרץ-כתגובה-לפגיעה-במתקן-נפט-262088
+https://news.walla.co.il/item/3829168
+https://hamal.co.il/main/מספר-פצועים-בתקיפה-ישראלית-בחאן-יונס-262090
+https://hamal.co.il/main/כלי-טיס-של-חיל-האוויר-תקף-רכב-בכביש-בדרום-לבנון-262093
