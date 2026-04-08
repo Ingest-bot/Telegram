@@ -1,6 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/כוכבת-האח-הגדול-מודה-אני-מתחילה-לחשוב-על-רילוקיישן-ספיר-ס-261040
-https://news.walla.co.il/break/3828709
+COUNTER:37
 https://hamal.co.il/main/ירי-סמוך-לבית-הלבן-אין-נפגעים-מצוד-אחר-חשוד-261042
 https://hamal.co.il/main/משמרות-המהפכה-261043
 https://news.walla.co.il/break/3828717
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829249
 https://news.walla.co.il/item/3829245
 https://hamal.co.il/main/בעקבות-הפסקת-האש-הרכבת-הקלה-במרכז-חוזרת-מחר-לפעילות-מלאה-262168
 https://hamal.co.il/main/תאונת-אופנוע-קטלנית-בירושלים-נקבע-מותו-של-גבר-בן-25-262169
+https://hamal.co.il/main/איראן-מכלית-נפט-ניסתה-לעבור-במיצרי-הורמוז---ונחסמה-262171
+https://hamal.co.il/main/משרד-הבריאות-מעדכן-7433-נפגעים-במבצע-שאגת-הארי-262172
