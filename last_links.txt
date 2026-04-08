@@ -1,7 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/בקרוב-תשלמו-הרבה-יותר-ביט-מקפיצה-שוב-את-העמלה-ליאת-רון-עוד-261031
-https://hamal.co.il/main/ימים-לפני-הבחירות-הונגריה-וסרביה-טוענות-נמצא-מטען-רב-עוצמ-261035
-https://news.walla.co.il/break/3828702
+COUNTER:33
 https://news.walla.co.il/break/3828703
 https://news.walla.co.il/break/3828704
 https://news.walla.co.il/break/3828701
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829240
 https://news.walla.co.il/break/3829241
 https://hamal.co.il/main/נתניהו-בהצהרה-מדינת-ישראל-בהישגים-אדירים-262157
 https://hamal.co.il/main/כך-שבר-אמ״ן-את-חומות-המידור-של-חיזבאללה-בפעם-השנייה-262160
+https://news.walla.co.il/break/3829242
+https://hamal.co.il/main/חג-שמח-מוזמנים-לשלוח-לנו-את-התיעודים-שלכם-מחגיגות-המימונה-262163
+https://hamal.co.il/main/דובר-צהל-בפרסית-מערכה-זו-טרם-הסתיימה-262165
