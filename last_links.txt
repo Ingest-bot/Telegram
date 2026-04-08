@@ -1,8 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/השר-יריב-לוין-נגד-בגץ-על-הקבינט-להנחות-את-המשטרה-למנוע-הפג-260895
-https://news.walla.co.il/break/3828648
-https://news.walla.co.il/break/3828650
-https://news.walla.co.il/item/3828611
+COUNTER:2
 https://hamal.co.il/main/רופא-מאיכילוב-נעצר-בחשד-למעורבות-בדקירה-על-רקע-סכסוך-בכביש-260897
 https://hamal.co.il/main/אירוע-אלימות-בטיילת-באילת-גבר-בן-40-במצב-קשה-260898
 https://news.walla.co.il/break/3828653
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3829168
 https://hamal.co.il/main/מספר-פצועים-בתקיפה-ישראלית-בחאן-יונס-262090
 https://hamal.co.il/main/כלי-טיס-של-חיל-האוויר-תקף-רכב-בכביש-בדרום-לבנון-262093
 https://hamal.co.il/main/תושבים-באיראן-חוששים-מהיום-שאחרי-המלחמה-262098
+https://news.walla.co.il/break/3829172
+https://hamal.co.il/main/במשרד-התחבורה-נערכים-להסרת-המגבלות-על-נתבג-262101
+https://hamal.co.il/main/התקיפה-הגדולה-ביותר-ברחבי-לבנון-מתחילת-מבצע-שאגת-הארי-262103
+https://hamal.co.il/main/טראמפ-לא-תהיה-העשרת-אורניום-ארצות-הברית-ואיראן-י-262104
