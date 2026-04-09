@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3828746
-https://news.walla.co.il/item/3828735
-https://news.walla.co.il/break/3828751
+COUNTER:17
 https://news.walla.co.il/break/3828753
 https://news.walla.co.il/item/3828748
 https://news.walla.co.il/item/3828752
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-מאשר-לוחמי-הצנחנים-חיסלו-ע
 https://news.walla.co.il/break/3829299
 https://news.walla.co.il/break/3829305
 https://news.walla.co.il/item/3829297
+https://news.walla.co.il/break/3829307
+https://news.walla.co.il/item/3829309
+https://hamal.co.il/main/תל-אביב-וירושלים-חוזרות-לאכוף-תשלום-בכחול-לבן-ומי-לא-262200
