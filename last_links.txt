@@ -1,8 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/רפאל-מציינת-15-שנה-ליירוט-הראשון-של-כיפת-ברזל--התיעוד-261372
-https://news.walla.co.il/break/3828870
-https://hamal.co.il/main/המשטרה-סורקת-באילת-לאיתור-נפילות-פריטי-אמלח-261374
-https://hamal.co.il/main/תיעוד-רגע-הנפילה-בפתח-תקווה-במטח-האחרון--צפו-261378
+COUNTER:20
 https://news.walla.co.il/break/3828874
 https://news.walla.co.il/break/3828875
 https://news.walla.co.il/break/3828876
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829447
 https://hamal.co.il/main/טראמפ-פנה-לנתניהו-צמצם-את-התקיפות-בלבנון-262304
 https://hamal.co.il/main/ההרוג-בתאונה-בכביש-25---רסר-ניב-סימון-בוחבוט-זל-262308
 https://hamal.co.il/main/נתניהו-הנחיתי-לפתוח-במשא-ומתן-ישיר-עם-לבנון-262311
+https://news.walla.co.il/break/3829449
+https://hamal.co.il/main/מקור-ישראלי-השגריר-בארהב-יוביל-את-המומ-אין-הפסקת-אש-262313
+https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-262316
+https://hamal.co.il/main/ילד-בן-7-נפצע-קשה-מפגיעת-רכב-באשדוד-262318
