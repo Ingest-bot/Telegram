@@ -1,10 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/״טהרן-לא-תסכים-לפתוח-את-מיצר-הורמוז-תמורת-הפסקת-אש-זמנית״-261201
-https://hamal.co.il/main/חשד-לפרשה-ביטחונית-חמורה-ישראלים-סיפקו-שירותים-לגורמים-באירן-261207
-https://hamal.co.il/main/העיירה-אנצאריה-בדרום-לבנון-לאחר-התקיפות-261213
-https://news.walla.co.il/break/3828791
-https://news.walla.co.il/break/3828792
-https://news.walla.co.il/break/3828788
+COUNTER:28
 https://news.walla.co.il/break/3828790
 https://news.walla.co.il/item/3828785
 https://hamal.co.il/main/הרגשתם-את-זה-רעידת-אדמה-בעוצמה-45-התרחשה-261215
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3829338
 https://hamal.co.il/main/ואנס-יצא-למומ-ישיר-עם-איראן-בוושינגטון-מזהירים-טעות-אחת-262210
 https://hamal.co.il/main/בצל-המלחמה-היערכות-לקיום-טקס-פרס-ישראל-בהשתתפות-טראמפ-262215
 https://hamal.co.il/main/מהודו-ועד-כוש---השינויים-הגדולים-באזור-262218
+https://news.walla.co.il/break/3829347
+https://news.walla.co.il/break/3829350
+https://news.walla.co.il/break/3829351
+https://news.walla.co.il/item/3829346
+https://news.walla.co.il/item/3829345
+https://hamal.co.il/main/ייצר-חומרי-נפץ---ותכנן-לפגוע-באישיות-בכירה-262223
