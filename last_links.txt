@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/item/3828897
-https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרה-ללא-שינוי-261430
+COUNTER:36
 https://hamal.co.il/main/טראמפ-״איראן-יכולה-להימחק-בלילה-אחד-261431
 https://hamal.co.il/main/יוצרי-עספור-סופדים-למורה-לנה-אוסטרובסקי-שנרצחה-בחיפה-261434
 https://finance.walla.co.il/item/3828905
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829474
 https://hamal.co.il/main/ישראל-קללה-סרטן-המתקפה-האנטישמית-של-השר-הפקיסטני-262377
 https://hamal.co.il/main/אחרי-שהמלחמה-עצרה-הנתיב-המהיר-לתל-אביב-יפתח-ביום-ראשון-262329
 https://hamal.co.il/main/מוגתבא-חמינאי-נדרוש-פיצוי-על-כל-הנזקים-שנגרמו-262378
+https://news.walla.co.il/item/3829484
+https://hamal.co.il/main/ראש-עיריית-רמת-גן-ייתכן-שאנחה-לסגור-מחדש-את-מערכת-החינוך-262381
