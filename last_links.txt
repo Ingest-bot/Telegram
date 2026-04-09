@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/חג-בצל-מלחמה-ביג-פאשן-אשדוד-בהישמע-האזעקה-261349
-https://hamal.co.il/main/דיווח-על-שריפה-בדירה-בתל-אביב-לא-ברור-אם-קשור-לירי-מאיראן-261352
-https://news.walla.co.il/break/3828864
-https://news.walla.co.il/break/3828863
+COUNTER:14
 https://hamal.co.il/main/צוותי-מדא-יצאו-לסרוק-זירות-בהן-התקבלו-דיווחים-261355
 https://hamal.co.il/main/בכיר-בבית-הלבן-בוחנים-הצעה-להפסקת-אש-של-45-יום-261357
 https://news.walla.co.il/break/3828865
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829434
 https://hamal.co.il/main/קצין-בלהב-433-נחקר-בחשד-להטרדה-מינית-ומעשה-מגונה-בשוטרת-262294
 https://hamal.co.il/main/ביסמוט-יש-אפשרות-שהמערכה-תתחדש-בימים-הקרובים-262291
 https://hamal.co.il/main/הלוחם-ארי-שפיץ-שנפצע-קשה-בעזה-ישיא-משואה-ביום-העצמאות-262297
+https://news.walla.co.il/break/3829440
+https://news.walla.co.il/item/3829441
+https://news.walla.co.il/item/3829390
+https://hamal.co.il/main/מיליוני-משלוחים-תקועים-בפקק-עצום-מתי-נקבל-את-החבילות-262302
