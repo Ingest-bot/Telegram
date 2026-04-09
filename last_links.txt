@@ -1,8 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/טראמפ-״איראן-יכולה-להימחק-בלילה-אחד-261431
-https://hamal.co.il/main/יוצרי-עספור-סופדים-למורה-לנה-אוסטרובסקי-שנרצחה-בחיפה-261434
-https://finance.walla.co.il/item/3828905
-https://hamal.co.il/main/דובר-צהל-ביצענו-2-סיכולים-משמעותיים-בטהרן-261438
+COUNTER:38
 https://news.walla.co.il/break/3828910
 https://news.walla.co.il/item/3828904
 https://news.walla.co.il/item/3828909
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אחרי-שהמלחמה-עצרה-הנתיב-המהיר-
 https://hamal.co.il/main/מוגתבא-חמינאי-נדרוש-פיצוי-על-כל-הנזקים-שנגרמו-262378
 https://news.walla.co.il/item/3829484
 https://hamal.co.il/main/ראש-עיריית-רמת-גן-ייתכן-שאנחה-לסגור-מחדש-את-מערכת-החינוך-262381
+https://news.walla.co.il/break/3829487
+https://news.walla.co.il/break/3829489
+https://hamal.co.il/main/צהל-החל-לתקוף-אתרי-שיגור-של-חיזבאללה-בלבנון-262387
+https://hamal.co.il/main/דיווחים-מתקפת-כטבמים-על-מספר-מתקנים-חיוניים-בכווית-262389
