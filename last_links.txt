@@ -1,11 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3828887
-https://news.walla.co.il/break/3828888
-https://news.walla.co.il/item/3828889
-https://hamal.co.il/main/אלו-ההרוגים-בנפילת-הטיל-בחיפה-261409
-https://hamal.co.il/main/הסתיים-הליך-הזיהוי-של-4-הקורבנות-מפגיעת-טיל-בחיפה-261410
-https://hamal.co.il/main/אנשים-אהובים-עם-לב-זהב-עיריית-חיפה-נפרדת-261414
-https://news.walla.co.il/item/3828892
+COUNTER:32
 https://hamal.co.il/main/תיעודים-נוספים-מתקיפת-מסוקים-בשדות-תעופה-בטהרן-261416
 https://hamal.co.il/main/אנשי-החינוך-מכריזים-261417
 https://hamal.co.il/main/באוצר-רוצים-חופשה-כפויה-מהלימודים-על-חשבון-הקיץ-261421
@@ -499,3 +492,10 @@ https://hamal.co.il/main/המטח-האחרון-לנהריה-5-רקטות-יור�
 https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-262355
 https://hamal.co.il/main/מהחניונים-למחלקות-בבתי-החולים-חוזרים-לשגרה-זהירה-262325
 https://hamal.co.il/main/טליק-גוויאילי-תשיא-משואה-יחד-עם-גל-הירש-262361
+https://news.walla.co.il/break/3829476
+https://news.walla.co.il/break/3829478
+https://news.walla.co.il/break/3829479
+https://news.walla.co.il/item/3829477
+https://hamal.co.il/main/צהל-ייתכן-ירי-משטח-לבנון-לאזורים-נוספים-בישראל-בשעות-הקרוב-262371
+https://hamal.co.il/main/הרמטכל-זירת-הלחימה-העיקרית-היא-בלבנון-262372
+https://hamal.co.il/main/נתניהו-במסר-לתושבי-הצפון-אין-הפסקת-אש-בלבנון-262374
