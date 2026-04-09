@@ -1,8 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/שתי-נפילות-במטולה-נזק-קל-לרכוש-אין-משהו-חריג-מעבר-לכך-261403
-https://news.walla.co.il/break/3828884
-https://news.walla.co.il/break/3828885
-https://news.walla.co.il/break/3828882
+COUNTER:28
 https://news.walla.co.il/break/3828886
 https://news.walla.co.il/break/3828887
 https://news.walla.co.il/break/3828888
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חשש-לחדירת-כלי-טיס-עוין-אזעקות
 https://news.walla.co.il/break/3829466
 https://news.walla.co.il/item/3829467
 https://hamal.co.il/main/המשא-ומתן-בין-ישראל-ללבנון-יתקיים-בשבוע-הבא-בוושינגטון-262352
+https://news.walla.co.il/break/3829469
+https://hamal.co.il/main/המטח-האחרון-לנהריה-5-רקטות-יורטו-לא-ידוע-על-נפגעים-262354
+https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-262355
+https://hamal.co.il/main/מהחניונים-למחלקות-בבתי-החולים-חוזרים-לשגרה-זהירה-262325
