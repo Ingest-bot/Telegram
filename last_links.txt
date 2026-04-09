@@ -1,6 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחבים-המוגנים-261145
-https://hamal.co.il/main/דיווח-על-15-זירות-במרכז-אישה-נפצעה-קשה-בפתח-תקווה-261147
+COUNTER:8
 https://hamal.co.il/main/דיווח-על-פצוע-בינוני-בזירת-נפילה-בתל-אביב-261149
 https://news.walla.co.il/break/3828727
 https://news.walla.co.il/break/3828729
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ה-FBI-הודיע-עצרנו-אדם-שהדליף-מיד
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-262185
 https://hamal.co.il/main/דיווחים-בלבנון-מחוסלים-בתקיפה-בביירות-262187
 https://hamal.co.il/main/טראמפ-״נאט״ו-לא-היו-שם-כשהיינו-צריכם-אותם-וגם-לא-יהיו״-262188
+https://news.walla.co.il/break/3829274
+https://hamal.co.il/main/טראמפ-״עשר-הנקודות-היו-תרמית-של-לוזרים-מרושעים״-262189
