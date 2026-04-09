@@ -1,7 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/break/3828742
-https://news.walla.co.il/break/3828744
-https://news.walla.co.il/break/3828745
 https://news.walla.co.il/break/3828746
 https://news.walla.co.il/item/3828735
 https://news.walla.co.il/break/3828751
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווחים-באיראן-262196
 https://hamal.co.il/main/צהל-כיתר-262197
 https://news.walla.co.il/item/3829294
 https://hamal.co.il/main/צהל-מאשר-לוחמי-הצנחנים-חיסלו-עשרות-מחבלים-בדרום-לבנון-262199
+https://news.walla.co.il/break/3829299
+https://news.walla.co.il/break/3829305
+https://news.walla.co.il/item/3829297
