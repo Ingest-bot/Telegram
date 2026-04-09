@@ -1,7 +1,4 @@
 COUNTER:34
-https://news.walla.co.il/break/3828805
-https://hamal.co.il/main/שני-לכודים-261226
-https://hamal.co.il/main/צילם-בשטח-ישראל---וקיבל-קריפטו-צעיר-חשוד-בריגול-עבור-איראן-261227
 https://news.walla.co.il/item/3828813
 https://hamal.co.il/main/צה״ל-חיסל-את-אחראי-הארטילריה-261228
 https://news.walla.co.il/break/3828817
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829370
 https://news.walla.co.il/item/3829368
 https://news.walla.co.il/item/3829369
 https://hamal.co.il/main/המערכה-בלבנון-מחבל-יצא-ממנהרה---וחוסל-מצבורי-אמלח-אותרו-262245
+https://news.walla.co.il/break/3829375
+https://news.walla.co.il/item/3829372
+https://news.walla.co.il/item/3829376
