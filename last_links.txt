@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/הקו-התת-קרקעי-של-הרכבת-הקלה-ישוב-לפעול-ביום-חמישי-261446
-https://news.walla.co.il/break/3828926
+COUNTER:8
 https://news.walla.co.il/break/3828931
 https://news.walla.co.il/break/3828933
 https://news.walla.co.il/break/3828934
@@ -499,3 +497,5 @@ https://hamal.co.il/main/השיגורים-לאזור-הצפון-במדא-מעד�
 https://hamal.co.il/main/שורד-השבי-משתף-ברגע-מרגש-עם-פועלים-דיברתי-איתם-ערבית-262370
 https://news.walla.co.il/item/3829504
 https://hamal.co.il/main/בן-28-במצב-קשה-עם-חבלות-בראש-ובגפיים-ידידיה-פראמדיקית-מד-262405
+https://hamal.co.il/main/אזעקות-נשמעו-במטולה-262408
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-262411
