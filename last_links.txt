@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-261236
-https://hamal.co.il/main/סיבת-המוות-נחשפה-נטע-קסטין-נפטר-ממפרצת-מוחית-מולדת-261184
-https://news.walla.co.il/break/3828823
+COUNTER:36
 https://news.walla.co.il/break/3828825
 https://news.walla.co.il/break/3828822
 https://news.walla.co.il/break/3828821
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829379
 https://news.walla.co.il/break/3829381
 https://news.walla.co.il/item/3829385
 https://hamal.co.il/main/באיראן-מאיימים-השעות-הקרובות-קריטיות-נגיב-לתקיפות-בלבנון-262251
+https://news.walla.co.il/break/3829386
+https://news.walla.co.il/break/3829392
+https://hamal.co.il/main/הירי-לצפון-דיווח-על-נפילה-בשטח-פתוח-262260
