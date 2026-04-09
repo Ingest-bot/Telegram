@@ -1,10 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3828753
-https://news.walla.co.il/item/3828748
-https://news.walla.co.il/item/3828752
-https://hamal.co.il/main/תיעודים-חדשים-מתקיפות-חיל-האוויר-בלבנון-261175
-https://hamal.co.il/main/בן-גביר-יש-הישגים-שהציבור-עדיין-לא-יודע-261179
-https://hamal.co.il/main/3-נערים-שטיילו-במצוקי-דרגות-חולצו-במסוק-261180
+COUNTER:20
 https://hamal.co.il/main/עומדת-ליד-הרכב-מביטה-לשמיים---ונפגעת--תיעוד-דרמטי-מהנפילה-261181
 https://news.walla.co.il/item/3828762
 https://hamal.co.il/main/פקיסטן-העבירה-הצעה-לסיום-המלחמה-באיראן-״תיכנס-לתוקף-היום״-261182
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3829297
 https://news.walla.co.il/break/3829307
 https://news.walla.co.il/item/3829309
 https://hamal.co.il/main/תל-אביב-וירושלים-חוזרות-לאכוף-תשלום-בכחול-לבן-ומי-לא-262200
+https://news.walla.co.il/break/3829313
+https://news.walla.co.il/item/3829315
+https://news.walla.co.il/item/3829308
+https://hamal.co.il/main/שר-החינוך-בתי-הספר-של-הקיץ-יוארכו-ב-3-שבועות-262201
+https://hamal.co.il/main/פעל-במסווה-של-עיתונאי-מחבל-מרכזי-בחמאס-חוסל-262202
+https://hamal.co.il/main/השר-שיקלי-טעות-ללכת-להפסקת-אש-בעת-הזו-262203
