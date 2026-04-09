@@ -1,6 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/עומדת-ליד-הרכב-מביטה-לשמיים---ונפגעת--תיעוד-דרמטי-מהנפילה-261181
-https://news.walla.co.il/item/3828762
+COUNTER:22
 https://hamal.co.il/main/פקיסטן-העבירה-הצעה-לסיום-המלחמה-באיראן-״תיכנס-לתוקף-היום״-261182
 https://news.walla.co.il/break/3828771
 https://news.walla.co.il/break/3828768
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829308
 https://hamal.co.il/main/שר-החינוך-בתי-הספר-של-הקיץ-יוארכו-ב-3-שבועות-262201
 https://hamal.co.il/main/פעל-במסווה-של-עיתונאי-מחבל-מרכזי-בחמאס-חוסל-262202
 https://hamal.co.il/main/השר-שיקלי-טעות-ללכת-להפסקת-אש-בעת-הזו-262203
+https://hamal.co.il/main/מ-262204
+https://hamal.co.il/main/ירק-ותקף-חיילת-במהלך-החג-262207
