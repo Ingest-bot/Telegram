@@ -1,5 +1,4 @@
 COUNTER:38
-https://news.walla.co.il/break/3828910
 https://news.walla.co.il/item/3828904
 https://news.walla.co.il/item/3828909
 https://hamal.co.il/main/טראמפ-״יש-לאיראנים-עד-מחר-ב-8-בערב-שעון-החוף-המזרחי-261439
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829487
 https://news.walla.co.il/break/3829489
 https://hamal.co.il/main/צהל-החל-לתקוף-אתרי-שיגור-של-חיזבאללה-בלבנון-262387
 https://hamal.co.il/main/דיווחים-מתקפת-כטבמים-על-מספר-מתקנים-חיוניים-בכווית-262389
+https://news.walla.co.il/break/3829492
