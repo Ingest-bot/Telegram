@@ -1,5 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3828931
+COUNTER:9
 https://news.walla.co.il/break/3828933
 https://news.walla.co.il/break/3828934
 https://hamal.co.il/main/הפיקוד-העליון-של-איראן-איומי-טראמפ-הזויים-ולא-יחפו-על-ההשפל-261447
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3829504
 https://hamal.co.il/main/בן-28-במצב-קשה-עם-חבלות-בראש-ובגפיים-ידידיה-פראמדיקית-מד-262405
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-262408
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-262411
+https://hamal.co.il/main/טראמפ-יש-דיווחים-שאיראן-גובה-עמלות-ממכליות-העוברות-דרך-מצר-262418
