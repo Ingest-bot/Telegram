@@ -1,6 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3828937
-https://hamal.co.il/main/אזעקות-נשמעו-במטולה-והסביבה-261452
+COUNTER:14
 https://news.walla.co.il/break/3828939
 https://news.walla.co.il/break/3828943
 https://hamal.co.il/main/ראש-הממשלה-אישר-את-חזרת-התלמידים-לגנים-ובתי-הספר---לאחר-חג-ה-261453
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-יש-דיווחים-שאיראן-גובה-ע
 https://hamal.co.il/main/בסגירות-מעגל-מהירות-צהל-תקף-כ-10-משגרים-שירו-לעבר-צפון-האר-262419
 https://hamal.co.il/main/בשל-שיגורים-מלבנון-אזעקות-נשמעות-באזור-אשדוד-262421
 https://hamal.co.il/main/אזעקות-נשמעות-גם-באזורים-נרחבים-במרכז-הארץ-262427
+https://hamal.co.il/main/בהמשך-לאזעקות-ללא-דיווחים-חריגים-262429
+https://hamal.co.il/main/נתבג-בעת-הישמע-האזעקות--תיעוד-262431
