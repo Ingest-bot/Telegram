@@ -1,8 +1,4 @@
 COUNTER:24
-https://hamal.co.il/main/החזיק-בצוואה-טרם-ביצוע-פיגוע-261190
-https://hamal.co.il/main/תקיפות-בפאתי-נבטיה-בדרום-לבנון-261192
-https://hamal.co.il/main/דיווח-בטהרן-13-הרוגים-ו-20-פצועים-בתקיפה-על-שכונת-מגורים-261194
-https://news.walla.co.il/item/3828775
 https://hamal.co.il/main/3-ישראליות-נעצרו-בפשיטה-על-גני-ילדים-בתאילנד-ייענשו-בחומרה-261177
 https://hamal.co.il/main/חוסלו-המחבלים-שאחראים-למותם-של-ארבעת-החללים-שנפלו-בלבנון-261200
 https://news.walla.co.il/break/3828785
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3829323
 https://news.walla.co.il/item/3829325
 https://hamal.co.il/main/לוחמי-מגב-פשטו-על-262208
 https://hamal.co.il/main/צהל-מזכל-חיזבאללה-נעים-קאסם-חוסל-בביירות-262209
+https://news.walla.co.il/break/3829331
+https://news.walla.co.il/break/3829336
+https://news.walla.co.il/item/3829330
+https://news.walla.co.il/item/3829329
