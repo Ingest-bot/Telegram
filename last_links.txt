@@ -1,11 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3828911
-https://news.walla.co.il/break/3828912
-https://news.walla.co.il/break/3828913
-https://news.walla.co.il/break/3828914
-https://news.walla.co.il/item/3828916
-https://hamal.co.il/main/טראמפ-חושף-את-המבצע-לחילוץ-הטייסים-שהתרסקו-באיראן-261443
-https://news.walla.co.il/break/3828923
+COUNTER:5
 https://news.walla.co.il/break/3828920
 https://news.walla.co.il/break/3828921
 https://hamal.co.il/main/הקו-התת-קרקעי-של-הרכבת-הקלה-ישוב-לפעול-ביום-חמישי-261446
@@ -499,3 +492,10 @@ https://hamal.co.il/main/שלטונות-בחריין-עצרו-את-קפטן-הנ
 https://hamal.co.il/main/נשיא-ארגנטינה-חאבייר-מיליי-ידליק-משואה-ביום-העצמאות-262391
 https://news.walla.co.il/item/3829494
 https://hamal.co.il/main/בצל-המשך-התקיפות-בלבנון-יור-הפרלמנט-האיראני-מאיים-262393
+https://news.walla.co.il/break/3829498
+https://news.walla.co.il/break/3829499
+https://news.walla.co.il/break/3829500
+https://hamal.co.il/main/אזעקות-בחיפה-עכו-והקריות-262399
+https://hamal.co.il/main/נער-בן-17-נפצע-קשה-מפגיעת-אופנוע-בצפת-262402
+https://hamal.co.il/main/השיגורים-לאזור-הצפון-במדא-מעדכנים-כי-לא-התקבלו-דיווחים-חרי-262404
+https://hamal.co.il/main/שורד-השבי-משתף-ברגע-מרגש-עם-פועלים-דיברתי-איתם-ערבית-262370
