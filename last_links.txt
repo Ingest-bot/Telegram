@@ -1,6 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3828920
-https://news.walla.co.il/break/3828921
+COUNTER:6
 https://hamal.co.il/main/הקו-התת-קרקעי-של-הרכבת-הקלה-ישוב-לפעול-ביום-חמישי-261446
 https://news.walla.co.il/break/3828926
 https://news.walla.co.il/break/3828931
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-בחיפה-עכו-והקריות-262399
 https://hamal.co.il/main/נער-בן-17-נפצע-קשה-מפגיעת-אופנוע-בצפת-262402
 https://hamal.co.il/main/השיגורים-לאזור-הצפון-במדא-מעדכנים-כי-לא-התקבלו-דיווחים-חרי-262404
 https://hamal.co.il/main/שורד-השבי-משתף-ברגע-מרגש-עם-פועלים-דיברתי-איתם-ערבית-262370
+https://news.walla.co.il/item/3829504
+https://hamal.co.il/main/בן-28-במצב-קשה-עם-חבלות-בראש-ובגפיים-ידידיה-פראמדיקית-מד-262405
