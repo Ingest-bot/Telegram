@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3828886
+COUNTER:29
 https://news.walla.co.il/break/3828887
 https://news.walla.co.il/break/3828888
 https://news.walla.co.il/item/3828889
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829469
 https://hamal.co.il/main/המטח-האחרון-לנהריה-5-רקטות-יורטו-לא-ידוע-על-נפגעים-262354
 https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-262355
 https://hamal.co.il/main/מהחניונים-למחלקות-בבתי-החולים-חוזרים-לשגרה-זהירה-262325
+https://hamal.co.il/main/טליק-גוויאילי-תשיא-משואה-יחד-עם-גל-הירש-262361
