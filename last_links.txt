@@ -1,11 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3828790
-https://news.walla.co.il/item/3828785
-https://hamal.co.il/main/הרגשתם-את-זה-רעידת-אדמה-בעוצמה-45-התרחשה-261215
-https://hamal.co.il/main/השר-כ״ץ-״מנהיגי-איראן-חיים-בתחושת-נרדפות-נמשיך-לצוד-אותם״-261214
-https://hamal.co.il/main/איראן-תקפנו-בסיס-אמריקאי-באי-בוביאן-בכווית-261216
-https://news.walla.co.il/break/3828794
-https://news.walla.co.il/break/3828797
+COUNTER:31
 https://news.walla.co.il/break/3828798
 https://news.walla.co.il/item/3828796
 https://hamal.co.il/main/האצה-בייצור-מיירטי-החץ-הממשלה-אישרה-הרחבה-משמעותית-261210
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3829351
 https://news.walla.co.il/item/3829346
 https://news.walla.co.il/item/3829345
 https://hamal.co.il/main/ייצר-חומרי-נפץ---ותכנן-לפגוע-באישיות-בכירה-262223
+https://news.walla.co.il/break/3829355
+https://news.walla.co.il/break/3829357
+https://news.walla.co.il/item/3829347
+https://news.walla.co.il/item/3829352
+https://hamal.co.il/main/19-אלף-תמונות-האקרים-פרו-איראנים-טוענים-כי-חדרו-ללשכתו-של-ה-262229
+https://hamal.co.il/main/שורד-השבי-מבקש-מעם-ישראל--262232
+https://hamal.co.il/main/הקטל-בכבישים-הרוג-ופצוע-אנוש-262236
