@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3828850
-https://hamal.co.il/main/אימו-של-עומר-אדם-מגיבה-לאירוסים-יצאתי-לקנות-שמלה-261225
-https://hamal.co.il/main/יוון-רכשה-מערכת-ארטילריה-מתוצרת-אלביט-ב-23-מיליארד-שקל-261290
-https://hamal.co.il/main/תיעוד-מיוחד-כוחות-חטיבת-גולני-השמידו-יותר-מ-300-תשתיות-טרור-261291
+COUNTER:10
 https://news.walla.co.il/break/3828856
 https://news.walla.co.il/item/3828857
 https://news.walla.co.il/break/3828858
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829422
 https://news.walla.co.il/break/3829424
 https://hamal.co.il/main/אזעקות-במעלות-תרשיחא-והסביבה-262282
 https://hamal.co.il/main/דובר-צהל-בערבית-פרסם-התרעת-פינוי-לשכונות-בדאחייה-בביירות-262285
+https://news.walla.co.il/break/3829429
+https://news.walla.co.il/item/3829430
+https://hamal.co.il/main/שר-הביטחון-חיזבאללה-משווע-להפסקת-אש-262290
+https://hamal.co.il/main/מופת-של-חבר-המונים-מלווים-את-טובאל-ליפשיץ-למנוחות-262288
