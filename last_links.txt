@@ -1,8 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3828874
-https://news.walla.co.il/break/3828875
-https://news.walla.co.il/break/3828876
-https://news.walla.co.il/item/3828877
+COUNTER:22
 https://hamal.co.il/main/התקשורת-האיראנית-נסכים-רק-לסיום-מוחלט-של-המלחמה-261386
 https://hamal.co.il/main/רומי-גונן-חושפת-את-בן-הזוג-תודה-על-האור-שאתה-מכניס-לחיי״-261199
 https://hamal.co.il/main/נתניהו-אנחנו-מחסלים-בשיטתיות-את-מכונת-הכסף-של-משמרות-המהפכה-261391
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829449
 https://hamal.co.il/main/מקור-ישראלי-השגריר-בארהב-יוביל-את-המומ-אין-הפסקת-אש-262313
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-262316
 https://hamal.co.il/main/ילד-בן-7-נפצע-קשה-מפגיעת-רכב-באשדוד-262318
+https://news.walla.co.il/break/3829452
+https://news.walla.co.il/item/3829454
+https://hamal.co.il/main/המשטרה-יצאה-לסרוק-זירות-נפילה-בגזרת-מרחב-אשר-262330
+https://hamal.co.il/main/הירי-לנהריה-חלק-מהרקטות-יורטו-חלק-נפלו-בשטח-פתוח-262331
