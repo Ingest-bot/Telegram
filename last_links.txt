@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/דיווח-על-פצוע-בינוני-בזירת-נפילה-בתל-אביב-261149
-https://news.walla.co.il/break/3828727
+COUNTER:10
 https://news.walla.co.il/break/3828729
 https://hamal.co.il/main/בילינסון-פצועה-במצב-בינוני-קשה-הגיעה-לבית-החולים-261151
 https://news.walla.co.il/break/3828730
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווחים-בלבנון-מחוסלים-בתקיפה
 https://hamal.co.il/main/טראמפ-״נאט״ו-לא-היו-שם-כשהיינו-צריכם-אותם-וגם-לא-יהיו״-262188
 https://news.walla.co.il/break/3829274
 https://hamal.co.il/main/טראמפ-״עשר-הנקודות-היו-תרמית-של-לוזרים-מרושעים״-262189
+https://hamal.co.il/main/עיראק-נעצרו-האחראים-לתקיפת-המלט-שבה-נהרג-חייל-צרפתי-262190
+https://hamal.co.il/main/גבר-כבן-25-נהרג-מפגיעת-רכב-בראשון-לציון-262191
