@@ -1,8 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3828802
-https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-חיזבאללה-בביירות-261223
-https://news.walla.co.il/break/3828809
-https://news.walla.co.il/break/3828806
+COUNTER:34
 https://news.walla.co.il/break/3828805
 https://hamal.co.il/main/שני-לכודים-261226
 https://hamal.co.il/main/צילם-בשטח-ישראל---וקיבל-קריפטו-צעיר-חשוד-בריגול-עבור-איראן-261227
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829367
 https://news.walla.co.il/item/3829358
 https://hamal.co.il/main/זאת-האישיות-הבכירה-שהייתה-על-הכוונת-של-המרגל-האיראני-262237
 https://hamal.co.il/main/חשד-לרצח-בי-ם-בת-75-נמצאה-ללא-רוח-חיים-חשוד-נעצר-262238
+https://news.walla.co.il/break/3829370
+https://news.walla.co.il/item/3829368
+https://news.walla.co.il/item/3829369
+https://hamal.co.il/main/המערכה-בלבנון-מחבל-יצא-ממנהרה---וחוסל-מצבורי-אמלח-אותרו-262245
