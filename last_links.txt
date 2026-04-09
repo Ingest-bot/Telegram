@@ -1,6 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/לאחר-מאבק-ממושך-נווט-הקרב-רס״ן-אסף-דגן-ז״ל-הוכר-כחלל-261174
-https://news.walla.co.il/break/3828741
+COUNTER:16
 https://news.walla.co.il/break/3828742
 https://news.walla.co.il/break/3828744
 https://news.walla.co.il/break/3828745
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גנב-רכב-בערב-חג---וני-262195
 https://news.walla.co.il/item/3829292
 https://hamal.co.il/main/דיווחים-באיראן-262196
 https://hamal.co.il/main/צהל-כיתר-262197
+https://news.walla.co.il/item/3829294
+https://hamal.co.il/main/צהל-מאשר-לוחמי-הצנחנים-חיסלו-עשרות-מחבלים-בדרום-לבנון-262199
