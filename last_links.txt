@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/טראמפ-״יש-לאיראנים-עד-מחר-ב-8-בערב-שעון-החוף-המזרחי-261439
-https://hamal.co.il/main/לאה-יוכבד-זינגר-תושבת-ירושלים-נהרגה-בתאונת-דרכים-בבולגריה-261441
+COUNTER:1
 https://news.walla.co.il/break/3828911
 https://news.walla.co.il/break/3828912
 https://news.walla.co.il/break/3828913
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווחים-מתקפת-כטבמים-על-מספר-מ
 https://news.walla.co.il/break/3829492
 https://hamal.co.il/main/שלטונות-בחריין-עצרו-את-קפטן-הנבחרת-חשוד-בתמיכה-באיראן-262365
 https://hamal.co.il/main/נשיא-ארגנטינה-חאבייר-מיליי-ידליק-משואה-ביום-העצמאות-262391
+https://news.walla.co.il/item/3829494
+https://hamal.co.il/main/בצל-המשך-התקיפות-בלבנון-יור-הפרלמנט-האיראני-מאיים-262393
