@@ -1,9 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3828825
-https://news.walla.co.il/break/3828822
-https://news.walla.co.il/break/3828821
-https://hamal.co.il/main/ללא-שינוי-הלמידה-מרחוק-תמשיך---נבחנת-חזרה-חלקית-מהשבוע-הבא-261239
-https://news.walla.co.il/break/3828827
+COUNTER:0
 https://news.walla.co.il/break/3828829
 https://news.walla.co.il/item/3828828
 https://hamal.co.il/main/זוהה-שיגור-מאיראן-אזעקות-יופעלו-במרכז-261241
@@ -499,3 +494,8 @@ https://hamal.co.il/main/באיראן-מאיימים-השעות-הקרובות-�
 https://news.walla.co.il/break/3829386
 https://news.walla.co.il/break/3829392
 https://hamal.co.il/main/הירי-לצפון-דיווח-על-נפילה-בשטח-פתוח-262260
+https://news.walla.co.il/break/3829395
+https://hamal.co.il/main/למרות-הפסקת-האש-הוארכה-ההמלצה-לא-לטוס-מאירופה-לישראל-262261
+https://hamal.co.il/main/באיראן-מאיימים-נשתתף-בשיחות-רק-אם-ישראל-תפסיק-לתקוף-בלבנון-262263
+https://hamal.co.il/main/השתתף-בטבח-710-262264
+https://hamal.co.il/main/פיצוץ-אדיר-באמצע-הכביש-תיעוד-מתקיפות-צהל-בלבנון-262265
