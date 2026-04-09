@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-261157
-https://hamal.co.il/main/מעונן-חלקית-עם-טמפרטורות-נמוכות-מהרגיל--התחזית-261158
-https://news.walla.co.il/item/3828726
+COUNTER:13
 https://news.walla.co.il/item/3828734
 https://hamal.co.il/main/אזעקות-הופעלו-בנגב-ובים-המלח-261170
 https://hamal.co.il/main/מה-לעזאזל-קורה-כאן-כך-כמעט-כשל-מבצע-החילוץ-המסוכן-מאיראן-261173
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829279
 https://news.walla.co.il/item/3829284
 https://hamal.co.il/main/טראמפ-חוזר-לאיים-אם-ההסכם-לא-יקוים---נחזור-להילחם-262193
 https://hamal.co.il/main/טראמפ-חוזר-לאיים-אם-ההסכם-לא-יקוים---נחזור-להילחם-262194
+https://news.walla.co.il/break/3829285
+https://news.walla.co.il/break/3829287
+https://hamal.co.il/main/גנב-רכב-בערב-חג---וני-262195
