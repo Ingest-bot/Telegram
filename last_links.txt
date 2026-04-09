@@ -1,10 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/דיווח-על-נפילות-בפתח-תקווה-ובבני-ברק-צוותים-יצאו-לסריקה-261256
-https://hamal.co.il/main/12-זירות-בגוש-דן-פצוע-קל-בפגיעה-ברמת-גן-261257
-https://hamal.co.il/main/תיעוד-ההרס-הכבד-בבניין-ברמת-גן-261258
-https://hamal.co.il/main/נתניהו-מי-שממלא-אחר-ההנחיות---הסיכויים-להיפגע-כמעט-ולא-קיימ-261259
-https://hamal.co.il/main/כ״ץ-״צה״ל-תקף-את-המתקן-הפטרוכימי-הגדול-ביותר-באיראן״-261263
-https://hamal.co.il/main/חיסול-מפקדי-המשטר-בטהרן-נמשך-צהל-חיסל-את-מפקד-יחידת-המבצעי-261270
+COUNTER:3
 https://hamal.co.il/main/אזעקות-לא-פוסקות-בגליל-המערבי-ונהריה-עקב-כטב״ם-261276
 https://news.walla.co.il/break/3828843
 https://news.walla.co.il/break/3828845
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פיצוץ-אדיר-באמצע-הכביש-תיעוד-מ
 https://news.walla.co.il/item/3829399
 https://news.walla.co.il/item/3829398
 https://hamal.co.il/main/משרד-החינוך-161-בתי-ספר-וגנים-נפגעו-במהלך-המלחמה-עם-איראן-262268
+https://news.walla.co.il/break/3829401
+https://news.walla.co.il/break/3829402
+https://news.walla.co.il/break/3829403
+https://news.walla.co.il/item/3829404
+https://hamal.co.il/main/צהל-חיסלנו-מפקד-של-ארגון-טרור-הממומן-על-ידי-חיזבאללה-262269
+https://hamal.co.il/main/משאית-262270
