@@ -1,6 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3828847
-https://hamal.co.il/main/דיווחים-על-תקיפה-בשדה-התעופה-של-דובאי-261284
+COUNTER:6
 https://hamal.co.il/main/אישה-נפלה-מגובה-בדרכה-להתמגן-בכביש-20-מצבה-בינוני-261285
 https://hamal.co.il/main/אזעקות-הופעלו-באילת-עקב-חדירת-כטב״ם-261288
 https://news.walla.co.il/break/3828851
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829408
 https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262266
 https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262267
 https://news.walla.co.il/item/3829413
+https://news.walla.co.il/break/3829421
+https://hamal.co.il/main/נשיא-איראן-המשך-ההתקפות-על-לבנון-יהפכו-את-המומ-לחסר-משמעות-262277
