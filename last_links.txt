@@ -1,10 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/פקיסטן-העבירה-הצעה-לסיום-המלחמה-באיראן-״תיכנס-לתוקף-היום״-261182
-https://news.walla.co.il/break/3828771
-https://news.walla.co.il/break/3828768
-https://news.walla.co.il/break/3828772
-https://news.walla.co.il/item/3828766
-https://hamal.co.il/main/אזעקות-הופעלו-בקריית-שמונה-ובגליל-העליון-261189
+COUNTER:24
 https://hamal.co.il/main/החזיק-בצוואה-טרם-ביצוע-פיגוע-261190
 https://hamal.co.il/main/תקיפות-בפאתי-נבטיה-בדרום-לבנון-261192
 https://hamal.co.il/main/דיווח-בטהרן-13-הרוגים-ו-20-פצועים-בתקיפה-על-שכונת-מגורים-261194
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פעל-במסווה-של-עיתונאי-מחבל-מרכ
 https://hamal.co.il/main/השר-שיקלי-טעות-ללכת-להפסקת-אש-בעת-הזו-262203
 https://hamal.co.il/main/מ-262204
 https://hamal.co.il/main/ירק-ותקף-חיילת-במהלך-החג-262207
+https://news.walla.co.il/break/3829324
+https://news.walla.co.il/break/3829326
+https://news.walla.co.il/item/3829323
+https://news.walla.co.il/item/3829325
+https://hamal.co.il/main/לוחמי-מגב-פשטו-על-262208
+https://hamal.co.il/main/צהל-מזכל-חיזבאללה-נעים-קאסם-חוסל-בביירות-262209
