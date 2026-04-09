@@ -1,10 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/תיעודים-נוספים-מתקיפת-מסוקים-בשדות-תעופה-בטהרן-261416
-https://hamal.co.il/main/אנשי-החינוך-מכריזים-261417
-https://hamal.co.il/main/באוצר-רוצים-חופשה-כפויה-מהלימודים-על-חשבון-הקיץ-261421
-https://news.walla.co.il/item/3828895
-https://hamal.co.il/main/משרד-הבריאות-מעדכן-על-חולה-חצבת-שהציבור-בא-איתו-במגע-261426
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-למרכז-הארץ-261428
+COUNTER:35
 https://news.walla.co.il/item/3828897
 https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרה-ללא-שינוי-261430
 https://hamal.co.il/main/טראמפ-״איראן-יכולה-להימחק-בלילה-אחד-261431
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3829477
 https://hamal.co.il/main/צהל-ייתכן-ירי-משטח-לבנון-לאזורים-נוספים-בישראל-בשעות-הקרוב-262371
 https://hamal.co.il/main/הרמטכל-זירת-הלחימה-העיקרית-היא-בלבנון-262372
 https://hamal.co.il/main/נתניהו-במסר-לתושבי-הצפון-אין-הפסקת-אש-בלבנון-262374
+https://news.walla.co.il/break/3829481
+https://news.walla.co.il/break/3829484
+https://news.walla.co.il/item/3829474
+https://hamal.co.il/main/ישראל-קללה-סרטן-המתקפה-האנטישמית-של-השר-הפקיסטני-262377
+https://hamal.co.il/main/אחרי-שהמלחמה-עצרה-הנתיב-המהיר-לתל-אביב-יפתח-ביום-ראשון-262329
+https://hamal.co.il/main/מוגתבא-חמינאי-נדרוש-פיצוי-על-כל-הנזקים-שנגרמו-262378
