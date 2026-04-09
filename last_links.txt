@@ -1,9 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3828798
-https://news.walla.co.il/item/3828796
-https://hamal.co.il/main/האצה-בייצור-מיירטי-החץ-הממשלה-אישרה-הרחבה-משמעותית-261210
-https://hamal.co.il/main/צה״ל-מאשר-חוסל-בטהרן-יו״ר-ארגון-המודיעין-של-משמרות-המהפכה-261220
-https://hamal.co.il/main/בלבנון-מדווחים-על-תקיפות-בדאחיה-כעת-261221
+COUNTER:33
 https://news.walla.co.il/break/3828802
 https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-של-חיזבאללה-בביירות-261223
 https://news.walla.co.il/break/3828809
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3829352
 https://hamal.co.il/main/19-אלף-תמונות-האקרים-פרו-איראנים-טוענים-כי-חדרו-ללשכתו-של-ה-262229
 https://hamal.co.il/main/שורד-השבי-מבקש-מעם-ישראל--262232
 https://hamal.co.il/main/הקטל-בכבישים-הרוג-ופצוע-אנוש-262236
+https://news.walla.co.il/break/3829364
+https://news.walla.co.il/break/3829367
+https://news.walla.co.il/item/3829358
+https://hamal.co.il/main/זאת-האישיות-הבכירה-שהייתה-על-הכוונת-של-המרגל-האיראני-262237
+https://hamal.co.il/main/חשד-לרצח-בי-ם-בת-75-נמצאה-ללא-רוח-חיים-חשוד-נעצר-262238
