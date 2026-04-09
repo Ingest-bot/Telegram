@@ -1,8 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/אזעקות-לא-פוסקות-בגליל-המערבי-ונהריה-עקב-כטב״ם-261276
-https://news.walla.co.il/break/3828843
-https://news.walla.co.il/break/3828845
-https://news.walla.co.il/break/3828844
+COUNTER:5
 https://news.walla.co.il/break/3828842
 https://news.walla.co.il/break/3828847
 https://hamal.co.il/main/דיווחים-על-תקיפה-בשדה-התעופה-של-דובאי-261284
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829403
 https://news.walla.co.il/item/3829404
 https://hamal.co.il/main/צהל-חיסלנו-מפקד-של-ארגון-טרור-הממומן-על-ידי-חיזבאללה-262269
 https://hamal.co.il/main/משאית-262270
+https://news.walla.co.il/break/3829406
+https://news.walla.co.il/break/3829408
+https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262266
+https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262267
