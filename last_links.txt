@@ -1,5 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/צוותי-מדא-יצאו-לסרוק-זירות-בהן-התקבלו-דיווחים-261355
 https://hamal.co.il/main/בכיר-בבית-הלבן-בוחנים-הצעה-להפסקת-אש-של-45-יום-261357
 https://news.walla.co.il/break/3828865
 https://hamal.co.il/main/בשדות-התעופה-בטהרן-צה״ל-תקף-עשרות-מטוסים-ומסוקים-261361
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829440
 https://news.walla.co.il/item/3829441
 https://news.walla.co.il/item/3829390
 https://hamal.co.il/main/מיליוני-משלוחים-תקועים-בפקק-עצום-מתי-נקבל-את-החבילות-262302
+https://news.walla.co.il/item/3829442
