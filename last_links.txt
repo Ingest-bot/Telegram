@@ -1,5 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/--261555
+COUNTER:31
 https://hamal.co.il/main/החל-מהשעה-1100-כביש-90---ייחסם-לתנועה-בשל-מזג-האוויר-261558
 https://hamal.co.il/main/ניתץ-א-261559
 https://news.walla.co.il/item/3828977
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829550
 https://news.walla.co.il/item/3829552
 https://news.walla.co.il/item/3829547
 https://hamal.co.il/main/לאחר-שהותקף-שר-החוץ-לשעבר-של-איראן-מת-מפצעיו-262461
+https://hamal.co.il/main/השיגורים-מלבנון-יורטו-הפסקת-חשמל-במטולה-262467
