@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/item/3828956
-https://hamal.co.il/main/אחרי-ההפוגה-הגשם-חוזר-לקראת-החג--התחזית-261491
-https://hamal.co.il/main/דיווח-המנהיג-העליון-261493
+COUNTER:22
 https://hamal.co.il/main/תיעוד-מחבלי-חיזבאללה-261494
 https://news.walla.co.il/item/3828957
 https://hamal.co.il/main/מתחת-לאף-האיראני-מבצע-עריפת-ראשי-משמרות-המהפכה-נחשף-261498
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חרף-הלחץ-האמריקני-חיל-האוויר-ת
 https://news.walla.co.il/break/3829527
 https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-עדיין-קר-מהרגיל-262440
 https://news.walla.co.il/break/3829528
+https://news.walla.co.il/break/3829531
+https://hamal.co.il/main/חשד-לרצח-בתל-שבע-גבר-נורה-למוות-הרקע-פלילי-262446
+https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262447
