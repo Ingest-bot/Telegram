@@ -1,8 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/מקור-איראני-אם-ארהב-תתקוף-מתקני-אנרגיה---האזור-יהיה-בחשכה-261712
-https://hamal.co.il/main/מדא-שני-פצועים-קל-משברי-יירוט-ורסיסים-בצפון-ובדרום-261713
-https://news.walla.co.il/item/3827438
-https://hamal.co.il/main/מבצע-הגשרים-צהל-מודיע-שהותקפו-8-גשרים-ששימשו-להעברת-נשק-261718
+COUNTER:32
 https://hamal.co.il/main/כוחות-חטיבת-יהודה-פשטו-על-מוקדי-טרור-בעיר-חברון-261722
 https://hamal.co.il/main/גבר-בן-42-נורה-למוות-בלוד---האירוע-מסתמן-כפלילי-261725
 https://news.walla.co.il/break/3829044
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829611
 https://hamal.co.il/main/צוותי-מדא-יצאו-לסריקות-בגזרת-העיר-קרית-שמונה-262586
 https://hamal.co.il/main/קריית-שמונה---שריפה-בדירה-לאחר-נפילה-ללא-אזעקה-262587
 https://hamal.co.il/main/צהל-חושף-את-נתוני-התקיפה-הגדולה-ביותר-ברחבי-לבנון-262591
+https://news.walla.co.il/break/3829624
+https://news.walla.co.il/break/3829625
+https://news.walla.co.il/break/3829626
+https://hamal.co.il/main/קריית-שמונה-שוב-זה-קורה-2-נפילות-בעיר-ללא-אזעקה-262601
