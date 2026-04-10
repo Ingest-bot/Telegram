@@ -1,6 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/הירי-מאיראן-דיווח-על-מספר-זירות-נפילה-בתא-ובפת-261620
-https://hamal.co.il/main/פיקוד-העורף-ניתן-לצאת-מהמרחב-המוגן-261621
+COUNTER:12
 https://news.walla.co.il/break/3829012
 https://hamal.co.il/main/הירי-מאיראן-11-זירות-נפילה-במרכז-לא-דווח-על-נפגעים-261632
 https://news.walla.co.il/break/3829015
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שוחרר-262499
 https://hamal.co.il/main/פרשת-שמיני-אלו-זמני-השבת-262489
 https://hamal.co.il/main/צעיר-נפצע-במהלך-רכיבה-על-אופניים-262503
 https://hamal.co.il/main/הירי-לצפון-דיווחים-על-נפילה-בדיר-262505
+https://news.walla.co.il/break/3829582
+https://hamal.co.il/main/צהל-חושף-חיזבאללה-שיגר-רקטות-מתוך-בית-ספר---שהותקף-לאחר-מכ-262504
