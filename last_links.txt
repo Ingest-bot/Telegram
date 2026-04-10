@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קל-ב-3-זירות-נפילה-בנהריה-261593
-https://news.walla.co.il/item/3828997
-https://news.walla.co.il/item/3828999
+COUNTER:3
 https://news.walla.co.il/item/3828998
 https://news.walla.co.il/item/3829000
 https://hamal.co.il/main/דיווח-יריות-נשמעו-261595
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829566
 https://hamal.co.il/main/הבשורה-שחיכיתם-לה-חברת-הלואו-קוסט-פותחת-אפשרות-לרכישת-כרטיס-262481
 https://hamal.co.il/main/מעל-200-משגרים-הושמדו-262482
 https://hamal.co.il/main/אל-על-זינוק-חריג-במכירות-כרטיסים-מאז-החזרה-לשגרה-262483
+https://news.walla.co.il/item/3829568
+https://hamal.co.il/main/מפקד-חיל-הים-יסיים-את-תפקידו-אלוף-אייל-הראל-יחליפו-262484
+https://hamal.co.il/main/בית-כנסת-262490
