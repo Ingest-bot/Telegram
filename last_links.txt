@@ -1,6 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-261672
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-בדרום-הארץ-261689
+COUNTER:28
 https://hamal.co.il/main/הטיל-מאיראן-יורט-לא-ידוע-על-נפגעים-261704
 https://news.walla.co.il/break/3829034
 https://news.walla.co.il/break/3829035
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829601
 https://news.walla.co.il/break/3829602
 https://hamal.co.il/main/השתיקה-מפנה-מקום-להקשבה-אלוף-אכ״א-דדו-בר-כליפא-במסר-לפקודיו-262561
 https://hamal.co.il/main/אלו-מדליקי-המשואות-מטעם-צהל-262565
+https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-הארץ-לא-התקבלו-דיווחים-על-נפגעים-262573
+https://hamal.co.il/main/טראמפ-על-הכרעת-המשא-ומתן-נדע-בתוך-בערך-24-שעות-262579
