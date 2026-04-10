@@ -1,9 +1,4 @@
 COUNTER:33
-https://hamal.co.il/main/לקראת-הסלמה-איראן-ניתקה-את-התקשורת-הישירה-עם-ארהב-261732
-https://hamal.co.il/main/תיעוד-מאיראן-המשטר-משתמש-באזרחים-כדי-למנוע-פגיעה-בתשתיות-261735
-https://hamal.co.il/main/הרמטכל-אנו-לקראת-צומת-אסטרטגי-במערכה-המשותפת-מול-איראן-261738
-https://hamal.co.il/main/דיווח-סעודי-התקף-מפגש-של-בכירים-איראנים-261739
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-אזעקות-צפויות-במרכז-הארץ-261741
 https://news.walla.co.il/break/3829052
 https://news.walla.co.il/break/3829053
 https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-על-נפילות-או-נפגעים-261773
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3829636
 https://news.walla.co.il/break/3829637
 https://news.walla.co.il/break/3829638
 https://hamal.co.il/main/הירי-מלבנון-נמשך-אזעקות-הופעלו-בקריית-שמונה-וסביבה-262610
+https://news.walla.co.il/break/3829639
+https://news.walla.co.il/break/3829640
+https://news.walla.co.il/break/3829642
+https://news.walla.co.il/break/3829645
+https://news.walla.co.il/break/3829648
