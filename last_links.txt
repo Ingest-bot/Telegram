@@ -1,6 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3829037
-https://hamal.co.il/main/נתניהו-תקפנו-את-המסילות-והגשרים-שמשמשים-את-משמרות-המהפכה-261708
+COUNTER:30
 https://hamal.co.il/main/דובר-צהל-מעריכים-שאיראן-וחיזבאללה-ירו-לישראל-בערב-החג-261709
 https://hamal.co.il/main/מקור-איראני-אם-ארהב-תתקוף-מתקני-אנרגיה---האזור-יהיה-בחשכה-261712
 https://hamal.co.il/main/מדא-שני-פצועים-קל-משברי-יירוט-ורסיסים-בצפון-ובדרום-261713
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-על-הכרעת-המשא-ומתן-נדע-ב�
 https://news.walla.co.il/break/3829609
 https://news.walla.co.il/break/3829610
 https://news.walla.co.il/break/3829611
+https://hamal.co.il/main/צוותי-מדא-יצאו-לסריקות-בגזרת-העיר-קרית-שמונה-262586
+https://hamal.co.il/main/קריית-שמונה---שריפה-בדירה-לאחר-נפילה-ללא-אזעקה-262587
