@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3828980
-https://hamal.co.il/main/תינוק-כבן-שנה-טבע-261567
+COUNTER:36
 https://hamal.co.il/main/פיצוץ-אדיר---ובור-שנפער-בכביש-תיעוד-הנפילה-בראש-העין-261571
 https://news.walla.co.il/break/3828985
 https://hamal.co.il/main/פיקוד-העורף-ההנחיות-נותרו-ללא-שינוי-עד-ליום-חמישי-261575
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829558
 https://hamal.co.il/main/אשדוד-אישה-ותינוקת-חולצו-במצב-בינוני-משריפה-שפרצה-בבניין-262471
 https://hamal.co.il/main/הירי-מלבנון-262472
 https://hamal.co.il/main/כמה-הוא-שווה-גנב-262473
+https://hamal.co.il/main/האם-הפסקת-האש-עם-איראן-תחזיק-מעמד-262475
+https://hamal.co.il/main/נשיא-העליון-נגד-המשטרה-262476
