@@ -1,6 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/תיעוד-מחבלי-חיזבאללה-261494
-https://news.walla.co.il/item/3828957
+COUNTER:23
 https://hamal.co.il/main/מתחת-לאף-האיראני-מבצע-עריפת-ראשי-משמרות-המהפכה-נחשף-261498
 https://news.walla.co.il/break/3828962
 https://news.walla.co.il/break/3828959
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829528
 https://news.walla.co.il/break/3829531
 https://hamal.co.il/main/חשד-לרצח-בתל-שבע-גבר-נורה-למוות-הרקע-פלילי-262446
 https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262447
+https://news.walla.co.il/item/3829535
+https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262448
