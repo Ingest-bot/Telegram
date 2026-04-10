@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/הירי-261597
+COUNTER:7
 https://news.walla.co.il/break/3829007
 https://news.walla.co.il/break/3829008
 https://news.walla.co.il/break/3829010
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829572
 https://hamal.co.il/main/בית-כנסת-262492
 https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262493
 https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262494
+https://hamal.co.il/main/פיקוד-העורף-ההנחיות-נותרו-ללא-שינוי-עד-יום-שבת-262495
