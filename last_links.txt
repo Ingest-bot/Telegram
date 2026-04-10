@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3828954
-https://hamal.co.il/main/ראמפ-ציין-את-פסח-בבית-הלבן---ונפגש-עם-מנהיגים-יהודים-עידן-קו-261485
+COUNTER:20
 https://news.walla.co.il/item/3828955
 https://news.walla.co.il/item/3828956
 https://hamal.co.il/main/אחרי-ההפוגה-הגשם-חוזר-לקראת-החג--התחזית-261491
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הבית-הלבן-הזהיר-עובדים-מביצוע-
 https://hamal.co.il/main/שני-בני-אדם-נפצעו-בתאונת-דרכים-בקריית-מוצקין-יואב-איתיאל-ש-262438
 https://news.walla.co.il/break/3829526
 https://hamal.co.il/main/חרף-הלחץ-האמריקני-חיל-האוויר-תקף-יעדי-חיזבאללה-בדרום-לבנון-א-262439
+https://news.walla.co.il/break/3829527
+https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-עדיין-קר-מהרגיל-262440
