@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3828960
-https://hamal.co.il/main/צהל-באזהרה-חריגה-לאיראנים--261503
-https://hamal.co.il/main/זוהה-שיגור-מאיראן-לאילת-261507
+COUNTER:27
 https://hamal.co.il/main/זוהה-שיגור-נוסף-מאיראן-לעבר-המרכז-261510
 https://hamal.co.il/main/צהל-הושלמה-התייצבות-כוחותינו-בקו-הנט-בדרום-לבנון-261508
 https://hamal.co.il/main/הירי-מאיראן-דיווח-על-זירת-נפילה-בבני-ברק-261536
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החש
 https://hamal.co.il/main/המודיעין-התריע-כוחות-רדואן-הוזרמו-דרומה-השאלות-סביב-התמרון-262443
 https://news.walla.co.il/break/3829539
 https://hamal.co.il/main/הירי-מלבנון-מבנה-נפגע-באצבע-הגליל-נפגעת-חרדה-במקום-262451
+https://news.walla.co.il/item/3829542
+https://hamal.co.il/main/הירי-מלבנון-מבנה-נפגע-באצבע-הגליל-נפגעת-חרדה-במקום-262452
+https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262453
