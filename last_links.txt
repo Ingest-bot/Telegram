@@ -1,5 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/כוחות-חטיבת-יהודה-פשטו-על-מוקדי-טרור-בעיר-חברון-261722
 https://hamal.co.il/main/גבר-בן-42-נורה-למוות-בלוד---האירוע-מסתמן-כפלילי-261725
 https://news.walla.co.il/break/3829044
 https://news.walla.co.il/break/3829046
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829624
 https://news.walla.co.il/break/3829625
 https://news.walla.co.il/break/3829626
 https://hamal.co.il/main/קריית-שמונה-שוב-זה-קורה-2-נפילות-בעיר-ללא-אזעקה-262601
+https://news.walla.co.il/item/3829631
