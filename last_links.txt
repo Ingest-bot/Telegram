@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3829016
-https://news.walla.co.il/break/3829018
-https://hamal.co.il/main/מגיח-מאחורי-רכב---וטוען-את-הנשק-תיעוד-הירי-באיסטנבול-261642
-https://news.walla.co.il/break/3829019
-https://hamal.co.il/main/צפו-דגל-ענק-נפרס-על-בניין-שנפגע-ברמת-דן-261646
+COUNTER:19
 https://hamal.co.il/main/בארהב-מאשרים-תקפנו-מטרות-באי-חארג-261649
 https://hamal.co.il/main/שביעי-של-פסח-אלו-זמני-כניסת-ויציאת-החג-261651
 https://hamal.co.il/main/הכירו-את-נקודת-האור-של-החיילים-בשדה-הקרב-בלבנון-כאשר-חייל-261653
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3829585
 https://hamal.co.il/main/חמש-אוגדות-פועלות-במקביל-ברחבי-דרום-לבנון-262512
 https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באזור-צפת-262517
 https://hamal.co.il/main/נתניהו-ספרד-הכפישה-את-חיילי-צהל---נציגיה-סולקו-ממרכז-התאום-262519
+https://news.walla.co.il/break/3829592
+https://news.walla.co.il/item/3829591
+https://hamal.co.il/main/נתניהו-ביקש-לבטל-את-עדותו-בשבועיים-הקרובים--הסיבה-262520
+https://hamal.co.il/main/זירת-הפילה-בצפת---ללא-נפגעים--התמונות-והתיעודים-262523
+https://hamal.co.il/main/12-פצועים-קל-אוטובוס-התנגש-במעקה-בטיחות-בשרון-262524
