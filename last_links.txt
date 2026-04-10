@@ -1,6 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/בארהב-מאשרים-תקפנו-מטרות-באי-חארג-261649
-https://hamal.co.il/main/שביעי-של-פסח-אלו-זמני-כניסת-ויציאת-החג-261651
+COUNTER:20
 https://hamal.co.il/main/הכירו-את-נקודת-האור-של-החיילים-בשדה-הקרב-בלבנון-כאשר-חייל-261653
 https://news.walla.co.il/break/3829025
 https://news.walla.co.il/item/3829023
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829591
 https://hamal.co.il/main/נתניהו-ביקש-לבטל-את-עדותו-בשבועיים-הקרובים--הסיבה-262520
 https://hamal.co.il/main/זירת-הפילה-בצפת---ללא-נפגעים--התמונות-והתיעודים-262523
 https://hamal.co.il/main/12-פצועים-קל-אוטובוס-התנגש-במעקה-בטיחות-בשרון-262524
+https://news.walla.co.il/break/3829595
+https://hamal.co.il/main/תיעוד-מקרוב-רגע-הנפילה-בצפת-262528
