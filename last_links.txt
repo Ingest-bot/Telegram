@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3829012
-https://hamal.co.il/main/הירי-מאיראן-11-זירות-נפילה-במרכז-לא-דווח-על-נפגעים-261632
-https://news.walla.co.il/break/3829015
+COUNTER:13
 https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה-בפתח-תקווה-261636
 https://hamal.co.il/main/עשן-והרס-רב-בדירה-תיעוד-הפגיעה-בפתח-תקווה-261637
 https://hamal.co.il/main/דיווח-תקיפות-261638
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צעיר-נפצע-במהלך-רכיבה-על-אופני
 https://hamal.co.il/main/הירי-לצפון-דיווחים-על-נפילה-בדיר-262505
 https://news.walla.co.il/break/3829582
 https://hamal.co.il/main/צהל-חושף-חיזבאללה-שיגר-רקטות-מתוך-בית-ספר---שהותקף-לאחר-מכ-262504
+https://news.walla.co.il/break/3829585
+https://news.walla.co.il/break/3829589
+https://hamal.co.il/main/אירוע-טביעה-קשה-בנתניה-נער-כבן-21-במצב-אנוש-262509
