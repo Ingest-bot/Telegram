@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/שוטרים-פשטו-על-בית-בצפון---ומצאו-סכום-עתק-במקום-יצירתי-במיוח-261580
-https://hamal.co.il/main/שוטרים-פשטו-על-בית-בצפון---ומצאו-סכום-עתק-במקום-יצירתי-במיוח-261582
-https://hamal.co.il/main/רכב-261583
-https://hamal.co.il/main/הירי-לצפון-דיווח-על-נפילה-בנהריה-261588
-https://hamal.co.il/main/המשטרה-על-פיצוץ-הרכב-בטירה-הרקע---פלילי-261589
+COUNTER:1
 https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קל-ב-3-זירות-נפילה-בנהריה-261593
 https://news.walla.co.il/item/3828997
 https://news.walla.co.il/item/3828999
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3829563
 https://news.walla.co.il/item/3829564
 https://hamal.co.il/main/תיעוד-מלבנון-מחבל-מסתתר-בשיחים---ומחוסל-יחד-עם-שאר-החולייה-262480
 https://hamal.co.il/main/בית-המשפט-אישר-איריס-חיים-תוכל-להביא-ילד-מזרעו-של-יותם-262477
+https://news.walla.co.il/break/3829565
+https://news.walla.co.il/break/3829566
+https://hamal.co.il/main/הבשורה-שחיכיתם-לה-חברת-הלואו-קוסט-פותחת-אפשרות-לרכישת-כרטיס-262481
+https://hamal.co.il/main/מעל-200-משגרים-הושמדו-262482
+https://hamal.co.il/main/אל-על-זינוק-חריג-במכירות-כרטיסים-מאז-החזרה-לשגרה-262483
