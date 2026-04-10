@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3829007
-https://news.walla.co.il/break/3829008
+COUNTER:8
 https://news.walla.co.il/break/3829010
 https://hamal.co.il/main/הירי-באיסטנבול-3-אנשים-נוטרלו-סמוך-לקונסוליה-הישראלית-261600
 https://hamal.co.il/main/הטיל-מתמרן---ומתפוצץ-בשמיים-תיעוד-היירוט-באילת-261604
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בית-כנסת-262492
 https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262493
 https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262494
 https://hamal.co.il/main/פיקוד-העורף-ההנחיות-נותרו-ללא-שינוי-עד-יום-שבת-262495
+https://news.walla.co.il/break/3829579
+https://hamal.co.il/main/שוחרר-262499
