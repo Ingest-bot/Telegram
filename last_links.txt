@@ -1,5 +1,4 @@
 COUNTER:29
-https://news.walla.co.il/break/3829127
 https://news.walla.co.il/item/3829124
 https://hamal.co.il/main/העיתונאית-האמריקנית-שנחטפה-בעיראק-שוחררה-עליה-לעזוב-מידית-262007
 https://news.walla.co.il/break/3829130
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-�
 https://news.walla.co.il/break/3829726
 https://news.walla.co.il/item/3829727
 https://hamal.co.il/main/משפחתו-של-סמ״ר-בן-כהן-ז״ל-הודתה-ללוחמי-עוקץ--מרגש-262779
+https://news.walla.co.il/break/3829732
