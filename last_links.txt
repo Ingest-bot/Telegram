@@ -1,11 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/זוהו-שיגורים-נוספים-מאיראן-למרכז-הארץ-261775
-https://news.walla.co.il/break/3829055
-https://hamal.co.il/main/מדא-על-הירי-מאיראן-לא-התקבלו-קריאות-על-נפילות-או-נפגעים-261798
-https://hamal.co.il/main/המיליציות-בעיראק-החליטו-לשחרר-את-העיתונאית-האמריקאית-החטופה-261804
-https://hamal.co.il/main/130-מחבלים-חוסלו-פעילות-אוגדה-146-בדרום-לבנון-261812
-https://hamal.co.il/main/צהל-מודיע-על-סגר-ימי-מצור-דרומה-בדרום-לבנון--כל-הפרטים-261813
-https://hamal.co.il/main/הותר-לפרסום-261815
+COUNTER:38
 https://hamal.co.il/main/כביש-90-נפתח-לתנועה-261817
 https://news.walla.co.il/break/3829071
 https://news.walla.co.il/break/3829073
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3829648
 https://hamal.co.il/main/--262614
 https://hamal.co.il/main/תיעוד-הגעת-המשלחת-האיראנית-לפקיסטן-262616
 https://hamal.co.il/main/טראמפ-נדע-מחר-אם-המומ-מוצלח-262621
+https://news.walla.co.il/break/3829650
+https://news.walla.co.il/break/3829651
+https://news.walla.co.il/break/3829652
+https://news.walla.co.il/break/3829653
+https://news.walla.co.il/break/3829654
+https://hamal.co.il/main/7-פצועים-בתאונה-קשה-בכביש-89-שני-צעירים-במצב-קשה-ופונו-במסו-262626
+https://hamal.co.il/main/תאונת-דרכים-קטלנית-בשומרון-נקבע-מותם-של-5-פלסטינים-262628
