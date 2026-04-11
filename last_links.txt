@@ -1,6 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/חיסול-ממוקד-חיל-האוויר-חיסל-4-מחבלים-סמוך-לצור-262004
-https://news.walla.co.il/break/3829122
+COUNTER:29
 https://news.walla.co.il/break/3829127
 https://news.walla.co.il/item/3829124
 https://hamal.co.il/main/העיתונאית-האמריקנית-שנחטפה-בעיראק-שוחררה-עליה-לעזוב-מידית-262007
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מדא-על-הירי-לצפון-דיווח-ראשוני
 https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-262770
 https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-דיווחים-262772
 https://news.walla.co.il/break/3829726
+https://news.walla.co.il/item/3829727
+https://hamal.co.il/main/משפחתו-של-סמ״ר-בן-כהן-ז״ל-הודתה-ללוחמי-עוקץ--מרגש-262779
