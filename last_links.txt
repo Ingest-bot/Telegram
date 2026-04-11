@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3829124
-https://hamal.co.il/main/העיתונאית-האמריקנית-שנחטפה-בעיראק-שוחררה-עליה-לעזוב-מידית-262007
+COUNTER:31
 https://news.walla.co.il/break/3829130
 https://hamal.co.il/main/לפיד-לא-היה-אסון-מדיני-כזה-בכל-תולדותינו-262012
 https://hamal.co.il/main/ליברמן-מגיב-להפסקת-האש-נצטרך-לחזור-לעוד-מערכה-בתנאים-קשים-262016
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829726
 https://news.walla.co.il/item/3829727
 https://hamal.co.il/main/משפחתו-של-סמ״ר-בן-כהן-ז״ל-הודתה-ללוחמי-עוקץ--מרגש-262779
 https://news.walla.co.il/break/3829732
+https://hamal.co.il/main/התקדמות-גורם-אמריקני-ייתכן-שסבב-השיחות-בפקיסטן-יוארך-262781
+https://hamal.co.il/main/אזעקות-בצפת-והסביבה-262787
