@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3829149
+COUNTER:6
 https://hamal.co.il/main/משרד-החינוך-הודיע-חזרה-ללימודים-החל-ממחר-262067
 https://hamal.co.il/main/צהל-מבהיר-כי-נכון-לשעה-זו-לא-חל-שינוי-בהנחיות-פיקוד-העורף-262068
 https://news.walla.co.il/item/3829154
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3829750
 https://news.walla.co.il/item/3829751
 https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-בתאונה-מבצעית-במרכז-הרצועה-262829
 https://hamal.co.il/main/צהל-הפרת-סדר-בבנימין---מיידה-אבנים-לעבר-כוחותינו-חוסל-262830
+https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו-262833
