@@ -1,6 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/מדא-2-פצועים-קל-מרסיסים-בדרום-הארץ-261850
-https://hamal.co.il/main/צהל-ייתכן-ירי-מוגבר-לישראל-בשעות-הקרובות-261851
+COUNTER:8
 https://hamal.co.il/main/בכיר-איראני-לרויטרס-שוקלים-בחיוב-את-ההצעה-של-פקיסטן-261853
 https://news.walla.co.il/break/3829086
 https://news.walla.co.il/break/3829087
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3829670
 https://hamal.co.il/main/ניצחון-בסלון-יוצא-לדרך-262662
 https://hamal.co.il/main/הסריקות-אחר-הנעדר-בחוף-צאנז-בנתניה-נמשכות-262666
 https://news.walla.co.il/item/3829668
+https://news.walla.co.il/break/3829677
+https://hamal.co.il/main/תחת-מעקב-כך-נראים-חיי-שחקניות-נבחרת-איראן-אחרי-החזרה-הביתה-262670
