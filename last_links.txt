@@ -1,6 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/break/3829073
-https://news.walla.co.il/break/3829074
 https://news.walla.co.il/break/3829075
 https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261819
 https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-דיווחים-261825
@@ -499,3 +497,5 @@ https://hamal.co.il/main/7-פצועים-בתאונה-קשה-בכביש-89-שני
 https://hamal.co.il/main/תאונת-דרכים-קטלנית-בשומרון-נקבע-מותם-של-5-פלסטינים-262628
 https://news.walla.co.il/break/3829656
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-262638
+https://news.walla.co.il/break/3829657
+https://news.walla.co.il/item/3829649
