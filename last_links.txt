@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3829120
 https://hamal.co.il/main/חיסול-ממוקד-חיל-האוויר-חיסל-4-מחבלים-סמוך-לצור-262004
 https://news.walla.co.il/break/3829122
 https://news.walla.co.il/break/3829127
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829722
 https://hamal.co.il/main/מדא-על-הירי-לצפון-דיווח-ראשוני-על-פגיעה-במבנה-בשלומי-262760
 https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-262770
 https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-דיווחים-262772
+https://news.walla.co.il/break/3829726
