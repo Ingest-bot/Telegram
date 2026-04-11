@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/חיל-האוויר-תקף-רכב-בדרום-לבנון-262053
-https://news.walla.co.il/item/3829140
-https://news.walla.co.il/item/3829143
+COUNTER:2
 https://hamal.co.il/main/האיום-שנותר-באיראן-וחבל-ההצלה-של-חיזבאללה-השאלות-הקשות-262057
 https://hamal.co.il/main/ארגוני-הטרור-חמאס-והגיהאד-האסלאמי-מברכים-את-איראן-262060
 https://news.walla.co.il/item/3829147
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צבא-ארהב-התחלנו-במבצע-לפינוי-ה
 https://hamal.co.il/main/חדשות-השבת-262816
 https://hamal.co.il/main/השיחות-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-סביב-סוגיית-הורמוז-262817
 https://hamal.co.il/main/צעיר-בן-24-נפצע-קשה-באירוע-אלימות-בערערה-262818
+https://news.walla.co.il/break/3829746
+https://news.walla.co.il/break/3829747
+https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262827
