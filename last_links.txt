@@ -1,6 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/למרות-הפסקת-האש-אין-שינוי-בהנחיות-ההתגוננות-262033
-https://news.walla.co.il/break/3829133
+COUNTER:36
 https://hamal.co.il/main/דיווח-חיזבאללה-מחויב-להפסקת-האש-262036
 https://hamal.co.il/main/לאחר-האזהרה-חיל-האוויר-תוקף-בלבנון-262039
 https://hamal.co.il/main/ראש-המועצת-הגליל-העליון-אותנו-כרגע-לא-מעניינות-הפסקת-אש-262042
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829738
 https://news.walla.co.il/item/3829737
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-262801
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-262805
+https://news.walla.co.il/break/3829740
+https://hamal.co.il/main/״יש-היתקלות-מזהה-מחבלים---פגיעה-שני-מחבלים-חוסלו״-262808
