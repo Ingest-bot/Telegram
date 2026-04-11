@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/טראמפ--261993
-https://news.walla.co.il/break/3829114
-https://news.walla.co.il/break/3829115
+COUNTER:25
 https://news.walla.co.il/break/3829116
 https://news.walla.co.il/break/3829117
 https://news.walla.co.il/break/3829118
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-בצפת-262703
 https://news.walla.co.il/break/3829712
 https://hamal.co.il/main/צהל-על-הפגיעה-ללא-התרעה-בקש-השיגורים-לא-זוהו-262706
 https://hamal.co.il/main/טראמפ-טוען-מתחילים-במבצע-לפינוי-מוקשים-במיצר-הורמוז-262707
+https://hamal.co.il/main/צהל-תקף-יותר-מ-200-מטרות-חיזבאללה-בלבנון-262710
+https://hamal.co.il/main/אזעקות-בגליל-העליון-והמערבי-262718
+https://hamal.co.il/main/איריס-חיים-על-החלטת-ביהמש-ממשיכה-את-התקווה-262738
