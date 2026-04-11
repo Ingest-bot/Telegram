@@ -1,6 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/כביש-90-נפתח-לתנועה-261817
-https://news.walla.co.il/break/3829071
+COUNTER:39
 https://news.walla.co.il/break/3829073
 https://news.walla.co.il/break/3829074
 https://news.walla.co.il/break/3829075
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829653
 https://news.walla.co.il/break/3829654
 https://hamal.co.il/main/7-פצועים-בתאונה-קשה-בכביש-89-שני-צעירים-במצב-קשה-ופונו-במסו-262626
 https://hamal.co.il/main/תאונת-דרכים-קטלנית-בשומרון-נקבע-מותם-של-5-פלסטינים-262628
+https://news.walla.co.il/break/3829656
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-262638
