@@ -1,11 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3829116
-https://news.walla.co.il/break/3829117
-https://news.walla.co.il/break/3829118
-https://hamal.co.il/main/מהפך-במזג-האוויר-גשם-סופות-ושיטפונות---ומתי-מגיע-השרב-261997
-https://news.walla.co.il/break/3829119
-https://hamal.co.il/main/טראמפ-איראן-יכולה-להתחיל-בתהליך-השיקום-261998
-https://hamal.co.il/main/אזעקה-הופעלה-בבחריין-261999
+COUNTER:28
 https://news.walla.co.il/item/3829120
 https://hamal.co.il/main/חיסול-ממוקד-חיל-האוויר-חיסל-4-מחבלים-סמוך-לצור-262004
 https://news.walla.co.il/break/3829122
@@ -499,3 +492,10 @@ https://hamal.co.il/main/טראמפ-טוען-מתחילים-במבצע-לפינ�
 https://hamal.co.il/main/צהל-תקף-יותר-מ-200-מטרות-חיזבאללה-בלבנון-262710
 https://hamal.co.il/main/אזעקות-בגליל-העליון-והמערבי-262718
 https://hamal.co.il/main/איריס-חיים-על-החלטת-ביהמש-ממשיכה-את-התקווה-262738
+https://news.walla.co.il/break/3829719
+https://news.walla.co.il/break/3829720
+https://news.walla.co.il/break/3829721
+https://news.walla.co.il/break/3829722
+https://hamal.co.il/main/מדא-על-הירי-לצפון-דיווח-ראשוני-על-פגיעה-במבנה-בשלומי-262760
+https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-262770
+https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-דיווחים-262772
