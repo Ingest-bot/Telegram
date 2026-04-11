@@ -1,6 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-דיווחים-261825
-https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261827
+COUNTER:2
 https://hamal.co.il/main/נער-כבן-16-נרצח-ביריות-בכפר-קרע---המשטרה-פתחה-בחקירה-261829
 https://news.walla.co.il/break/3829080
 https://news.walla.co.il/item/3829078
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829657
 https://news.walla.co.il/item/3829649
 https://hamal.co.il/main/אישה-נוספת-נאנסתי-על-ידי-אותו-אדם-שחשוד-באונס-שי-לי-עטרי-262642
 https://hamal.co.il/main/ירידה-קלה-בטמפרטורות-וגשמים-מקומיים-בצפון--תחזית-מזג-האוויר-262646
+https://news.walla.co.il/break/3829658
+https://hamal.co.il/main/אזעקות-הופעלו-בקש-והסביבה-מחשש-לחדירת-כלי-טיס-עוין-262653
