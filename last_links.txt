@@ -1,10 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3829154
-https://news.walla.co.il/break/3829157
-https://news.walla.co.il/break/3829159
-https://hamal.co.il/main/מערכת-החינוך-בבת-ים-תיפתח-מחר-262070
-https://hamal.co.il/main/אופטימיות-זהירה-קהל-בליגת-העל-כבר-בשבת-262074
-https://hamal.co.il/main/צה״ל-חיסל-בעזה-מחבל-מומחה-בתחום-ייצור-מטענים-262076
+COUNTER:9
 https://hamal.co.il/main/ישראייר-נערכת-להרחבת-פעילותה-בעקבות-הכרזת-הפסקת-האש-262079
 https://hamal.co.il/main/חיזבאללה-הפרת-הפסקת-האש--תגרור-תגובה-איראנית-אזורית-262082
 https://hamal.co.il/main/כווית-יירטנו-28-כטב״מים-איראנים-ששוגרו-למתקני-נפט-מהבוקר-262087
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צהל-הפרת-סדר-בבנימין---מיידה-אב
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו-262833
 https://hamal.co.il/main/TUS-Airways-הודיעה-על-חידוש-טיסותיה-לישראל-262823
 https://news.walla.co.il/item/3829758
+https://news.walla.co.il/break/3829763
+https://news.walla.co.il/break/3829762
+https://news.walla.co.il/break/3829760
+https://news.walla.co.il/item/3829759
+https://hamal.co.il/main/חוליית-חיזבאללה-ניסתה-לחסל-רב-יהודי-בדמשק---וחוסלה-262840
+https://hamal.co.il/main/לוחם-מצא-בעזה-פסל-של-אבנר-ומיה-גורן---והשיבו-לניר-עוז-262843
