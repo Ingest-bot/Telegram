@@ -1,5 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/האיום-שנותר-באיראן-וחבל-ההצלה-של-חיזבאללה-השאלות-הקשות-262057
+COUNTER:3
 https://hamal.co.il/main/ארגוני-הטרור-חמאס-והגיהאד-האסלאמי-מברכים-את-איראן-262060
 https://news.walla.co.il/item/3829147
 https://hamal.co.il/main/ראש-עיריית-רמת-גן-כבר-הודיע-שגרה-מלאה-בחגיגות-המימונה-262062
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צעיר-בן-24-נפצע-קשה-באירוע-אלימ�
 https://news.walla.co.il/break/3829746
 https://news.walla.co.il/break/3829747
 https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262827
+https://hamal.co.il/main/נחיתה-מדויקת-ומושלמת-ארטמיס-2-חזרה-מהמסע-לירח-בשלום-262790
