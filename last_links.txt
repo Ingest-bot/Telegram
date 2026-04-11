@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/כווית-יירטנו-28-כטב״מים-איראנים-ששוגרו-למתקני-נפט-מהבוקר-262087
-https://news.walla.co.il/break/3829164
+COUNTER:11
 https://news.walla.co.il/break/3829165
 https://hamal.co.il/main/איראן-תקיפות-במפרץ-כתגובה-לפגיעה-במתקן-נפט-262088
 https://news.walla.co.il/item/3829168
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חוליית-חיזבאללה-ניסתה-לחסל-רב-
 https://hamal.co.il/main/לוחם-מצא-בעזה-פסל-של-אבנר-ומיה-גורן---והשיבו-לניר-עוז-262843
 https://news.walla.co.il/break/3829766
 https://hamal.co.il/main/גבר-בן-37-נפצע-קשה-באירוע-אלימות-בדימונה-262849
+https://news.walla.co.il/item/3829769
+https://hamal.co.il/main/סבב-שיחות-שלישי-החל-בפקיסטן-ההזדמנות-האחרונה-של-ארהב-262850
