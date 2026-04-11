@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3829109
-https://news.walla.co.il/break/3829110
+COUNTER:18
 https://news.walla.co.il/break/3829111
 https://news.walla.co.il/item/3829113
 https://hamal.co.il/main/דוברת-הבית-הלבן-אל-תמעיטו-ביכולתו-של-טראמפ-לתווך-שלום-261986
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שגריר-איראן-262682
 https://news.walla.co.il/break/3829704
 https://news.walla.co.il/item/3829707
 https://hamal.co.il/main/דיווח-שני-לוחמים-נפצעו-באורח-בינוני-בדרום-לבנון-262686
+https://hamal.co.il/main/טראמפ-״אם-השיחות-לא-יצליחו-׳נאתחל-את-המלחמה׳-262695
+https://hamal.co.il/main/שיגור-מלבנון-אזעקות-בנהריה-והסביבה-262698
