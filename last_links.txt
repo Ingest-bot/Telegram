@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3829075
-https://hamal.co.il/main/זוהו-שיגורים-מאיראן-לדרום-הארץ-261819
+COUNTER:1
 https://hamal.co.il/main/מדא-על-הירי-לדרום-לא-התקבלו-דיווחים-261825
 https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261827
 https://hamal.co.il/main/נער-כבן-16-נרצח-ביריות-בכפר-קרע---המשטרה-פתחה-בחקירה-261829
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829656
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-בשל-חשש-לחדירת-כטבם-262638
 https://news.walla.co.il/break/3829657
 https://news.walla.co.il/item/3829649
+https://hamal.co.il/main/אישה-נוספת-נאנסתי-על-ידי-אותו-אדם-שחשוד-באונס-שי-לי-עטרי-262642
+https://hamal.co.il/main/ירידה-קלה-בטמפרטורות-וגשמים-מקומיים-בצפון--תחזית-מזג-האוויר-262646
