@@ -1,5 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3829090
+COUNTER:11
 https://news.walla.co.il/break/3829091
 https://hamal.co.il/main/רויטרס-מתקן-דיפלומטי-אמריקני-הותקף-ליד-נמל-התעופה-בבגדד-261854
 https://hamal.co.il/main/אזהרת-פינוי-דחופה-לתושבי-צור-בלבנון-261855
@@ -499,3 +498,4 @@ https://hamal.co.il/main/המשלחת-האיראני-למומ-נפגשת-עם-ר
 https://hamal.co.il/main/ישראל-תוקפת-בלבנון-11-בני-אדם-נהרגו-הרס-רב-בזירות-262674
 https://news.walla.co.il/break/3829685
 https://news.walla.co.il/item/3829688
+https://hamal.co.il/main/מחוות-רצינות-262675
