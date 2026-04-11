@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/טראמפ-״שנים-של-סחיטה-שחיתות-ומוות-יסתיימו-בסוף״-261860
-https://hamal.co.il/main/שעתיים-לפקיעת-האולטימטום-של-טראמפ-המשא-ומתן-עדיין-מתנהל-261864
+COUNTER:15
 https://hamal.co.il/main/טראמפ-מכריז-הפסקת-אש-של-שבועיים-עם-איראן-261872
 https://news.walla.co.il/break/3829107
 https://news.walla.co.il/break/3829108
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הישראלים-חזרו-לטייל-קהל-גדול-מ
 https://hamal.co.il/main/בבית-הלבן-מכחישים-לא-הסכמנו-לשחרר-נכסים-מוקפאים-של-איראן-262681
 https://news.walla.co.il/break/3829697
 https://news.walla.co.il/item/3829700
+https://news.walla.co.il/break/3829701
+https://hamal.co.il/main/שגריר-איראן-262682
