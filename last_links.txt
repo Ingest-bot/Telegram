@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילת-רסיסים-בבאר-שבע-לא-ידוע-על-נפגעים-261845
-https://hamal.co.il/main/צהל-ניתן-לצאת-מהמרחבים-המוגנים-261847
-https://news.walla.co.il/item/3829084
+COUNTER:7
 https://hamal.co.il/main/רהמ-פקיסטן-קורא-לטראמפ-להאריך-את-הדד-ליין-לאיראן-בשבועיים-261849
 https://hamal.co.il/main/מדא-2-פצועים-קל-מרסיסים-בדרום-הארץ-261850
 https://hamal.co.il/main/צהל-ייתכן-ירי-מוגבר-לישראל-בשעות-הקרובות-261851
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829663
 https://hamal.co.il/main/לקראת-השיחות-עם-המשלחת-האיראנית-סגן-הנשיא-נחת-בפקיסטן-262660
 https://news.walla.co.il/break/3829665
 https://hamal.co.il/main/דיווח-מוגתבא-חמינאי-עדיין-מחלים-מפציעות-קשות-בפניו-וברגליו-262661
+https://news.walla.co.il/item/3829670
+https://hamal.co.il/main/ניצחון-בסלון-יוצא-לדרך-262662
+https://hamal.co.il/main/הסריקות-אחר-הנעדר-בחוף-צאנז-בנתניה-נמשכות-262666
