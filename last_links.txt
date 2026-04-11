@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/טראמפ-מכריז-הפסקת-אש-של-שבועיים-עם-איראן-261872
-https://news.walla.co.il/break/3829107
-https://news.walla.co.il/break/3829108
+COUNTER:16
 https://news.walla.co.il/break/3829109
 https://news.walla.co.il/break/3829110
 https://news.walla.co.il/break/3829111
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829697
 https://news.walla.co.il/item/3829700
 https://news.walla.co.il/break/3829701
 https://hamal.co.il/main/שגריר-איראן-262682
+https://news.walla.co.il/break/3829704
+https://news.walla.co.il/item/3829707
+https://hamal.co.il/main/דיווח-שני-לוחמים-נפצעו-באורח-בינוני-בדרום-לבנון-262686
