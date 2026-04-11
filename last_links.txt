@@ -1,5 +1,4 @@
 COUNTER:7
-https://hamal.co.il/main/צהל-מבהיר-כי-נכון-לשעה-זו-לא-חל-שינוי-בהנחיות-פיקוד-העורף-262068
 https://news.walla.co.il/item/3829154
 https://news.walla.co.il/break/3829157
 https://news.walla.co.il/break/3829159
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-בתאונה-מבצעי
 https://hamal.co.il/main/צהל-הפרת-סדר-בבנימין---מיידה-אבנים-לעבר-כוחותינו-חוסל-262830
 https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו-262833
 https://hamal.co.il/main/TUS-Airways-הודיעה-על-חידוש-טיסותיה-לישראל-262823
+https://news.walla.co.il/item/3829758
