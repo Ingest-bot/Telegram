@@ -1,6 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3829165
-https://hamal.co.il/main/איראן-תקיפות-במפרץ-כתגובה-לפגיעה-במתקן-נפט-262088
+COUNTER:12
 https://news.walla.co.il/item/3829168
 https://hamal.co.il/main/מספר-פצועים-בתקיפה-ישראלית-בחאן-יונס-262090
 https://hamal.co.il/main/כלי-טיס-של-חיל-האוויר-תקף-רכב-בכביש-בדרום-לבנון-262093
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829766
 https://hamal.co.il/main/גבר-בן-37-נפצע-קשה-באירוע-אלימות-בדימונה-262849
 https://news.walla.co.il/item/3829769
 https://hamal.co.il/main/סבב-שיחות-שלישי-החל-בפקיסטן-ההזדמנות-האחרונה-של-ארהב-262850
+https://news.walla.co.il/break/3829771
+https://hamal.co.il/main/חנה-לסלאו-משיבה-לביקורת---מעולם-לא-טענתי-דבר-נגד-צהל-262848
