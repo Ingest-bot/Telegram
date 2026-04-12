@@ -1,5 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3829308
+COUNTER:39
 https://hamal.co.il/main/שר-החינוך-בתי-הספר-של-הקיץ-יוארכו-ב-3-שבועות-262201
 https://hamal.co.il/main/פעל-במסווה-של-עיתונאי-מחבל-מרכזי-בחמאס-חוסל-262202
 https://hamal.co.il/main/השר-שיקלי-טעות-ללכת-להפסקת-אש-בעת-הזו-262203
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830003
 https://news.walla.co.il/item/3830006
 https://news.walla.co.il/item/3830005
 https://hamal.co.il/main/איראן-כל-צעד-מוטעה-במצר-הורמוז---ילכוד-את-האויב-במערבולות-263019
+https://hamal.co.il/main/עצמאות-בסימן-שאלה-רשימת-הערים-שמבטלות-את-ההופעות-הולכת-ומתא-263020
