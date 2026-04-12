@@ -1,5 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3829229
+COUNTER:1
 https://news.walla.co.il/item/3829227
 https://news.walla.co.il/break/3829232
 https://news.walla.co.il/item/3829231
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829860
 https://news.walla.co.il/item/3829854
 https://news.walla.co.il/item/3829859
 https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-לא-ציפינו-להגיע-להסכם-בסבב-משא-ומתן-262912
+https://hamal.co.il/main/נתפסו-262913
