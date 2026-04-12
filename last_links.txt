@@ -1,10 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/טראמפ-״נאט״ו-לא-היו-שם-כשהיינו-צריכם-אותם-וגם-לא-יהיו״-262188
-https://news.walla.co.il/break/3829274
-https://hamal.co.il/main/טראמפ-״עשר-הנקודות-היו-תרמית-של-לוזרים-מרושעים״-262189
-https://hamal.co.il/main/עיראק-נעצרו-האחראים-לתקיפת-המלט-שבה-נהרג-חייל-צרפתי-262190
-https://hamal.co.il/main/גבר-כבן-25-נהרג-מפגיעת-רכב-בראשון-לציון-262191
-https://news.walla.co.il/break/3829280
+COUNTER:30
 https://news.walla.co.il/break/3829278
 https://news.walla.co.il/break/3829279
 https://news.walla.co.il/item/3829284
@@ -499,3 +493,9 @@ https://hamal.co.il/main/המצור-על-בינת-גבל---צהל-חסם-את-צ
 https://hamal.co.il/main/משרד-הבריאות-הלבנוני-24-הרוגים-בתקיפות-צהל-מאז-הבוקר-ליה-ו-263000
 https://hamal.co.il/main/אזעקות-נשמעו-בשלומי-263006
 https://hamal.co.il/main/מצבור-אמצעי-לחימה-בבית-חולים-כוחות-חטיבת-גבעתי-חשפו-וסיכלו-263001
+https://news.walla.co.il/item/3829975
+https://news.walla.co.il/item/3829980
+https://hamal.co.il/main/הצי-של-ארצות-הבריתתחיל-בתהליך-של-הטלת-מצור-על-כל-ספינה-שמנסה-263007
+https://hamal.co.il/main/פרשת-מין-תמורת-ייצוג-עוד-חשוד-בעבירות-מין-בעשרות-חיילות-263008
+https://hamal.co.il/main/שס-אחרי-הדיון-בבגץ-נחשפה-המטרה---לפרק-את-עולם-התורה-אבי-263009
+https://hamal.co.il/main/הקבינט-המצומצם-יתכנס-הערב-ב-1900-להערכת-מצב-בשל-ההתפתחויות-263010
