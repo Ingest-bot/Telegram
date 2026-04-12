@@ -1,5 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3829190
+COUNTER:24
 https://news.walla.co.il/break/3829191
 https://news.walla.co.il/break/3829192
 https://news.walla.co.il/break/3829193
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829799
 https://hamal.co.il/main/מזג-האויר-מעונ-חלקית-עד-בהיר-וקר-מהרגיל-בצפון-ייתכן-גשם-מקו-262860
 https://news.walla.co.il/item/3829731
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחשש-לחדירת-כטבם-262866
+https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-השיחות-נערכו-באווירה-של-חוסר-אמון-262867
