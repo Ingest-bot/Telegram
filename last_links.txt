@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3829260
-https://hamal.co.il/main/נער-בן-16-נפגע-מרכב-בקריית-אתא-מצבו-קשה-262180
+COUNTER:19
 https://news.walla.co.il/break/3829261
 https://news.walla.co.il/break/3829267
 https://news.walla.co.il/break/3829268
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3829947
 https://news.walla.co.il/break/3829946
 https://news.walla.co.il/break/3829953
 https://hamal.co.il/main/תיעוד-מרתיח-מפגינים-חרדים-רודפים-אחרי-חייל-שיצא-מלשכת-הגיוס-262971
+https://news.walla.co.il/item/3829960
+https://hamal.co.il/main/עתירה-לבגץ-להורות-על-חקירת-משטרה-נגד-ערוץ-14-וכוכביו-262975
