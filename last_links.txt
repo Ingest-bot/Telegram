@@ -1,7 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/איראן-הבהירה-למתווכות-כי-היא-לא-תשתתף-בשיחות-השלום-בפקיסטן-262141
-https://news.walla.co.il/break/3829215
-https://news.walla.co.il/break/3829216
+COUNTER:34
 https://news.walla.co.il/break/3829217
 https://news.walla.co.il/break/3829218
 https://news.walla.co.il/break/3829219
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לראשונה-בנט-חושף-שתי-נשים-מהרש
 https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו--אמיר-בוחבוט-262887
 https://hamal.co.il/main/צופות-על-הגבולות-מאות-תצפיתניות-התגייסו-לחיל-האיסוף-הקרבי-262889
 https://hamal.co.il/main/בית-המשפט-בתגובה-לבקשת-ביטול-עדותו-של-נתניהו-262892
+https://news.walla.co.il/break/3829818
+https://hamal.co.il/main/האם-חדרי-הכושר-יחויבו-להחזיר-לנו-כסף-262895
+https://hamal.co.il/main/סוכנות-הידיעות-הלבנונית-LBCI-מדווחת-על-תקיפות-בכפרים-במחוז-צ-262896
