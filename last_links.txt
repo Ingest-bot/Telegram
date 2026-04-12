@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3829242
-https://hamal.co.il/main/חג-שמח-מוזמנים-לשלוח-לנו-את-התיעודים-שלכם-מחגיגות-המימונה-262163
+COUNTER:7
 https://hamal.co.il/main/דובר-צהל-בפרסית-מערכה-זו-טרם-הסתיימה-262165
 https://news.walla.co.il/break/3829246
 https://news.walla.co.il/break/3829247
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בזכות-פועלם-במלחמה---תואר-דוקט�
 https://hamal.co.il/main/הליכוד-נגד-בנט-צירף-למפלגתו-את-חברת-אחים-לנשק-262929
 https://news.walla.co.il/item/3829903
 https://hamal.co.il/main/פעולה-שתשתק-את-תעשיית-הנפט-רעיון-הטלת-מצור-ימי-על-איראן-262930
+https://news.walla.co.il/item/3829915
+https://hamal.co.il/main/חילץ-120-מבלים-מהנובה-וטוען-זו-הסיבה-שלא-נקראתי-להשיא-משואה-262934
