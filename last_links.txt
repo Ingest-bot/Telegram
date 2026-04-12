@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3829219
-https://news.walla.co.il/item/3829220
+COUNTER:36
 https://hamal.co.il/main/בנתיים-בביירות--צפו-בתיעוד-262143
 https://hamal.co.il/main/ראשוני-צהל-תקף-לפני-זמן-קצר-מחבל-מארגון-הטרור-חיזבאללה-בבי-262144
 https://hamal.co.il/main/נתניהו-ימסור-הצהרה-לתקשורת-הערב-262145
@@ -499,3 +497,5 @@ https://hamal.co.il/main/האם-חדרי-הכושר-יחויבו-להחזיר-ל
 https://hamal.co.il/main/סוכנות-הידיעות-הלבנונית-LBCI-מדווחת-על-תקיפות-בכפרים-במחוז-צ-262896
 https://news.walla.co.il/break/3829827
 https://hamal.co.il/main/וואטסאפ-מתקרבת-לאינסטגרם-הסטוריז-מגיעים-לרשימת-הצאטים-262899
+https://news.walla.co.il/item/3829839
+https://hamal.co.il/main/דרישת-היועמ״שית-לפטר-שר-בממשלת-ישראל-עלולה-להביא-למשבר-חוקתי-262900
