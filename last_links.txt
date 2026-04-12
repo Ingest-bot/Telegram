@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/פיצוץ-אדיר-באמצע-הכביש-תיעוד-מתקיפות-צהל-בלבנון-262265
-https://news.walla.co.il/item/3829399
+COUNTER:26
 https://news.walla.co.il/item/3829398
 https://hamal.co.il/main/משרד-החינוך-161-בתי-ספר-וגנים-נפגעו-במהלך-המלחמה-עם-איראן-262268
 https://news.walla.co.il/break/3829401
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יריית-הפתיחה-במלחמה-מול-וואטס�
 https://news.walla.co.il/break/3830072
 https://news.walla.co.il/break/3830073
 https://hamal.co.il/main/איתמר-בן-גביר-״את-האלוף-רומן-גופמן-אני-מכיר-היטב-בתפקידו-263089
+https://news.walla.co.il/break/3830075
+https://hamal.co.il/main/מנהיג-האופוזיציה-בהונגריה-ראש-הממשלה-אורבן-בירך-אותי-על-ניצ-263090
