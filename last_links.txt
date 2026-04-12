@@ -1,5 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3829251
+COUNTER:14
 https://news.walla.co.il/break/3829252
 https://news.walla.co.il/break/3829253
 https://hamal.co.il/main/סגנו-של-טראמפ-הישראלים-הציעו-״לרסן״-את-עצמם-בזירה-הלבנונית-262173
@@ -499,3 +498,4 @@ https://hamal.co.il/main/משרד-הבריאות-אזהרת-רחצה-בחוף-נ
 https://hamal.co.il/main/80-שנה-אחרי-השואה-111-אלף-ניצולים-חיים-בישראל-262947
 https://news.walla.co.il/item/3829938
 https://hamal.co.il/main/שמו-של-החשוד-באונס-של-שי-לי-עטרי-ונעמה-שחר-מופץ-ברשת-262950
+https://hamal.co.il/main/השר-איתמר-בן-גביר-אישר-שרה-ויאיר-נתניהו-יהיו-זכאים-לנשק-262955
