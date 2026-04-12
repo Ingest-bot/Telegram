@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3829329
-https://news.walla.co.il/item/3829338
-https://hamal.co.il/main/ואנס-יצא-למומ-ישיר-עם-איראן-בוושינגטון-מזהירים-טעות-אחת-262210
-https://hamal.co.il/main/בצל-המלחמה-היערכות-לקיום-טקס-פרס-ישראל-בהשתתפות-טראמפ-262215
+COUNTER:6
 https://hamal.co.il/main/מהודו-ועד-כוש---השינויים-הגדולים-באזור-262218
 https://news.walla.co.il/break/3829347
 https://news.walla.co.il/break/3829350
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830027
 https://news.walla.co.il/break/3830026
 https://news.walla.co.il/item/3830025
 https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-263038
+https://news.walla.co.il/break/3830028
+https://hamal.co.il/main/ניצל-דלת-פתוחה-ותקף-קשישה-בת-94-נשדדה-באלימות-בתא-הודיה-רן-263039
+https://hamal.co.il/main/חוסל-מחבל-שלקח-חלק-בחטיפת-הירש-גולדברג-פולין-זל-אלון-אהל-263040
+https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-263046
