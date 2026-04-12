@@ -1,11 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/המערכה-בלבנון-מחבל-יצא-ממנהרה---וחוסל-מצבורי-אמלח-אותרו-262245
-https://news.walla.co.il/break/3829375
-https://news.walla.co.il/item/3829372
-https://news.walla.co.il/item/3829376
-https://news.walla.co.il/break/3829379
-https://news.walla.co.il/break/3829381
-https://news.walla.co.il/item/3829385
+COUNTER:21
 https://hamal.co.il/main/באיראן-מאיימים-השעות-הקרובות-קריטיות-נגיב-לתקיפות-בלבנון-262251
 https://news.walla.co.il/break/3829386
 https://news.walla.co.il/break/3829392
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3830051
 https://hamal.co.il/main/בזמן-הפסקת-האש-איראן-משתמשת-ברכיבים-ישנים---ומייצרת-טילים-263075
 https://hamal.co.il/main/השר-יצחק-וסרלאוף-״גופמן-אדם-ראוי-שהשקיע-את-חייו-בביטחון-מד-263076
 https://hamal.co.il/main/חייל-חשוד-בהרג-פלסטיני-בשכם-במהלך-עימותים-בין-פלסטינים-לרוע-263077
+https://news.walla.co.il/break/3830060
+https://news.walla.co.il/break/3830061
+https://news.walla.co.il/break/3830062
+https://news.walla.co.il/break/3830063
+https://hamal.co.il/main/אורבן-יאבד-את-השלטון-הקלפיות-בהונגריה-נסגרו-שיעור-ההצבעה---263078
+https://hamal.co.il/main/הותר-לפרסום-האחים-מאיר-ויוסף-נחום-מואשמים-בריגול-לאיראן-אפר-263079
+https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדירת-כטבם-263083
