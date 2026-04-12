@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3829261
-https://news.walla.co.il/break/3829267
-https://news.walla.co.il/break/3829268
-https://news.walla.co.il/break/3829269
+COUNTER:22
 https://news.walla.co.il/break/3829272
 https://news.walla.co.il/break/3829273
 https://news.walla.co.il/item/3829270
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829953
 https://hamal.co.il/main/תיעוד-מרתיח-מפגינים-חרדים-רודפים-אחרי-חייל-שיצא-מלשכת-הגיוס-262971
 https://news.walla.co.il/item/3829960
 https://hamal.co.il/main/עתירה-לבגץ-להורות-על-חקירת-משטרה-נגד-ערוץ-14-וכוכביו-262975
+https://news.walla.co.il/break/3829968
+https://hamal.co.il/main/מפגינים-קיצוניים-מנעו-ממלשב-להגיע-ללשכת-הגיוס--התיעוד-262982
+https://hamal.co.il/main/עצמאות-בסימן-שאלה-רשימת-הערים-שמבטלות-את-ההופעות-מתארכת-262994
+https://hamal.co.il/main/כוחות-הגדוד-חיסלו-את-המחבלים-שהרגו-את-סמר-טובאל-יוסף-ליפשיץ-262985
