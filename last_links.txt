@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/ייצר-חומרי-נפץ---ותכנן-לפגוע-באישיות-בכירה-262223
-https://news.walla.co.il/break/3829355
-https://news.walla.co.il/break/3829357
-https://news.walla.co.il/item/3829347
+COUNTER:10
 https://news.walla.co.il/item/3829352
 https://hamal.co.il/main/19-אלף-תמונות-האקרים-פרו-איראנים-טוענים-כי-חדרו-ללשכתו-של-ה-262229
 https://hamal.co.il/main/שורד-השבי-מבקש-מעם-ישראל--262232
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830037
 https://news.walla.co.il/break/3830042
 https://hamal.co.il/main/ראש-הממשלה-נתניהו-ביקר-בדרום-לבנון-״המלחמה-נמשכת-כולל-בתוך-263057
 https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדירת-כטבם-263063
+https://news.walla.co.il/break/3830043
+https://news.walla.co.il/break/3830044
+https://hamal.co.il/main/לעיני-עשרות-נערים-כוכב-הרשת-המוכר-נעצר-בחשד-לתקיפת-קטין-שלו-263058
+https://hamal.co.il/main/הולכת-רכב-כבת-50-נפצעה-באורח-בינוני-מפגיעת-רכב-בנהריה-יואב-א-263064
