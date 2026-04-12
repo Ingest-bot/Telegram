@@ -1,9 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/יעד-התקיפה-בלבנון-המזכיר-האישי-ואחיין-של-נעים-קאסם-262147
-https://hamal.co.il/main/בדקות-הקרובות-הצהרת-דובר-צהל-262151
-https://hamal.co.il/main/תרבחו-ותסעדו-חג-מימונה-שמח-לכל-בית-ישראל-262154
-https://hamal.co.il/main/סמר-טובאל-יוסף-ליפשיץ-נפל-בקרב-בדרום-לבנון-262155
-https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262156
+COUNTER:0
 https://news.walla.co.il/item/3829229
 https://news.walla.co.il/item/3829227
 https://news.walla.co.il/break/3829232
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הקריפטו-צולל-הנפט-מזנק-השווקי�
 https://hamal.co.il/main/פרסום-ראשון-דידי-הררי-בזוגיות-חדשה-262906
 https://news.walla.co.il/item/3829850
 https://hamal.co.il/main/מה-צהל-לא-מספר-על-הלחימה-בלבנון-262911
+https://news.walla.co.il/break/3829858
+https://news.walla.co.il/break/3829860
+https://news.walla.co.il/item/3829854
+https://news.walla.co.il/item/3829859
+https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-לא-ציפינו-להגיע-להסכם-בסבב-משא-ומתן-262912
