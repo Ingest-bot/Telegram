@@ -1,8 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3829249
-https://news.walla.co.il/item/3829245
-https://hamal.co.il/main/בעקבות-הפסקת-האש-הרכבת-הקלה-במרכז-חוזרת-מחר-לפעילות-מלאה-262168
-https://hamal.co.il/main/תאונת-אופנוע-קטלנית-בירושלים-נקבע-מותו-של-גבר-בן-25-262169
+COUNTER:12
 https://hamal.co.il/main/איראן-מכלית-נפט-ניסתה-לעבור-במיצרי-הורמוז---ונחסמה-262171
 https://hamal.co.il/main/משרד-הבריאות-מעדכן-7433-נפגעים-במבצע-שאגת-הארי-262172
 https://news.walla.co.il/break/3829251
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3829925
 https://news.walla.co.il/item/3829927
 https://hamal.co.il/main/אחרי-שיצאה-עם-נשים-השחקנית-המצליחה-חושפת-זוגיות-עם-גבר-262937
 https://hamal.co.il/main/חזרת-חברות-תעופה-זרות-לפעילות-בנתב״ג-השבוע-262939
+https://news.walla.co.il/item/3829930
+https://hamal.co.il/main/תופס-את-פניו-מפקד-תחנת-לב-הבירה-תועד-משתמש-בכוח-כנגד-מפגין-262941
+https://hamal.co.il/main/משרד-הבריאות-אזהרת-רחצה-בחוף-ניצנים-באשקלון-262944
+https://hamal.co.il/main/80-שנה-אחרי-השואה-111-אלף-ניצולים-חיים-בישראל-262947
