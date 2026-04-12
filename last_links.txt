@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/למרות-הפסקת-האש-הוארכה-ההמלצה-לא-לטוס-מאירופה-לישראל-262261
-https://hamal.co.il/main/באיראן-מאיימים-נשתתף-בשיחות-רק-אם-ישראל-תפסיק-לתקוף-בלבנון-262263
-https://hamal.co.il/main/השתתף-בטבח-710-262264
+COUNTER:25
 https://hamal.co.il/main/פיצוץ-אדיר-באמצע-הכביש-תיעוד-מתקיפות-צהל-בלבנון-262265
 https://news.walla.co.il/item/3829399
 https://news.walla.co.il/item/3829398
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-נשמעו-עקב-חדירת-כלי-טיס
 https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו---והקו-האדום-שיקבע-263087
 https://news.walla.co.il/break/3830071
 https://hamal.co.il/main/יריית-הפתיחה-במלחמה-מול-וואטסאפ-מאסק-משיק-את-XChat-ינון-בן-263088
+https://news.walla.co.il/break/3830072
+https://news.walla.co.il/break/3830073
+https://hamal.co.il/main/איתמר-בן-גביר-״את-האלוף-רומן-גופמן-אני-מכיר-היטב-בתפקידו-263089
