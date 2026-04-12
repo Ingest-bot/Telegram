@@ -1,5 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3829408
+COUNTER:32
 https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262266
 https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262267
 https://news.walla.co.il/item/3829413
@@ -499,3 +498,4 @@ https://hamal.co.il/main/2-לוחמים-נפצעו-באורח-בינוני-מי�
 https://news.walla.co.il/break/3830086
 https://news.walla.co.il/break/3830087
 https://hamal.co.il/main/סער-בירך-את-ראש-האופוזיציה-בהונגריה-נמשיך-לעבוד-יחד-263097
+https://hamal.co.il/main/בן-50-263098
