@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/הירי-לצפון-דיווח-על-נפילה-בשטח-פתוח-262260
-https://news.walla.co.il/break/3829395
+COUNTER:24
 https://hamal.co.il/main/למרות-הפסקת-האש-הוארכה-ההמלצה-לא-לטוס-מאירופה-לישראל-262261
 https://hamal.co.il/main/באיראן-מאיימים-נשתתף-בשיחות-רק-אם-ישראל-תפסיק-לתקוף-בלבנון-262263
 https://hamal.co.il/main/השתתף-בטבח-710-262264
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדי�
 https://news.walla.co.il/break/3830064
 https://hamal.co.il/main/אזעקות-נשמעו-עקב-חדירת-כלי-טיס-עוין-בגליל-העליון-263086
 https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו---והקו-האדום-שיקבע-263087
+https://news.walla.co.il/break/3830071
+https://hamal.co.il/main/יריית-הפתיחה-במלחמה-מול-וואטסאפ-מאסק-משיק-את-XChat-ינון-בן-263088
