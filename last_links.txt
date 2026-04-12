@@ -1,9 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/תנועת-מכליות-הנפט-דרך-מצר-הורמוז-נעצרה-בגלל-התקיפות-בלבנון-262139
-https://hamal.co.il/main/טראמפ-עומד-לצד-ישראל-חיזבאללה-לא-חלק-מהסכם-הפסקת-האש-262140
-https://news.walla.co.il/break/3829210
-https://news.walla.co.il/break/3829211
-https://news.walla.co.il/item/3829213
+COUNTER:32
 https://hamal.co.il/main/איראן-הבהירה-למתווכות-כי-היא-לא-תשתתף-בשיחות-השלום-בפקיסטן-262141
 https://news.walla.co.il/break/3829215
 https://news.walla.co.il/break/3829216
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3829806
 https://news.walla.co.il/item/3829808
 https://hamal.co.il/main/הנקודות-האלה-כחולות-או-סגולות-הוכחה-שאי-אפשר-להאמין-לעיניים-262877
 https://hamal.co.il/main/נתניה-חיפושים-אחר-נער-בן-17-נמשכו-לאורך-הלילה-בקו-החוף-262880
+https://news.walla.co.il/break/3829815
+https://hamal.co.il/main/לראשונה-בנט-חושף-שתי-נשים-מהרשימה-שלו-לכנסת-262886
+https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו--אמיר-בוחבוט-262887
+https://hamal.co.il/main/צופות-על-הגבולות-מאות-תצפיתניות-התגייסו-לחיל-האיסוף-הקרבי-262889
+https://hamal.co.il/main/בית-המשפט-בתגובה-לבקשת-ביטול-עדותו-של-נתניהו-262892
