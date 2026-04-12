@@ -1,9 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3829191
-https://news.walla.co.il/break/3829192
-https://news.walla.co.il/break/3829193
-https://hamal.co.il/main/האזעקות-בקריית-שמונה-והסביבה-זיהוי-שווא-262134
-https://news.walla.co.il/item/3829196
+COUNTER:26
 https://hamal.co.il/main/דיווח-262135
 https://news.walla.co.il/break/3829200
 https://hamal.co.il/main/איראן-תיסוג-מהסכם-הפסקת-האש-אם-ישראל-תמשיך-להפר-אותו-262137
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מזג-האויר-מעונ-חלקית-עד-בהיר-ו�
 https://news.walla.co.il/item/3829731
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחשש-לחדירת-כטבם-262866
 https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-השיחות-נערכו-באווירה-של-חוסר-אמון-262867
+https://news.walla.co.il/break/3829804
+https://news.walla.co.il/break/3829805
+https://news.walla.co.il/item/3829791
+https://hamal.co.il/main/לפני-ששיגר-לעבר-מדינת-ישראל-צהל-תקף-משגר-טילים-בלבנון-262872
+https://hamal.co.il/main/הלימודים-ברמת-הגולן-נפתחים-כמתוכנן-ההודעה-שיצאה-לתושבים-262874
