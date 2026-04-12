@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3829367
-https://news.walla.co.il/item/3829358
+COUNTER:15
 https://hamal.co.il/main/זאת-האישיות-הבכירה-שהייתה-על-הכוונת-של-המרגל-האיראני-262237
 https://hamal.co.il/main/חשד-לרצח-בי-ם-בת-75-נמצאה-ללא-רוח-חיים-חשוד-נעצר-262238
 https://news.walla.co.il/break/3829370
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעו-במטולה-263067
 https://hamal.co.il/main/בתום-סריקות-נרחבות-אותר-נער-בן-17-ללא-רוח-חיים-במעיין-בנגב-263068
 https://hamal.co.il/main/שחקניות-ספרד-עלו-למשחק-מול-ישראל-עם-סמלים-פלסטיניים-על-הנעל-263069
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-263073
+https://news.walla.co.il/item/3830049
+https://hamal.co.il/main/האלוף-רומן-גופמן-לתפקיד-ראש-המוסד-למודיעין-ולתפקידים-מיוחדים-263074
