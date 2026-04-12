@@ -1,8 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/צהל-מזכל-חיזבאללה-נעים-קאסם-חוסל-בביירות-262209
-https://news.walla.co.il/break/3829331
-https://news.walla.co.il/break/3829336
-https://news.walla.co.il/item/3829330
+COUNTER:3
 https://news.walla.co.il/item/3829329
 https://news.walla.co.il/item/3829338
 https://hamal.co.il/main/ואנס-יצא-למומ-ישיר-עם-איראן-בוושינגטון-מזהירים-טעות-אחת-262210
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3830020
 https://news.walla.co.il/item/3830013
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-263028
 https://hamal.co.il/main/האיצה-בלי-לבלום-כתב-אישום-נגד-נהגת-שפגעה-באדם-בבית-קפה-בכ-263030
+https://news.walla.co.il/break/3830027
+https://news.walla.co.il/break/3830026
+https://news.walla.co.il/item/3830025
+https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-263038
