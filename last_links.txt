@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3829241
+COUNTER:5
 https://hamal.co.il/main/נתניהו-בהצהרה-מדינת-ישראל-בהישגים-אדירים-262157
 https://hamal.co.il/main/כך-שבר-אמ״ן-את-חומות-המידור-של-חיזבאללה-בפעם-השנייה-262160
 https://news.walla.co.il/break/3829242
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3829880
 https://news.walla.co.il/item/3829882
 https://hamal.co.il/main/סגן-שר-הנפט-של-איראן-מתקני-זיקוק-והפצה-שניזוקו-יוכלו-לשקם-כ-262922
 https://hamal.co.il/main/בזכות-פועלם-במלחמה---תואר-דוקטור-יוענק-לחנוך-ואפרת-דאום-262928
+https://hamal.co.il/main/הליכוד-נגד-בנט-צירף-למפלגתו-את-חברת-אחים-לנשק-262929
