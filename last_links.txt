@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3829272
-https://news.walla.co.il/break/3829273
-https://news.walla.co.il/item/3829270
+COUNTER:23
 https://hamal.co.il/main/ה-FBI-הודיע-עצרנו-אדם-שהדליף-מידע-מסווג-על-הטייס-שחולץ-262182
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-262185
 https://hamal.co.il/main/דיווחים-בלבנון-מחוסלים-בתקיפה-בביירות-262187
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3829968
 https://hamal.co.il/main/מפגינים-קיצוניים-מנעו-ממלשב-להגיע-ללשכת-הגיוס--התיעוד-262982
 https://hamal.co.il/main/עצמאות-בסימן-שאלה-רשימת-הערים-שמבטלות-את-ההופעות-מתארכת-262994
 https://hamal.co.il/main/כוחות-הגדוד-חיסלו-את-המחבלים-שהרגו-את-סמר-טובאל-יוסף-ליפשיץ-262985
+https://news.walla.co.il/break/3829969
+https://news.walla.co.il/break/3829971
+https://hamal.co.il/main/המצור-על-בינת-גבל---צהל-חסם-את-צירי-הגישה-והמילוט-262999
