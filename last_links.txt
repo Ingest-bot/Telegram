@@ -1,10 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/דיווחים-על-תקיפות-בדאחייה-בביירות-כעת--צפו-בתיעוד-262175
-https://hamal.co.il/main/ממשל-טראמפ-שוקל-להעניש-חלק-ממדינות-ברית-נאט״ו-262176
-https://news.walla.co.il/break/3829255
-https://news.walla.co.il/break/3829258
-https://hamal.co.il/main/משפחת-הלוחם-שנפל-העבירה-מכתב-לחבריו-בלבנון-״תהיו-חזקים״-262178
-https://hamal.co.il/main/עימותים-בבקעת-הירדן-מתיישב-נ-262179
+COUNTER:18
 https://news.walla.co.il/break/3829260
 https://hamal.co.il/main/נער-בן-16-נפגע-מרכב-בקריית-אתא-מצבו-קשה-262180
 https://news.walla.co.il/break/3829261
@@ -499,3 +493,9 @@ https://hamal.co.il/main/השר-איתמר-בן-גביר-אישר-שרה-ויא�
 https://hamal.co.il/main/בגלל-קולולו-סברינה-קרפנטר-הסתבכה---ומתנצלת-262957
 https://hamal.co.il/main/גורם-ביטחוני-צה״ל-מנהל-ציד-מחבלים-מהאוויר-ומהקרקע-אחרי-מחבל-262959
 https://hamal.co.il/main/זמן-קצר-לאחר-שמיעת-ירי-מהכפר-כוחות-צהל-עצרו-חשודים-262963
+https://news.walla.co.il/break/3829949
+https://news.walla.co.il/break/3829948
+https://news.walla.co.il/break/3829947
+https://news.walla.co.il/break/3829946
+https://news.walla.co.il/break/3829953
+https://hamal.co.il/main/תיעוד-מרתיח-מפגינים-חרדים-רודפים-אחרי-חייל-שיצא-מלשכת-הגיוס-262971
