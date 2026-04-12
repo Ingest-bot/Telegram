@@ -1,10 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/ירק-ותקף-חיילת-במהלך-החג-262207
-https://news.walla.co.il/break/3829324
-https://news.walla.co.il/break/3829326
-https://news.walla.co.il/item/3829323
-https://news.walla.co.il/item/3829325
-https://hamal.co.il/main/לוחמי-מגב-פשטו-על-262208
+COUNTER:2
 https://hamal.co.il/main/צהל-מזכל-חיזבאללה-נעים-קאסם-חוסל-בביירות-262209
 https://news.walla.co.il/break/3829331
 https://news.walla.co.il/break/3829336
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3830017
 https://news.walla.co.il/break/3830018
 https://news.walla.co.il/break/3830016
 https://hamal.co.il/main/התפתחות-נוספת-בחקירת-רצח-אביתר-אזרזר-משנת-2019-המנוהלת-ביחיד-263021
+https://news.walla.co.il/break/3830019
+https://news.walla.co.il/break/3830021
+https://news.walla.co.il/item/3830020
+https://news.walla.co.il/item/3830013
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-263028
+https://hamal.co.il/main/האיצה-בלי-לבלום-כתב-אישום-נגד-נהגת-שפגעה-באדם-בבית-קפה-בכ-263030
