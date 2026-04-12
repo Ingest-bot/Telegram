@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/צהל-כיתר-262197
-https://news.walla.co.il/item/3829294
-https://hamal.co.il/main/צהל-מאשר-לוחמי-הצנחנים-חיסלו-עשרות-מחבלים-בדרום-לבנון-262199
+COUNTER:36
 https://news.walla.co.il/break/3829299
 https://news.walla.co.il/break/3829305
 https://news.walla.co.il/item/3829297
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3829986
 https://news.walla.co.il/item/3829988
 https://hamal.co.il/main/לאחר-הגעת-המשלחת-הראשונה-בימי-הלחימה-משלחת-של-לוחמי-אש-מארה-263016
 https://hamal.co.il/main/כוכב-המירוץ-למיליון-רומז-על-העתיד-משפחה-זה-החלום-שלי-וו-263004
+https://news.walla.co.il/item/3829996
+https://news.walla.co.il/item/3829998
+https://hamal.co.il/main/החשד-נגד-שרה-נתניהו-להטרדת-עדה-התיק-צפוי-להסגר-אפרת-פורשר-263017
