@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3829351
-https://news.walla.co.il/item/3829346
-https://news.walla.co.il/item/3829345
+COUNTER:8
 https://hamal.co.il/main/ייצר-חומרי-נפץ---ותכנן-לפגוע-באישיות-בכירה-262223
 https://news.walla.co.il/break/3829355
 https://news.walla.co.il/break/3829357
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדי�
 https://news.walla.co.il/break/3830039
 https://news.walla.co.il/break/3830038
 https://news.walla.co.il/break/3830037
+https://news.walla.co.il/break/3830042
+https://hamal.co.il/main/ראש-הממשלה-נתניהו-ביקר-בדרום-לבנון-״המלחמה-נמשכת-כולל-בתוך-263057
+https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדירת-כטבם-263063
