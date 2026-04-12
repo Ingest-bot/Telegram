@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3829309
-https://hamal.co.il/main/תל-אביב-וירושלים-חוזרות-לאכוף-תשלום-בכחול-לבן-ומי-לא-262200
-https://news.walla.co.il/break/3829313
-https://news.walla.co.il/item/3829315
+COUNTER:38
 https://news.walla.co.il/item/3829308
 https://hamal.co.il/main/שר-החינוך-בתי-הספר-של-הקיץ-יוארכו-ב-3-שבועות-262201
 https://hamal.co.il/main/פעל-במסווה-של-עיתונאי-מחבל-מרכזי-בחמאס-חוסל-262202
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830001
 https://news.walla.co.il/break/3830002
 https://news.walla.co.il/item/3830000
 https://hamal.co.il/main/מצור-ימי-על-איראן-טראמפ-מעלה-הילוך-בלי-הסכם---ומה-ההשלכות-ע-263018
+https://news.walla.co.il/break/3830003
+https://news.walla.co.il/item/3830006
+https://news.walla.co.il/item/3830005
+https://hamal.co.il/main/איראן-כל-צעד-מוטעה-במצר-הורמוז---ילכוד-את-האויב-במערבולות-263019
