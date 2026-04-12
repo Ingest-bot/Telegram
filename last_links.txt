@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3829217
-https://news.walla.co.il/break/3829218
+COUNTER:35
 https://news.walla.co.il/break/3829219
 https://news.walla.co.il/item/3829220
 https://hamal.co.il/main/בנתיים-בביירות--צפו-בתיעוד-262143
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בית-המשפט-בתגובה-לבקשת-ביטול-ע
 https://news.walla.co.il/break/3829818
 https://hamal.co.il/main/האם-חדרי-הכושר-יחויבו-להחזיר-לנו-כסף-262895
 https://hamal.co.il/main/סוכנות-הידיעות-הלבנונית-LBCI-מדווחת-על-תקיפות-בכפרים-במחוז-צ-262896
+https://news.walla.co.il/break/3829827
+https://hamal.co.il/main/וואטסאפ-מתקרבת-לאינסטגרם-הסטוריז-מגיעים-לרשימת-הצאטים-262899
