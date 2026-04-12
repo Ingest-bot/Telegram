@@ -1,9 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/זאת-האישיות-הבכירה-שהייתה-על-הכוונת-של-המרגל-האיראני-262237
-https://hamal.co.il/main/חשד-לרצח-בי-ם-בת-75-נמצאה-ללא-רוח-חיים-חשוד-נעצר-262238
-https://news.walla.co.il/break/3829370
-https://news.walla.co.il/item/3829368
-https://news.walla.co.il/item/3829369
+COUNTER:18
 https://hamal.co.il/main/המערכה-בלבנון-מחבל-יצא-ממנהרה---וחוסל-מצבורי-אמלח-אותרו-262245
 https://news.walla.co.il/break/3829375
 https://news.walla.co.il/item/3829372
@@ -499,3 +494,8 @@ https://hamal.co.il/main/שחקניות-ספרד-עלו-למשחק-מול-ישר
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-263073
 https://news.walla.co.il/item/3830049
 https://hamal.co.il/main/האלוף-רומן-גופמן-לתפקיד-ראש-המוסד-למודיעין-ולתפקידים-מיוחדים-263074
+https://news.walla.co.il/break/3830055
+https://news.walla.co.il/item/3830051
+https://hamal.co.il/main/בזמן-הפסקת-האש-איראן-משתמשת-ברכיבים-ישנים---ומייצרת-טילים-263075
+https://hamal.co.il/main/השר-יצחק-וסרלאוף-״גופמן-אדם-ראוי-שהשקיע-את-חייו-בביטחון-מד-263076
+https://hamal.co.il/main/חייל-חשוד-בהרג-פלסטיני-בשכם-במהלך-עימותים-בין-פלסטינים-לרוע-263077
