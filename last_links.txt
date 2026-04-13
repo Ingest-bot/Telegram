@@ -1,7 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/שני-בני-אדם-נפצעו-בתאונת-דרכים-בקריית-מוצקין-יואב-איתיאל-ש-262438
-https://news.walla.co.il/break/3829526
-https://hamal.co.il/main/חרף-הלחץ-האמריקני-חיל-האוויר-תקף-יעדי-חיזבאללה-בדרום-לבנון-א-262439
+COUNTER:33
 https://news.walla.co.il/break/3829527
 https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-עדיין-קר-מהרגיל-262440
 https://news.walla.co.il/break/3829528
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830276
 https://news.walla.co.il/item/3830269
 https://news.walla.co.il/item/3830274
 https://hamal.co.il/main/נתניהו-חושף-״אתמול-הייתי-בלבנון-יש-עבודה-לעשות״-263264
+https://news.walla.co.il/item/3830284
+https://news.walla.co.il/item/3830210
+https://hamal.co.il/main/מאפס-למאה-בצהל-נערכים-להסלמה-מהירה-מול-איראן-263271
