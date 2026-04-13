@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3829564
-https://hamal.co.il/main/תיעוד-מלבנון-מחבל-מסתתר-בשיחים---ומחוסל-יחד-עם-שאר-החולייה-262480
-https://hamal.co.il/main/בית-המשפט-אישר-איריס-חיים-תוכל-להביא-ילד-מזרעו-של-יותם-262477
-https://news.walla.co.il/break/3829565
+COUNTER:9
 https://news.walla.co.il/break/3829566
 https://hamal.co.il/main/הבשורה-שחיכיתם-לה-חברת-הלואו-קוסט-פותחת-אפשרות-לרכישת-כרטיס-262481
 https://hamal.co.il/main/מעל-200-משגרים-הושמדו-262482
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3830331
 https://hamal.co.il/main/מרגש-אלקנה-בוחבוט-ואשתו-רבקה-מצפים-לילד-שני-263318
 https://hamal.co.il/main/צהל-שני-לוחמים-נפצעו-בינוני-ו-6-קל-מנפילת-כטבם-בלבנון-263319
 https://hamal.co.il/main/צעיר-בן-25-נפצע-קשה-באירוע-אלימות-בירושלים-263320
+https://news.walla.co.il/item/3830333
+https://news.walla.co.il/item/3830335
+https://news.walla.co.il/item/3830337
+https://hamal.co.il/main/טראמפ-מזהיר-את-האיראנים-אל-תתקרבו-לספינות-שלנו-263323
