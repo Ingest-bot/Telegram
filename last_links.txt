@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/השאלות-אחרי-החתונה-והמרחק-הגאוגרפי-נועה-קירל-הוציאה-שיר-חדש-262459
-https://news.walla.co.il/break/3829550
-https://news.walla.co.il/item/3829552
+COUNTER:1
 https://news.walla.co.il/item/3829547
 https://hamal.co.il/main/לאחר-שהותקף-שר-החוץ-לשעבר-של-איראן-מת-מפצעיו-262461
 https://hamal.co.il/main/השיגורים-מלבנון-יורטו-הפסקת-חשמל-במטולה-262467
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830306
 https://news.walla.co.il/break/3830308
 https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-263295
 https://hamal.co.il/main/מדא-על-הירי-לנהריה-צוותים-יצאו-לסרוק-זירה-263296
+https://news.walla.co.il/break/3830311
+https://news.walla.co.il/break/3830313
+https://hamal.co.il/main/הירי-לנהריה-דיווח-על-פצועה-קל-במקום-263306
