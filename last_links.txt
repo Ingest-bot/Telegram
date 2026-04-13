@@ -1,8 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3829527
-https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-עדיין-קר-מהרגיל-262440
-https://news.walla.co.il/break/3829528
-https://news.walla.co.il/break/3829531
+COUNTER:34
 https://hamal.co.il/main/חשד-לרצח-בתל-שבע-גבר-נורה-למוות-הרקע-פלילי-262446
 https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262447
 https://news.walla.co.il/item/3829535
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נתניהו-חושף-״אתמול-הייתי-בלבנ�
 https://news.walla.co.il/item/3830284
 https://news.walla.co.il/item/3830210
 https://hamal.co.il/main/מאפס-למאה-בצהל-נערכים-להסלמה-מהירה-מול-איראן-263271
+https://news.walla.co.il/break/3830290
+https://news.walla.co.il/break/3830293
+https://news.walla.co.il/break/3830294
+https://hamal.co.il/main/זה-מתחיל-אלה-חברות-התעופה-הזרות-שחוזרות-לטוס-לארץ-263273
