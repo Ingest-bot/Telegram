@@ -1,7 +1,4 @@
 COUNTER:18
-https://news.walla.co.il/item/3829484
-https://hamal.co.il/main/ראש-עיריית-רמת-גן-ייתכן-שאנחה-לסגור-מחדש-את-מערכת-החינוך-262381
-https://news.walla.co.il/break/3829487
 https://news.walla.co.il/break/3829489
 https://hamal.co.il/main/צהל-החל-לתקוף-אתרי-שיגור-של-חיזבאללה-בלבנון-262387
 https://hamal.co.il/main/דיווחים-מתקפת-כטבמים-על-מספר-מתקנים-חיוניים-בכווית-262389
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830201
 https://hamal.co.il/main/כוחות-אוגדה-98-השלימו-כיתור-והחלו-בהתקפה-בעיירה-בדרום-לבנון-263151
 https://hamal.co.il/main/זו-אחר-זו-אזעקות-הופעלו-בקריית-שמונה-וסביבתה-263175
 https://hamal.co.il/main/מגלחים-את-הבשמים-18-נעצרו-בחשד-לשודים-אלימים-בסופר-פארם-263167
+https://news.walla.co.il/break/3830203
+https://news.walla.co.il/break/3830209
+https://news.walla.co.il/item/3830207
