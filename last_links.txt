@@ -1,6 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/פגיעה-בשטח-פתוח-בנהריה-סמוך-למוסד-חינוכי-נזק-קל-וללא-נפגעים-262542
-https://news.walla.co.il/break/3829600
+COUNTER:28
 https://news.walla.co.il/break/3829601
 https://news.walla.co.il/break/3829602
 https://hamal.co.il/main/השתיקה-מפנה-מקום-להקשבה-אלוף-אכ״א-דדו-בר-כליפא-במסר-לפקודיו-262561
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טלאי-על-טלאי-הסיפורים-הנוראיי�
 https://news.walla.co.il/break/3830379
 https://hamal.co.il/main/אחרי-3-שעות-ללא-הנחיות-מעודכנות-אלו-השינויים-במדיניות-לעורף-263366
 https://hamal.co.il/main/שורד-השואה-שהפך-לטייס-263367
+https://news.walla.co.il/item/3830381
+https://hamal.co.il/main/חצי-הגמר-יתקיים-ללא-קהל-הגבלות-התקהלות-חדשות-בירושלים-263373
