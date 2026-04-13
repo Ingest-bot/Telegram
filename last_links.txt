@@ -1,5 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/דובר-צהל-בערבית-פרסם-התרעת-פינוי-לשכונות-בדאחייה-בביירות-262285
+COUNTER:35
 https://news.walla.co.il/break/3829429
 https://news.walla.co.il/item/3829430
 https://hamal.co.il/main/שר-הביטחון-חיזבאללה-משווע-להפסקת-אש-262290
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830115
 https://news.walla.co.il/item/3830096
 https://hamal.co.il/main/דיווח-טראמפ-שוקל-לחדש-את-התקיפות-באיראן-באופן-מוגבל-263103
 https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
+https://hamal.co.il/main/הרמטכל-263106
