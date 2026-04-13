@@ -1,10 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/קריית-שמונה---שריפה-בדירה-לאחר-נפילה-ללא-אזעקה-262587
-https://hamal.co.il/main/צהל-חושף-את-נתוני-התקיפה-הגדולה-ביותר-ברחבי-לבנון-262591
-https://news.walla.co.il/break/3829624
-https://news.walla.co.il/break/3829625
-https://news.walla.co.il/break/3829626
-https://hamal.co.il/main/קריית-שמונה-שוב-זה-קורה-2-נפילות-בעיר-ללא-אזעקה-262601
+COUNTER:36
 https://news.walla.co.il/item/3829631
 https://news.walla.co.il/break/3829636
 https://news.walla.co.il/break/3829637
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3830392
 https://hamal.co.il/main/שורד-השואה-ישעיהו-פויר-הרצון-להיות-אדם-חופשי-עזר-לי-לשמור-263352
 https://hamal.co.il/main/נתונים-מטרידים-מספר-הנרצחים-היהודים-בעולם-גבוה-מזה-3-עשורים-263278
 https://hamal.co.il/main/דיווח-ממשל-טראמפ-שוקל-לקיים-מומ-נוסף-עם-איראן---כבר-השבוע-263383
+https://news.walla.co.il/break/3830395
+https://news.walla.co.il/break/3830397
+https://news.walla.co.il/break/3830393
+https://news.walla.co.il/break/3830399
+https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263374
+https://hamal.co.il/main/אזעקות-בגליל-העליון-263388
