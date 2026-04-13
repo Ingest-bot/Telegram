@@ -1,8 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/בית-כנסת-262490
-https://news.walla.co.il/break/3829572
-https://hamal.co.il/main/בית-כנסת-262492
-https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262493
+COUNTER:12
 https://hamal.co.il/main/תכננו-לפגוע-בלוחמים---וסוכלו-צהל-חיסל-2-מחבלים-ברצועת-עזה-262494
 https://hamal.co.il/main/פיקוד-העורף-ההנחיות-נותרו-ללא-שינוי-עד-יום-שבת-262495
 https://news.walla.co.il/break/3829579
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830342
 https://news.walla.co.il/break/3830339
 https://news.walla.co.il/break/3830344
 https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-263332
+https://news.walla.co.il/item/3830347
+https://news.walla.co.il/item/3830352
+https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-263333
+https://hamal.co.il/main/חוסל-מחבל-שלקח-חלק-באסון-קריסת-המבנים-בו-נפלו-21-לוחמי-צהל-263336
