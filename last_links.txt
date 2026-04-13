@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/בכיר-לבנוני-לרויטרס-יש-להכריז-על-הפסקת-אש-כדי-לקיים-מומ-262333
-https://hamal.co.il/main/חשש-לחדירת-כלי-טיס-עוין-אזעקות-בגליל-המערבי-262340
+COUNTER:8
 https://news.walla.co.il/break/3829466
 https://news.walla.co.il/item/3829467
 https://hamal.co.il/main/המשא-ומתן-בין-ישראל-ללבנון-יתקיים-בשבוע-הבא-בוושינגטון-262352
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ערוד-בסכנ-263125
 https://news.walla.co.il/break/3830147
 https://news.walla.co.il/break/3830151
 https://hamal.co.il/main/נמשכים-החיפושים-אחר-הנער-שנעדר-בחוף-צאנז-בנתניה-263130
+https://hamal.co.il/main/ברקע-המשבר-מכירות-הנפט-הסעודיות-לסין-ירדו-בחצי-263135
+https://hamal.co.il/main/צפו-לוחמי-יהל״ם-וחטיבה-7-השמידו-תוואי-תת-קרקעי-בדרום-לבנון-263141
