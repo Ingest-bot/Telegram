@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3829489
-https://hamal.co.il/main/צהל-החל-לתקוף-אתרי-שיגור-של-חיזבאללה-בלבנון-262387
-https://hamal.co.il/main/דיווחים-מתקפת-כטבמים-על-מספר-מתקנים-חיוניים-בכווית-262389
+COUNTER:19
 https://news.walla.co.il/break/3829492
 https://hamal.co.il/main/שלטונות-בחריין-עצרו-את-קפטן-הנבחרת-חשוד-בתמיכה-באיראן-262365
 https://hamal.co.il/main/נשיא-ארגנטינה-חאבייר-מיליי-ידליק-משואה-ביום-העצמאות-262391
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מגלחים-את-הבשמים-18-נעצרו-בחשד-�
 https://news.walla.co.il/break/3830203
 https://news.walla.co.il/break/3830209
 https://news.walla.co.il/item/3830207
+https://news.walla.co.il/item/3830213
+https://news.walla.co.il/item/3830217
+https://hamal.co.il/main/הגיעה-לתחתית-בריטני-ספירס-נכנסה-למכון-גמילה-263132
