@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3829442
-https://news.walla.co.il/break/3829447
-https://hamal.co.il/main/טראמפ-פנה-לנתניהו-צמצם-את-התקיפות-בלבנון-262304
+COUNTER:3
 https://hamal.co.il/main/ההרוג-בתאונה-בכביש-25---רסר-ניב-סימון-בוחבוט-זל-262308
 https://hamal.co.il/main/נתניהו-הנחיתי-לפתוח-במשא-ומתן-ישיר-עם-לבנון-262311
 https://news.walla.co.il/break/3829449
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830126
 https://hamal.co.il/main/שלושה-מטיילים-נעדרים-במכתש-הקטן-כוחות-חילוץ-פתחו-בסריקות-263110
 https://hamal.co.il/main/עלייה-הדרגתית-בטמפרטורות-שיא-חום-ביום-רביעי---ואובך-263113
 https://hamal.co.il/main/אזעקות-הופעלו-במטולה-מחשש-לחדירת-כלי-טיס-עוין-263118
+https://news.walla.co.il/item/3830132
+https://hamal.co.il/main/זינוק-חד-מחיר-הנפט-מעל-100-דולר-בעקבות-הכרזת-המצור-על-איראן-263120
+https://hamal.co.il/main/״הבורר״-של-העולם-התחתון-12-מחברי-ארגון-הפשע-חרירי-נעצרו-263121
