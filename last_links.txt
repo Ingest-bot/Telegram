@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3829566
-https://hamal.co.il/main/הבשורה-שחיכיתם-לה-חברת-הלואו-קוסט-פותחת-אפשרות-לרכישת-כרטיס-262481
-https://hamal.co.il/main/מעל-200-משגרים-הושמדו-262482
-https://hamal.co.il/main/אל-על-זינוק-חריג-במכירות-כרטיסים-מאז-החזרה-לשגרה-262483
-https://news.walla.co.il/item/3829568
-https://hamal.co.il/main/מפקד-חיל-הים-יסיים-את-תפקידו-אלוף-אייל-הראל-יחליפו-262484
+COUNTER:10
 https://hamal.co.il/main/בית-כנסת-262490
 https://news.walla.co.il/break/3829572
 https://hamal.co.il/main/בית-כנסת-262492
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3830333
 https://news.walla.co.il/item/3830335
 https://news.walla.co.il/item/3830337
 https://hamal.co.il/main/טראמפ-מזהיר-את-האיראנים-אל-תתקרבו-לספינות-שלנו-263323
+https://news.walla.co.il/break/3830341
+https://news.walla.co.il/break/3830343
+https://news.walla.co.il/break/3830342
+https://news.walla.co.il/break/3830339
+https://news.walla.co.il/break/3830344
+https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-263332
