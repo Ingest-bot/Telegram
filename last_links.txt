@@ -1,7 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/שר-הביטחון-חיזבאללה-משווע-להפסקת-אש-262290
-https://hamal.co.il/main/מופת-של-חבר-המונים-מלווים-את-טובאל-ליפשיץ-למנוחות-262288
-https://news.walla.co.il/break/3829434
+COUNTER:38
 https://hamal.co.il/main/קצין-בלהב-433-נחקר-בחשד-להטרדה-מינית-ומעשה-מגונה-בשוטרת-262294
 https://hamal.co.il/main/ביסמוט-יש-אפשרות-שהמערכה-תתחדש-בימים-הקרובים-262291
 https://hamal.co.il/main/הלוחם-ארי-שפיץ-שנפצע-קשה-בעזה-ישיא-משואה-ביום-העצמאות-262297
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
 https://hamal.co.il/main/הרמטכל-263106
 https://news.walla.co.il/break/3830118
 https://hamal.co.il/main/בין-לאומיות-לרב-תרבותיות-263107
+https://news.walla.co.il/break/3830119
+https://hamal.co.il/main/טראמפ-על-המצור-הימי-מדינות-נוספות-263108
+https://hamal.co.il/main/צהל-תרגיל-צבאי-יתקיים-במרחב-כרמיאל-263109
