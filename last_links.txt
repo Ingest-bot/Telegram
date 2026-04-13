@@ -1,9 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3829477
-https://hamal.co.il/main/צהל-ייתכן-ירי-משטח-לבנון-לאזורים-נוספים-בישראל-בשעות-הקרוב-262371
-https://hamal.co.il/main/הרמטכל-זירת-הלחימה-העיקרית-היא-בלבנון-262372
-https://hamal.co.il/main/נתניהו-במסר-לתושבי-הצפון-אין-הפסקת-אש-בלבנון-262374
-https://news.walla.co.il/break/3829481
+COUNTER:15
 https://news.walla.co.il/break/3829484
 https://news.walla.co.il/item/3829474
 https://hamal.co.il/main/ישראל-קללה-סרטן-המתקפה-האנטישמית-של-השר-הפקיסטני-262377
@@ -499,3 +494,8 @@ https://hamal.co.il/main/המומחה-לאיראן-מזהיר-הסיכוי-לה�
 https://news.walla.co.il/break/3830180
 https://news.walla.co.il/break/3830181
 https://hamal.co.il/main/גורם-ביטחוני-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-263149
+https://news.walla.co.il/break/3830189
+https://news.walla.co.il/item/3829655
+https://hamal.co.il/main/לקראת-גל-חום-263152
+https://hamal.co.il/main/נתניהו-לשורדי-שואה-״היום-אנחנו-צדים-את-הצוררים״-263158
+https://hamal.co.il/main/בארץ-ובעולם-מעל-2-מיליון-איש-ישתתפו-במפגשי-זיכרון-בסלון-263161
