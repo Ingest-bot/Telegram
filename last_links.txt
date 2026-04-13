@@ -1,8 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/אזעקות-נשמעות-גם-באזורים-נרחבים-במרכז-הארץ-262427
-https://hamal.co.il/main/בהמשך-לאזעקות-ללא-דיווחים-חריגים-262429
-https://hamal.co.il/main/נתבג-בעת-הישמע-האזעקות--תיעוד-262431
-https://news.walla.co.il/break/3829520
+COUNTER:30
 https://news.walla.co.il/break/3829521
 https://news.walla.co.il/break/3829522
 https://news.walla.co.il/break/3829523
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830245
 https://news.walla.co.il/item/3830244
 https://hamal.co.il/main/אזעקות-לא-פוסקות-בצפון-263243
 https://hamal.co.il/main/נתניהו-הפסקת-האש-יכולה-להתהפך-בזמן-קצר-מאוד-263245
+https://news.walla.co.il/break/3830255
+https://news.walla.co.il/break/3830259
+https://hamal.co.il/main/ראש-מועצת-מטה-אשר-נותר-לנו-להמשיך-להתפלל-כי-מיגון-אין-כאן-263248
+https://hamal.co.il/main/מקרחת-עד-צרבת-10-תרופות-נפוצות-שגורמות-לגברים-לפתח-חזה-נשי-263146
