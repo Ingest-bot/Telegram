@@ -1,6 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/break/3829636
-https://news.walla.co.il/break/3829637
 https://news.walla.co.il/break/3829638
 https://hamal.co.il/main/הירי-מלבנון-נמשך-אזעקות-הופעלו-בקריית-שמונה-וסביבה-262610
 https://news.walla.co.il/break/3829639
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3830399
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263374
 https://hamal.co.il/main/אזעקות-בגליל-העליון-263388
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263375
+https://news.walla.co.il/break/3830410
+https://news.walla.co.il/item/3830408
