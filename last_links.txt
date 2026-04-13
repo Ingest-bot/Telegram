@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3829429
-https://news.walla.co.il/item/3829430
+COUNTER:36
 https://hamal.co.il/main/שר-הביטחון-חיזבאללה-משווע-להפסקת-אש-262290
 https://hamal.co.il/main/מופת-של-חבר-המונים-מלווים-את-טובאל-ליפשיץ-למנוחות-262288
 https://news.walla.co.il/break/3829434
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3830096
 https://hamal.co.il/main/דיווח-טראמפ-שוקל-לחדש-את-התקיפות-באיראן-באופן-מוגבל-263103
 https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
 https://hamal.co.il/main/הרמטכל-263106
+https://news.walla.co.il/break/3830118
+https://hamal.co.il/main/בין-לאומיות-לרב-תרבותיות-263107
