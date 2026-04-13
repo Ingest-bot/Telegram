@@ -1,8 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/המטח-האחרון-לנהריה-5-רקטות-יורטו-לא-ידוע-על-נפגעים-262354
-https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-262355
-https://hamal.co.il/main/מהחניונים-למחלקות-בבתי-החולים-חוזרים-לשגרה-זהירה-262325
-https://hamal.co.il/main/טליק-גוויאילי-תשיא-משואה-יחד-עם-גל-הירש-262361
+COUNTER:11
 https://news.walla.co.il/break/3829476
 https://news.walla.co.il/break/3829478
 https://news.walla.co.il/break/3829479
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830161
 https://news.walla.co.il/item/3830163
 https://hamal.co.il/main/שיא-של-8-שנים-המלחמה-באיראן-הקפיצה-את-מחיר-הפיסטוק-ב-30-263127
 https://hamal.co.il/main/התלמידים-משלמים-מחיר-כפול-קריאה-לעדכון-מתווה-הבגרויות-263134
+https://news.walla.co.il/break/3830164
+https://news.walla.co.il/break/3830168
+https://news.walla.co.il/item/3830153
+https://hamal.co.il/main/המומחה-לאיראן-מזהיר-הסיכוי-להסלמה-גובר-מיום-ליום-263143
