@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/אוטובוס-התנגש-במעקה-בטיחות-17-פצועים-במחלף-פולג-262537
-https://hamal.co.il/main/תיעוד-מאזור-נהריה-דיווח-ראשוני-על-נפילה-בשטח-פתוח-262540
-https://hamal.co.il/main/נגד-במילואים-נפצע-באורח-קשה-כתוצאה-מרסיסי-רחפן-נפץ-262541
+COUNTER:27
 https://hamal.co.il/main/פגיעה-בשטח-פתוח-בנהריה-סמוך-למוסד-חינוכי-נזק-קל-וללא-נפגעים-262542
 https://news.walla.co.il/break/3829600
 https://news.walla.co.il/break/3829601
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830376
 https://news.walla.co.il/item/3830374
 https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263360
 https://hamal.co.il/main/טלאי-על-טלאי-הסיפורים-הנוראיים-מאחורי-הסמל-הכי-מוכר-של-השוא-263348
+https://news.walla.co.il/break/3830379
+https://hamal.co.il/main/אחרי-3-שעות-ללא-הנחיות-מעודכנות-אלו-השינויים-במדיניות-לעורף-263366
+https://hamal.co.il/main/שורד-השואה-שהפך-לטייס-263367
