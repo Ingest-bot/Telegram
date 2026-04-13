@@ -1,7 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-262316
-https://hamal.co.il/main/ילד-בן-7-נפצע-קשה-מפגיעת-רכב-באשדוד-262318
-https://news.walla.co.il/break/3829452
+COUNTER:5
 https://news.walla.co.il/item/3829454
 https://hamal.co.il/main/המשטרה-יצאה-לסרוק-זירות-נפילה-בגזרת-מרחב-אשר-262330
 https://hamal.co.il/main/הירי-לנהריה-חלק-מהרקטות-יורטו-חלק-נפלו-בשטח-פתוח-262331
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830137
 https://news.walla.co.il/break/3830140
 https://news.walla.co.il/item/3830136
 https://hamal.co.il/main/מקור-לבנוני-כישלון-המו״מ-בין-ארה״ב-לאיראן-לא-ישפיע-על-לבנון-263122
+https://news.walla.co.il/item/3830116
+https://news.walla.co.il/item/3830141
+https://hamal.co.il/main/ערוד-בסכנ-263125
