@@ -1,12 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/חשד-לרצח-בתל-שבע-גבר-נורה-למוות-הרקע-פלילי-262446
-https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262447
-https://news.walla.co.il/item/3829535
-https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262448
-https://hamal.co.il/main/המודיעין-התריע-כוחות-רדואן-הוזרמו-דרומה-השאלות-סביב-התמרון-262443
-https://news.walla.co.il/break/3829539
-https://hamal.co.il/main/הירי-מלבנון-מבנה-נפגע-באצבע-הגליל-נפגעת-חרדה-במקום-262451
-https://news.walla.co.il/item/3829542
+COUNTER:38
 https://hamal.co.il/main/הירי-מלבנון-מבנה-נפגע-באצבע-הגליל-נפגעת-חרדה-במקום-262452
 https://hamal.co.il/main/מנהלת-גן-ילדים-ובעלה-נעצרו-החשד-262453
 https://news.walla.co.il/item/3829545
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3830290
 https://news.walla.co.il/break/3830293
 https://news.walla.co.il/break/3830294
 https://hamal.co.il/main/זה-מתחיל-אלה-חברות-התעופה-הזרות-שחוזרות-לטוס-לארץ-263273
+https://news.walla.co.il/break/3830296
+https://news.walla.co.il/break/3830300
+https://news.walla.co.il/item/3830299
+https://news.walla.co.il/item/3830298
+https://hamal.co.il/main/דיווח-פקיסטן-עובדת-על-סבב-חדש-של-מו״מ-בין-ארה״ב-לאיראן-263281
+https://hamal.co.il/main/שר-ההגנה-האיראני-״נמצאים-ברמת-הכוננות-הגבוהה-ביותר״-263282
+https://hamal.co.il/main/כך-תגרמו-למשככי-הכאבים-לעבוד-מהר-יותר-5-טריקים-של-רופאים-263148
+https://hamal.co.il/main/תקיפה-מדוייקת-באמצעות-רחפנים-כוחות-הקומנדו-חיסלו-מחבלים-263283
