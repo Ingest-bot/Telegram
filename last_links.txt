@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3829476
-https://news.walla.co.il/break/3829478
-https://news.walla.co.il/break/3829479
+COUNTER:12
 https://news.walla.co.il/item/3829477
 https://hamal.co.il/main/צהל-ייתכן-ירי-משטח-לבנון-לאזורים-נוספים-בישראל-בשעות-הקרוב-262371
 https://hamal.co.il/main/הרמטכל-זירת-הלחימה-העיקרית-היא-בלבנון-262372
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830164
 https://news.walla.co.il/break/3830168
 https://news.walla.co.il/item/3830153
 https://hamal.co.il/main/המומחה-לאיראן-מזהיר-הסיכוי-להסלמה-גובר-מיום-ליום-263143
+https://news.walla.co.il/break/3830180
+https://news.walla.co.il/break/3830181
+https://hamal.co.il/main/גורם-ביטחוני-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-263149
