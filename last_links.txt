@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3829601
-https://news.walla.co.il/break/3829602
-https://hamal.co.il/main/השתיקה-מפנה-מקום-להקשבה-אלוף-אכ״א-דדו-בר-כליפא-במסר-לפקודיו-262561
-https://hamal.co.il/main/אלו-מדליקי-המשואות-מטעם-צהל-262565
+COUNTER:30
 https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-הארץ-לא-התקבלו-דיווחים-על-נפגעים-262573
 https://hamal.co.il/main/טראמפ-על-הכרעת-המשא-ומתן-נדע-בתוך-בערך-24-שעות-262579
 https://news.walla.co.il/break/3829609
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אחרי-3-שעות-ללא-הנחיות-מעודכנו�
 https://hamal.co.il/main/שורד-השואה-שהפך-לטייס-263367
 https://news.walla.co.il/item/3830381
 https://hamal.co.il/main/חצי-הגמר-יתקיים-ללא-קהל-הגבלות-התקהלות-חדשות-בירושלים-263373
+https://news.walla.co.il/break/3830387
+https://news.walla.co.il/break/3830386
+https://hamal.co.il/main/״פרח-לניצול״-פרויקט-מיוחד-המחבר-בין-מפקדי-צהל-לשורדי-השואה-263380
+https://hamal.co.il/main/סבא-של-קרולינה-היה-חייל-נאצי-היום-היא-נלחמת-למען-ישראל-263349
