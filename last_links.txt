@@ -1,5 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3829631
+COUNTER:37
 https://news.walla.co.il/break/3829636
 https://news.walla.co.il/break/3829637
 https://news.walla.co.il/break/3829638
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830393
 https://news.walla.co.il/break/3830399
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263374
 https://hamal.co.il/main/אזעקות-בגליל-העליון-263388
+https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263375
