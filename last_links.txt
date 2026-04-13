@@ -1,10 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/אזעקות-בחיפה-עכו-והקריות-262399
-https://hamal.co.il/main/נער-בן-17-נפצע-קשה-מפגיעת-אופנוע-בצפת-262402
-https://hamal.co.il/main/השיגורים-לאזור-הצפון-במדא-מעדכנים-כי-לא-התקבלו-דיווחים-חרי-262404
-https://hamal.co.il/main/שורד-השבי-משתף-ברגע-מרגש-עם-פועלים-דיברתי-איתם-ערבית-262370
-https://news.walla.co.il/item/3829504
-https://hamal.co.il/main/בן-28-במצב-קשה-עם-חבלות-בראש-ובגפיים-ידידיה-פראמדיקית-מד-262405
+COUNTER:26
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-262408
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-262411
 https://hamal.co.il/main/טראמפ-יש-דיווחים-שאיראן-גובה-עמלות-ממכליות-העוברות-דרך-מצר-262418
@@ -499,3 +493,9 @@ https://hamal.co.il/main/אזעקות-נרחבות-הופעלו-בצפון-26319
 https://news.walla.co.il/break/3830227
 https://hamal.co.il/main/הטווח-מתרחב-אזעקות-הופעלו-גם-בעכו-וסביבתה-עקב-כטב״ם-263215
 https://hamal.co.il/main/מרדף-אחר-כטב״ם-בצפון-התרעות-הופעלו-גם-בקריות-263228
+https://news.walla.co.il/break/3830235
+https://news.walla.co.il/break/3830236
+https://news.walla.co.il/break/3830239
+https://news.walla.co.il/item/3830233
+https://hamal.co.il/main/חזרו-עם-החום-כרישים-נצפו-ליד-חופי-חדרה-263234
+https://hamal.co.il/main/אברי-גלעד-נגד-ינון-מגל-מפיץ-רוע-במסווה-של-שמחה-צוהלת-263236
