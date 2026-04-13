@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/צעיר-נפצע-במהלך-רכיבה-על-אופניים-262503
-https://hamal.co.il/main/הירי-לצפון-דיווחים-על-נפילה-בדיר-262505
-https://news.walla.co.il/break/3829582
+COUNTER:17
 https://hamal.co.il/main/צהל-חושף-חיזבאללה-שיגר-רקטות-מתוך-בית-ספר---שהותקף-לאחר-מכ-262504
 https://news.walla.co.il/break/3829585
 https://news.walla.co.il/break/3829589
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830358
 https://news.walla.co.il/item/3830345
 https://hamal.co.il/main/צהל-מרדד-כוחות-בדרום-לבנון---ונערך-להנחיות-מהדרג-המדיני-263346
 https://hamal.co.il/main/מערכת-חמ״ל-מרכינה-את-ראשה-ומתייחדת-עם-זכרם-של-ששת-מיליון-היה-263347
+https://news.walla.co.il/break/3830362
+https://hamal.co.il/main/נתניהו-מתייחס-לראשונה-לתבוסת-אורבן-בבחירות-בהונגריה-263351
+https://hamal.co.il/main/חיל-האוויר-תקף-ביממה-האחרונה-כ-150-מטרות-של-חיזבאללה-263355
