@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/בהמשך-לירי-לעבר-צפון-הארץ-לא-התקבלו-דיווחים-על-נפגעים-262573
-https://hamal.co.il/main/טראמפ-על-הכרעת-המשא-ומתן-נדע-בתוך-בערך-24-שעות-262579
+COUNTER:31
 https://news.walla.co.il/break/3829609
 https://news.walla.co.il/break/3829610
 https://news.walla.co.il/break/3829611
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3830387
 https://news.walla.co.il/break/3830386
 https://hamal.co.il/main/״פרח-לניצול״-פרויקט-מיוחד-המחבר-בין-מפקדי-צהל-לשורדי-השואה-263380
 https://hamal.co.il/main/סבא-של-קרולינה-היה-חייל-נאצי-היום-היא-נלחמת-למען-ישראל-263349
+https://news.walla.co.il/break/3830391
+https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263382
