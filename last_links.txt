@@ -1,7 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/צהל-חושף-חיזבאללה-שיגר-רקטות-מתוך-בית-ספר---שהותקף-לאחר-מכ-262504
-https://news.walla.co.il/break/3829585
-https://news.walla.co.il/break/3829589
+COUNTER:19
 https://hamal.co.il/main/אירוע-טביעה-קשה-בנתניה-נער-כבן-21-במצב-אנוש-262509
 https://news.walla.co.il/item/3829585
 https://hamal.co.il/main/חמש-אוגדות-פועלות-במקביל-ברחבי-דרום-לבנון-262512
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מערכת-חמ״ל-מרכינה-את-ראשה-ומתי
 https://news.walla.co.il/break/3830362
 https://hamal.co.il/main/נתניהו-מתייחס-לראשונה-לתבוסת-אורבן-בבחירות-בהונגריה-263351
 https://hamal.co.il/main/חיל-האוויר-תקף-ביממה-האחרונה-כ-150-מטרות-של-חיזבאללה-263355
+https://news.walla.co.il/break/3830363
+https://hamal.co.il/main/הרמטכל-בהערכת-מצב--263356
+https://hamal.co.il/main/טראמפ-34-ספינות-עברו-אתמול-במצר-הורמוז-263358
