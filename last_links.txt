@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3829512
-https://hamal.co.il/main/טראמפ-מאשים-את-איראן-בהפרת-ההסכם-על-מעבר-הנפט-במצרי-הורמוז-ע-262435
-https://hamal.co.il/main/דיווח-המשלחת-האיראנית-לשיחות-המשא-ומתן-נחתה-באיסלאמאבד-עידן-262436
-https://hamal.co.il/main/הבית-הלבן-הזהיר-עובדים-מביצוע-הימורים-בשוק-ההון-ברקע-המלחמ-262437
+COUNTER:32
 https://hamal.co.il/main/שני-בני-אדם-נפצעו-בתאונת-דרכים-בקריית-מוצקין-יואב-איתיאל-ש-262438
 https://news.walla.co.il/break/3829526
 https://hamal.co.il/main/חרף-הלחץ-האמריקני-חיל-האוויר-תקף-יעדי-חיזבאללה-בדרום-לבנון-א-262439
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830267
 https://news.walla.co.il/item/3830110
 https://news.walla.co.il/item/3829360
 https://hamal.co.il/main/תעלומה-בחצר-השלדים-שנמצאו-מתחת-לבית-הספר-בתנוחה-מצמררת-263129
+https://news.walla.co.il/break/3830276
+https://news.walla.co.il/item/3830269
+https://news.walla.co.il/item/3830274
+https://hamal.co.il/main/נתניהו-חושף-״אתמול-הייתי-בלבנון-יש-עבודה-לעשות״-263264
