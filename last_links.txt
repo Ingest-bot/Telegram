@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/הלוחם-ארי-שפיץ-שנפצע-קשה-בעזה-ישיא-משואה-ביום-העצמאות-262297
-https://news.walla.co.il/break/3829440
-https://news.walla.co.il/item/3829441
-https://news.walla.co.il/item/3829390
-https://hamal.co.il/main/מיליוני-משלוחים-תקועים-בפקק-עצום-מתי-נקבל-את-החבילות-262302
+COUNTER:1
 https://news.walla.co.il/item/3829442
 https://news.walla.co.il/break/3829447
 https://hamal.co.il/main/טראמפ-פנה-לנתניהו-צמצם-את-התקיפות-בלבנון-262304
@@ -499,3 +494,8 @@ https://hamal.co.il/main/טראמפ-על-המצור-הימי-מדינות-נוס
 https://hamal.co.il/main/צהל-תרגיל-צבאי-יתקיים-במרחב-כרמיאל-263109
 https://news.walla.co.il/break/3830122
 https://news.walla.co.il/item/3830123
+https://news.walla.co.il/break/3830124
+https://news.walla.co.il/break/3830126
+https://hamal.co.il/main/שלושה-מטיילים-נעדרים-במכתש-הקטן-כוחות-חילוץ-פתחו-בסריקות-263110
+https://hamal.co.il/main/עלייה-הדרגתית-בטמפרטורות-שיא-חום-ביום-רביעי---ואובך-263113
+https://hamal.co.il/main/אזעקות-הופעלו-במטולה-מחשש-לחדירת-כלי-טיס-עוין-263118
