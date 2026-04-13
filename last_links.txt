@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3829492
-https://hamal.co.il/main/שלטונות-בחריין-עצרו-את-קפטן-הנבחרת-חשוד-בתמיכה-באיראן-262365
-https://hamal.co.il/main/נשיא-ארגנטינה-חאבייר-מיליי-ידליק-משואה-ביום-העצמאות-262391
-https://news.walla.co.il/item/3829494
-https://hamal.co.il/main/בצל-המשך-התקיפות-בלבנון-יור-הפרלמנט-האיראני-מאיים-262393
+COUNTER:22
 https://news.walla.co.il/break/3829498
 https://news.walla.co.il/break/3829499
 https://news.walla.co.il/break/3829500
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3830207
 https://news.walla.co.il/item/3830213
 https://news.walla.co.il/item/3830217
 https://hamal.co.il/main/הגיעה-לתחתית-בריטני-ספירס-נכנסה-למכון-גמילה-263132
+https://news.walla.co.il/break/3830224
+https://news.walla.co.il/item/3830222
+https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בעיירה-סחמר-ובמטה-הצלב-האדום-263188
+https://hamal.co.il/main/לגדול-בצל-השואה-אורי-מנציח-את-זיכרון-משפחתו-263195
+https://hamal.co.il/main/אזעקות-נרחבות-הופעלו-בצפון-263197
