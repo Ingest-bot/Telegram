@@ -1,5 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/break/3829645
 https://news.walla.co.il/break/3829648
 https://hamal.co.il/main/--262614
 https://hamal.co.il/main/תיעוד-הגעת-המשלחת-האיראנית-לפקיסטן-262616
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830412
 https://hamal.co.il/main/הרצליה-גבר-בן-45-נמצא-פצוע-ברחוב---כשמצבו-אנוש-263389
 https://hamal.co.il/main/אירוע-ירי-בהרצליה-גבר-במצב-אנוש-263390
 https://news.walla.co.il/item/3830411
+https://news.walla.co.il/item/3830418
