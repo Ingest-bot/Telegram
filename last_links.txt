@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/אירוע-טביעה-קשה-בנתניה-נער-כבן-21-במצב-אנוש-262509
-https://news.walla.co.il/item/3829585
-https://hamal.co.il/main/חמש-אוגדות-פועלות-במקביל-ברחבי-דרום-לבנון-262512
-https://hamal.co.il/main/דיווח-ראשוני-על-נפילה-באזור-צפת-262517
-https://hamal.co.il/main/נתניהו-ספרד-הכפישה-את-חיילי-צהל---נציגיה-סולקו-ממרכז-התאום-262519
+COUNTER:22
 https://news.walla.co.il/break/3829592
 https://news.walla.co.il/item/3829591
 https://hamal.co.il/main/נתניהו-ביקש-לבטל-את-עדותו-בשבועיים-הקרובים--הסיבה-262520
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חיל-האוויר-תקף-ביממה-האחרונה-כ
 https://news.walla.co.il/break/3830363
 https://hamal.co.il/main/הרמטכל-בהערכת-מצב--263356
 https://hamal.co.il/main/טראמפ-34-ספינות-עברו-אתמול-במצר-הורמוז-263358
+https://news.walla.co.il/break/3830366
+https://news.walla.co.il/item/3830360
+https://hamal.co.il/main/טראמפ-או-שאיראן-תתן-לנו-את-האורניום-המעושר---או-שנקח-אותו-263362
+https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263363
+https://hamal.co.il/main/טראמפ-איראן-לא-מוותרת-על-תכנית-הגרעין-בלי-זה---אין-הסכם-263364
