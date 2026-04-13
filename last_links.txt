@@ -1,12 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262266
-https://hamal.co.il/main/מיליוני-משלוחים-תקועים-מתי-נקבל-את-החבילות-מחול-262267
-https://news.walla.co.il/item/3829413
-https://news.walla.co.il/break/3829421
-https://hamal.co.il/main/נשיא-איראן-המשך-ההתקפות-על-לבנון-יהפכו-את-המומ-לחסר-משמעות-262277
-https://news.walla.co.il/break/3829422
-https://news.walla.co.il/break/3829424
-https://hamal.co.il/main/אזעקות-במעלות-תרשיחא-והסביבה-262282
+COUNTER:34
 https://hamal.co.il/main/דובר-צהל-בערבית-פרסם-התרעת-פינוי-לשכונות-בדאחייה-בביירות-262285
 https://news.walla.co.il/break/3829429
 https://news.walla.co.il/item/3829430
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3830086
 https://news.walla.co.il/break/3830087
 https://hamal.co.il/main/סער-בירך-את-ראש-האופוזיציה-בהונגריה-נמשיך-לעבוד-יחד-263097
 https://hamal.co.il/main/בן-50-263098
+https://news.walla.co.il/break/3830095
+https://news.walla.co.il/break/3830094
+https://news.walla.co.il/break/3830102
+https://news.walla.co.il/break/3830112
+https://news.walla.co.il/break/3830115
+https://news.walla.co.il/item/3830096
+https://hamal.co.il/main/דיווח-טראמפ-שוקל-לחדש-את-התקיפות-באיראן-באופן-מוגבל-263103
+https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
