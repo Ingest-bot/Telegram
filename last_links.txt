@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3829498
-https://news.walla.co.il/break/3829499
-https://news.walla.co.il/break/3829500
+COUNTER:24
 https://hamal.co.il/main/אזעקות-בחיפה-עכו-והקריות-262399
 https://hamal.co.il/main/נער-בן-17-נפצע-קשה-מפגיעת-אופנוע-בצפת-262402
 https://hamal.co.il/main/השיגורים-לאזור-הצפון-במדא-מעדכנים-כי-לא-התקבלו-דיווחים-חרי-262404
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830222
 https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בעיירה-סחמר-ובמטה-הצלב-האדום-263188
 https://hamal.co.il/main/לגדול-בצל-השואה-אורי-מנציח-את-זיכרון-משפחתו-263195
 https://hamal.co.il/main/אזעקות-נרחבות-הופעלו-בצפון-263197
+https://news.walla.co.il/break/3830227
+https://hamal.co.il/main/הטווח-מתרחב-אזעקות-הופעלו-גם-בעכו-וסביבתה-עקב-כטב״ם-263215
+https://hamal.co.il/main/מרדף-אחר-כטב״ם-בצפון-התרעות-הופעלו-גם-בקריות-263228
