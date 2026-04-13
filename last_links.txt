@@ -1,9 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/כמה-הוא-שווה-גנב-262473
-https://hamal.co.il/main/האם-הפסקת-האש-עם-איראן-תחזיק-מעמד-262475
-https://hamal.co.il/main/נשיא-העליון-נגד-המשטרה-262476
-https://news.walla.co.il/item/3829561
-https://news.walla.co.il/break/3829563
+COUNTER:8
 https://news.walla.co.il/item/3829564
 https://hamal.co.il/main/תיעוד-מלבנון-מחבל-מסתתר-בשיחים---ומחוסל-יחד-עם-שאר-החולייה-262480
 https://hamal.co.il/main/בית-המשפט-אישר-איריס-חיים-תוכל-להביא-ילד-מזרעו-של-יותם-262477
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3830323
 https://hamal.co.il/main/נער-בן-17-נפצע-קל-מדקירה-באזור-מישור-אדומים-המשטרה-חוקרת-263311
 https://hamal.co.il/main/משעות-הבוקר-יורטו-יותר-מ-10-כטבמים-ששוגרו-מלבנון-263315
 https://hamal.co.il/main/נכנס-לתוקפו-המצור-הימי-על-איראן--כל-העדכונים-263313
+https://news.walla.co.il/break/3830332
+https://news.walla.co.il/item/3830331
+https://hamal.co.il/main/מרגש-אלקנה-בוחבוט-ואשתו-רבקה-מצפים-לילד-שני-263318
+https://hamal.co.il/main/צהל-שני-לוחמים-נפצעו-בינוני-ו-6-קל-מנפילת-כטבם-בלבנון-263319
+https://hamal.co.il/main/צעיר-בן-25-נפצע-קשה-באירוע-אלימות-בירושלים-263320
