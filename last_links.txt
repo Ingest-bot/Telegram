@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3829858
-https://news.walla.co.il/break/3829860
-https://news.walla.co.il/item/3829854
+COUNTER:35
 https://news.walla.co.il/item/3829859
 https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-לא-ציפינו-להגיע-להסכם-בסבב-משא-ומתן-262912
 https://hamal.co.il/main/נתפסו-262913
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830661
 https://hamal.co.il/main/מפקד-פיקוד-הצפון-״השלמנו-את-כיתור-המרחב-ופתחנו-בהתקפה-263633
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-263640
 https://hamal.co.il/main/שלושה-מחבלי-חיזבאללה-נכנעו-ללוחמינו-במהלך-קרב-בבינת-ג׳בייל-263643
+https://news.walla.co.il/break/3830670
+https://news.walla.co.il/item/3830655
+https://hamal.co.il/main/טקס-חילופי-מפקד-חיל-האוויר-263644
