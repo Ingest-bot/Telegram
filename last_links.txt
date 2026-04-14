@@ -1,13 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3829648
-https://hamal.co.il/main/--262614
-https://hamal.co.il/main/תיעוד-הגעת-המשלחת-האיראנית-לפקיסטן-262616
-https://hamal.co.il/main/טראמפ-נדע-מחר-אם-המומ-מוצלח-262621
-https://news.walla.co.il/break/3829650
-https://news.walla.co.il/break/3829651
-https://news.walla.co.il/break/3829652
-https://news.walla.co.il/break/3829653
-https://news.walla.co.il/break/3829654
+COUNTER:2
 https://hamal.co.il/main/7-פצועים-בתאונה-קשה-בכביש-89-שני-צעירים-במצב-קשה-ופונו-במסו-262626
 https://hamal.co.il/main/תאונת-דרכים-קטלנית-בשומרון-נקבע-מותם-של-5-פלסטינים-262628
 https://news.walla.co.il/break/3829656
@@ -499,3 +490,12 @@ https://hamal.co.il/main/הרצליה-גבר-בן-45-נמצא-פצוע-ברחו�
 https://hamal.co.il/main/אירוע-ירי-בהרצליה-גבר-במצב-אנוש-263390
 https://news.walla.co.il/item/3830411
 https://news.walla.co.il/item/3830418
+https://news.walla.co.il/break/3830419
+https://news.walla.co.il/break/3830421
+https://news.walla.co.il/break/3830423
+https://news.walla.co.il/break/3830422
+https://news.walla.co.il/break/3830427
+https://news.walla.co.il/item/3830420
+https://hamal.co.il/main/יום-הזיכרון-לשואה-ולגבורה-לוח-הטקסים-המלא-263396
+https://hamal.co.il/main/פקיסטן-הציעה-לארח-סבב-נוסף-של-שיחות-בין-ארהב-לאיראן-263398
+https://hamal.co.il/main/תאונת-אופנוע-בירושלים-נקבע-מותו-של-גבר-כבן-50-263399
