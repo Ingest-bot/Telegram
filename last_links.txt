@@ -1,8 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3829747
-https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262827
-https://hamal.co.il/main/נחיתה-מדויקת-ומושלמת-ארטמיס-2-חזרה-מהמסע-לירח-בשלום-262790
-https://news.walla.co.il/item/3829750
+COUNTER:2
 https://news.walla.co.il/item/3829751
 https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-בתאונה-מבצעית-במרכז-הרצועה-262829
 https://hamal.co.il/main/צהל-הפרת-סדר-בבנימין---מיידה-אבנים-לעבר-כוחותינו-חוסל-262830
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830567
 https://news.walla.co.il/item/3830565
 https://hamal.co.il/main/יוצרי-התוכן-הגדולים-בישראל-מנציחים-את-עדויות-ניצולי-השואה-263471
 https://hamal.co.il/main/בגץ-ידון-בעתירה-נגד-מינוי-גופמן-לראש-המוסד-263483
+https://news.walla.co.il/break/3830569
+https://hamal.co.il/main/פעוט-נמצא-מחוסר-הכרה-במודיעין-עילית-מצבו-קשה-263486
+https://hamal.co.il/main/מבחן-כוח-לטראמפ-מכלית-סינית-תחת-סנקציות-מאתגרת-את-המצור-263475
+https://hamal.co.il/main/ראש-המוסד--263487
