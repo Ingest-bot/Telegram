@@ -1,7 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/item/3829859
-https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-לא-ציפינו-להגיע-להסכם-בסבב-משא-ומתן-262912
-https://hamal.co.il/main/נתפסו-262913
+COUNTER:37
 https://news.walla.co.il/break/3829876
 https://news.walla.co.il/item/3829878
 https://hamal.co.il/main/השר-לביטחון-לאומי-איתמר-בן-גביר-עלה-הבוקר-להר-הבית-262916
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שלושה-מחבלי-חיזבאללה-נכנעו-לל�
 https://news.walla.co.il/break/3830670
 https://news.walla.co.il/item/3830655
 https://hamal.co.il/main/טקס-חילופי-מפקד-חיל-האוויר-263644
+https://news.walla.co.il/break/3830671
+https://hamal.co.il/main/בגין-חובות-כבדים-בקשה-למעצר-של-כוכב-הפוסקאס-אשר-בן-עוז-263485
+https://hamal.co.il/main/ציון-ברוך-השאיפה-של-העולם-תמיד-הייתה-לחסל-את-העם-היהודי-263518
