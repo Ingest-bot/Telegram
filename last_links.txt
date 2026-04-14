@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/אזעקות-בצפת-והסביבה-262787
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-262792
-https://hamal.co.il/main/הישג-אדיר-זהב-לדולגופיאט-בגביע-העולם-ארד-לברקוביץ-262795
+COUNTER:33
 https://news.walla.co.il/break/3829736
 https://news.walla.co.il/break/3829738
 https://news.walla.co.il/item/3829737
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830527
 https://news.walla.co.il/break/3830529
 https://hamal.co.il/main/אירוע-נדיר-3-זוגות-של-תאומים-נולדו-ליעלים-במדבריום-263436
 https://hamal.co.il/main/אבל-לא-פגעתי-11-מחבלים-נאשמים-ביידוי-אבנים-לעבר-כוחותינו-263462
+https://hamal.co.il/main/הכוכב-263466
+https://hamal.co.il/main/נשים-יתמיינו-לכל-תפקידי-הלחימה--263467
+https://hamal.co.il/main/משפיען-האוכל-טעם-״מאכלים-שאכלו-במחנה-ריכוז״---ועורר-סערה-263469
