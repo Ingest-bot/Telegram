@@ -1,8 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו--אמיר-בוחבוט-262887
-https://hamal.co.il/main/צופות-על-הגבולות-מאות-תצפיתניות-התגייסו-לחיל-האיסוף-הקרבי-262889
-https://hamal.co.il/main/בית-המשפט-בתגובה-לבקשת-ביטול-עדותו-של-נתניהו-262892
-https://news.walla.co.il/break/3829818
+COUNTER:28
 https://hamal.co.il/main/האם-חדרי-הכושר-יחויבו-להחזיר-לנו-כסף-262895
 https://hamal.co.il/main/סוכנות-הידיעות-הלבנונית-LBCI-מדווחת-על-תקיפות-בכפרים-במחוז-צ-262896
 https://news.walla.co.il/break/3829827
@@ -499,3 +495,7 @@ https://hamal.co.il/main/טראמפ-״ייתכן-ויחודשו-שיחות-פק�
 https://hamal.co.il/main/כוחותינו-השמידו-ארבעה-תוואים-תת-קרקעיים-ברצועת-עזה-263609
 https://hamal.co.il/main/צבא-ארהב-אף-ספינה-לא-חדרה-6-כלי-שיט-צייתו-והסתובבו-לאחור-263615
 https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-263621
+https://news.walla.co.il/break/3830649
+https://news.walla.co.il/break/3830653
+https://news.walla.co.il/item/3830652
+https://hamal.co.il/main/הרמטכל-ומפקד-סנטקום-263627
