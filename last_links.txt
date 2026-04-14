@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3829947
-https://news.walla.co.il/break/3829946
-https://news.walla.co.il/break/3829953
+COUNTER:12
 https://hamal.co.il/main/תיעוד-מרתיח-מפגינים-חרדים-רודפים-אחרי-חייל-שיצא-מלשכת-הגיוס-262971
 https://news.walla.co.il/item/3829960
 https://hamal.co.il/main/עתירה-לבגץ-להורות-על-חקירת-משטרה-נגד-ערוץ-14-וכוכביו-262975
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שגריר-רומניה-התנצל-בפני-בני-גנ
 https://hamal.co.il/main/דיווח-ראשוני-מכונית-תופת-התפוצצה-בטהרן-ליד-מחסום-בסיג-263669
 https://news.walla.co.il/break/3830711
 https://hamal.co.il/main/שאגות-נגד-סגן-נשיא-ארהב-הממשל-תומך-ברצח-עם-בעזה-263670
+https://news.walla.co.il/item/3830713
+https://hamal.co.il/main/סוף-עצוב-אחד-משני-האחים-שטבעו-ביום-שישי-האחרון-בחוף-צאנז-בנ-263671
+https://hamal.co.il/main/טראמפ-לפוקס-ביזנס-״המלחמה-באיראן-הסתיימה-263673
