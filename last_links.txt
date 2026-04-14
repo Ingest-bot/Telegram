@@ -1,9 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3829665
-https://hamal.co.il/main/דיווח-מוגתבא-חמינאי-עדיין-מחלים-מפציעות-קשות-בפניו-וברגליו-262661
-https://news.walla.co.il/item/3829670
-https://hamal.co.il/main/ניצחון-בסלון-יוצא-לדרך-262662
-https://hamal.co.il/main/הסריקות-אחר-הנעדר-בחוף-צאנז-בנתניה-נמשכות-262666
+COUNTER:10
 https://news.walla.co.il/item/3829668
 https://news.walla.co.il/break/3829677
 https://hamal.co.il/main/תחת-מעקב-כך-נראים-חיי-שחקניות-נבחרת-איראן-אחרי-החזרה-הביתה-262670
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווח-ההצעה-האמריקנית-להסכם-ג�
 https://news.walla.co.il/item/3830445
 https://hamal.co.il/main/פיצוץ-רכב-אירע-הלילה-בקריית-ים-הרקע-פלילי-263413
 https://hamal.co.il/main/המשטרה-על-הרצח-בכפר-קרע-הזירה-נפגעה-263414
+https://news.walla.co.il/break/3830449
+https://news.walla.co.il/item/3830448
+https://news.walla.co.il/item/3830416
+https://hamal.co.il/main/מעבר-לכל-דמיון-כך-הסתתרו-60-שבחים-בתוך-משאית-זבל--צפו-263417
+https://hamal.co.il/main/מבטיח-שאחזור-הפוסט-המצמרר-של-263418
