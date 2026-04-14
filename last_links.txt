@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/חדשות-השבת-262816
-https://hamal.co.il/main/השיחות-בין-ארהב-לאיראן-הגיעו-למבוי-סתום-סביב-סוגיית-הורמוז-262817
-https://hamal.co.il/main/צעיר-בן-24-נפצע-קשה-באירוע-אלימות-בערערה-262818
-https://news.walla.co.il/break/3829746
+COUNTER:39
 https://news.walla.co.il/break/3829747
 https://hamal.co.il/main/עדכון-במדיניות-התגוננות-של-פיקוד-העורף-262827
 https://hamal.co.il/main/נחיתה-מדויקת-ומושלמת-ארטמיס-2-חזרה-מהמסע-לירח-בשלום-262790
@@ -499,3 +495,7 @@ https://hamal.co.il/main/10-לוחמים-נפצעו-בדרום-לבנון-בהם
 https://news.walla.co.il/break/3830559
 https://hamal.co.il/main/באיראן-מעריכים-זה-263481
 https://hamal.co.il/main/11-שורדי-שואה-ישראליים-וכ-7000-צועדים-ישתתפו-במצעד-החיים-263435
+https://news.walla.co.il/break/3830567
+https://news.walla.co.il/item/3830565
+https://hamal.co.il/main/יוצרי-התוכן-הגדולים-בישראל-מנציחים-את-עדויות-ניצולי-השואה-263471
+https://hamal.co.il/main/בגץ-ידון-בעתירה-נגד-מינוי-גופמן-לראש-המוסד-263483
