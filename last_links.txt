@@ -1,7 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/מדא-על-הירי-לצפון-דיווח-ראשוני-על-פגיעה-במבנה-בשלומי-262760
-https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-262770
-https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-דיווחים-262772
+COUNTER:28
 https://news.walla.co.il/break/3829726
 https://news.walla.co.il/item/3829727
 https://hamal.co.il/main/משפחתו-של-סמ״ר-בן-כהן-ז״ל-הודתה-ללוחמי-עוקץ--מרגש-262779
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אישה-בת-92-במצב-קשה-263458
 https://hamal.co.il/main/נדחתה-השתתפות-ראש-קש-בועדת-הכספים-פוחדים-מהביקורת-שלי-263456
 https://hamal.co.il/main/״למשטר-האיראני-כבר-לא-אכפת-משום-דבר-הם-כמו-חמאס״-263453
 https://hamal.co.il/main/אמא-שלי-שרדה-את-הצריף-של-מנגלה-האלוף-שגדל-כילד-נוצרי-263459
+https://news.walla.co.il/item/3830521
+https://news.walla.co.il/item/3830518
+https://hamal.co.il/main/הניצחון-האמיתי-263460
