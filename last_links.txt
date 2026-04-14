@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3829726
-https://news.walla.co.il/item/3829727
-https://hamal.co.il/main/משפחתו-של-סמ״ר-בן-כהן-ז״ל-הודתה-ללוחמי-עוקץ--מרגש-262779
-https://news.walla.co.il/break/3829732
-https://hamal.co.il/main/התקדמות-גורם-אמריקני-ייתכן-שסבב-השיחות-בפקיסטן-יוארך-262781
+COUNTER:30
 https://hamal.co.il/main/אזעקות-בצפת-והסביבה-262787
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-262792
 https://hamal.co.il/main/הישג-אדיר-זהב-לדולגופיאט-בגביע-העולם-ארד-לברקוביץ-262795
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אמא-שלי-שרדה-את-הצריף-של-מנגלה-
 https://news.walla.co.il/item/3830521
 https://news.walla.co.il/item/3830518
 https://hamal.co.il/main/הניצחון-האמיתי-263460
+https://news.walla.co.il/break/3830526
+https://news.walla.co.il/break/3830527
+https://news.walla.co.il/break/3830529
+https://hamal.co.il/main/אירוע-נדיר-3-זוגות-של-תאומים-נולדו-ליעלים-במדבריום-263436
+https://hamal.co.il/main/אבל-לא-פגעתי-11-מחבלים-נאשמים-ביידוי-אבנים-לעבר-כוחותינו-263462
