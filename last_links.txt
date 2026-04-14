@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3829930
-https://hamal.co.il/main/תופס-את-פניו-מפקד-תחנת-לב-הבירה-תועד-משתמש-בכוח-כנגד-מפגין-262941
-https://hamal.co.il/main/משרד-הבריאות-אזהרת-רחצה-בחוף-ניצנים-באשקלון-262944
-https://hamal.co.il/main/80-שנה-אחרי-השואה-111-אלף-ניצולים-חיים-בישראל-262947
+COUNTER:6
 https://news.walla.co.il/item/3829938
 https://hamal.co.il/main/שמו-של-החשוד-באונס-של-שי-לי-עטרי-ונעמה-שחר-מופץ-ברשת-262950
 https://hamal.co.il/main/השר-איתמר-בן-גביר-אישר-שרה-ויאיר-נתניהו-יהיו-זכאים-לנשק-262955
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830685
 https://news.walla.co.il/item/3830686
 https://news.walla.co.il/item/3830689
 https://hamal.co.il/main/מעיין-אדם-משתפת-לא-תמיד-היריון-הוא-צרחות-של-אושר-והתרגשות-263538
+https://news.walla.co.il/break/3830690
+https://news.walla.co.il/break/3830691
+https://hamal.co.il/main/200-מיליון-דולר-עסקת-הענק-שמטלטלת-את-שוק-הקריפטו-263569
+https://hamal.co.il/main/אזעקות-הופעלו-ברמת-הגולן-263665
