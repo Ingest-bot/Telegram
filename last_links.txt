@@ -1,8 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3829668
-https://news.walla.co.il/break/3829677
-https://hamal.co.il/main/תחת-מעקב-כך-נראים-חיי-שחקניות-נבחרת-איראן-אחרי-החזרה-הביתה-262670
-https://news.walla.co.il/break/3829684
+COUNTER:13
 https://hamal.co.il/main/המשלחת-האיראני-למומ-נפגשת-עם-רהמ-פקיסטן-262671
 https://hamal.co.il/main/ישראל-תוקפת-בלבנון-11-בני-אדם-נהרגו-הרס-רב-בזירות-262674
 https://news.walla.co.il/break/3829685
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3830448
 https://news.walla.co.il/item/3830416
 https://hamal.co.il/main/מעבר-לכל-דמיון-כך-הסתתרו-60-שבחים-בתוך-משאית-זבל--צפו-263417
 https://hamal.co.il/main/מבטיח-שאחזור-הפוסט-המצמרר-של-263418
+https://news.walla.co.il/break/3830452
+https://hamal.co.il/main/הנער-שהופעל-על-ידי-רומן-גופמן-הגיש-עתירה-נגד-מינויו-לראש-המו-263419
+https://hamal.co.il/main/לעולם-לא-עוד-263421
+https://hamal.co.il/main/שמונים-שנה-אחרי-שורד-השואה-חזר-לצריפים-שחשב-שנמחקו-מהעולם-263422
