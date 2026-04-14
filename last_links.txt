@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3829712
-https://hamal.co.il/main/צהל-על-הפגיעה-ללא-התרעה-בקש-השיגורים-לא-זוהו-262706
-https://hamal.co.il/main/טראמפ-טוען-מתחילים-במבצע-לפינוי-מוקשים-במיצר-הורמוז-262707
+COUNTER:22
 https://hamal.co.il/main/צהל-תקף-יותר-מ-200-מטרות-חיזבאללה-בלבנון-262710
 https://hamal.co.il/main/אזעקות-בגליל-העליון-והמערבי-262718
 https://hamal.co.il/main/איריס-חיים-על-החלטת-ביהמש-ממשיכה-את-התקווה-262738
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הסתתר-במנזר---ושרד-את-התופת-263433
 https://news.walla.co.il/item/3830486
 https://news.walla.co.il/item/3830493
 https://hamal.co.il/main/שורדים-השמיעו-עדויות-263434
+https://news.walla.co.il/item/3830497
+https://hamal.co.il/main/בזמן-הטלת-המצור-ספינה-בריטית-הותקפה-סמוך-למצרי-הורמוז-263437
+https://hamal.co.il/main/לכל-איש-יש-שם-הטקס-הממלכתי-בכנסת--ישיר-263438
