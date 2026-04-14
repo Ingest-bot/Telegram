@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3829795
-https://news.walla.co.il/item/3829765
-https://news.walla.co.il/item/3829790
-https://news.walla.co.il/item/3829794
+COUNTER:15
 https://hamal.co.il/main/דיווח-סבב-השיחות-בין-ארהב-לאיראן-הסתיים-מספר-נושאים-עדיין-262854
 https://hamal.co.il/main/בכיר-אמריקני-השיחות-ממשיכות-מעבר-לשעתן-ה-15-עידן-קוולר-1-262855
 https://hamal.co.il/main/מיד-מסיבת-עיתונאים-של-ג׳יי-די-ואנס-באיסלמבאד-262856
@@ -499,3 +495,7 @@ https://hamal.co.il/main/רוקחת-מזהירה-7-תרופות-נפוצות-ש�
 https://news.walla.co.il/break/3830611
 https://news.walla.co.il/item/3830578
 https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-263526
+https://news.walla.co.il/break/3830618
+https://news.walla.co.il/break/3830619
+https://hamal.co.il/main/משרד-הבריאות-הסרת-אזהרת-הרחצה-בחוף-מי-עמי-באשדוד-263528
+https://hamal.co.il/main/כוחותינו-חיסלו-את-חוליית-המחבלים-שפצעה-הלילה-10-לוחמים-263531
