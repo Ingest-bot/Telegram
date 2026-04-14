@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/המשלחת-האיראני-למומ-נפגשת-עם-רהמ-פקיסטן-262671
-https://hamal.co.il/main/ישראל-תוקפת-בלבנון-11-בני-אדם-נהרגו-הרס-רב-בזירות-262674
-https://news.walla.co.il/break/3829685
+COUNTER:14
 https://news.walla.co.il/item/3829688
 https://hamal.co.il/main/מחוות-רצינות-262675
 https://hamal.co.il/main/הלוחם-הירדני-החרים-את-הגמר-הישראלי-זכה-במדליית-זהב-262679
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830452
 https://hamal.co.il/main/הנער-שהופעל-על-ידי-רומן-גופמן-הגיש-עתירה-נגד-מינויו-לראש-המו-263419
 https://hamal.co.il/main/לעולם-לא-עוד-263421
 https://hamal.co.il/main/שמונים-שנה-אחרי-שורד-השואה-חזר-לצריפים-שחשב-שנמחקו-מהעולם-263422
+https://news.walla.co.il/break/3830458
+https://news.walla.co.il/item/3830459
+https://hamal.co.il/main/בשל-המתיחות-באזור-ענקית-הלואוקוסט-מאריכה-את-ביטולי-הטיסות-263423
