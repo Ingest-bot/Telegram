@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3829719
-https://news.walla.co.il/break/3829720
-https://news.walla.co.il/break/3829721
-https://news.walla.co.il/break/3829722
+COUNTER:27
 https://hamal.co.il/main/מדא-על-הירי-לצפון-דיווח-ראשוני-על-פגיעה-במבנה-בשלומי-262760
 https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-262770
 https://hamal.co.il/main/מדא-על-הירי-לכרמיאל-לא-התקבלו-דיווחים-262772
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לכל-איש-יש-שם-הטקס-הממלכתי-בכנ�
 https://news.walla.co.il/break/3830503
 https://news.walla.co.il/break/3830509
 https://hamal.co.il/main/דיווח-זה-המועד-בו-יתחדשו-השיחות-בין-ארהב-לאיראן-263439
+https://hamal.co.il/main/אישה-בת-92-במצב-קשה-263458
+https://hamal.co.il/main/נדחתה-השתתפות-ראש-קש-בועדת-הכספים-פוחדים-מהביקורת-שלי-263456
+https://hamal.co.il/main/״למשטר-האיראני-כבר-לא-אכפת-משום-דבר-הם-כמו-חמאס״-263453
+https://hamal.co.il/main/אמא-שלי-שרדה-את-הצריף-של-מנגלה-האלוף-שגדל-כילד-נוצרי-263459
