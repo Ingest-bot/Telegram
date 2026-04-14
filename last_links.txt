@@ -1,11 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3829882
-https://hamal.co.il/main/סגן-שר-הנפט-של-איראן-מתקני-זיקוק-והפצה-שניזוקו-יוכלו-לשקם-כ-262922
-https://hamal.co.il/main/בזכות-פועלם-במלחמה---תואר-דוקטור-יוענק-לחנוך-ואפרת-דאום-262928
-https://hamal.co.il/main/הליכוד-נגד-בנט-צירף-למפלגתו-את-חברת-אחים-לנשק-262929
-https://news.walla.co.il/item/3829903
-https://hamal.co.il/main/פעולה-שתשתק-את-תעשיית-הנפט-רעיון-הטלת-מצור-ימי-על-איראן-262930
-https://news.walla.co.il/item/3829915
+COUNTER:2
 https://hamal.co.il/main/חילץ-120-מבלים-מהנובה-וטוען-זו-הסיבה-שלא-נקראתי-להשיא-משואה-262934
 https://news.walla.co.il/break/3829925
 https://news.walla.co.il/item/3829927
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3830674
 https://hamal.co.il/main/שגריר-ישראל-בארהב-״היה-זה-ניצחון-לשפיות-ולשלום״-263647
 https://news.walla.co.il/break/3830675
 https://hamal.co.il/main/שגריר-ישראל-לשעבר-באיטליה-לאיטליה-יש-הרבה-יותר-מה-להפסיד-263620
+https://news.walla.co.il/break/3830677
+https://news.walla.co.il/break/3830679
+https://news.walla.co.il/break/3830680
+https://news.walla.co.il/item/3830658
+https://hamal.co.il/main/ביום-השואה-חבר-פרלמנט-פולני-הניף-את-דגל-ישראל-עם-צלב-קרס-263652
+https://hamal.co.il/main/לפני-כשעתיים-אישה-נצעה-קשה-מנפילה-באזור-ירושלים-263653
+https://hamal.co.il/main/זוג-ניצולי-השואה-הגיעו-למרכזו-של-אל״ם-ר׳-במל״י-263658
