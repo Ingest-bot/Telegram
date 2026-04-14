@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/הופעת-שיא-לדני-אבדיה-בניצחון-הכי-חשוב-של-פורטלנד-העונה-262659
-https://news.walla.co.il/break/3829663
-https://hamal.co.il/main/לקראת-השיחות-עם-המשלחת-האיראנית-סגן-הנשיא-נחת-בפקיסטן-262660
+COUNTER:8
 https://news.walla.co.il/break/3829665
 https://hamal.co.il/main/דיווח-מוגתבא-חמינאי-עדיין-מחלים-מפציעות-קשות-בפניו-וברגליו-262661
 https://news.walla.co.il/item/3829670
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830431
 https://news.walla.co.il/break/3830436
 https://news.walla.co.il/break/3830443
 https://hamal.co.il/main/דיווח-ההצעה-האמריקנית-להסכם-גרעין---והסירוב-של-איראן-263412
+https://news.walla.co.il/item/3830445
+https://hamal.co.il/main/פיצוץ-רכב-אירע-הלילה-בקריית-ים-הרקע-פלילי-263413
+https://hamal.co.il/main/המשטרה-על-הרצח-בכפר-קרע-הזירה-נפגעה-263414
