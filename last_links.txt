@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3829789
-https://news.walla.co.il/break/3829792
-https://news.walla.co.il/break/3829793
+COUNTER:13
 https://news.walla.co.il/break/3829795
 https://news.walla.co.il/item/3829765
 https://news.walla.co.il/item/3829790
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830604
 https://news.walla.co.il/item/3830601
 https://hamal.co.il/main/צהל-חיסל-מחבלי-חמאס-להסרת-איום-מיידי-על-הכוחות-263522
 https://hamal.co.il/main/רוקחת-מזהירה-7-תרופות-נפוצות-שאסור-לקחת-בסמיכות-לקפה-263430
+https://news.walla.co.il/break/3830611
+https://news.walla.co.il/item/3830578
+https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-263526
