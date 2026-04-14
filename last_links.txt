@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3829707
-https://hamal.co.il/main/דיווח-שני-לוחמים-נפצעו-באורח-בינוני-בדרום-לבנון-262686
-https://hamal.co.il/main/טראמפ-״אם-השיחות-לא-יצליחו-׳נאתחל-את-המלחמה׳-262695
+COUNTER:19
 https://hamal.co.il/main/שיגור-מלבנון-אזעקות-בנהריה-והסביבה-262698
 https://hamal.co.il/main/התקשורת-האיראנית-מדווחת-החלו-השיחות-עם-ארהב-בפקיסטן-262700
 https://hamal.co.il/main/אזעקות-בצפת-262703
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830473
 https://news.walla.co.il/item/3830417
 https://news.walla.co.il/item/3830477
 https://hamal.co.il/main/דיווח-263429
+https://news.walla.co.il/break/3830482
+https://hamal.co.il/main/המילואימניקים-בלבנון-בדרישה-אם-אין-התקפה---שחררו-אותנו-263428
+https://hamal.co.il/main/הסתתר-במנזר---ושרד-את-התופת-263433
