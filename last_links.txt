@@ -1,12 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/דיווח-לאיראן-אין-שום-תכניות-לשוב-לסבב-שיחות-נוסף-עם-ארהב-ע-262859
-https://news.walla.co.il/break/3829799
-https://hamal.co.il/main/מזג-האויר-מעונ-חלקית-עד-בהיר-וקר-מהרגיל-בצפון-ייתכן-גשם-מקו-262860
-https://news.walla.co.il/item/3829731
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-מחשש-לחדירת-כטבם-262866
-https://hamal.co.il/main/דובר-משרד-החוץ-האיראני-השיחות-נערכו-באווירה-של-חוסר-אמון-262867
-https://news.walla.co.il/break/3829804
-https://news.walla.co.il/break/3829805
+COUNTER:21
 https://news.walla.co.il/item/3829791
 https://hamal.co.il/main/לפני-ששיגר-לעבר-מדינת-ישראל-צהל-תקף-משגר-טילים-בלבנון-262872
 https://hamal.co.il/main/הלימודים-ברמת-הגולן-נפתחים-כמתוכנן-ההודעה-שיצאה-לתושבים-262874
@@ -499,3 +491,11 @@ https://hamal.co.il/main/לא-שכחו-האתגר-הרגשי-של-בני-הגי�
 https://hamal.co.il/main/כץ-הגדרנו-את-הוצאת-החומר-מאיראן-כתנאי-סף-לסיום-המערכה-263543
 https://news.walla.co.il/break/3830626
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בנהריה-והסביבה-263560
+https://news.walla.co.il/break/3830631
+https://news.walla.co.il/break/3830633
+https://news.walla.co.il/break/3830637
+https://news.walla.co.il/break/3830640
+https://news.walla.co.il/item/3830607
+https://hamal.co.il/main/דיווח-ראשוני-על-מספר-זירות-נפילה-בנהריה-לא-ידוע-על-נפגעים-263571
+https://hamal.co.il/main/לשכת-ראש-הממשלה-עדו-נורדן-נכנס-היום-לתפקידו-263572
+https://hamal.co.il/main/צהל-ייתכן-ירי-מוגבר-מלבנון-לעבר-הצפון-263573
