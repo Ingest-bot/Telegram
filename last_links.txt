@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3829876
-https://news.walla.co.il/item/3829878
+COUNTER:38
 https://hamal.co.il/main/השר-לביטחון-לאומי-איתמר-בן-גביר-עלה-הבוקר-להר-הבית-262916
 https://news.walla.co.il/break/3829880
 https://news.walla.co.il/item/3829882
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טקס-חילופי-מפקד-חיל-האוויר-263644
 https://news.walla.co.il/break/3830671
 https://hamal.co.il/main/בגין-חובות-כבדים-בקשה-למעצר-של-כוכב-הפוסקאס-אשר-בן-עוז-263485
 https://hamal.co.il/main/ציון-ברוך-השאיפה-של-העולם-תמיד-הייתה-לחסל-את-העם-היהודי-263518
+https://news.walla.co.il/break/3830674
+https://hamal.co.il/main/שגריר-ישראל-בארהב-״היה-זה-ניצחון-לשפיות-ולשלום״-263647
