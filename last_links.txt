@@ -1,7 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-262805
-https://news.walla.co.il/break/3829740
-https://hamal.co.il/main/״יש-היתקלות-מזהה-מחבלים---פגיעה-שני-מחבלים-חוסלו״-262808
+COUNTER:35
 https://news.walla.co.il/item/3829741
 https://hamal.co.il/main/דיווח-איראן-שיגרה-כטבם-לעבר-הספינות-שניסו-לחצות-את-הורמוז-262811
 https://hamal.co.il/main/צבא-ארהב-התחלנו-במבצע-לפינוי-המוקשים-ממצר-הורמוז-262815
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830544
 https://news.walla.co.il/item/3830542
 https://news.walla.co.il/item/3830545
 https://news.walla.co.il/item/3830547
+https://news.walla.co.il/break/3830555
+https://hamal.co.il/main/איטליה-הודיעה-משהים-את-ההסכם-הביטחוני-עם-ישראל-263480
+https://hamal.co.il/main/10-לוחמים-נפצעו-בדרום-לבנון-בהם-3-באורח-קשה-263482
