@@ -1,10 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3829751
-https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-בתאונה-מבצעית-במרכז-הרצועה-262829
-https://hamal.co.il/main/צהל-הפרת-סדר-בבנימין---מיידה-אבנים-לעבר-כוחותינו-חוסל-262830
-https://hamal.co.il/main/הצהרת-ראש-הממשלה-נתניהו-262833
-https://hamal.co.il/main/TUS-Airways-הודיעה-על-חידוש-טיסותיה-לישראל-262823
-https://news.walla.co.il/item/3829758
+COUNTER:6
 https://news.walla.co.il/break/3829763
 https://news.walla.co.il/break/3829762
 https://news.walla.co.il/break/3829760
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3830569
 https://hamal.co.il/main/פעוט-נמצא-מחוסר-הכרה-במודיעין-עילית-מצבו-קשה-263486
 https://hamal.co.il/main/מבחן-כוח-לטראמפ-מכלית-סינית-תחת-סנקציות-מאתגרת-את-המצור-263475
 https://hamal.co.il/main/ראש-המוסד--263487
+https://news.walla.co.il/item/3830576
+https://news.walla.co.il/item/3830551
+https://hamal.co.il/main/ביום-השואה-בת-לניצולי-שואה-נשדדה-בחדרה--החשוד-נעצר-263491
+https://hamal.co.il/main/בשעה-זו-מצעד-החיים-בין-אושוויץ-לבירקנאו-יוצא-לדרך-263492
+https://hamal.co.il/main/שר-החינוך-באושוויץ-״קמנו-מתוך-החורבן---ומכאן-ממשיכים-לצעוד״-263494
+https://hamal.co.il/main/התקרית-בלבנון-מחבלים-יצאו-ממנהרות-חילופי-אש-התפתחו-במקום-263496
