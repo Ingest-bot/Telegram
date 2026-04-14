@@ -1,10 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3829839
-https://hamal.co.il/main/דרישת-היועמ״שית-לפטר-שר-בממשלת-ישראל-עלולה-להביא-למשבר-חוקתי-262900
-https://hamal.co.il/main/הקריפטו-צולל-הנפט-מזנק-השווקים-מגיבים-לכישלון-המומ-262903
-https://hamal.co.il/main/פרסום-ראשון-דידי-הררי-בזוגיות-חדשה-262906
-https://news.walla.co.il/item/3829850
-https://hamal.co.il/main/מה-צהל-לא-מספר-על-הלחימה-בלבנון-262911
+COUNTER:34
 https://news.walla.co.il/break/3829858
 https://news.walla.co.il/break/3829860
 https://news.walla.co.il/item/3829854
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3830630
 https://hamal.co.il/main/שבוע-להפסקת-האש-שיבושי-ה-GPS-במרכז-הארץ-לא-פוסקים-263477
 https://hamal.co.il/main/לא-רק-קפה-ויין-אדום-המשקה-המפתיע-שמכתים-את-השיניים-263473
 https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-תשתיות-של-חיזבאללה-בכפר-עדשית-263631
+https://news.walla.co.il/break/3830664
+https://news.walla.co.il/break/3830662
+https://news.walla.co.il/item/3830661
+https://hamal.co.il/main/מפקד-פיקוד-הצפון-״השלמנו-את-כיתור-המרחב-ופתחנו-בהתקפה-263633
+https://hamal.co.il/main/אזעקות-בגליל-המערבי-263640
+https://hamal.co.il/main/שלושה-מחבלי-חיזבאללה-נכנעו-ללוחמינו-במהלך-קרב-בבינת-ג׳בייל-263643
