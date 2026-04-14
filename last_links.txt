@@ -1,11 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/הישראלים-חזרו-לטייל-קהל-גדול-מחזיר-את-החיים-לחופי-הכנרת-262680
-https://hamal.co.il/main/בבית-הלבן-מכחישים-לא-הסכמנו-לשחרר-נכסים-מוקפאים-של-איראן-262681
-https://news.walla.co.il/break/3829697
-https://news.walla.co.il/item/3829700
-https://news.walla.co.il/break/3829701
-https://hamal.co.il/main/שגריר-איראן-262682
-https://news.walla.co.il/break/3829704
+COUNTER:17
 https://news.walla.co.il/item/3829707
 https://hamal.co.il/main/דיווח-שני-לוחמים-נפצעו-באורח-בינוני-בדרום-לבנון-262686
 https://hamal.co.il/main/טראמפ-״אם-השיחות-לא-יצליחו-׳נאתחל-את-המלחמה׳-262695
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3830462
 https://news.walla.co.il/item/3830174
 https://hamal.co.il/main/הרצח-באום-אל-גנם-263424
 https://hamal.co.il/main/עם-ישראל-זוכר-בעוד-דקות-תישמע-צפירה-לזכר-קורבנות-השואה-263425
+https://news.walla.co.il/break/3830474
+https://news.walla.co.il/break/3830472
+https://news.walla.co.il/break/3830476
+https://news.walla.co.il/item/3830473
+https://news.walla.co.il/item/3830417
+https://news.walla.co.il/item/3830477
+https://hamal.co.il/main/דיווח-263429
