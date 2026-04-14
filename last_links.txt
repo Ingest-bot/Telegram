@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3829769
-https://hamal.co.il/main/סבב-שיחות-שלישי-החל-בפקיסטן-ההזדמנות-האחרונה-של-ארהב-262850
-https://news.walla.co.il/break/3829771
-https://hamal.co.il/main/חנה-לסלאו-משיבה-לביקורת---מעולם-לא-טענתי-דבר-נגד-צהל-262848
-https://news.walla.co.il/break/3829776
-https://news.walla.co.il/break/3829775
+COUNTER:10
 https://hamal.co.il/main/מטראמפ-אנחנו-מנצחים-לא-משנה-מה-יקרה-אנחנו-מנצחים-בוא-נרא-262851
 https://hamal.co.il/main/איראן-סבב-השיחות-הנוכחי-עשוי-להיות-האחרון-עם-ארצות-הברית-262852
 https://news.walla.co.il/break/3829786
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3830590
 https://news.walla.co.il/break/3830592
 https://hamal.co.il/main/תיעוד-ממצלמת-גוף-של-לוחם-בדרום-לבנון-263504
 https://hamal.co.il/main/״זיכרון-בסלון״-התקיים-בבסיס-נבטים-263506
+https://news.walla.co.il/break/3830595
+https://news.walla.co.il/break/3830596
+https://news.walla.co.il/break/3830599
+https://news.walla.co.il/item/3830598
+https://news.walla.co.il/item/3830592
+https://hamal.co.il/main/דיווח-איראן-שוקלת-לעצור-זמנית-את-השיט-במצר-הורמוז-263515
