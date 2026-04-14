@@ -1,6 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/האם-חדרי-הכושר-יחויבו-להחזיר-לנו-כסף-262895
-https://hamal.co.il/main/סוכנות-הידיעות-הלבנונית-LBCI-מדווחת-על-תקיפות-בכפרים-במחוז-צ-262896
+COUNTER:29
 https://news.walla.co.il/break/3829827
 https://hamal.co.il/main/וואטסאפ-מתקרבת-לאינסטגרם-הסטוריז-מגיעים-לרשימת-הצאטים-262899
 https://news.walla.co.il/item/3829839
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3830649
 https://news.walla.co.il/break/3830653
 https://news.walla.co.il/item/3830652
 https://hamal.co.il/main/הרמטכל-ומפקד-סנטקום-263627
+https://news.walla.co.il/item/3830630
+https://hamal.co.il/main/שבוע-להפסקת-האש-שיבושי-ה-GPS-במרכז-הארץ-לא-פוסקים-263477
