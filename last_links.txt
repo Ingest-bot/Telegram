@@ -1,9 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/מטראמפ-אנחנו-מנצחים-לא-משנה-מה-יקרה-אנחנו-מנצחים-בוא-נרא-262851
-https://hamal.co.il/main/איראן-סבב-השיחות-הנוכחי-עשוי-להיות-האחרון-עם-ארצות-הברית-262852
-https://news.walla.co.il/break/3829786
-https://news.walla.co.il/break/3829787
-https://hamal.co.il/main/הסתיים-סבב-השיחות-השלישי-באסלאמאבד-באיראן-אומרים---הפערים-ע-262853
+COUNTER:12
 https://news.walla.co.il/break/3829789
 https://news.walla.co.il/break/3829792
 https://news.walla.co.il/break/3829793
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3830599
 https://news.walla.co.il/item/3830598
 https://news.walla.co.il/item/3830592
 https://hamal.co.il/main/דיווח-איראן-שוקלת-לעצור-זמנית-את-השיט-במצר-הורמוז-263515
+https://news.walla.co.il/break/3830602
+https://news.walla.co.il/item/3830604
+https://news.walla.co.il/item/3830601
+https://hamal.co.il/main/צהל-חיסל-מחבלי-חמאס-להסרת-איום-מיידי-על-הכוחות-263522
+https://hamal.co.il/main/רוקחת-מזהירה-7-תרופות-נפוצות-שאסור-לקחת-בסמיכות-לקפה-263430
