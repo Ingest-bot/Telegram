@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3829925
-https://news.walla.co.il/item/3829927
-https://hamal.co.il/main/אחרי-שיצאה-עם-נשים-השחקנית-המצליחה-חושפת-זוגיות-עם-גבר-262937
-https://hamal.co.il/main/חזרת-חברות-תעופה-זרות-לפעילות-בנתב״ג-השבוע-262939
+COUNTER:4
 https://news.walla.co.il/item/3829930
 https://hamal.co.il/main/תופס-את-פניו-מפקד-תחנת-לב-הבירה-תועד-משתמש-בכוח-כנגד-מפגין-262941
 https://hamal.co.il/main/משרד-הבריאות-אזהרת-רחצה-בחוף-ניצנים-באשקלון-262944
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ביום-השואה-חבר-פרלמנט-פולני-הנ
 https://hamal.co.il/main/לפני-כשעתיים-אישה-נצעה-קשה-מנפילה-באזור-ירושלים-263653
 https://hamal.co.il/main/זוג-ניצולי-השואה-הגיעו-למרכזו-של-אל״ם-ר׳-במל״י-263658
 https://hamal.co.il/main/צהל-קצין-נפצע-קשה-בדרום-לבנון-נסיבות-האירוע-בבחינה-263659
+https://news.walla.co.il/break/3830685
+https://news.walla.co.il/item/3830686
+https://news.walla.co.il/item/3830689
+https://hamal.co.il/main/מעיין-אדם-משתפת-לא-תמיד-היריון-הוא-צרחות-של-אושר-והתרגשות-263538
