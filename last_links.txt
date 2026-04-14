@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3829827
-https://hamal.co.il/main/וואטסאפ-מתקרבת-לאינסטגרם-הסטוריז-מגיעים-לרשימת-הצאטים-262899
+COUNTER:31
 https://news.walla.co.il/item/3829839
 https://hamal.co.il/main/דרישת-היועמ״שית-לפטר-שר-בממשלת-ישראל-עלולה-להביא-למשבר-חוקתי-262900
 https://hamal.co.il/main/הקריפטו-צולל-הנפט-מזנק-השווקים-מגיבים-לכישלון-המומ-262903
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3830652
 https://hamal.co.il/main/הרמטכל-ומפקד-סנטקום-263627
 https://news.walla.co.il/item/3830630
 https://hamal.co.il/main/שבוע-להפסקת-האש-שיבושי-ה-GPS-במרכז-הארץ-לא-פוסקים-263477
+https://hamal.co.il/main/לא-רק-קפה-ויין-אדום-המשקה-המפתיע-שמכתים-את-השיניים-263473
+https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-תשתיות-של-חיזבאללה-בכפר-עדשית-263631
