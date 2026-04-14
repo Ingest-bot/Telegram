@@ -1,5 +1,4 @@
 COUNTER:5
-https://news.walla.co.il/break/3829658
 https://hamal.co.il/main/אזעקות-הופעלו-בקש-והסביבה-מחשש-לחדירת-כלי-טיס-עוין-262653
 https://news.walla.co.il/break/3829660
 https://hamal.co.il/main/הופעת-שיא-לדני-אבדיה-בניצחון-הכי-חשוב-של-פורטלנד-העונה-262659
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830431
 https://news.walla.co.il/break/3830433
 https://news.walla.co.il/break/3830434
 https://news.walla.co.il/item/3830431
+https://news.walla.co.il/break/3830436
