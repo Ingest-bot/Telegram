@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/item/3829688
-https://hamal.co.il/main/מחוות-רצינות-262675
-https://hamal.co.il/main/הלוחם-הירדני-החרים-את-הגמר-הישראלי-זכה-במדליית-זהב-262679
-https://news.walla.co.il/break/3829692
+COUNTER:16
 https://hamal.co.il/main/הישראלים-חזרו-לטייל-קהל-גדול-מחזיר-את-החיים-לחופי-הכנרת-262680
 https://hamal.co.il/main/בבית-הלבן-מכחישים-לא-הסכמנו-לשחרר-נכסים-מוקפאים-של-איראן-262681
 https://news.walla.co.il/break/3829697
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שמונים-שנה-אחרי-שורד-השואה-חזר
 https://news.walla.co.il/break/3830458
 https://news.walla.co.il/item/3830459
 https://hamal.co.il/main/בשל-המתיחות-באזור-ענקית-הלואוקוסט-מאריכה-את-ביטולי-הטיסות-263423
+https://news.walla.co.il/item/3830462
+https://news.walla.co.il/item/3830174
+https://hamal.co.il/main/הרצח-באום-אל-גנם-263424
+https://hamal.co.il/main/עם-ישראל-זוכר-בעוד-דקות-תישמע-צפירה-לזכר-קורבנות-השואה-263425
