@@ -1,9 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/item/3830217
-https://hamal.co.il/main/הגיעה-לתחתית-בריטני-ספירס-נכנסה-למכון-גמילה-263132
-https://news.walla.co.il/break/3830224
-https://news.walla.co.il/item/3830222
-https://hamal.co.il/main/דיווחים-בלבנון-תקיפה-בעיירה-סחמר-ובמטה-הצלב-האדום-263188
+COUNTER:16
 https://hamal.co.il/main/לגדול-בצל-השואה-אורי-מנציח-את-זיכרון-משפחתו-263195
 https://hamal.co.il/main/אזעקות-נרחבות-הופעלו-בצפון-263197
 https://news.walla.co.il/break/3830227
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3830988
 https://news.walla.co.il/item/3830983
 https://news.walla.co.il/item/3830987
 https://hamal.co.il/main/ילד-לבנוני-נשאל-על-מילה-שמתחילה-בא׳---והשיב-״אביחי״-263837
+https://news.walla.co.il/break/3830989
+https://news.walla.co.il/break/3830990
+https://news.walla.co.il/break/3830991
+https://hamal.co.il/main/לוחם-צה״ל-נפצע-באורח-קשה-וארבעה-נפצעו-קל-בדרום-לבנון-263842
+https://hamal.co.il/main/יועצו-של-נתניהו-עופר-גולן-סיים-את-תפקידו-263843
