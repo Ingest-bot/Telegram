@@ -1,6 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/נתניהו-לשורדי-שואה-״היום-אנחנו-צדים-את-הצוררים״-263158
-https://hamal.co.il/main/בארץ-ובעולם-מעל-2-מיליון-איש-ישתתפו-במפגשי-זיכרון-בסלון-263161
+COUNTER:10
 https://news.walla.co.il/break/3830197
 https://news.walla.co.il/item/3830201
 https://hamal.co.il/main/כוחות-אוגדה-98-השלימו-כיתור-והחלו-בהתקפה-בעיירה-בדרום-לבנון-263151
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3830969
 https://news.walla.co.il/break/3830970
 https://hamal.co.il/main/חם-חם-מתחמם---אבל-חצי-מהמדינה-בלי-חוף-ים-מוכרז-פתוח-263827
 https://hamal.co.il/main/לקראת-סיום-הלחימה-בלבנון-בישראל-מנסים-להרוויח-זמן-263828
+https://news.walla.co.il/item/3830973
+https://hamal.co.il/main/בדרך-למלחמת-אזרחים-בלבנון-השבר-הפנימי-בארץ-הארזים-מעמיק-263833
