@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3830122
-https://news.walla.co.il/item/3830123
-https://news.walla.co.il/break/3830124
-https://news.walla.co.il/break/3830126
+COUNTER:33
 https://hamal.co.il/main/שלושה-מטיילים-נעדרים-במכתש-הקטן-כוחות-חילוץ-פתחו-בסריקות-263110
 https://hamal.co.il/main/עלייה-הדרגתית-בטמפרטורות-שיא-חום-ביום-רביעי---ואובך-263113
 https://hamal.co.il/main/אזעקות-הופעלו-במטולה-מחשש-לחדירת-כלי-טיס-עוין-263118
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830926
 https://hamal.co.il/main/מבקר-המדינה-נגד-מירי-רגב-ליקויים-רבים-בטיפול-בתעופה-בעת-חי-263784
 https://hamal.co.il/main/4-הרוגים-ו-20-פצועים-במסע-ירי-חריג-בתיכון-בטורקיה-263783
 https://hamal.co.il/main/מקור-איראני-טוען-״החל-מהלילה-תוכרז-הפסקת-אש-בלבנון״-263785
+https://news.walla.co.il/break/3830928
+https://news.walla.co.il/item/3830927
+https://hamal.co.il/main/עוכב-ל-263786
+https://hamal.co.il/main/בכיר-ישראלי-טוען-״לא-התקבלה-אף-החלטה-על-הפסקת-אש״-263790
