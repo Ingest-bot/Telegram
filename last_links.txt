@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/פרשת-מין-תמורת-ייצוג-עוד-חשוד-בעבירות-מין-בעשרות-חיילות-263008
-https://hamal.co.il/main/שס-אחרי-הדיון-בבגץ-נחשפה-המטרה---לפרק-את-עולם-התורה-אבי-263009
-https://hamal.co.il/main/הקבינט-המצומצם-יתכנס-הערב-ב-1900-להערכת-מצב-בשל-ההתפתחויות-263010
-https://hamal.co.il/main/במסגרת-שיקום-קיבוץ-בארי-נהרס-ביתה-של-החטופה-שנרצחה-בשבי-יני-263011
-https://hamal.co.il/main/גבר-כבן-50-במצב-קשה-חובש-בכיר-במדא-בנימין-מגוז-סיפר-כ-263012
+COUNTER:21
 https://hamal.co.il/main/אזעקות-נשמעו-בקצרין-263015
 https://news.walla.co.il/break/3829989
 https://news.walla.co.il/break/3829991
@@ -499,3 +494,8 @@ https://hamal.co.il/main/טראמפ-״איני-שוקל-להאריך-את-הפס
 https://news.walla.co.il/break/3830728
 https://news.walla.co.il/break/3830729
 https://hamal.co.il/main/כביש-1-נחסם-לתנועה-בעקבות-שריפת-משאית-בסמוך-לנווה-אילן-263684
+https://news.walla.co.il/break/3830731
+https://news.walla.co.il/item/3830729
+https://news.walla.co.il/item/3830730
+https://hamal.co.il/main/משחק-היסטורי-דני-אבדיה-עלה-עם-פורטלנד-לפלייאוף-ה-NBA-263686
+https://hamal.co.il/main/שיבושי-התנועה-בכביש-1-2-נתיבים-נפתחו-עומס-כבד-במקום-263687
