@@ -1,6 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/זו-אחר-זו-אזעקות-הופעלו-בקריית-שמונה-וסביבתה-263175
-https://hamal.co.il/main/מגלחים-את-הבשמים-18-נעצרו-בחשד-לשודים-אלימים-בסופר-פארם-263167
+COUNTER:13
 https://news.walla.co.il/break/3830203
 https://news.walla.co.il/break/3830209
 https://news.walla.co.il/item/3830207
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בדרך-למלחמת-אזרחים-בלבנון-השב�
 https://news.walla.co.il/break/3830978
 https://hamal.co.il/main/דובר-צה״ל-ערוכים-לתקוף-באופן-מיידי-ובעוצמה-אם-נידרש-לכך-263834
 https://hamal.co.il/main/דוברת-הבית-הלבן-״זו-הזדמנות-אחרונה-עבור-איראן-להגיע-להסכם״-263835
+https://news.walla.co.il/break/3830981
+https://hamal.co.il/main/הפסקת-אש-נתניהו-״אנחנו-עומדים-להכריע-את-בינת-ג׳בייל״-263840
