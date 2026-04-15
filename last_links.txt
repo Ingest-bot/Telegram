@@ -1,10 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3830005
-https://hamal.co.il/main/איראן-כל-צעד-מוטעה-במצר-הורמוז---ילכוד-את-האויב-במערבולות-263019
-https://hamal.co.il/main/עצמאות-בסימן-שאלה-רשימת-הערים-שמבטלות-את-ההופעות-הולכת-ומתא-263020
-https://news.walla.co.il/break/3830017
-https://news.walla.co.il/break/3830018
-https://news.walla.co.il/break/3830016
+COUNTER:32
 https://hamal.co.il/main/התפתחות-נוספת-בחקירת-רצח-אביתר-אזרזר-משנת-2019-המנוהלת-ביחיד-263021
 https://news.walla.co.il/break/3830019
 https://news.walla.co.il/break/3830021
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3830755
 https://news.walla.co.il/break/3830759
 https://hamal.co.il/main/איילה-בן-גביר-263718
 https://hamal.co.il/main/הירי-לצפון-בן-61-נפצע-באורח-קל-מנפילות-רסיסים-בטמרה-263719
+https://news.walla.co.il/break/3830771
+https://news.walla.co.il/break/3830770
+https://news.walla.co.il/item/3830769
+https://hamal.co.il/main/קרעי-יועמשית-הכנסת-מעלה-בתפקידה-לפטר-אותה-עכשיו-263720
+https://hamal.co.il/main/דובר-המשטרה-263721
+https://hamal.co.il/main/כביש-1-נפתח-לתנועה-עומסי-תנועה-במקום-263723
