@@ -1,5 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3830233
+COUNTER:22
 https://hamal.co.il/main/חזרו-עם-החום-כרישים-נצפו-ליד-חופי-חדרה-263234
 https://hamal.co.il/main/אברי-גלעד-נגד-ינון-מגל-מפיץ-רוע-במסווה-של-שמחה-צוהלת-263236
 https://news.walla.co.il/break/3830241
@@ -499,3 +498,4 @@ https://hamal.co.il/main/שוב-אירוע-אנטישמי-בלונדון-אלמ�
 https://hamal.co.il/main/החרימו-כספי-טרור-וביצעו-תחקורים-הושלם-מבצע-בחטיבת-מנשה-263850
 https://news.walla.co.il/break/3831001
 https://hamal.co.il/main/בני-ברק-בן-שנה-נכווה-ממים-רותחים---מצבו-בינוני-263851
+https://hamal.co.il/main/הסנאט-בלם-הצעה-שהייתה-מחייבת-את-טראמפ-אישור-קונגרס-לפני-תקיפ-263852
