@@ -1,8 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/בן-50-263098
-https://news.walla.co.il/break/3830095
-https://news.walla.co.il/break/3830094
-https://news.walla.co.il/break/3830102
+COUNTER:26
 https://news.walla.co.il/break/3830112
 https://news.walla.co.il/break/3830115
 https://news.walla.co.il/item/3830096
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830899
 https://news.walla.co.il/break/3830900
 https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בדרום-בהם-הולך-רגל-במצב-קשה-263772
 https://hamal.co.il/main/איראן-ייתכן-שהמשלחת-הפקיסטנית-תבקר-במדינה-263774
+https://news.walla.co.il/item/3830907
+https://hamal.co.il/main/טראמפ-מצרי-הורמוז-ייפתחו-לצמיתות-סין-לא-תשלח-נשק-לאיראן-263776
+https://hamal.co.il/main/בארהב-מכחישים-לא-הסכמנו-על-הארכת-הפסקת-האש-המומ-נמשך-263777
+https://hamal.co.il/main/הקטל-בכבישים-בת-60-נהרגה-בתאונת-דרכים-263778
