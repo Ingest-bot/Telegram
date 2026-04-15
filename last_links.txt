@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3830118
-https://hamal.co.il/main/בין-לאומיות-לרב-תרבותיות-263107
-https://news.walla.co.il/break/3830119
-https://hamal.co.il/main/טראמפ-על-המצור-הימי-מדינות-נוספות-263108
-https://hamal.co.il/main/צהל-תרגיל-צבאי-יתקיים-במרחב-כרמיאל-263109
+COUNTER:31
 https://news.walla.co.il/break/3830122
 https://news.walla.co.il/item/3830123
 https://news.walla.co.il/break/3830124
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3830917
 https://news.walla.co.il/item/3830783
 https://hamal.co.il/main/שיא-של-30-שנה-הדולר-צונח-מתחת-ל-3-שקל-263781
 https://hamal.co.il/main/״אתה-רשאי-תיעוד-שיתוף-הפעולה-בין-חיל-האוויר-ללוחמים-בלבנו-263779
+https://news.walla.co.il/break/3830923
+https://news.walla.co.il/break/3830926
+https://hamal.co.il/main/מבקר-המדינה-נגד-מירי-רגב-ליקויים-רבים-בטיפול-בתעופה-בעת-חי-263784
+https://hamal.co.il/main/4-הרוגים-ו-20-פצועים-במסע-ירי-חריג-בתיכון-בטורקיה-263783
+https://hamal.co.il/main/מקור-איראני-טוען-״החל-מהלילה-תוכרז-הפסקת-אש-בלבנון״-263785
