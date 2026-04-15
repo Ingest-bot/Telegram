@@ -1,5 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-העליון-263028
+COUNTER:36
 https://hamal.co.il/main/האיצה-בלי-לבלום-כתב-אישום-נגד-נהגת-שפגעה-באדם-בבית-קפה-בכ-263030
 https://news.walla.co.il/break/3830027
 https://news.walla.co.il/break/3830026
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830779
 https://hamal.co.il/main/בן-גביר-בפתח-הדיון-על-הדחתו-אל-תגררו-את-ישראל-למשבר-חוקתי-263726
 https://hamal.co.il/main/פעיל-המחאה-הצטרף-למפלגה-של-בנט-ישולב-בקדמת-הרשימה-263727
 https://hamal.co.il/main/תושבת-נצרת-מואשמת-בריגול-למען-איראן-263728
+https://hamal.co.il/main/סער-אם-263729
