@@ -1,10 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/מקור-לבנוני-כישלון-המו״מ-בין-ארה״ב-לאיראן-לא-ישפיע-על-לבנון-263122
-https://news.walla.co.il/item/3830116
-https://news.walla.co.il/item/3830141
-https://hamal.co.il/main/ערוד-בסכנ-263125
-https://news.walla.co.il/break/3830147
-https://news.walla.co.il/break/3830151
+COUNTER:1
 https://hamal.co.il/main/נמשכים-החיפושים-אחר-הנער-שנעדר-בחוף-צאנז-בנתניה-263130
 https://hamal.co.il/main/ברקע-המשבר-מכירות-הנפט-הסעודיות-לסין-ירדו-בחצי-263135
 https://hamal.co.il/main/צפו-לוחמי-יהל״ם-וחטיבה-7-השמידו-תוואי-תת-קרקעי-בדרום-לבנון-263141
@@ -499,3 +493,9 @@ https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילי
 https://hamal.co.il/main/מכת-דבורים-בנתיבות-עסקים-סגרו-את-263800
 https://news.walla.co.il/break/3830944
 https://news.walla.co.il/item/3830942
+https://news.walla.co.il/break/3830947
+https://news.walla.co.il/item/3830950
+https://hamal.co.il/main/לוחמי-מגב-הדליקו-מנגל-בבסיס---ונשלחו-לכלא-263803
+https://hamal.co.il/main/הרמטכ״ל-בלבנון-״אישרנו-תוכניות-להמשך--גם-בלבנון-וגם-באיראן״-263804
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-ובגליל-המערבי-263810
+https://hamal.co.il/main/צה״ל-איתר-רחפן-עם-6-נשקים-בגבול-מצרים-263811
