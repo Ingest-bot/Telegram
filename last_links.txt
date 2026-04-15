@@ -1,5 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3830241
+COUNTER:24
 https://news.walla.co.il/break/3830245
 https://news.walla.co.il/item/3830244
 https://hamal.co.il/main/אזעקות-לא-פוסקות-בצפון-263243
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בני-ברק-בן-שנה-נכווה-ממים-רותח�
 https://hamal.co.il/main/הסנאט-בלם-הצעה-שהייתה-מחייבת-את-טראמפ-אישור-קונגרס-לפני-תקיפ-263852
 https://news.walla.co.il/break/3831007
 https://hamal.co.il/main/מדא-263853
+https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-263860
