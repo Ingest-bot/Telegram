@@ -1,13 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/תיעוד-מרתיח-מפגינים-חרדים-רודפים-אחרי-חייל-שיצא-מלשכת-הגיוס-262971
-https://news.walla.co.il/item/3829960
-https://hamal.co.il/main/עתירה-לבגץ-להורות-על-חקירת-משטרה-נגד-ערוץ-14-וכוכביו-262975
-https://news.walla.co.il/break/3829968
-https://hamal.co.il/main/מפגינים-קיצוניים-מנעו-ממלשב-להגיע-ללשכת-הגיוס--התיעוד-262982
-https://hamal.co.il/main/עצמאות-בסימן-שאלה-רשימת-הערים-שמבטלות-את-ההופעות-מתארכת-262994
-https://hamal.co.il/main/כוחות-הגדוד-חיסלו-את-המחבלים-שהרגו-את-סמר-טובאל-יוסף-ליפשיץ-262985
-https://news.walla.co.il/break/3829969
-https://news.walla.co.il/break/3829971
+COUNTER:15
 https://hamal.co.il/main/המצור-על-בינת-גבל---צהל-חסם-את-צירי-הגישה-והמילוט-262999
 https://hamal.co.il/main/משרד-הבריאות-הלבנוני-24-הרוגים-בתקיפות-צהל-מאז-הבוקר-ליה-ו-263000
 https://hamal.co.il/main/אזעקות-נשמעו-בשלומי-263006
@@ -499,3 +490,12 @@ https://hamal.co.il/main/שאגות-נגד-סגן-נשיא-ארהב-הממשל-�
 https://news.walla.co.il/item/3830713
 https://hamal.co.il/main/סוף-עצוב-אחד-משני-האחים-שטבעו-ביום-שישי-האחרון-בחוף-צאנז-בנ-263671
 https://hamal.co.il/main/טראמפ-לפוקס-ביזנס-״המלחמה-באיראן-הסתיימה-263673
+https://news.walla.co.il/break/3830715
+https://news.walla.co.il/break/3830717
+https://news.walla.co.il/break/3830718
+https://news.walla.co.il/break/3830705
+https://news.walla.co.il/break/3830723
+https://news.walla.co.il/item/3830711
+https://hamal.co.il/main/בן-20-נפצע-קשה-בכפר-מנדא-263674
+https://hamal.co.il/main/נשיאת-ונצואלה-קוראת-לארצות-הברית-להוריד-את-הסנקציות-על-המדינ-263675
+https://hamal.co.il/main/המצור-על-נמלי-איראן-יושם-במלואו-263676
