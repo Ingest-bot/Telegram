@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-263046
-https://news.walla.co.il/break/3830039
-https://news.walla.co.il/break/3830038
+COUNTER:2
 https://news.walla.co.il/break/3830037
 https://news.walla.co.il/break/3830042
 https://hamal.co.il/main/ראש-הממשלה-נתניהו-ביקר-בדרום-לבנון-״המלחמה-נמשכת-כולל-בתוך-263057
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3830811
 https://hamal.co.il/main/השרה-263736
 https://hamal.co.il/main/טלי-גטליה-רגע-אחרי-שהוצאה-מהדיון-263737
 https://hamal.co.il/main/דיווח-איראן-השתמשה-בלוויין-סיני-כדי-לפגוע-בבסיסים-אמריקניים-263690
+https://news.walla.co.il/item/3830822
+https://hamal.co.il/main/ראשוני-נסיון-פיגוע-דקירה-סמוך-ליקיר-בשומרון-מחבל-נוטרל-263738
+https://hamal.co.il/main/150-שתילים-גודלו-מעבדת-קנאביס-נחשפה-ברג-2-חשודים-נעצרו-263739
