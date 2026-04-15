@@ -1,6 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/item/3829986
-https://news.walla.co.il/item/3829988
+COUNTER:23
 https://hamal.co.il/main/לאחר-הגעת-המשלחת-הראשונה-בימי-הלחימה-משלחת-של-לוחמי-אש-מארה-263016
 https://hamal.co.il/main/כוכב-המירוץ-למיליון-רומז-על-העתיד-משפחה-זה-החלום-שלי-וו-263004
 https://news.walla.co.il/item/3829996
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3830732
 https://news.walla.co.il/break/3830734
 https://news.walla.co.il/break/3830733
 https://hamal.co.il/main/המטח-לצפון-חיזבאללה-שיגר-יותר-מעשרים-רקטות-263696
+https://news.walla.co.il/break/3830738
+https://hamal.co.il/main/הירי-בתל-אביב-חשד-שמדובר-בפיגוע---וירה-על-המונית-263697
