@@ -1,11 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/אזעקות-נשמעו-עקב-חדירת-כלי-טיס-עוין-בגליל-העליון-263086
-https://hamal.co.il/main/ניצחון-עם-שתי-כוכביות-המוקש-שיצר-נתניהו---והקו-האדום-שיקבע-263087
-https://news.walla.co.il/break/3830071
-https://hamal.co.il/main/יריית-הפתיחה-במלחמה-מול-וואטסאפ-מאסק-משיק-את-XChat-ינון-בן-263088
-https://news.walla.co.il/break/3830072
-https://news.walla.co.il/break/3830073
-https://hamal.co.il/main/איתמר-בן-גביר-״את-האלוף-רומן-גופמן-אני-מכיר-היטב-בתפקידו-263089
+COUNTER:18
 https://news.walla.co.il/break/3830075
 https://hamal.co.il/main/מנהיג-האופוזיציה-בהונגריה-ראש-הממשלה-אורבן-בירך-אותי-על-ניצ-263090
 https://news.walla.co.il/break/3830079
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3830870
 https://hamal.co.il/main/השריפה-בפרדס-חנה-נעצר-חשוד-בהצתת-מסעדה-263759
 https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-263760
 https://hamal.co.il/main/בזמן-המומ-עם-לבנון-263762
+https://news.walla.co.il/break/3830884
+https://news.walla.co.il/break/3830876
+https://news.walla.co.il/break/3830886
+https://news.walla.co.il/item/3830868
+https://hamal.co.il/main/מפתחת-מנועים-לטילי-החץ-מנכל-חדש-מונה-263763
+https://hamal.co.il/main/השוטרים-עצרו-רכב-263764
+https://hamal.co.il/main/דיווח-263765
