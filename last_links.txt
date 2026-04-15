@@ -1,11 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/לאחר-הגעת-המשלחת-הראשונה-בימי-הלחימה-משלחת-של-לוחמי-אש-מארה-263016
-https://hamal.co.il/main/כוכב-המירוץ-למיליון-רומז-על-העתיד-משפחה-זה-החלום-שלי-וו-263004
-https://news.walla.co.il/item/3829996
-https://news.walla.co.il/item/3829998
-https://hamal.co.il/main/החשד-נגד-שרה-נתניהו-להטרדת-עדה-התיק-צפוי-להסגר-אפרת-פורשר-263017
-https://news.walla.co.il/break/3830001
-https://news.walla.co.il/break/3830002
+COUNTER:27
 https://news.walla.co.il/item/3830000
 https://hamal.co.il/main/מצור-ימי-על-איראן-טראמפ-מעלה-הילוך-בלי-הסכם---ומה-ההשלכות-ע-263018
 https://news.walla.co.il/break/3830003
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3830733
 https://hamal.co.il/main/המטח-לצפון-חיזבאללה-שיגר-יותר-מעשרים-רקטות-263696
 https://news.walla.co.il/break/3830738
 https://hamal.co.il/main/הירי-בתל-אביב-חשד-שמדובר-בפיגוע---וירה-על-המונית-263697
+https://news.walla.co.il/break/3830743
+https://news.walla.co.il/item/3830748
+https://news.walla.co.il/item/3830749
+https://hamal.co.il/main/דיווח-איראן-מתנה-את-המשך-המומ-בעצירת-התקיפות-בלבנון-263708
+https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263713
+https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263714
+https://hamal.co.il/main/הירי-מלבנון-דיווח-על-זירת-נפילה-בצפון-263717
