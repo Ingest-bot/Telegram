@@ -1,6 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/break/3830140
-https://news.walla.co.il/item/3830136
 https://hamal.co.il/main/מקור-לבנוני-כישלון-המו״מ-בין-ארה״ב-לאיראן-לא-ישפיע-על-לבנון-263122
 https://news.walla.co.il/item/3830116
 https://news.walla.co.il/item/3830141
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ינון-מגל-263799
 https://news.walla.co.il/item/3830938
 https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263751
 https://hamal.co.il/main/מכת-דבורים-בנתיבות-עסקים-סגרו-את-263800
+https://news.walla.co.il/break/3830944
+https://news.walla.co.il/item/3830942
