@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3830096
-https://hamal.co.il/main/דיווח-טראמפ-שוקל-לחדש-את-התקיפות-באיראן-באופן-מוגבל-263103
-https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
-https://hamal.co.il/main/הרמטכל-263106
+COUNTER:28
 https://news.walla.co.il/break/3830118
 https://hamal.co.il/main/בין-לאומיות-לרב-תרבותיות-263107
 https://news.walla.co.il/break/3830119
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בארהב-מכחישים-לא-הסכמנו-על-האר
 https://hamal.co.il/main/הקטל-בכבישים-בת-60-נהרגה-בתאונת-דרכים-263778
 https://news.walla.co.il/break/3830912
 https://news.walla.co.il/item/3830911
+https://news.walla.co.il/break/3830917
+https://news.walla.co.il/item/3830783
+https://hamal.co.il/main/שיא-של-30-שנה-הדולר-צונח-מתחת-ל-3-שקל-263781
+https://hamal.co.il/main/״אתה-רשאי-תיעוד-שיתוף-הפעולה-בין-חיל-האוויר-ללוחמים-בלבנו-263779
