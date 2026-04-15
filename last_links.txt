@@ -1,8 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/אזעקות-נשמעו-בקצרין-263015
-https://news.walla.co.il/break/3829989
-https://news.walla.co.il/break/3829991
-https://news.walla.co.il/item/3829987
+COUNTER:22
 https://news.walla.co.il/item/3829986
 https://news.walla.co.il/item/3829988
 https://hamal.co.il/main/לאחר-הגעת-המשלחת-הראשונה-בימי-הלחימה-משלחת-של-לוחמי-אש-מארה-263016
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3830729
 https://news.walla.co.il/item/3830730
 https://hamal.co.il/main/משחק-היסטורי-דני-אבדיה-עלה-עם-פורטלנד-לפלייאוף-ה-NBA-263686
 https://hamal.co.il/main/שיבושי-התנועה-בכביש-1-2-נתיבים-נפתחו-עומס-כבד-במקום-263687
+https://news.walla.co.il/break/3830732
+https://news.walla.co.il/break/3830734
+https://news.walla.co.il/break/3830733
+https://hamal.co.il/main/המטח-לצפון-חיזבאללה-שיגר-יותר-מעשרים-רקטות-263696
