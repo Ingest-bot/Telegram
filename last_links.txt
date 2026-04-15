@@ -1,9 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3830055
-https://news.walla.co.il/item/3830051
-https://hamal.co.il/main/בזמן-הפסקת-האש-איראן-משתמשת-ברכיבים-ישנים---ומייצרת-טילים-263075
-https://hamal.co.il/main/השר-יצחק-וסרלאוף-״גופמן-אדם-ראוי-שהשקיע-את-חייו-בביטחון-מד-263076
-https://hamal.co.il/main/חייל-חשוד-בהרג-פלסטיני-בשכם-במהלך-עימותים-בין-פלסטינים-לרוע-263077
+COUNTER:10
 https://news.walla.co.il/break/3830060
 https://news.walla.co.il/break/3830061
 https://news.walla.co.il/break/3830062
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3830848
 https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263752
 https://hamal.co.il/main/אדם-263753
 https://hamal.co.il/main/דיווח-ארהב-תשלח-263754
+https://news.walla.co.il/break/3830860
+https://news.walla.co.il/item/3830787
+https://news.walla.co.il/item/3830851
+https://hamal.co.il/main/השירות-המטאורולוגי-מזהיר-263755
+https://hamal.co.il/main/צהל-תשתית-טרור-סוכלה-ביוש-2-מחבלים-נעצרו--צפו-263756
