@@ -1,5 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3830075
+COUNTER:19
 https://hamal.co.il/main/מנהיג-האופוזיציה-בהונגריה-ראש-הממשלה-אורבן-בירך-אותי-על-ניצ-263090
 https://news.walla.co.il/break/3830079
 https://hamal.co.il/main/ואנס-נחת-בוושינגטון-דיווח-שוחח-עם-שגריר-ישראל-בארהב-263091
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3830868
 https://hamal.co.il/main/מפתחת-מנועים-לטילי-החץ-מנכל-חדש-מונה-263763
 https://hamal.co.il/main/השוטרים-עצרו-רכב-263764
 https://hamal.co.il/main/דיווח-263765
+https://hamal.co.il/main/מעומק-השבי-למאהל-הגבורה-איתן-מור-ומשפחת-זמורה-במפגשים-פתוחי-263766
