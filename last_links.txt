@@ -1,6 +1,4 @@
 COUNTER:24
-https://news.walla.co.il/break/3830245
-https://news.walla.co.il/item/3830244
 https://hamal.co.il/main/אזעקות-לא-פוסקות-בצפון-263243
 https://hamal.co.il/main/נתניהו-הפסקת-האש-יכולה-להתהפך-בזמן-קצר-מאוד-263245
 https://news.walla.co.il/break/3830255
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הסנאט-בלם-הצעה-שהייתה-מחייבת-א
 https://news.walla.co.il/break/3831007
 https://hamal.co.il/main/מדא-263853
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-263860
+https://news.walla.co.il/break/3831011
+https://news.walla.co.il/break/3831012
