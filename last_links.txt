@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3830197
-https://news.walla.co.il/item/3830201
-https://hamal.co.il/main/כוחות-אוגדה-98-השלימו-כיתור-והחלו-בהתקפה-בעיירה-בדרום-לבנון-263151
+COUNTER:12
 https://hamal.co.il/main/זו-אחר-זו-אזעקות-הופעלו-בקריית-שמונה-וסביבתה-263175
 https://hamal.co.il/main/מגלחים-את-הבשמים-18-נעצרו-בחשד-לשודים-אלימים-בסופר-פארם-263167
 https://news.walla.co.il/break/3830203
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חם-חם-מתחמם---אבל-חצי-מהמדינה-ב�
 https://hamal.co.il/main/לקראת-סיום-הלחימה-בלבנון-בישראל-מנסים-להרוויח-זמן-263828
 https://news.walla.co.il/item/3830973
 https://hamal.co.il/main/בדרך-למלחמת-אזרחים-בלבנון-השבר-הפנימי-בארץ-הארזים-מעמיק-263833
+https://news.walla.co.il/break/3830978
+https://hamal.co.il/main/דובר-צה״ל-ערוכים-לתקוף-באופן-מיידי-ובעוצמה-אם-נידרש-לכך-263834
+https://hamal.co.il/main/דוברת-הבית-הלבן-״זו-הזדמנות-אחרונה-עבור-איראן-להגיע-להסכם״-263835
