@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/שלושה-מטיילים-נעדרים-במכתש-הקטן-כוחות-חילוץ-פתחו-בסריקות-263110
-https://hamal.co.il/main/עלייה-הדרגתית-בטמפרטורות-שיא-חום-ביום-רביעי---ואובך-263113
-https://hamal.co.il/main/אזעקות-הופעלו-במטולה-מחשש-לחדירת-כלי-טיס-עוין-263118
-https://news.walla.co.il/item/3830132
+COUNTER:35
 https://hamal.co.il/main/זינוק-חד-מחיר-הנפט-מעל-100-דולר-בעקבות-הכרזת-המצור-על-איראן-263120
 https://hamal.co.il/main/״הבורר״-של-העולם-התחתון-12-מחברי-ארגון-הפשע-חרירי-נעצרו-263121
 https://news.walla.co.il/break/3830137
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3830928
 https://news.walla.co.il/item/3830927
 https://hamal.co.il/main/עוכב-ל-263786
 https://hamal.co.il/main/בכיר-ישראלי-טוען-״לא-התקבלה-אף-החלטה-על-הפסקת-אש״-263790
+https://news.walla.co.il/item/3830932
+https://news.walla.co.il/item/3830933
+https://hamal.co.il/main/לקראת-סבב-שני-של-שיחות-משלחת-פקיסטנית-בדרכה-לאיראן-263791
+https://hamal.co.il/main/ינון-מגל-263799
