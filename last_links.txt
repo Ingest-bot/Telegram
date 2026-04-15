@@ -1,8 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3830060
-https://news.walla.co.il/break/3830061
-https://news.walla.co.il/break/3830062
-https://news.walla.co.il/break/3830063
+COUNTER:12
 https://hamal.co.il/main/אורבן-יאבד-את-השלטון-הקלפיות-בהונגריה-נסגרו-שיעור-ההצבעה---263078
 https://hamal.co.il/main/הותר-לפרסום-האחים-מאיר-ויוסף-נחום-מואשמים-בריגול-לאיראן-אפר-263079
 https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדירת-כטבם-263083
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3830787
 https://news.walla.co.il/item/3830851
 https://hamal.co.il/main/השירות-המטאורולוגי-מזהיר-263755
 https://hamal.co.il/main/צהל-תשתית-טרור-סוכלה-ביוש-2-מחבלים-נעצרו--צפו-263756
+https://news.walla.co.il/break/3830863
+https://news.walla.co.il/break/3830867
+https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-263757
+https://hamal.co.il/main/מיכליות-בירה-גרמו-לפיצוצים-מסעדה-בפרדס-חנה-נשרפה-263758
