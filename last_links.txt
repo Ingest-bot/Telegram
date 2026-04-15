@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3830180
-https://news.walla.co.il/break/3830181
+COUNTER:7
 https://hamal.co.il/main/גורם-ביטחוני-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-263149
 https://news.walla.co.il/break/3830189
 https://news.walla.co.il/item/3829655
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הערכה-בישראל-ארה״ב-ואיראן-יאר�
 https://news.walla.co.il/break/3830963
 https://news.walla.co.il/break/3830962
 https://hamal.co.il/main/״סימן-לשפע״-דבוראי-מסביר-את-מכת-הדבורים-בנתיבות-263822
+https://news.walla.co.il/break/3830966
+https://hamal.co.il/main/מבוסס-על-המצאה-ישראלית-הטיל-שמשגר-חיזבאללה-לעבר-כוחות-צהל-263825
