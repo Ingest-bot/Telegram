@@ -1,9 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3830025
-https://hamal.co.il/main/אזעקות-נשמעו-בנהריה-והסביבה-263038
-https://news.walla.co.il/break/3830028
-https://hamal.co.il/main/ניצל-דלת-פתוחה-ותקף-קשישה-בת-94-נשדדה-באלימות-בתא-הודיה-רן-263039
-https://hamal.co.il/main/חוסל-מחבל-שלקח-חלק-בחטיפת-הירש-גולדברג-פולין-זל-אלון-אהל-263040
+COUNTER:0
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-מחשש-לחדירת-כטבם-263046
 https://news.walla.co.il/break/3830039
 https://news.walla.co.il/break/3830038
@@ -499,3 +494,8 @@ https://hamal.co.il/main/סער-אם-263729
 https://news.walla.co.il/item/3830807
 https://news.walla.co.il/item/3830801
 https://hamal.co.il/main/הדיון-על-הדחת-בן-גביר-השופטים-טוענים-לפוליטיזציה-של-המשטרה-263733
+https://news.walla.co.il/break/3830809
+https://news.walla.co.il/break/3830811
+https://hamal.co.il/main/השרה-263736
+https://hamal.co.il/main/טלי-גטליה-רגע-אחרי-שהוצאה-מהדיון-263737
+https://hamal.co.il/main/דיווח-איראן-השתמשה-בלוויין-סיני-כדי-לפגוע-בבסיסים-אמריקניים-263690
