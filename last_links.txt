@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/מנהיג-האופוזיציה-בהונגריה-ראש-הממשלה-אורבן-בירך-אותי-על-ניצ-263090
-https://news.walla.co.il/break/3830079
-https://hamal.co.il/main/ואנס-נחת-בוושינגטון-דיווח-שוחח-עם-שגריר-ישראל-בארהב-263091
-https://news.walla.co.il/break/3830085
+COUNTER:21
 https://hamal.co.il/main/צבא-ארהב-מיישמים-את-ההחלטה-להטיל-מצור-על-מצרי-הורמוז-263094
 https://hamal.co.il/main/דיווח-ארהב-לא-סגרה-263095
 https://hamal.co.il/main/2-לוחמים-נפצעו-באורח-בינוני-מירי-263096
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מפתחת-מנועים-לטילי-החץ-מנכל-חד
 https://hamal.co.il/main/השוטרים-עצרו-רכב-263764
 https://hamal.co.il/main/דיווח-263765
 https://hamal.co.il/main/מעומק-השבי-למאהל-הגבורה-איתן-מור-ומשפחת-זמורה-במפגשים-פתוחי-263766
+https://news.walla.co.il/item/3830897
+https://news.walla.co.il/item/3830889
+https://hamal.co.il/main/הותר-לפרסום-זה-המוהל-החשוד-בגרימת-מוות-ברשלנות-של-תינוק-263750
+https://hamal.co.il/main/באיראן-משיבים-לטראמפ-לא-נוותר-על-העשרת-האורניום-263771
