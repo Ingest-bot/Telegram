@@ -1,11 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3830037
-https://news.walla.co.il/break/3830042
-https://hamal.co.il/main/ראש-הממשלה-נתניהו-ביקר-בדרום-לבנון-״המלחמה-נמשכת-כולל-בתוך-263057
-https://hamal.co.il/main/אזעקות-בגליל-העליון-מחשש-לחדירת-כטבם-263063
-https://news.walla.co.il/break/3830043
-https://news.walla.co.il/break/3830044
-https://hamal.co.il/main/לעיני-עשרות-נערים-כוכב-הרשת-המוכר-נעצר-בחשד-לתקיפת-קטין-שלו-263058
+COUNTER:4
 https://hamal.co.il/main/הולכת-רכב-כבת-50-נפצעה-באורח-בינוני-מפגיעת-רכב-בנהריה-יואב-א-263064
 https://news.walla.co.il/item/3830044
 https://hamal.co.il/main/אזעקות-נשמעו-במטולה-263067
@@ -499,3 +492,10 @@ https://hamal.co.il/main/דיווח-איראן-השתמשה-בלוויין-סי�
 https://news.walla.co.il/item/3830822
 https://hamal.co.il/main/ראשוני-נסיון-פיגוע-דקירה-סמוך-ליקיר-בשומרון-מחבל-נוטרל-263738
 https://hamal.co.il/main/150-שתילים-גודלו-מעבדת-קנאביס-נחשפה-ברג-2-חשודים-נעצרו-263739
+https://news.walla.co.il/break/3830831
+https://news.walla.co.il/break/3830834
+https://news.walla.co.il/item/3830835
+https://news.walla.co.il/item/3830836
+https://news.walla.co.il/item/3830812
+https://hamal.co.il/main/מונה-מחליף-למגד-שנפצע-בצהל-לא-פוסלים-שנפגע-מירי-דוצ-263740
+https://hamal.co.il/main/תיעוד-דרמטי-נהג-משאית-מאבד-שליטה-מתנגש-במעקה-263741
