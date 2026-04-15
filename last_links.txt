@@ -1,5 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/לגדול-בצל-השואה-אורי-מנציח-את-זיכרון-משפחתו-263195
+COUNTER:17
 https://hamal.co.il/main/אזעקות-נרחבות-הופעלו-בצפון-263197
 https://news.walla.co.il/break/3830227
 https://hamal.co.il/main/הטווח-מתרחב-אזעקות-הופעלו-גם-בעכו-וסביבתה-עקב-כטב״ם-263215
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830990
 https://news.walla.co.il/break/3830991
 https://hamal.co.il/main/לוחם-צה״ל-נפצע-באורח-קשה-וארבעה-נפצעו-קל-בדרום-לבנון-263842
 https://hamal.co.il/main/יועצו-של-נתניהו-עופר-גולן-סיים-את-תפקידו-263843
+https://hamal.co.il/main/שי-לי-עופרי-ושניר-בורגיל-נפגשו-בביהמש---ושניהם-יצאו-מרוצים-263845
