@@ -1,5 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3830235
+COUNTER:20
 https://news.walla.co.il/break/3830236
 https://news.walla.co.il/break/3830239
 https://news.walla.co.il/item/3830233
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830995
 https://news.walla.co.il/item/3830993
 https://hamal.co.il/main/חשד-לרצח-בכפר-קאסם-חשודים-הציתו-רכב-עם-263846
 https://hamal.co.il/main/שוב-אירוע-אנטישמי-בלונדון-אלמונים-ניסו-להצית-בית-כנסת-263847
+https://hamal.co.il/main/החרימו-כספי-טרור-וביצעו-תחקורים-הושלם-מבצע-בחטיבת-מנשה-263850
