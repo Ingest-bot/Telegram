@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3830168
-https://news.walla.co.il/item/3830153
-https://hamal.co.il/main/המומחה-לאיראן-מזהיר-הסיכוי-להסלמה-גובר-מיום-ליום-263143
+COUNTER:6
 https://news.walla.co.il/break/3830180
 https://news.walla.co.il/break/3830181
 https://hamal.co.il/main/גורם-ביטחוני-אין-כוונה-לשנות-את-מדיניות-ההתגוננות-263149
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830872
 https://news.walla.co.il/item/3830959
 https://hamal.co.il/main/ראשי-רשויות-בצפון-קיימת-התרעה-למטחי-ירי-מלבנון---בטווח-זמן-263819
 https://hamal.co.il/main/הערכה-בישראל-ארה״ב-ואיראן-יאריכו-את-הפסקת-האש-263820
+https://news.walla.co.il/break/3830963
+https://news.walla.co.il/break/3830962
+https://hamal.co.il/main/״סימן-לשפע״-דבוראי-מסביר-את-מכת-הדבורים-בנתיבות-263822
