@@ -1,6 +1,4 @@
 COUNTER:26
-https://news.walla.co.il/break/3830112
-https://news.walla.co.il/break/3830115
 https://news.walla.co.il/item/3830096
 https://hamal.co.il/main/דיווח-טראמפ-שוקל-לחדש-את-התקיפות-באיראן-באופן-מוגבל-263103
 https://hamal.co.il/main/טראמפ-נגד-האפיפיור-263105
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3830907
 https://hamal.co.il/main/טראמפ-מצרי-הורמוז-ייפתחו-לצמיתות-סין-לא-תשלח-נשק-לאיראן-263776
 https://hamal.co.il/main/בארהב-מכחישים-לא-הסכמנו-על-הארכת-הפסקת-האש-המומ-נמשך-263777
 https://hamal.co.il/main/הקטל-בכבישים-בת-60-נהרגה-בתאונת-דרכים-263778
+https://news.walla.co.il/break/3830912
+https://news.walla.co.il/item/3830911
