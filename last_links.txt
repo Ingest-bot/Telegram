@@ -1,5 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/item/3830163
 https://hamal.co.il/main/שיא-של-8-שנים-המלחמה-באיראן-הקפיצה-את-מחיר-הפיסטוק-ב-30-263127
 https://hamal.co.il/main/התלמידים-משלמים-מחיר-כפול-קריאה-לעדכון-מתווה-הבגרויות-263134
 https://news.walla.co.il/break/3830164
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3830953
 https://news.walla.co.il/break/3830954
 https://hamal.co.il/main/המדד-עלה-ב-04-מחירי-הירקות-והשכירות-מזנקים-263816
 https://hamal.co.il/main/דיווח-איראן-וארה״ב-שוקלות-להאריך-את-הפסקת-האש-בשבועיים-263817
+https://news.walla.co.il/item/3830872
