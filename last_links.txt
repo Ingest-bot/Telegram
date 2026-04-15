@@ -1,10 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/צבא-ארהב-מיישמים-את-ההחלטה-להטיל-מצור-על-מצרי-הורמוז-263094
-https://hamal.co.il/main/דיווח-ארהב-לא-סגרה-263095
-https://hamal.co.il/main/2-לוחמים-נפצעו-באורח-בינוני-מירי-263096
-https://news.walla.co.il/break/3830086
-https://news.walla.co.il/break/3830087
-https://hamal.co.il/main/סער-בירך-את-ראש-האופוזיציה-בהונגריה-נמשיך-לעבוד-יחד-263097
+COUNTER:23
 https://hamal.co.il/main/בן-50-263098
 https://news.walla.co.il/break/3830095
 https://news.walla.co.il/break/3830094
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3830897
 https://news.walla.co.il/item/3830889
 https://hamal.co.il/main/הותר-לפרסום-זה-המוהל-החשוד-בגרימת-מוות-ברשלנות-של-תינוק-263750
 https://hamal.co.il/main/באיראן-משיבים-לטראמפ-לא-נוותר-על-העשרת-האורניום-263771
+https://news.walla.co.il/break/3830898
+https://news.walla.co.il/break/3830901
+https://news.walla.co.il/break/3830899
+https://news.walla.co.il/break/3830900
+https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בדרום-בהם-הולך-רגל-במצב-קשה-263772
+https://hamal.co.il/main/איראן-ייתכן-שהמשלחת-הפקיסטנית-תבקר-במדינה-263774
