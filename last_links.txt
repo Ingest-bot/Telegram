@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/זינוק-חד-מחיר-הנפט-מעל-100-דולר-בעקבות-הכרזת-המצור-על-איראן-263120
-https://hamal.co.il/main/״הבורר״-של-העולם-התחתון-12-מחברי-ארגון-הפשע-חרירי-נעצרו-263121
-https://news.walla.co.il/break/3830137
+COUNTER:37
 https://news.walla.co.il/break/3830140
 https://news.walla.co.il/item/3830136
 https://hamal.co.il/main/מקור-לבנוני-כישלון-המו״מ-בין-ארה״ב-לאיראן-לא-ישפיע-על-לבנון-263122
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3830932
 https://news.walla.co.il/item/3830933
 https://hamal.co.il/main/לקראת-סבב-שני-של-שיחות-משלחת-פקיסטנית-בדרכה-לאיראן-263791
 https://hamal.co.il/main/ינון-מגל-263799
+https://news.walla.co.il/item/3830938
+https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263751
+https://hamal.co.il/main/מכת-דבורים-בנתיבות-עסקים-סגרו-את-263800
