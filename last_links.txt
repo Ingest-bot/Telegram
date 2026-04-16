@@ -1,8 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263374
-https://hamal.co.il/main/אזעקות-בגליל-העליון-263388
-https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263375
-https://news.walla.co.il/break/3830410
+COUNTER:28
 https://news.walla.co.il/item/3830408
 https://news.walla.co.il/break/3830411
 https://news.walla.co.il/break/3830412
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831184
 https://news.walla.co.il/break/3831188
 https://hamal.co.il/main/מחבל-יידה-אבנים-על-כוחותינו-במהלך-הפרת-סדר-בבנימין---ונוטרל-263954
 https://hamal.co.il/main/גם-בגיל-50-מעבר-לתזונה-הזו-מצמצם-סיכון-לדמנציה-263908
+https://news.walla.co.il/item/3831198
+https://news.walla.co.il/item/3831202
+https://hamal.co.il/main/לאכול-שם-מהרצפה-זה-שדה-התעופה-הנקי-בעולם-מזה-עשור-263956
+https://hamal.co.il/main/דיווח-נשיא-לבנון-הודיע-כי-לא-ידבר-עם-נתניהו-263957
