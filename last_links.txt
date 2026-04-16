@@ -1,8 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/נכנס-לתוקפו-המצור-הימי-על-איראן--כל-העדכונים-263313
-https://news.walla.co.il/break/3830332
-https://news.walla.co.il/item/3830331
-https://hamal.co.il/main/מרגש-אלקנה-בוחבוט-ואשתו-רבקה-מצפים-לילד-שני-263318
+COUNTER:39
 https://hamal.co.il/main/צהל-שני-לוחמים-נפצעו-בינוני-ו-6-קל-מנפילת-כטבם-בלבנון-263319
 https://hamal.co.il/main/צעיר-בן-25-נפצע-קשה-באירוע-אלימות-בירושלים-263320
 https://news.walla.co.il/item/3830333
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831068
 https://news.walla.co.il/item/3831060
 https://hamal.co.il/main/מחבלים-זוהו-מתחבאים-בשיחים---וחוסלו-מהאוויר-263896
 https://hamal.co.il/main/גורם-לבנוני-אין-מידע-על-שיחה-קרובה-עם-ישראל-263897
+https://news.walla.co.il/break/3831075
+https://news.walla.co.il/item/3831074
+https://news.walla.co.il/item/3831077
+https://hamal.co.il/main/חשבתי-שהיא-בת-שש-עשרה-חייל-בן-19-נעצר-לעבירות-מין-בבת-12-263899
