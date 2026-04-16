@@ -1,5 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3830445
+COUNTER:39
 https://hamal.co.il/main/פיצוץ-רכב-אירע-הלילה-בקריית-ים-הרקע-פלילי-263413
 https://hamal.co.il/main/המשטרה-על-הרצח-בכפר-קרע-הזירה-נפגעה-263414
 https://news.walla.co.il/break/3830449
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3831241
 https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
 https://hamal.co.il/main/פריצת-דרך-ישראלית-עשויה-למנוע-ממחלות-סרטן-לשלוח-גרורות-לגוף-263978
 https://hamal.co.il/main/ההערכות-גוברות-הפסקת-אש-עם-לבנון-תוכרז-בשעות-הקרובות-263992
+https://hamal.co.il/main/ההודעה-שקיבלו-תושבי-הצפון---בסמוך-להפסקת-האש-ייתכן-ירי-263995
