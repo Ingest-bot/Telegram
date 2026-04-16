@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3830210
 https://hamal.co.il/main/מאפס-למאה-בצהל-נערכים-להסלמה-מהירה-מול-איראן-263271
 https://news.walla.co.il/break/3830290
 https://news.walla.co.il/break/3830293
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ארהב-הסנאט-לא-חסם-את-מכירת-הנש�
 https://hamal.co.il/main/אוקראינה-טילים-מרוסיה-נפלו-בקייב-וגרמו-לשריפות-ילד-נפצע-רו-263873
 https://news.walla.co.il/break/3831024
 https://news.walla.co.il/break/3831026
+https://news.walla.co.il/item/3831026
