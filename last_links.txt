@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/מערכת-חמ״ל-מרכינה-את-ראשה-ומתייחדת-עם-זכרם-של-ששת-מיליון-היה-263347
-https://news.walla.co.il/break/3830362
-https://hamal.co.il/main/נתניהו-מתייחס-לראשונה-לתבוסת-אורבן-בבחירות-בהונגריה-263351
+COUNTER:11
 https://hamal.co.il/main/חיל-האוויר-תקף-ביממה-האחרונה-כ-150-מטרות-של-חיזבאללה-263355
 https://news.walla.co.il/break/3830363
 https://hamal.co.il/main/הרמטכל-בהערכת-מצב--263356
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חממות-קנאביס-וק״ג-של-סמים-פשיט
 https://hamal.co.il/main/מטוס-קל-התרסק-בנגב-הטייס-נפצע-קל-263925
 https://news.walla.co.il/break/3831113
 https://hamal.co.il/main/אוקראינה-בוערת-16-הרוגים-ומאה-פצועים-במתקפת-טילים-רוסית-263929
+https://news.walla.co.il/item/3831120
+https://hamal.co.il/main/יצחק-אשפיז-עלה-לרבע-הגמר-היריב-הטורקי-לא-לחץ-את-ידו-263931
+https://hamal.co.il/main/מטוס-החלומות-אל-על-רוכשת-6-מטוסים-מהדגם-החדש-ביותר-263927
