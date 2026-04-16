@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3830521
-https://news.walla.co.il/item/3830518
+COUNTER:23
 https://hamal.co.il/main/הניצחון-האמיתי-263460
 https://news.walla.co.il/break/3830526
 https://news.walla.co.il/break/3830527
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-נערכים-לאפשרות-של-ירי-ממוק
 https://hamal.co.il/main/מד״א-מטפלים-במספר-פצועים-בכרמיאל-סריקות-גם-במגד-אל-כרום-264073
 https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קשה-בכרמיאל-ובנהריה-264076
 https://hamal.co.il/main/תיעוד-הנפילה-בכרמיאל-פצוע-קשה-בן-25-בזירה-ו-3-נפגעי-חרדה-264079
+https://hamal.co.il/main/הפצוע-קשה-בכרמיאל-שליח-וולט-בשנות-ה-25-לחייו-264082
+https://hamal.co.il/main/צהל-בתגובה-לירי-לעבר-הצפון-תוקפים-משגרים-בלבנון-264085
