@@ -1,6 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3830443
-https://hamal.co.il/main/דיווח-ההצעה-האמריקנית-להסכם-גרעין---והסירוב-של-איראן-263412
+COUNTER:38
 https://news.walla.co.il/item/3830445
 https://hamal.co.il/main/פיצוץ-רכב-אירע-הלילה-בקריית-ים-הרקע-פלילי-263413
 https://hamal.co.il/main/המשטרה-על-הרצח-בכפר-קרע-הזירה-נפגעה-263414
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831243
 https://news.walla.co.il/break/3831246
 https://news.walla.co.il/item/3831241
 https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
+https://hamal.co.il/main/פריצת-דרך-ישראלית-עשויה-למנוע-ממחלות-סרטן-לשלוח-גרורות-לגוף-263978
+https://hamal.co.il/main/ההערכות-גוברות-הפסקת-אש-עם-לבנון-תוכרז-בשעות-הקרובות-263992
