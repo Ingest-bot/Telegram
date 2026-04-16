@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/יום-הזיכרון-לשואה-ולגבורה-לוח-הטקסים-המלא-263396
-https://hamal.co.il/main/פקיסטן-הציעה-לארח-סבב-נוסף-של-שיחות-בין-ארהב-לאיראן-263398
-https://hamal.co.il/main/תאונת-אופנוע-בירושלים-נקבע-מותו-של-גבר-כבן-50-263399
-https://news.walla.co.il/break/3830430
+COUNTER:33
 https://hamal.co.il/main/הותר-לפרסום-רס״ם-מיל׳-אייל-אוריאל-ביאנקו-נפל-בקרב-בלבנון-263400
 https://hamal.co.il/main/באירוע-בו-נפל-רס״ם-מיל׳-אייל-אוריאל-ביאנקו-זל---נפצעו-לוח-263401
 https://hamal.co.il/main/הטמפרטורות-קופצות-ורוחות-ערות-ברחבי-הארץ--תחזית-מזג-האוויר-263404
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831223
 https://hamal.co.il/main/שבועיים-להגיע-להסכמות-עם-היועמשית-ההכרעות-בבגץ-בן-גביר-263974
 https://news.walla.co.il/item/3831226
 https://hamal.co.il/main/נפילה-בקריית-שמונה-מרכב-עלה-באש-אין-נפגעים-263980
+https://news.walla.co.il/break/3831235
+https://news.walla.co.il/break/3831236
+https://news.walla.co.il/item/3831234
+https://hamal.co.il/main/לראשונה-נקבת-היפוטטם-בסכנת-הכחדה-חמורה-נחתה-בישראל-263981
