@@ -1,9 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3830321
-https://hamal.co.il/main/צהל-מאשר-263310
-https://news.walla.co.il/item/3830323
-https://hamal.co.il/main/נער-בן-17-נפצע-קל-מדקירה-באזור-מישור-אדומים-המשטרה-חוקרת-263311
-https://hamal.co.il/main/משעות-הבוקר-יורטו-יותר-מ-10-כטבמים-ששוגרו-מלבנון-263315
+COUNTER:38
 https://hamal.co.il/main/נכנס-לתוקפו-המצור-הימי-על-איראן--כל-העדכונים-263313
 https://news.walla.co.il/break/3830332
 https://news.walla.co.il/item/3830331
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3831054
 https://news.walla.co.il/item/3831052
 https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליל-וקריית-שמונה-263894
 https://hamal.co.il/main/ילד-בן-7-נפגע-מרכב-בבית-שמש-מצבו-אנוש-263895
+https://news.walla.co.il/break/3831058
+https://news.walla.co.il/break/3831068
+https://news.walla.co.il/item/3831060
+https://hamal.co.il/main/מחבלים-זוהו-מתחבאים-בשיחים---וחוסלו-מהאוויר-263896
+https://hamal.co.il/main/גורם-לבנוני-אין-מידע-על-שיחה-קרובה-עם-ישראל-263897
