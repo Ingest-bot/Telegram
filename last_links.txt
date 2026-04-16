@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/חצי-הגמר-יתקיים-ללא-קהל-הגבלות-התקהלות-חדשות-בירושלים-263373
-https://news.walla.co.il/break/3830387
-https://news.walla.co.il/break/3830386
-https://hamal.co.il/main/״פרח-לניצול״-פרויקט-מיוחד-המחבר-בין-מפקדי-צהל-לשורדי-השואה-263380
-https://hamal.co.il/main/סבא-של-קרולינה-היה-חייל-נאצי-היום-היא-נלחמת-למען-ישראל-263349
+COUNTER:21
 https://news.walla.co.il/break/3830391
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263382
 https://news.walla.co.il/break/3830392
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תקיפות-בעיר-נבטיה-בדרום-לבנון-
 https://news.walla.co.il/break/3831159
 https://news.walla.co.il/break/3831163
 https://hamal.co.il/main/אריק-רוביק-שדרס-למוות-את-לי-זיתוני-נורה-למוות-בפריז-263938
+https://news.walla.co.il/break/3831165
+https://news.walla.co.il/break/3831169
+https://news.walla.co.il/item/3831164
+https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-263947
+https://hamal.co.il/main/מאות-נשקים-של-חיזבאללה-אותרו-בבית-ספר-בדרום-לבנון-263948
