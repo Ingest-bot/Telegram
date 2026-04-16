@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/טראמפ-34-ספינות-עברו-אתמול-במצר-הורמוז-263358
-https://news.walla.co.il/break/3830366
-https://news.walla.co.il/item/3830360
-https://hamal.co.il/main/טראמפ-או-שאיראן-תתן-לנו-את-האורניום-המעושר---או-שנקח-אותו-263362
+COUNTER:14
 https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263363
 https://hamal.co.il/main/טראמפ-איראן-לא-מוותרת-על-תכנית-הגרעין-בלי-זה---אין-הסכם-263364
 https://news.walla.co.il/item/3830370
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מטוס-החלומות-אל-על-רוכשת-6-מטוס
 https://news.walla.co.il/item/3831131
 https://hamal.co.il/main/חלקי-טיל-מ״שאגת-הארי״-אותר-על-גג-מבנה-באיכילוב-263932
 https://hamal.co.il/main/70-תשתיות-של-חיזבאללה-הושמדו-בדקה-263933
+https://news.walla.co.il/break/3831141
+https://news.walla.co.il/break/3831136
+https://news.walla.co.il/item/3831137
+https://hamal.co.il/main/המלחמה-רק-מתחילה-התחזית-החדשה-והמטרידה-של-נוסטרדמוס-הסיני-263917
