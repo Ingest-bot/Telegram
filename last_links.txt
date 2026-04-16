@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/חיל-האוויר-תקף-ביממה-האחרונה-כ-150-מטרות-של-חיזבאללה-263355
-https://news.walla.co.il/break/3830363
-https://hamal.co.il/main/הרמטכל-בהערכת-מצב--263356
+COUNTER:13
 https://hamal.co.il/main/טראמפ-34-ספינות-עברו-אתמול-במצר-הורמוז-263358
 https://news.walla.co.il/break/3830366
 https://news.walla.co.il/item/3830360
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אוקראינה-בוערת-16-הרוגים-ומאה-פ
 https://news.walla.co.il/item/3831120
 https://hamal.co.il/main/יצחק-אשפיז-עלה-לרבע-הגמר-היריב-הטורקי-לא-לחץ-את-ידו-263931
 https://hamal.co.il/main/מטוס-החלומות-אל-על-רוכשת-6-מטוסים-מהדגם-החדש-ביותר-263927
+https://news.walla.co.il/item/3831131
+https://hamal.co.il/main/חלקי-טיל-מ״שאגת-הארי״-אותר-על-גג-מבנה-באיכילוב-263932
+https://hamal.co.il/main/70-תשתיות-של-חיזבאללה-הושמדו-בדקה-263933
