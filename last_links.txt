@@ -1,9 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/פיצוץ-רכב-אירע-הלילה-בקריית-ים-הרקע-פלילי-263413
-https://hamal.co.il/main/המשטרה-על-הרצח-בכפר-קרע-הזירה-נפגעה-263414
-https://news.walla.co.il/break/3830449
-https://news.walla.co.il/item/3830448
-https://news.walla.co.il/item/3830416
+COUNTER:1
 https://hamal.co.il/main/מעבר-לכל-דמיון-כך-הסתתרו-60-שבחים-בתוך-משאית-זבל--צפו-263417
 https://hamal.co.il/main/מבטיח-שאחזור-הפוסט-המצמרר-של-263418
 https://news.walla.co.il/break/3830452
@@ -499,3 +494,8 @@ https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
 https://hamal.co.il/main/פריצת-דרך-ישראלית-עשויה-למנוע-ממחלות-סרטן-לשלוח-גרורות-לגוף-263978
 https://hamal.co.il/main/ההערכות-גוברות-הפסקת-אש-עם-לבנון-תוכרז-בשעות-הקרובות-263992
 https://hamal.co.il/main/ההודעה-שקיבלו-תושבי-הצפון---בסמוך-להפסקת-האש-ייתכן-ירי-263995
+https://news.walla.co.il/break/3831257
+https://news.walla.co.il/break/3831256
+https://news.walla.co.il/break/3831258
+https://hamal.co.il/main/טראמפ-הפסקת-אש-של-10-ימים-עם-לבנון-החל-מחצות-264003
+https://hamal.co.il/main/במערכת-הביטחון-הופתעו-מההודעה-על-הפסקת-האש-גם-חכים-זועמים-264007
