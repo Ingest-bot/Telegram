@@ -1,9 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263363
-https://hamal.co.il/main/טראמפ-איראן-לא-מוותרת-על-תכנית-הגרעין-בלי-זה---אין-הסכם-263364
-https://news.walla.co.il/item/3830370
-https://hamal.co.il/main/ישראל-מרכינה-ראש-העצרת-הממלכתית-לציון-יום-השואה--ישיר-263365
-https://news.walla.co.il/break/3830371
+COUNTER:16
 https://news.walla.co.il/break/3830376
 https://news.walla.co.il/item/3830374
 https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263360
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3831141
 https://news.walla.co.il/break/3831136
 https://news.walla.co.il/item/3831137
 https://hamal.co.il/main/המלחמה-רק-מתחילה-התחזית-החדשה-והמטרידה-של-נוסטרדמוס-הסיני-263917
+https://news.walla.co.il/break/3831149
+https://news.walla.co.il/item/3831144
+https://news.walla.co.il/item/3831148
+https://hamal.co.il/main/מחריד-קיצונים-השחיתו-תמונה-של-חובשת-איחוד-הצלה-שנהרגה-מפגיע-263934
+https://hamal.co.il/main/צה״ל-חיסל-מפקד-ביחידת-הקשר-של-חמאס-263935
