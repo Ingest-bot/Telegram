@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3830345
-https://hamal.co.il/main/צהל-מרדד-כוחות-בדרום-לבנון---ונערך-להנחיות-מהדרג-המדיני-263346
+COUNTER:9
 https://hamal.co.il/main/מערכת-חמ״ל-מרכינה-את-ראשה-ומתייחדת-עם-זכרם-של-ששת-מיליון-היה-263347
 https://news.walla.co.il/break/3830362
 https://hamal.co.il/main/נתניהו-מתייחס-לראשונה-לתבוסת-אורבן-בבחירות-בהונגריה-263351
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831105
 https://news.walla.co.il/item/3831103
 https://hamal.co.il/main/חממות-קנאביס-וק״ג-של-סמים-פשיטה-הובילה-למעצר-של-19-חשודים-263924
 https://hamal.co.il/main/מטוס-קל-התרסק-בנגב-הטייס-נפצע-קל-263925
+https://news.walla.co.il/break/3831113
+https://hamal.co.il/main/אוקראינה-בוערת-16-הרוגים-ומאה-פצועים-במתקפת-טילים-רוסית-263929
