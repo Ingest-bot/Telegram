@@ -1,7 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3830545
-https://news.walla.co.il/item/3830547
-https://news.walla.co.il/break/3830555
+COUNTER:31
 https://hamal.co.il/main/איטליה-הודיעה-משהים-את-ההסכם-הביטחוני-עם-ישראל-263480
 https://hamal.co.il/main/10-לוחמים-נפצעו-בדרום-לבנון-בהם-3-באורח-קשה-263482
 https://news.walla.co.il/break/3830559
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831311
 https://news.walla.co.il/item/3831309
 https://news.walla.co.il/item/3831310
 https://hamal.co.il/main/הקטל-בדרכים-נקבע-מותו-של-נהג-רכב-שהתנגש-במעקב-בטיחות-בכביש-264110
+https://news.walla.co.il/item/3831304
+https://hamal.co.il/main/גורם-ישראלי-אין-נסיגה-מקו-הנט-התושבים-לא-יחזרו-לדרום-לבנו-264112
+https://hamal.co.il/main/הירי-לצפון-דיווח-על-זירת-נפילה-בקריית-שמונה-264115
