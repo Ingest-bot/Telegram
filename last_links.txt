@@ -1,9 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/דיווח-ממשל-טראמפ-שוקל-לקיים-מומ-נוסף-עם-איראן---כבר-השבוע-263383
-https://news.walla.co.il/break/3830395
-https://news.walla.co.il/break/3830397
-https://news.walla.co.il/break/3830393
-https://news.walla.co.il/break/3830399
+COUNTER:26
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263374
 https://hamal.co.il/main/אזעקות-בגליל-העליון-263388
 https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263375
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3831175
 https://news.walla.co.il/item/3831178
 https://hamal.co.il/main/חשבו-שזה-קרחון-מלוכלך-התגלית-המדהימה-באנטארקטיקה-263910
 https://hamal.co.il/main/תעלומה-בת-18-שנים-הגיעה-לסיומה-הגופה-במחסן-בירושלים-זוהתה-263953
+https://news.walla.co.il/break/3831182
+https://news.walla.co.il/break/3831184
+https://news.walla.co.il/break/3831188
+https://hamal.co.il/main/מחבל-יידה-אבנים-על-כוחותינו-במהלך-הפרת-סדר-בבנימין---ונוטרל-263954
+https://hamal.co.il/main/גם-בגיל-50-מעבר-לתזונה-הזו-מצמצם-סיכון-לדמנציה-263908
