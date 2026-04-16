@@ -1,5 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3830473
+COUNTER:11
 https://news.walla.co.il/item/3830417
 https://news.walla.co.il/item/3830477
 https://hamal.co.il/main/דיווח-263429
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831271
 https://hamal.co.il/main/ערוץ-14-פרסם-פייק-על-סיבות-בחירתו-בטיים---נתניהו-שיתף-וואלה-264027
 https://hamal.co.il/main/לא-רק-כמה-אתם-מתאמנים-השינוי-הקטן-שיכול-להאריך-את-החיים-מער-264016
 https://hamal.co.il/main/נתניהו-מנותק-מהעם---זו-אשליה-זמנית-שסופה-אסון-התגובות-להפ-264028
+https://hamal.co.il/main/רהמ-בנימין-נתניהו-בהצהרה-בנושא-לבנון-ואיראן-264031
