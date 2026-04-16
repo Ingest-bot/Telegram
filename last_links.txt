@@ -1,6 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/שר-ההגנה-האיראני-״נמצאים-ברמת-הכוננות-הגבוהה-ביותר״-263282
-https://hamal.co.il/main/כך-תגרמו-למשככי-הכאבים-לעבוד-מהר-יותר-5-טריקים-של-רופאים-263148
+COUNTER:32
 https://hamal.co.il/main/תקיפה-מדוייקת-באמצעות-רחפנים-כוחות-הקומנדו-חיסלו-מחבלים-263283
 https://news.walla.co.il/break/3830306
 https://news.walla.co.il/break/3830308
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831040
 https://news.walla.co.il/item/3831037
 https://news.walla.co.il/item/3831038
 https://hamal.co.il/main/חשד-להרעלת-מזון-ב-2-מעונות-במרכז-15-פעוטות-ותינוקות-נפגעו-263880
+https://news.walla.co.il/break/3831042
+https://hamal.co.il/main/גבר-בן-20-נפצע-באורח-בינוני-בשל-תאונת-דרכים-בסמוך-למחלף-נחשו-263881
