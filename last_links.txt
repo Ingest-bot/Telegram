@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/מאפס-למאה-בצהל-נערכים-להסלמה-מהירה-מול-איראן-263271
-https://news.walla.co.il/break/3830290
 https://news.walla.co.il/break/3830293
 https://news.walla.co.il/break/3830294
 https://hamal.co.il/main/זה-מתחיל-אלה-חברות-התעופה-הזרות-שחוזרות-לטוס-לארץ-263273
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אוקראינה-טילים-מרוסיה-נפלו-בק�
 https://news.walla.co.il/break/3831024
 https://news.walla.co.il/break/3831026
 https://news.walla.co.il/item/3831026
+https://news.walla.co.il/break/3831030
+https://news.walla.co.il/break/3831031
