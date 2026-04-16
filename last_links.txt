@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/אחרי-3-שעות-ללא-הנחיות-מעודכנות-אלו-השינויים-במדיניות-לעורף-263366
-https://hamal.co.il/main/שורד-השואה-שהפך-לטייס-263367
-https://news.walla.co.il/item/3830381
+COUNTER:19
 https://hamal.co.il/main/חצי-הגמר-יתקיים-ללא-קהל-הגבלות-התקהלות-חדשות-בירושלים-263373
 https://news.walla.co.il/break/3830387
 https://news.walla.co.il/break/3830386
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831151
 https://news.walla.co.il/break/3831154
 https://hamal.co.il/main/צפו-מומו-הצב-של-הספארי-מצא-לעצמו-דרך-להתקרר-מהחום-263936
 https://hamal.co.il/main/תקיפות-בעיר-נבטיה-בדרום-לבנון-263937
+https://news.walla.co.il/break/3831159
+https://news.walla.co.il/break/3831163
+https://hamal.co.il/main/אריק-רוביק-שדרס-למוות-את-לי-זיתוני-נורה-למוות-בפריז-263938
