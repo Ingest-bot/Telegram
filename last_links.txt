@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3830411
-https://news.walla.co.il/item/3830418
+COUNTER:30
 https://news.walla.co.il/break/3830419
 https://news.walla.co.il/break/3830421
 https://news.walla.co.il/break/3830423
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831213
 https://news.walla.co.il/break/3831216
 https://news.walla.co.il/break/3831217
 https://hamal.co.il/main/בגיל-18-מדליית-ארד-לכוכב-הגודו-הישראלי-באליפות-אירופה-263963
+https://news.walla.co.il/break/3831221
+https://hamal.co.il/main/פרשת-המוהל-החשוד-בגרימת-מוות-ברשלנות-מכיר-עוד-10-מקרים-של-263965
