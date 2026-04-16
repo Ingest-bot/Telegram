@@ -1,8 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3830341
-https://news.walla.co.il/break/3830343
-https://news.walla.co.il/break/3830342
-https://news.walla.co.il/break/3830339
+COUNTER:4
 https://news.walla.co.il/break/3830344
 https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-263332
 https://news.walla.co.il/item/3830347
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831082
 https://hamal.co.il/main/טרגדיה-נקבע-מותו-של-בן-ה-5-שנפגע-מרכב-בבית-שמש-263900
 https://hamal.co.il/main/היום-השביעי-לחיפושים-נמשכים-מאמצי-איתור-הנער-בחוף-צאנז-263901
 https://hamal.co.il/main/ניתן-להגיע-להסכם-ולהראות-לעולם-שישראל-לא-גורם-הרסני-263902
+https://news.walla.co.il/break/3831089
+https://news.walla.co.il/item/3831085
+https://hamal.co.il/main/ספינות-חיל-הים-מיירטות-כטב״מים-שמשוגרים-לישראל-מלבנון-263906
+https://hamal.co.il/main/הגברת-ממדאני-מתנצלת-על-הציוצים-האנטישמיים-הייתי-בת-15-263912
