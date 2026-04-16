@@ -1,7 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/לעולם-לא-עוד-263421
-https://hamal.co.il/main/שמונים-שנה-אחרי-שורד-השואה-חזר-לצריפים-שחשב-שנמחקו-מהעולם-263422
-https://news.walla.co.il/break/3830458
+COUNTER:5
 https://news.walla.co.il/item/3830459
 https://hamal.co.il/main/בשל-המתיחות-באזור-ענקית-הלואוקוסט-מאריכה-את-ביטולי-הטיסות-263423
 https://news.walla.co.il/item/3830462
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831260
 https://hamal.co.il/main/טראמפ-ממשיך-לצייץ-אזמין-את-נתניהו-ונשיא-לבנון-לבית-הלבן-264009
 https://hamal.co.il/main/הפסקת-האש-דווחה-עי-טראמפ-חברי-הקבינט-הופתעו-264011
 https://hamal.co.il/main/הפסקת-האש-צה״ל-לא-יתקוף-מהאוויר-הכוחות-יישארו-בדרום-לבנון-264015
+https://news.walla.co.il/break/3831263
+https://news.walla.co.il/break/3831264
+https://hamal.co.il/main/איזנקוט-נתניהו-לא-יודע-לממש-הישגים-צבאיים-להישגים-מדיניים-264022
