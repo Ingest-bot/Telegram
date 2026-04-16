@@ -1,5 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3830459
+COUNTER:6
 https://hamal.co.il/main/בשל-המתיחות-באזור-ענקית-הלואוקוסט-מאריכה-את-ביטולי-הטיסות-263423
 https://news.walla.co.il/item/3830462
 https://news.walla.co.il/item/3830174
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הפסקת-האש-צה״ל-לא-יתקוף-מהאווי
 https://news.walla.co.il/break/3831263
 https://news.walla.co.il/break/3831264
 https://hamal.co.il/main/איזנקוט-נתניהו-לא-יודע-לממש-הישגים-צבאיים-להישגים-מדיניים-264022
+https://hamal.co.il/main/חשד-להרעלת-מזון-במעונות-במרכז-הארץ-15-פעוטות-ותינוקות-נפגעו-264025
