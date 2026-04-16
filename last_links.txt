@@ -1,11 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3830503
-https://news.walla.co.il/break/3830509
-https://hamal.co.il/main/דיווח-זה-המועד-בו-יתחדשו-השיחות-בין-ארהב-לאיראן-263439
-https://hamal.co.il/main/אישה-בת-92-במצב-קשה-263458
-https://hamal.co.il/main/נדחתה-השתתפות-ראש-קש-בועדת-הכספים-פוחדים-מהביקורת-שלי-263456
-https://hamal.co.il/main/״למשטר-האיראני-כבר-לא-אכפת-משום-דבר-הם-כמו-חמאס״-263453
-https://hamal.co.il/main/אמא-שלי-שרדה-את-הצריף-של-מנגלה-האלוף-שגדל-כילד-נוצרי-263459
+COUNTER:21
 https://news.walla.co.il/item/3830521
 https://news.walla.co.il/item/3830518
 https://hamal.co.il/main/הניצחון-האמיתי-263460
@@ -499,3 +492,10 @@ https://hamal.co.il/main/מחפשים-עבודה-אלו-השאלות-הפשוט�
 https://news.walla.co.il/break/3831293
 https://news.walla.co.il/break/3831295
 https://news.walla.co.il/item/3831292
+https://news.walla.co.il/break/3831298
+https://news.walla.co.il/break/3831296
+https://news.walla.co.il/break/3831299
+https://hamal.co.il/main/צהל-נערכים-לאפשרות-של-ירי-ממוקד-לאזור-הצפון-264071
+https://hamal.co.il/main/מד״א-מטפלים-במספר-פצועים-בכרמיאל-סריקות-גם-במגד-אל-כרום-264073
+https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קשה-בכרמיאל-ובנהריה-264076
+https://hamal.co.il/main/תיעוד-הנפילה-בכרמיאל-פצוע-קשה-בן-25-בזירה-ו-3-נפגעי-חרדה-264079
