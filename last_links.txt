@@ -1,8 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3830419
-https://news.walla.co.il/break/3830421
-https://news.walla.co.il/break/3830423
-https://news.walla.co.il/break/3830422
+COUNTER:31
 https://news.walla.co.il/break/3830427
 https://news.walla.co.il/item/3830420
 https://hamal.co.il/main/יום-הזיכרון-לשואה-ולגבורה-לוח-הטקסים-המלא-263396
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831217
 https://hamal.co.il/main/בגיל-18-מדליית-ארד-לכוכב-הגודו-הישראלי-באליפות-אירופה-263963
 https://news.walla.co.il/break/3831221
 https://hamal.co.il/main/פרשת-המוהל-החשוד-בגרימת-מוות-ברשלנות-מכיר-עוד-10-מקרים-של-263965
+https://news.walla.co.il/break/3831222
+https://news.walla.co.il/item/3831219
+https://news.walla.co.il/item/3831223
+https://hamal.co.il/main/שבועיים-להגיע-להסכמות-עם-היועמשית-ההכרעות-בבגץ-בן-גביר-263974
