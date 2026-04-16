@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3830376
-https://news.walla.co.il/item/3830374
-https://hamal.co.il/main/היהודי-ירה-בדיפלומט-וגבלס-השיק-את-ליל-הבדולח-המלצות-צפייה-ל-263360
-https://hamal.co.il/main/טלאי-על-טלאי-הסיפורים-הנוראיים-מאחורי-הסמל-הכי-מוכר-של-השוא-263348
-https://news.walla.co.il/break/3830379
+COUNTER:18
 https://hamal.co.il/main/אחרי-3-שעות-ללא-הנחיות-מעודכנות-אלו-השינויים-במדיניות-לעורף-263366
 https://hamal.co.il/main/שורד-השואה-שהפך-לטייס-263367
 https://news.walla.co.il/item/3830381
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3831144
 https://news.walla.co.il/item/3831148
 https://hamal.co.il/main/מחריד-קיצונים-השחיתו-תמונה-של-חובשת-איחוד-הצלה-שנהרגה-מפגיע-263934
 https://hamal.co.il/main/צה״ל-חיסל-מפקד-ביחידת-הקשר-של-חמאס-263935
+https://news.walla.co.il/break/3831156
+https://news.walla.co.il/break/3831151
+https://news.walla.co.il/break/3831154
+https://hamal.co.il/main/צפו-מומו-הצב-של-הספארי-מצא-לעצמו-דרך-להתקרר-מהחום-263936
+https://hamal.co.il/main/תקיפות-בעיר-נבטיה-בדרום-לבנון-263937
