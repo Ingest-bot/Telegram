@@ -1,10 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/צהל-שני-לוחמים-נפצעו-בינוני-ו-6-קל-מנפילת-כטבם-בלבנון-263319
-https://hamal.co.il/main/צעיר-בן-25-נפצע-קשה-באירוע-אלימות-בירושלים-263320
-https://news.walla.co.il/item/3830333
-https://news.walla.co.il/item/3830335
-https://news.walla.co.il/item/3830337
-https://hamal.co.il/main/טראמפ-מזהיר-את-האיראנים-אל-תתקרבו-לספינות-שלנו-263323
+COUNTER:2
 https://news.walla.co.il/break/3830341
 https://news.walla.co.il/break/3830343
 https://news.walla.co.il/break/3830342
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3831075
 https://news.walla.co.il/item/3831074
 https://news.walla.co.il/item/3831077
 https://hamal.co.il/main/חשבתי-שהיא-בת-שש-עשרה-חייל-בן-19-נעצר-לעבירות-מין-בבת-12-263899
+https://news.walla.co.il/break/3831083
+https://news.walla.co.il/item/3831079
+https://news.walla.co.il/item/3831082
+https://hamal.co.il/main/טרגדיה-נקבע-מותו-של-בן-ה-5-שנפגע-מרכב-בבית-שמש-263900
+https://hamal.co.il/main/היום-השביעי-לחיפושים-נמשכים-מאמצי-איתור-הנער-בחוף-צאנז-263901
+https://hamal.co.il/main/ניתן-להגיע-להסכם-ולהראות-לעולם-שישראל-לא-גורם-הרסני-263902
