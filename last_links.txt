@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3830352
-https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-263333
-https://hamal.co.il/main/חוסל-מחבל-שלקח-חלק-באסון-קריסת-המבנים-בו-נפלו-21-לוחמי-צהל-263336
-https://hamal.co.il/main/חנה-לסלאו-הודיעה-לא-אשיא-משואה-ביום-העצמאות-263338
-https://news.walla.co.il/break/3830358
+COUNTER:8
 https://news.walla.co.il/item/3830345
 https://hamal.co.il/main/צהל-מרדד-כוחות-בדרום-לבנון---ונערך-להנחיות-מהדרג-המדיני-263346
 https://hamal.co.il/main/מערכת-חמ״ל-מרכינה-את-ראשה-ומתייחדת-עם-זכרם-של-ששת-מיליון-היה-263347
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הגברת-ממדאני-מתנצלת-על-הציוצי�
 https://news.walla.co.il/break/3831090
 https://hamal.co.il/main/תפוחים-או-תפוזים-מה-יותר-טוב-לאיזון-רמות-הסוכר-בדם-263919
 https://hamal.co.il/main/דירה-במרכז-ת״א-נחשפה-כבית-בושת-263920
+https://news.walla.co.il/break/3831107
+https://news.walla.co.il/break/3831105
+https://news.walla.co.il/item/3831103
+https://hamal.co.il/main/חממות-קנאביס-וק״ג-של-סמים-פשיטה-הובילה-למעצר-של-19-חשודים-263924
+https://hamal.co.il/main/מטוס-קל-התרסק-בנגב-הטייס-נפצע-קל-263925
