@@ -1,8 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/בית-הכנסת-הסודי-שפעל-מתחת-לאף-של-הנאצים---בתוך-כנסייה-263382
-https://news.walla.co.il/break/3830392
-https://hamal.co.il/main/שורד-השואה-ישעיהו-פויר-הרצון-להיות-אדם-חופשי-עזר-לי-לשמור-263352
-https://hamal.co.il/main/נתונים-מטרידים-מספר-הנרצחים-היהודים-בעולם-גבוה-מזה-3-עשורים-263278
+COUNTER:24
 https://hamal.co.il/main/דיווח-ממשל-טראמפ-שוקל-לקיים-מומ-נוסף-עם-איראן---כבר-השבוע-263383
 https://news.walla.co.il/break/3830395
 https://news.walla.co.il/break/3830397
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831164
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-263947
 https://hamal.co.il/main/מאות-נשקים-של-חיזבאללה-אותרו-בבית-ספר-בדרום-לבנון-263948
 https://hamal.co.il/main/הוציא-את-הילדים-מהמושב-האחורי---וגנב-את-הרכב-263950
+https://news.walla.co.il/item/3831175
+https://news.walla.co.il/item/3831178
+https://hamal.co.il/main/חשבו-שזה-קרחון-מלוכלך-התגלית-המדהימה-באנטארקטיקה-263910
+https://hamal.co.il/main/תעלומה-בת-18-שנים-הגיעה-לסיומה-הגופה-במחסן-בירושלים-זוהתה-263953
