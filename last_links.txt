@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3830344
-https://hamal.co.il/main/אזעקות-בכרמיאל-והסביבה-263332
-https://news.walla.co.il/item/3830347
+COUNTER:6
 https://news.walla.co.il/item/3830352
 https://hamal.co.il/main/מדא-על-הירי-לצפון-לא-התקבלו-דיווחים-על-נפגעים-263333
 https://hamal.co.il/main/חוסל-מחבל-שלקח-חלק-באסון-קריסת-המבנים-בו-נפלו-21-לוחמי-צהל-263336
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831089
 https://news.walla.co.il/item/3831085
 https://hamal.co.il/main/ספינות-חיל-הים-מיירטות-כטב״מים-שמשוגרים-לישראל-מלבנון-263906
 https://hamal.co.il/main/הגברת-ממדאני-מתנצלת-על-הציוצים-האנטישמיים-הייתי-בת-15-263912
+https://news.walla.co.il/break/3831090
+https://hamal.co.il/main/תפוחים-או-תפוזים-מה-יותר-טוב-לאיזון-רמות-הסוכר-בדם-263919
+https://hamal.co.il/main/דירה-במרכז-ת״א-נחשפה-כבית-בושת-263920
