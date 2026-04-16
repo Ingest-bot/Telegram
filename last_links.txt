@@ -1,10 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3830477
-https://hamal.co.il/main/דיווח-263429
-https://news.walla.co.il/break/3830482
-https://hamal.co.il/main/המילואימניקים-בלבנון-בדרישה-אם-אין-התקפה---שחררו-אותנו-263428
-https://hamal.co.il/main/הסתתר-במנזר---ושרד-את-התופת-263433
-https://news.walla.co.il/item/3830486
+COUNTER:15
 https://news.walla.co.il/item/3830493
 https://hamal.co.il/main/שורדים-השמיעו-עדויות-263434
 https://news.walla.co.il/item/3830497
@@ -499,3 +493,9 @@ https://hamal.co.il/main/לא-רק-כמה-אתם-מתאמנים-השינוי-ה�
 https://hamal.co.il/main/נתניהו-מנותק-מהעם---זו-אשליה-זמנית-שסופה-אסון-התגובות-להפ-264028
 https://hamal.co.il/main/רהמ-בנימין-נתניהו-בהצהרה-בנושא-לבנון-ואיראן-264031
 https://hamal.co.il/main/טראמפ-אחרי-48-שנים-אנחנו-נפגיש-בין-נתניהו-לנשיא-לבנון-264035
+https://news.walla.co.il/break/3831285
+https://news.walla.co.il/break/3831284
+https://news.walla.co.il/break/3831286
+https://hamal.co.il/main/טראמפ-שוחחתי-עם-נשיא-לבנון-אדם-טוב-ומאוד-מכובד-264036
+https://hamal.co.il/main/אחרי-שנה-וחצי-עומר-חזן-התארס-לבת-הזוג-שובל-חזיזה-264039
+https://hamal.co.il/main/שעתיים-לפני-הפסקת-האש-אזעקות-בגליל-המערבי-264049
