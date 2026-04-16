@@ -1,8 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3830433
-https://news.walla.co.il/break/3830434
-https://news.walla.co.il/item/3830431
-https://news.walla.co.il/break/3830436
+COUNTER:36
 https://news.walla.co.il/break/3830443
 https://hamal.co.il/main/דיווח-ההצעה-האמריקנית-להסכם-גרעין---והסירוב-של-איראן-263412
 https://news.walla.co.il/item/3830445
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831237
 https://news.walla.co.il/break/3831238
 https://hamal.co.il/main/דיווח-לבנוני-הנשיא-שוחח-בטלפון-עם-טראמפ-263985
 https://hamal.co.il/main/בן-גביר-263987
+https://news.walla.co.il/break/3831243
+https://news.walla.co.il/break/3831246
+https://news.walla.co.il/item/3831241
+https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
