@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3830427
-https://news.walla.co.il/item/3830420
+COUNTER:32
 https://hamal.co.il/main/יום-הזיכרון-לשואה-ולגבורה-לוח-הטקסים-המלא-263396
 https://hamal.co.il/main/פקיסטן-הציעה-לארח-סבב-נוסף-של-שיחות-בין-ארהב-לאיראן-263398
 https://hamal.co.il/main/תאונת-אופנוע-בירושלים-נקבע-מותו-של-גבר-כבן-50-263399
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831222
 https://news.walla.co.il/item/3831219
 https://news.walla.co.il/item/3831223
 https://hamal.co.il/main/שבועיים-להגיע-להסכמות-עם-היועמשית-ההכרעות-בבגץ-בן-גביר-263974
+https://news.walla.co.il/item/3831226
+https://hamal.co.il/main/נפילה-בקריית-שמונה-מרכב-עלה-באש-אין-נפגעים-263980
