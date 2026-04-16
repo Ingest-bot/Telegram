@@ -1,9 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/תקיפה-מדוייקת-באמצעות-רחפנים-כוחות-הקומנדו-חיסלו-מחבלים-263283
-https://news.walla.co.il/break/3830306
-https://news.walla.co.il/break/3830308
-https://hamal.co.il/main/אזעקות-בנהריה-והסביבה-263295
-https://hamal.co.il/main/מדא-על-הירי-לנהריה-צוותים-יצאו-לסרוק-זירה-263296
+COUNTER:34
 https://news.walla.co.il/break/3830311
 https://news.walla.co.il/break/3830313
 https://hamal.co.il/main/הירי-לנהריה-דיווח-על-פצועה-קל-במקום-263306
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3831038
 https://hamal.co.il/main/חשד-להרעלת-מזון-ב-2-מעונות-במרכז-15-פעוטות-ותינוקות-נפגעו-263880
 https://news.walla.co.il/break/3831042
 https://hamal.co.il/main/גבר-בן-20-נפצע-באורח-בינוני-בשל-תאונת-דרכים-בסמוך-למחלף-נחשו-263881
+https://news.walla.co.il/break/3831043
+https://news.walla.co.il/item/3831049
+https://news.walla.co.il/item/3831019
+https://hamal.co.il/main/צהל-באזהרת-דחופה-לתושבי-דרום-לבנון-התפנו-מבתיכם-במיידית-263886
+https://hamal.co.il/main/הלילה-2-אוטובוסים-עלו-באש-סמוך-לחצור-הגלילית-263887
