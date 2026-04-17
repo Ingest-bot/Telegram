@@ -1,5 +1,4 @@
 COUNTER:7
-https://news.walla.co.il/break/3830602
 https://news.walla.co.il/item/3830604
 https://news.walla.co.il/item/3830601
 https://hamal.co.il/main/צהל-חיסל-מחבלי-חמאס-להסרת-איום-מיידי-על-הכוחות-263522
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3831373
 https://hamal.co.il/main/בפעם-השלישית-ברציפות-האופוזיציה-עם-רוב-של-61-מנדטים--סקר-264142
 https://hamal.co.il/main/נשיא-סוריה-השיחות-עם-ישראל-לא-במבוי-סתום-אך-היא-פועלת-באכ-264143
 https://hamal.co.il/main/מושיק-טימור-מוותיקי-שדרני-הרדיו-בישראל-הלך-לעולמו-בגיל-89-264145
+https://news.walla.co.il/break/3831377
