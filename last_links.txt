@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/שניים-נעצרו-בחשד-לניסיון-רצח-של-ראש-עיריית-עראבה-וסגנו-263497
-https://news.walla.co.il/break/3830590
+COUNTER:2
 https://news.walla.co.il/break/3830592
 https://hamal.co.il/main/תיעוד-ממצלמת-גוף-של-לוחם-בדרום-לבנון-263504
 https://hamal.co.il/main/״זיכרון-בסלון״-התקיים-בבסיס-נבטים-263506
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831349
 https://news.walla.co.il/item/3831354
 https://hamal.co.il/main/לצה״ל-יש-ה-264129
 https://news.walla.co.il/break/3831359
+https://hamal.co.il/main/שריפה-פרצה-במבנה-בית-אבות-בעכו-כל-הדיירים-פונו-ואין-נפגעים-264132
+https://hamal.co.il/main/מטען-חבלה-הוצמד-לדלת-דירה-ברג-השכנים-חשבו-שזה-טיל-264135
