@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3830604
-https://news.walla.co.il/item/3830601
+COUNTER:8
 https://hamal.co.il/main/צהל-חיסל-מחבלי-חמאס-להסרת-איום-מיידי-על-הכוחות-263522
 https://hamal.co.il/main/רוקחת-מזהירה-7-תרופות-נפוצות-שאסור-לקחת-בסמיכות-לקפה-263430
 https://news.walla.co.il/break/3830611
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בפעם-השלישית-ברציפות-האופוזיצ
 https://hamal.co.il/main/נשיא-סוריה-השיחות-עם-ישראל-לא-במבוי-סתום-אך-היא-פועלת-באכ-264143
 https://hamal.co.il/main/מושיק-טימור-מוותיקי-שדרני-הרדיו-בישראל-הלך-לעולמו-בגיל-89-264145
 https://news.walla.co.il/break/3831377
+https://news.walla.co.il/item/3831381
+https://hamal.co.il/main/ילה-של-אש-באוקראינה-בתי-משפחות-יהודיות-נפגעו-בגל-תקיפות-קטל-264151
