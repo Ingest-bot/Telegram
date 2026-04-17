@@ -1,6 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3830648
-https://news.walla.co.il/break/3830647
+COUNTER:26
 https://hamal.co.il/main/טראמפ-״ייתכן-ויחודשו-שיחות-פקיסטן-בימים-הקרובים-263602
 https://hamal.co.il/main/כוחותינו-השמידו-ארבעה-תוואים-תת-קרקעיים-ברצועת-עזה-263609
 https://hamal.co.il/main/צבא-ארהב-אף-ספינה-לא-חדרה-6-כלי-שיט-צייתו-והסתובבו-לאחור-263615
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831405
 https://hamal.co.il/main/שר-החוץ-האיראני-מכריז-מיצר-הורמוז-פתוח-לחלוטין-264184
 https://news.walla.co.il/break/3831407
 https://news.walla.co.il/item/3831405
+https://news.walla.co.il/break/3831406
+https://hamal.co.il/main/לאחר-ההכרזה-האיראנית-מחירי-הנפט-צנחו-בכ-10-264186
