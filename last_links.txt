@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3830592
-https://hamal.co.il/main/תיעוד-ממצלמת-גוף-של-לוחם-בדרום-לבנון-263504
-https://hamal.co.il/main/״זיכרון-בסלון״-התקיים-בבסיס-נבטים-263506
+COUNTER:4
 https://news.walla.co.il/break/3830595
 https://news.walla.co.il/break/3830596
 https://news.walla.co.il/break/3830599
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לצה״ל-יש-ה-264129
 https://news.walla.co.il/break/3831359
 https://hamal.co.il/main/שריפה-פרצה-במבנה-בית-אבות-בעכו-כל-הדיירים-פונו-ואין-נפגעים-264132
 https://hamal.co.il/main/מטען-חבלה-הוצמד-לדלת-דירה-ברג-השכנים-חשבו-שזה-טיל-264135
+https://news.walla.co.il/item/3831365
+https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
+https://hamal.co.il/main/איו״ש-מעל-ל-70-מבוקשים-נעצרו-100-אש״ח-הוחרמו-264140
