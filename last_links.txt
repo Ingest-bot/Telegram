@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3830633
-https://news.walla.co.il/break/3830637
+COUNTER:20
 https://news.walla.co.il/break/3830640
 https://news.walla.co.il/item/3830607
 https://hamal.co.il/main/דיווח-ראשוני-על-מספר-זירות-נפילה-בנהריה-לא-ידוע-על-נפגעים-263571
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-צפויה-פגישה-בין-ארה״ב-לא
 https://news.walla.co.il/item/3831400
 https://hamal.co.il/main/דיווח-חשד-לאירוע-ביטחוני-סמוך-לשגרירות-ישראל-האבטחה-תוגברה-264174
 https://hamal.co.il/main/נשיא-לבנון-״הצבא-הלבנוני-ימלא-תפקיד-מרכזי-לאחר-נסיגת-ישראל״-264175
+https://news.walla.co.il/break/3831404
+https://hamal.co.il/main/יש-עוד-מדליה-תמנע-נלסון-לוי-בגמר-אליפות-אירופה-264170
