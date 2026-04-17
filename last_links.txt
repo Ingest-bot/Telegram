@@ -1,6 +1,4 @@
 COUNTER:38
-https://hamal.co.il/main/אזעקות-בגליל-המערבי-263640
-https://hamal.co.il/main/שלושה-מחבלי-חיזבאללה-נכנעו-ללוחמינו-במהלך-קרב-בבינת-ג׳בייל-263643
 https://news.walla.co.il/break/3830670
 https://news.walla.co.il/item/3830655
 https://hamal.co.il/main/טקס-חילופי-מפקד-חיל-האוויר-263644
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מזג-האוויר-משתגע-ברד-בגולן-ובב
 https://hamal.co.il/main/דני-אבדיה-אכזרי-בחרתי-בו-לחמישייה-השלישית-של-העונה-264214
 https://hamal.co.il/main/ילד-בן-12-התהפך-מטרקטורון-סמוך-לזרזיר-מצבו-אנוש-264217
 https://hamal.co.il/main/תאונת-דרכים-סמוך-לטייבה-2-פצועים-פונו-לביהח-במצב-אנוש-וקשה-264218
+https://news.walla.co.il/break/3831441
+https://news.walla.co.il/item/3831438
