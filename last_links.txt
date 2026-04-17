@@ -1,5 +1,4 @@
 COUNTER:0
-https://news.walla.co.il/item/3830584
 https://hamal.co.il/main/שניים-נעצרו-בחשד-לניסיון-רצח-של-ראש-עיריית-עראבה-וסגנו-263497
 https://news.walla.co.il/break/3830590
 https://news.walla.co.il/break/3830592
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הפסקת-האש-נכנסה-לתוקפה---אבל-למ
 https://news.walla.co.il/break/3831349
 https://news.walla.co.il/item/3831354
 https://hamal.co.il/main/לצה״ל-יש-ה-264129
+https://news.walla.co.il/break/3831359
