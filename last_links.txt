@@ -1,5 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3830595
 https://news.walla.co.il/break/3830596
 https://news.walla.co.il/break/3830599
 https://news.walla.co.il/item/3830598
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מטען-חבלה-הוצמד-לדלת-דירה-ברג-�
 https://news.walla.co.il/item/3831365
 https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
 https://hamal.co.il/main/איו״ש-מעל-ל-70-מבוקשים-נעצרו-100-אש״ח-הוחרמו-264140
+https://news.walla.co.il/item/3831367
