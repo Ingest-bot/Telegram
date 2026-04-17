@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3830677
-https://news.walla.co.il/break/3830679
-https://news.walla.co.il/break/3830680
-https://news.walla.co.il/item/3830658
+COUNTER:7
 https://hamal.co.il/main/ביום-השואה-חבר-פרלמנט-פולני-הניף-את-דגל-ישראל-עם-צלב-קרס-263652
 https://hamal.co.il/main/לפני-כשעתיים-אישה-נצעה-קשה-מנפילה-באזור-ירושלים-263653
 https://hamal.co.il/main/זוג-ניצולי-השואה-הגיעו-למרכזו-של-אל״ם-ר׳-במל״י-263658
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831450
 https://hamal.co.il/main/טראמפ-איראן-הסכימה-להכל---כולל-הוצאת-האורניום-264237
 https://news.walla.co.il/break/3831451
 https://hamal.co.il/main/הצצה-נדירה-אל-העיירה-הסודית-של-עשירי-ארהב-שנמחקה-מגוגל-264161
+https://news.walla.co.il/break/3831459
+https://news.walla.co.il/break/3831460
+https://hamal.co.il/main/טראמפ-אני-לא-חושב-שיש-יותר-מדי-פערים-משמעותיים-עם-איראן-264241
+https://hamal.co.il/main/רעשי-פיצוצים-וארטילריה-במרחב-צפון-העוטף-בעקבות-פעילות-צהל-264242
