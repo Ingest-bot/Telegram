@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3830596
-https://news.walla.co.il/break/3830599
-https://news.walla.co.il/item/3830598
+COUNTER:5
 https://news.walla.co.il/item/3830592
 https://hamal.co.il/main/דיווח-איראן-שוקלת-לעצור-זמנית-את-השיט-במצר-הורמוז-263515
 https://news.walla.co.il/break/3830602
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831365
 https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
 https://hamal.co.il/main/איו״ש-מעל-ל-70-מבוקשים-נעצרו-100-אש״ח-הוחרמו-264140
 https://news.walla.co.il/item/3831367
+https://news.walla.co.il/break/3831369
+https://news.walla.co.il/item/3831373
+https://hamal.co.il/main/בפעם-השלישית-ברציפות-האופוזיציה-עם-רוב-של-61-מנדטים--סקר-264142
