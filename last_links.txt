@@ -1,5 +1,4 @@
 COUNTER:39
-https://hamal.co.il/main/התקרית-בלבנון-מחבלים-יצאו-ממנהרות-חילופי-אש-התפתחו-במקום-263496
 https://news.walla.co.il/item/3830579
 https://news.walla.co.il/item/3830582
 https://news.walla.co.il/item/3830584
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831338
 https://hamal.co.il/main/שרב-סופות-חול-וחשש-לשיטפונות-מהפך-במזג-האוויר-264128
 https://news.walla.co.il/item/3831345
 https://hamal.co.il/main/הפסקת-האש-נכנסה-לתוקפה---אבל-למערכת-הביטחון-יש-עדיין-אתגר-בז-264131
+https://news.walla.co.il/break/3831349
