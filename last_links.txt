@@ -1,5 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/ציון-ברוך-השאיפה-של-העולם-תמיד-הייתה-לחסל-את-העם-היהודי-263518
+COUNTER:3
 https://news.walla.co.il/break/3830674
 https://hamal.co.il/main/שגריר-ישראל-בארהב-״היה-זה-ניצחון-לשפיות-ולשלום״-263647
 https://news.walla.co.il/break/3830675
@@ -499,3 +498,4 @@ https://hamal.co.il/main/שריפה-בבית-בירושלים-בת-70-במצב-�
 https://hamal.co.il/main/אלוהים-ישמור-זה-יהיה-כיף-האיש-שינסה-לעצור-את-דני-אבדיה-264233
 https://hamal.co.il/main/נקבע-מותו-של-הנער-שהתהפך-מטרקטורון-בגליל-264235
 https://news.walla.co.il/break/3831445
+https://hamal.co.il/main/הגחלים-לוחשות-בנט-איזנקוט-ולפיד-על-סף-פיצוץ-264228
