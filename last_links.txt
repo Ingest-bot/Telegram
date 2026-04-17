@@ -1,6 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3830670
-https://news.walla.co.il/item/3830655
+COUNTER:0
 https://hamal.co.il/main/טקס-חילופי-מפקד-חיל-האוויר-263644
 https://news.walla.co.il/break/3830671
 https://hamal.co.il/main/בגין-חובות-כבדים-בקשה-למעצר-של-כוכב-הפוסקאס-אשר-בן-עוז-263485
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ילד-בן-12-התהפך-מטרקטורון-סמוך-�
 https://hamal.co.il/main/תאונת-דרכים-סמוך-לטייבה-2-פצועים-פונו-לביהח-במצב-אנוש-וקשה-264218
 https://news.walla.co.il/break/3831441
 https://news.walla.co.il/item/3831438
+https://hamal.co.il/main/בחצות-מבצע-הכוחות-המיוחדים-של-צהל-רגע-לפני-הפסקת-האש-264221
+https://hamal.co.il/main/שריפה-בבית-בירושלים-בת-70-במצב-קשה-לאחר-ששאפה-עשן-רב-264223
