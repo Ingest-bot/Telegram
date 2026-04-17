@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3830674
-https://hamal.co.il/main/שגריר-ישראל-בארהב-״היה-זה-ניצחון-לשפיות-ולשלום״-263647
+COUNTER:4
 https://news.walla.co.il/break/3830675
 https://hamal.co.il/main/שגריר-ישראל-לשעבר-באיטליה-לאיטליה-יש-הרבה-יותר-מה-להפסיד-263620
 https://news.walla.co.il/break/3830677
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אלוהים-ישמור-זה-יהיה-כיף-האיש-�
 https://hamal.co.il/main/נקבע-מותו-של-הנער-שהתהפך-מטרקטורון-בגליל-264235
 https://news.walla.co.il/break/3831445
 https://hamal.co.il/main/הגחלים-לוחשות-בנט-איזנקוט-ולפיד-על-סף-פיצוץ-264228
+https://news.walla.co.il/item/3831450
+https://hamal.co.il/main/טראמפ-איראן-הסכימה-להכל---כולל-הוצאת-האורניום-264237
