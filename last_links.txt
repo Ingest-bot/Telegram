@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3830675
-https://hamal.co.il/main/שגריר-ישראל-לשעבר-באיטליה-לאיטליה-יש-הרבה-יותר-מה-להפסיד-263620
+COUNTER:5
 https://news.walla.co.il/break/3830677
 https://news.walla.co.il/break/3830679
 https://news.walla.co.il/break/3830680
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831445
 https://hamal.co.il/main/הגחלים-לוחשות-בנט-איזנקוט-ולפיד-על-סף-פיצוץ-264228
 https://news.walla.co.il/item/3831450
 https://hamal.co.il/main/טראמפ-איראן-הסכימה-להכל---כולל-הוצאת-האורניום-264237
+https://news.walla.co.il/break/3831451
+https://hamal.co.il/main/הצצה-נדירה-אל-העיירה-הסודית-של-עשירי-ארהב-שנמחקה-מגוגל-264161
