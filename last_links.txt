@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3830626
-https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בנהריה-והסביבה-263560
-https://news.walla.co.il/break/3830631
+COUNTER:19
 https://news.walla.co.il/break/3830633
 https://news.walla.co.il/break/3830637
 https://news.walla.co.il/break/3830640
@@ -499,3 +496,6 @@ https://hamal.co.il/main/השר-כ״ץ-״צה״ל-ימשיך-לאחוז-בכל-�
 https://news.walla.co.il/break/3831396
 https://hamal.co.il/main/פרוטקשן-לטהרן-וקריצה-לוושינגטון-כך-קטאר-קנתה-את-השקט-שלה-264168
 https://hamal.co.il/main/דיווח-צפויה-פגישה-בין-ארה״ב-לאיראן-שעשויה-להסתיים-264172
+https://news.walla.co.il/item/3831400
+https://hamal.co.il/main/דיווח-חשד-לאירוע-ביטחוני-סמוך-לשגרירות-ישראל-האבטחה-תוגברה-264174
+https://hamal.co.il/main/נשיא-לבנון-״הצבא-הלבנוני-ימלא-תפקיד-מרכזי-לאחר-נסיגת-ישראל״-264175
