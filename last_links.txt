@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/טראמפ-״ייתכן-ויחודשו-שיחות-פקיסטן-בימים-הקרובים-263602
-https://hamal.co.il/main/כוחותינו-השמידו-ארבעה-תוואים-תת-קרקעיים-ברצועת-עזה-263609
-https://hamal.co.il/main/צבא-ארהב-אף-ספינה-לא-חדרה-6-כלי-שיט-צייתו-והסתובבו-לאחור-263615
+COUNTER:28
 https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-263621
 https://news.walla.co.il/break/3830649
 https://news.walla.co.il/break/3830653
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831407
 https://news.walla.co.il/item/3831405
 https://news.walla.co.il/break/3831406
 https://hamal.co.il/main/לאחר-ההכרזה-האיראנית-מחירי-הנפט-צנחו-בכ-10-264186
+https://news.walla.co.il/item/3831411
+https://hamal.co.il/main/טראמפ-המצור-הימי-יישאר-בתוקף-בנוגע-לאיראן-בלבד-264189
+https://hamal.co.il/main/ברד-ברמת-הגולן-264190
