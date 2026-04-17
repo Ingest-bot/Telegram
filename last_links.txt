@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-263526
-https://news.walla.co.il/break/3830618
+COUNTER:12
 https://news.walla.co.il/break/3830619
 https://hamal.co.il/main/משרד-הבריאות-הסרת-אזהרת-הרחצה-בחוף-מי-עמי-באשדוד-263528
 https://hamal.co.il/main/כוחותינו-חיסלו-את-חוליית-המחבלים-שפצעה-הלילה-10-לוחמים-263531
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831385
 https://news.walla.co.il/item/3831384
 https://hamal.co.il/main/שקלו-מחדש-את-הטיול-בסופש-אזהרת-זיהום-אוויר-חריג-בכל-הארץ-264153
 https://hamal.co.il/main/לכבוד-יום-העצמאות-ה-78-טקס-הענקת-דרגות-264155
+https://hamal.co.il/main/הרפורמה-החדשה-של-יריב-לוין---והמסר-לוועדה-למינוי-שופטים-264157
+https://hamal.co.il/main/סמח״ט-55-הזניק-את-מקצה-ה-10-ק״מ-במרתון-ירושלים-264163
