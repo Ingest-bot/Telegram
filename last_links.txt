@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/צה״ל-השלים-תקיפה-לעבר-תשתיות-של-חיזבאללה-בכפר-עדשית-263631
-https://news.walla.co.il/break/3830664
+COUNTER:35
 https://news.walla.co.il/break/3830662
 https://news.walla.co.il/item/3830661
 https://hamal.co.il/main/מפקד-פיקוד-הצפון-״השלמנו-את-כיתור-המרחב-ופתחנו-בהתקפה-263633
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הסכם-שלום-הסכם-הפקרה-קריית-שמו
 https://news.walla.co.il/break/3831427
 https://news.walla.co.il/break/3831425
 https://hamal.co.il/main/פרח-לניצול-אגף-אכ״א-בביקור-אצל-ניצולי-השואה-264203
+https://news.walla.co.il/break/3831429
+https://hamal.co.il/main/מזג-האוויר-משתגע-ברד-בגולן-ובבאר-שבע-אובך-במרכז-הארץ-264211
