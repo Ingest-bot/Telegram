@@ -1,6 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3830649
-https://news.walla.co.il/break/3830653
+COUNTER:31
 https://news.walla.co.il/item/3830652
 https://hamal.co.il/main/הרמטכל-ומפקד-סנטקום-263627
 https://news.walla.co.il/item/3830630
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3831411
 https://hamal.co.il/main/טראמפ-המצור-הימי-יישאר-בתוקף-בנוגע-לאיראן-בלבד-264189
 https://hamal.co.il/main/ברד-ברמת-הגולן-264190
 https://hamal.co.il/main/מספיק-זה-מספיק-טראמפ-אוסר-על-ישראל-להפציץ-בלבנון--פרטים-264192
+https://hamal.co.il/main/טראמפ-בקצב-מסחרר-איראן-הסכימה-שלעולם-לא-תסגור-את-מצר-הורמוז-264197
+https://hamal.co.il/main/חולון-נהג-רכב-נפצע-בינוני-בתאונה-עם-אוטובוס-264198
