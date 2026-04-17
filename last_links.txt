@@ -1,5 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/item/3830576
 https://news.walla.co.il/item/3830551
 https://hamal.co.il/main/ביום-השואה-בת-לניצולי-שואה-נשדדה-בחדרה--החשוד-נעצר-263491
 https://hamal.co.il/main/בשעה-זו-מצעד-החיים-בין-אושוויץ-לבירקנאו-יוצא-לדרך-263492
@@ -499,3 +498,4 @@ https://hamal.co.il/main/גבר-נפל-מבניין-בנתניה-מצבו-קשה
 https://hamal.co.il/main/טראמפ-המלחמה-באיראן-מתקדמת-היא-תסתיים-בקרוב-264125
 https://hamal.co.il/main/נהג-264126
 https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-לא-נאפשר-תנועה-דרומה-מהליטאני-264127
+https://news.walla.co.il/item/3831336
