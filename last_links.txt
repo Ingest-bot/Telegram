@@ -1,5 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/צהל-מדיניות-ההתגוננות-לעורף---ללא-שינוי-263621
+COUNTER:29
 https://news.walla.co.il/break/3830649
 https://news.walla.co.il/break/3830653
 https://news.walla.co.il/item/3830652
@@ -499,3 +498,4 @@ https://hamal.co.il/main/לאחר-ההכרזה-האיראנית-מחירי-הנ�
 https://news.walla.co.il/item/3831411
 https://hamal.co.il/main/טראמפ-המצור-הימי-יישאר-בתוקף-בנוגע-לאיראן-בלבד-264189
 https://hamal.co.il/main/ברד-ברמת-הגולן-264190
+https://hamal.co.il/main/מספיק-זה-מספיק-טראמפ-אוסר-על-ישראל-להפציץ-בלבנון--פרטים-264192
