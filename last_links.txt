@@ -1,9 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/תיעוד-דרמטי-נהג-משאית-מאבד-שליטה-מתנגש-במעקה-263741
-https://news.walla.co.il/break/3830840
-https://hamal.co.il/main/הותר-לפרסום-העונש-שנגזר-על-קצין-שצילם-חיילות-במקלחות-263747
-https://news.walla.co.il/break/3830851
-https://news.walla.co.il/item/3830845
+COUNTER:38
 https://news.walla.co.il/item/3830848
 https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263752
 https://hamal.co.il/main/אדם-263753
@@ -499,3 +494,8 @@ https://hamal.co.il/main/עם-דגל-ישראל-רוח-השם-גורדון-ני�
 https://news.walla.co.il/break/3831581
 https://news.walla.co.il/break/3831579
 https://hamal.co.il/main/מדליית-זהב-לנבחרת-ישראל-בקרב-רב-בגביע-העולם-בבאקו-264300
+https://news.walla.co.il/break/3831583
+https://news.walla.co.il/break/3831584
+https://news.walla.co.il/item/3831585
+https://hamal.co.il/main/ההסלמה-במצרי-הורמוז-האם-ארהב-נערכת-לחזור-ללחימה-264309
+https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264310
