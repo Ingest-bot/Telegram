@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3830705
-https://news.walla.co.il/break/3830723
-https://news.walla.co.il/item/3830711
+COUNTER:16
 https://hamal.co.il/main/בן-20-נפצע-קשה-בכפר-מנדא-263674
 https://hamal.co.il/main/נשיאת-ונצואלה-קוראת-לארצות-הברית-להוריד-את-הסנקציות-על-המדינ-263675
 https://hamal.co.il/main/המצור-על-נמלי-איראן-יושם-במלואו-263676
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831481
 https://news.walla.co.il/break/3831491
 https://news.walla.co.il/break/3831490
 https://news.walla.co.il/item/3831485
+https://news.walla.co.il/break/3831492
+https://news.walla.co.il/break/3831493
+https://hamal.co.il/main/דובר-משרד-ההגנה-האיראני-המלחמה-לא-הסתיימה-עדיין-264260
