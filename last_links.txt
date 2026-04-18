@@ -1,8 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/המטח-לצפון-חיזבאללה-שיגר-יותר-מעשרים-רקטות-263696
-https://news.walla.co.il/break/3830738
-https://hamal.co.il/main/הירי-בתל-אביב-חשד-שמדובר-בפיגוע---וירה-על-המונית-263697
-https://news.walla.co.il/break/3830743
+COUNTER:23
 https://news.walla.co.il/item/3830748
 https://news.walla.co.il/item/3830749
 https://hamal.co.il/main/דיווח-איראן-מתנה-את-המשך-המומ-בעצירת-התקיפות-בלבנון-263708
@@ -499,3 +495,7 @@ https://hamal.co.il/main/סופת-ברד-חריגה-הכתה-בצפון-הגול
 https://news.walla.co.il/item/3831519
 https://hamal.co.il/main/לבנון-זוהו-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והתקרבו-לקו-הצהו-264274
 https://hamal.co.il/main/דיווח-ראשוני-ירי-בשדרות-בן-גוריון-חיפה-264276
+https://news.walla.co.il/break/3831525
+https://news.walla.co.il/break/3831527
+https://news.walla.co.il/break/3831524
+https://hamal.co.il/main/דיווח-אש-נורתה-לעבר-שתי-ספינות-שניסו-לעבור-בהורמוז-264278
