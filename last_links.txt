@@ -1,8 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3830848
-https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263752
-https://hamal.co.il/main/אדם-263753
-https://hamal.co.il/main/דיווח-ארהב-תשלח-263754
+COUNTER:39
 https://news.walla.co.il/break/3830860
 https://news.walla.co.il/item/3830787
 https://news.walla.co.il/item/3830851
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831584
 https://news.walla.co.il/item/3831585
 https://hamal.co.il/main/ההסלמה-במצרי-הורמוז-האם-ארהב-נערכת-לחזור-ללחימה-264309
 https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264310
+https://news.walla.co.il/break/3831587
+https://news.walla.co.il/break/3831589
+https://news.walla.co.il/item/3831586
+https://hamal.co.il/main/הותר-לפרסום-רסב-ברק-כלפון-נפטר-מפצעיו-264311
