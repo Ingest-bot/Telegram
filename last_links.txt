@@ -1,5 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/break/3830876
 https://news.walla.co.il/break/3830886
 https://news.walla.co.il/item/3830868
 https://hamal.co.il/main/מפתחת-מנועים-לטילי-החץ-מנכל-חדש-מונה-263763
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בזמן-שישראל-נלחמה-כך-הוזרם-כסף
 https://hamal.co.il/main/בסיבוב-הראשון-264315
 https://news.walla.co.il/break/3831601
 https://news.walla.co.il/break/3831604
+https://news.walla.co.il/break/3831606
