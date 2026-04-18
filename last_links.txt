@@ -1,7 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3830807
-https://news.walla.co.il/item/3830801
-https://hamal.co.il/main/הדיון-על-הדחת-בן-גביר-השופטים-טוענים-לפוליטיזציה-של-המשטרה-263733
+COUNTER:31
 https://news.walla.co.il/break/3830809
 https://news.walla.co.il/break/3830811
 https://hamal.co.il/main/השרה-263736
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831555
 https://hamal.co.il/main/המשטרה-הצליחה-לעצור-לפני-זמן-קצר-את-החשוד-בביצוע-הירי-בחיפה-264288
 https://news.walla.co.il/break/3831559
 https://news.walla.co.il/break/3831560
+https://news.walla.co.il/break/3831561
+https://hamal.co.il/main/בשעה-טובה-רביד-פלוטניק-ואשתו-מאי-גריאני-מצפים-לילד-ראשון-264292
+https://hamal.co.il/main/צהל-חיסלנו-מחבלי-חיזבאללה-בדרום-לבנון-264296
