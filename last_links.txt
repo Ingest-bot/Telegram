@@ -1,5 +1,4 @@
 COUNTER:11
-https://news.walla.co.il/break/3830701
 https://hamal.co.il/main/שגריר-רומניה-התנצל-בפני-בני-גנץ-לאחר-חילול-מצבות-בבית-קברות-263667
 https://hamal.co.il/main/דיווח-ראשוני-מכונית-תופת-התפוצצה-בטהרן-ליד-מחסום-בסיג-263669
 https://news.walla.co.il/break/3830711
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-עיראק-מחדשת-את-ייצוא-הנפ
 https://hamal.co.il/main/אינדונזיה-רעידת-אדמה-בעוצמה-53-הכתה-במרכז-המדינה-264252
 https://news.walla.co.il/break/3831473
 https://news.walla.co.il/break/3831474
+https://news.walla.co.il/break/3831475
