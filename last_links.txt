@@ -1,6 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/break/3830755
-https://news.walla.co.il/break/3830759
 https://hamal.co.il/main/איילה-בן-גביר-263718
 https://hamal.co.il/main/הירי-לצפון-בן-61-נפצע-באורח-קל-מנפילות-רסיסים-בטמרה-263719
 https://news.walla.co.il/break/3830771
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831537
 https://news.walla.co.il/break/3831539
 https://news.walla.co.il/break/3831538
 https://hamal.co.il/main/איראן-משתוללת-ספינה-נוספת-הותקפה-בירי-טילים-במצר-הורמוז-264280
+https://news.walla.co.il/break/3831541
+https://news.walla.co.il/break/3831542
