@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/דיווח-263765
-https://hamal.co.il/main/מעומק-השבי-למאהל-הגבורה-איתן-מור-ומשפחת-זמורה-במפגשים-פתוחי-263766
-https://news.walla.co.il/item/3830897
+COUNTER:7
 https://news.walla.co.il/item/3830889
 https://hamal.co.il/main/הותר-לפרסום-זה-המוהל-החשוד-בגרימת-מוות-ברשלנות-של-תינוק-263750
 https://hamal.co.il/main/באיראן-משיבים-לטראמפ-לא-נוותר-על-העשרת-האורניום-263771
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831610
 https://hamal.co.il/main/משרד-המשפטים-האמריקני-יצרף-עוד-שייצג-בעברו-את-טראמפ---לחקיר-264316
 https://hamal.co.il/main/גבר-כבן-25-במצב-קשה-פרמדיקים-במדא-ניתאי-הרפז-אלעד-כהן-וחו-264317
 https://hamal.co.il/main/ברזיל-ספרד-ומקסיקו-מתחייבות-להגביר-את-הסיוע-לקובה-רויטרס-3-264318
+https://news.walla.co.il/break/3831612
+https://news.walla.co.il/item/3831613
+https://hamal.co.il/main/חשד-לפעולת-נקמה-בבנימין-בית-ושני-רכבים-הוצתו-בטורמוס-עיא-א-264319
