@@ -1,5 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/שיבושי-התנועה-בכביש-1-2-נתיבים-נפתחו-עומס-כבד-במקום-263687
+COUNTER:20
 https://news.walla.co.il/break/3830732
 https://news.walla.co.il/break/3830734
 https://news.walla.co.il/break/3830733
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831511
 https://hamal.co.il/main/לאחר-חיסול-המחבל-שחדר-לנגוהות-צהל-פשט-לביתו-264270
 https://news.walla.co.il/break/3831514
 https://news.walla.co.il/item/3831516
+https://hamal.co.il/main/סופת-ברד-חריגה-הכתה-בצפון-הגולן---נזק-כבד-לרכוש-ולחקלאות-264273
