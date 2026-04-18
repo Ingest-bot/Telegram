@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/שאגות-נגד-סגן-נשיא-ארהב-הממשל-תומך-ברצח-עם-בעזה-263670
-https://news.walla.co.il/item/3830713
-https://hamal.co.il/main/סוף-עצוב-אחד-משני-האחים-שטבעו-ביום-שישי-האחרון-בחוף-צאנז-בנ-263671
+COUNTER:15
 https://hamal.co.il/main/טראמפ-לפוקס-ביזנס-״המלחמה-באיראן-הסתיימה-263673
 https://news.walla.co.il/break/3830715
 https://news.walla.co.il/break/3830717
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831475
 https://hamal.co.il/main/מחבל-חמוש-בסכין-חדר-לתוך-היישוב-264253
 https://hamal.co.il/main/2-גברים-נפצעו-באורח-קשה-ובינוני-מדקירות-בנתיבות-264254
 https://hamal.co.il/main/סבב-שיחות-חדש-בין-ארצות-הברית-לאיראן-צפוי-להתחיל-ביום-264255
+https://news.walla.co.il/break/3831480
+https://news.walla.co.il/break/3831479
+https://hamal.co.il/main/בצל-הפסקת-האש---הקרב-על-הקו-הצהוב-בלבנון-264259
