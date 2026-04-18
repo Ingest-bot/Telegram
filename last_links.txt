@@ -1,7 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3830809
-https://news.walla.co.il/break/3830811
-https://hamal.co.il/main/השרה-263736
+COUNTER:32
 https://hamal.co.il/main/טלי-גטליה-רגע-אחרי-שהוצאה-מהדיון-263737
 https://hamal.co.il/main/דיווח-איראן-השתמשה-בלוויין-סיני-כדי-לפגוע-בבסיסים-אמריקניים-263690
 https://news.walla.co.il/item/3830822
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831560
 https://news.walla.co.il/break/3831561
 https://hamal.co.il/main/בשעה-טובה-רביד-פלוטניק-ואשתו-מאי-גריאני-מצפים-לילד-ראשון-264292
 https://hamal.co.il/main/צהל-חיסלנו-מחבלי-חיזבאללה-בדרום-לבנון-264296
+https://news.walla.co.il/break/3831565
+https://news.walla.co.il/break/3831566
+https://hamal.co.il/main/דיווח-ארהב-מתכננת-לפשוט-על-אוניות-נפט-איראניות-264297
