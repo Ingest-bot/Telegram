@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3830732
-https://news.walla.co.il/break/3830734
-https://news.walla.co.il/break/3830733
+COUNTER:22
 https://hamal.co.il/main/המטח-לצפון-חיזבאללה-שיגר-יותר-מעשרים-רקטות-263696
 https://news.walla.co.il/break/3830738
 https://hamal.co.il/main/הירי-בתל-אביב-חשד-שמדובר-בפיגוע---וירה-על-המונית-263697
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לאחר-חיסול-המחבל-שחדר-לנגוהות-
 https://news.walla.co.il/break/3831514
 https://news.walla.co.il/item/3831516
 https://hamal.co.il/main/סופת-ברד-חריגה-הכתה-בצפון-הגולן---נזק-כבד-לרכוש-ולחקלאות-264273
+https://news.walla.co.il/item/3831519
+https://hamal.co.il/main/לבנון-זוהו-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והתקרבו-לקו-הצהו-264274
+https://hamal.co.il/main/דיווח-ראשוני-ירי-בשדרות-בן-גוריון-חיפה-264276
