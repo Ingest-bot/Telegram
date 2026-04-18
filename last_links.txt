@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/מיכליות-בירה-גרמו-לפיצוצים-מסעדה-בפרדס-חנה-נשרפה-263758
-https://news.walla.co.il/break/3830870
-https://hamal.co.il/main/השריפה-בפרדס-חנה-נעצר-חשוד-בהצתת-מסעדה-263759
-https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-263760
+COUNTER:3
 https://hamal.co.il/main/בזמן-המומ-עם-לבנון-263762
 https://news.walla.co.il/break/3830884
 https://news.walla.co.il/break/3830876
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831594
 https://news.walla.co.il/break/3831595
 https://news.walla.co.il/item/3831596
 https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264313
+https://news.walla.co.il/break/3831599
+https://news.walla.co.il/item/3831597
+https://hamal.co.il/main/בזמן-שישראל-נלחמה-כך-הוזרם-כסף-לחמאס-דרך-ציר-חשאי-מטורקיה-264314
+https://hamal.co.il/main/בסיבוב-הראשון-264315
