@@ -1,6 +1,4 @@
 COUNTER:29
-https://hamal.co.il/main/תושבת-נצרת-מואשמת-בריגול-למען-איראן-263728
-https://hamal.co.il/main/סער-אם-263729
 https://news.walla.co.il/item/3830807
 https://news.walla.co.il/item/3830801
 https://hamal.co.il/main/הדיון-על-הדחת-בן-גביר-השופטים-טוענים-לפוליטיזציה-של-המשטרה-263733
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3831550
 https://news.walla.co.il/break/3831554
 https://news.walla.co.il/break/3831555
 https://hamal.co.il/main/המשטרה-הצליחה-לעצור-לפני-זמן-קצר-את-החשוד-בביצוע-הירי-בחיפה-264288
+https://news.walla.co.il/break/3831559
+https://news.walla.co.il/break/3831560
