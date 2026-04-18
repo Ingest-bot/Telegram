@@ -1,8 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/דיווח-איראן-מתנה-את-המשך-המומ-בעצירת-התקיפות-בלבנון-263708
-https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263713
-https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263714
-https://hamal.co.il/main/הירי-מלבנון-דיווח-על-זירת-נפילה-בצפון-263717
+COUNTER:25
 https://news.walla.co.il/break/3830755
 https://news.walla.co.il/break/3830759
 https://hamal.co.il/main/איילה-בן-גביר-263718
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831524
 https://hamal.co.il/main/דיווח-אש-נורתה-לעבר-שתי-ספינות-שניסו-לעבור-בהורמוז-264278
 https://news.walla.co.il/break/3831529
 https://hamal.co.il/main/מקרון-חייל-צרפתי-מכוח-יוניפיל-נהרג-בלבנון---חיזבאללה-אחראי-264279
+https://news.walla.co.il/break/3831537
+https://news.walla.co.il/break/3831539
+https://news.walla.co.il/break/3831538
+https://hamal.co.il/main/איראן-משתוללת-ספינה-נוספת-הותקפה-בירי-טילים-במצר-הורמוז-264280
