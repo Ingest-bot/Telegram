@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-263757
+COUNTER:1
 https://hamal.co.il/main/מיכליות-בירה-גרמו-לפיצוצים-מסעדה-בפרדס-חנה-נשרפה-263758
 https://news.walla.co.il/break/3830870
 https://hamal.co.il/main/השריפה-בפרדס-חנה-נעצר-חשוד-בהצתת-מסעדה-263759
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הכוח-סרק-מבנה-מטען-התפוצץ-על-ה�
 https://news.walla.co.il/break/3831594
 https://news.walla.co.il/break/3831595
 https://news.walla.co.il/item/3831596
+https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264313
