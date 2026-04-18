@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3830779
-https://hamal.co.il/main/בן-גביר-בפתח-הדיון-על-הדחתו-אל-תגררו-את-ישראל-למשבר-חוקתי-263726
-https://hamal.co.il/main/פעיל-המחאה-הצטרף-למפלגה-של-בנט-ישולב-בקדמת-הרשימה-263727
+COUNTER:29
 https://hamal.co.il/main/תושבת-נצרת-מואשמת-בריגול-למען-איראן-263728
 https://hamal.co.il/main/סער-אם-263729
 https://news.walla.co.il/item/3830807
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831547
 https://hamal.co.il/main/איראן-המשך-המצור-האמריקאי-ימנע-את-פתיחת-מצר-הורמוז-264284
 https://hamal.co.il/main/טראמפ-השיחות-הם-איראן-טובות-מאוד-הם-רצו-לסגור-שוב-את-המיצר-264285
 https://news.walla.co.il/item/3831550
+https://news.walla.co.il/break/3831554
+https://news.walla.co.il/break/3831555
+https://hamal.co.il/main/המשטרה-הצליחה-לעצור-לפני-זמן-קצר-את-החשוד-בביצוע-הירי-בחיפה-264288
