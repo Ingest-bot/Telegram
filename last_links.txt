@@ -1,6 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/טלי-גטליה-רגע-אחרי-שהוצאה-מהדיון-263737
-https://hamal.co.il/main/דיווח-איראן-השתמשה-בלוויין-סיני-כדי-לפגוע-בבסיסים-אמריקניים-263690
 https://news.walla.co.il/item/3830822
 https://hamal.co.il/main/ראשוני-נסיון-פיגוע-דקירה-סמוך-ליקיר-בשומרון-מחבל-נוטרל-263738
 https://hamal.co.il/main/150-שתילים-גודלו-מעבדת-קנאביס-נחשפה-ברג-2-חשודים-נעצרו-263739
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-חיסלנו-מחבלי-חיזבאללה-בדר�
 https://news.walla.co.il/break/3831565
 https://news.walla.co.il/break/3831566
 https://hamal.co.il/main/דיווח-ארהב-מתכננת-לפשוט-על-אוניות-נפט-איראניות-264297
+https://news.walla.co.il/break/3831572
+https://news.walla.co.il/break/3831573
