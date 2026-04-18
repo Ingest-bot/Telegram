@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/איילה-בן-גביר-263718
-https://hamal.co.il/main/הירי-לצפון-בן-61-נפצע-באורח-קל-מנפילות-רסיסים-בטמרה-263719
-https://news.walla.co.il/break/3830771
+COUNTER:26
 https://news.walla.co.il/break/3830770
 https://news.walla.co.il/item/3830769
 https://hamal.co.il/main/קרעי-יועמשית-הכנסת-מעלה-בתפקידה-לפטר-אותה-עכשיו-263720
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831538
 https://hamal.co.il/main/איראן-משתוללת-ספינה-נוספת-הותקפה-בירי-טילים-במצר-הורמוז-264280
 https://news.walla.co.il/break/3831541
 https://news.walla.co.il/break/3831542
+https://news.walla.co.il/break/3831544
+https://news.walla.co.il/break/3831543
+https://hamal.co.il/main/כ-40-אלף-מטיילים-פקדו-את-שמורות-הטבע-והגנים-הלאומיים-264283
