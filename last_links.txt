@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3830834
-https://news.walla.co.il/item/3830835
+COUNTER:35
 https://news.walla.co.il/item/3830836
 https://news.walla.co.il/item/3830812
 https://hamal.co.il/main/מונה-מחליף-למגד-שנפצע-בצהל-לא-פוסלים-שנפגע-מירי-דוצ-263740
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831574
 https://news.walla.co.il/item/3831552
 https://hamal.co.il/main/שריפה-בבית-מלון-הרודס-בים-המלח-264304
 https://hamal.co.il/main/חדשות-השבת-264302
+https://news.walla.co.il/item/3831576
+https://hamal.co.il/main/עם-דגל-ישראל-רוח-השם-גורדון-ניצח-ועקץ-את-יריבו-הטורקי-264308
