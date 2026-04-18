@@ -1,5 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3830749
+COUNTER:24
 https://hamal.co.il/main/דיווח-איראן-מתנה-את-המשך-המומ-בעצירת-התקיפות-בלבנון-263708
 https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263713
 https://hamal.co.il/main/מירי-רגב-לא-ידעתי-שלסלאו-חתמה-על-מכתב-האומנים-263714
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831527
 https://news.walla.co.il/break/3831524
 https://hamal.co.il/main/דיווח-אש-נורתה-לעבר-שתי-ספינות-שניסו-לעבור-בהורמוז-264278
 https://news.walla.co.il/break/3831529
+https://hamal.co.il/main/מקרון-חייל-צרפתי-מכוח-יוניפיל-נהרג-בלבנון---חיזבאללה-אחראי-264279
