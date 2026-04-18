@@ -1,7 +1,4 @@
 COUNTER:0
-https://hamal.co.il/main/צהל-תשתית-טרור-סוכלה-ביוש-2-מחבלים-נעצרו--צפו-263756
-https://news.walla.co.il/break/3830863
-https://news.walla.co.il/break/3830867
 https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-263757
 https://hamal.co.il/main/מיכליות-בירה-גרמו-לפיצוצים-מסעדה-בפרדס-חנה-נשרפה-263758
 https://news.walla.co.il/break/3830870
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831590
 https://news.walla.co.il/break/3831592
 https://news.walla.co.il/item/3831593
 https://hamal.co.il/main/הכוח-סרק-מבנה-מטען-התפוצץ-על-הלוחמים--פרטי-התקרית-בלבנון-264312
+https://news.walla.co.il/break/3831594
+https://news.walla.co.il/break/3831595
+https://news.walla.co.il/item/3831596
