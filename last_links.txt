@@ -1,9 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3830770
-https://news.walla.co.il/item/3830769
-https://hamal.co.il/main/קרעי-יועמשית-הכנסת-מעלה-בתפקידה-לפטר-אותה-עכשיו-263720
-https://hamal.co.il/main/דובר-המשטרה-263721
-https://hamal.co.il/main/כביש-1-נפתח-לתנועה-עומסי-תנועה-במקום-263723
+COUNTER:28
 https://news.walla.co.il/break/3830774
 https://news.walla.co.il/break/3830779
 https://hamal.co.il/main/בן-גביר-בפתח-הדיון-על-הדחתו-אל-תגררו-את-ישראל-למשבר-חוקתי-263726
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3831542
 https://news.walla.co.il/break/3831544
 https://news.walla.co.il/break/3831543
 https://hamal.co.il/main/כ-40-אלף-מטיילים-פקדו-את-שמורות-הטבע-והגנים-הלאומיים-264283
+https://news.walla.co.il/break/3831545
+https://news.walla.co.il/break/3831549
+https://news.walla.co.il/item/3831547
+https://hamal.co.il/main/איראן-המשך-המצור-האמריקאי-ימנע-את-פתיחת-מצר-הורמוז-264284
+https://hamal.co.il/main/טראמפ-השיחות-הם-איראן-טובות-מאוד-הם-רצו-לסגור-שוב-את-המיצר-264285
