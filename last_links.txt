@@ -1,5 +1,4 @@
 COUNTER:18
-https://hamal.co.il/main/כביש-1-נחסם-לתנועה-בעקבות-שריפת-משאית-בסמוך-לנווה-אילן-263684
 https://news.walla.co.il/break/3830731
 https://news.walla.co.il/item/3830729
 https://news.walla.co.il/item/3830730
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3831503
 https://hamal.co.il/main/איראן-טוענת-שמצר-הורמוז-נסגר-מחדש-בעקבות-המצור-האמריקני-264266
 https://news.walla.co.il/break/3831506
 https://news.walla.co.il/break/3831509
+https://news.walla.co.il/item/3831510
