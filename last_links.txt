@@ -1,5 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/break/3830898
 https://news.walla.co.il/break/3830901
 https://news.walla.co.il/break/3830899
 https://news.walla.co.il/break/3830900
@@ -499,3 +498,4 @@ https://hamal.co.il/main/חשד-לפעולת-נקמה-בבנימין-בית-וש
 https://news.walla.co.il/break/3831615
 https://news.walla.co.il/item/3831616
 https://hamal.co.il/main/קמלה-האריס-מאשימה-נתניהו-גרר-את-טראמפ-למלחמה-באיראן-עידן-קו-264320
+https://news.walla.co.il/break/3831619
