@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/שגריר-רומניה-התנצל-בפני-בני-גנץ-לאחר-חילול-מצבות-בבית-קברות-263667
-https://hamal.co.il/main/דיווח-ראשוני-מכונית-תופת-התפוצצה-בטהרן-ליד-מחסום-בסיג-263669
-https://news.walla.co.il/break/3830711
+COUNTER:14
 https://hamal.co.il/main/שאגות-נגד-סגן-נשיא-ארהב-הממשל-תומך-ברצח-עם-בעזה-263670
 https://news.walla.co.il/item/3830713
 https://hamal.co.il/main/סוף-עצוב-אחד-משני-האחים-שטבעו-ביום-שישי-האחרון-בחוף-צאנז-בנ-263671
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אינדונזיה-רעידת-אדמה-בעוצמה-53-
 https://news.walla.co.il/break/3831473
 https://news.walla.co.il/break/3831474
 https://news.walla.co.il/break/3831475
+https://hamal.co.il/main/מחבל-חמוש-בסכין-חדר-לתוך-היישוב-264253
+https://hamal.co.il/main/2-גברים-נפצעו-באורח-קשה-ובינוני-מדקירות-בנתיבות-264254
+https://hamal.co.il/main/סבב-שיחות-חדש-בין-ארצות-הברית-לאיראן-צפוי-להתחיל-ביום-264255
