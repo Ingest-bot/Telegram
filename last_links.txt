@@ -1,7 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/נשיאת-ונצואלה-קוראת-לארצות-הברית-להוריד-את-הסנקציות-על-המדינ-263675
-https://hamal.co.il/main/המצור-על-נמלי-איראן-יושם-במלואו-263676
-https://news.walla.co.il/break/3830725
+COUNTER:17
 https://hamal.co.il/main/ארבעה-הרוגים-בתקיפה-אמריקנית-של-כלי-שיט-במזרח-האוקיינוס-השקט-263677
 https://hamal.co.il/main/החום-עולה-כמעט-שרב---ואובך-שייתכן-ויגיע--תחזית-מזג-האוויר-263681
 https://hamal.co.il/main/טראמפ-״איני-שוקל-להאריך-את-הפסקת-האש-לדעתי-לא-יהיה-בכך-צור-263683
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831492
 https://news.walla.co.il/break/3831493
 https://hamal.co.il/main/דובר-משרד-ההגנה-האיראני-המלחמה-לא-הסתיימה-עדיין-264260
 https://news.walla.co.il/item/3831499
+https://news.walla.co.il/break/3831500
+https://news.walla.co.il/break/3831501
+https://hamal.co.il/main/קריית-שמונה-הודיעה-על-צעדי-מחאה-נגד-הפסקת-האש-בלבנון-264263
