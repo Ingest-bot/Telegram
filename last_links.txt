@@ -1,9 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263751
-https://hamal.co.il/main/מכת-דבורים-בנתיבות-עסקים-סגרו-את-263800
-https://news.walla.co.il/break/3830944
-https://news.walla.co.il/item/3830942
-https://news.walla.co.il/break/3830947
+COUNTER:26
 https://news.walla.co.il/item/3830950
 https://hamal.co.il/main/לוחמי-מגב-הדליקו-מנגל-בבסיס---ונשלחו-לכלא-263803
 https://hamal.co.il/main/הרמטכ״ל-בלבנון-״אישרנו-תוכניות-להמשך--גם-בלבנון-וגם-באיראן״-263804
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3831660
 https://hamal.co.il/main/צינון-אלרגיה-או-אסתמה-רופאה-מומחית-מסבירה-איך-לזהות-264332
 https://hamal.co.il/main/לאחר-יותר-מ-50-יום-264335
 https://hamal.co.il/main/לא-לוויין-א-כטבם-כוכבת-העל-נדהמה-ממה-שליווה-את-הטיסה-שלה-263695
+https://news.walla.co.il/item/3831671
+https://hamal.co.il/main/כשנודע-לי-על-מותו-נגמרו-לי-המילים-264336
+https://hamal.co.il/main/המומחה-לאיראן-מסביר-כך-ניתן-היה-להפיל-את-משטר-האייתולות-264338
+https://hamal.co.il/main/גבר-נחטף-לדירת-מסתור-בדרום-בשל-חובות-כספיים-11-חשודים-נעצרו-264339
+https://hamal.co.il/main/פרשת-המוהל-החשוד-264340
