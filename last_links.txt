@@ -1,9 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3831089
-https://news.walla.co.il/item/3831085
-https://hamal.co.il/main/ספינות-חיל-הים-מיירטות-כטב״מים-שמשוגרים-לישראל-מלבנון-263906
-https://hamal.co.il/main/הגברת-ממדאני-מתנצלת-על-הציוצים-האנטישמיים-הייתי-בת-15-263912
-https://news.walla.co.il/break/3831090
+COUNTER:1
 https://hamal.co.il/main/תפוחים-או-תפוזים-מה-יותר-טוב-לאיזון-רמות-הסוכר-בדם-263919
 https://hamal.co.il/main/דירה-במרכז-ת״א-נחשפה-כבית-בושת-263920
 https://news.walla.co.il/break/3831107
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חובות-העתק-של-ישראל-נחשפים-סוג
 https://hamal.co.il/main/מעמד-ההצדעה-לנופלי-מערכות-ישראל-והנחת-דגל-הלאום-על-קברי-החלל-264406
 https://hamal.co.il/main/יותר-מ-250-מחבלים-חוסלו-ויותר-מ-1000-פרטי-אמצעי-לחימה-אותרו-264407
 https://hamal.co.il/main/גסטין-ביבר-העלה-את-בילי-אייליש-לבמה---והיא-קרסה-מרוב-התרגשו-264408
+https://news.walla.co.il/break/3831870
+https://news.walla.co.il/break/3831875
+https://news.walla.co.il/item/3831869
+https://hamal.co.il/main/לראשונה-קו-תעופה-ישיר-בין-ישראל-לארגנטינה-במעמד-ראש-הממשלה-264409
+https://hamal.co.il/main/לקראת-יום-העצמאות-ה-78-של-מדינת-ישראל-כך-צה״ל-נערך-לטקס-הדל-264410
