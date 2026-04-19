@@ -1,6 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3830988
-https://news.walla.co.il/item/3830983
+COUNTER:1
 https://news.walla.co.il/item/3830987
 https://hamal.co.il/main/ילד-לבנוני-נשאל-על-מילה-שמתחילה-בא׳---והשיב-״אביחי״-263837
 https://news.walla.co.il/break/3830989
@@ -499,3 +497,5 @@ https://hamal.co.il/main/-חכ-הלוי-נאבק-למען-חייל-264364
 https://hamal.co.il/main/צל-ענק-במים-היצור-הנדיר-שהפתיע-את-מפרץ-אילת--צפו-264361
 https://hamal.co.il/main/פועל-שנפגע-מטרקטור-באתר-בנייה-סמוך-לקריית-גת-מצבו-קשה-264365
 https://hamal.co.il/main/אמן-חושף-כך-ניסה-צהל-לערער-את-המשטר-האיראני---וזה-מה-שעצר-264341
+https://news.walla.co.il/item/3831746
+https://hamal.co.il/main/צפו-264366
