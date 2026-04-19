@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/ארהב-הסנאט-לא-חסם-את-מכירת-הנשק-לישראל-עידן-קוולר-הסנאט-263872
-https://hamal.co.il/main/אוקראינה-טילים-מרוסיה-נפלו-בקייב-וגרמו-לשריפות-ילד-נפצע-רו-263873
-https://news.walla.co.il/break/3831024
-https://news.walla.co.il/break/3831026
-https://news.walla.co.il/item/3831026
+COUNTER:20
 https://news.walla.co.il/break/3831030
 https://news.walla.co.il/break/3831031
 https://news.walla.co.il/break/3831035
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3831795
 https://news.walla.co.il/item/3831781
 https://hamal.co.il/main/טראמפ-איראן-ביצעה-הפרה-חמורה-של-הפסקת-האש-264387
 https://hamal.co.il/main/2-גברים-נורו-בחדרה-264388
+https://news.walla.co.il/break/3831805
+https://news.walla.co.il/break/3831806
+https://news.walla.co.il/item/3831808
+https://hamal.co.il/main/אל-תדבר-על-ילדים-עימות-264389
+https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפציץ-את-כל-המדינה-264390
