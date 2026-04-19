@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/בכיר-ישראלי-טוען-״לא-התקבלה-אף-החלטה-על-הפסקת-אש״-263790
-https://news.walla.co.il/item/3830932
+COUNTER:19
 https://news.walla.co.il/item/3830933
 https://hamal.co.il/main/לקראת-סבב-שני-של-שיחות-משלחת-פקיסטנית-בדרכה-לאיראן-263791
 https://hamal.co.il/main/ינון-מגל-263799
@@ -499,3 +497,5 @@ https://hamal.co.il/main/לראשונה-בישראל-היפופוטם-ננסי-�
 https://news.walla.co.il/item/3831639
 https://hamal.co.il/main/נפתח-את-שערי-הגיהינום-סחטו-בעל-עסק-בצפון---וירו-על-ביתו-264329
 https://hamal.co.il/main/בגלל-סכסוך-כספי-264330
+https://news.walla.co.il/break/3831641
+https://hamal.co.il/main/צרחות-על-היועצים-264331
