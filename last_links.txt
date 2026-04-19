@@ -1,6 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/״אתה-רשאי-תיעוד-שיתוף-הפעולה-בין-חיל-האוויר-ללוחמים-בלבנו-263779
-https://news.walla.co.il/break/3830923
 https://news.walla.co.il/break/3830926
 https://hamal.co.il/main/מבקר-המדינה-נגד-מירי-רגב-ליקויים-רבים-בטיפול-בתעופה-בעת-חי-263784
 https://hamal.co.il/main/4-הרוגים-ו-20-פצועים-במסע-ירי-חריג-בתיכון-בטורקיה-263783
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831628
 https://hamal.co.il/main/רסל-מיל-לידור-פורת-נפל-בקרב-בדרום-לבנון-264325
 https://news.walla.co.il/item/3831631
 https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-וקר-מהרגיל-ינשבו-264326
+https://news.walla.co.il/break/3831632
+https://news.walla.co.il/break/3831633
