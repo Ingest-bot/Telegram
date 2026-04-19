@@ -1,8 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3830959
-https://hamal.co.il/main/ראשי-רשויות-בצפון-קיימת-התרעה-למטחי-ירי-מלבנון---בטווח-זמן-263819
-https://hamal.co.il/main/הערכה-בישראל-ארה״ב-ואיראן-יאריכו-את-הפסקת-האש-263820
-https://news.walla.co.il/break/3830963
+COUNTER:32
 https://news.walla.co.il/break/3830962
 https://hamal.co.il/main/״סימן-לשפע״-דבוראי-מסביר-את-מכת-הדבורים-בנתיבות-263822
 https://news.walla.co.il/break/3830966
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3831700
 https://news.walla.co.il/break/3831701
 https://news.walla.co.il/item/3831695
 https://hamal.co.il/main/תיעוד-דרמטי-גולש-נסחף-במים-סוערים---וחולץ-מחוף-הים-בהרצליה-264346
+https://news.walla.co.il/item/3831704
+https://hamal.co.il/main/חג-שמח-ובטוח-כך-תשמרו-על-ילדיכם-ביום-העצמאות-264352
+https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-264344
+https://hamal.co.il/main/בהתאם-למדיניות-השר-סוכל-אירוע-בחירות-של-הסהר-האדום-264353
