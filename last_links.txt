@@ -1,5 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3831030
+COUNTER:21
 https://news.walla.co.il/break/3831031
 https://news.walla.co.il/break/3831035
 https://news.walla.co.il/item/3831033
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831806
 https://news.walla.co.il/item/3831808
 https://hamal.co.il/main/אל-תדבר-על-ילדים-עימות-264389
 https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפציץ-את-כל-המדינה-264390
+https://hamal.co.il/main/רופאה-מסבירה-מתי-כאב-הגב-מסמן-שיש-בעיה-רצינית-264381
