@@ -1,6 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3830911
-https://news.walla.co.il/break/3830917
+COUNTER:13
 https://news.walla.co.il/item/3830783
 https://hamal.co.il/main/שיא-של-30-שנה-הדולר-צונח-מתחת-ל-3-שקל-263781
 https://hamal.co.il/main/״אתה-רשאי-תיעוד-שיתוף-הפעולה-בין-חיל-האוויר-ללוחמים-בלבנו-263779
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מזכל-האום-גינה-את-התקיפה-בלבנו
 https://hamal.co.il/main/בכיר-איראני-יש-התקדמות-במגעים-עם-ארהב---אך-הפערים-עדיין-גד-264322
 https://hamal.co.il/main/דיווח-צפון-קוריאה-שיגרה-כמה-טילים-בליסטיים-לעבר-הים-מערכת-ו-264323
 https://hamal.co.il/main/טראמפ-ישראל-הוכיחה-שהיא-בעלת-ברית-נהדרת-של-ארהב-עידן-קוו-264324
+https://news.walla.co.il/break/3831628
+https://hamal.co.il/main/רסל-מיל-לידור-פורת-נפל-בקרב-בדרום-לבנון-264325
