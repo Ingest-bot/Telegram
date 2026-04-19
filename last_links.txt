@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3831131
-https://hamal.co.il/main/חלקי-טיל-מ״שאגת-הארי״-אותר-על-גג-מבנה-באיכילוב-263932
-https://hamal.co.il/main/70-תשתיות-של-חיזבאללה-הושמדו-בדקה-263933
-https://news.walla.co.il/break/3831141
+COUNTER:11
 https://news.walla.co.il/break/3831136
 https://news.walla.co.il/item/3831137
 https://hamal.co.il/main/המלחמה-רק-מתחילה-התחזית-החדשה-והמטרידה-של-נוסטרדמוס-הסיני-263917
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נתניהו-ונשיא-ארגנטינה-חאבייר-�
 https://hamal.co.il/main/--264418
 https://hamal.co.il/main/פיקוד-הצפון-בפיקודו-של-האלוף-רפי-מילוא-חשף-היום-את-הפעילות-ש-264419
 https://hamal.co.il/main/מח״ט-הנח״ל-אל״מ-אריק-מויאל-סיפר-בראיון-מדרום-לבנון-״אנחנו-נ-264420
+https://news.walla.co.il/break/3831885
+https://hamal.co.il/main/לבנון-דיווח-על-יוזמה-בארהב-להסדרת-סיוע-קבוע-לצבא-ולמוסדות-264421
+https://hamal.co.il/main/איראן-סוכנות-הידיעות-הרשמית-מדווחת-על-סירוב-להשתתף-בשיחות-ע-264422
+https://hamal.co.il/main/חייל-תועד-מנתץ-פסל-של-ישו-בכפר-בדרום-לבנון-צהל-יחקור-אמיר-264423
