@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/חשד-להרעלת-מזון-ב-2-מעונות-במרכז-15-פעוטות-ותינוקות-נפגעו-263880
-https://news.walla.co.il/break/3831042
-https://hamal.co.il/main/גבר-בן-20-נפצע-באורח-בינוני-בשל-תאונת-דרכים-בסמוך-למחלף-נחשו-263881
+COUNTER:27
 https://news.walla.co.il/break/3831043
 https://news.walla.co.il/item/3831049
 https://news.walla.co.il/item/3831019
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831825
 https://hamal.co.il/main/אזרח-איתר-גופה-צפה-במים-מול-חופי-הרצליה-נבדק-קשר-לנער-שטבע-264392
 https://hamal.co.il/main/לוחמי-האש-חילצו-אדם-ללא-רוח-חיים-מתאונת-דרכים-בכביש-57-סמוך-264393
 https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפוצץ-את-המדינה-עידן-ק-264395
+https://news.walla.co.il/item/3831828
+https://hamal.co.il/main/ספורטאית-על-רז-הרשקו-שוב-אלופת-אירופה-יניב-טוכמן-עודכן-לאח-264396
+https://hamal.co.il/main/סופש-של-סיכול-אמצעי-לחימה-מסוכנים-נתפסו-בגזרת-ואדי-ערה-במר-264394
