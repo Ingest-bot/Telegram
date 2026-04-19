@@ -1,9 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3830990
-https://news.walla.co.il/break/3830991
-https://hamal.co.il/main/לוחם-צה״ל-נפצע-באורח-קשה-וארבעה-נפצעו-קל-בדרום-לבנון-263842
-https://hamal.co.il/main/יועצו-של-נתניהו-עופר-גולן-סיים-את-תפקידו-263843
-https://hamal.co.il/main/שי-לי-עופרי-ושניר-בורגיל-נפגשו-בביהמש---ושניהם-יצאו-מרוצים-263845
+COUNTER:6
 https://news.walla.co.il/break/3830995
 https://news.walla.co.il/item/3830993
 https://hamal.co.il/main/חשד-לרצח-בכפר-קאסם-חשודים-הציתו-רכב-עם-263846
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צפו-264366
 https://news.walla.co.il/item/3831754
 https://hamal.co.il/main/למוח-ללב-ונגד-סרטן-המחקר-שמוכיח-שהאבקה-הזו-היא-יותר-מרק-ת-264358
 https://hamal.co.il/main/בפעם-החמישית-רז-הרשקו-עלתה-לגמר-אליפות-אירופה-264373
+https://news.walla.co.il/break/3831755
+https://news.walla.co.il/item/3831761
+https://hamal.co.il/main/צרכו-יחד-סמים-אישום-הוגש-נגד-הצעיר-ש-264374
+https://hamal.co.il/main/נתניהו-נפגש-עם-משיאי-המשואות-העם-הזה-קם-כלביא-ונלחם-כארי״-264369
+https://hamal.co.il/main/הלמס-חושף-ערב-יום-העצמאות-264376
