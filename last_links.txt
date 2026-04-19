@@ -1,6 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3830783
-https://hamal.co.il/main/שיא-של-30-שנה-הדולר-צונח-מתחת-ל-3-שקל-263781
+COUNTER:14
 https://hamal.co.il/main/״אתה-רשאי-תיעוד-שיתוף-הפעולה-בין-חיל-האוויר-ללוחמים-בלבנו-263779
 https://news.walla.co.il/break/3830923
 https://news.walla.co.il/break/3830926
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-צפון-קוריאה-שיגרה-כמה-טי
 https://hamal.co.il/main/טראמפ-ישראל-הוכיחה-שהיא-בעלת-ברית-נהדרת-של-ארהב-עידן-קוו-264324
 https://news.walla.co.il/break/3831628
 https://hamal.co.il/main/רסל-מיל-לידור-פורת-נפל-בקרב-בדרום-לבנון-264325
+https://news.walla.co.il/item/3831631
+https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-וקר-מהרגיל-ינשבו-264326
