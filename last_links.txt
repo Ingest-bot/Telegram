@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3830933
-https://hamal.co.il/main/לקראת-סבב-שני-של-שיחות-משלחת-פקיסטנית-בדרכה-לאיראן-263791
+COUNTER:20
 https://hamal.co.il/main/ינון-מגל-263799
 https://news.walla.co.il/item/3830938
 https://hamal.co.il/main/נלחמים-בעייפות-7-מאכלים-שמכילים-הכי-הרבה-ויטמין-B12-263751
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נפתח-את-שערי-הגיהינום-סחטו-בעל
 https://hamal.co.il/main/בגלל-סכסוך-כספי-264330
 https://news.walla.co.il/break/3831641
 https://hamal.co.il/main/צרחות-על-היועצים-264331
+https://news.walla.co.il/break/3831660
+https://hamal.co.il/main/צינון-אלרגיה-או-אסתמה-רופאה-מומחית-מסבירה-איך-לזהות-264332
