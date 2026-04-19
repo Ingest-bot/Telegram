@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3831156
-https://news.walla.co.il/break/3831151
+COUNTER:17
 https://news.walla.co.il/break/3831154
 https://hamal.co.il/main/צפו-מומו-הצב-של-הספארי-מצא-לעצמו-דרך-להתקרר-מהחום-263936
 https://hamal.co.il/main/תקיפות-בעיר-נבטיה-בדרום-לבנון-263937
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3831894
 https://hamal.co.il/main/ניסיון-הצתה-של-בית-כנסת-בלונדון-אירוע-שלישי-בתוך-ימים-ספורי-264426
 https://hamal.co.il/main/לאחר-הפסקת-האש-צהל-מעבה-כוחות-בקו-הצהוב-בדרום-לבנון--תמ-264427
 https://hamal.co.il/main/המצור-נשבר-בסתר-התרחיש-שעלול-להצית-כאוס-במיצר-הורמוז-דניאל-264428
+https://news.walla.co.il/break/3831899
+https://hamal.co.il/main/סגירת-מעגל-מהירה-בדרום-לבנון-כוחות-צהל-חיסלו-מחבל-חמוש-שח-264429
