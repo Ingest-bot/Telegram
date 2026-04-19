@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3831159
-https://news.walla.co.il/break/3831163
-https://hamal.co.il/main/אריק-רוביק-שדרס-למוות-את-לי-זיתוני-נורה-למוות-בפריז-263938
+COUNTER:21
 https://news.walla.co.il/break/3831165
 https://news.walla.co.il/break/3831169
 https://news.walla.co.il/item/3831164
@@ -499,3 +496,6 @@ https://hamal.co.il/main/סגירת-מעגל-מהירה-בדרום-לבנון-כ
 https://news.walla.co.il/item/3831900
 https://hamal.co.il/main/טראמפ-ספינת-מטען-איראנית-שניסתה-לפרוץ-מצור-ימי-נבלמה-מערכ-264430
 https://hamal.co.il/main/מטופלת-תקפה-צוות-רפואי-בשלוחת-המרכז-הרפואי-הדסה-בית-שמש-אביח-264431
+https://news.walla.co.il/break/3831901
+https://hamal.co.il/main/הסתיימה-חקירתו-של-השר-מיקי-זוהר-בפרשת-יד-לוחצת-יד-אבי-סולו-264432
+https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-מע-264433
