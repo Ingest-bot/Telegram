@@ -1,7 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3831031
-https://news.walla.co.il/break/3831035
-https://news.walla.co.il/item/3831033
+COUNTER:22
 https://hamal.co.il/main/טראמפ-אחרי-34-שנה-מנהיגי-ישראל-ולבנון-צפויים-לשוחח-היום-ע-263876
 https://hamal.co.il/main/מזג-אוויר-שרבי-עם-עלייה-נוספת-בטמפרטורות-ייתכן-אובך-קל-עד-ב-263877
 https://news.walla.co.il/break/3831040
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831808
 https://hamal.co.il/main/אל-תדבר-על-ילדים-עימות-264389
 https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפציץ-את-כל-המדינה-264390
 https://hamal.co.il/main/רופאה-מסבירה-מתי-כאב-הגב-מסמן-שיש-בעיה-רצינית-264381
+https://news.walla.co.il/break/3831817
+https://news.walla.co.il/item/3831820
+https://hamal.co.il/main/צהל-מפרסם-את-מרחב-קו-ההגנה-הקדמי-בדרום-לבנון-למניעת-איום-יש-264391
