@@ -1,6 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3831144
-https://news.walla.co.il/item/3831148
+COUNTER:14
 https://hamal.co.il/main/מחריד-קיצונים-השחיתו-תמונה-של-חובשת-איחוד-הצלה-שנהרגה-מפגיע-263934
 https://hamal.co.il/main/צה״ל-חיסל-מפקד-ביחידת-הקשר-של-חמאס-263935
 https://news.walla.co.il/break/3831156
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831888
 https://news.walla.co.il/item/3831887
 https://hamal.co.il/main/פצוע-כבן-40-במצב-אנוש-לאחר-שנפצע-באירוע-אלימות-באור-עקיבא-264424
 https://hamal.co.il/main/אלף-דיירים-נלכדו-במגדל-יוקרה-בתל-אביב---זו-הסיבה--תיעוד-הוד-264425
+https://news.walla.co.il/item/3831894
+https://hamal.co.il/main/ניסיון-הצתה-של-בית-כנסת-בלונדון-אירוע-שלישי-בתוך-ימים-ספורי-264426
