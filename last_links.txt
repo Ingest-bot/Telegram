@@ -1,5 +1,4 @@
 COUNTER:21
-https://news.walla.co.il/break/3831165
 https://news.walla.co.il/break/3831169
 https://news.walla.co.il/item/3831164
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-263947
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מטופלת-תקפה-צוות-רפואי-בשלוחת-
 https://news.walla.co.il/break/3831901
 https://hamal.co.il/main/הסתיימה-חקירתו-של-השר-מיקי-זוהר-בפרשת-יד-לוחצת-יד-אבי-סולו-264432
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-מע-264433
+https://news.walla.co.il/break/3831907
