@@ -1,9 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/טראמפ-אחרי-34-שנה-מנהיגי-ישראל-ולבנון-צפויים-לשוחח-היום-ע-263876
-https://hamal.co.il/main/מזג-אוויר-שרבי-עם-עלייה-נוספת-בטמפרטורות-ייתכן-אובך-קל-עד-ב-263877
-https://news.walla.co.il/break/3831040
-https://news.walla.co.il/item/3831037
-https://news.walla.co.il/item/3831038
+COUNTER:25
 https://hamal.co.il/main/חשד-להרעלת-מזון-ב-2-מעונות-במרכז-15-פעוטות-ותינוקות-נפגעו-263880
 https://news.walla.co.il/break/3831042
 https://hamal.co.il/main/גבר-בן-20-נפצע-באורח-בינוני-בשל-תאונת-דרכים-בסמוך-למחלף-נחשו-263881
@@ -499,3 +494,8 @@ https://hamal.co.il/main/רופאה-מסבירה-מתי-כאב-הגב-מסמן-�
 https://news.walla.co.il/break/3831817
 https://news.walla.co.il/item/3831820
 https://hamal.co.il/main/צהל-מפרסם-את-מרחב-קו-ההגנה-הקדמי-בדרום-לבנון-למניעת-איום-יש-264391
+https://news.walla.co.il/break/3831827
+https://news.walla.co.il/item/3831825
+https://hamal.co.il/main/אזרח-איתר-גופה-צפה-במים-מול-חופי-הרצליה-נבדק-קשר-לנער-שטבע-264392
+https://hamal.co.il/main/לוחמי-האש-חילצו-אדם-ללא-רוח-חיים-מתאונת-דרכים-בכביש-57-סמוך-264393
+https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפוצץ-את-המדינה-עידן-ק-264395
