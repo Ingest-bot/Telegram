@@ -1,9 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/מחבלים-זוהו-מתחבאים-בשיחים---וחוסלו-מהאוויר-263896
-https://hamal.co.il/main/גורם-לבנוני-אין-מידע-על-שיחה-קרובה-עם-ישראל-263897
-https://news.walla.co.il/break/3831075
-https://news.walla.co.il/item/3831074
-https://news.walla.co.il/item/3831077
+COUNTER:34
 https://hamal.co.il/main/חשבתי-שהיא-בת-שש-עשרה-חייל-בן-19-נעצר-לעבירות-מין-בבת-12-263899
 https://news.walla.co.il/break/3831083
 https://news.walla.co.il/item/3831079
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3831845
 https://news.walla.co.il/item/3831843
 https://hamal.co.il/main/תושב-קלנסוואה-חשד-שהשכנים-סגרו-לו-את-המים---הסתער-עם-טרקטור-264400
 https://hamal.co.il/main/זוהר-אייזיק-כל-מה-שעניין-אותי-בכניסה-לאח-הגדול-זה-לעשות-כס-264401
+https://news.walla.co.il/break/3831851
+https://news.walla.co.il/break/3831854
+https://news.walla.co.il/item/3831847
+https://hamal.co.il/main/השר-מיקי-זוהר-נחקר-בפרשת-ההסתדרות-אין-לי-קשר-לפרשה-264402
+https://hamal.co.il/main/רז-הרשקו-וואו-אני-הכי-מאושרת-בעולם-המדליה-של-עם-ישראל-י-264403
