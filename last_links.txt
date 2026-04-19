@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-ובגליל-המערבי-263810
-https://hamal.co.il/main/צה״ל-איתר-רחפן-עם-6-נשקים-בגבול-מצרים-263811
-https://news.walla.co.il/break/3830953
+COUNTER:28
 https://news.walla.co.il/break/3830954
 https://hamal.co.il/main/המדד-עלה-ב-04-מחירי-הירקות-והשכירות-מזנקים-263816
 https://hamal.co.il/main/דיווח-איראן-וארה״ב-שוקלות-להאריך-את-הפסקת-האש-בשבועיים-263817
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פרשת-המוהל-החשוד-264340
 https://news.walla.co.il/break/3831686
 https://news.walla.co.il/item/3831677
 https://news.walla.co.il/item/3831663
+https://news.walla.co.il/break/3831688
+https://hamal.co.il/main/השליך-רימון-לעבר-בית-בצפון-בעקבות-סכסוך-על-כלי-עבודה-264343
+https://hamal.co.il/main/הערוץ-נמצא-באופסייד-הפאנליסט-הבולט-עוזב-את-הפטריוטים-264342
