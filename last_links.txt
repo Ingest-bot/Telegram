@@ -1,7 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/תפוחים-או-תפוזים-מה-יותר-טוב-לאיזון-רמות-הסוכר-בדם-263919
-https://hamal.co.il/main/דירה-במרכז-ת״א-נחשפה-כבית-בושת-263920
-https://news.walla.co.il/break/3831107
+COUNTER:2
 https://news.walla.co.il/break/3831105
 https://news.walla.co.il/item/3831103
 https://hamal.co.il/main/חממות-קנאביס-וק״ג-של-סמים-פשיטה-הובילה-למעצר-של-19-חשודים-263924
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831875
 https://news.walla.co.il/item/3831869
 https://hamal.co.il/main/לראשונה-קו-תעופה-ישיר-בין-ישראל-לארגנטינה-במעמד-ראש-הממשלה-264409
 https://hamal.co.il/main/לקראת-יום-העצמאות-ה-78-של-מדינת-ישראל-כך-צה״ל-נערך-לטקס-הדל-264410
+https://news.walla.co.il/break/3831876
+https://news.walla.co.il/item/3831875
+https://hamal.co.il/main/הפועל-תל-אביב-למנהלת-הליגה-לא-נופיע-למשחקים-בהמשך-השבוע-באר-264411
