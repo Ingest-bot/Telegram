@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/״סימן-לשפע״-דבוראי-מסביר-את-מכת-הדבורים-בנתיבות-263822
-https://news.walla.co.il/break/3830966
-https://hamal.co.il/main/מבוסס-על-המצאה-ישראלית-הטיל-שמשגר-חיזבאללה-לעבר-כוחות-צהל-263825
-https://news.walla.co.il/break/3830969
+COUNTER:34
 https://news.walla.co.il/break/3830970
 https://hamal.co.il/main/חם-חם-מתחמם---אבל-חצי-מהמדינה-בלי-חוף-ים-מוכרז-פתוח-263827
 https://hamal.co.il/main/לקראת-סיום-הלחימה-בלבנון-בישראל-מנסים-להרוויח-זמן-263828
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חג-שמח-ובטוח-כך-תשמרו-על-ילדיכ�
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-264344
 https://hamal.co.il/main/בהתאם-למדיניות-השר-סוכל-אירוע-בחירות-של-הסהר-האדום-264353
 https://news.walla.co.il/item/3831712
+https://news.walla.co.il/break/3831727
+https://news.walla.co.il/item/3831722
+https://hamal.co.il/main/צהל-חושף-מפקד-גזרת-בינת-264359
+https://hamal.co.il/main/בגץ-ללוין-כנס-את-264360
