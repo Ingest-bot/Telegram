@@ -1,7 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3831021
-https://news.walla.co.il/break/3831023
-https://news.walla.co.il/item/3831004
+COUNTER:16
 https://news.walla.co.il/item/3831016
 https://news.walla.co.il/item/3831017
 https://news.walla.co.il/item/3831022
@@ -499,3 +496,6 @@ https://hamal.co.il/main/עם-נחיתתו-בישראל-264383
 https://news.walla.co.il/break/3831781
 https://hamal.co.il/main/באיראן-טוענים-החותים-שולטים-ב-264384
 https://hamal.co.il/main/הרמטכל--264385
+https://news.walla.co.il/item/3831785
+https://hamal.co.il/main/דיווחים-באיראן-264386
+https://hamal.co.il/main/המראה-מטעה-בעלת-הכלב-עשתה-לו-בדיקת-דנא-ונדהמה-מהתוצאות-264372
