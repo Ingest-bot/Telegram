@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3830954
-https://hamal.co.il/main/המדד-עלה-ב-04-מחירי-הירקות-והשכירות-מזנקים-263816
-https://hamal.co.il/main/דיווח-איראן-וארה״ב-שוקלות-להאריך-את-הפסקת-האש-בשבועיים-263817
-https://news.walla.co.il/item/3830872
+COUNTER:29
 https://news.walla.co.il/item/3830959
 https://hamal.co.il/main/ראשי-רשויות-בצפון-קיימת-התרעה-למטחי-ירי-מלבנון---בטווח-זמן-263819
 https://hamal.co.il/main/הערכה-בישראל-ארה״ב-ואיראן-יאריכו-את-הפסקת-האש-263820
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831663
 https://news.walla.co.il/break/3831688
 https://hamal.co.il/main/השליך-רימון-לעבר-בית-בצפון-בעקבות-סכסוך-על-כלי-עבודה-264343
 https://hamal.co.il/main/הערוץ-נמצא-באופסייד-הפאנליסט-הבולט-עוזב-את-הפטריוטים-264342
+https://news.walla.co.il/break/3831700
+https://news.walla.co.il/break/3831701
+https://news.walla.co.il/item/3831695
+https://hamal.co.il/main/תיעוד-דרמטי-גולש-נסחף-במים-סוערים---וחולץ-מחוף-הים-בהרצליה-264346
