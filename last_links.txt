@@ -1,12 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3830995
-https://news.walla.co.il/item/3830993
-https://hamal.co.il/main/חשד-לרצח-בכפר-קאסם-חשודים-הציתו-רכב-עם-263846
-https://hamal.co.il/main/שוב-אירוע-אנטישמי-בלונדון-אלמונים-ניסו-להצית-בית-כנסת-263847
-https://hamal.co.il/main/החרימו-כספי-טרור-וביצעו-תחקורים-הושלם-מבצע-בחטיבת-מנשה-263850
-https://news.walla.co.il/break/3831001
-https://hamal.co.il/main/בני-ברק-בן-שנה-נכווה-ממים-רותחים---מצבו-בינוני-263851
-https://hamal.co.il/main/הסנאט-בלם-הצעה-שהייתה-מחייבת-את-טראמפ-אישור-קונגרס-לפני-תקיפ-263852
+COUNTER:10
 https://news.walla.co.il/break/3831007
 https://hamal.co.il/main/מדא-263853
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-263860
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3831761
 https://hamal.co.il/main/צרכו-יחד-סמים-אישום-הוגש-נגד-הצעיר-ש-264374
 https://hamal.co.il/main/נתניהו-נפגש-עם-משיאי-המשואות-העם-הזה-קם-כלביא-ונלחם-כארי״-264369
 https://hamal.co.il/main/הלמס-חושף-ערב-יום-העצמאות-264376
+https://news.walla.co.il/break/3831765
+https://news.walla.co.il/break/3831770
+https://news.walla.co.il/item/3831769
+https://news.walla.co.il/item/3831741
+https://hamal.co.il/main/ערב-יום-הזיכרון-264377
+https://hamal.co.il/main/הולכת-רגל-נפגעה-ממשאית-264375
+https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בנשר-מצבו-קשה-264379
+https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264362
