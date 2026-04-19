@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליל-וקריית-שמונה-263894
-https://hamal.co.il/main/ילד-בן-7-נפגע-מרכב-בבית-שמש-מצבו-אנוש-263895
-https://news.walla.co.il/break/3831058
-https://news.walla.co.il/break/3831068
-https://news.walla.co.il/item/3831060
+COUNTER:32
 https://hamal.co.il/main/מחבלים-זוהו-מתחבאים-בשיחים---וחוסלו-מהאוויר-263896
 https://hamal.co.il/main/גורם-לבנוני-אין-מידע-על-שיחה-קרובה-עם-ישראל-263897
 https://news.walla.co.il/break/3831075
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נתניהו-אלמנות-ויתומי-צה״ל-״הא�
 https://news.walla.co.il/break/3831842
 https://hamal.co.il/main/גורם-ביטחוני-בכיר-מוכנים-להסלמה-מול-חיזבאללה---האמון-בצבא-264398
 https://hamal.co.il/main/סטירות-הטחות-והצמדות-למזרן-סייעת-בגן-הורשעה-ב-277-מקרי-א-264399
+https://news.walla.co.il/break/3831847
+https://news.walla.co.il/item/3831845
+https://news.walla.co.il/item/3831843
+https://hamal.co.il/main/תושב-קלנסוואה-חשד-שהשכנים-סגרו-לו-את-המים---הסתער-עם-טרקטור-264400
+https://hamal.co.il/main/זוהר-אייזיק-כל-מה-שעניין-אותי-בכניסה-לאח-הגדול-זה-לעשות-כס-264401
