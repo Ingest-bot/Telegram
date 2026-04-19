@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3831169
-https://news.walla.co.il/item/3831164
+COUNTER:23
 https://hamal.co.il/main/אזעקות-הופעלו-בנהריה-והגליל-המערבי-263947
 https://hamal.co.il/main/מאות-נשקים-של-חיזבאללה-אותרו-בבית-ספר-בדרום-לבנון-263948
 https://hamal.co.il/main/הוציא-את-הילדים-מהמושב-האחורי---וגנב-את-הרכב-263950
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831901
 https://hamal.co.il/main/הסתיימה-חקירתו-של-השר-מיקי-זוהר-בפרשת-יד-לוחצת-יד-אבי-סולו-264432
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-מע-264433
 https://news.walla.co.il/break/3831907
+https://hamal.co.il/main/צהל-האירוע-מוקדם-יותר-בדרום-לבנון---מתוחקר-264434
+https://hamal.co.il/main/תיעוד-ההשתלטות-האמריקנית-על-הספינה-האיראנית-264435
