@@ -1,9 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3831007
-https://hamal.co.il/main/מדא-263853
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-מחשש-לחדירת-כטבם-263860
-https://news.walla.co.il/break/3831011
-https://news.walla.co.il/break/3831012
+COUNTER:12
 https://news.walla.co.il/break/3831015
 https://news.walla.co.il/break/3831018
 https://news.walla.co.il/break/3831020
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ערב-יום-הזיכרון-264377
 https://hamal.co.il/main/הולכת-רגל-נפגעה-ממשאית-264375
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בנשר-מצבו-קשה-264379
 https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264362
+https://news.walla.co.il/break/3831771
+https://news.walla.co.il/item/3831775
+https://news.walla.co.il/item/3831777
+https://hamal.co.il/main/צהל-חייל-264382
+https://hamal.co.il/main/עם-נחיתתו-בישראל-264383
