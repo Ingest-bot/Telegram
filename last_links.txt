@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3831016
-https://news.walla.co.il/item/3831017
-https://news.walla.co.il/item/3831022
-https://hamal.co.il/main/בהמשך-להתרעה-אין-חשש-לאירוע-ביטחוני-263870
-https://hamal.co.il/main/דיווח-הפנטגון-פנה-ליצרניות-רכב-להגביר-את-ייצור-הנשק-רויטרס-263871
+COUNTER:18
 https://hamal.co.il/main/ארהב-הסנאט-לא-חסם-את-מכירת-הנשק-לישראל-עידן-קוולר-הסנאט-263872
 https://hamal.co.il/main/אוקראינה-טילים-מרוסיה-נפלו-בקייב-וגרמו-לשריפות-ילד-נפצע-רו-263873
 https://news.walla.co.il/break/3831024
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הרמטכל--264385
 https://news.walla.co.il/item/3831785
 https://hamal.co.il/main/דיווחים-באיראן-264386
 https://hamal.co.il/main/המראה-מטעה-בעלת-הכלב-עשתה-לו-בדיקת-דנא-ונדהמה-מהתוצאות-264372
+https://news.walla.co.il/break/3831796
+https://news.walla.co.il/break/3831795
+https://news.walla.co.il/item/3831781
+https://hamal.co.il/main/טראמפ-איראן-ביצעה-הפרה-חמורה-של-הפסקת-האש-264387
+https://hamal.co.il/main/2-גברים-נורו-בחדרה-264388
