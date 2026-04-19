@@ -1,7 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3831154
-https://hamal.co.il/main/צפו-מומו-הצב-של-הספארי-מצא-לעצמו-דרך-להתקרר-מהחום-263936
-https://hamal.co.il/main/תקיפות-בעיר-נבטיה-בדרום-לבנון-263937
+COUNTER:19
 https://news.walla.co.il/break/3831159
 https://news.walla.co.il/break/3831163
 https://hamal.co.il/main/אריק-רוביק-שדרס-למוות-את-לי-זיתוני-נורה-למוות-בפריז-263938
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לאחר-הפסקת-האש-צהל-מעבה-כוחות-�
 https://hamal.co.il/main/המצור-נשבר-בסתר-התרחיש-שעלול-להצית-כאוס-במיצר-הורמוז-דניאל-264428
 https://news.walla.co.il/break/3831899
 https://hamal.co.il/main/סגירת-מעגל-מהירה-בדרום-לבנון-כוחות-צהל-חיסלו-מחבל-חמוש-שח-264429
+https://news.walla.co.il/item/3831900
+https://hamal.co.il/main/טראמפ-ספינת-מטען-איראנית-שניסתה-לפרוץ-מצור-ימי-נבלמה-מערכ-264430
+https://hamal.co.il/main/מטופלת-תקפה-צוות-רפואי-בשלוחת-המרכז-הרפואי-הדסה-בית-שמש-אביח-264431
