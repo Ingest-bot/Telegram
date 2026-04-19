@@ -1,7 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/הלילה-2-אוטובוסים-עלו-באש-סמוך-לחצור-הגלילית-263887
-https://news.walla.co.il/break/3831054
-https://news.walla.co.il/item/3831052
+COUNTER:30
 https://hamal.co.il/main/שוב-אזעקות-הופעלו-בגליל-העליל-וקריית-שמונה-263894
 https://hamal.co.il/main/ילד-בן-7-נפגע-מרכב-בבית-שמש-מצבו-אנוש-263895
 https://news.walla.co.il/break/3831058
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831836
 https://news.walla.co.il/item/3831833
 https://news.walla.co.il/item/3831831
 https://hamal.co.il/main/נתניהו-אלמנות-ויתומי-צה״ל-״האבות-הגיבורים-שלכם-הם-שמבטיחים-264397
+https://news.walla.co.il/break/3831842
+https://hamal.co.il/main/גורם-ביטחוני-בכיר-מוכנים-להסלמה-מול-חיזבאללה---האמון-בצבא-264398
+https://hamal.co.il/main/סטירות-הטחות-והצמדות-למזרן-סייעת-בגן-הורשעה-ב-277-מקרי-א-264399
