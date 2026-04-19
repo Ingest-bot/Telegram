@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3830928
-https://news.walla.co.il/item/3830927
-https://hamal.co.il/main/עוכב-ל-263786
+COUNTER:18
 https://hamal.co.il/main/בכיר-ישראלי-טוען-״לא-התקבלה-אף-החלטה-על-הפסקת-אש״-263790
 https://news.walla.co.il/item/3830932
 https://news.walla.co.il/item/3830933
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3831634
 https://news.walla.co.il/item/3831620
 https://hamal.co.il/main/צפו-ילד-בן-12-חולץ-לאחר-שנפל-264327
 https://hamal.co.il/main/לראשונה-בישראל-היפופוטם-ננסי-נדיר-נחת-בארץ-יואב-איתיאל-עוד-263960
+https://news.walla.co.il/item/3831639
+https://hamal.co.il/main/נפתח-את-שערי-הגיהינום-סחטו-בעל-עסק-בצפון---וירו-על-ביתו-264329
+https://hamal.co.il/main/בגלל-סכסוך-כספי-264330
