@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/חשבתי-שהיא-בת-שש-עשרה-חייל-בן-19-נעצר-לעבירות-מין-בבת-12-263899
-https://news.walla.co.il/break/3831083
+COUNTER:35
 https://news.walla.co.il/item/3831079
 https://news.walla.co.il/item/3831082
 https://hamal.co.il/main/טרגדיה-נקבע-מותו-של-בן-ה-5-שנפגע-מרכב-בבית-שמש-263900
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3831854
 https://news.walla.co.il/item/3831847
 https://hamal.co.il/main/השר-מיקי-זוהר-נחקר-בפרשת-ההסתדרות-אין-לי-קשר-לפרשה-264402
 https://hamal.co.il/main/רז-הרשקו-וואו-אני-הכי-מאושרת-בעולם-המדליה-של-עם-ישראל-י-264403
+https://news.walla.co.il/break/3831855
+https://hamal.co.il/main/נתניהו-נפגש-כעת-בלשכתו-בירושלים-עם-נשיא-ארגנטינה-חאבייר-מילי-264404
