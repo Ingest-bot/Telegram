@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3830926
-https://hamal.co.il/main/מבקר-המדינה-נגד-מירי-רגב-ליקויים-רבים-בטיפול-בתעופה-בעת-חי-263784
-https://hamal.co.il/main/4-הרוגים-ו-20-פצועים-במסע-ירי-חריג-בתיכון-בטורקיה-263783
-https://hamal.co.il/main/מקור-איראני-טוען-״החל-מהלילה-תוכרז-הפסקת-אש-בלבנון״-263785
+COUNTER:16
 https://news.walla.co.il/break/3830928
 https://news.walla.co.il/item/3830927
 https://hamal.co.il/main/עוכב-ל-263786
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831631
 https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-וקר-מהרגיל-ינשבו-264326
 https://news.walla.co.il/break/3831632
 https://news.walla.co.il/break/3831633
+https://news.walla.co.il/break/3831634
+https://news.walla.co.il/item/3831620
+https://hamal.co.il/main/צפו-ילד-בן-12-חולץ-לאחר-שנפל-264327
+https://hamal.co.il/main/לראשונה-בישראל-היפופוטם-ננסי-נדיר-נחת-בארץ-יואב-איתיאל-עוד-263960
