@@ -1,9 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3830978
-https://hamal.co.il/main/דובר-צה״ל-ערוכים-לתקוף-באופן-מיידי-ובעוצמה-אם-נידרש-לכך-263834
-https://hamal.co.il/main/דוברת-הבית-הלבן-״זו-הזדמנות-אחרונה-עבור-איראן-להגיע-להסכם״-263835
-https://news.walla.co.il/break/3830981
-https://hamal.co.il/main/הפסקת-אש-נתניהו-״אנחנו-עומדים-להכריע-את-בינת-ג׳בייל״-263840
+COUNTER:0
 https://news.walla.co.il/item/3830988
 https://news.walla.co.il/item/3830983
 https://news.walla.co.il/item/3830987
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3831732
 https://news.walla.co.il/item/3831736
 https://hamal.co.il/main/המודחת-השישית-גאיה-קלדרון-הבריזה-מכל-הראיונות---זו-הסיבה-264357
 https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264363
+https://news.walla.co.il/break/3831742
+https://hamal.co.il/main/-חכ-הלוי-נאבק-למען-חייל-264364
+https://hamal.co.il/main/צל-ענק-במים-היצור-הנדיר-שהפתיע-את-מפרץ-אילת--צפו-264361
+https://hamal.co.il/main/פועל-שנפגע-מטרקטור-באתר-בנייה-סמוך-לקריית-גת-מצבו-קשה-264365
+https://hamal.co.il/main/אמן-חושף-כך-ניסה-צהל-לערער-את-המשטר-האיראני---וזה-מה-שעצר-264341
