@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3830962
 https://hamal.co.il/main/״סימן-לשפע״-דבוראי-מסביר-את-מכת-הדבורים-בנתיבות-263822
 https://news.walla.co.il/break/3830966
 https://hamal.co.il/main/מבוסס-על-המצאה-ישראלית-הטיל-שמשגר-חיזבאללה-לעבר-כוחות-צהל-263825
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3831704
 https://hamal.co.il/main/חג-שמח-ובטוח-כך-תשמרו-על-ילדיכם-ביום-העצמאות-264352
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-264344
 https://hamal.co.il/main/בהתאם-למדיניות-השר-סוכל-אירוע-בחירות-של-הסהר-האדום-264353
+https://news.walla.co.il/item/3831712
