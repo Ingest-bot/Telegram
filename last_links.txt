@@ -1,6 +1,4 @@
 COUNTER:38
-https://news.walla.co.il/break/3831236
-https://news.walla.co.il/item/3831234
 https://hamal.co.il/main/לראשונה-נקבת-היפוטטם-בסכנת-הכחדה-חמורה-נחתה-בישראל-263981
 https://news.walla.co.il/break/3831237
 https://news.walla.co.il/break/3831238
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חשש-להסלמה-מחיר-הנפט-מזנק-הבור
 https://news.walla.co.il/break/3831951
 https://hamal.co.il/main/צהל-תקפנו-משגר-טעון-בדרום-לבנון-264457
 https://hamal.co.il/main/נשק-צהלי-נגנב-לצורך-סחר-264456
+https://news.walla.co.il/break/3831958
+https://news.walla.co.il/item/3831962
