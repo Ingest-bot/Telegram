@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/לצה״ל-יש-ה-264129
-https://news.walla.co.il/break/3831359
-https://hamal.co.il/main/שריפה-פרצה-במבנה-בית-אבות-בעכו-כל-הדיירים-פונו-ואין-נפגעים-264132
+COUNTER:39
 https://hamal.co.il/main/מטען-חבלה-הוצמד-לדלת-דירה-ברג-השכנים-חשבו-שזה-טיל-264135
 https://news.walla.co.il/item/3831365
 https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווח-פקיסטן-לוחצת-על-איראן-לא
 https://hamal.co.il/main/טראמפ-264515
 https://news.walla.co.il/break/3832131
 https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בעמדה-האיראנית-שלא-להשתתף-במומ-264520
+https://news.walla.co.il/break/3832133
+https://news.walla.co.il/break/3832135
+https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-264524
