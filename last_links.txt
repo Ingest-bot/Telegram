@@ -1,10 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3831264
-https://hamal.co.il/main/איזנקוט-נתניהו-לא-יודע-לממש-הישגים-צבאיים-להישגים-מדיניים-264022
-https://hamal.co.il/main/חשד-להרעלת-מזון-במעונות-במרכז-הארץ-15-פעוטות-ותינוקות-נפגעו-264025
-https://news.walla.co.il/break/3831269
-https://news.walla.co.il/break/3831270
-https://news.walla.co.il/item/3831267
+COUNTER:12
 https://hamal.co.il/main/קיש-מציג-הקלות-משמעותיות-לתלמידי-הצפון-קו-העימות-עם-הקלות-264017
 https://news.walla.co.il/break/3831271
 https://hamal.co.il/main/ערוץ-14-פרסם-פייק-על-סיבות-בחירתו-בטיים---נתניהו-שיתף-וואלה-264027
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3832009
 https://news.walla.co.il/item/3832013
 https://news.walla.co.il/item/3832010
 https://hamal.co.il/main/לאחר-רעידת-האדמה-אזהרת-צונאמי-ביפן-264478
+https://news.walla.co.il/break/3832025
+https://news.walla.co.il/break/3832022
+https://news.walla.co.il/item/3832019
+https://hamal.co.il/main/יאיר-גולן-לבנט-מברך-על-תמיכתך-בנישואים-אזרחיים-264479
+https://hamal.co.il/main/באיראן-מאיימים-נגיב-על-תקיפת-הספינה-במצרי-הורמוז-264475
+https://hamal.co.il/main/לאחר-7-שנים-זיו-אריה-התפטר-מאימון-הפועל-ירושלים-264480
