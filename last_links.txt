@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/דיווח-לבנוני-הנשיא-שוחח-בטלפון-עם-טראמפ-263985
-https://hamal.co.il/main/בן-גביר-263987
-https://news.walla.co.il/break/3831243
+COUNTER:1
 https://news.walla.co.il/break/3831246
 https://news.walla.co.il/item/3831241
 https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831962
 https://news.walla.co.il/item/3831969
 https://hamal.co.il/main/התכוון-לצאת-264458
 https://hamal.co.il/main/יוש-הושמד-מצבור-מטענים-שהוסתר-בבית-ספר--צפו-264463
+https://news.walla.co.il/break/3831976
+https://news.walla.co.il/break/3831974
+https://hamal.co.il/main/החשד-לרצח-בבאר-שבע-264465
