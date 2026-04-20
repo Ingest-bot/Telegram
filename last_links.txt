@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/נשיא-לבנון-״הצבא-הלבנוני-ימלא-תפקיד-מרכזי-לאחר-נסיגת-ישראל״-264175
-https://news.walla.co.il/break/3831404
-https://hamal.co.il/main/יש-עוד-מדליה-תמנע-נלסון-לוי-בגמר-אליפות-אירופה-264170
+COUNTER:16
 https://hamal.co.il/main/אלו-העיריות-שבכל-זאת-יקיימו-את-חגיגות-יום-העצמאות-264177
 https://hamal.co.il/main/החל-ממוצאי-השבת-כל-משחקי-הספורט-ואירועי-התרבות-חוזרים-264178
 https://hamal.co.il/main/לוחמי-התותחנים-מגדוד-55-מאחלים-לכם-שבת-שלום-מהגזרה-הצפונית-264180
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832166
 https://news.walla.co.il/break/3832167
 https://news.walla.co.il/item/3832165
 https://hamal.co.il/main/סמ״ר-טל-שביט-נפל-בקרב-בעזה-264516
+https://news.walla.co.il/item/3832168
+https://news.walla.co.il/break/3832169
+https://hamal.co.il/main/רהט-צעירה-בת-27-נפצעה-באורח-אנוש-באירוע-ירי-264560
