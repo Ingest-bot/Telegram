@@ -1,5 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/שעתיים-לפני-הפסקת-האש-אזעקות-בגליל-המערבי-264049
 https://hamal.co.il/main/הירי-לצפון-ממשיך-התרעות-חדירת-כטבם-בראש-הנקרה-264054
 https://hamal.co.il/main/מחפשים-עבודה-אלו-השאלות-הפשוטות-שעלולות-להפיל-אתכם-וואלה-264026
 https://news.walla.co.il/break/3831293
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מיקי-זוהר-על-החקירה-במשטרה-הסב
 https://news.walla.co.il/break/3832053
 https://news.walla.co.il/item/3832045
 https://hamal.co.il/main/צפו-ברגעי-האימה-בקרקס-רשת-הבטיחות-קרסה---והטיגריס-זינק-אל-ה-264464
+https://news.walla.co.il/break/3832065
