@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/שרב-סופות-חול-וחשש-לשיטפונות-מהפך-במזג-האוויר-264128
-https://news.walla.co.il/item/3831345
-https://hamal.co.il/main/הפסקת-האש-נכנסה-לתוקפה---אבל-למערכת-הביטחון-יש-עדיין-אתגר-בז-264131
+COUNTER:37
 https://news.walla.co.il/break/3831349
 https://news.walla.co.il/item/3831354
 https://hamal.co.il/main/לצה״ל-יש-ה-264129
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831832
 https://news.walla.co.il/item/3832049
 https://news.walla.co.il/item/3830881
 https://hamal.co.il/main/סגן-נשיא-ארהב-בדרכו-לפקיסטן-טראמפ-מוכן-להיפגש-עם-האיראנים-264510
+https://news.walla.co.il/break/3832129
+https://hamal.co.il/main/דיווח-פקיסטן-לוחצת-על-איראן-לאשר-את-השתתפותה-בשיחות-264512
+https://hamal.co.il/main/טראמפ-264515
