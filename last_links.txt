@@ -1,5 +1,4 @@
 COUNTER:30
-https://news.walla.co.il/break/3831216
 https://news.walla.co.il/break/3831217
 https://hamal.co.il/main/בגיל-18-מדליית-ארד-לכוכב-הגודו-הישראלי-באליפות-אירופה-263963
 https://news.walla.co.il/break/3831221
@@ -499,3 +498,4 @@ https://hamal.co.il/main/המשטרה-חוקרת-אירוע-הירי-בבאר-ש
 https://hamal.co.il/main/הרמטכל-264441
 https://news.walla.co.il/break/3831938
 https://hamal.co.il/main/אבדיה-כיכב-עם-30-נקודות-פורטלנד-נכנעה-בסן-אנטוניו-264448
+https://news.walla.co.il/break/3831939
