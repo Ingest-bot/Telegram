@@ -1,5 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3831354
+COUNTER:38
 https://hamal.co.il/main/לצה״ל-יש-ה-264129
 https://news.walla.co.il/break/3831359
 https://hamal.co.il/main/שריפה-פרצה-במבנה-בית-אבות-בעכו-כל-הדיירים-פונו-ואין-נפגעים-264132
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832129
 https://hamal.co.il/main/דיווח-פקיסטן-לוחצת-על-איראן-לאשר-את-השתתפותה-בשיחות-264512
 https://hamal.co.il/main/טראמפ-264515
 https://news.walla.co.il/break/3832131
+https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בעמדה-האיראנית-שלא-להשתתף-במומ-264520
