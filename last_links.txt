@@ -1,5 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/מטען-חבלה-הוצמד-לדלת-דירה-ברג-השכנים-חשבו-שזה-טיל-264135
+COUNTER:0
 https://news.walla.co.il/item/3831365
 https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
 https://hamal.co.il/main/איו״ש-מעל-ל-70-מבוקשים-נעצרו-100-אש״ח-הוחרמו-264140
@@ -499,3 +498,4 @@ https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בע�
 https://news.walla.co.il/break/3832133
 https://news.walla.co.il/break/3832135
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-264524
+https://hamal.co.il/main/רסר-264511
