@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/לוחמי-התותחנים-מגדוד-55-מאחלים-לכם-שבת-שלום-מהגזרה-הצפונית-264180
-https://hamal.co.il/main/צוות-ניהול-אירוע-באגף-התקשוב-מאחלים-לכם-שבת-שלום-264182
+COUNTER:19
 https://news.walla.co.il/break/3831405
 https://hamal.co.il/main/שר-החוץ-האיראני-מכריז-מיצר-הורמוז-פתוח-לחלוטין-264184
 https://news.walla.co.il/break/3831407
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832169
 https://hamal.co.il/main/רהט-צעירה-בת-27-נפצעה-באורח-אנוש-באירוע-ירי-264560
 https://hamal.co.il/main/לא-הספיקו-לומר-כן-שלושה-סיפורים-על-אהבות-צעירות-שנגדעו-ברגע-264564
 https://hamal.co.il/main/סרן-בני-וייס-נפל-בקרב-בצפון-רצועת-עזה-264519
+https://news.walla.co.il/break/3832180
+https://hamal.co.il/main/סמ״ר-נועם-יוסף-אבו-לחם-באומץ-ונפל-בקרב-בעזה-264517
