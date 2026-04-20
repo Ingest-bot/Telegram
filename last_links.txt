@@ -1,5 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3831292
+COUNTER:20
 https://news.walla.co.il/break/3831298
 https://news.walla.co.il/break/3831296
 https://news.walla.co.il/break/3831299
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3832068
 https://hamal.co.il/main/נוסטרדמוס-החי-חושף-המניע-המצמרר-של-טראמפ-לסיום-המלחמה-264334
 https://hamal.co.il/main/נתניהו-גינה-את-ניתוץ-הפסל-של-ישו-264486
 https://hamal.co.il/main/הרמטכל-למשרתים-ששכלו-את-קרוביהם-264487
+https://hamal.co.il/main/תיעוד-קשה-מכונית-מרוץ-התהפכה-צופה-נהרג-264485
