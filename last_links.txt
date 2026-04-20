@@ -1,8 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3831246
-https://news.walla.co.il/item/3831241
-https://hamal.co.il/main/כעת-אזעקות-הופעלו-בקריות-263991
-https://hamal.co.il/main/פריצת-דרך-ישראלית-עשויה-למנוע-ממחלות-סרטן-לשלוח-גרורות-לגוף-263978
+COUNTER:4
 https://hamal.co.il/main/ההערכות-גוברות-הפסקת-אש-עם-לבנון-תוכרז-בשעות-הקרובות-263992
 https://hamal.co.il/main/ההודעה-שקיבלו-תושבי-הצפון---בסמוך-להפסקת-האש-ייתכן-ירי-263995
 https://news.walla.co.il/break/3831257
@@ -499,3 +495,7 @@ https://hamal.co.il/main/יוש-הושמד-מצבור-מטענים-שהוסתר-
 https://news.walla.co.il/break/3831976
 https://news.walla.co.il/break/3831974
 https://hamal.co.il/main/החשד-לרצח-בבאר-שבע-264465
+https://news.walla.co.il/item/3831983
+https://hamal.co.il/main/מגיח-מאחור---ויורה-צרורות-264466
+https://hamal.co.il/main/המוסד-חושף-264467
+https://hamal.co.il/main/ערעורו-של-החשוד-באונס-שי-לי-עטרי-התקבל-שמו-לא-יפורסם-264468
