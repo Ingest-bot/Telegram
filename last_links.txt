@@ -1,11 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/2-גברים-נפצעו-באירוע-אלימות-בכפר-קרע-מצבם-קשה-264123
-https://hamal.co.il/main/גבר-נפל-מבניין-בנתניה-מצבו-קשה-264124
-https://hamal.co.il/main/טראמפ-המלחמה-באיראן-מתקדמת-היא-תסתיים-בקרוב-264125
-https://hamal.co.il/main/נהג-264126
-https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-לא-נאפשר-תנועה-דרומה-מהליטאני-264127
-https://news.walla.co.il/item/3831336
-https://news.walla.co.il/break/3831338
+COUNTER:35
 https://hamal.co.il/main/שרב-סופות-חול-וחשש-לשיטפונות-מהפך-במזג-האוויר-264128
 https://news.walla.co.il/item/3831345
 https://hamal.co.il/main/הפסקת-האש-נכנסה-לתוקפה---אבל-למערכת-הביטחון-יש-עדיין-אתגר-בז-264131
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3831197
 https://hamal.co.il/main/מתקפת-פתע-או-תקיפה-באיראן-בצהל-נערכים-לקריסת-המשא-ומתן-264505
 https://hamal.co.il/main/שני-גברים-נהרגו-בתאונת-דרכים-ברמת-הגולן-264506
 https://hamal.co.il/main/גורם-ישראלי-סבב-חדש-של-מומ-ישראלי-לבנוני---כבר-בחמישי-264509
+https://news.walla.co.il/break/3832125
+https://news.walla.co.il/item/3832011
+https://news.walla.co.il/item/3831800
+https://news.walla.co.il/item/3831832
+https://news.walla.co.il/item/3832049
+https://news.walla.co.il/item/3830881
+https://hamal.co.il/main/סגן-נשיא-ארהב-בדרכו-לפקיסטן-טראמפ-מוכן-להיפגש-עם-האיראנים-264510
