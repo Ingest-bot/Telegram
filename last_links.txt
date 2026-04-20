@@ -1,13 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3831178
-https://hamal.co.il/main/חשבו-שזה-קרחון-מלוכלך-התגלית-המדהימה-באנטארקטיקה-263910
-https://hamal.co.il/main/תעלומה-בת-18-שנים-הגיעה-לסיומה-הגופה-במחסן-בירושלים-זוהתה-263953
-https://news.walla.co.il/break/3831182
-https://news.walla.co.il/break/3831184
-https://news.walla.co.il/break/3831188
-https://hamal.co.il/main/מחבל-יידה-אבנים-על-כוחותינו-במהלך-הפרת-סדר-בבנימין---ונוטרל-263954
-https://hamal.co.il/main/גם-בגיל-50-מעבר-לתזונה-הזו-מצמצם-סיכון-לדמנציה-263908
-https://news.walla.co.il/item/3831198
+COUNTER:27
 https://news.walla.co.il/item/3831202
 https://hamal.co.il/main/לאכול-שם-מהרצפה-זה-שדה-התעופה-הנקי-בעולם-מזה-עשור-263956
 https://hamal.co.il/main/דיווח-נשיא-לבנון-הודיע-כי-לא-ידבר-עם-נתניהו-263957
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3831923
 https://news.walla.co.il/break/3831921
 https://hamal.co.il/main/גבר-נפצע-קשה-בתאונת-דרכים-בכרמל-264436
 https://hamal.co.il/main/התקשורת-באיראן-טוענת-רחפנים-שוגרו-לעבר-ספינות-אמריקאיות-264437
+https://news.walla.co.il/break/3831927
+https://news.walla.co.il/break/3831930
+https://news.walla.co.il/break/3831929
+https://news.walla.co.il/break/3831932
+https://news.walla.co.il/break/3831933
+https://news.walla.co.il/item/3831931
+https://news.walla.co.il/item/3831928
+https://hamal.co.il/main/בריטניה-מגנים-את-שיגורי-הטילים-הבליסטיים-של-צפון-קוריאה-264440
+https://hamal.co.il/main/מדא-אישה-בת-40-נהרגה-וילד-בן-8-נפצע-קשה-באירוע-אלימות-בבש-264442
