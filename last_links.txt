@@ -1,6 +1,4 @@
 COUNTER:31
-https://news.walla.co.il/break/3831332
-https://news.walla.co.il/break/3831333
 https://news.walla.co.il/break/3831334
 https://news.walla.co.il/break/3831335
 https://news.walla.co.il/item/3831320
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832112
 https://hamal.co.il/main/למה-החותים-לא-התפוצצו-על-ישראל---והאם-ההפתעה-עוד-לפנינו-264495
 https://hamal.co.il/main/בגין-הברחת-סחורות-לעזה-כתב-אישום-נגד-קצין-צהל-264498
 https://hamal.co.il/main/כתב-אישום-נגד-7-קצינים-עבירות-כלכליות-במיליוני-שקלים-264502
+https://news.walla.co.il/break/3832115
+https://news.walla.co.il/break/3832116
