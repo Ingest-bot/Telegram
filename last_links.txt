@@ -1,11 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3831307
-https://hamal.co.il/main/חצי-שעה-להפסקת-האש-התרעות-מחשש-לכטבם-בנהריה-והסביבה-264105
-https://news.walla.co.il/break/3831311
-https://news.walla.co.il/item/3831309
-https://news.walla.co.il/item/3831310
-https://hamal.co.il/main/הקטל-בדרכים-נקבע-מותו-של-נהג-רכב-שהתנגש-במעקב-בטיחות-בכביש-264110
-https://news.walla.co.il/item/3831304
+COUNTER:28
 https://hamal.co.il/main/גורם-ישראלי-אין-נסיגה-מקו-הנט-התושבים-לא-יחזרו-לדרום-לבנו-264112
 https://hamal.co.il/main/הירי-לצפון-דיווח-על-זירת-נפילה-בקריית-שמונה-264115
 https://hamal.co.il/main/רכב-התנגש-במעקה-בטיחות-ביקנעם-עילית-הנהגת-נפצעה-קשה-264117
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3832093
 https://hamal.co.il/main/חוקרים-מצאו-הדרך-הפשוטה-לעצור-את-הזדקנות-המוח-264484
 https://hamal.co.il/main/אישה-נלכדה-מתחת-למשאית-בחיפה---וחולצה-במצב-בינוני-264491
 https://hamal.co.il/main/מחקר-מצא-זה-טווח-הגילים-בו-משקל-עודף-ישפיע-על-הבריאות-בעתיד-264488
+https://news.walla.co.il/break/3832096
+https://news.walla.co.il/break/3832097
+https://news.walla.co.il/break/3832101
+https://news.walla.co.il/item/3832098
+https://news.walla.co.il/item/3832102
+https://hamal.co.il/main/גנב-רכב-וניגח-ניידת-בי-ם-אישום-יוגש-נגד-שבח-מחברון-264492
+https://hamal.co.il/main/יום-הזיכרון-לחללי-מערכות-ישראל-ונפגעי-פעולות-האיבה--כל-האי-264490
