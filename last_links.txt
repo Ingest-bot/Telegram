@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3831226
-https://hamal.co.il/main/נפילה-בקריית-שמונה-מרכב-עלה-באש-אין-נפגעים-263980
-https://news.walla.co.il/break/3831235
+COUNTER:38
 https://news.walla.co.il/break/3831236
 https://news.walla.co.il/item/3831234
 https://hamal.co.il/main/לראשונה-נקבת-היפוטטם-בסכנת-הכחדה-חמורה-נחתה-בישראל-263981
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אערוף-לך-את-הראש-264451
 https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-באתר-בנייה-264452
 https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-אין-להתקרב-לנהר-הליטני-264453
 https://hamal.co.il/main/חשש-להסלמה-מחיר-הנפט-מזנק-הבורסות-משקשקות-264454
+https://news.walla.co.il/break/3831951
+https://hamal.co.il/main/צהל-תקפנו-משגר-טעון-בדרום-לבנון-264457
+https://hamal.co.il/main/נשק-צהלי-נגנב-לצורך-סחר-264456
