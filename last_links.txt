@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3831406
-https://hamal.co.il/main/לאחר-ההכרזה-האיראנית-מחירי-הנפט-צנחו-בכ-10-264186
+COUNTER:22
 https://news.walla.co.il/item/3831411
 https://hamal.co.il/main/טראמפ-המצור-הימי-יישאר-בתוקף-בנוגע-לאיראן-בלבד-264189
 https://hamal.co.il/main/ברד-ברמת-הגולן-264190
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832182
 https://news.walla.co.il/break/3832181
 https://news.walla.co.il/item/3832180
 https://hamal.co.il/main/סמר-הלל-עובדיה-נפל-במלחמת-חרבות-ברזל-264518
+https://hamal.co.il/main/נפל-במלחמת-יום-הכיפורים-סיפורו-של-רב-סרן-נחום-שמר-זל-264565
+https://hamal.co.il/main/נפטר-ממחלת-הסרטן-לאחר-22-שנים-בצהל-264566
