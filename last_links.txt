@@ -1,10 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/לא-רק-כמה-אתם-מתאמנים-השינוי-הקטן-שיכול-להאריך-את-החיים-מער-264016
-https://hamal.co.il/main/נתניהו-מנותק-מהעם---זו-אשליה-זמנית-שסופה-אסון-התגובות-להפ-264028
-https://hamal.co.il/main/רהמ-בנימין-נתניהו-בהצהרה-בנושא-לבנון-ואיראן-264031
-https://hamal.co.il/main/טראמפ-אחרי-48-שנים-אנחנו-נפגיש-בין-נתניהו-לנשיא-לבנון-264035
-https://news.walla.co.il/break/3831285
-https://news.walla.co.il/break/3831284
+COUNTER:15
 https://news.walla.co.il/break/3831286
 https://hamal.co.il/main/טראמפ-שוחחתי-עם-נשיא-לבנון-אדם-טוב-ומאוד-מכובד-264036
 https://hamal.co.il/main/אחרי-שנה-וחצי-עומר-חזן-התארס-לבת-הזוג-שובל-חזיזה-264039
@@ -499,3 +493,9 @@ https://hamal.co.il/main/לאחר-7-שנים-זיו-אריה-התפטר-מאימ
 https://news.walla.co.il/break/3832032
 https://news.walla.co.il/item/3832033
 https://hamal.co.il/main/אל-תפלו-בפח-264481
+https://news.walla.co.il/break/3832043
+https://news.walla.co.il/break/3832040
+https://news.walla.co.il/item/3832037
+https://news.walla.co.il/item/3832039
+https://hamal.co.il/main/מקור-פקיסטני-ייעצתי-לטראמפ-לבטל-את-המצור-אמר-שישקול-זאת-264482
+https://hamal.co.il/main/מיקי-זוהר-על-החקירה-במשטרה-הסברתי-לחוקרים-כיצד-פועלת-הפולי-264483
