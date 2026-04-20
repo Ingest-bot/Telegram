@@ -1,10 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3831221
-https://hamal.co.il/main/פרשת-המוהל-החשוד-בגרימת-מוות-ברשלנות-מכיר-עוד-10-מקרים-של-263965
-https://news.walla.co.il/break/3831222
-https://news.walla.co.il/item/3831219
-https://news.walla.co.il/item/3831223
-https://hamal.co.il/main/שבועיים-להגיע-להסכמות-עם-היועמשית-ההכרעות-בבגץ-בן-גביר-263974
+COUNTER:36
 https://news.walla.co.il/item/3831226
 https://hamal.co.il/main/נפילה-בקריית-שמונה-מרכב-עלה-באש-אין-נפגעים-263980
 https://news.walla.co.il/break/3831235
@@ -499,3 +493,9 @@ https://hamal.co.il/main/אבדיה-כיכב-עם-30-נקודות-פורטלנד
 https://news.walla.co.il/break/3831939
 https://hamal.co.il/main/מסתמן-זה-המועמד-המוביל-לתפקיד-ראש-המלל-264449
 https://hamal.co.il/main/מד-264345
+https://news.walla.co.il/break/3831943
+https://news.walla.co.il/break/3831945
+https://hamal.co.il/main/אערוף-לך-את-הראש-264451
+https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-באתר-בנייה-264452
+https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-אין-להתקרב-לנהר-הליטני-264453
+https://hamal.co.il/main/חשש-להסלמה-מחיר-הנפט-מזנק-הבורסות-משקשקות-264454
