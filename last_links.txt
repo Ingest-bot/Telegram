@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/לראשונה-נקבת-היפוטטם-בסכנת-הכחדה-חמורה-נחתה-בישראל-263981
-https://news.walla.co.il/break/3831237
-https://news.walla.co.il/break/3831238
+COUNTER:0
 https://hamal.co.il/main/דיווח-לבנוני-הנשיא-שוחח-בטלפון-עם-טראמפ-263985
 https://hamal.co.il/main/בן-גביר-263987
 https://news.walla.co.il/break/3831243
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-תקפנו-משגר-טעון-בדרום-לבנו
 https://hamal.co.il/main/נשק-צהלי-נגנב-לצורך-סחר-264456
 https://news.walla.co.il/break/3831958
 https://news.walla.co.il/item/3831962
+https://news.walla.co.il/item/3831969
+https://hamal.co.il/main/התכוון-לצאת-264458
+https://hamal.co.il/main/יוש-הושמד-מצבור-מטענים-שהוסתר-בבית-ספר--צפו-264463
