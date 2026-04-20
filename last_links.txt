@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3831405
-https://hamal.co.il/main/שר-החוץ-האיראני-מכריז-מיצר-הורמוז-פתוח-לחלוטין-264184
-https://news.walla.co.il/break/3831407
-https://news.walla.co.il/item/3831405
+COUNTER:20
 https://news.walla.co.il/break/3831406
 https://hamal.co.il/main/לאחר-ההכרזה-האיראנית-מחירי-הנפט-צנחו-בכ-10-264186
 https://news.walla.co.il/item/3831411
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לא-הספיקו-לומר-כן-שלושה-סיפורי
 https://hamal.co.il/main/סרן-בני-וייס-נפל-בקרב-בצפון-רצועת-עזה-264519
 https://news.walla.co.il/break/3832180
 https://hamal.co.il/main/סמ״ר-נועם-יוסף-אבו-לחם-באומץ-ונפל-בקרב-בעזה-264517
+https://news.walla.co.il/break/3832182
+https://news.walla.co.il/break/3832181
+https://news.walla.co.il/item/3832180
+https://hamal.co.il/main/סמר-הלל-עובדיה-נפל-במלחמת-חרבות-ברזל-264518
