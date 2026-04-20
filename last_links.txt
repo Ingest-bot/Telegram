@@ -1,10 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3831257
-https://news.walla.co.il/break/3831256
-https://news.walla.co.il/break/3831258
-https://hamal.co.il/main/טראמפ-הפסקת-אש-של-10-ימים-עם-לבנון-החל-מחצות-264003
-https://hamal.co.il/main/במערכת-הביטחון-הופתעו-מההודעה-על-הפסקת-האש-גם-חכים-זועמים-264007
-https://news.walla.co.il/break/3831260
+COUNTER:8
 https://hamal.co.il/main/טראמפ-ממשיך-לצייץ-אזמין-את-נתניהו-ונשיא-לבנון-לבית-הלבן-264009
 https://hamal.co.il/main/הפסקת-האש-דווחה-עי-טראמפ-חברי-הקבינט-הופתעו-264011
 https://hamal.co.il/main/הפסקת-האש-צה״ל-לא-יתקוף-מהאוויר-הכוחות-יישארו-בדרום-לבנון-264015
@@ -499,3 +493,9 @@ https://hamal.co.il/main/המוסד-חושף-264467
 https://hamal.co.il/main/ערעורו-של-החשוד-באונס-שי-לי-עטרי-התקבל-שמו-לא-יפורסם-264468
 https://news.walla.co.il/item/3831986
 https://hamal.co.il/main/איראן-אין-תכניות-לסבב-נוסף-במומ-עם-ארהב-264469
+https://news.walla.co.il/break/3832008
+https://news.walla.co.il/item/3832002
+https://news.walla.co.il/item/3831999
+https://hamal.co.il/main/מקור-איראני-לרויטרס-264470
+https://hamal.co.il/main/שניות-לפני-הטקס-הנקמה-האכזרית-שהפכה-חתונת-חלומות-לסיוט-264474
+https://hamal.co.il/main/במשך-שנים-הרגיש-משהו-תקוע-בגרון---הרופאים-נדהמו-ממה-שיצא-משם-264371
