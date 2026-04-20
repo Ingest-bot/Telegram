@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/משרד-הבריאות-שוקל-להקפיא-מעבר-בין-קופות-חולים-בזמני-חירום-264159
-https://hamal.co.il/main/פרשת-״תזריע-מצורע״-מה-עושה-הצרעת-לאדם-הלוקה-בה-264166
-https://news.walla.co.il/item/3831393
+COUNTER:12
 https://hamal.co.il/main/השר-כ״ץ-״צה״ל-ימשיך-לאחוז-בכל-המקומות-שטיהר-וכבש״-264171
 https://news.walla.co.il/break/3831396
 https://hamal.co.il/main/פרוטקשן-לטהרן-וקריצה-לוושינגטון-כך-קטאר-קנתה-את-השקט-שלה-264168
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הרמטכל-במשימת-הביטחון---נדרשת-�
 https://news.walla.co.il/item/3832157
 https://hamal.co.il/main/קריאות-שמחה-במהלך-טקס-יום-הזיכרון-בלוד-5-חשודים-נעצרו-264551
 https://hamal.co.il/main/ישראלים-עוכבו-בנמל-תעופה-במוסקבה-אויב-של-איראן--אויב-שלנו-264552
+https://news.walla.co.il/item/3832160
+https://news.walla.co.il/item/3832161
+https://hamal.co.il/main/עמוד-התווך-שלנו-264553
