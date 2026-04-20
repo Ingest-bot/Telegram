@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3831365
-https://hamal.co.il/main/פרשת-״תזריע-מצרע״--זמני-השבת-264136
-https://hamal.co.il/main/איו״ש-מעל-ל-70-מבוקשים-נעצרו-100-אש״ח-הוחרמו-264140
+COUNTER:3
 https://news.walla.co.il/item/3831367
 https://news.walla.co.il/break/3831369
 https://news.walla.co.il/item/3831373
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832133
 https://news.walla.co.il/break/3832135
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-264524
 https://hamal.co.il/main/רסר-264511
+https://hamal.co.il/main/סמוטריץ-הגיבורים-האלו-לא-נפלו-בגלל-ציבור-כזה-או-אחר-264530
+https://hamal.co.il/main/סמל-איתי-לבני-נפל-במהלך-פעילות-מבצעית-בעיר-עזה-264513
+https://hamal.co.il/main/אחים-לסמל-עמותת-א-264531
