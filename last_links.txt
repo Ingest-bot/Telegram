@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3831367
-https://news.walla.co.il/break/3831369
+COUNTER:4
 https://news.walla.co.il/item/3831373
 https://hamal.co.il/main/בפעם-השלישית-ברציפות-האופוזיציה-עם-רוב-של-61-מנדטים--סקר-264142
 https://hamal.co.il/main/נשיא-סוריה-השיחות-עם-ישראל-לא-במבוי-סתום-אך-היא-פועלת-באכ-264143
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רסר-264511
 https://hamal.co.il/main/סמוטריץ-הגיבורים-האלו-לא-נפלו-בגלל-ציבור-כזה-או-אחר-264530
 https://hamal.co.il/main/סמל-איתי-לבני-נפל-במהלך-פעילות-מבצעית-בעיר-עזה-264513
 https://hamal.co.il/main/אחים-לסמל-עמותת-א-264531
+https://news.walla.co.il/break/3832143
+https://hamal.co.il/main/מיליארדי-פוסטים-וגילויי-שנאה-היקף-האנטישמיות-גבוה-משחשבתם-264540
