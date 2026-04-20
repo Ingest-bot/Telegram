@@ -1,7 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3831202
-https://hamal.co.il/main/לאכול-שם-מהרצפה-זה-שדה-התעופה-הנקי-בעולם-מזה-עשור-263956
-https://hamal.co.il/main/דיווח-נשיא-לבנון-הודיע-כי-לא-ידבר-עם-נתניהו-263957
+COUNTER:29
 https://news.walla.co.il/break/3831209
 https://news.walla.co.il/break/3831213
 https://news.walla.co.il/break/3831216
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3831931
 https://news.walla.co.il/item/3831928
 https://hamal.co.il/main/בריטניה-מגנים-את-שיגורי-הטילים-הבליסטיים-של-צפון-קוריאה-264440
 https://hamal.co.il/main/מדא-אישה-בת-40-נהרגה-וילד-בן-8-נפצע-קשה-באירוע-אלימות-בבש-264442
+https://news.walla.co.il/break/3831936
+https://hamal.co.il/main/המשטרה-חוקרת-אירוע-הירי-בבאר-שבע-264443
+https://hamal.co.il/main/הרמטכל-264441
