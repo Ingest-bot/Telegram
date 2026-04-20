@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/טראמפ-ממשיך-לצייץ-אזמין-את-נתניהו-ונשיא-לבנון-לבית-הלבן-264009
-https://hamal.co.il/main/הפסקת-האש-דווחה-עי-טראמפ-חברי-הקבינט-הופתעו-264011
-https://hamal.co.il/main/הפסקת-האש-צה״ל-לא-יתקוף-מהאוויר-הכוחות-יישארו-בדרום-לבנון-264015
-https://news.walla.co.il/break/3831263
+COUNTER:9
 https://news.walla.co.il/break/3831264
 https://hamal.co.il/main/איזנקוט-נתניהו-לא-יודע-לממש-הישגים-צבאיים-להישגים-מדיניים-264022
 https://hamal.co.il/main/חשד-להרעלת-מזון-במעונות-במרכז-הארץ-15-פעוטות-ותינוקות-נפגעו-264025
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3831999
 https://hamal.co.il/main/מקור-איראני-לרויטרס-264470
 https://hamal.co.il/main/שניות-לפני-הטקס-הנקמה-האכזרית-שהפכה-חתונת-חלומות-לסיוט-264474
 https://hamal.co.il/main/במשך-שנים-הרגיש-משהו-תקוע-בגרון---הרופאים-נדהמו-ממה-שיצא-משם-264371
+https://news.walla.co.il/break/3832009
+https://news.walla.co.il/item/3832013
+https://news.walla.co.il/item/3832010
+https://hamal.co.il/main/לאחר-רעידת-האדמה-אזהרת-צונאמי-ביפן-264478
