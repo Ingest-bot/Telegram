@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3831298
-https://news.walla.co.il/break/3831296
-https://news.walla.co.il/break/3831299
+COUNTER:21
 https://hamal.co.il/main/צהל-נערכים-לאפשרות-של-ירי-ממוקד-לאזור-הצפון-264071
 https://hamal.co.il/main/מד״א-מטפלים-במספר-פצועים-בכרמיאל-סריקות-גם-במגד-אל-כרום-264073
 https://hamal.co.il/main/הירי-מלבנון-2-פצועים-קשה-בכרמיאל-ובנהריה-264076
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נוסטרדמוס-החי-חושף-המניע-המצמ�
 https://hamal.co.il/main/נתניהו-גינה-את-ניתוץ-הפסל-של-ישו-264486
 https://hamal.co.il/main/הרמטכל-למשרתים-ששכלו-את-קרוביהם-264487
 https://hamal.co.il/main/תיעוד-קשה-מכונית-מרוץ-התהפכה-צופה-נהרג-264485
+https://news.walla.co.il/break/3832082
+https://news.walla.co.il/item/3832081
+https://hamal.co.il/main/6-רופאים-חושפים-אלה-תוספי-תזונה-שאנחנו-נוטלים-בכל-יום-264455
