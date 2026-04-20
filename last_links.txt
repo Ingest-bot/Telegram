@@ -1,5 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/בגיל-18-מדליית-ארד-לכוכב-הגודו-הישראלי-באליפות-אירופה-263963
+COUNTER:32
 https://news.walla.co.il/break/3831221
 https://hamal.co.il/main/פרשת-המוהל-החשוד-בגרימת-מוות-ברשלנות-מכיר-עוד-10-מקרים-של-263965
 https://news.walla.co.il/break/3831222
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3831938
 https://hamal.co.il/main/אבדיה-כיכב-עם-30-נקודות-פורטלנד-נכנעה-בסן-אנטוניו-264448
 https://news.walla.co.il/break/3831939
 https://hamal.co.il/main/מסתמן-זה-המועמד-המוביל-לתפקיד-ראש-המלל-264449
+https://hamal.co.il/main/מד-264345
