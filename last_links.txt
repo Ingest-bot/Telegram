@@ -1,8 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/פרוטקשן-לטהרן-וקריצה-לוושינגטון-כך-קטאר-קנתה-את-השקט-שלה-264168
-https://hamal.co.il/main/דיווח-צפויה-פגישה-בין-ארה״ב-לאיראן-שעשויה-להסתיים-264172
-https://news.walla.co.il/item/3831400
-https://hamal.co.il/main/דיווח-חשד-לאירוע-ביטחוני-סמוך-לשגרירות-ישראל-האבטחה-תוגברה-264174
+COUNTER:15
 https://hamal.co.il/main/נשיא-לבנון-״הצבא-הלבנוני-ימלא-תפקיד-מרכזי-לאחר-נסיגת-ישראל״-264175
 https://news.walla.co.il/break/3831404
 https://hamal.co.il/main/יש-עוד-מדליה-תמנע-נלסון-לוי-בגמר-אליפות-אירופה-264170
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3832161
 https://hamal.co.il/main/עמוד-התווך-שלנו-264553
 https://hamal.co.il/main/טראמפ-264554
 https://hamal.co.il/main/סמ״ר-אסצאלו-אסי-סמה-נפל-בלחימה-בעזה-264514
+https://news.walla.co.il/break/3832166
+https://news.walla.co.il/break/3832167
+https://news.walla.co.il/item/3832165
+https://hamal.co.il/main/סמ״ר-טל-שביט-נפל-בקרב-בעזה-264516
