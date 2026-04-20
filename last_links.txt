@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3831377
-https://news.walla.co.il/item/3831381
+COUNTER:7
 https://hamal.co.il/main/ילה-של-אש-באוקראינה-בתי-משפחות-יהודיות-נפגעו-בגל-תקיפות-קטל-264151
 https://news.walla.co.il/break/3831385
 https://news.walla.co.il/item/3831384
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832142
 https://news.walla.co.il/item/3832146
 https://hamal.co.il/main/סיפורן-של-3-גיבורות-264541
 https://hamal.co.il/main/יום-הזיכרון-2026-שידור-ישיר-מרחבת-הכותל-המערבי-264534
+https://news.walla.co.il/break/3832149
+https://hamal.co.il/main/תלונה-נוספת-נגד-המוהל-החשוד-בגרימת-מוותברקע-תינוק-במצב-אנוש-264543
