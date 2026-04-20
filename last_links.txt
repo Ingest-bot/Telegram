@@ -1,5 +1,4 @@
 COUNTER:29
-https://news.walla.co.il/break/3831209
 https://news.walla.co.il/break/3831213
 https://news.walla.co.il/break/3831216
 https://news.walla.co.il/break/3831217
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מדא-אישה-בת-40-נהרגה-וילד-בן-8-נפ
 https://news.walla.co.il/break/3831936
 https://hamal.co.il/main/המשטרה-חוקרת-אירוע-הירי-בבאר-שבע-264443
 https://hamal.co.il/main/הרמטכל-264441
+https://news.walla.co.il/break/3831938
