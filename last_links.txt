@@ -1,7 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/ילה-של-אש-באוקראינה-בתי-משפחות-יהודיות-נפגעו-בגל-תקיפות-קטל-264151
-https://news.walla.co.il/break/3831385
-https://news.walla.co.il/item/3831384
+COUNTER:8
 https://hamal.co.il/main/שקלו-מחדש-את-הטיול-בסופש-אזהרת-זיהום-אוויר-חריג-בכל-הארץ-264153
 https://hamal.co.il/main/לכבוד-יום-העצמאות-ה-78-טקס-הענקת-דרגות-264155
 https://hamal.co.il/main/הרפורמה-החדשה-של-יריב-לוין---והמסר-לוועדה-למינוי-שופטים-264157
@@ -499,3 +496,6 @@ https://hamal.co.il/main/סיפורן-של-3-גיבורות-264541
 https://hamal.co.il/main/יום-הזיכרון-2026-שידור-ישיר-מרחבת-הכותל-המערבי-264534
 https://news.walla.co.il/break/3832149
 https://hamal.co.il/main/תלונה-נוספת-נגד-המוהל-החשוד-בגרימת-מוותברקע-תינוק-במצב-אנוש-264543
+https://news.walla.co.il/break/3832154
+https://news.walla.co.il/item/3832153
+https://hamal.co.il/main/טקס-הזיכרון-הממלכתי-חיילי-צהל-ובכירים-עומדים-לזכר-הנופלים-264547
