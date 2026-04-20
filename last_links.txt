@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3831373
-https://hamal.co.il/main/בפעם-השלישית-ברציפות-האופוזיציה-עם-רוב-של-61-מנדטים--סקר-264142
-https://hamal.co.il/main/נשיא-סוריה-השיחות-עם-ישראל-לא-במבוי-סתום-אך-היא-פועלת-באכ-264143
-https://hamal.co.il/main/מושיק-טימור-מוותיקי-שדרני-הרדיו-בישראל-הלך-לעולמו-בגיל-89-264145
+COUNTER:6
 https://news.walla.co.il/break/3831377
 https://news.walla.co.il/item/3831381
 https://hamal.co.il/main/ילה-של-אש-באוקראינה-בתי-משפחות-יהודיות-נפגעו-בגל-תקיפות-קטל-264151
@@ -499,3 +495,7 @@ https://hamal.co.il/main/סמל-איתי-לבני-נפל-במהלך-פעילות
 https://hamal.co.il/main/אחים-לסמל-עמותת-א-264531
 https://news.walla.co.il/break/3832143
 https://hamal.co.il/main/מיליארדי-פוסטים-וגילויי-שנאה-היקף-האנטישמיות-גבוה-משחשבתם-264540
+https://news.walla.co.il/item/3832142
+https://news.walla.co.il/item/3832146
+https://hamal.co.il/main/סיפורן-של-3-גיבורות-264541
+https://hamal.co.il/main/יום-הזיכרון-2026-שידור-ישיר-מרחבת-הכותל-המערבי-264534
