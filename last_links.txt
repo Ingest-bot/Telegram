@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3831334
-https://news.walla.co.il/break/3831335
-https://news.walla.co.il/item/3831320
-https://news.walla.co.il/item/3831331
+COUNTER:34
 https://hamal.co.il/main/2-גברים-נפצעו-באירוע-אלימות-בכפר-קרע-מצבם-קשה-264123
 https://hamal.co.il/main/גבר-נפל-מבניין-בנתניה-מצבו-קשה-264124
 https://hamal.co.il/main/טראמפ-המלחמה-באיראן-מתקדמת-היא-תסתיים-בקרוב-264125
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בגין-הברחת-סחורות-לעזה-כתב-איש
 https://hamal.co.il/main/כתב-אישום-נגד-7-קצינים-עבירות-כלכליות-במיליוני-שקלים-264502
 https://news.walla.co.il/break/3832115
 https://news.walla.co.il/break/3832116
+https://news.walla.co.il/item/3831197
+https://hamal.co.il/main/מתקפת-פתע-או-תקיפה-באיראן-בצהל-נערכים-לקריסת-המשא-ומתן-264505
+https://hamal.co.il/main/שני-גברים-נהרגו-בתאונת-דרכים-ברמת-הגולן-264506
+https://hamal.co.il/main/גורם-ישראלי-סבב-חדש-של-מומ-ישראלי-לבנוני---כבר-בחמישי-264509
