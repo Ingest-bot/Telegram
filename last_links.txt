@@ -1,5 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/ההודעה-שקיבלו-תושבי-הצפון---בסמוך-להפסקת-האש-ייתכן-ירי-263995
+COUNTER:5
 https://news.walla.co.il/break/3831257
 https://news.walla.co.il/break/3831256
 https://news.walla.co.il/break/3831258
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מגיח-מאחור---ויורה-צרורות-264466
 https://hamal.co.il/main/המוסד-חושף-264467
 https://hamal.co.il/main/ערעורו-של-החשוד-באונס-שי-לי-עטרי-התקבל-שמו-לא-יפורסם-264468
 https://news.walla.co.il/item/3831986
+https://hamal.co.il/main/איראן-אין-תכניות-לסבב-נוסף-במומ-עם-ארהב-264469
