@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3831511
-https://hamal.co.il/main/לאחר-חיסול-המחבל-שחדר-לנגוהות-צהל-פשט-לביתו-264270
-https://news.walla.co.il/break/3831514
+COUNTER:26
 https://news.walla.co.il/item/3831516
 https://hamal.co.il/main/סופת-ברד-חריגה-הכתה-בצפון-הגולן---נזק-כבד-לרכוש-ולחקלאות-264273
 https://news.walla.co.il/item/3831519
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832275
 https://news.walla.co.il/break/3832279
 https://hamal.co.il/main/ראש-המוסד-חשף-סוכן-שלנו-נפל-במהלך-264633
 https://hamal.co.il/main/בכל-הגזרות-לוחמי-צהל-264634
+https://news.walla.co.il/break/3832288
+https://news.walla.co.il/item/3832283
+https://hamal.co.il/main/ישיר-טקס-הזיכרון-הממלכתי-לחללי-פעולות-האיבה-264636
