@@ -1,10 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3831527
-https://news.walla.co.il/break/3831524
-https://hamal.co.il/main/דיווח-אש-נורתה-לעבר-שתי-ספינות-שניסו-לעבור-בהורמוז-264278
-https://news.walla.co.il/break/3831529
-https://hamal.co.il/main/מקרון-חייל-צרפתי-מכוח-יוניפיל-נהרג-בלבנון---חיזבאללה-אחראי-264279
-https://news.walla.co.il/break/3831537
+COUNTER:34
 https://news.walla.co.il/break/3831539
 https://news.walla.co.il/break/3831538
 https://hamal.co.il/main/איראן-משתוללת-ספינה-נוספת-הותקפה-בירי-טילים-במצר-הורמוז-264280
@@ -499,3 +493,9 @@ https://hamal.co.il/main/נהרג-לפני-מספר-שנים-באיטליה-הפ
 https://hamal.co.il/main/סיפורו-של-טוראי-מנשה-רוסו-ז״ל-264639
 https://hamal.co.il/main/צפו-טקס-יום-הזיכרון-בבית-העלמין-בעוספיא-264643
 https://hamal.co.il/main/צפו-הרמטכ״ל-בטקס-הזיכרון-בהיכל-השמות-הממלכתי-בהר-הרצל-264645
+https://news.walla.co.il/break/3832301
+https://news.walla.co.il/break/3832303
+https://news.walla.co.il/break/3832305
+https://hamal.co.il/main/השריונר-המצטיין-שנפל-בפאתי-עזה-סיפורו-של-264646
+https://hamal.co.il/main/טראמפ-264647
+https://hamal.co.il/main/הפנטגון-הודיע-השתלטנו-על-ספינה-נוספת-השייכת-לאיראן--תיעוד-264648
