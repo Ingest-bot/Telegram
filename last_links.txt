@@ -1,6 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/סבב-שיחות-חדש-בין-ארצות-הברית-לאיראן-צפוי-להתחיל-ביום-264255
-https://news.walla.co.il/break/3831480
+COUNTER:13
 https://news.walla.co.il/break/3831479
 https://hamal.co.il/main/בצל-הפסקת-האש---הקרב-על-הקו-הצהוב-בלבנון-264259
 https://news.walla.co.il/break/3831481
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סיפורו-של-סמר-264612
 https://hamal.co.il/main/סיפורו-של-סמר-264613
 https://hamal.co.il/main/הבכיר-האיראני-מזהיר-264616
 https://hamal.co.il/main/דיווח-משלחות-מארהב-ואיראן-הגיעו-לפקיסטן-לקראת-חידוש-השיחות-264617
+https://news.walla.co.il/break/3832244
+https://hamal.co.il/main/ישראל-מרכינה-ראש-צפירה-בת-2-דקות-תישמע-בשעה-1100-264600
