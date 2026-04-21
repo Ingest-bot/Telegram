@@ -1,9 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/הכוח-סרק-מבנה-מטען-התפוצץ-על-הלוחמים--פרטי-התקרית-בלבנון-264312
-https://news.walla.co.il/break/3831594
-https://news.walla.co.il/break/3831595
-https://news.walla.co.il/item/3831596
-https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264313
+COUNTER:23
 https://news.walla.co.il/break/3831599
 https://news.walla.co.il/item/3831597
 https://hamal.co.il/main/בזמן-שישראל-נלחמה-כך-הוזרם-כסף-לחמאס-דרך-ציר-חשאי-מטורקיה-264314
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אזעקות-נשמעו-בצפון-264676
 https://hamal.co.il/main/דיווח-זוהה-יירוט-בשמי-הצפון-264678
 https://hamal.co.il/main/האזעקות-בגליל-מדובר-באזעקת-שווא-264680
 https://hamal.co.il/main/משטרת-ישראל-השלימה-את-אבטחת-אירועי-יום-הזיכרון-לחללי-מערכות-264681
+https://news.walla.co.il/break/3832353
+https://news.walla.co.il/break/3832355
+https://news.walla.co.il/item/3832352
+https://news.walla.co.il/item/3832327
+https://hamal.co.il/main/רס״ן-שי-שייקה-ברנשטיין-ז״ל-בן-24-בנופלו-נפל-ב1282006--264682
