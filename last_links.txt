@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3831459
-https://news.walla.co.il/break/3831460
+COUNTER:0
 https://hamal.co.il/main/טראמפ-אני-לא-חושב-שיש-יותר-מדי-פערים-משמעותיים-עם-איראן-264241
 https://hamal.co.il/main/רעשי-פיצוצים-וארטילריה-במרחב-צפון-העוטף-בעקבות-פעילות-צהל-264242
 https://news.walla.co.il/break/3831462
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רכב-של-היחידה-לאבטחת-אישים-דרס
 https://news.walla.co.il/break/3832203
 https://news.walla.co.il/item/3832201
 https://hamal.co.il/main/רב-טוראי-יואב-מליק-זל-264589
+https://news.walla.co.il/break/3832213
+https://hamal.co.il/main/ישיר-טקס-הקראת-שמות-חללי-מערכות-ישראל-בהר-הרצל-264590
