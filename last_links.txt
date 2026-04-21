@@ -1,8 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3831621
-https://news.walla.co.il/break/3831622
-https://news.walla.co.il/break/3831623
-https://news.walla.co.il/break/3831625
+COUNTER:37
 https://news.walla.co.il/break/3831627
 https://news.walla.co.il/item/3831626
 https://hamal.co.il/main/מזכל-האום-גינה-את-התקיפה-בלבנון-בה-נהרג-חייל-יוניפיל-רויט-264321
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ראש-הממשלה-אנחנו-שואטים-קדימה-
 https://hamal.co.il/main/משיאי-משואת-צה״ל-ליום-העצמאות-ה-78-למדינת-ישראל-אלוף-משנה-מ-264704
 https://news.walla.co.il/break/3832366
 https://news.walla.co.il/break/3832368
+https://news.walla.co.il/break/3832369
+https://news.walla.co.il/break/3832372
+https://hamal.co.il/main/אורה-חתן--״לכבוד-דור-המחר-שחולמים-שהגליל-יחזור-לפרוח---והוא-264705
+https://hamal.co.il/main/טליק-גויאלי-אמו-של-גיבור-ישראל-רני-״לכבוד-בני-שקידש-את-המד-264706
