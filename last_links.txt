@@ -1,7 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3831516
-https://hamal.co.il/main/סופת-ברד-חריגה-הכתה-בצפון-הגולן---נזק-כבד-לרכוש-ולחקלאות-264273
-https://news.walla.co.il/item/3831519
+COUNTER:28
 https://hamal.co.il/main/לבנון-זוהו-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והתקרבו-לקו-הצהו-264274
 https://hamal.co.il/main/דיווח-ראשוני-ירי-בשדרות-בן-גוריון-חיפה-264276
 https://news.walla.co.il/break/3831525
@@ -499,3 +496,6 @@ https://hamal.co.il/main/בכל-הגזרות-לוחמי-צהל-264634
 https://news.walla.co.il/break/3832288
 https://news.walla.co.il/item/3832283
 https://hamal.co.il/main/ישיר-טקס-הזיכרון-הממלכתי-לחללי-פעולות-האיבה-264636
+https://news.walla.co.il/item/3832296
+https://hamal.co.il/main/סיפורו-של-סרן-זיו-דאוס-זל-264637
+https://hamal.co.il/main/נהרג-לפני-מספר-שנים-באיטליה-הפרטים-על-נפילתו-של-איש-המוסד-264638
