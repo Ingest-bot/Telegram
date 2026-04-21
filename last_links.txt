@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3831599
-https://news.walla.co.il/item/3831597
-https://hamal.co.il/main/בזמן-שישראל-נלחמה-כך-הוזרם-כסף-לחמאס-דרך-ציר-חשאי-מטורקיה-264314
-https://hamal.co.il/main/בסיבוב-הראשון-264315
+COUNTER:26
 https://news.walla.co.il/break/3831601
 https://news.walla.co.il/break/3831604
 https://news.walla.co.il/break/3831606
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3832355
 https://news.walla.co.il/item/3832352
 https://news.walla.co.il/item/3832327
 https://hamal.co.il/main/רס״ן-שי-שייקה-ברנשטיין-ז״ל-בן-24-בנופלו-נפל-ב1282006--264682
+https://news.walla.co.il/break/3832356
+https://hamal.co.il/main/לאחר-מבצע-נגד-הקרטלים-שני-סוכני-CIA-נהרגו-בתאונת-דרכים-במקס-264683
+https://hamal.co.il/main/תאיר-רזיאל-שלנו-מספרת-על-אביה-ידידיה-ז״ל-שנהרג-בקרב-הגבורה-264686
+https://hamal.co.il/main/ד-חיזבאללה-שיגר-לפני-זמן-קצר-מספר-רקטות-לעבר-כוחות-צה״ל-הפ-264687
