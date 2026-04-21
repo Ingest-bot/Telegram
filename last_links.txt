@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3831604
-https://news.walla.co.il/break/3831606
-https://news.walla.co.il/break/3831610
-https://hamal.co.il/main/משרד-המשפטים-האמריקני-יצרף-עוד-שייצג-בעברו-את-טראמפ---לחקיר-264316
+COUNTER:29
 https://hamal.co.il/main/גבר-כבן-25-במצב-קשה-פרמדיקים-במדא-ניתאי-הרפז-אלעד-כהן-וחו-264317
 https://hamal.co.il/main/ברזיל-ספרד-ומקסיקו-מתחייבות-להגביר-את-הסיוע-לקובה-רויטרס-3-264318
 https://news.walla.co.il/break/3831612
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לאחר-מבצע-נגד-הקרטלים-שני-סוכנ
 https://hamal.co.il/main/תאיר-רזיאל-שלנו-מספרת-על-אביה-ידידיה-ז״ל-שנהרג-בקרב-הגבורה-264686
 https://hamal.co.il/main/ד-חיזבאללה-שיגר-לפני-זמן-קצר-מספר-רקטות-לעבר-כוחות-צה״ל-הפ-264687
 https://news.walla.co.il/item/3832358
+https://news.walla.co.il/break/3832363
+https://hamal.co.il/main/מערכת-חמל-מאחלת-לכל-בית-ישראל-יום-עצמאות-שמח-264689
+https://hamal.co.il/main/ישראל-בת-78--שידור-ישיר-מטקס-הדלקת-המשואות-בהר-הרצל-264692
+https://hamal.co.il/main/ולתפארת-מדינת-ישראל-טקס-המשואות-יוצא-לדרך-בהר-הרצל--ישיר-א-264694
