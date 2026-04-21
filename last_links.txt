@@ -1,10 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/טראמפ-ישראל-הוכיחה-שהיא-בעלת-ברית-נהדרת-של-ארהב-עידן-קוו-264324
-https://news.walla.co.il/break/3831628
-https://hamal.co.il/main/רסל-מיל-לידור-פורת-נפל-בקרב-בדרום-לבנון-264325
-https://news.walla.co.il/item/3831631
-https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-גשם-מקומי-בצפון-וקר-מהרגיל-ינשבו-264326
-https://news.walla.co.il/break/3831632
+COUNTER:2
 https://news.walla.co.il/break/3831633
 https://news.walla.co.il/break/3831634
 https://news.walla.co.il/item/3831620
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3832373
 https://news.walla.co.il/item/3832374
 https://hamal.co.il/main/ארגנטינה-וישראל-אינן-רק-שותפות---אלא-חברות-אמת-את-המשואה-ה-264711
 https://hamal.co.il/main/ארי-שפיץ-בטקס-הדלקת-המשואות-״השיקום-הוא-מלחמה-נוספת-ואין-לנ-264712
+https://news.walla.co.il/break/3832375
+https://news.walla.co.il/break/3832376
+https://news.walla.co.il/break/3832377
+https://news.walla.co.il/item/3832357
+https://hamal.co.il/main/במטרה-להסיר-איום-על-כוחותינו-צהל-חיסל-מחבלים-חמושים-מארגון-264713
+https://hamal.co.il/main/הנשיא-מיליי-והרב-זרביב-פתחו-בריקוד-אחרי-הדלקת-המשואות--צפו-264714
