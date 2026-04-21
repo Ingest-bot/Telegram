@@ -1,7 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3831541
-https://news.walla.co.il/break/3831542
-https://news.walla.co.il/break/3831544
+COUNTER:37
 https://news.walla.co.il/break/3831543
 https://hamal.co.il/main/כ-40-אלף-מטיילים-פקדו-את-שמורות-הטבע-והגנים-הלאומיים-264283
 https://news.walla.co.il/break/3831545
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הפנטגון-הודיע-השתלטנו-על-ספינ�
 https://news.walla.co.il/item/3832303
 https://hamal.co.il/main/סיפורו-של-סמל-אדיר-טהר-ז״ל-264649
 https://news.walla.co.il/item/3832309
+https://news.walla.co.il/break/3832313
+https://hamal.co.il/main/צפו-משפחות-שכולות-מניחות-זרים-בהר-הרצל-264641
+https://hamal.co.il/main/הפעילו-מוזיקה-בערבית-תושבי-מזרח-י-ם-ביזו-טקסי-זיכרון-ונעצרו-264650
