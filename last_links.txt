@@ -1,9 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3831612
-https://news.walla.co.il/item/3831613
-https://hamal.co.il/main/חשד-לפעולת-נקמה-בבנימין-בית-ושני-רכבים-הוצתו-בטורמוס-עיא-א-264319
-https://news.walla.co.il/break/3831615
-https://news.walla.co.il/item/3831616
+COUNTER:35
 https://hamal.co.il/main/קמלה-האריס-מאשימה-נתניהו-גרר-את-טראמפ-למלחמה-באיראן-עידן-קו-264320
 https://news.walla.co.il/break/3831619
 https://news.walla.co.il/break/3831621
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ישראל-בת-78--שידור-ישיר-מטקס-הדל
 https://hamal.co.il/main/ולתפארת-מדינת-ישראל-טקס-המשואות-יוצא-לדרך-בהר-הרצל--ישיר-א-264694
 https://hamal.co.il/main/יום-הולדת-78-למדינה-תיעוד-מהטקס-בהר-הרצל-264697
 https://hamal.co.il/main/הטקס-ערוך-ומוכן-כניסת-ראש-הממשלה-נתניהו-להר-הרצל-264698
+https://news.walla.co.il/break/3832365
+https://hamal.co.il/main/78-שנים-למדינת-ישראל--תיעודים-מהטקס-בהר-הרצל-264700
+https://hamal.co.il/main/מערך-הטקסים-השר-בן-גביר-התיישב-בשגגה-במקום-נשיא-ארגטינה-264702
+https://hamal.co.il/main/ראש-הממשלה-אנחנו-שואטים-קדימה-בכל-הכיוונים---הדור-הצעיר-נו-264703
+https://hamal.co.il/main/משיאי-משואת-צה״ל-ליום-העצמאות-ה-78-למדינת-ישראל-אלוף-משנה-מ-264704
