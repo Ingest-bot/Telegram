@@ -1,9 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/צהל-חיסלנו-מחבלי-חיזבאללה-בדרום-לבנון-264296
-https://news.walla.co.il/break/3831565
-https://news.walla.co.il/break/3831566
-https://hamal.co.il/main/דיווח-ארהב-מתכננת-לפשוט-על-אוניות-נפט-איראניות-264297
-https://news.walla.co.il/break/3831572
+COUNTER:9
 https://news.walla.co.il/break/3831573
 https://news.walla.co.il/break/3831574
 https://news.walla.co.il/item/3831552
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832326
 https://hamal.co.il/main/בן-גביר-מתקפל-סנצ-רותי-האוסליך-תקודם-לדרגת-נצמ-אפרת-פורשר-264660
 https://hamal.co.il/main/דיווח-משלחות-מארהב-ואיראן-יתייצבו-מחר-לשיחות-מומ-נוספות-ב-264661
 https://hamal.co.il/main/יפן-ממשיכה-להתרחק-מהפציפיזם-ותאשר-יצוא-נשק-מתקדם-גיא-אלסטר-264662
+https://news.walla.co.il/break/3832336
+https://news.walla.co.il/item/3832320
+https://news.walla.co.il/item/3832334
+https://hamal.co.il/main/היה-הראשון-לצאת-לחלץ-ולהביא-ציוד-סיפורו-של-נריה-גנארי-זל-264659
+https://hamal.co.il/main/הרמטכל-רב-אלוף-אייל-זמיר-מטקס-הזיכרון-הממלכתי-לנפגעי-פעול-264664
