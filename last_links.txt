@@ -1,9 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/המשטרה-הצליחה-לעצור-לפני-זמן-קצר-את-החשוד-בביצוע-הירי-בחיפה-264288
-https://news.walla.co.il/break/3831559
-https://news.walla.co.il/break/3831560
-https://news.walla.co.il/break/3831561
-https://hamal.co.il/main/בשעה-טובה-רביד-פלוטניק-ואשתו-מאי-גריאני-מצפים-לילד-ראשון-264292
+COUNTER:7
 https://hamal.co.il/main/צהל-חיסלנו-מחבלי-חיזבאללה-בדרום-לבנון-264296
 https://news.walla.co.il/break/3831565
 https://news.walla.co.il/break/3831566
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3832319
 https://hamal.co.il/main/דובר-צהל-לכבוד-יום-העצמאות-פיקוד-הדרום-יאפשר-פתיחה-של-מ-264657
 https://hamal.co.il/main/מדא-אישה-וגבר-נורו-למוות-בירכא-264658
 https://hamal.co.il/main/סמל-ערן-אלוני-ז״ל--התגורר-באופקים-למד-בתיכון-עמל-אמירים-264656
+https://news.walla.co.il/item/3832325
+https://news.walla.co.il/break/3832326
+https://hamal.co.il/main/בן-גביר-מתקפל-סנצ-רותי-האוסליך-תקודם-לדרגת-נצמ-אפרת-פורשר-264660
+https://hamal.co.il/main/דיווח-משלחות-מארהב-ואיראן-יתייצבו-מחר-לשיחות-מומ-נוספות-ב-264661
+https://hamal.co.il/main/יפן-ממשיכה-להתרחק-מהפציפיזם-ותאשר-יצוא-נשק-מתקדם-גיא-אלסטר-264662
