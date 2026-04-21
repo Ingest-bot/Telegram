@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/טראמפ-איראן-הסכימה-להכל---כולל-הוצאת-האורניום-264237
-https://news.walla.co.il/break/3831451
-https://hamal.co.il/main/הצצה-נדירה-אל-העיירה-הסודית-של-עשירי-ארהב-שנמחקה-מגוגל-264161
+COUNTER:39
 https://news.walla.co.il/break/3831459
 https://news.walla.co.il/break/3831460
 https://hamal.co.il/main/טראמפ-אני-לא-חושב-שיש-יותר-מדי-פערים-משמעותיים-עם-איראן-264241
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אוהב-אותך-מדינה-שלי-המכתב-של-264
 https://hamal.co.il/main/נער-ערבי-מיוש-נדרס-למוות-264586
 https://hamal.co.il/main/צפו-המפגש-של-הרמטכל-עם-המשרתים-שקרוביהם-נפלו-במלחמה-264587
 https://hamal.co.il/main/רכב-של-היחידה-לאבטחת-אישים-דרס-למוות-נער-ערבי-סמוך-לחברון-264588
+https://news.walla.co.il/break/3832203
+https://news.walla.co.il/item/3832201
+https://hamal.co.il/main/רב-טוראי-יואב-מליק-זל-264589
