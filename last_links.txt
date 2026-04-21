@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3831479
-https://hamal.co.il/main/בצל-הפסקת-האש---הקרב-על-הקו-הצהוב-בלבנון-264259
-https://news.walla.co.il/break/3831481
-https://news.walla.co.il/break/3831491
-https://news.walla.co.il/break/3831490
-https://news.walla.co.il/item/3831485
+COUNTER:17
 https://news.walla.co.il/break/3831492
 https://news.walla.co.il/break/3831493
 https://hamal.co.il/main/דובר-משרד-ההגנה-האיראני-המלחמה-לא-הסתיימה-עדיין-264260
@@ -499,3 +493,9 @@ https://hamal.co.il/main/הבכיר-האיראני-מזהיר-264616
 https://hamal.co.il/main/דיווח-משלחות-מארהב-ואיראן-הגיעו-לפקיסטן-לקראת-חידוש-השיחות-264617
 https://news.walla.co.il/break/3832244
 https://hamal.co.il/main/ישראל-מרכינה-ראש-צפירה-בת-2-דקות-תישמע-בשעה-1100-264600
+https://news.walla.co.il/break/3832254
+https://news.walla.co.il/item/3832249
+https://hamal.co.il/main/טייס-הקרב-משתף-בכאב-שקלתי-להקליט-הודעת-פרידה-למשפחה-264621
+https://hamal.co.il/main/השתדל-להיות-איש-סיפורו-של-264622
+https://hamal.co.il/main/עוד-עזיבה-בממשל-טראמפ-שרת-העבודה-התפטרה-264623
+https://hamal.co.il/main/באיראן-מכחישים-אף-משלחת-לא-הגיעה-לפקיסטן-לקראת-השיחות-264626
