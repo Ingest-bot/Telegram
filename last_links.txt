@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3831579
-https://hamal.co.il/main/מדליית-זהב-לנבחרת-ישראל-בקרב-רב-בגביע-העולם-בבאקו-264300
-https://news.walla.co.il/break/3831583
-https://news.walla.co.il/break/3831584
+COUNTER:16
 https://news.walla.co.il/item/3831585
 https://hamal.co.il/main/ההסלמה-במצרי-הורמוז-האם-ארהב-נערכת-לחזור-ללחימה-264309
 https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264310
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3832340
 https://hamal.co.il/main/30-ימי-מחבוש---והדחה-מלוחמה-נקבע-העונש-ללוחם-שניפץ-פסל-של-י-264668
 https://news.walla.co.il/break/3832343
 https://news.walla.co.il/break/3832344
+https://news.walla.co.il/break/3832346
+https://hamal.co.il/main/גיא-זוארץ-כותב-לאחיינו-שנרצח-בנובה-הבור-השחור-לא-מתמלא-וו-264669
+https://hamal.co.il/main/צהל-חיסל-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והיוו-איום-מיידי-ע-264670
+https://hamal.co.il/main/סרן-עידו-וולוך-מפקד-מחלקת-טנקים-נפל-ב-2542025-בן-21-בנופ-264663
