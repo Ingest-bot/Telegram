@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3831585
-https://hamal.co.il/main/ההסלמה-במצרי-הורמוז-האם-ארהב-נערכת-לחזור-ללחימה-264309
-https://hamal.co.il/main/שריפה-פרצה-בבית-אבות-ברמת-גן-2-נפגעים-פונו-במצב-קל-264310
-https://news.walla.co.il/break/3831587
-https://news.walla.co.il/break/3831589
+COUNTER:18
 https://news.walla.co.il/item/3831586
 https://hamal.co.il/main/הותר-לפרסום-רסב-ברק-כלפון-נפטר-מפצעיו-264311
 https://news.walla.co.il/break/3831590
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832346
 https://hamal.co.il/main/גיא-זוארץ-כותב-לאחיינו-שנרצח-בנובה-הבור-השחור-לא-מתמלא-וו-264669
 https://hamal.co.il/main/צהל-חיסל-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והיוו-איום-מיידי-ע-264670
 https://hamal.co.il/main/סרן-עידו-וולוך-מפקד-מחלקת-טנקים-נפל-ב-2542025-בן-21-בנופ-264663
+https://news.walla.co.il/break/3832347
+https://news.walla.co.il/break/3832349
+https://news.walla.co.il/item/3832348
+https://hamal.co.il/main/בזכותם-אנו-כאן-לוחמי-היממ-שנפלו-264672
+https://hamal.co.il/main/אחרי-שלוש-שנים-מוזיאון-חיל-האוויר-נפתח-עם-מטוס-הקרב-שתקף-בא-264673
