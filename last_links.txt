@@ -1,9 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/אלוהים-ישמור-זה-יהיה-כיף-האיש-שינסה-לעצור-את-דני-אבדיה-264233
-https://hamal.co.il/main/נקבע-מותו-של-הנער-שהתהפך-מטרקטורון-בגליל-264235
-https://news.walla.co.il/break/3831445
-https://hamal.co.il/main/הגחלים-לוחשות-בנט-איזנקוט-ולפיד-על-סף-פיצוץ-264228
-https://news.walla.co.il/item/3831450
+COUNTER:38
 https://hamal.co.il/main/טראמפ-איראן-הסכימה-להכל---כולל-הוצאת-האורניום-264237
 https://news.walla.co.il/break/3831451
 https://hamal.co.il/main/הצצה-נדירה-אל-העיירה-הסודית-של-עשירי-ארהב-שנמחקה-מגוגל-264161
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832197
 https://hamal.co.il/main/סמל-אוריאל-פרץ-היד-264581
 https://hamal.co.il/main/נתניהו-ביום-הזיכרון-264584
 https://hamal.co.il/main/סמל-מתן-כהן-זל-264582
+https://news.walla.co.il/break/3832201
+https://hamal.co.il/main/אוהב-אותך-מדינה-שלי-המכתב-של-264585
+https://hamal.co.il/main/נער-ערבי-מיוש-נדרס-למוות-264586
+https://hamal.co.il/main/צפו-המפגש-של-הרמטכל-עם-המשרתים-שקרוביהם-נפלו-במלחמה-264587
+https://hamal.co.il/main/רכב-של-היחידה-לאבטחת-אישים-דרס-למוות-נער-ערבי-סמוך-לחברון-264588
