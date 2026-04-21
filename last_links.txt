@@ -1,9 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/item/3831586
-https://hamal.co.il/main/הותר-לפרסום-רסב-ברק-כלפון-נפטר-מפצעיו-264311
-https://news.walla.co.il/break/3831590
-https://news.walla.co.il/break/3831592
-https://news.walla.co.il/item/3831593
+COUNTER:22
 https://hamal.co.il/main/הכוח-סרק-מבנה-מטען-התפוצץ-על-הלוחמים--פרטי-התקרית-בלבנון-264312
 https://news.walla.co.il/break/3831594
 https://news.walla.co.il/break/3831595
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832349
 https://news.walla.co.il/item/3832348
 https://hamal.co.il/main/בזכותם-אנו-כאן-לוחמי-היממ-שנפלו-264672
 https://hamal.co.il/main/אחרי-שלוש-שנים-מוזיאון-חיל-האוויר-נפתח-עם-מטוס-הקרב-שתקף-בא-264673
+https://news.walla.co.il/break/3832350
+https://hamal.co.il/main/אזעקות-נשמעו-בצפון-264676
+https://hamal.co.il/main/דיווח-זוהה-יירוט-בשמי-הצפון-264678
+https://hamal.co.il/main/האזעקות-בגליל-מדובר-באזעקת-שווא-264680
+https://hamal.co.il/main/משטרת-ישראל-השלימה-את-אבטחת-אירועי-יום-הזיכרון-לחללי-מערכות-264681
