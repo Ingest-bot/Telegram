@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3831539
-https://news.walla.co.il/break/3831538
+COUNTER:35
 https://hamal.co.il/main/איראן-משתוללת-ספינה-נוספת-הותקפה-בירי-טילים-במצר-הורמוז-264280
 https://news.walla.co.il/break/3831541
 https://news.walla.co.il/break/3831542
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832305
 https://hamal.co.il/main/השריונר-המצטיין-שנפל-בפאתי-עזה-סיפורו-של-264646
 https://hamal.co.il/main/טראמפ-264647
 https://hamal.co.il/main/הפנטגון-הודיע-השתלטנו-על-ספינה-נוספת-השייכת-לאיראן--תיעוד-264648
+https://news.walla.co.il/item/3832303
+https://hamal.co.il/main/סיפורו-של-סמל-אדיר-טהר-ז״ל-264649
