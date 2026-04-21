@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3831492
-https://news.walla.co.il/break/3831493
-https://hamal.co.il/main/דובר-משרד-ההגנה-האיראני-המלחמה-לא-הסתיימה-עדיין-264260
-https://news.walla.co.il/item/3831499
+COUNTER:20
 https://news.walla.co.il/break/3831500
 https://news.walla.co.il/break/3831501
 https://hamal.co.il/main/קריית-שמונה-הודיעה-על-צעדי-מחאה-נגד-הפסקת-האש-בלבנון-264263
@@ -499,3 +495,7 @@ https://hamal.co.il/main/טייס-הקרב-משתף-בכאב-שקלתי-להקל
 https://hamal.co.il/main/השתדל-להיות-איש-סיפורו-של-264622
 https://hamal.co.il/main/עוד-עזיבה-בממשל-טראמפ-שרת-העבודה-התפטרה-264623
 https://hamal.co.il/main/באיראן-מכחישים-אף-משלחת-לא-הגיעה-לפקיסטן-לקראת-השיחות-264626
+https://news.walla.co.il/item/3832265
+https://hamal.co.il/main/צפו-מטס-ההצדעה-מעל-הר-הרצל-264627
+https://hamal.co.il/main/-הטכנולוגיה-שחושפת-את-האנטישמיות-ברשת-264628
+https://hamal.co.il/main/מהומה-בבית-העלמין-נגד-השר-הממשלה-הורסת-את-הבתים-שלנו-264629
