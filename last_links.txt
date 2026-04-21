@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3831470
-https://news.walla.co.il/break/3831471
-https://news.walla.co.il/item/3831472
+COUNTER:6
 https://hamal.co.il/main/קאליבאף-לטראמפ-אתה-משקר-מצרי-הורמוז-לא-יישארו-פתוחים-264245
 https://hamal.co.il/main/טראמפ-ניכנס-יחד-עם-איראן-ונוציא-האורניום-המועשר-264248
 https://hamal.co.il/main/דיווח-עיראק-מחדשת-את-ייצוא-הנפט-בדרום-המדינה-264250
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832217
 https://hamal.co.il/main/אלמנתו-של-סרן-הרב-אבי-גולדברג-זקיפות-הלוחמים-מרימה-אותנו-264596
 https://hamal.co.il/main/הכי-חשוב-לשרת-את-המדינה-264598
 https://hamal.co.il/main/אנו-בעיצומה-של-לחימה-עצימה-בלבנון-פקודת-הקשר-של-מחט-הצנחני-264599
+https://news.walla.co.il/break/3832228
+https://news.walla.co.il/break/3832229
+https://hamal.co.il/main/טראמפ-ישתתף-בפקיסטן-אופטימיים-השיחות-עם-איראן-צפויות-להתח-264597
