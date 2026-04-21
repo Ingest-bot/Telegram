@@ -1,5 +1,4 @@
 COUNTER:26
-https://news.walla.co.il/break/3831601
 https://news.walla.co.il/break/3831604
 https://news.walla.co.il/break/3831606
 https://news.walla.co.il/break/3831610
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832356
 https://hamal.co.il/main/לאחר-מבצע-נגד-הקרטלים-שני-סוכני-CIA-נהרגו-בתאונת-דרכים-במקס-264683
 https://hamal.co.il/main/תאיר-רזיאל-שלנו-מספרת-על-אביה-ידידיה-ז״ל-שנהרג-בקרב-הגבורה-264686
 https://hamal.co.il/main/ד-חיזבאללה-שיגר-לפני-זמן-קצר-מספר-רקטות-לעבר-כוחות-צה״ל-הפ-264687
+https://news.walla.co.il/item/3832358
