@@ -1,7 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/לבנון-זוהו-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והתקרבו-לקו-הצהו-264274
-https://hamal.co.il/main/דיווח-ראשוני-ירי-בשדרות-בן-גוריון-חיפה-264276
-https://news.walla.co.il/break/3831525
+COUNTER:31
 https://news.walla.co.il/break/3831527
 https://news.walla.co.il/break/3831524
 https://hamal.co.il/main/דיווח-אש-נורתה-לעבר-שתי-ספינות-שניסו-לעבור-בהורמוז-264278
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ישיר-טקס-הזיכרון-הממלכתי-לחלל�
 https://news.walla.co.il/item/3832296
 https://hamal.co.il/main/סיפורו-של-סרן-זיו-דאוס-זל-264637
 https://hamal.co.il/main/נהרג-לפני-מספר-שנים-באיטליה-הפרטים-על-נפילתו-של-איש-המוסד-264638
+https://hamal.co.il/main/סיפורו-של-טוראי-מנשה-רוסו-ז״ל-264639
+https://hamal.co.il/main/צפו-טקס-יום-הזיכרון-בבית-העלמין-בעוספיא-264643
+https://hamal.co.il/main/צפו-הרמטכ״ל-בטקס-הזיכרון-בהיכל-השמות-הממלכתי-בהר-הרצל-264645
