@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3831633
-https://news.walla.co.il/break/3831634
+COUNTER:4
 https://news.walla.co.il/item/3831620
 https://hamal.co.il/main/צפו-ילד-בן-12-חולץ-לאחר-שנפל-264327
 https://hamal.co.il/main/לראשונה-בישראל-היפופוטם-ננסי-נדיר-נחת-בארץ-יואב-איתיאל-עוד-263960
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832377
 https://news.walla.co.il/item/3832357
 https://hamal.co.il/main/במטרה-להסיר-איום-על-כוחותינו-צהל-חיסל-מחבלים-חמושים-מארגון-264713
 https://hamal.co.il/main/הנשיא-מיליי-והרב-זרביב-פתחו-בריקוד-אחרי-הדלקת-המשואות--צפו-264714
+https://hamal.co.il/main/שעות-לדדליין-האמריקני-צהל-נערך-לתגובה-מהירה-במקרה-לסיום-הפ-264715
+https://hamal.co.il/main/סוכנות-הידיעות-האיראנית-תסנים-מדווחת-שטהרן-החליטה-שלא-להשתתף-264716
