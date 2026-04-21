@@ -1,9 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3831464
-https://news.walla.co.il/break/3831463
-https://news.walla.co.il/break/3831465
-https://news.walla.co.il/break/3831466
-https://news.walla.co.il/break/3831468
+COUNTER:5
 https://news.walla.co.il/break/3831470
 https://news.walla.co.il/break/3831471
 https://news.walla.co.il/item/3831472
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ישיר-טקס-הקראת-שמות-חללי-מערכו
 https://news.walla.co.il/item/3832215
 https://hamal.co.il/main/מניח-תפילין-של-לוחם-שנפל-264591
 https://hamal.co.il/main/לזכרם-של-1689-שוטרים-264592
+https://news.walla.co.il/break/3832223
+https://news.walla.co.il/item/3832217
+https://hamal.co.il/main/אלמנתו-של-סרן-הרב-אבי-גולדברג-זקיפות-הלוחמים-מרימה-אותנו-264596
+https://hamal.co.il/main/הכי-חשוב-לשרת-את-המדינה-264598
+https://hamal.co.il/main/אנו-בעיצומה-של-לחימה-עצימה-בלבנון-פקודת-הקשר-של-מחט-הצנחני-264599
