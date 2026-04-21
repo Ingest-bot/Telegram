@@ -1,9 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/תאונת-דרכים-סמוך-לטייבה-2-פצועים-פונו-לביהח-במצב-אנוש-וקשה-264218
-https://news.walla.co.il/break/3831441
-https://news.walla.co.il/item/3831438
-https://hamal.co.il/main/בחצות-מבצע-הכוחות-המיוחדים-של-צהל-רגע-לפני-הפסקת-האש-264221
-https://hamal.co.il/main/שריפה-בבית-בירושלים-בת-70-במצב-קשה-לאחר-ששאפה-עשן-רב-264223
+COUNTER:34
 https://hamal.co.il/main/אלוהים-ישמור-זה-יהיה-כיף-האיש-שינסה-לעצור-את-דני-אבדיה-264233
 https://hamal.co.il/main/נקבע-מותו-של-הנער-שהתהפך-מטרקטורון-בגליל-264235
 https://news.walla.co.il/break/3831445
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תאונת-אופניים-בירושלים-נקבע-מ�
 https://hamal.co.il/main/נפל-בקרב-מבלי-להכיר-את-ביתו-הרביעית-רסב-רן-יעבץ-זל-264578
 https://hamal.co.il/main/מפקד-חטיבת-גולני-264579
 https://hamal.co.il/main/חזר-לצבא-אחרי-הלימודים---ונפל-בעזה-264580
+https://news.walla.co.il/break/3832196
+https://news.walla.co.il/break/3832197
+https://hamal.co.il/main/סמל-אוריאל-פרץ-היד-264581
+https://hamal.co.il/main/נתניהו-ביום-הזיכרון-264584
+https://hamal.co.il/main/סמל-מתן-כהן-זל-264582
