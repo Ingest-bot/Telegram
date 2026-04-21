@@ -1,9 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/קאליבאף-לטראמפ-אתה-משקר-מצרי-הורמוז-לא-יישארו-פתוחים-264245
-https://hamal.co.il/main/טראמפ-ניכנס-יחד-עם-איראן-ונוציא-האורניום-המועשר-264248
-https://hamal.co.il/main/דיווח-עיראק-מחדשת-את-ייצוא-הנפט-בדרום-המדינה-264250
-https://hamal.co.il/main/אינדונזיה-רעידת-אדמה-בעוצמה-53-הכתה-במרכז-המדינה-264252
-https://news.walla.co.il/break/3831473
+COUNTER:8
 https://news.walla.co.il/break/3831474
 https://news.walla.co.il/break/3831475
 https://hamal.co.il/main/מחבל-חמוש-בסכין-חדר-לתוך-היישוב-264253
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אנו-בעיצומה-של-לחימה-עצימה-בלב
 https://news.walla.co.il/break/3832228
 https://news.walla.co.il/break/3832229
 https://hamal.co.il/main/טראמפ-ישתתף-בפקיסטן-אופטימיים-השיחות-עם-איראן-צפויות-להתח-264597
+https://news.walla.co.il/break/3832235
+https://news.walla.co.il/break/3832237
+https://news.walla.co.il/item/3832234
+https://hamal.co.il/main/רוכב-אופניים-נפגע-בתאונה-עם-רכב-264601
+https://hamal.co.il/main/ישיר-טקס-הזיכרון-לחללי-משטרת-ישראל-264606
