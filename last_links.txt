@@ -1,7 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/המראה-מטעה-בעלת-הכלב-עשתה-לו-בדיקת-דנא-ונדהמה-מהתוצאות-264372
-https://news.walla.co.il/break/3831796
-https://news.walla.co.il/break/3831795
+COUNTER:39
 https://news.walla.co.il/item/3831781
 https://hamal.co.il/main/טראמפ-איראן-ביצעה-הפרה-חמורה-של-הפסקת-האש-264387
 https://hamal.co.il/main/2-גברים-נורו-בחדרה-264388
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832467
 https://hamal.co.il/main/טרם-כניסת-הפסקת-האש-כוחות-חטיבה-769-בסיוע-חיל-האוויר-פשטו-על-264791
 https://hamal.co.il/main/טראמפ-״ייתכנו-שיחות-נוספות-בימים-הקרובים״-264793
 https://hamal.co.il/main/לוחמי-מג״ב-איו״ש-וכוחות-צה״ל-פיזרו-הפרת-סדר-בכפר-אל-מוע׳ייר-264794
+https://news.walla.co.il/break/3832474
+https://hamal.co.il/main/נער-בן-14-נפגע-מרכב-בתל-אביב---מצבו-בינוני-264795
+https://hamal.co.il/main/קטינה-264796
