@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3831817
-https://news.walla.co.il/item/3831820
-https://hamal.co.il/main/צהל-מפרסם-את-מרחב-קו-ההגנה-הקדמי-בדרום-לבנון-למניעת-איום-יש-264391
+COUNTER:5
 https://news.walla.co.il/break/3831827
 https://news.walla.co.il/item/3831825
 https://hamal.co.il/main/אזרח-איתר-גופה-צפה-במים-מול-חופי-הרצליה-נבדק-קשר-לנער-שטבע-264392
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תגובה-מהירה-שמנעה-אסון-נעצר-תו
 https://news.walla.co.il/break/3832480
 https://news.walla.co.il/item/3832479
 https://hamal.co.il/main/תלמידי-כיתה-ח-יצרו-והפיצו-סרטון-מיני-מזויף-של-מורה-בנתניה--264803
+https://news.walla.co.il/break/3832482
+https://news.walla.co.il/item/3832483
+https://hamal.co.il/main/פלסטינים-תקפו-נערים-סמוך-לעופרה-דיווח-על-מספר-פצועים-קל-264804
