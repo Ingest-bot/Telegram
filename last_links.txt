@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/בגץ-ללוין-כנס-את-264360
-https://news.walla.co.il/item/3831725
-https://news.walla.co.il/item/3831732
+COUNTER:20
 https://news.walla.co.il/item/3831736
 https://hamal.co.il/main/המודחת-השישית-גאיה-קלדרון-הבריזה-מכל-הראיונות---זו-הסיבה-264357
 https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264363
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832427
 https://hamal.co.il/main/שורד-השבי-אלון-אהל-ופצוע-צה״ל-דביר-בובליל-בטקס-מצטייני-הנשיא-264752
 https://news.walla.co.il/break/3832429
 https://hamal.co.il/main/צהל-חיסל-מחבלים-שחצו-את-קו-ההגנה-הקדמי-בדרום-לבנון-264755
+https://news.walla.co.il/break/3832434
+https://news.walla.co.il/item/3832433
+https://hamal.co.il/main/חוד-החנית-טקס-מצטייני-נשיא-המדינה-ליום-העצמאות-ה-78-264757
