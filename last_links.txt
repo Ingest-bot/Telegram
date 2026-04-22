@@ -1,5 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3831700
+COUNTER:15
 https://news.walla.co.il/break/3831701
 https://news.walla.co.il/item/3831695
 https://hamal.co.il/main/תיעוד-דרמטי-גולש-נסחף-במים-סוערים---וחולץ-מחוף-הים-בהרצליה-264346
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832407
 https://hamal.co.il/main/דרמה-וניצחון-דני-אבדיה-ופורטלנד-איזנו-ל-11-מול-סן-אנטוניו-264743
 https://hamal.co.il/main/נפנוף-נעים-עלייה-קלה-בטמפרטורות-ומזג-אוויר-בהיר-עד-מעונן-264745
 https://hamal.co.il/main/ליל-יום-העצמאות-בוולפסון-עשרות-ילדים-נפגעו-מתרסיסי-שלג-264747
+https://hamal.co.il/main/דיווח-אוניית-משא-באזור-מצר-הורמוז-נורתה-עי-משמרות-המהפכה-264748
