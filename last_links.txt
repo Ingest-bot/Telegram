@@ -1,7 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3831775
-https://news.walla.co.il/item/3831777
-https://hamal.co.il/main/צהל-חייל-264382
+COUNTER:32
 https://hamal.co.il/main/עם-נחיתתו-בישראל-264383
 https://news.walla.co.il/break/3831781
 https://hamal.co.il/main/באיראן-טוענים-החותים-שולטים-ב-264384
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דובר-צה״ל-במסר-לערבים-ביום-העצ
 https://news.walla.co.il/item/3832462
 https://hamal.co.il/main/חיזבאללה-שיגר-גלי-טיס-עוין-לכוחות-צהל-דרומית-ללבנון-264778
 https://hamal.co.il/main/צהל-על-החדירה-לסוריה-החזרנו-את-כולם-לשטח-הארץ-264779
+https://news.walla.co.il/item/3832464
+https://news.walla.co.il/item/3832466
+https://hamal.co.il/main/מבצע-הנדסי-חסר-תקדים-צהל-נערך-בדרום-לבנון-להכנסת-רובוטים-264782
