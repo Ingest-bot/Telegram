@@ -1,6 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3831833
-https://news.walla.co.il/item/3831831
+COUNTER:11
 https://hamal.co.il/main/נתניהו-אלמנות-ויתומי-צה״ל-״האבות-הגיבורים-שלכם-הם-שמבטיחים-264397
 https://news.walla.co.il/break/3831842
 https://hamal.co.il/main/גורם-ביטחוני-בכיר-מוכנים-להסלמה-מול-חיזבאללה---האמון-בצבא-264398
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832491
 https://hamal.co.il/main/מעדי-אלטשולר-ועד-דונלד-טראמפ-טקס-פרסי-ישראל-2026-264809
 https://hamal.co.il/main/נתניהו-עם-לוחמי-כיפת-ברזל-״ערוכים-לכל-264810
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-כפיר-264811
+https://news.walla.co.il/break/3832495
+https://hamal.co.il/main/הבריסטה-של-החג-כולם-מנסים-לברר-מי-זו-החיילת-מטקס-המשואות-264814
