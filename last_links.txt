@@ -1,8 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3831875
-https://hamal.co.il/main/הפועל-תל-אביב-למנהלת-הליגה-לא-נופיע-למשחקים-בהמשך-השבוע-באר-264411
-https://news.walla.co.il/item/3831879
-https://hamal.co.il/main/סוף-עצוב-לחיפושים-זוהה-הנעדר-אברהם-ישעיהו-שאותר-264415
+COUNTER:31
 https://hamal.co.il/main/אזרח-ישראלי-מת-בטורקיה-לאחר-שהתמוטט-במהלך-טיסה-ממולדובה-לישר-264416
 https://news.walla.co.il/break/3831882
 https://news.walla.co.il/break/3831883
@@ -499,3 +495,7 @@ https://hamal.co.il/main/2-צעירות-נכוו-בזכרון-יעקב-מצבן-
 https://hamal.co.il/main/פצוע-הפיגוע-סמוך-לעופרה-״עברתי-לינץ׳-איבדתי-את-ההכרה״-264838
 https://hamal.co.il/main/חוזרים-לתקוף-שגרירות-ארה״ב-קוראת-לאזרחיה-לעזוב-את-לבנון-264840
 https://hamal.co.il/main/״גם-אני-מתתי-באותו-היום״-שורד-השבי-בפוסט-מצמרר-264841
+https://news.walla.co.il/break/3832536
+https://news.walla.co.il/break/3832537
+https://hamal.co.il/main/דוברת-הבית-הלבן-״הנשיא-ממתין-לתשובה-רשמית-מאיראן״-264842
+https://hamal.co.il/main/שני-נרצחים-באירוע-ירי-בצומת-אחיסמך-264843
