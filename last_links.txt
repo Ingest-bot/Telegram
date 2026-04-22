@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3831876
+COUNTER:29
 https://news.walla.co.il/item/3831875
 https://hamal.co.il/main/הפועל-תל-אביב-למנהלת-הליגה-לא-נופיע-למשחקים-בהמשך-השבוע-באר-264411
 https://news.walla.co.il/item/3831879
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832528
 https://hamal.co.il/main/2-צעירות-נכוו-בזכרון-יעקב-מצבן-בינוני-וקל-264837
 https://hamal.co.il/main/פצוע-הפיגוע-סמוך-לעופרה-״עברתי-לינץ׳-איבדתי-את-ההכרה״-264838
 https://hamal.co.il/main/חוזרים-לתקוף-שגרירות-ארה״ב-קוראת-לאזרחיה-לעזוב-את-לבנון-264840
+https://hamal.co.il/main/״גם-אני-מתתי-באותו-היום״-שורד-השבי-בפוסט-מצמרר-264841
