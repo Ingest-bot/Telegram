@@ -1,6 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3831806
-https://news.walla.co.il/item/3831808
+COUNTER:3
 https://hamal.co.il/main/אל-תדבר-על-ילדים-עימות-264389
 https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפציץ-את-כל-המדינה-264390
 https://hamal.co.il/main/רופאה-מסבירה-מתי-כאב-הגב-מסמן-שיש-בעיה-רצינית-264381
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832475
 https://news.walla.co.il/item/3832474
 https://hamal.co.il/main/בכיר-בבית-הלבן-הארכת-הפסקת-האש---לשלושה-עד-חמישה-ימים-264799
 https://hamal.co.il/main/לוחמי-פלגה-916-מאחלים-חג-עצמאות-שמח-מהשטח-264801
+https://hamal.co.il/main/מקרון-חייל-צרפתי-מכוח-יוניפיל-נהרג-מאש-חזיבאללה-בלבנון-264798
+https://hamal.co.il/main/תגובה-מהירה-שמנעה-אסון-נעצר-תושב-מזרח-י-ם-שתכנן-לבצע-ליגוע-264802
