@@ -1,7 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/נתניהו-ונשיא-ארגנטינה-חאבייר-מיליי-הכריזו-על-״הסכמי-יצחק״--264417
-https://hamal.co.il/main/--264418
-https://hamal.co.il/main/פיקוד-הצפון-בפיקודו-של-האלוף-רפי-מילוא-חשף-היום-את-הפעילות-ש-264419
+COUNTER:33
 https://hamal.co.il/main/מח״ט-הנח״ל-אל״מ-אריק-מויאל-סיפר-בראיון-מדרום-לבנון-״אנחנו-נ-264420
 https://news.walla.co.il/break/3831885
 https://hamal.co.il/main/לבנון-דיווח-על-יוזמה-בארהב-להסדרת-סיוע-קבוע-לצבא-ולמוסדות-264421
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שני-נרצחים-באירוע-ירי-בצומת-אח
 https://news.walla.co.il/item/3832536
 https://hamal.co.il/main/יעלה-לכתבת-חדשות-12-ביוקר-בעקבות-הסרטון-הבזוי-264847
 https://news.walla.co.il/break/3832541
+https://news.walla.co.il/break/3832542
+https://news.walla.co.il/item/3832541
+https://hamal.co.il/main/טלטלה-בפנטגון-טראמפ-הדיח-את-מזכיר-הצי-האמריקני-264848
