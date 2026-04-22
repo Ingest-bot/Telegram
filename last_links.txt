@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3831741
-https://hamal.co.il/main/ערב-יום-הזיכרון-264377
-https://hamal.co.il/main/הולכת-רגל-נפגעה-ממשאית-264375
+COUNTER:29
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בנשר-מצבו-קשה-264379
 https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264362
 https://news.walla.co.il/break/3831771
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832457
 https://news.walla.co.il/break/3832458
 https://news.walla.co.il/item/3832445
 https://hamal.co.il/main/מתיישבים-נכנסו-לשטח-הסורי-264775
+https://news.walla.co.il/break/3832460
+https://news.walla.co.il/break/3832461
+https://hamal.co.il/main/דובר-צה״ל-במסר-לערבים-ביום-העצמאות-זה-הסוד-של-צה״ל-264777
