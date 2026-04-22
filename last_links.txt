@@ -1,7 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/טראמפ-אם-איראן-לא-תחתום-על-ההסכם---נפוצץ-את-המדינה-עידן-ק-264395
-https://news.walla.co.il/item/3831828
-https://hamal.co.il/main/ספורטאית-על-רז-הרשקו-שוב-אלופת-אירופה-יניב-טוכמן-עודכן-לאח-264396
+COUNTER:8
 https://hamal.co.il/main/סופש-של-סיכול-אמצעי-לחימה-מסוכנים-נתפסו-בגזרת-ואדי-ערה-במר-264394
 https://news.walla.co.il/break/3831836
 https://news.walla.co.il/item/3831833
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832485
 https://news.walla.co.il/item/3832487
 https://hamal.co.il/main/מימי-״שאגת-הארי״-פריט-אמל״ח-אותר-סמוך-לרמת-השרון-264806
 https://hamal.co.il/main/גבר-כבן-35-נרצח-בעין-אל-אסד-הרקע---פלילי-264808
+https://news.walla.co.il/break/3832489
+https://news.walla.co.il/break/3832491
+https://hamal.co.il/main/מעדי-אלטשולר-ועד-דונלד-טראמפ-טקס-פרסי-ישראל-2026-264809
