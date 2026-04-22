@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/נתניהו-אלמנות-ויתומי-צה״ל-״האבות-הגיבורים-שלכם-הם-שמבטיחים-264397
-https://news.walla.co.il/break/3831842
-https://hamal.co.il/main/גורם-ביטחוני-בכיר-מוכנים-להסלמה-מול-חיזבאללה---האמון-בצבא-264398
-https://hamal.co.il/main/סטירות-הטחות-והצמדות-למזרן-סייעת-בגן-הורשעה-ב-277-מקרי-א-264399
+COUNTER:14
 https://news.walla.co.il/break/3831847
 https://news.walla.co.il/item/3831845
 https://news.walla.co.il/item/3831843
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נתניהו-עם-לוחמי-כיפת-ברזל-״ערו
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-כפיר-264811
 https://news.walla.co.il/break/3832495
 https://hamal.co.il/main/הבריסטה-של-החג-כולם-מנסים-לברר-מי-זו-החיילת-מטקס-המשואות-264814
+https://news.walla.co.il/item/3832498
+https://hamal.co.il/main/שני-פצועים-במצב-בינוני-וקל-בתאונת-טרקטורון-סמוך-לגלעד-264815
+https://hamal.co.il/main/טראמפ-״חדשות-טובות---8-המפגינות-לא-יוצאו-להורג״-264816
+https://hamal.co.il/main/סיפור-היחידה-חטיבת-הנח״ל-264812
