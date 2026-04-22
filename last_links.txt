@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בנשר-מצבו-קשה-264379
-https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264362
-https://news.walla.co.il/break/3831771
+COUNTER:31
 https://news.walla.co.il/item/3831775
 https://news.walla.co.il/item/3831777
 https://hamal.co.il/main/צהל-חייל-264382
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מתיישבים-נכנסו-לשטח-הסורי-264775
 https://news.walla.co.il/break/3832460
 https://news.walla.co.il/break/3832461
 https://hamal.co.il/main/דובר-צה״ל-במסר-לערבים-ביום-העצמאות-זה-הסוד-של-צה״ל-264777
+https://news.walla.co.il/item/3832462
+https://hamal.co.il/main/חיזבאללה-שיגר-גלי-טיס-עוין-לכוחות-צהל-דרומית-ללבנון-264778
+https://hamal.co.il/main/צהל-על-החדירה-לסוריה-החזרנו-את-כולם-לשטח-הארץ-264779
