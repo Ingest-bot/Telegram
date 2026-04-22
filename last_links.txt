@@ -1,8 +1,4 @@
 COUNTER:20
-https://news.walla.co.il/item/3831736
-https://hamal.co.il/main/המודחת-השישית-גאיה-קלדרון-הבריזה-מכל-הראיונות---זו-הסיבה-264357
-https://hamal.co.il/main/גם-אתם-מתעוררים-קבוע-ב־3-לפנות-בוקר-זו-הסיבה-264363
-https://news.walla.co.il/break/3831742
 https://hamal.co.il/main/-חכ-הלוי-נאבק-למען-חייל-264364
 https://hamal.co.il/main/צל-ענק-במים-היצור-הנדיר-שהפתיע-את-מפרץ-אילת--צפו-264361
 https://hamal.co.il/main/פועל-שנפגע-מטרקטור-באתר-בנייה-סמוך-לקריית-גת-מצבו-קשה-264365
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-חיסל-מחבלים-שחצו-את-קו-ההג�
 https://news.walla.co.il/break/3832434
 https://news.walla.co.il/item/3832433
 https://hamal.co.il/main/חוד-החנית-טקס-מצטייני-נשיא-המדינה-ליום-העצמאות-ה-78-264757
+https://news.walla.co.il/break/3832439
+https://news.walla.co.il/break/3832441
+https://news.walla.co.il/break/3832438
+https://news.walla.co.il/break/3832436
