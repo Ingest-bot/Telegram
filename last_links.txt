@@ -1,5 +1,4 @@
 COUNTER:11
-https://news.walla.co.il/break/3831686
 https://news.walla.co.il/item/3831677
 https://news.walla.co.il/item/3831663
 https://news.walla.co.il/break/3831688
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ראש-ממשלת-פקיסטן-מודה-לטראמפ-ו
 https://hamal.co.il/main/גבר-נפל-מקומה-חמישית-ברחובות-מצבו-קשה-264726
 https://hamal.co.il/main/עובד-זר-חולץ-משריפה-בבניין-בתל-אביב-מצבו-אנוש-264727
 https://hamal.co.il/main/טראמפ-ההנהגה-האיראנית-פשוט-מנסה-לשמור-על-כבודה-264728
+https://news.walla.co.il/break/3832403
