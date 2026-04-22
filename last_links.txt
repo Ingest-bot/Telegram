@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/item/3831722
-https://hamal.co.il/main/צהל-חושף-מפקד-גזרת-בינת-264359
+COUNTER:19
 https://hamal.co.il/main/בגץ-ללוין-כנס-את-264360
 https://news.walla.co.il/item/3831725
 https://news.walla.co.il/item/3831732
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832416
 https://news.walla.co.il/item/3832423
 https://news.walla.co.il/item/3832427
 https://hamal.co.il/main/שורד-השבי-אלון-אהל-ופצוע-צה״ל-דביר-בובליל-בטקס-מצטייני-הנשיא-264752
+https://news.walla.co.il/break/3832429
+https://hamal.co.il/main/צהל-חיסל-מחבלים-שחצו-את-קו-ההגנה-הקדמי-בדרום-לבנון-264755
