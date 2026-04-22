@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3831712
-https://news.walla.co.il/break/3831727
+COUNTER:18
 https://news.walla.co.il/item/3831722
 https://hamal.co.il/main/צהל-חושף-מפקד-גזרת-בינת-264359
 https://hamal.co.il/main/בגץ-ללוין-כנס-את-264360
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נס-ישראלי-חוגגים-78-שנות-עצמאות
 https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-מהאוויר-בדרום-לבנון-264751
 https://news.walla.co.il/item/3832416
 https://news.walla.co.il/item/3832423
+https://news.walla.co.il/item/3832427
+https://hamal.co.il/main/שורד-השבי-אלון-אהל-ופצוע-צה״ל-דביר-בובליל-בטקס-מצטייני-הנשיא-264752
