@@ -1,6 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/רז-הרשקו-וואו-אני-הכי-מאושרת-בעולם-המדליה-של-עם-ישראל-י-264403
-https://news.walla.co.il/break/3831855
+COUNTER:21
 https://hamal.co.il/main/נתניהו-נפגש-כעת-בלשכתו-בירושלים-עם-נשיא-ארגנטינה-חאבייר-מילי-264404
 https://news.walla.co.il/break/3831863
 https://hamal.co.il/main/חובות-העתק-של-ישראל-נחשפים-סוגרים-את-הפער-בעוד-ועוד-הלוואו-264405
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סיפור-היחידה-חטיבה-7-264813
 https://hamal.co.il/main/אירוע-אלימות-באופקים-צעיר-בן-22-נפצע-באורח-קשה-264822
 https://news.walla.co.il/break/3832506
 https://hamal.co.il/main/דיווח-הפנטגון-מעריך-שטיהור-מצר-הורמוז-ממוקשים-יימשך-חצי-שנה-264825
+https://news.walla.co.il/break/3832508
+https://hamal.co.il/main/סיפור-היחידה-חטיבת-גבעתי-264828
