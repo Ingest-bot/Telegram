@@ -1,5 +1,4 @@
 COUNTER:34
-https://hamal.co.il/main/באיראן-טוענים-החותים-שולטים-ב-264384
 https://hamal.co.il/main/הרמטכל--264385
 https://news.walla.co.il/item/3831785
 https://hamal.co.il/main/דיווחים-באיראן-264386
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3832466
 https://hamal.co.il/main/מבצע-הנדסי-חסר-תקדים-צהל-נערך-בדרום-לבנון-להכנסת-רובוטים-264782
 https://hamal.co.il/main/גאווה-ישראלית-מסיבת-העצמאות-לפצועי-צה״ל-ברמב״ם-264787
 https://hamal.co.il/main/משרד-החוץ-האיראני-קיבלנו-את-בקשת-ארה״ב-להארכת-הפסקת-האש-264788
+https://news.walla.co.il/break/3832467
