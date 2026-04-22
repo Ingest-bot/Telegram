@@ -1,8 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3831781
-https://hamal.co.il/main/טראמפ-איראן-ביצעה-הפרה-חמורה-של-הפסקת-האש-264387
-https://hamal.co.il/main/2-גברים-נורו-בחדרה-264388
-https://news.walla.co.il/break/3831805
+COUNTER:1
 https://news.walla.co.il/break/3831806
 https://news.walla.co.il/item/3831808
 https://hamal.co.il/main/אל-תדבר-על-ילדים-עימות-264389
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לוחמי-מג״ב-איו״ש-וכוחות-צה״ל-פ
 https://news.walla.co.il/break/3832474
 https://hamal.co.il/main/נער-בן-14-נפגע-מרכב-בתל-אביב---מצבו-בינוני-264795
 https://hamal.co.il/main/קטינה-264796
+https://news.walla.co.il/break/3832475
+https://news.walla.co.il/item/3832474
+https://hamal.co.il/main/בכיר-בבית-הלבן-הארכת-הפסקת-האש---לשלושה-עד-חמישה-ימים-264799
+https://hamal.co.il/main/לוחמי-פלגה-916-מאחלים-חג-עצמאות-שמח-מהשטח-264801
