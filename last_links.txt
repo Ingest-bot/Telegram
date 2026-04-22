@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/הרמטכל--264385
-https://news.walla.co.il/item/3831785
-https://hamal.co.il/main/דיווחים-באיראן-264386
+COUNTER:37
 https://hamal.co.il/main/המראה-מטעה-בעלת-הכלב-עשתה-לו-בדיקת-דנא-ונדהמה-מהתוצאות-264372
 https://news.walla.co.il/break/3831796
 https://news.walla.co.il/break/3831795
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מבצע-הנדסי-חסר-תקדים-צהל-נערך-�
 https://hamal.co.il/main/גאווה-ישראלית-מסיבת-העצמאות-לפצועי-צה״ל-ברמב״ם-264787
 https://hamal.co.il/main/משרד-החוץ-האיראני-קיבלנו-את-בקשת-ארה״ב-להארכת-הפסקת-האש-264788
 https://news.walla.co.il/break/3832467
+https://hamal.co.il/main/טרם-כניסת-הפסקת-האש-כוחות-חטיבה-769-בסיוע-חיל-האוויר-פשטו-על-264791
+https://hamal.co.il/main/טראמפ-״ייתכנו-שיחות-נוספות-בימים-הקרובים״-264793
+https://hamal.co.il/main/לוחמי-מג״ב-איו״ש-וכוחות-צה״ל-פיזרו-הפרת-סדר-בכפר-אל-מוע׳ייר-264794
