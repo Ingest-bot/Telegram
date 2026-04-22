@@ -1,8 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/הלמס-חושף-ערב-יום-העצמאות-264376
-https://news.walla.co.il/break/3831765
-https://news.walla.co.il/break/3831770
-https://news.walla.co.il/item/3831769
+COUNTER:28
 https://news.walla.co.il/item/3831741
 https://hamal.co.il/main/ערב-יום-הזיכרון-264377
 https://hamal.co.il/main/הולכת-רגל-נפגעה-ממשאית-264375
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הרי-זו-כלה-הודיה-כהן-היא-כלת-חי
 https://news.walla.co.il/break/3832453
 https://news.walla.co.il/break/3832455
 https://news.walla.co.il/item/3832410
+https://news.walla.co.il/break/3832457
+https://news.walla.co.il/break/3832458
+https://news.walla.co.il/item/3832445
+https://hamal.co.il/main/מתיישבים-נכנסו-לשטח-הסורי-264775
