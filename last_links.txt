@@ -1,5 +1,4 @@
 COUNTER:17
-https://hamal.co.il/main/בהתאם-למדיניות-השר-סוכל-אירוע-בחירות-של-הסהר-האדום-264353
 https://news.walla.co.il/item/3831712
 https://news.walla.co.il/break/3831727
 https://news.walla.co.il/item/3831722
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832421
 https://hamal.co.il/main/נס-ישראלי-חוגגים-78-שנות-עצמאות-ביולדות-שמיר-264750
 https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-מהאוויר-בדרום-לבנון-264751
 https://news.walla.co.il/item/3832416
+https://news.walla.co.il/item/3832423
