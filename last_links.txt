@@ -1,6 +1,4 @@
 COUNTER:27
-https://news.walla.co.il/item/3831761
-https://hamal.co.il/main/צרכו-יחד-סמים-אישום-הוגש-נגד-הצעיר-ש-264374
 https://hamal.co.il/main/נתניהו-נפגש-עם-משיאי-המשואות-העם-הזה-קם-כלביא-ונלחם-כארי״-264369
 https://hamal.co.il/main/הלמס-חושף-ערב-יום-העצמאות-264376
 https://news.walla.co.il/break/3831765
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832448
 https://news.walla.co.il/item/3832447
 https://news.walla.co.il/break/3832450
 https://hamal.co.il/main/הרי-זו-כלה-הודיה-כהן-היא-כלת-חידון-התנך-לשנה-זו-264774
+https://news.walla.co.il/break/3832453
+https://news.walla.co.il/break/3832455
