@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3831701
-https://news.walla.co.il/item/3831695
-https://hamal.co.il/main/תיעוד-דרמטי-גולש-נסחף-במים-סוערים---וחולץ-מחוף-הים-בהרצליה-264346
-https://news.walla.co.il/item/3831704
-https://hamal.co.il/main/חג-שמח-ובטוח-כך-תשמרו-על-ילדיכם-ביום-העצמאות-264352
+COUNTER:17
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-264344
 https://hamal.co.il/main/בהתאם-למדיניות-השר-סוכל-אירוע-בחירות-של-הסהר-האדום-264353
 https://news.walla.co.il/item/3831712
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דרמה-וניצחון-דני-אבדיה-ופורטל�
 https://hamal.co.il/main/נפנוף-נעים-עלייה-קלה-בטמפרטורות-ומזג-אוויר-בהיר-עד-מעונן-264745
 https://hamal.co.il/main/ליל-יום-העצמאות-בוולפסון-עשרות-ילדים-נפגעו-מתרסיסי-שלג-264747
 https://hamal.co.il/main/דיווח-אוניית-משא-באזור-מצר-הורמוז-נורתה-עי-משמרות-המהפכה-264748
+https://news.walla.co.il/break/3832418
+https://news.walla.co.il/break/3832420
+https://news.walla.co.il/break/3832421
+https://hamal.co.il/main/נס-ישראלי-חוגגים-78-שנות-עצמאות-ביולדות-שמיר-264750
+https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-מהאוויר-בדרום-לבנון-264751
