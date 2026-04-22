@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3831883
 https://hamal.co.il/main/נתניהו-ונשיא-ארגנטינה-חאבייר-מיליי-הכריזו-על-״הסכמי-יצחק״--264417
 https://hamal.co.il/main/--264418
 https://hamal.co.il/main/פיקוד-הצפון-בפיקודו-של-האלוף-רפי-מילוא-חשף-היום-את-הפעילות-ש-264419
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דוברת-הבית-הלבן-״הנשיא-ממתין-ל
 https://hamal.co.il/main/שני-נרצחים-באירוע-ירי-בצומת-אחיסמך-264843
 https://news.walla.co.il/item/3832536
 https://hamal.co.il/main/יעלה-לכתבת-חדשות-12-ביוקר-בעקבות-הסרטון-הבזוי-264847
+https://news.walla.co.il/break/3832541
