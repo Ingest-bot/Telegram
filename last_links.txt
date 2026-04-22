@@ -1,7 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/-חכ-הלוי-נאבק-למען-חייל-264364
-https://hamal.co.il/main/צל-ענק-במים-היצור-הנדיר-שהפתיע-את-מפרץ-אילת--צפו-264361
-https://hamal.co.il/main/פועל-שנפגע-מטרקטור-באתר-בנייה-סמוך-לקריית-גת-מצבו-קשה-264365
+COUNTER:23
 https://hamal.co.il/main/אמן-חושף-כך-ניסה-צהל-לערער-את-המשטר-האיראני---וזה-מה-שעצר-264341
 https://news.walla.co.il/item/3831746
 https://hamal.co.il/main/צפו-264366
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832439
 https://news.walla.co.il/break/3832441
 https://news.walla.co.il/break/3832438
 https://news.walla.co.il/break/3832436
+https://hamal.co.il/main/סיפור-היחידה-עוצבת-קלע-דוד-214-264761
+https://hamal.co.il/main/סיפור-היחידה-חטיבת-גולני-264762
+https://hamal.co.il/main/סיפור-היחידה-עוצבת-ברק-264765
