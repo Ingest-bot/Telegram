@@ -1,9 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/חובות-העתק-של-ישראל-נחשפים-סוגרים-את-הפער-בעוד-ועוד-הלוואו-264405
-https://hamal.co.il/main/מעמד-ההצדעה-לנופלי-מערכות-ישראל-והנחת-דגל-הלאום-על-קברי-החלל-264406
-https://hamal.co.il/main/יותר-מ-250-מחבלים-חוסלו-ויותר-מ-1000-פרטי-אמצעי-לחימה-אותרו-264407
-https://hamal.co.il/main/גסטין-ביבר-העלה-את-בילי-אייליש-לבמה---והיא-קרסה-מרוב-התרגשו-264408
-https://news.walla.co.il/break/3831870
+COUNTER:25
 https://news.walla.co.il/break/3831875
 https://news.walla.co.il/item/3831869
 https://hamal.co.il/main/לראשונה-קו-תעופה-ישיר-בין-ישראל-לארגנטינה-במעמד-ראש-הממשלה-264409
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832508
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-גבעתי-264828
 https://hamal.co.il/main/בגץ-מגביל-כניסה-לדיון-בעתירות-להקמת-ועדת-חקירה-ממלכתית-264830
 https://hamal.co.il/main/סיפור-היחידה-אריות-הירדן-264831
+https://news.walla.co.il/break/3832520
+https://news.walla.co.il/break/3832523
+https://news.walla.co.il/item/3832520
+https://hamal.co.il/main/בצהל-שוברים-את-הראש-האם-לצאת-בתגובה-חריפה-נגד-חיזבאללה-264833
+https://hamal.co.il/main/דוברת-הבית-הלבן-״איראן-חייבת-להעביר-לנו-את-האורניום״-264836
