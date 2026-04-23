@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/צהל-תקפנו-משגר-טעון-בדרום-לבנון-264457
-https://hamal.co.il/main/נשק-צהלי-נגנב-לצורך-סחר-264456
-https://news.walla.co.il/break/3831958
-https://news.walla.co.il/item/3831962
-https://news.walla.co.il/item/3831969
+COUNTER:20
 https://hamal.co.il/main/התכוון-לצאת-264458
 https://hamal.co.il/main/יוש-הושמד-מצבור-מטענים-שהוסתר-בבית-ספר--צפו-264463
 https://news.walla.co.il/break/3831976
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הוביל-את-המלחמה-הטכנולוגית-מו�
 https://news.walla.co.il/item/3832636
 https://hamal.co.il/main/דרמה-בבגץ-משמר-בתי-המשפט-עצר-את-הדיון-264880
 https://hamal.co.il/main/צהל-על-שיגור-המיירט-בצפון-264881
+https://news.walla.co.il/break/3832639
+https://news.walla.co.il/item/3832641
+https://news.walla.co.il/item/3832637
+https://hamal.co.il/main/הותר-לפרסום-קצין-מילואים-נהרג-בתאונת-צניחה-אזרחית-264882
+https://hamal.co.il/main/לאחר-ניסיון-הפריצה-לאולם-הדיון-בבגץ-התחדש-264884
