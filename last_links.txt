@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3832011
-https://news.walla.co.il/item/3831800
+COUNTER:17
 https://news.walla.co.il/item/3831832
 https://news.walla.co.il/item/3832049
 https://news.walla.co.il/item/3830881
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832763
 https://hamal.co.il/main/״הוא-מצילנו-מידם״-בן-גביר-על-המרגלים-שהעבירו-מיקומים-שלו-264931
 https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-שינוי-עד-לשבוע-הבא-264932
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמושים-בדרום-לבנון-264933
+https://news.walla.co.il/break/3832769
+https://hamal.co.il/main/דיווח-הפגישה-בין-ישראל-ללבנון-עברה-ממשרד-החוץ-לבית-הלבן-264934
