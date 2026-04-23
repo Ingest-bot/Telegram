@@ -1,7 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-אין-להתקרב-לנהר-הליטני-264453
-https://hamal.co.il/main/חשש-להסלמה-מחיר-הנפט-מזנק-הבורסות-משקשקות-264454
-https://news.walla.co.il/break/3831951
+COUNTER:18
 https://hamal.co.il/main/צהל-תקפנו-משגר-טעון-בדרום-לבנון-264457
 https://hamal.co.il/main/נשק-צהלי-נגנב-לצורך-סחר-264456
 https://news.walla.co.il/break/3831958
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832623
 https://news.walla.co.il/break/3832627
 https://hamal.co.il/main/הולכת-רגל-כבת-60-נפגעה-מרכב-באשקלון-מצבה-קשה-264876
 https://hamal.co.il/main/הוביל-את-המלחמה-הטכנולוגית-מול-איראן-264877
+https://news.walla.co.il/item/3832636
+https://hamal.co.il/main/דרמה-בבגץ-משמר-בתי-המשפט-עצר-את-הדיון-264880
+https://hamal.co.il/main/צהל-על-שיגור-המיירט-בצפון-264881
