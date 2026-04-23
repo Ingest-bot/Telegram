@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/המצור-נשבר-בסתר-התרחיש-שעלול-להצית-כאוס-במיצר-הורמוז-דניאל-264428
-https://news.walla.co.il/break/3831899
-https://hamal.co.il/main/סגירת-מעגל-מהירה-בדרום-לבנון-כוחות-צהל-חיסלו-מחבל-חמוש-שח-264429
-https://news.walla.co.il/item/3831900
+COUNTER:39
 https://hamal.co.il/main/טראמפ-ספינת-מטען-איראנית-שניסתה-לפרוץ-מצור-ימי-נבלמה-מערכ-264430
 https://hamal.co.il/main/מטופלת-תקפה-צוות-רפואי-בשלוחת-המרכז-הרפואי-הדסה-בית-שמש-אביח-264431
 https://news.walla.co.il/break/3831901
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ארהב-אושרה-מכירה-אפשרית-של-טיל
 https://hamal.co.il/main/דרום-לבנון-גופתה-של-עיתונאית-לבנונית-אותרה-תחת-הריסות-לאחר-264851
 https://hamal.co.il/main/ארגנטינה-הנשיא-מייליי-מקדם-חוק-לביטול-חובת-הפריימריז-במדינה-264852
 https://news.walla.co.il/break/3832550
+https://news.walla.co.il/break/3832554
+https://news.walla.co.il/break/3832555
+https://hamal.co.il/main/מחבל-שפעל-התקרב-לכוחותינו-במרחב-הקו-הצהוב-264853
+https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-קלה-בטמפרטורות-264854
