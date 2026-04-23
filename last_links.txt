@@ -1,7 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/טראמפ-ספינת-מטען-איראנית-שניסתה-לפרוץ-מצור-ימי-נבלמה-מערכ-264430
-https://hamal.co.il/main/מטופלת-תקפה-צוות-רפואי-בשלוחת-המרכז-הרפואי-הדסה-בית-שמש-אביח-264431
-https://news.walla.co.il/break/3831901
+COUNTER:1
 https://hamal.co.il/main/הסתיימה-חקירתו-של-השר-מיקי-זוהר-בפרשת-יד-לוחצת-יד-אבי-סולו-264432
 https://hamal.co.il/main/לא-מה-שחשבתם-מה-באמת-קורה-לגוף-כשאוכלים-לחם-לבן-בכל-יום-מע-264433
 https://news.walla.co.il/break/3831907
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832554
 https://news.walla.co.il/break/3832555
 https://hamal.co.il/main/מחבל-שפעל-התקרב-לכוחותינו-במרחב-הקו-הצהוב-264853
 https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-קלה-בטמפרטורות-264854
+https://news.walla.co.il/break/3832564
+https://hamal.co.il/main/רצח-על-רקע-נקמת-דם-264855
+https://hamal.co.il/main/ראש-המלל-לשעבר-264856
