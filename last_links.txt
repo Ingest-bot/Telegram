@@ -1,7 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/בריטניה-מגנים-את-שיגורי-הטילים-הבליסטיים-של-צפון-קוריאה-264440
-https://hamal.co.il/main/מדא-אישה-בת-40-נהרגה-וילד-בן-8-נפצע-קשה-באירוע-אלימות-בבש-264442
-https://news.walla.co.il/break/3831936
+COUNTER:9
 https://hamal.co.il/main/המשטרה-חוקרת-אירוע-הירי-בבאר-שבע-264443
 https://hamal.co.il/main/הרמטכל-264441
 https://news.walla.co.il/break/3831938
@@ -499,3 +496,6 @@ https://hamal.co.il/main/עצמאות-חימושית-עסקת-הענק-של-2648
 https://news.walla.co.il/break/3832590
 https://news.walla.co.il/item/3832589
 https://news.walla.co.il/item/3832594
+https://news.walla.co.il/break/3832605
+https://hamal.co.il/main/מיירט-נורה-באצבע-הגליל-לא-הופעלו-אזעקות-264866
+https://hamal.co.il/main/הירקן-264867
