@@ -1,7 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3832096
-https://news.walla.co.il/break/3832097
-https://news.walla.co.il/break/3832101
+COUNTER:9
 https://news.walla.co.il/item/3832098
 https://news.walla.co.il/item/3832102
 https://hamal.co.il/main/גנב-רכב-וניגח-ניידת-בי-ם-אישום-יוגש-נגד-שבח-מחברון-264492
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חייל-מילואים-אימץ-כלבה-שמצא-בג
 https://news.walla.co.il/break/3832743
 https://news.walla.co.il/break/3832745
 https://hamal.co.il/main/מרדף-בשומרון-ניסיון-דריסה-בוצע-נגד-כוח-צה״ל-264922
+https://news.walla.co.il/break/3832747
+https://news.walla.co.il/break/3832749
+https://hamal.co.il/main/מטענים-נשק-וציוד-צבאי-נתפסו-בפעילות-כוחותינו-בחטיבת-עציון-264923
