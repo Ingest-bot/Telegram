@@ -1,5 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/סמוטריץ-הגיבורים-האלו-לא-נפלו-בגלל-ציבור-כזה-או-אחר-264530
+COUNTER:24
 https://hamal.co.il/main/סמל-איתי-לבני-נפל-במהלך-פעילות-מבצעית-בעיר-עזה-264513
 https://hamal.co.il/main/אחים-לסמל-עמותת-א-264531
 https://news.walla.co.il/break/3832143
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832784
 https://hamal.co.il/main/זה-היה-מהיר-הדגלנית-בתחילתו-של-קשר-זוגי-עם-זמר-מפורסם-264944
 https://hamal.co.il/main/רגע-לפני-שבועות-מוצרי-החלב-בפיקוח-מתייקרים-264947
 https://news.walla.co.il/item/3832789
+https://hamal.co.il/main/בזכות-מייבש-שיער-שיחקו-עם-הטמפרטורה---והרוויחו-37-אלף-דולר-264949
