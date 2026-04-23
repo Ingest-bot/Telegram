@@ -1,7 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בעמדה-האיראנית-שלא-להשתתף-במומ-264520
-https://news.walla.co.il/break/3832133
-https://news.walla.co.il/break/3832135
+COUNTER:22
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-264524
 https://hamal.co.il/main/רסר-264511
 https://hamal.co.il/main/סמוטריץ-הגיבורים-האלו-לא-נפלו-בגלל-ציבור-כזה-או-אחר-264530
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תקיפות-מהאוויר-ומעל-ל-25-מחבלים
 https://hamal.co.il/main/בישראל-מבהירים-לא-תוקפים-באיראן-264942
 https://news.walla.co.il/item/3832782
 https://hamal.co.il/main/המוזיקאי-האהוב-נגד-ציונים-נהנים-מזכויות-יתר״-264920
+https://news.walla.co.il/break/3832783
+https://news.walla.co.il/break/3832784
+https://hamal.co.il/main/זה-היה-מהיר-הדגלנית-בתחילתו-של-קשר-זוגי-עם-זמר-מפורסם-264944
