@@ -1,5 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3832045
+COUNTER:39
 https://hamal.co.il/main/צפו-ברגעי-האימה-בקרקס-רשת-הבטיחות-קרסה---והטיגריס-זינק-אל-ה-264464
 https://news.walla.co.il/break/3832065
 https://news.walla.co.il/item/3832068
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832713
 https://news.walla.co.il/break/3832715
 https://hamal.co.il/main/ממתין-לרגל-תותבת-ומתקשה-לדבר-כך-264901
 https://hamal.co.il/main/השפריץ-צבע-על-יורש-העצר-האיראני---264902
+https://hamal.co.il/main/מסורת-שנתית-מאות-משפחות-הגיעו-לתצוגת-צה״ל-במוצב-עלומים-264904
