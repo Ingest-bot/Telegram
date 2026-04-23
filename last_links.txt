@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/צהל-האירוע-מוקדם-יותר-בדרום-לבנון---מתוחקר-264434
-https://hamal.co.il/main/תיעוד-ההשתלטות-האמריקנית-על-הספינה-האיראנית-264435
-https://news.walla.co.il/break/3831923
+COUNTER:4
 https://news.walla.co.il/break/3831921
 https://hamal.co.il/main/גבר-נפצע-קשה-בתאונת-דרכים-בכרמל-264436
 https://hamal.co.il/main/התקשורת-באיראן-טוענת-רחפנים-שוגרו-לעבר-ספינות-אמריקאיות-264437
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ראש-המלל-לשעבר-264856
 https://news.walla.co.il/break/3832567
 https://news.walla.co.il/item/3832565
 https://hamal.co.il/main/צפו-מחבל-מיחידת-כוח-רדואן-נעצר-בדרום-לבנון-264858
+https://news.walla.co.il/item/3832572
+https://hamal.co.il/main/בן-גביר-נסוג-264860
+https://hamal.co.il/main/הטעות-שכולם-עושים-264859
