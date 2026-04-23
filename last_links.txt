@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3831983
-https://hamal.co.il/main/מגיח-מאחור---ויורה-צרורות-264466
-https://hamal.co.il/main/המוסד-חושף-264467
-https://hamal.co.il/main/ערעורו-של-החשוד-באונס-שי-לי-עטרי-התקבל-שמו-לא-יפורסם-264468
+COUNTER:26
 https://news.walla.co.il/item/3831986
 https://hamal.co.il/main/איראן-אין-תכניות-לסבב-נוסף-במומ-עם-ארהב-264469
 https://news.walla.co.il/break/3832008
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3832639
 https://hamal.co.il/main/קטטה-פרצה-סמוך-לאולם-בית-המשפט-בחדרה-5-חשודים-נעצרו-264885
 https://hamal.co.il/main/צהל-חוסלו-מחבלים-שפעלו-סמוך-לכוחותינו-בצפון-ובדרום-הרצועה-264886
 https://hamal.co.il/main/הדיון-בבגץ-חכ-טלי-גוטליב-הוצאה-מהאולם-264887
+https://news.walla.co.il/item/3832651
+https://hamal.co.il/main/מחקר-גילה-2-הרגלי-אכילה-פשוטים-שעוזרים-עם-הדיאטה-לאורך-זמן-264861
+https://hamal.co.il/main/אב-מואשם-ברצח-בנו-התינוק-264888
+https://hamal.co.il/main/מחבל-יידה-אבנים-לעבר-מכוניות-ביוש-י-264890
