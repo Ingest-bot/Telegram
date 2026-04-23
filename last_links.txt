@@ -1,6 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3831986
-https://hamal.co.il/main/איראן-אין-תכניות-לסבב-נוסף-במומ-עם-ארהב-264469
+COUNTER:28
 https://news.walla.co.il/break/3832008
 https://news.walla.co.il/item/3832002
 https://news.walla.co.il/item/3831999
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832651
 https://hamal.co.il/main/מחקר-גילה-2-הרגלי-אכילה-פשוטים-שעוזרים-עם-הדיאטה-לאורך-זמן-264861
 https://hamal.co.il/main/אב-מואשם-ברצח-בנו-התינוק-264888
 https://hamal.co.il/main/מחבל-יידה-אבנים-לעבר-מכוניות-ביוש-י-264890
+https://hamal.co.il/main/הרב-שזוהה-כרב-הראשי-264889
+https://hamal.co.il/main/אשדוד-נעצרו-2-חשודים-בהשלכת-רימון-רסס-לעבר-בניין-בעיר-264891
