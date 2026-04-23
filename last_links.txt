@@ -1,5 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/נתניהו-גינה-את-ניתוץ-הפסל-של-ישו-264486
+COUNTER:2
 https://hamal.co.il/main/הרמטכל-למשרתים-ששכלו-את-קרוביהם-264487
 https://hamal.co.il/main/תיעוד-קשה-מכונית-מרוץ-התהפכה-צופה-נהרג-264485
 https://news.walla.co.il/break/3832082
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832723
 https://news.walla.co.il/item/3832722
 https://hamal.co.il/main/דגלי-אש״ף-הוסרו-משכונת-מאה-שערים-בירושלים-264908
 https://hamal.co.il/main/טראמפ-הוריתי-לצי-להרוג-כל-כלי-שיט-שמניח-מוקשים-במצר-הורמוז-264909
+https://hamal.co.il/main/צפו-פיצוץ-700-מוקשים-סמוך-לגבול-סוריה-264910
