@@ -1,9 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/התכוון-לצאת-264458
-https://hamal.co.il/main/יוש-הושמד-מצבור-מטענים-שהוסתר-בבית-ספר--צפו-264463
-https://news.walla.co.il/break/3831976
-https://news.walla.co.il/break/3831974
-https://hamal.co.il/main/החשד-לרצח-בבאר-שבע-264465
+COUNTER:23
 https://news.walla.co.il/item/3831983
 https://hamal.co.il/main/מגיח-מאחור---ויורה-צרורות-264466
 https://hamal.co.il/main/המוסד-חושף-264467
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3832641
 https://news.walla.co.il/item/3832637
 https://hamal.co.il/main/הותר-לפרסום-קצין-מילואים-נהרג-בתאונת-צניחה-אזרחית-264882
 https://hamal.co.il/main/לאחר-ניסיון-הפריצה-לאולם-הדיון-בבגץ-התחדש-264884
+https://news.walla.co.il/break/3832648
+https://news.walla.co.il/item/3832639
+https://hamal.co.il/main/קטטה-פרצה-סמוך-לאולם-בית-המשפט-בחדרה-5-חשודים-נעצרו-264885
+https://hamal.co.il/main/צהל-חוסלו-מחבלים-שפעלו-סמוך-לכוחותינו-בצפון-ובדרום-הרצועה-264886
+https://hamal.co.il/main/הדיון-בבגץ-חכ-טלי-גוטליב-הוצאה-מהאולם-264887
