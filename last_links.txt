@@ -1,8 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3832039
-https://hamal.co.il/main/מקור-פקיסטני-ייעצתי-לטראמפ-לבטל-את-המצור-אמר-שישקול-זאת-264482
-https://hamal.co.il/main/מיקי-זוהר-על-החקירה-במשטרה-הסברתי-לחוקרים-כיצד-פועלת-הפולי-264483
-https://news.walla.co.il/break/3832053
+COUNTER:38
 https://news.walla.co.il/item/3832045
 https://hamal.co.il/main/צפו-ברגעי-האימה-בקרקס-רשת-הבטיחות-קרסה---והטיגריס-זינק-אל-ה-264464
 https://news.walla.co.il/break/3832065
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3832711
 https://news.walla.co.il/item/3832707
 https://hamal.co.il/main/צבא-ארהב-עצר-ספינה-נוספת-264897
 https://hamal.co.il/main/לעג-הכתבת-לנערים-החרדים-264899
+https://news.walla.co.il/break/3832713
+https://news.walla.co.il/break/3832715
+https://hamal.co.il/main/ממתין-לרגל-תותבת-ומתקשה-לדבר-כך-264901
+https://hamal.co.il/main/השפריץ-צבע-על-יורש-העצר-האיראני---264902
