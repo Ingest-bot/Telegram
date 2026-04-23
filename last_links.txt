@@ -1,9 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/סמל-איתי-לבני-נפל-במהלך-פעילות-מבצעית-בעיר-עזה-264513
-https://hamal.co.il/main/אחים-לסמל-עמותת-א-264531
-https://news.walla.co.il/break/3832143
-https://hamal.co.il/main/מיליארדי-פוסטים-וגילויי-שנאה-היקף-האנטישמיות-גבוה-משחשבתם-264540
-https://news.walla.co.il/item/3832142
+COUNTER:26
 https://news.walla.co.il/item/3832146
 https://hamal.co.il/main/סיפורן-של-3-גיבורות-264541
 https://hamal.co.il/main/יום-הזיכרון-2026-שידור-ישיר-מרחבת-הכותל-המערבי-264534
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זה-היה-מהיר-הדגלנית-בתחילתו-של
 https://hamal.co.il/main/רגע-לפני-שבועות-מוצרי-החלב-בפיקוח-מתייקרים-264947
 https://news.walla.co.il/item/3832789
 https://hamal.co.il/main/בזכות-מייבש-שיער-שיחקו-עם-הטמפרטורה---והרוויחו-37-אלף-דולר-264949
+https://news.walla.co.il/break/3832790
+https://news.walla.co.il/break/3832791
+https://news.walla.co.il/break/3832796
+https://hamal.co.il/main/טראמפ-״אם-איראן-התחמשה-במהלך-ההפוגה-נסגור-את-זה-ביום-אחד״-264950
+https://hamal.co.il/main/אזעקות-הופעלו-בשתולה-264952
