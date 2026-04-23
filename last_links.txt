@@ -1,7 +1,4 @@
 COUNTER:7
-https://news.walla.co.il/break/3831933
-https://news.walla.co.il/item/3831931
-https://news.walla.co.il/item/3831928
 https://hamal.co.il/main/בריטניה-מגנים-את-שיגורי-הטילים-הבליסטיים-של-צפון-קוריאה-264440
 https://hamal.co.il/main/מדא-אישה-בת-40-נהרגה-וילד-בן-8-נפצע-קשה-באירוע-אלימות-בבש-264442
 https://news.walla.co.il/break/3831936
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ביום-העצמאות-תושב-בית-שמש-נעצר
 https://hamal.co.il/main/בגץ-ידון-בעתירות-264862
 https://news.walla.co.il/break/3832584
 https://hamal.co.il/main/עצמאות-חימושית-עסקת-הענק-של-264865
+https://news.walla.co.il/break/3832590
+https://news.walla.co.il/item/3832589
+https://news.walla.co.il/item/3832594
