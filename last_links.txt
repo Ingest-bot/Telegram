@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3832146
-https://hamal.co.il/main/סיפורן-של-3-גיבורות-264541
-https://hamal.co.il/main/יום-הזיכרון-2026-שידור-ישיר-מרחבת-הכותל-המערבי-264534
-https://news.walla.co.il/break/3832149
+COUNTER:29
 https://hamal.co.il/main/תלונה-נוספת-נגד-המוהל-החשוד-בגרימת-מוותברקע-תינוק-במצב-אנוש-264543
 https://news.walla.co.il/break/3832154
 https://news.walla.co.il/item/3832153
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3832791
 https://news.walla.co.il/break/3832796
 https://hamal.co.il/main/טראמפ-״אם-איראן-התחמשה-במהלך-ההפוגה-נסגור-את-זה-ביום-אחד״-264950
 https://hamal.co.il/main/אזעקות-הופעלו-בשתולה-264952
+https://news.walla.co.il/item/3832799
+https://hamal.co.il/main/האזעקות-בשתולה-זוהו-מספר-שיגורים-שחצו-מלבנון---וייורטו-264954
+https://hamal.co.il/main/עובד-פיצרייה-נדקר-למוות-לאחר-שהעיר-לנערים-על-ספריי-שלג-264953
+https://hamal.co.il/main/בזמן-השיחות-בבית-הלבן-חיזבאללה-מנסה-לפוצץ-את-המו״מ-264955
