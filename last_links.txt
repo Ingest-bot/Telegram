@@ -1,10 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/item/3832081
-https://hamal.co.il/main/6-רופאים-חושפים-אלה-תוספי-תזונה-שאנחנו-נוטלים-בכל-יום-264455
-https://news.walla.co.il/break/3832084
-https://news.walla.co.il/break/3832085
-https://news.walla.co.il/break/3832087
-https://hamal.co.il/main/2-כלי-רכב-גנובים-אותרו-ביוש-264489
+COUNTER:5
 https://news.walla.co.il/break/3832091
 https://news.walla.co.il/item/3832092
 https://hamal.co.il/main/שניות-לפני-הטקס-הנקמה-האכזרית-שהפכה-חתונת-חלומות-לסיוט-264471
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צפו-פיצוץ-700-מוקשים-סמוך-לגבול-
 https://news.walla.co.il/break/3832729
 https://news.walla.co.il/item/3832727
 https://hamal.co.il/main/״הנה-הרגל-שלו-באהבה״-אישום-נגד-בן-15-שהתעלל-באכזריות-בחתול-264911
+https://news.walla.co.il/break/3832732
+https://news.walla.co.il/break/3832733
+https://news.walla.co.il/break/3832734
+https://news.walla.co.il/break/3832735
+https://hamal.co.il/main/נמל-התעופה-חיפה-חזר-לפעילות-בינלאומית-מלאה-264912
+https://hamal.co.il/main/בן-אוזלבו-מהאח-הגדול-לא-מחכה-לפטל-בחוץ-264907
