@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3832022
-https://news.walla.co.il/item/3832019
+COUNTER:32
 https://hamal.co.il/main/יאיר-גולן-לבנט-מברך-על-תמיכתך-בנישואים-אזרחיים-264479
 https://hamal.co.il/main/באיראן-מאיימים-נגיב-על-תקיפת-הספינה-במצרי-הורמוז-264475
 https://hamal.co.il/main/לאחר-7-שנים-זיו-אריה-התפטר-מאימון-הפועל-ירושלים-264480
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832689
 https://hamal.co.il/main/ההפרות-נמשכות-חוסל-מחבל-חיזבאללה-שניסה-לשגר-טיל-לעבר-הצפון-264892
 https://hamal.co.il/main/ביממה-אחת-264893
 https://hamal.co.il/main/התעלומה-נפתרה-כך-נבנתה-הפירמידה-הגדולה-של-מצרים-264864
+https://news.walla.co.il/break/3832692
+https://hamal.co.il/main/מאות-מבקרים-הגיעו-היוזמה-של-גדוד-המילואים-ביום-העצמאות-264895
