@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/המשטרה-חוקרת-אירוע-הירי-בבאר-שבע-264443
-https://hamal.co.il/main/הרמטכל-264441
-https://news.walla.co.il/break/3831938
+COUNTER:12
 https://hamal.co.il/main/אבדיה-כיכב-עם-30-נקודות-פורטלנד-נכנעה-בסן-אנטוניו-264448
 https://news.walla.co.il/break/3831939
 https://hamal.co.il/main/מסתמן-זה-המועמד-המוביל-לתפקיד-ראש-המלל-264449
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832594
 https://news.walla.co.il/break/3832605
 https://hamal.co.il/main/מיירט-נורה-באצבע-הגליל-לא-הופעלו-אזעקות-264866
 https://hamal.co.il/main/הירקן-264867
+https://hamal.co.il/main/ניסה-להימלט---ונעצר-סכום-עתק-אותר-ברכבו-של-תושב-264868
+https://hamal.co.il/main/צהל-מטרה-264869
+https://hamal.co.il/main/פרשת-השחיתות-בהסתדרות-השר-מיקי-זוהר-נחקר-שוב-264871
