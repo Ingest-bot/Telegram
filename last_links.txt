@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3831929
-https://news.walla.co.il/break/3831932
+COUNTER:7
 https://news.walla.co.il/break/3831933
 https://news.walla.co.il/item/3831931
 https://news.walla.co.il/item/3831928
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832579
 https://news.walla.co.il/item/3832576
 https://hamal.co.il/main/ביום-העצמאות-תושב-בית-שמש-נעצר-בחשד-ששרף-את-דגל-המדינה-264863
 https://hamal.co.il/main/בגץ-ידון-בעתירות-264862
+https://news.walla.co.il/break/3832584
+https://hamal.co.il/main/עצמאות-חימושית-עסקת-הענק-של-264865
