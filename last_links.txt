@@ -1,9 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3832008
-https://news.walla.co.il/item/3832002
-https://news.walla.co.il/item/3831999
-https://hamal.co.il/main/מקור-איראני-לרויטרס-264470
-https://hamal.co.il/main/שניות-לפני-הטקס-הנקמה-האכזרית-שהפכה-חתונת-חלומות-לסיוט-264474
 https://hamal.co.il/main/במשך-שנים-הרגיש-משהו-תקוע-בגרון---הרופאים-נדהמו-ממה-שיצא-משם-264371
 https://news.walla.co.il/break/3832009
 https://news.walla.co.il/item/3832013
@@ -499,3 +494,8 @@ https://hamal.co.il/main/אב-מואשם-ברצח-בנו-התינוק-264888
 https://hamal.co.il/main/מחבל-יידה-אבנים-לעבר-מכוניות-ביוש-י-264890
 https://hamal.co.il/main/הרב-שזוהה-כרב-הראשי-264889
 https://hamal.co.il/main/אשדוד-נעצרו-2-חשודים-בהשלכת-רימון-רסס-לעבר-בניין-בעיר-264891
+https://news.walla.co.il/break/3832666
+https://news.walla.co.il/break/3832663
+https://news.walla.co.il/break/3832668
+https://news.walla.co.il/break/3832665
+https://news.walla.co.il/item/3832664
