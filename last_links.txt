@@ -1,6 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/טראמפ-264515
-https://news.walla.co.il/break/3832131
+COUNTER:21
 https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בעמדה-האיראנית-שלא-להשתתף-במומ-264520
 https://news.walla.co.il/break/3832133
 https://news.walla.co.il/break/3832135
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832779
 https://hamal.co.il/main/דיווחים-באיראןמערכות-הגנה-אווירית-הופעלו-במערב-טהרן-הסיבה-ל-264935
 https://hamal.co.il/main/תקיפות-מהאוויר-ומעל-ל-25-מחבלים-שחוסלו-פעילות-צה״ל-בלבנון-264941
 https://hamal.co.il/main/בישראל-מבהירים-לא-תוקפים-באיראן-264942
+https://news.walla.co.il/item/3832782
+https://hamal.co.il/main/המוזיקאי-האהוב-נגד-ציונים-נהנים-מזכויות-יתר״-264920
