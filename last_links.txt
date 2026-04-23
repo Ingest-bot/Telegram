@@ -1,12 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/כתב-אישום-נגד-7-קצינים-עבירות-כלכליות-במיליוני-שקלים-264502
-https://news.walla.co.il/break/3832115
-https://news.walla.co.il/break/3832116
-https://news.walla.co.il/item/3831197
-https://hamal.co.il/main/מתקפת-פתע-או-תקיפה-באיראן-בצהל-נערכים-לקריסת-המשא-ומתן-264505
-https://hamal.co.il/main/שני-גברים-נהרגו-בתאונת-דרכים-ברמת-הגולן-264506
-https://hamal.co.il/main/גורם-ישראלי-סבב-חדש-של-מומ-ישראלי-לבנוני---כבר-בחמישי-264509
-https://news.walla.co.il/break/3832125
+COUNTER:16
 https://news.walla.co.il/item/3832011
 https://news.walla.co.il/item/3831800
 https://news.walla.co.il/item/3831832
@@ -499,3 +491,11 @@ https://hamal.co.il/main/בתוך-חנות-בגדים-צה״ל-חושף-מפקד
 https://hamal.co.il/main/כ״ץ-״ערוכים-לחידוש-המלחמה-מול-איראן-264929
 https://hamal.co.il/main/בעלת-עסק-בשרון-הלינה-והעסיקה-שב״ח-4-שנים-כלי-נשק-אותרו-עמם-264925
 https://hamal.co.il/main/משרד-הביטחון-מסר-מערכת-הגנה-אווירית-לצבא-סלובקיה-264917
+https://news.walla.co.il/break/3832757
+https://news.walla.co.il/break/3832759
+https://news.walla.co.il/break/3832760
+https://news.walla.co.il/break/3832761
+https://news.walla.co.il/break/3832763
+https://hamal.co.il/main/״הוא-מצילנו-מידם״-בן-גביר-על-המרגלים-שהעבירו-מיקומים-שלו-264931
+https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-שינוי-עד-לשבוע-הבא-264932
+https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמושים-בדרום-לבנון-264933
