@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/אבדיה-כיכב-עם-30-נקודות-פורטלנד-נכנעה-בסן-אנטוניו-264448
-https://news.walla.co.il/break/3831939
-https://hamal.co.il/main/מסתמן-זה-המועמד-המוביל-לתפקיד-ראש-המלל-264449
+COUNTER:14
 https://hamal.co.il/main/מד-264345
 https://news.walla.co.il/break/3831943
 https://news.walla.co.il/break/3831945
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הירקן-264867
 https://hamal.co.il/main/ניסה-להימלט---ונעצר-סכום-עתק-אותר-ברכבו-של-תושב-264868
 https://hamal.co.il/main/צהל-מטרה-264869
 https://hamal.co.il/main/פרשת-השחיתות-בהסתדרות-השר-מיקי-זוהר-נחקר-שוב-264871
+https://news.walla.co.il/item/3832619
+https://hamal.co.il/main/נציג-הממשלה-לבגץ-264872
+https://hamal.co.il/main/המילים-המצמררות-שאנשים-שומעים-לפני-מותם---ואיש-לא-הבין-264857
