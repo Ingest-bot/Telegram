@@ -1,6 +1,4 @@
 COUNTER:5
-https://news.walla.co.il/break/3832091
-https://news.walla.co.il/item/3832092
 https://hamal.co.il/main/שניות-לפני-הטקס-הנקמה-האכזרית-שהפכה-חתונת-חלומות-לסיוט-264471
 https://news.walla.co.il/item/3832093
 https://hamal.co.il/main/חוקרים-מצאו-הדרך-הפשוטה-לעצור-את-הזדקנות-המוח-264484
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832734
 https://news.walla.co.il/break/3832735
 https://hamal.co.il/main/נמל-התעופה-חיפה-חזר-לפעילות-בינלאומית-מלאה-264912
 https://hamal.co.il/main/בן-אוזלבו-מהאח-הגדול-לא-מחכה-לפטל-בחוץ-264907
+https://news.walla.co.il/break/3832738
+https://news.walla.co.il/item/3832739
