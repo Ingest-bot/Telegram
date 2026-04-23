@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3832049
-https://news.walla.co.il/item/3830881
-https://hamal.co.il/main/סגן-נשיא-ארהב-בדרכו-לפקיסטן-טראמפ-מוכן-להיפגש-עם-האיראנים-264510
-https://news.walla.co.il/break/3832129
-https://hamal.co.il/main/דיווח-פקיסטן-לוחצת-על-איראן-לאשר-את-השתתפותה-בשיחות-264512
+COUNTER:20
 https://hamal.co.il/main/טראמפ-264515
 https://news.walla.co.il/break/3832131
 https://hamal.co.il/main/התקשורת-האיראנית-אין-שינוי-בעמדה-האיראנית-שלא-להשתתף-במומ-264520
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמ
 https://news.walla.co.il/break/3832769
 https://hamal.co.il/main/דיווח-הפגישה-בין-ישראל-ללבנון-עברה-ממשרד-החוץ-לבית-הלבן-264934
 https://news.walla.co.il/break/3832773
+https://news.walla.co.il/break/3832778
+https://news.walla.co.il/break/3832779
+https://hamal.co.il/main/דיווחים-באיראןמערכות-הגנה-אווירית-הופעלו-במערב-טהרן-הסיבה-ל-264935
+https://hamal.co.il/main/תקיפות-מהאוויר-ומעל-ל-25-מחבלים-שחוסלו-פעילות-צה״ל-בלבנון-264941
+https://hamal.co.il/main/בישראל-מבהירים-לא-תוקפים-באיראן-264942
