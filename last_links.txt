@@ -1,5 +1,4 @@
 COUNTER:17
-https://news.walla.co.il/item/3831832
 https://news.walla.co.il/item/3832049
 https://news.walla.co.il/item/3830881
 https://hamal.co.il/main/סגן-נשיא-ארהב-בדרכו-לפקיסטן-טראמפ-מוכן-להיפגש-עם-האיראנים-264510
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-ש�
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמושים-בדרום-לבנון-264933
 https://news.walla.co.il/break/3832769
 https://hamal.co.il/main/דיווח-הפגישה-בין-ישראל-ללבנון-עברה-ממשרד-החוץ-לבית-הלבן-264934
+https://news.walla.co.il/break/3832773
