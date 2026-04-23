@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3832009
-https://news.walla.co.il/item/3832013
-https://news.walla.co.il/item/3832010
-https://hamal.co.il/main/לאחר-רעידת-האדמה-אזהרת-צונאמי-ביפן-264478
-https://news.walla.co.il/break/3832025
+COUNTER:31
 https://news.walla.co.il/break/3832022
 https://news.walla.co.il/item/3832019
 https://hamal.co.il/main/יאיר-גולן-לבנט-מברך-על-תמיכתך-בנישואים-אזרחיים-264479
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3832668
 https://news.walla.co.il/break/3832665
 https://news.walla.co.il/item/3832664
 https://news.walla.co.il/break/3832678
+https://news.walla.co.il/break/3832680
+https://news.walla.co.il/break/3832689
+https://hamal.co.il/main/ההפרות-נמשכות-חוסל-מחבל-חיזבאללה-שניסה-לשגר-טיל-לעבר-הצפון-264892
+https://hamal.co.il/main/ביממה-אחת-264893
+https://hamal.co.il/main/התעלומה-נפתרה-כך-נבנתה-הפירמידה-הגדולה-של-מצרים-264864
