@@ -1,9 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/מד-264345
-https://news.walla.co.il/break/3831943
-https://news.walla.co.il/break/3831945
-https://hamal.co.il/main/אערוף-לך-את-הראש-264451
-https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-באתר-בנייה-264452
+COUNTER:16
 https://hamal.co.il/main/צהל-מזהיר-את-תושבי-לבנון-אין-להתקרב-לנהר-הליטני-264453
 https://hamal.co.il/main/חשש-להסלמה-מחיר-הנפט-מזנק-הבורסות-משקשקות-264454
 https://news.walla.co.il/break/3831951
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פרשת-השחיתות-בהסתדרות-השר-מיק�
 https://news.walla.co.il/item/3832619
 https://hamal.co.il/main/נציג-הממשלה-לבגץ-264872
 https://hamal.co.il/main/המילים-המצמררות-שאנשים-שומעים-לפני-מותם---ואיש-לא-הבין-264857
+https://news.walla.co.il/break/3832630
+https://news.walla.co.il/break/3832623
+https://news.walla.co.il/break/3832627
+https://hamal.co.il/main/הולכת-רגל-כבת-60-נפגעה-מרכב-באשקלון-מצבה-קשה-264876
+https://hamal.co.il/main/הוביל-את-המלחמה-הטכנולוגית-מול-איראן-264877
