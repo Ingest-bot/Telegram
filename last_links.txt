@@ -1,7 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/לא-הספיקו-לומר-כן-שלושה-סיפורים-על-אהבות-צעירות-שנגדעו-ברגע-264564
-https://hamal.co.il/main/סרן-בני-וייס-נפל-בקרב-בצפון-רצועת-עזה-264519
-https://news.walla.co.il/break/3832180
+COUNTER:0
 https://hamal.co.il/main/סמ״ר-נועם-יוסף-אבו-לחם-באומץ-ונפל-בקרב-בעזה-264517
 https://news.walla.co.il/break/3832182
 https://news.walla.co.il/break/3832181
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832815
 https://news.walla.co.il/break/3832816
 https://hamal.co.il/main/רעידת-אדמה-בעוצמה-59-הורגשה-באי-כרתים-ביוון-264966
 https://hamal.co.il/main/מזג-האוויר-היום-בהיר-עד-מעונן-חלקית-עם-עלייה-קלה-בטמפרטורות-264967
+https://news.walla.co.il/item/3832817
+https://news.walla.co.il/item/3832819
+https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-קשה-בתאונה-קטלנית-סמוך-ליישוב-רחלים-264968
