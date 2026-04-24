@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3832201
-https://hamal.co.il/main/רב-טוראי-יואב-מליק-זל-264589
-https://news.walla.co.il/break/3832213
+COUNTER:17
 https://hamal.co.il/main/ישיר-טקס-הקראת-שמות-חללי-מערכות-ישראל-בהר-הרצל-264590
 https://news.walla.co.il/item/3832215
 https://hamal.co.il/main/מניח-תפילין-של-לוחם-שנפל-264591
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832851
 https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264981
 https://news.walla.co.il/break/3832856
 https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264979
+https://news.walla.co.il/item/3832860
+https://hamal.co.il/main/בהכוונת-השב״כ-מצבור-אמלח-אותר-264986
+https://hamal.co.il/main/צבא-ארהב-מכריז-3-נושאות-מטוסים-פועלות-באזור-264989
