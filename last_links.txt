@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3832169
-https://hamal.co.il/main/רהט-צעירה-בת-27-נפצעה-באורח-אנוש-באירוע-ירי-264560
+COUNTER:39
 https://hamal.co.il/main/לא-הספיקו-לומר-כן-שלושה-סיפורים-על-אהבות-צעירות-שנגדעו-ברגע-264564
 https://hamal.co.il/main/סרן-בני-וייס-נפל-בקרב-בצפון-רצועת-עזה-264519
 https://news.walla.co.il/break/3832180
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-הפסקת-האש-בין-ישראל-ללבנ
 https://hamal.co.il/main/טראמפ-סבירות-גבוהה-שנתניהו-ונשיא-לבנון-יגיעו-לבית-הלבן-בשבו-264965
 https://news.walla.co.il/break/3832815
 https://news.walla.co.il/break/3832816
+https://hamal.co.il/main/רעידת-אדמה-בעוצמה-59-הורגשה-באי-כרתים-ביוון-264966
+https://hamal.co.il/main/מזג-האוויר-היום-בהיר-עד-מעונן-חלקית-עם-עלייה-קלה-בטמפרטורות-264967
