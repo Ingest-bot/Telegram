@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/רכב-של-היחידה-לאבטחת-אישים-דרס-למוות-נער-ערבי-סמוך-לחברון-264588
-https://news.walla.co.il/break/3832203
+COUNTER:15
 https://news.walla.co.il/item/3832201
 https://hamal.co.il/main/רב-טוראי-יואב-מליק-זל-264589
 https://news.walla.co.il/break/3832213
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832852
 https://news.walla.co.il/item/3832854
 https://news.walla.co.il/item/3832851
 https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264981
+https://news.walla.co.il/break/3832856
+https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264979
