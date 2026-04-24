@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/תאונת-אופניים-בירושלים-נקבע-מותו-של-נער-פלסטינאי-בן-16-264574
-https://hamal.co.il/main/נפל-בקרב-מבלי-להכיר-את-ביתו-הרביעית-רסב-רן-יעבץ-זל-264578
-https://hamal.co.il/main/מפקד-חטיבת-גולני-264579
+COUNTER:10
 https://hamal.co.il/main/חזר-לצבא-אחרי-הלימודים---ונפל-בעזה-264580
 https://news.walla.co.il/break/3832196
 https://news.walla.co.il/break/3832197
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832840
 https://news.walla.co.il/item/3832838
 https://hamal.co.il/main/פרשת-אחרי-מות-קדשים-אלו-זמני-השבת-264971
 https://hamal.co.il/main/הימר-על-המבצע-שהשתתף-בו-לוחם-קומנדו-אמריקני-264975
+https://news.walla.co.il/break/3832843
+https://news.walla.co.il/item/3832842
+https://hamal.co.il/main/פרשת-אחרי-מות---קדושים-המידה-שנלמדת-ממות-בניו-של-אהרון-264973
