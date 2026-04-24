@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/ישיר-טקס-הקראת-שמות-חללי-מערכות-ישראל-בהר-הרצל-264590
-https://news.walla.co.il/item/3832215
+COUNTER:18
 https://hamal.co.il/main/מניח-תפילין-של-לוחם-שנפל-264591
 https://hamal.co.il/main/לזכרם-של-1689-שוטרים-264592
 https://news.walla.co.il/break/3832223
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הבר�
 https://news.walla.co.il/item/3832860
 https://hamal.co.il/main/בהכוונת-השב״כ-מצבור-אמלח-אותר-264986
 https://hamal.co.il/main/צבא-ארהב-מכריז-3-נושאות-מטוסים-פועלות-באזור-264989
+https://news.walla.co.il/item/3832861
+https://hamal.co.il/main/מצבו-הרפואי-של-נתניהו-נחשף-264991
