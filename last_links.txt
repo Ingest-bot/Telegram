@@ -1,5 +1,4 @@
 COUNTER:17
-https://news.walla.co.il/break/3832313
 https://hamal.co.il/main/צפו-משפחות-שכולות-מניחות-זרים-בהר-הרצל-264641
 https://hamal.co.il/main/הפעילו-מוזיקה-בערבית-תושבי-מזרח-י-ם-ביזו-טקסי-זיכרון-ונעצרו-264650
 https://hamal.co.il/main/ביום-פקיעת-ההסכם-ואנס-צפוי-להגיע-לפקיסטן-לקראת-המשך-המומ-264651
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אזור-נער-בן-16-נפצע-באורח-קשה-בת
 https://news.walla.co.il/break/3832924
 https://hamal.co.il/main/רוכב-אופניים-כבן-60-נפצע-באורח-קשה-מפגיעת-רכב-בקלנסווה-265071
 https://hamal.co.il/main/דיווחים-באיראן-שר-החוץ-נחת-בפקיסטן-265072
+https://news.walla.co.il/break/3832928
