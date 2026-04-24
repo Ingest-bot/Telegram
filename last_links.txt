@@ -1,7 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/אקוניס-בטקס-יום-הזיכרון-בניו-יורק-ההישגים---בשל-אומץ-ליבם-264570
-https://hamal.co.il/main/נפל-בקרב-מול-מחבלים-ב-710-264571
-https://news.walla.co.il/break/3832191
+COUNTER:8
 https://hamal.co.il/main/עלייה-קלה-בטמפרטורות-אך-עדיין-קר-מהרגיל-לעונה--התחזית-264572
 https://hamal.co.il/main/תאונת-אופניים-בירושלים-נקבע-מותו-של-נער-פלסטינאי-בן-16-264574
 https://hamal.co.il/main/נפל-בקרב-מבלי-להכיר-את-ביתו-הרביעית-רסב-רן-יעבץ-זל-264578
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3832836
 https://hamal.co.il/main/צהל-תקפנו-מבנים-צבאיים-של-חיזבאללה-בדרום-לבנון-264974
 https://news.walla.co.il/break/3832837
 https://hamal.co.il/main/חשד-לרצח-בבאר-שבע-בן-19-נדקר-למוות---הרקע-פלילי-264976
+https://news.walla.co.il/item/3832840
+https://news.walla.co.il/item/3832838
+https://hamal.co.il/main/פרשת-אחרי-מות-קדשים-אלו-זמני-השבת-264971
