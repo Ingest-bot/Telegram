@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3832275
-https://news.walla.co.il/break/3832279
-https://hamal.co.il/main/ראש-המוסד-חשף-סוכן-שלנו-נפל-במהלך-264633
-https://hamal.co.il/main/בכל-הגזרות-לוחמי-צהל-264634
+COUNTER:7
 https://news.walla.co.il/break/3832288
 https://news.walla.co.il/item/3832283
 https://hamal.co.il/main/ישיר-טקס-הזיכרון-הממלכתי-לחללי-פעולות-האיבה-264636
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3832889
 https://hamal.co.il/main/שר-החוץ-האיראני-״יוצא-לסבב-ביקורים-בפקיסטן-מוסקט-ומוסקבה״-265051
 https://hamal.co.il/main/צהל-תקף-מבנים-צבאיים-של-ארגון-הטרור-חיזבאללה-בכפר-דיס-עמס---265054
 https://hamal.co.il/main/אחרי-דקירת-הנער-במברג-בת״א-5-קטינים-נעצרו--המשטרה-״צפויים-265055
+https://news.walla.co.il/break/3832895
+https://hamal.co.il/main/נתניהו-״הבטחתי-לכם-שנשנה-את-פני-המזרח-התיכון״-265058
+https://hamal.co.il/main/סוף-עצוב-מתה-מפצעיה-בת-ה-11-שנפגעה-מפגיעת-טיל-איראני-בבני-ב-265059
+https://hamal.co.il/main/אירוע-אלימות-סמוך-לכנרת-גבר-כבן-30-נפצע-באורח-בינוני-265060
