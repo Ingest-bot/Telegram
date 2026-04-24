@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3832183
-https://hamal.co.il/main/סגן-עמוס-מלצר-ז״ל-נפל-במלחת-יום-הכיפורים-בן-21-בנופלו-264567
+COUNTER:4
 https://news.walla.co.il/break/3832184
 https://news.walla.co.il/break/3832186
 https://news.walla.co.il/break/3832188
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ארהב-נערכת-לחידוש-התקיפות-באי�
 https://news.walla.co.il/break/3832828
 https://news.walla.co.il/item/3832826
 https://hamal.co.il/main/השאלה-המעניינת-באמת-האם-החיילת-בטקס-המשואות-נמצאת-בזוגיות-264870
+https://news.walla.co.il/item/3832831
+https://hamal.co.il/main/ארהב-תכוסה-באפר-264969
