@@ -1,10 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/טראמפ-ישתתף-בפקיסטן-אופטימיים-השיחות-עם-איראן-צפויות-להתח-264597
-https://news.walla.co.il/break/3832235
-https://news.walla.co.il/break/3832237
-https://news.walla.co.il/item/3832234
-https://hamal.co.il/main/רוכב-אופניים-נפגע-בתאונה-עם-רכב-264601
-https://hamal.co.il/main/ישיר-טקס-הזיכרון-לחללי-משטרת-ישראל-264606
+COUNTER:27
 https://hamal.co.il/main/סיפורו-של-סמר-264612
 https://hamal.co.il/main/סיפורו-של-סמר-264613
 https://hamal.co.il/main/הבכיר-האיראני-מזהיר-264616
@@ -499,3 +493,9 @@ https://hamal.co.il/main/3-לוחמים-נפצעו-בלבנון-בהם-2-באו�
 https://news.walla.co.il/break/3832866
 https://hamal.co.il/main/חוששות-מהסלמה-סין-והודו-קוראות-לאזרחיהן-לעזוב-את-איראן-265009
 https://hamal.co.il/main/דיווח-משלחת-איראנית-תגיע-לפקיסטן-לקראת-המשך-המומ-265010
+https://news.walla.co.il/break/3832867
+https://news.walla.co.il/break/3832868
+https://hamal.co.il/main/אחרי-הירי-לצפון-צהל-פרסם-הודעת-פינוי-לכפר-בדרום-לבנון-265011
+https://hamal.co.il/main/צהל-הכטבם-שחדר-לצפון---יורט-בהצלחה-265012
+https://hamal.co.il/main/פעילות-כוחותינו-בלבנון-אמצעי-תצפית-הותקף-מצבור-אמלח-אותר-265017
+https://hamal.co.il/main/כלי-טיס-של-צהל-הופל-בדרום-לבנון-האירוע-מתוחקר-265018
