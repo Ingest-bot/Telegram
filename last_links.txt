@@ -1,5 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/item/3832168
 https://news.walla.co.il/break/3832169
 https://hamal.co.il/main/רהט-צעירה-בת-27-נפצעה-באורח-אנוש-באירוע-ירי-264560
 https://hamal.co.il/main/לא-הספיקו-לומר-כן-שלושה-סיפורים-על-אהבות-צעירות-שנגדעו-ברגע-264564
@@ -499,3 +498,4 @@ https://hamal.co.il/main/טראמפ-מאיים-מכסים-כבדים-על-ברי
 https://hamal.co.il/main/טראמפ-הפסקת-האש-בין-ישראל-ללבנון-תוארך-בשלושה-שבועות-עידן-ק-264964
 https://hamal.co.il/main/טראמפ-סבירות-גבוהה-שנתניהו-ונשיא-לבנון-יגיעו-לבית-הלבן-בשבו-264965
 https://news.walla.co.il/break/3832815
+https://news.walla.co.il/break/3832816
