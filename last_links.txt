@@ -1,7 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3832303
-https://hamal.co.il/main/סיפורו-של-סמל-אדיר-טהר-ז״ל-264649
-https://news.walla.co.il/item/3832309
+COUNTER:17
 https://news.walla.co.il/break/3832313
 https://hamal.co.il/main/צפו-משפחות-שכולות-מניחות-זרים-בהר-הרצל-264641
 https://hamal.co.il/main/הפעילו-מוזיקה-בערבית-תושבי-מזרח-י-ם-ביזו-טקסי-זיכרון-ונעצרו-264650
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דוברת-הבית-הלבן-וויטקוף-וקושנ�
 https://news.walla.co.il/item/3832920
 https://hamal.co.il/main/הנקמה-שממשל-טראמפ-שוקל-נגד-נאטו-265068
 https://hamal.co.il/main/אזור-נער-בן-16-נפצע-באורח-קשה-בתאונת-דרכים-265070
+https://news.walla.co.il/break/3832924
+https://hamal.co.il/main/רוכב-אופניים-כבן-60-נפצע-באורח-קשה-מפגיעת-רכב-בקלנסווה-265071
+https://hamal.co.il/main/דיווחים-באיראן-שר-החוץ-נחת-בפקיסטן-265072
