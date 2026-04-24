@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/אוהב-אותך-מדינה-שלי-המכתב-של-264585
-https://hamal.co.il/main/נער-ערבי-מיוש-נדרס-למוות-264586
-https://hamal.co.il/main/צפו-המפגש-של-הרמטכל-עם-המשרתים-שקרוביהם-נפלו-במלחמה-264587
+COUNTER:14
 https://hamal.co.il/main/רכב-של-היחידה-לאבטחת-אישים-דרס-למוות-נער-ערבי-סמוך-לחברון-264588
 https://news.walla.co.il/break/3832203
 https://news.walla.co.il/item/3832201
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הבר�
 https://hamal.co.il/main/הרצח-בעוספיה-3-נעצרו-בחשד-שירו-למוות-באיש-עסקים-264984
 https://news.walla.co.il/item/3832850
 https://news.walla.co.il/item/3832852
+https://news.walla.co.il/item/3832854
+https://news.walla.co.il/item/3832851
+https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264981
