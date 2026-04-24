@@ -1,6 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3832323
-https://hamal.co.il/main/כוחות-צה״ל-קפצו-לכפר-אל-מועייר-ידויי-אבנים-לעבר-רכב-ישראלי-ב-264653
+COUNTER:20
 https://hamal.co.il/main/אמו-של-אהוד-גולדווסר-ישראל-חוזרת-על-אותם-כשלים-מערכת-וואל-264654
 https://hamal.co.il/main/נפל-בפיגוע-בעת-שהגן-על-אזרחים-סיפורו-של-יובל-מוריוסף-זל-264655
 https://news.walla.co.il/break/3832325
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832928
 https://news.walla.co.il/break/3832929
 https://hamal.co.il/main/צהל-ממשיך-לתקוף-משגרים-של-ארגון-הטרור-חיזבאללה-בדרום-לבנון-265075
 https://hamal.co.il/main/טראמפ-״איראן-מתכננת-להגיש-הצעה-שעונה-על-דרישותינו״-265076
+https://news.walla.co.il/item/3832928
+https://hamal.co.il/main/צלמת-הקולנוע-הישראלית-איבון-מיקלוש-הלכה-לעולמה-בגיל-67-265081
