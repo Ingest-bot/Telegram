@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3832197
-https://hamal.co.il/main/סמל-אוריאל-פרץ-היד-264581
-https://hamal.co.il/main/נתניהו-ביום-הזיכרון-264584
+COUNTER:13
 https://hamal.co.il/main/סמל-מתן-כהן-זל-264582
 https://news.walla.co.il/break/3832201
 https://hamal.co.il/main/אוהב-אותך-מדינה-שלי-המכתב-של-264585
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3832842
 https://hamal.co.il/main/פרשת-אחרי-מות---קדושים-המידה-שנלמדת-ממות-בניו-של-אהרון-264973
 https://news.walla.co.il/break/3832845
 https://hamal.co.il/main/פיטורי-נציג-היועמשית-יעמוד-בראש-הצוות-שיגבש-את-ההסכם-264978
+https://news.walla.co.il/break/3832848
+https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264982
+https://hamal.co.il/main/הרצח-בעוספיה-3-נעצרו-בחשד-שירו-למוות-באיש-עסקים-264984
