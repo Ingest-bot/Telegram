@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/סמ״ר-נועם-יוסף-אבו-לחם-באומץ-ונפל-בקרב-בעזה-264517
+COUNTER:1
 https://news.walla.co.il/break/3832182
 https://news.walla.co.il/break/3832181
 https://news.walla.co.il/item/3832180
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מזג-האוויר-היום-בהיר-עד-מעונן-�
 https://news.walla.co.il/item/3832817
 https://news.walla.co.il/item/3832819
 https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-קשה-בתאונה-קטלנית-סמוך-ליישוב-רחלים-264968
+https://hamal.co.il/main/מתחיל-להתחמם-אלה-החופים-הטובים-בעולם-לשנת-2026-264873
