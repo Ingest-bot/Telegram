@@ -1,12 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3832160
-https://news.walla.co.il/item/3832161
-https://hamal.co.il/main/עמוד-התווך-שלנו-264553
-https://hamal.co.il/main/טראמפ-264554
-https://hamal.co.il/main/סמ״ר-אסצאלו-אסי-סמה-נפל-בלחימה-בעזה-264514
-https://news.walla.co.il/break/3832166
-https://news.walla.co.il/break/3832167
-https://news.walla.co.il/item/3832165
+COUNTER:37
 https://hamal.co.il/main/סמ״ר-טל-שביט-נפל-בקרב-בעזה-264516
 https://news.walla.co.il/item/3832168
 https://news.walla.co.il/break/3832169
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3832807
 https://news.walla.co.il/break/3832808
 https://hamal.co.il/main/שגריר-ישראל-בארה״ב-לטראמפ-״אנו-מקווים-שנוכל-למסד-שלום-בין-י-264958
 https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ששיגר-מספר-רקטות-לעבר-מרח-264959
+https://news.walla.co.il/break/3832811
+https://news.walla.co.il/break/3832812
+https://news.walla.co.il/break/3832813
+https://news.walla.co.il/item/3832814
+https://hamal.co.il/main/שני-גברים-נהרגו-בתאונת-דרכים-בכביש-60-סמוך-לצומת-רחלים-מערכת-264962
+https://hamal.co.il/main/טראמפ-מאיים-מכסים-כבדים-על-בריטניה-אם-לא-תבטל-את-מס-הטכנולו-264963
+https://hamal.co.il/main/טראמפ-הפסקת-האש-בין-ישראל-ללבנון-תוארך-בשלושה-שבועות-עידן-ק-264964
+https://hamal.co.il/main/טראמפ-סבירות-גבוהה-שנתניהו-ונשיא-לבנון-יגיעו-לבית-הלבן-בשבו-264965
