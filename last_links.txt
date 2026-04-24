@@ -1,5 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3832305
+COUNTER:13
 https://hamal.co.il/main/השריונר-המצטיין-שנפל-בפאתי-עזה-סיפורו-של-264646
 https://hamal.co.il/main/טראמפ-264647
 https://hamal.co.il/main/הפנטגון-הודיע-השתלטנו-על-ספינה-נוספת-השייכת-לאיראן--תיעוד-264648
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832907
 https://hamal.co.il/main/המערכה-החשאית-כך-פועל-המוסד-לסיכול-שיקום-תעשיות-הטילים-באיר-265066
 https://hamal.co.il/main/ילד-בן-7-נפצע-באורח-קשה-באירוע-אלימות-ברהט-265067
 https://news.walla.co.il/break/3832916
+https://hamal.co.il/main/דוברת-הבית-הלבן-וויטקוף-וקושנר-יצאו-מחר-לשיחות-בפקיסטן-265069
