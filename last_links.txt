@@ -1,6 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/נהרג-לפני-מספר-שנים-באיטליה-הפרטים-על-נפילתו-של-איש-המוסד-264638
-https://hamal.co.il/main/סיפורו-של-טוראי-מנשה-רוסו-ז״ל-264639
+COUNTER:10
 https://hamal.co.il/main/צפו-טקס-יום-הזיכרון-בבית-העלמין-בעוספיא-264643
 https://hamal.co.il/main/צפו-הרמטכ״ל-בטקס-הזיכרון-בהיכל-השמות-הממלכתי-בהר-הרצל-264645
 https://news.walla.co.il/break/3832301
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832873
 https://news.walla.co.il/break/3832901
 https://hamal.co.il/main/כוחות-צהל-מחטיבת-הצנחנים-חיסלו-שישה-מחבלים-בבינת-גבייל-265061
 https://hamal.co.il/main/דיווח-וויטקוף-וקושנר-יוצאים-לשיחות-עם-עראקצ׳י-בפקיסטן-265062
+https://news.walla.co.il/item/3832901
+https://hamal.co.il/main/עם-כל-הלהיטים-כוכב-הנוער-חגג-16-במופע-מיוחד--צפו-265065
