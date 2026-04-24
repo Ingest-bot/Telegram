@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/סמר-הלל-עובדיה-נפל-במלחמת-חרבות-ברזל-264518
-https://hamal.co.il/main/נפל-במלחמת-יום-הכיפורים-סיפורו-של-רב-סרן-נחום-שמר-זל-264565
-https://hamal.co.il/main/נפטר-ממחלת-הסרטן-לאחר-22-שנים-בצהל-264566
+COUNTER:3
 https://news.walla.co.il/break/3832183
 https://hamal.co.il/main/סגן-עמוס-מלצר-ז״ל-נפל-במלחת-יום-הכיפורים-בן-21-בנופלו-264567
 https://news.walla.co.il/break/3832184
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מתחיל-להתחמם-אלה-החופים-הטובי�
 https://news.walla.co.il/break/3832823
 https://news.walla.co.il/break/3832825
 https://hamal.co.il/main/ארהב-נערכת-לחידוש-התקיפות-באיראן--דיווח-264970
+https://news.walla.co.il/break/3832828
+https://news.walla.co.il/item/3832826
+https://hamal.co.il/main/השאלה-המעניינת-באמת-האם-החיילת-בטקס-המשואות-נמצאת-בזוגיות-264870
