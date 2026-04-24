@@ -1,6 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/חזר-לצבא-אחרי-הלימודים---ונפל-בעזה-264580
-https://news.walla.co.il/break/3832196
+COUNTER:11
 https://news.walla.co.il/break/3832197
 https://hamal.co.il/main/סמל-אוריאל-פרץ-היד-264581
 https://hamal.co.il/main/נתניהו-ביום-הזיכרון-264584
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הימר-על-המבצע-שהשתתף-בו-לוחם-ק�
 https://news.walla.co.il/break/3832843
 https://news.walla.co.il/item/3832842
 https://hamal.co.il/main/פרשת-אחרי-מות---קדושים-המידה-שנלמדת-ממות-בניו-של-אהרון-264973
+https://news.walla.co.il/break/3832845
+https://hamal.co.il/main/פיטורי-נציג-היועמשית-יעמוד-בראש-הצוות-שיגבש-את-ההסכם-264978
