@@ -1,10 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/מניח-תפילין-של-לוחם-שנפל-264591
-https://hamal.co.il/main/לזכרם-של-1689-שוטרים-264592
-https://news.walla.co.il/break/3832223
-https://news.walla.co.il/item/3832217
-https://hamal.co.il/main/אלמנתו-של-סרן-הרב-אבי-גולדברג-זקיפות-הלוחמים-מרימה-אותנו-264596
-https://hamal.co.il/main/הכי-חשוב-לשרת-את-המדינה-264598
+COUNTER:21
 https://hamal.co.il/main/אנו-בעיצומה-של-לחימה-עצימה-בלבנון-פקודת-הקשר-של-מחט-הצנחני-264599
 https://news.walla.co.il/break/3832228
 https://news.walla.co.il/break/3832229
@@ -499,3 +493,9 @@ https://hamal.co.il/main/בהכוונת-השב״כ-מצבור-אמלח-אותר-
 https://hamal.co.il/main/צבא-ארהב-מכריז-3-נושאות-מטוסים-פועלות-באזור-264989
 https://news.walla.co.il/item/3832861
 https://hamal.co.il/main/מצבו-הרפואי-של-נתניהו-נחשף-264991
+https://news.walla.co.il/break/3832864
+https://news.walla.co.il/item/3832863
+https://news.walla.co.il/item/3832865
+https://hamal.co.il/main/צהל-חושף-כך-חיזבאללה-משתמש-באמבולנסים-כמסווה-להעברת-אמלח-264998
+https://hamal.co.il/main/נהג-אוטובוס-חשוד-שירה-באוויר-בעקבות-תאונה-עם-משאית-265000
+https://hamal.co.il/main/3-לוחמים-נפצעו-בלבנון-בהם-2-באורח-בינוני-ו-1-במצב-קל-265002
