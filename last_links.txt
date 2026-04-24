@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/השתדל-להיות-איש-סיפורו-של-264622
-https://hamal.co.il/main/עוד-עזיבה-בממשל-טראמפ-שרת-העבודה-התפטרה-264623
+COUNTER:35
 https://hamal.co.il/main/באיראן-מכחישים-אף-משלחת-לא-הגיעה-לפקיסטן-לקראת-השיחות-264626
 https://news.walla.co.il/item/3832265
 https://hamal.co.il/main/צפו-מטס-ההצדעה-מעל-הר-הרצל-264627
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בין-ימי-ספירת-העומר-יום-הזיכרו
 https://news.walla.co.il/item/3832875
 https://hamal.co.il/main/שיתוף-פעולה-של-צה״ל-והמשטרה-265034
 https://hamal.co.il/main/גבר-כבן-50-נפצע-באורח-בינוני-בתאונה-סמוך-לכביש-4-265035
+https://news.walla.co.il/break/3832881
+https://hamal.co.il/main/כעת-צה״ל-תוקף-בדרום-לבנון-265038
