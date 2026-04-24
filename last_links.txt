@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3832184
+COUNTER:5
 https://news.walla.co.il/break/3832186
 https://news.walla.co.il/break/3832188
 https://news.walla.co.il/item/3832185
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3832826
 https://hamal.co.il/main/השאלה-המעניינת-באמת-האם-החיילת-בטקס-המשואות-נמצאת-בזוגיות-264870
 https://news.walla.co.il/item/3832831
 https://hamal.co.il/main/ארהב-תכוסה-באפר-264969
+https://hamal.co.il/main/מומחה-לאיראן-עונה-264972
