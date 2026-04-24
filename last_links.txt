@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3832185
-https://hamal.co.il/main/התנדב-להתגייס-במלחמת-יום-הכיפורים-264568
+COUNTER:7
 https://hamal.co.il/main/אקוניס-בטקס-יום-הזיכרון-בניו-יורק-ההישגים---בשל-אומץ-ליבם-264570
 https://hamal.co.il/main/נפל-בקרב-מול-מחבלים-ב-710-264571
 https://news.walla.co.il/break/3832191
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ארהב-תכוסה-באפר-264969
 https://hamal.co.il/main/מומחה-לאיראן-עונה-264972
 https://news.walla.co.il/break/3832836
 https://hamal.co.il/main/צהל-תקפנו-מבנים-צבאיים-של-חיזבאללה-בדרום-לבנון-264974
+https://news.walla.co.il/break/3832837
+https://hamal.co.il/main/חשד-לרצח-בבאר-שבע-בן-19-נדקר-למוות---הרקע-פלילי-264976
