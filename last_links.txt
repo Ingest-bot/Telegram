@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/השריונר-המצטיין-שנפל-בפאתי-עזה-סיפורו-של-264646
-https://hamal.co.il/main/טראמפ-264647
-https://hamal.co.il/main/הפנטגון-הודיע-השתלטנו-על-ספינה-נוספת-השייכת-לאיראן--תיעוד-264648
+COUNTER:15
 https://news.walla.co.il/item/3832303
 https://hamal.co.il/main/סיפורו-של-סמל-אדיר-טהר-ז״ל-264649
 https://news.walla.co.il/item/3832309
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המערכה-החשאית-כך-פועל-המוסד-לס
 https://hamal.co.il/main/ילד-בן-7-נפצע-באורח-קשה-באירוע-אלימות-ברהט-265067
 https://news.walla.co.il/break/3832916
 https://hamal.co.il/main/דוברת-הבית-הלבן-וויטקוף-וקושנר-יצאו-מחר-לשיחות-בפקיסטן-265069
+https://news.walla.co.il/item/3832920
+https://hamal.co.il/main/הנקמה-שממשל-טראמפ-שוקל-נגד-נאטו-265068
+https://hamal.co.il/main/אזור-נער-בן-16-נפצע-באורח-קשה-בתאונת-דרכים-265070
