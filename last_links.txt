@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/היה-הראשון-לצאת-לחלץ-ולהביא-ציוד-סיפורו-של-נריה-גנארי-זל-264659
-https://hamal.co.il/main/הרמטכל-רב-אלוף-אייל-זמיר-מטקס-הזיכרון-הממלכתי-לנפגעי-פעול-264664
+COUNTER:26
 https://news.walla.co.il/break/3832337
 https://hamal.co.il/main/התפקיד-הטוב-בעולם-טים-קוק-נפרד-מכיסא-המנכל-במכתב-אישי-למ-264665
 https://hamal.co.il/main/ממצאי-ומסקנות-תחקיר-התנהלות-חייל-צהל-שפגע-בסמל-דת-נוצרי-בד-264666
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832953
 https://hamal.co.il/main/סופש-נעים-חם-מהרגיל-לעונה-בעיקר-בהרים-ובפנים-הארץ-265092
 https://news.walla.co.il/break/3832961
 https://news.walla.co.il/break/3832963
+https://news.walla.co.il/break/3832967
+https://hamal.co.il/main/צעיר-כבן-20-נפצע-מיידוי-אבנים-סמוך-לכפר-מנדא-265094
