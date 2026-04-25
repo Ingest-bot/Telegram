@@ -1,5 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3832350
+COUNTER:35
 https://hamal.co.il/main/אזעקות-נשמעו-בצפון-264676
 https://hamal.co.il/main/דיווח-זוהה-יירוט-בשמי-הצפון-264678
 https://hamal.co.il/main/האזעקות-בגליל-מדובר-באזעקת-שווא-264680
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832996
 https://news.walla.co.il/break/3832995
 https://hamal.co.il/main/פצוע-קשה-בשריפת-טרקטור-בתל-גזר-265112
 https://hamal.co.il/main/כ-20-חשודים-פרצו-לשטח-צבאי-סגור-במחנה-הפליטים-גנין-רובם-נעצ-265113
+https://hamal.co.il/main/בדירת-מסתור-החשוד-המרכזי-ברצח-זלקה-נעצר-לאחר-ניסיון-הימלטות-265117
