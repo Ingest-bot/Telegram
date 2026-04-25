@@ -1,11 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/דובר-צהל-לכבוד-יום-העצמאות-פיקוד-הדרום-יאפשר-פתיחה-של-מ-264657
-https://hamal.co.il/main/מדא-אישה-וגבר-נורו-למוות-בירכא-264658
-https://hamal.co.il/main/סמל-ערן-אלוני-ז״ל--התגורר-באופקים-למד-בתיכון-עמל-אמירים-264656
-https://news.walla.co.il/item/3832325
-https://news.walla.co.il/break/3832326
-https://hamal.co.il/main/בן-גביר-מתקפל-סנצ-רותי-האוסליך-תקודם-לדרגת-נצמ-אפרת-פורשר-264660
-https://hamal.co.il/main/דיווח-משלחות-מארהב-ואיראן-יתייצבו-מחר-לשיחות-מומ-נוספות-ב-264661
+COUNTER:24
 https://hamal.co.il/main/יפן-ממשיכה-להתרחק-מהפציפיזם-ותאשר-יצוא-נשק-מתקדם-גיא-אלסטר-264662
 https://news.walla.co.il/break/3832336
 https://news.walla.co.il/item/3832320
@@ -499,3 +492,10 @@ https://hamal.co.il/main/כוחות-צהל-חיסלו-מחבלים-חמושים-
 https://news.walla.co.il/break/3832938
 https://news.walla.co.il/break/3832942
 https://hamal.co.il/main/הדובר-האיראני-טוען-כי-לא-מתוכננות-פגישות-עם-ארהב-בפקיסטן-265085
+https://news.walla.co.il/break/3832946
+https://news.walla.co.il/break/3832948
+https://news.walla.co.il/break/3832949
+https://news.walla.co.il/break/3832951
+https://news.walla.co.il/break/3832952
+https://hamal.co.il/main/ארהב-לא-תחדש-את-הפטורים-לנפט-איראני-ורוסי-265087
+https://hamal.co.il/main/דני-אבדיה-סיים-שלישי-בפרס-השחקן-המשתפר-של-העונה-265089
