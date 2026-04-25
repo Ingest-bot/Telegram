@@ -1,6 +1,4 @@
 COUNTER:30
-https://news.walla.co.il/break/3832346
-https://hamal.co.il/main/גיא-זוארץ-כותב-לאחיינו-שנרצח-בנובה-הבור-השחור-לא-מתמלא-וו-264669
 https://hamal.co.il/main/צהל-חיסל-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והיוו-איום-מיידי-ע-264670
 https://hamal.co.il/main/סרן-עידו-וולוך-מפקד-מחלקת-טנקים-נפל-ב-2542025-בן-21-בנופ-264663
 https://news.walla.co.il/break/3832347
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3832977
 https://hamal.co.il/main/תמרור-אזהרה-הדולר-עלול-להכניס-את-ההייטק-לסחרור-265100
 https://news.walla.co.il/item/3832981
 https://hamal.co.il/main/6-קטינים-נעצרו-בחשד-לרצח-בנימין-זליקה-בן-ה-21-בפתח-תקווה-265106
+https://news.walla.co.il/break/3832986
+https://news.walla.co.il/break/3832988
