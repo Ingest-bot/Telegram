@@ -1,5 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3832336
+COUNTER:25
 https://news.walla.co.il/item/3832320
 https://news.walla.co.il/item/3832334
 https://hamal.co.il/main/היה-הראשון-לצאת-לחלץ-ולהביא-ציוד-סיפורו-של-נריה-גנארי-זל-264659
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3832952
 https://hamal.co.il/main/ארהב-לא-תחדש-את-הפטורים-לנפט-איראני-ורוסי-265087
 https://hamal.co.il/main/דני-אבדיה-סיים-שלישי-בפרס-השחקן-המשתפר-של-העונה-265089
 https://news.walla.co.il/break/3832953
+https://hamal.co.il/main/סופש-נעים-חם-מהרגיל-לעונה-בעיקר-בהרים-ובפנים-הארץ-265092
