@@ -1,6 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/סרן-עידו-וולוך-מפקד-מחלקת-טנקים-נפל-ב-2542025-בן-21-בנופ-264663
-https://news.walla.co.il/break/3832347
+COUNTER:32
 https://news.walla.co.il/break/3832349
 https://news.walla.co.il/item/3832348
 https://hamal.co.il/main/בזכותם-אנו-כאן-לוחמי-היממ-שנפלו-264672
@@ -499,3 +497,5 @@ https://hamal.co.il/main/6-קטינים-נעצרו-בחשד-לרצח-בנימי�
 https://news.walla.co.il/break/3832986
 https://news.walla.co.il/break/3832988
 https://hamal.co.il/main/דיווחים-באיראן-הוצא-להורג-אדם-שהואשם-בריגול-265110
+https://news.walla.co.il/break/3832991
+https://hamal.co.il/main/דובר-צהל-עפיפון-הגיע-מרצועת-עזה-לנחל-עוז-האירוע-בבדיקה-265111
