@@ -1,6 +1,4 @@
 COUNTER:35
-https://hamal.co.il/main/האזעקות-בגליל-מדובר-באזעקת-שווא-264680
-https://hamal.co.il/main/משטרת-ישראל-השלימה-את-אבטחת-אירועי-יום-הזיכרון-לחללי-מערכות-264681
 https://news.walla.co.il/break/3832353
 https://news.walla.co.il/break/3832355
 https://news.walla.co.il/item/3832352
@@ -499,3 +497,5 @@ https://hamal.co.il/main/כ-20-חשודים-פרצו-לשטח-צבאי-סגור-
 https://hamal.co.il/main/בדירת-מסתור-החשוד-המרכזי-ברצח-זלקה-נעצר-לאחר-ניסיון-הימלטות-265117
 https://news.walla.co.il/break/3832999
 https://news.walla.co.il/break/3833000
+https://news.walla.co.il/break/3833001
+https://news.walla.co.il/item/3832979
