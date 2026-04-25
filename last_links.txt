@@ -1,8 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3832429
-https://hamal.co.il/main/צהל-חיסל-מחבלים-שחצו-את-קו-ההגנה-הקדמי-בדרום-לבנון-264755
-https://news.walla.co.il/break/3832434
-https://news.walla.co.il/item/3832433
+COUNTER:28
 https://hamal.co.il/main/חוד-החנית-טקס-מצטייני-נשיא-המדינה-ליום-העצמאות-ה-78-264757
 https://news.walla.co.il/break/3832439
 https://news.walla.co.il/break/3832441
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833069
 https://hamal.co.il/main/עושות-דרמה-הפועל-בש-וביתר-ירושלים-נפרדו-ב-22-במשחק-העונה-265191
 https://news.walla.co.il/item/3833071
 https://hamal.co.il/main/דיווחים-צהל-תוקף-בשורה-של-כפרים-בדרום-לבנון-265195
+https://news.walla.co.il/break/3833083
+https://news.walla.co.il/break/3833078
+https://news.walla.co.il/item/3833076
+https://hamal.co.il/main/צהל-תקף-מבנים-צבאיים-ששימשו-לקידום-מתווי-טרור-של-חיזבאללה-265197
