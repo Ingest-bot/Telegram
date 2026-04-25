@@ -1,7 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3832438
-https://news.walla.co.il/break/3832436
-https://hamal.co.il/main/סיפור-היחידה-עוצבת-קלע-דוד-214-264761
+COUNTER:30
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-גולני-264762
 https://hamal.co.il/main/סיפור-היחידה-עוצבת-ברק-264765
 https://hamal.co.il/main/סגירת-מעגל-מרגש-264766
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-תקף-מבנים-צבאיים-ששימשו-לק
 https://news.walla.co.il/break/3833085
 https://news.walla.co.il/break/3833086
 https://hamal.co.il/main/גדול-ונרחב-מאי-פעם-משט-הסומוד-העולמי-לעזה-יפליג-מסיציליה-265199
+https://news.walla.co.il/break/3833088
+https://news.walla.co.il/break/3833090
+https://hamal.co.il/main/הוארך-מעצרם-של-2-הקטינים-החשודים-במעורבות-ברצח-הצעיר-בב״ש-265200
