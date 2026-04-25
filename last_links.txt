@@ -1,8 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3832349
-https://news.walla.co.il/item/3832348
-https://hamal.co.il/main/בזכותם-אנו-כאן-לוחמי-היממ-שנפלו-264672
-https://hamal.co.il/main/אחרי-שלוש-שנים-מוזיאון-חיל-האוויר-נפתח-עם-מטוס-הקרב-שתקף-בא-264673
+COUNTER:34
 https://news.walla.co.il/break/3832350
 https://hamal.co.il/main/אזעקות-נשמעו-בצפון-264676
 https://hamal.co.il/main/דיווח-זוהה-יירוט-בשמי-הצפון-264678
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3832988
 https://hamal.co.il/main/דיווחים-באיראן-הוצא-להורג-אדם-שהואשם-בריגול-265110
 https://news.walla.co.il/break/3832991
 https://hamal.co.il/main/דובר-צהל-עפיפון-הגיע-מרצועת-עזה-לנחל-עוז-האירוע-בבדיקה-265111
+https://news.walla.co.il/break/3832996
+https://news.walla.co.il/break/3832995
+https://hamal.co.il/main/פצוע-קשה-בשריפת-טרקטור-בתל-גזר-265112
+https://hamal.co.il/main/כ-20-חשודים-פרצו-לשטח-צבאי-סגור-במחנה-הפליטים-גנין-רובם-נעצ-265113
