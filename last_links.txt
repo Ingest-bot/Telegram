@@ -1,5 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3832365
+COUNTER:2
 https://hamal.co.il/main/78-שנים-למדינת-ישראל--תיעודים-מהטקס-בהר-הרצל-264700
 https://hamal.co.il/main/מערך-הטקסים-השר-בן-גביר-התיישב-בשגגה-במקום-נשיא-ארגטינה-264702
 https://hamal.co.il/main/ראש-הממשלה-אנחנו-שואטים-קדימה-בכל-הכיוונים---הדור-הצעיר-נו-264703
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833024
 https://news.walla.co.il/break/3833022
 https://news.walla.co.il/break/3833025
 https://news.walla.co.il/item/3833021
+https://hamal.co.il/main/דיווח-שר-החוץ-האיראני-עראקצי-עזב-את-פקיסטן-265137
