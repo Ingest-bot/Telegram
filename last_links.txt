@@ -1,9 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/אורה-חתן--״לכבוד-דור-המחר-שחולמים-שהגליל-יחזור-לפרוח---והוא-264705
-https://hamal.co.il/main/טליק-גויאלי-אמו-של-גיבור-ישראל-רני-״לכבוד-בני-שקידש-את-המד-264706
-https://hamal.co.il/main/משיא-המשואה-הרב-אברהם-זרביב-״לכבוד-לומדי-התורה-האהובים-264710
-https://news.walla.co.il/break/3832373
-https://news.walla.co.il/item/3832374
+COUNTER:8
 https://hamal.co.il/main/ארגנטינה-וישראל-אינן-רק-שותפות---אלא-חברות-אמת-את-המשואה-ה-264711
 https://hamal.co.il/main/ארי-שפיץ-בטקס-הדלקת-המשואות-״השיקום-הוא-מלחמה-נוספת-ואין-לנ-264712
 https://news.walla.co.il/break/3832375
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-כטבם-אחד-יורט-אבד-מגע-עם-הכ
 https://news.walla.co.il/item/3833031
 https://hamal.co.il/main/יור-קו-העימות-זה-לא-הפסקת-אש---זה-אולי-אש-בלי-הפסקה-265150
 https://hamal.co.il/main/הסלמה-בלבנון-תוכנית-חיזבאללה-לשחיקת-הישגי-צהל-ופירוק-המומ-265142
+https://news.walla.co.il/break/3833032
+https://news.walla.co.il/break/3833033
+https://news.walla.co.il/break/3833034
+https://news.walla.co.il/item/3833035
+https://hamal.co.il/main/צהל-ממשיך-בתקיפת-תשתיות-של-חיזבאללה-ברחבי-דרום-לבנון-265154
