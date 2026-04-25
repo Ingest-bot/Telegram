@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-מהאוויר-בדרום-לבנון-264751
-https://news.walla.co.il/item/3832416
-https://news.walla.co.il/item/3832423
+COUNTER:26
 https://news.walla.co.il/item/3832427
 https://hamal.co.il/main/שורד-השבי-אלון-אהל-ופצוע-צה״ל-דביר-בובליל-בטקס-מצטייני-הנשיא-264752
 https://news.walla.co.il/break/3832429
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3833059
 https://hamal.co.il/main/המשטרה-פועלת-בשני-מוקדי-מחאה-בירושלים-להשבת-הסדר-הציבורי-265188
 https://news.walla.co.il/break/3833065
 https://news.walla.co.il/item/3833066
+https://news.walla.co.il/break/3833067
+https://news.walla.co.il/break/3833069
+https://hamal.co.il/main/עושות-דרמה-הפועל-בש-וביתר-ירושלים-נפרדו-ב-22-במשחק-העונה-265191
