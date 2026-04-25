@@ -1,5 +1,4 @@
 COUNTER:26
-https://news.walla.co.il/item/3832427
 https://hamal.co.il/main/שורד-השבי-אלון-אהל-ופצוע-צה״ל-דביר-בובליל-בטקס-מצטייני-הנשיא-264752
 https://news.walla.co.il/break/3832429
 https://hamal.co.il/main/צהל-חיסל-מחבלים-שחצו-את-קו-ההגנה-הקדמי-בדרום-לבנון-264755
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3833066
 https://news.walla.co.il/break/3833067
 https://news.walla.co.il/break/3833069
 https://hamal.co.il/main/עושות-דרמה-הפועל-בש-וביתר-ירושלים-נפרדו-ב-22-במשחק-העונה-265191
+https://news.walla.co.il/item/3833071
