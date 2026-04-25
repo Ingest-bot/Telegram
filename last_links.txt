@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3832353
-https://news.walla.co.il/break/3832355
+COUNTER:36
 https://news.walla.co.il/item/3832352
 https://news.walla.co.il/item/3832327
 https://hamal.co.il/main/רס״ן-שי-שייקה-ברנשטיין-ז״ל-בן-24-בנופלו-נפל-ב1282006--264682
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3832999
 https://news.walla.co.il/break/3833000
 https://news.walla.co.il/break/3833001
 https://news.walla.co.il/item/3832979
+https://news.walla.co.il/item/3833007
+https://hamal.co.il/main/תפקיד-חייו-אייל-ברקוביץ-סבא-265119
