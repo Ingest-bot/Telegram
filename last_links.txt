@@ -1,7 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/דרמה-וניצחון-דני-אבדיה-ופורטלנד-איזנו-ל-11-מול-סן-אנטוניו-264743
-https://hamal.co.il/main/נפנוף-נעים-עלייה-קלה-בטמפרטורות-ומזג-אוויר-בהיר-עד-מעונן-264745
-https://hamal.co.il/main/ליל-יום-העצמאות-בוולפסון-עשרות-ילדים-נפגעו-מתרסיסי-שלג-264747
+COUNTER:24
 https://hamal.co.il/main/דיווח-אוניית-משא-באזור-מצר-הורמוז-נורתה-עי-משמרות-המהפכה-264748
 https://news.walla.co.il/break/3832418
 https://news.walla.co.il/break/3832420
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833054
 https://news.walla.co.il/break/3833055
 https://news.walla.co.il/break/3833056
 https://hamal.co.il/main/סוריה-תפסה-את-אחד-ממבצעי-הטבח-הקשים-ביותר-תחת-משטר-אסד-265157
+https://news.walla.co.il/break/3833058
+https://news.walla.co.il/item/3833061
+https://hamal.co.il/main/טרגדיה-בשרון-יולדת-בת-35-ותאומיה-נפטרו-לאחר-התמוטטות-בבית-265182
