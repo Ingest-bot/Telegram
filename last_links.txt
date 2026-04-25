@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/סיפור-היחידה-חטיבת-גולני-264762
-https://hamal.co.il/main/סיפור-היחידה-עוצבת-ברק-264765
+COUNTER:31
 https://hamal.co.il/main/סגירת-מעגל-מרגש-264766
 https://hamal.co.il/main/צהל-חיסל-מחבל-שפשט-לקיבוץ-ניר-עוז-בטבח-ה-7-באוקטובר-264768
 https://hamal.co.il/main/המצור-על-הורמוז-והלחץ-על-טהרן-בישראל-נערכים-לתרחיש-הסלמה-264770
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גדול-ונרחב-מאי-פעם-משט-הסומוד-�
 https://news.walla.co.il/break/3833088
 https://news.walla.co.il/break/3833090
 https://hamal.co.il/main/הוארך-מעצרם-של-2-הקטינים-החשודים-במעורבות-ברצח-הצעיר-בב״ש-265200
+https://news.walla.co.il/item/3833092
+https://hamal.co.il/main/כוחות-צהל-הרסו-לוחות-סולאריים-בכפר-בלבנון-האירוע-מתוחקר-265201
