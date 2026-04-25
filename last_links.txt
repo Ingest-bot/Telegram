@@ -1,8 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/טראמפ-ההנהגה-האיראנית-פשוט-מנסה-לשמור-על-כבודה-264728
-https://news.walla.co.il/break/3832403
-https://news.walla.co.il/break/3832405
-https://news.walla.co.il/break/3832407
+COUNTER:23
 https://hamal.co.il/main/דרמה-וניצחון-דני-אבדיה-ופורטלנד-איזנו-ל-11-מול-סן-אנטוניו-264743
 https://hamal.co.il/main/נפנוף-נעים-עלייה-קלה-בטמפרטורות-ומזג-אוויר-בהיר-עד-מעונן-264745
 https://hamal.co.il/main/ליל-יום-העצמאות-בוולפסון-עשרות-ילדים-נפגעו-מתרסיסי-שלג-264747
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833053
 https://hamal.co.il/main/צהל-על-ההתרעה-במלכיה-זוהתה-מטרה-אווירית-חשודה-265177
 https://hamal.co.il/main/ילד-בן-10-נפצע-קשה-מפגיעת-רכב-בכפר-מנדא-265178
 https://hamal.co.il/main/נתניהו-הורה-לצהל-לתקוף-בעוצמה-בלבנון-265179
+https://news.walla.co.il/break/3833054
+https://news.walla.co.il/break/3833055
+https://news.walla.co.il/break/3833056
+https://hamal.co.il/main/סוריה-תפסה-את-אחד-ממבצעי-הטבח-הקשים-ביותר-תחת-משטר-אסד-265157
