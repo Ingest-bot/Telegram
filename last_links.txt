@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/78-שנים-למדינת-ישראל--תיעודים-מהטקס-בהר-הרצל-264700
-https://hamal.co.il/main/מערך-הטקסים-השר-בן-גביר-התיישב-בשגגה-במקום-נשיא-ארגטינה-264702
-https://hamal.co.il/main/ראש-הממשלה-אנחנו-שואטים-קדימה-בכל-הכיוונים---הדור-הצעיר-נו-264703
-https://hamal.co.il/main/משיאי-משואת-צה״ל-ליום-העצמאות-ה-78-למדינת-ישראל-אלוף-משנה-מ-264704
-https://news.walla.co.il/break/3832366
+COUNTER:5
 https://news.walla.co.il/break/3832368
 https://news.walla.co.il/break/3832369
 https://news.walla.co.il/break/3832372
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833022
 https://news.walla.co.il/break/3833025
 https://news.walla.co.il/item/3833021
 https://hamal.co.il/main/דיווח-שר-החוץ-האיראני-עראקצי-עזב-את-פקיסטן-265137
+https://news.walla.co.il/break/3833029
+https://news.walla.co.il/break/3833030
+https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-265146
+https://hamal.co.il/main/המשטרה-עצרה-שני-קטינים-בחשד-למעורבות-ברצח-שאירע-אתמול-בבש-265148
+https://hamal.co.il/main/צהל-כטבם-אחד-יורט-אבד-מגע-עם-הכטבפ-השני-265149
