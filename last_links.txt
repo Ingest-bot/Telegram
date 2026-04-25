@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/ארגנטינה-וישראל-אינן-רק-שותפות---אלא-חברות-אמת-את-המשואה-ה-264711
-https://hamal.co.il/main/ארי-שפיץ-בטקס-הדלקת-המשואות-״השיקום-הוא-מלחמה-נוספת-ואין-לנ-264712
+COUNTER:9
 https://news.walla.co.il/break/3832375
 https://news.walla.co.il/break/3832376
 https://news.walla.co.il/break/3832377
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833033
 https://news.walla.co.il/break/3833034
 https://news.walla.co.il/item/3833035
 https://hamal.co.il/main/צהל-ממשיך-בתקיפת-תשתיות-של-חיזבאללה-ברחבי-דרום-לבנון-265154
+https://news.walla.co.il/break/3833036
+https://hamal.co.il/main/טראמפ-ביטל-את-נסיעת-ויטקוף-וקושנר-לפקסיטן-265158
