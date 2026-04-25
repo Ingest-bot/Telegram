@@ -1,6 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3832340
-https://hamal.co.il/main/30-ימי-מחבוש---והדחה-מלוחמה-נקבע-העונש-ללוחם-שניפץ-פסל-של-י-264668
+COUNTER:29
 https://news.walla.co.il/break/3832343
 https://news.walla.co.il/break/3832344
 https://news.walla.co.il/break/3832346
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דני-אבדיה-שבר-שן-ברשת-זעמו-איך-
 https://news.walla.co.il/break/3832971
 https://news.walla.co.il/break/3832974
 https://hamal.co.il/main/דובר-צהל-בהודעה-דחופה-לתושבי-דרום-לבנון-למען-בטחונכם-265098
+https://news.walla.co.il/item/3832977
+https://hamal.co.il/main/תמרור-אזהרה-הדולר-עלול-להכניס-את-ההייטק-לסחרור-265100
