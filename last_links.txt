@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/דיווח-אוניית-משא-באזור-מצר-הורמוז-נורתה-עי-משמרות-המהפכה-264748
-https://news.walla.co.il/break/3832418
-https://news.walla.co.il/break/3832420
+COUNTER:25
 https://news.walla.co.il/break/3832421
 https://hamal.co.il/main/נס-ישראלי-חוגגים-78-שנות-עצמאות-ביולדות-שמיר-264750
 https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-מהאוויר-בדרום-לבנון-264751
@@ -499,3 +496,6 @@ https://hamal.co.il/main/סוריה-תפסה-את-אחד-ממבצעי-הטבח-�
 https://news.walla.co.il/break/3833058
 https://news.walla.co.il/item/3833061
 https://hamal.co.il/main/טרגדיה-בשרון-יולדת-בת-35-ותאומיה-נפטרו-לאחר-התמוטטות-בבית-265182
+https://news.walla.co.il/break/3833064
+https://news.walla.co.il/item/3833059
+https://hamal.co.il/main/המשטרה-פועלת-בשני-מוקדי-מחאה-בירושלים-להשבת-הסדר-הציבורי-265188
