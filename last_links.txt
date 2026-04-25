@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/לאחר-מבצע-נגד-הקרטלים-שני-סוכני-CIA-נהרגו-בתאונת-דרכים-במקס-264683
-https://hamal.co.il/main/תאיר-רזיאל-שלנו-מספרת-על-אביה-ידידיה-ז״ל-שנהרג-בקרב-הגבורה-264686
-https://hamal.co.il/main/ד-חיזבאללה-שיגר-לפני-זמן-קצר-מספר-רקטות-לעבר-כוחות-צה״ל-הפ-264687
-https://news.walla.co.il/item/3832358
-https://news.walla.co.il/break/3832363
+COUNTER:0
 https://hamal.co.il/main/מערכת-חמל-מאחלת-לכל-בית-ישראל-יום-עצמאות-שמח-264689
 https://hamal.co.il/main/ישראל-בת-78--שידור-ישיר-מטקס-הדלקת-המשואות-בהר-הרצל-264692
 https://hamal.co.il/main/ולתפארת-מדינת-ישראל-טקס-המשואות-יוצא-לדרך-בהר-הרצל--ישיר-א-264694
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833009
 https://news.walla.co.il/item/3833013
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-חשודה-במרחב-בו-פועלים-הכוחות-בלבנון-265121
 https://hamal.co.il/main/גבר-נכווה-מטרקטור-שעלה-באש-סמוך-לכרמי-יוסף-מצבו-קשה-265122
+https://news.walla.co.il/break/3833015
+https://news.walla.co.il/break/3833014
+https://news.walla.co.il/break/3833016
+https://hamal.co.il/main/הפסקת-אש-אזעקות-בשורה-של-ישובים-בגליל-העליון-265130
+https://hamal.co.il/main/צהל-שני-שיגורים-נורו-מלבנון-לעבר-הגליל-העליון-אין-נפגעים-265131
