@@ -1,8 +1,4 @@
 COUNTER:1
-https://hamal.co.il/main/ישראל-בת-78--שידור-ישיר-מטקס-הדלקת-המשואות-בהר-הרצל-264692
-https://hamal.co.il/main/ולתפארת-מדינת-ישראל-טקס-המשואות-יוצא-לדרך-בהר-הרצל--ישיר-א-264694
-https://hamal.co.il/main/יום-הולדת-78-למדינה-תיעוד-מהטקס-בהר-הרצל-264697
-https://hamal.co.il/main/הטקס-ערוך-ומוכן-כניסת-ראש-הממשלה-נתניהו-להר-הרצל-264698
 https://news.walla.co.il/break/3832365
 https://hamal.co.il/main/78-שנים-למדינת-ישראל--תיעודים-מהטקס-בהר-הרצל-264700
 https://hamal.co.il/main/מערך-הטקסים-השר-בן-גביר-התיישב-בשגגה-במקום-נשיא-ארגטינה-264702
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833016
 https://hamal.co.il/main/הפסקת-אש-אזעקות-בשורה-של-ישובים-בגליל-העליון-265130
 https://hamal.co.il/main/צהל-שני-שיגורים-נורו-מלבנון-לעבר-הגליל-העליון-אין-נפגעים-265131
 https://hamal.co.il/main/צהל-חיסל-יותר-מ-15-מחבלים-בדרום-לבנון-במהלך-סוף-השבוע-265134
+https://news.walla.co.il/break/3833024
+https://news.walla.co.il/break/3833022
+https://news.walla.co.il/break/3833025
+https://news.walla.co.il/item/3833021
