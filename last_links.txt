@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3832401
-https://hamal.co.il/main/ראש-ממשלת-פקיסטן-מודה-לטראמפ-ומבטיח-כי-יימשכו-המאמצים-לסיים-264725
-https://hamal.co.il/main/גבר-נפל-מקומה-חמישית-ברחובות-מצבו-קשה-264726
-https://hamal.co.il/main/עובד-זר-חולץ-משריפה-בבניין-בתל-אביב-מצבו-אנוש-264727
+COUNTER:22
 https://hamal.co.il/main/טראמפ-ההנהגה-האיראנית-פשוט-מנסה-לשמור-על-כבודה-264728
 https://news.walla.co.il/break/3832403
 https://news.walla.co.il/break/3832405
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833051
 https://news.walla.co.il/break/3833050
 https://hamal.co.il/main/שוב-אזעקות-בקו-העימות-חשש-לחדירת-כלי-טיס-עוין-265173
 https://hamal.co.il/main/תיעודים-מעצרת-לזכרו-של-ימנו-זלקה-זל-שרצח-בפתח-תקווה-265176
+https://news.walla.co.il/break/3833053
+https://hamal.co.il/main/צהל-על-ההתרעה-במלכיה-זוהתה-מטרה-אווירית-חשודה-265177
+https://hamal.co.il/main/ילד-בן-10-נפצע-קשה-מפגיעת-רכב-בכפר-מנדא-265178
+https://hamal.co.il/main/נתניהו-הורה-לצהל-לתקוף-בעוצמה-בלבנון-265179
