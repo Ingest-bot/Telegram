@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3832387
-https://news.walla.co.il/break/3832390
-https://news.walla.co.il/break/3832389
-https://news.walla.co.il/break/3832392
-https://news.walla.co.il/break/3832395
+COUNTER:19
 https://news.walla.co.il/break/3832401
 https://hamal.co.il/main/ראש-ממשלת-פקיסטן-מודה-לטראמפ-ומבטיח-כי-יימשכו-המאמצים-לסיים-264725
 https://hamal.co.il/main/גבר-נפל-מקומה-חמישית-ברחובות-מצבו-קשה-264726
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3833044
 https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-265168
 https://hamal.co.il/main/אישה-כבת-50-נפצעה-אנוש-לאחר-שנמשתה-מהמים-בחוף-בקריית-ים-265169
 https://hamal.co.il/main/ילד-בן-6-נפצע-קשה-מעקיצת-עקרב-בנגב-265170
+https://news.walla.co.il/break/3833049
+https://news.walla.co.il/break/3833051
+https://news.walla.co.il/break/3833050
+https://hamal.co.il/main/שוב-אזעקות-בקו-העימות-חשש-לחדירת-כלי-טיס-עוין-265173
+https://hamal.co.il/main/תיעודים-מעצרת-לזכרו-של-ימנו-זלקה-זל-שרצח-בפתח-תקווה-265176
