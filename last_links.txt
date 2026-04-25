@@ -1,5 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/צהל-חיסל-מחבלים-שהפרו-את-הבנות-הפסקת-האש-והיוו-איום-מיידי-ע-264670
+COUNTER:31
 https://hamal.co.il/main/סרן-עידו-וולוך-מפקד-מחלקת-טנקים-נפל-ב-2542025-בן-21-בנופ-264663
 https://news.walla.co.il/break/3832347
 https://news.walla.co.il/break/3832349
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3832981
 https://hamal.co.il/main/6-קטינים-נעצרו-בחשד-לרצח-בנימין-זליקה-בן-ה-21-בפתח-תקווה-265106
 https://news.walla.co.il/break/3832986
 https://news.walla.co.il/break/3832988
+https://hamal.co.il/main/דיווחים-באיראן-הוצא-להורג-אדם-שהואשם-בריגול-265110
