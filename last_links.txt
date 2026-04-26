@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3832489
-https://news.walla.co.il/break/3832491
-https://hamal.co.il/main/מעדי-אלטשולר-ועד-דונלד-טראמפ-טקס-פרסי-ישראל-2026-264809
-https://hamal.co.il/main/נתניהו-עם-לוחמי-כיפת-ברזל-״ערוכים-לכל-264810
+COUNTER:18
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-כפיר-264811
 https://news.walla.co.il/break/3832495
 https://hamal.co.il/main/הבריסטה-של-החג-כולם-מנסים-לברר-מי-זו-החיילת-מטקס-המשואות-264814
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833184
 https://news.walla.co.il/item/3833183
 https://hamal.co.il/main/גופת-גבר-אותרה-בראשון-לציון-265249
 https://hamal.co.il/main/אירוע-הירי-סמוך-לבנימינה-החשד-שהוביל-265248
+https://news.walla.co.il/break/3833191
+https://hamal.co.il/main/סגירת-מעגל-חשוד-265252
+https://hamal.co.il/main/בדיקת-צופרים-של-פיקוד-העורף-תתקיים-היום-במרחב-נאעורה-265253
+https://hamal.co.il/main/ניסה-להימלט-ממעצר---ונשך-שוטר-265250
