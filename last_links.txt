@@ -1,6 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/דרום-לבנון-גופתה-של-עיתונאית-לבנונית-אותרה-תחת-הריסות-לאחר-264851
-https://hamal.co.il/main/ארגנטינה-הנשיא-מייליי-מקדם-חוק-לביטול-חובת-הפריימריז-במדינה-264852
+COUNTER:2
 https://news.walla.co.il/break/3832550
 https://news.walla.co.il/break/3832554
 https://news.walla.co.il/break/3832555
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833283
 https://news.walla.co.il/item/3833277
 https://hamal.co.il/main/שינוי-דרמטי-בשוק-265246
 https://news.walla.co.il/item/3833289
+https://news.walla.co.il/break/3833295
+https://hamal.co.il/main/הודעה-דרמטית-בנט-ולפיד-מתאחדים-למפלגה-אחת-265312
