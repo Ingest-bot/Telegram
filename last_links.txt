@@ -1,6 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3832545
-https://news.walla.co.il/break/3832546
+COUNTER:0
 https://news.walla.co.il/break/3832548
 https://news.walla.co.il/break/3832549
 https://news.walla.co.il/item/3832547
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-אזעקות-הופעלו-בראש-הנקרה-ה
 https://hamal.co.il/main/הרצח-בפת-חשוד-נוסף-265305
 https://news.walla.co.il/break/3833268
 https://hamal.co.il/main/האזעקות-בצפון-3-כטבמים-יורטו-בטרם-חצו-לישראל-265307
+https://hamal.co.il/main/בגץ-קבע-בהחלטה-תקדימית-אלו-הסנקציות-שיוטלו-על-משתמשטים-265309
+https://hamal.co.il/main/הורים-שכולים-דורשים-265308
