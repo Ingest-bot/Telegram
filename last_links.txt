@@ -1,5 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/נציג-הממשלה-לבגץ-264872
+COUNTER:15
 https://hamal.co.il/main/המילים-המצמררות-שאנשים-שומעים-לפני-מותם---ואיש-לא-הבין-264857
 https://news.walla.co.il/break/3832630
 https://news.walla.co.il/break/3832623
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3833349
 https://news.walla.co.il/item/3833351
 https://hamal.co.il/main/בני-הישיבות-לא-ילכו-לצבא-בשום-פנים-ואופן-בין-אם-יהיה-חוק-265348
 https://hamal.co.il/main/המעשה-הכי-פטריוטי-שעשינו-אי-פעם-בנט-ולפיד-מכריזים-על-איחו-265350
+https://hamal.co.il/main/עם-דגלי-ישראל-עשרות-אזרחים-הגיעו-להריע-בהצהרת-בנט-לפיד-265352
