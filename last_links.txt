@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3832627
-https://hamal.co.il/main/הולכת-רגל-כבת-60-נפגעה-מרכב-באשקלון-מצבה-קשה-264876
+COUNTER:17
 https://hamal.co.il/main/הוביל-את-המלחמה-הטכנולוגית-מול-איראן-264877
 https://news.walla.co.il/item/3832636
 https://hamal.co.il/main/דרמה-בבגץ-משמר-בתי-המשפט-עצר-את-הדיון-264880
@@ -499,3 +497,5 @@ https://hamal.co.il/main/עם-דגלי-ישראל-עשרות-אזרחים-הגי
 https://news.walla.co.il/break/3833363
 https://news.walla.co.il/break/3833364
 https://hamal.co.il/main/גיא-מרוז-על-הרצח-בפיצרייה-להוציא-להורג-את-כל-המעורבים-265355
+https://news.walla.co.il/break/3833372
+https://hamal.co.il/main/ב-2230-ויקטור-וומבניאמה-חוזר-דני-אבדיה-ופורטלנד-יפתיעו-265358
