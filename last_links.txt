@@ -1,9 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3832548
-https://news.walla.co.il/break/3832549
-https://news.walla.co.il/item/3832547
-https://news.walla.co.il/item/3832544
-https://hamal.co.il/main/דיווח-שליח-של-טראמפ-הציע-לפיפ״א-להחליף-את-איראן-במונדיאל-20-264849
+COUNTER:1
 https://hamal.co.il/main/ארהב-אושרה-מכירה-אפשרית-של-טילים-לליטא-בשווי-214-מיליון-דו-264850
 https://hamal.co.il/main/דרום-לבנון-גופתה-של-עיתונאית-לבנונית-אותרה-תחת-הריסות-לאחר-264851
 https://hamal.co.il/main/ארגנטינה-הנשיא-מייליי-מקדם-חוק-לביטול-חובת-הפריימריז-במדינה-264852
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833268
 https://hamal.co.il/main/האזעקות-בצפון-3-כטבמים-יורטו-בטרם-חצו-לישראל-265307
 https://hamal.co.il/main/בגץ-קבע-בהחלטה-תקדימית-אלו-הסנקציות-שיוטלו-על-משתמשטים-265309
 https://hamal.co.il/main/הורים-שכולים-דורשים-265308
+https://news.walla.co.il/break/3833279
+https://news.walla.co.il/break/3833278
+https://news.walla.co.il/break/3833283
+https://news.walla.co.il/item/3833277
+https://hamal.co.il/main/שינוי-דרמטי-בשוק-265246
