@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3832594
-https://news.walla.co.il/break/3832605
-https://hamal.co.il/main/מיירט-נורה-באצבע-הגליל-לא-הופעלו-אזעקות-264866
+COUNTER:12
 https://hamal.co.il/main/הירקן-264867
 https://hamal.co.il/main/ניסה-להימלט---ונעצר-סכום-עתק-אותר-ברכבו-של-תושב-264868
 https://hamal.co.il/main/צהל-מטרה-264869
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-על-איראן-״אם-הם-רוצים-לד�
 https://news.walla.co.il/item/3833335
 https://hamal.co.il/main/הותר-לפרסום-סמל-עידן-פוקס-נפל-בקרב-בדרום-לבנון-265344
 https://hamal.co.il/main/סקר-חמל-בעד-או-נגד-איחוד-מפלגת-לפיד-ונתניהו-265342
+https://news.walla.co.il/break/3833342
+https://news.walla.co.il/break/3833340
+https://hamal.co.il/main/מתקפת-265345
