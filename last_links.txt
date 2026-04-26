@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/ראש-המלל-לשעבר-264856
-https://news.walla.co.il/break/3832567
-https://news.walla.co.il/item/3832565
+COUNTER:6
 https://hamal.co.il/main/צפו-מחבל-מיחידת-כוח-רדואן-נעצר-בדרום-לבנון-264858
 https://news.walla.co.il/item/3832572
 https://hamal.co.il/main/בן-גביר-נסוג-264860
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833309
 https://news.walla.co.il/break/3833310
 https://news.walla.co.il/item/3833311
 https://hamal.co.il/main/איחוד-בנט-לפיד-זה-שם-המפלגה-החדש-שלהם-265326
+https://news.walla.co.il/break/3833314
+https://news.walla.co.il/item/3833213
+https://hamal.co.il/main/אחרי-ששיתפה-על-הקושי-הכלכלי-הצעד-המפתיע-של-ליאת-אחירון-265328
