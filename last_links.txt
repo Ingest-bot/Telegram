@@ -1,5 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3832555
 https://hamal.co.il/main/מחבל-שפעל-התקרב-לכוחותינו-במרחב-הקו-הצהוב-264853
 https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-קלה-בטמפרטורות-264854
 https://news.walla.co.il/break/3832564
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833295
 https://hamal.co.il/main/הודעה-דרמטית-בנט-ולפיד-מתאחדים-למפלגה-אחת-265312
 https://hamal.co.il/main/הסקרים-מראים-איחוד-בנט-לפיד-יוביל-למפלגה-הגדולה-ביותר-265316
 https://hamal.co.il/main/איזנקוט-על-איחוד-בנט-לפיד-מטרה-משותפת-265320
+https://news.walla.co.il/break/3833307
