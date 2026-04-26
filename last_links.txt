@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3832498
-https://hamal.co.il/main/שני-פצועים-במצב-בינוני-וקל-בתאונת-טרקטורון-סמוך-לגלעד-264815
-https://hamal.co.il/main/טראמפ-״חדשות-טובות---8-המפגינות-לא-יוצאו-להורג״-264816
-https://hamal.co.il/main/סיפור-היחידה-חטיבת-הנח״ל-264812
+COUNTER:22
 https://news.walla.co.il/break/3832500
 https://news.walla.co.il/break/3832501
 https://hamal.co.il/main/ישראל-עודכנה-רשמית-הפסקת-האש---עד-יום-ראשון-264817
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ניסה-להימלט-ממעצר---ונשך-שוטר-26
 https://news.walla.co.il/break/3833197
 https://news.walla.co.il/item/3833201
 https://hamal.co.il/main/קשה-לצפייה-תיעוד-הרצח-בפצח-תקווה-265254
+https://news.walla.co.il/break/3833206
+https://hamal.co.il/main/המפכל-265255
+https://hamal.co.il/main/כנופיית-פיתוי-8-נאשמים-בחטיפה-וסחיטה-של-אנשי-עסקים-בדרום-265258
+https://hamal.co.il/main/מפוקח-מין-מצפת-חשוד-שניסה-לפגוש-קטינה-בקריית-ארבע---ונעצר-265259
