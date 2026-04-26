@@ -1,5 +1,4 @@
 COUNTER:20
-https://news.walla.co.il/item/3832639
 https://hamal.co.il/main/קטטה-פרצה-סמוך-לאולם-בית-המשפט-בחדרה-5-חשודים-נעצרו-264885
 https://hamal.co.il/main/צהל-חוסלו-מחבלים-שפעלו-סמוך-לכוחותינו-בצפון-ובדרום-הרצועה-264886
 https://hamal.co.il/main/הדיון-בבגץ-חכ-טלי-גוטליב-הוצאה-מהאולם-264887
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-נערך-להסלמה-אלו-הנחיות-פיק
 https://news.walla.co.il/break/3833386
 https://news.walla.co.il/break/3833391
 https://hamal.co.il/main/תיעוד-דרמטי-פיצוץ-רחפן-הנפץ-בדרום-לבנון-סמוק-למסוק-פינוי-265365
+https://news.walla.co.il/break/3833393
