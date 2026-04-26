@@ -1,6 +1,4 @@
 COUNTER:24
-https://news.walla.co.il/break/3832506
-https://hamal.co.il/main/דיווח-הפנטגון-מעריך-שטיהור-מצר-הורמוז-ממוקשים-יימשך-חצי-שנה-264825
 https://news.walla.co.il/break/3832508
 https://hamal.co.il/main/סיפור-היחידה-חטיבת-גבעתי-264828
 https://hamal.co.il/main/בגץ-מגביל-כניסה-לדיון-בעתירות-להקמת-ועדת-חקירה-ממלכתית-264830
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3833219
 https://hamal.co.il/main/הממשלה-אישרה-ציפי-חוטובולי-265260
 https://news.walla.co.il/break/3833222
 https://hamal.co.il/main/הרצח-בפת-אחד-החשודים---בנו-של-בכיר-במערכת-הביטחון-265263
+https://news.walla.co.il/break/3833228
+https://news.walla.co.il/item/3833226
