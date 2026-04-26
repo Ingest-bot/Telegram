@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/פלסטינים-תקפו-נערים-סמוך-לעופרה-דיווח-על-מספר-פצועים-קל-264804
-https://news.walla.co.il/item/3832485
-https://news.walla.co.il/item/3832487
-https://hamal.co.il/main/מימי-״שאגת-הארי״-פריט-אמל״ח-אותר-סמוך-לרמת-השרון-264806
-https://hamal.co.il/main/גבר-כבן-35-נרצח-בעין-אל-אסד-הרקע---פלילי-264808
+COUNTER:15
 https://news.walla.co.il/break/3832489
 https://news.walla.co.il/break/3832491
 https://hamal.co.il/main/מעדי-אלטשולר-ועד-דונלד-טראמפ-טקס-פרסי-ישראל-2026-264809
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3833166
 https://hamal.co.il/main/נתניהו-על-ניסיון-ההתנקשות-בטראמפ-המומים-מהאירוע-265243
 https://news.walla.co.il/break/3833172
 https://news.walla.co.il/break/3833176
+https://news.walla.co.il/break/3833179
+https://news.walla.co.il/break/3833184
+https://news.walla.co.il/item/3833183
+https://hamal.co.il/main/גופת-גבר-אותרה-בראשון-לציון-265249
+https://hamal.co.il/main/אירוע-הירי-סמוך-לבנימינה-החשד-שהוביל-265248
