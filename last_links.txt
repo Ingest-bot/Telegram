@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/הותר-לפרסום-קצין-מילואים-נהרג-בתאונת-צניחה-אזרחית-264882
-https://hamal.co.il/main/לאחר-ניסיון-הפריצה-לאולם-הדיון-בבגץ-התחדש-264884
-https://news.walla.co.il/break/3832648
+COUNTER:20
 https://news.walla.co.il/item/3832639
 https://hamal.co.il/main/קטטה-פרצה-סמוך-לאולם-בית-המשפט-בחדרה-5-חשודים-נעצרו-264885
 https://hamal.co.il/main/צהל-חוסלו-מחבלים-שפעלו-סמוך-לכוחותינו-בצפון-ובדרום-הרצועה-264886
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לזכר-ימנו-היכל-ספורט-יוקם-סמוך
 https://news.walla.co.il/break/3833381
 https://news.walla.co.il/break/3833383
 https://hamal.co.il/main/צהל-נערך-להסלמה-אלו-הנחיות-פיקוד-העורף-המועדכנות-ליישובי-ק-265360
+https://news.walla.co.il/break/3833386
+https://news.walla.co.il/break/3833391
+https://hamal.co.il/main/תיעוד-דרמטי-פיצוץ-רחפן-הנפץ-בדרום-לבנון-סמוק-למסוק-פינוי-265365
