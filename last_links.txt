@@ -1,7 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/עצמאות-חימושית-עסקת-הענק-של-264865
-https://news.walla.co.il/break/3832590
-https://news.walla.co.il/item/3832589
+COUNTER:11
 https://news.walla.co.il/item/3832594
 https://news.walla.co.il/break/3832605
 https://hamal.co.il/main/מיירט-נורה-באצבע-הגליל-לא-הופעלו-אזעקות-264866
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833331
 https://news.walla.co.il/item/3833328
 https://news.walla.co.il/item/3833330
 https://hamal.co.il/main/טראמפ-על-איראן-״אם-הם-רוצים-לדבר-שיבואו-אלינו-265340
+https://news.walla.co.il/item/3833335
+https://hamal.co.il/main/הותר-לפרסום-סמל-עידן-פוקס-נפל-בקרב-בדרום-לבנון-265344
+https://hamal.co.il/main/סקר-חמל-בעד-או-נגד-איחוד-מפלגת-לפיד-ונתניהו-265342
