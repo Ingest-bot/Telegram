@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/סיפור-היחידה-חטיבת-כפיר-264811
-https://news.walla.co.il/break/3832495
-https://hamal.co.il/main/הבריסטה-של-החג-כולם-מנסים-לברר-מי-זו-החיילת-מטקס-המשואות-264814
+COUNTER:19
 https://news.walla.co.il/item/3832498
 https://hamal.co.il/main/שני-פצועים-במצב-בינוני-וקל-בתאונת-טרקטורון-סמוך-לגלעד-264815
 https://hamal.co.il/main/טראמפ-״חדשות-טובות---8-המפגינות-לא-יוצאו-להורג״-264816
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833191
 https://hamal.co.il/main/סגירת-מעגל-חשוד-265252
 https://hamal.co.il/main/בדיקת-צופרים-של-פיקוד-העורף-תתקיים-היום-במרחב-נאעורה-265253
 https://hamal.co.il/main/ניסה-להימלט-ממעצר---ונשך-שוטר-265250
+https://news.walla.co.il/break/3833197
+https://news.walla.co.il/item/3833201
+https://hamal.co.il/main/קשה-לצפייה-תיעוד-הרצח-בפצח-תקווה-265254
