@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/צפו-מחבל-מיחידת-כוח-רדואן-נעצר-בדרום-לבנון-264858
-https://news.walla.co.il/item/3832572
+COUNTER:7
 https://hamal.co.il/main/בן-גביר-נסוג-264860
 https://hamal.co.il/main/הטעות-שכולם-עושים-264859
 https://news.walla.co.il/break/3832578
@@ -499,3 +497,5 @@ https://hamal.co.il/main/איחוד-בנט-לפיד-זה-שם-המפלגה-הח�
 https://news.walla.co.il/break/3833314
 https://news.walla.co.il/item/3833213
 https://hamal.co.il/main/אחרי-ששיתפה-על-הקושי-הכלכלי-הצעד-המפתיע-של-ליאת-אחירון-265328
+https://news.walla.co.il/item/3833317
+https://hamal.co.il/main/אחרי-עשור-לצד-נתניהו-הרכש-החדש-של-בן-גביר-265330
