@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/צהל-מטרה-264869
-https://hamal.co.il/main/פרשת-השחיתות-בהסתדרות-השר-מיקי-זוהר-נחקר-שוב-264871
-https://news.walla.co.il/item/3832619
+COUNTER:14
 https://hamal.co.il/main/נציג-הממשלה-לבגץ-264872
 https://hamal.co.il/main/המילים-המצמררות-שאנשים-שומעים-לפני-מותם---ואיש-לא-הבין-264857
 https://news.walla.co.il/break/3832630
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833340
 https://hamal.co.il/main/מתקפת-265345
 https://news.walla.co.il/break/3833347
 https://news.walla.co.il/item/3833349
+https://news.walla.co.il/item/3833351
+https://hamal.co.il/main/בני-הישיבות-לא-ילכו-לצבא-בשום-פנים-ואופן-בין-אם-יהיה-חוק-265348
+https://hamal.co.il/main/המעשה-הכי-פטריוטי-שעשינו-אי-פעם-בנט-ולפיד-מכריזים-על-איחו-265350
