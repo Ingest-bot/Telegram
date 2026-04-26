@@ -1,6 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3832651
-https://hamal.co.il/main/מחקר-גילה-2-הרגלי-אכילה-פשוטים-שעוזרים-עם-הדיאטה-לאורך-זמן-264861
+COUNTER:24
 https://hamal.co.il/main/אב-מואשם-ברצח-בנו-התינוק-264888
 https://hamal.co.il/main/מחבל-יידה-אבנים-לעבר-מכוניות-ביוש-י-264890
 https://hamal.co.il/main/הרב-שזוהה-כרב-הראשי-264889
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833393
 https://hamal.co.il/main/מאלי-שר-ההגנה-סאדיו-קמארה-נהרג-במתקפת-חמושים-על-ביתו-רויטרס-265366
 https://hamal.co.il/main/איטליה-משט-מחאה-לעזה-הכולל-64-ספינות-יצא-לדרכו-מסיציליה-יוא-265367
 https://hamal.co.il/main/כך-זה-נראה-265368
+https://news.walla.co.il/break/3833400
+https://hamal.co.il/main/על-רקע-ניסיון-ההתנקשות---טראמפ-לא-התפניתי-במהירות---רציתי-265369
