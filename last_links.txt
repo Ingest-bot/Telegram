@@ -1,9 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3832500
-https://news.walla.co.il/break/3832501
-https://hamal.co.il/main/ישראל-עודכנה-רשמית-הפסקת-האש---עד-יום-ראשון-264817
-https://hamal.co.il/main/בתמונה-משותפת-עם-נשיא-המדינה-ורעייתו-אלו-זוכי-פרס-ישראל-264820
-https://hamal.co.il/main/שלושה-פצועים-באורח-בינוני-באירוע-אלימות-ברחובות-264821
+COUNTER:23
 https://hamal.co.il/main/סיפור-היחידה-חטיבה-7-264813
 https://hamal.co.il/main/אירוע-אלימות-באופקים-צעיר-בן-22-נפצע-באורח-קשה-264822
 https://news.walla.co.il/break/3832506
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833206
 https://hamal.co.il/main/המפכל-265255
 https://hamal.co.il/main/כנופיית-פיתוי-8-נאשמים-בחטיפה-וסחיטה-של-אנשי-עסקים-בדרום-265258
 https://hamal.co.il/main/מפוקח-מין-מצפת-חשוד-שניסה-לפגוש-קטינה-בקריית-ארבע---ונעצר-265259
+https://news.walla.co.il/break/3833212
+https://news.walla.co.il/item/3833215
+https://news.walla.co.il/item/3833216
+https://news.walla.co.il/item/3833219
+https://hamal.co.il/main/הממשלה-אישרה-ציפי-חוטובולי-265260
