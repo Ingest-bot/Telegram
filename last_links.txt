@@ -1,11 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/דוברת-הבית-הלבן-״הנשיא-ממתין-לתשובה-רשמית-מאיראן״-264842
-https://hamal.co.il/main/שני-נרצחים-באירוע-ירי-בצומת-אחיסמך-264843
-https://news.walla.co.il/item/3832536
-https://hamal.co.il/main/יעלה-לכתבת-חדשות-12-ביוקר-בעקבות-הסרטון-הבזוי-264847
-https://news.walla.co.il/break/3832541
-https://news.walla.co.il/break/3832542
-https://news.walla.co.il/item/3832541
+COUNTER:37
 https://hamal.co.il/main/טלטלה-בפנטגון-טראמפ-הדיח-את-מזכיר-הצי-האמריקני-264848
 https://news.walla.co.il/break/3832543
 https://news.walla.co.il/break/3832545
@@ -499,3 +492,10 @@ https://hamal.co.il/main/נתניהו-גינה-את-הרצח-בפת-265286
 https://hamal.co.il/main/תיעוד-תושבים-רבים-מדרום-לבנון-מתפנים-אחרי-התרעת-הפינוי-265291
 https://hamal.co.il/main/המשטרה-עצרה-קטין-נוסף-בחשד-למעורבות-ברצח-הצעיר-בבאר-שבע-265293
 https://hamal.co.il/main/חוסל-תמונתו-של-מוגטבא-חמינאי-על-לוח-זיכרון-באיראן--צפו-265296
+https://news.walla.co.il/break/3833258
+https://news.walla.co.il/break/3833261
+https://news.walla.co.il/break/3833262
+https://news.walla.co.il/break/3833263
+https://hamal.co.il/main/צהל-265297
+https://hamal.co.il/main/צהל-אזעקות-הופעלו-בראש-הנקרה-הפרטים-בבדיקה-265300
+https://hamal.co.il/main/הרצח-בפת-חשוד-נוסף-265305
