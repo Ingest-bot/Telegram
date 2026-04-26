@@ -1,8 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/טראמפ-״ייתכנו-שיחות-נוספות-בימים-הקרובים״-264793
-https://hamal.co.il/main/לוחמי-מג״ב-איו״ש-וכוחות-צה״ל-פיזרו-הפרת-סדר-בכפר-אל-מוע׳ייר-264794
-https://news.walla.co.il/break/3832474
-https://hamal.co.il/main/נער-בן-14-נפגע-מרכב-בתל-אביב---מצבו-בינוני-264795
+COUNTER:7
 https://hamal.co.il/main/קטינה-264796
 https://news.walla.co.il/break/3832475
 https://news.walla.co.il/item/3832474
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-דרמטי-מרגעי-הפינוי-המאב�
 https://hamal.co.il/main/האירוע-סמוך-265233
 https://hamal.co.il/main/הרקע-הפוליטי-והניסיון-באקדמיה-הפרטים-של-זהות-החשוד-בירי-בוו-265234
 https://news.walla.co.il/break/3833135
+https://news.walla.co.il/break/3833138
+https://news.walla.co.il/break/3833141
+https://news.walla.co.il/item/3833139
+https://hamal.co.il/main/ארון-הברית-הסתתר-מתחת-לאף-שלנו-כל-הזמן-מחקר-פורץ-דרך-בירושל-265235
