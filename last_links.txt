@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3832639
-https://news.walla.co.il/item/3832641
-https://news.walla.co.il/item/3832637
+COUNTER:19
 https://hamal.co.il/main/הותר-לפרסום-קצין-מילואים-נהרג-בתאונת-צניחה-אזרחית-264882
 https://hamal.co.il/main/לאחר-ניסיון-הפריצה-לאולם-הדיון-בבגץ-התחדש-264884
 https://news.walla.co.il/break/3832648
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833373
 https://news.walla.co.il/break/3833374
 https://news.walla.co.il/item/3833376
 https://hamal.co.il/main/לזכר-ימנו-היכל-ספורט-יוקם-סמוך-לזירת-הרצח-ויישא-את-שמו-265359
+https://news.walla.co.il/break/3833381
+https://news.walla.co.il/break/3833383
+https://hamal.co.il/main/צהל-נערך-להסלמה-אלו-הנחיות-פיקוד-העורף-המועדכנות-ליישובי-ק-265360
