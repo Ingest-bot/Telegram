@@ -1,6 +1,4 @@
 COUNTER:12
-https://hamal.co.il/main/הירקן-264867
-https://hamal.co.il/main/ניסה-להימלט---ונעצר-סכום-עתק-אותר-ברכבו-של-תושב-264868
 https://hamal.co.il/main/צהל-מטרה-264869
 https://hamal.co.il/main/פרשת-השחיתות-בהסתדרות-השר-מיקי-זוהר-נחקר-שוב-264871
 https://news.walla.co.il/item/3832619
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סקר-חמל-בעד-או-נגד-איחוד-מפלגת-
 https://news.walla.co.il/break/3833342
 https://news.walla.co.il/break/3833340
 https://hamal.co.il/main/מתקפת-265345
+https://news.walla.co.il/break/3833347
+https://news.walla.co.il/item/3833349
