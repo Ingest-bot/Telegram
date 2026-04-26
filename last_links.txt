@@ -1,6 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/טלטלה-בפנטגון-טראמפ-הדיח-את-מזכיר-הצי-האמריקני-264848
-https://news.walla.co.il/break/3832543
+COUNTER:38
 https://news.walla.co.il/break/3832545
 https://news.walla.co.il/break/3832546
 https://news.walla.co.il/break/3832548
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833263
 https://hamal.co.il/main/צהל-265297
 https://hamal.co.il/main/צהל-אזעקות-הופעלו-בראש-הנקרה-הפרטים-בבדיקה-265300
 https://hamal.co.il/main/הרצח-בפת-חשוד-נוסף-265305
+https://news.walla.co.il/break/3833268
+https://hamal.co.il/main/האזעקות-בצפון-3-כטבמים-יורטו-בטרם-חצו-לישראל-265307
