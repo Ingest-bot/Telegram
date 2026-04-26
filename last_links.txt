@@ -1,7 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3832458
-https://news.walla.co.il/item/3832445
-https://hamal.co.il/main/מתיישבים-נכנסו-לשטח-הסורי-264775
+COUNTER:38
 https://news.walla.co.il/break/3832460
 https://news.walla.co.il/break/3832461
 https://hamal.co.il/main/דובר-צה״ל-במסר-לערבים-ביום-העצמאות-זה-הסוד-של-צה״ל-264777
@@ -499,3 +496,6 @@ https://hamal.co.il/main/זהות-היורה-בארוחת-הערב-בבית-הל
 https://hamal.co.il/main/ארהב-טראמפ-עוזב-את-ארוחת-הכתבים-בעקבות-הירי-ויקיים-מסיבת-ע-265214
 https://hamal.co.il/main/תיעוד-אלמנתו-של-צ׳ארלי-קירק-פונתה-מהאירוע-כשהיא-בוכה-265216
 https://hamal.co.il/main/טראמפ-על-היורה-״הוא-אדם-חולה-מאוד-אסור-שדברים-כאלה-יקרו״-265217
+https://hamal.co.il/main/טראמפ-פרסם-את-תמונת-החשוד-בירי-265219
+https://hamal.co.il/main/טראמפ-על-איראן-״אם-היה-להם-נשק-גרעיני---הם-היו-משתמשים-בו״-265220
+https://hamal.co.il/main/פצוע-קשה-באירוע-אלימות-בנגב-265221
