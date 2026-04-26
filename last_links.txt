@@ -1,7 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3832508
-https://hamal.co.il/main/סיפור-היחידה-חטיבת-גבעתי-264828
-https://hamal.co.il/main/בגץ-מגביל-כניסה-לדיון-בעתירות-להקמת-ועדת-חקירה-ממלכתית-264830
+COUNTER:27
 https://hamal.co.il/main/סיפור-היחידה-אריות-הירדן-264831
 https://news.walla.co.il/break/3832520
 https://news.walla.co.il/break/3832523
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833222
 https://hamal.co.il/main/הרצח-בפת-אחד-החשודים---בנו-של-בכיר-במערכת-הביטחון-265263
 https://news.walla.co.il/break/3833228
 https://news.walla.co.il/item/3833226
+https://hamal.co.il/main/דיווח-הרצוג-החליט-שלא-להעניק-חנינה-לנתניהו-265265
+https://hamal.co.il/main/הרצוג-מאשר-מעוניין-להגיע-להסדר-לפני-הדיון-בבקשת-החנינה-265266
+https://hamal.co.il/main/הממשלה-אישרה-נתניהו-265267
