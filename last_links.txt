@@ -1,8 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/בצהל-שוברים-את-הראש-האם-לצאת-בתגובה-חריפה-נגד-חיזבאללה-264833
-https://hamal.co.il/main/דוברת-הבית-הלבן-״איראן-חייבת-להעביר-לנו-את-האורניום״-264836
-https://news.walla.co.il/break/3832528
-https://hamal.co.il/main/2-צעירות-נכוו-בזכרון-יעקב-מצבן-בינוני-וקל-264837
+COUNTER:30
 https://hamal.co.il/main/פצוע-הפיגוע-סמוך-לעופרה-״עברתי-לינץ׳-איבדתי-את-ההכרה״-264838
 https://hamal.co.il/main/חוזרים-לתקוף-שגרירות-ארה״ב-קוראת-לאזרחיה-לעזוב-את-לבנון-264840
 https://hamal.co.il/main/״גם-אני-מתתי-באותו-היום״-שורד-השבי-בפוסט-מצמרר-264841
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833238
 https://news.walla.co.il/break/3833237
 https://news.walla.co.il/break/3833243
 https://hamal.co.il/main/פרופ-עוזי-רבי-שלטון-האייתולות-לא-קיים-יותר-265270
+https://news.walla.co.il/break/3833249
+https://news.walla.co.il/item/3833245
+https://hamal.co.il/main/כוחותינו-השמידו-מנהרה-התקפית-265275
+https://hamal.co.il/main/סוף-טרגי-משפיענית-הרשת-שנדרסה-על-ידי-קולגה-מתה-מפצעיה-265244
