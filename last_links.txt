@@ -1,6 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3832482
-https://news.walla.co.il/item/3832483
 https://hamal.co.il/main/פלסטינים-תקפו-נערים-סמוך-לעופרה-דיווח-על-מספר-פצועים-קל-264804
 https://news.walla.co.il/item/3832485
 https://news.walla.co.il/item/3832487
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אירועי-הירי-באזור-אתר-נבי-שועי
 https://news.walla.co.il/break/3833160
 https://news.walla.co.il/item/3833166
 https://hamal.co.il/main/נתניהו-על-ניסיון-ההתנקשות-בטראמפ-המומים-מהאירוע-265243
+https://news.walla.co.il/break/3833172
+https://news.walla.co.il/break/3833176
