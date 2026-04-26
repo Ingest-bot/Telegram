@@ -1,8 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3832462
-https://hamal.co.il/main/חיזבאללה-שיגר-גלי-טיס-עוין-לכוחות-צהל-דרומית-ללבנון-264778
-https://hamal.co.il/main/צהל-על-החדירה-לסוריה-החזרנו-את-כולם-לשטח-הארץ-264779
-https://news.walla.co.il/item/3832464
+COUNTER:2
 https://news.walla.co.il/item/3832466
 https://hamal.co.il/main/מבצע-הנדסי-חסר-תקדים-צהל-נערך-בדרום-לבנון-להכנסת-רובוטים-264782
 https://hamal.co.il/main/גאווה-ישראלית-מסיבת-העצמאות-לפצועי-צה״ל-ברמב״ם-264787
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פצוע-קשה-באירוע-אלימות-בנגב-2652
 https://hamal.co.il/main/הסתער-בריצה-עם-רובה-ציד-תיעוד-הירי-בארוחה-לכתבי-הבית-הלבן-265223
 https://hamal.co.il/main/גשם-וסופות-רעמים-מזג-האוויר-מתהפך-265224
 https://news.walla.co.il/break/3833109
+https://news.walla.co.il/break/3833115
+https://news.walla.co.il/item/3833112
+https://hamal.co.il/main/גבר-וילד-אותרו-ללא-רוח-חיים-בבית-במעוצה-איזורית-אלונה-265226
+https://hamal.co.il/main/ארהב-ה-FBI-יוביל-את-חקירת-הירי-בארוחת-כתבי-הבית-הלבן-265225
