@@ -1,6 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3832460
-https://news.walla.co.il/break/3832461
+COUNTER:0
 https://hamal.co.il/main/דובר-צה״ל-במסר-לערבים-ביום-העצמאות-זה-הסוד-של-צה״ל-264777
 https://news.walla.co.il/item/3832462
 https://hamal.co.il/main/חיזבאללה-שיגר-גלי-טיס-עוין-לכוחות-צהל-דרומית-ללבנון-264778
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-על-היורה-״הוא-אדם-חולה-מ�
 https://hamal.co.il/main/טראמפ-פרסם-את-תמונת-החשוד-בירי-265219
 https://hamal.co.il/main/טראמפ-על-איראן-״אם-היה-להם-נשק-גרעיני---הם-היו-משתמשים-בו״-265220
 https://hamal.co.il/main/פצוע-קשה-באירוע-אלימות-בנגב-265221
+https://hamal.co.il/main/הסתער-בריצה-עם-רובה-ציד-תיעוד-הירי-בארוחה-לכתבי-הבית-הלבן-265223
+https://hamal.co.il/main/גשם-וסופות-רעמים-מזג-האוויר-מתהפך-265224
