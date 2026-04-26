@@ -1,5 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/צהל-על-שיגור-המיירט-בצפון-264881
+COUNTER:18
 https://news.walla.co.il/break/3832639
 https://news.walla.co.il/item/3832641
 https://news.walla.co.il/item/3832637
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ב-2230-ויקטור-וומבניאמה-חוזר-דני
 https://news.walla.co.il/break/3833373
 https://news.walla.co.il/break/3833374
 https://news.walla.co.il/item/3833376
+https://hamal.co.il/main/לזכר-ימנו-היכל-ספורט-יוקם-סמוך-לזירת-הרצח-ויישא-את-שמו-265359
