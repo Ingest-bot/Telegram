@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/פצוע-הפיגוע-סמוך-לעופרה-״עברתי-לינץ׳-איבדתי-את-ההכרה״-264838
-https://hamal.co.il/main/חוזרים-לתקוף-שגרירות-ארה״ב-קוראת-לאזרחיה-לעזוב-את-לבנון-264840
-https://hamal.co.il/main/״גם-אני-מתתי-באותו-היום״-שורד-השבי-בפוסט-מצמרר-264841
-https://news.walla.co.il/break/3832536
-https://news.walla.co.il/break/3832537
+COUNTER:34
 https://hamal.co.il/main/דוברת-הבית-הלבן-״הנשיא-ממתין-לתשובה-רשמית-מאיראן״-264842
 https://hamal.co.il/main/שני-נרצחים-באירוע-ירי-בצומת-אחיסמך-264843
 https://news.walla.co.il/item/3832536
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833249
 https://news.walla.co.il/item/3833245
 https://hamal.co.il/main/כוחותינו-השמידו-מנהרה-התקפית-265275
 https://hamal.co.il/main/סוף-טרגי-משפיענית-הרשת-שנדרסה-על-ידי-קולגה-מתה-מפצעיה-265244
+https://news.walla.co.il/item/3833253
+https://hamal.co.il/main/נתניהו-גינה-את-הרצח-בפת-265286
+https://hamal.co.il/main/תיעוד-תושבים-רבים-מדרום-לבנון-מתפנים-אחרי-התרעת-הפינוי-265291
+https://hamal.co.il/main/המשטרה-עצרה-קטין-נוסף-בחשד-למעורבות-ברצח-הצעיר-בבאר-שבע-265293
+https://hamal.co.il/main/חוסל-תמונתו-של-מוגטבא-חמינאי-על-לוח-זיכרון-באיראן--צפו-265296
