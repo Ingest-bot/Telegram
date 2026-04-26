@@ -1,7 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/קטינה-264796
-https://news.walla.co.il/break/3832475
-https://news.walla.co.il/item/3832474
+COUNTER:8
 https://hamal.co.il/main/בכיר-בבית-הלבן-הארכת-הפסקת-האש---לשלושה-עד-חמישה-ימים-264799
 https://hamal.co.il/main/לוחמי-פלגה-916-מאחלים-חג-עצמאות-שמח-מהשטח-264801
 https://hamal.co.il/main/מקרון-חייל-צרפתי-מכוח-יוניפיל-נהרג-מאש-חזיבאללה-בלבנון-264798
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833138
 https://news.walla.co.il/break/3833141
 https://news.walla.co.il/item/3833139
 https://hamal.co.il/main/ארון-הברית-הסתתר-מתחת-לאף-שלנו-כל-הזמן-מחקר-פורץ-דרך-בירושל-265235
+https://news.walla.co.il/break/3833149
+https://news.walla.co.il/item/3833133
+https://hamal.co.il/main/בצהל-החל-קורס-הכשרה-למפקדים-על-חיילים-חרדים-בצהל-265237
