@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/צבא-ארהב-עצר-ספינה-נוספת-264897
-https://hamal.co.il/main/לעג-הכתבת-לנערים-החרדים-264899
-https://news.walla.co.il/break/3832713
-https://news.walla.co.il/break/3832715
+COUNTER:35
 https://hamal.co.il/main/ממתין-לרגל-תותבת-ומתקשה-לדבר-כך-264901
 https://hamal.co.il/main/השפריץ-צבע-על-יורש-העצר-האיראני---264902
 https://hamal.co.il/main/מסורת-שנתית-מאות-משפחות-הגיעו-לתצוגת-צה״ל-במוצב-עלומים-264904
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מזג-אוויר-מעןנן-חלקית-עד-בהיר-�
 https://news.walla.co.il/break/3833420
 https://news.walla.co.il/break/3833423
 https://hamal.co.il/main/לאחר-אירוע-ירי-265380
+https://news.walla.co.il/break/3833424
+https://news.walla.co.il/break/3833426
+https://hamal.co.il/main/צהל-על-האזעקות-בגליל-265382
+https://hamal.co.il/main/הירי-בוושינגהחמוש-פרץ-את-המחסומים---והגיע-למרחק-נגיעה-מטראמפ-265386
