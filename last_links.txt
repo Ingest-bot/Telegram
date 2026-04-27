@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3832734
-https://news.walla.co.il/break/3832735
+COUNTER:5
 https://hamal.co.il/main/נמל-התעופה-חיפה-חזר-לפעילות-בינלאומית-מלאה-264912
 https://hamal.co.il/main/בן-אוזלבו-מהאח-הגדול-לא-מחכה-לפטל-בחוץ-264907
 https://news.walla.co.il/break/3832738
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הדגלנית-מטקס-המשואות-קוטפת-קמ�
 https://hamal.co.il/main/הנדל-על-בנט-ולפיד-265408
 https://hamal.co.il/main/חברו-הקרוב-של-ימנו-הם-לא-ילדים-הם-נוחבות-265413
 https://hamal.co.il/main/עברתם-את-גיל-50-זו-השעה-הכי-בריאה-לאכול-ארוחת-בוקר-265404
+https://news.walla.co.il/item/3833454
+https://hamal.co.il/main/בעונה-הבאה-זה-ישתנה-הסיבה-שמשחקי-ליגת-העל-נערכים-במקביל-265407
