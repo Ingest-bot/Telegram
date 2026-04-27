@@ -1,5 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/break/3832868
 https://hamal.co.il/main/אחרי-הירי-לצפון-צהל-פרסם-הודעת-פינוי-לכפר-בדרום-לבנון-265011
 https://hamal.co.il/main/צהל-הכטבם-שחדר-לצפון---יורט-בהצלחה-265012
 https://hamal.co.il/main/פעילות-כוחותינו-בלבנון-אמצעי-תצפית-הותקף-מצבור-אמלח-אותר-265017
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-תקף-יותר-מ-20-תשתיות-טרור-של
 https://news.walla.co.il/break/3833677
 https://news.walla.co.il/break/3833681
 https://hamal.co.il/main/כביש-40-נחסם-לשני-הכיוונים-בצומת-שדה-בוקר-בעקבות-שיטפון-יניר-265504
+https://news.walla.co.il/item/3833688
