@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/משרד-הביטחון-מסר-מערכת-הגנה-אווירית-לצבא-סלובקיה-264917
-https://news.walla.co.il/break/3832757
-https://news.walla.co.il/break/3832759
-https://news.walla.co.il/break/3832760
-https://news.walla.co.il/break/3832761
+COUNTER:15
 https://news.walla.co.il/break/3832763
 https://hamal.co.il/main/״הוא-מצילנו-מידם״-בן-גביר-על-המרגלים-שהעבירו-מיקומים-שלו-264931
 https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-שינוי-עד-לשבוע-הבא-264932
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3833450
 https://hamal.co.il/main/4-מחבלים-שיידו-אבנים-על-בתי-יהודים-265423
 https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265426
 https://hamal.co.il/main/נהג-תחת-פסילה-265427
+https://news.walla.co.il/break/3833501
+https://news.walla.co.il/break/3833499
+https://news.walla.co.il/break/3833502
+https://hamal.co.il/main/אחרי-ביטול-העדות-נתניהו-מקיים-התייעצויות-ביטחוניות-265429
+https://hamal.co.il/main/לא-לסבך-אותי-נהג-בפסילה-בפעם-ה-3-ונעצר-265431
