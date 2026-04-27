@@ -1,6 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/item/3832865
-https://hamal.co.il/main/צהל-חושף-כך-חיזבאללה-משתמש-באמבולנסים-כמסווה-להעברת-אמלח-264998
+COUNTER:23
 https://hamal.co.il/main/נהג-אוטובוס-חשוד-שירה-באוויר-בעקבות-תאונה-עם-משאית-265000
 https://hamal.co.il/main/3-לוחמים-נפצעו-בלבנון-בהם-2-באורח-בינוני-ו-1-במצב-קל-265002
 https://news.walla.co.il/break/3832866
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833651
 https://news.walla.co.il/break/3833653
 https://hamal.co.il/main/נמצא-לאחר-שגופתו-הושחתה-חרדי-נרצח-בנסיבות-מסתוריות-בקולומבי-265497
 https://hamal.co.il/main/שטפונות-וחסימות-צירים-מזג-אוויר-מתעתע-בדרך-יואב-איתיאל-י-265498
+https://news.walla.co.il/item/3833656
+https://hamal.co.il/main/דוברת-הבית-הלבן-הודיעה-כי-האבטחה-סביב-טראמפ-תתוגבר-לאחר-ניסי-265502
