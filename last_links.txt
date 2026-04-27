@@ -1,12 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/טראמפ-סבירות-גבוהה-שנתניהו-ונשיא-לבנון-יגיעו-לבית-הלבן-בשבו-264965
-https://news.walla.co.il/break/3832815
-https://news.walla.co.il/break/3832816
-https://hamal.co.il/main/רעידת-אדמה-בעוצמה-59-הורגשה-באי-כרתים-ביוון-264966
-https://hamal.co.il/main/מזג-האוויר-היום-בהיר-עד-מעונן-חלקית-עם-עלייה-קלה-בטמפרטורות-264967
-https://news.walla.co.il/item/3832817
-https://news.walla.co.il/item/3832819
-https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-קשה-בתאונה-קטלנית-סמוך-ליישוב-רחלים-264968
+COUNTER:3
 https://hamal.co.il/main/מתחיל-להתחמם-אלה-החופים-הטובים-בעולם-לשנת-2026-264873
 https://news.walla.co.il/break/3832823
 https://news.walla.co.il/break/3832825
@@ -499,3 +491,11 @@ https://hamal.co.il/main/ילדה-הותקפה-265445
 https://hamal.co.il/main/חיזבאללה-שיגר-רחפן-נפץ-לעבר-כוחות-צה״ל-הפועלים-בדרום-לבנון-265459
 https://hamal.co.il/main/חידת-ביצת-הזהב-שנמצאה-במעמקי-הים-המדענים-סוף-סוף-גילו-מה-265424
 https://hamal.co.il/main/ידין-גלמן-בראיון-מדבר-על-הכל-ועל-החתונה-עם-אדווה-דדון-שנדחתה-265468
+https://news.walla.co.il/break/3833596
+https://news.walla.co.il/break/3833598
+https://news.walla.co.il/break/3833597
+https://news.walla.co.il/break/3833599
+https://news.walla.co.il/item/3833594
+https://hamal.co.il/main/ריאל-מדריד-הודיעה-קיליאן-אמבפה-הפצוע-בספק-לקלאסיקו-265458
+https://hamal.co.il/main/נשיא-המדינה-החל-את-ביקורו-הרשמי-בקזחסטן-והתקבל-בטקס-קבלת-פני-265469
+https://hamal.co.il/main/חקירת-רצח-הנער-בפתח-תקווה-עצרו-חשוד-נוסף-במעורבות-בקטטה-שהו-265470
