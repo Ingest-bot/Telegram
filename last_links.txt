@@ -1,6 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/דיווח-משלחת-איראנית-תגיע-לפקיסטן-לקראת-המשך-המומ-265010
-https://news.walla.co.il/break/3832867
+COUNTER:25
 https://news.walla.co.il/break/3832868
 https://hamal.co.il/main/אחרי-הירי-לצפון-צהל-פרסם-הודעת-פינוי-לכפר-בדרום-לבנון-265011
 https://hamal.co.il/main/צהל-הכטבם-שחדר-לצפון---יורט-בהצלחה-265012
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833662
 https://news.walla.co.il/break/3833670
 https://hamal.co.il/main/צהל-תקף-יותר-מ-20-תשתיות-טרור-של-ארגון-הטרור-חיזבאללה-בבקעא-265503
 https://news.walla.co.il/break/3833677
+https://news.walla.co.il/break/3833681
+https://hamal.co.il/main/כביש-40-נחסם-לשני-הכיוונים-בצומת-שדה-בוקר-בעקבות-שיטפון-יניר-265504
