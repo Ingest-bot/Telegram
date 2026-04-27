@@ -1,6 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/מתחיל-להתחמם-אלה-החופים-הטובים-בעולם-לשנת-2026-264873
-https://news.walla.co.il/break/3832823
+COUNTER:4
 https://news.walla.co.il/break/3832825
 https://hamal.co.il/main/ארהב-נערכת-לחידוש-התקיפות-באיראן--דיווח-264970
 https://news.walla.co.il/break/3832828
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3833594
 https://hamal.co.il/main/ריאל-מדריד-הודיעה-קיליאן-אמבפה-הפצוע-בספק-לקלאסיקו-265458
 https://hamal.co.il/main/נשיא-המדינה-החל-את-ביקורו-הרשמי-בקזחסטן-והתקבל-בטקס-קבלת-פני-265469
 https://hamal.co.il/main/חקירת-רצח-הנער-בפתח-תקווה-עצרו-חשוד-נוסף-במעורבות-בקטטה-שהו-265470
+https://news.walla.co.il/item/3833586
+https://hamal.co.il/main/סערה-אחרי-הריאיון-בצינור-של-המאמן-מיבנה-265466
