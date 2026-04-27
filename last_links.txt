@@ -1,8 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/פיטורי-נציג-היועמשית-יעמוד-בראש-הצוות-שיגבש-את-ההסכם-264978
-https://news.walla.co.il/break/3832848
-https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264982
-https://hamal.co.il/main/הרצח-בעוספיה-3-נעצרו-בחשד-שירו-למוות-באיש-עסקים-264984
+COUNTER:16
 https://news.walla.co.il/item/3832850
 https://news.walla.co.il/item/3832852
 https://news.walla.co.il/item/3832854
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833629
 https://news.walla.co.il/item/3833623
 https://hamal.co.il/main/דיווח-OpenAI-מפתחת-סמארטפון-ראשון-שיתחרה-באייפון-ינון-בן-שו-265485
 https://hamal.co.il/main/רוביו-265486
+https://news.walla.co.il/break/3833632
+https://news.walla.co.il/break/3833630
+https://news.walla.co.il/item/3833629
+https://hamal.co.il/main/בעונה-הבאה-זה-ישתנה-הסיבה-שמשחקי-ליגת-העל-נערכים-במקביל-265406
