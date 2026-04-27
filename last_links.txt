@@ -1,8 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3832753
-https://news.walla.co.il/item/3832755
-https://hamal.co.il/main/בתוך-חנות-בגדים-צה״ל-חושף-מפקדה-של-חיזבאללה-בעומק-25-מטרים-264924
-https://hamal.co.il/main/כ״ץ-״ערוכים-לחידוש-המלחמה-מול-איראן-264929
+COUNTER:12
 https://hamal.co.il/main/בעלת-עסק-בשרון-הלינה-והעסיקה-שב״ח-4-שנים-כלי-נשק-אותרו-עמם-264925
 https://hamal.co.il/main/משרד-הביטחון-מסר-מערכת-הגנה-אווירית-לצבא-סלובקיה-264917
 https://news.walla.co.il/break/3832757
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אמלח-בחדר-ילדים-50-תשתיות-של-חי�
 https://hamal.co.il/main/סוף-לסיפור-שניר-בורגיל-ושי-לי-עופרי-התגרשו-רשמית-265414
 https://news.walla.co.il/item/3833480
 https://hamal.co.il/main/הקטטה-בנהריה-7-חשודים-נעצרו-הרקע---265422
+https://news.walla.co.il/break/3833486
+https://news.walla.co.il/item/3833450
+https://hamal.co.il/main/4-מחבלים-שיידו-אבנים-על-בתי-יהודים-265423
+https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265426
