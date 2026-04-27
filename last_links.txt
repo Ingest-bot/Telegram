@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3832790
-https://news.walla.co.il/break/3832791
-https://news.walla.co.il/break/3832796
+COUNTER:27
 https://hamal.co.il/main/טראמפ-״אם-איראן-התחמשה-במהלך-ההפוגה-נסגור-את-זה-ביום-אחד״-264950
 https://hamal.co.il/main/אזעקות-הופעלו-בשתולה-264952
 https://news.walla.co.il/item/3832799
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3833530
 https://news.walla.co.il/item/3833536
 https://hamal.co.il/main/מתקפת-ענק-של-אל-קאעדה-במאלי-שר-ההגנה-נהרג-שכירי-חרב-נסוגו-265428
 https://hamal.co.il/main/הותר-לפרסום-265441
+https://news.walla.co.il/break/3833541
+https://hamal.co.il/main/אחיו-של-ימנו-הוא-יצא-לעבוד---ונרצח-באכזריות-265442
+https://hamal.co.il/main/שימוש-בטלפון-ועקיפות-בקו-הפרדה-רצוף-265443
