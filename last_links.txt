@@ -1,5 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/בעלת-עסק-בשרון-הלינה-והעסיקה-שב״ח-4-שנים-כלי-נשק-אותרו-עמם-264925
+COUNTER:13
 https://hamal.co.il/main/משרד-הביטחון-מסר-מערכת-הגנה-אווירית-לצבא-סלובקיה-264917
 https://news.walla.co.il/break/3832757
 https://news.walla.co.il/break/3832759
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833486
 https://news.walla.co.il/item/3833450
 https://hamal.co.il/main/4-מחבלים-שיידו-אבנים-על-בתי-יהודים-265423
 https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265426
+https://hamal.co.il/main/נהג-תחת-פסילה-265427
