@@ -1,8 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-שינוי-עד-לשבוע-הבא-264932
-https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמושים-בדרום-לבנון-264933
-https://news.walla.co.il/break/3832769
-https://hamal.co.il/main/דיווח-הפגישה-בין-ישראל-ללבנון-עברה-ממשרד-החוץ-לבית-הלבן-264934
+COUNTER:19
 https://news.walla.co.il/break/3832773
 https://news.walla.co.il/break/3832778
 https://news.walla.co.il/break/3832779
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אחרי-ביטול-העדות-נתניהו-מקיים-
 https://hamal.co.il/main/לא-לסבך-אותי-נהג-בפסילה-בפעם-ה-3-ונעצר-265431
 https://hamal.co.il/main/מזכל-חיזבאללה--265433
 https://hamal.co.il/main/אינזקוט-265434
+https://news.walla.co.il/break/3833507
+https://news.walla.co.il/break/3833508
+https://hamal.co.il/main/תיבת-נח-נמצאה-265403
+https://hamal.co.il/main/ראשוני-תלמיד-נדקר-בבית-ספר-בגבעתיים-265435
