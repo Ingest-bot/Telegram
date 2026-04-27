@@ -1,7 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3832825
-https://hamal.co.il/main/ארהב-נערכת-לחידוש-התקיפות-באיראן--דיווח-264970
-https://news.walla.co.il/break/3832828
+COUNTER:6
 https://news.walla.co.il/item/3832826
 https://hamal.co.il/main/השאלה-המעניינת-באמת-האם-החיילת-בטקס-המשואות-נמצאת-בזוגיות-264870
 https://news.walla.co.il/item/3832831
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נשיא-המדינה-החל-את-ביקורו-הרשמ
 https://hamal.co.il/main/חקירת-רצח-הנער-בפתח-תקווה-עצרו-חשוד-נוסף-במעורבות-בקטטה-שהו-265470
 https://news.walla.co.il/item/3833586
 https://hamal.co.il/main/סערה-אחרי-הריאיון-בצינור-של-המאמן-מיבנה-265466
+https://news.walla.co.il/item/3833605
+https://hamal.co.il/main/נצמ-דורון-ילד-יוצא-עם-סכין-מהבית---החינוך-מתחיל-בהורים-265475
+https://hamal.co.il/main/הטעות-הבריאותית-שכולנו-עושים-כשאנחנו-אוכלים-תות-שדה-265452
