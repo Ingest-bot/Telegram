@@ -1,5 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/ההרגל-הפשוט-הזה-חותך-ב-50-את-הסיכון-למחלות-לב-264894
 https://news.walla.co.il/break/3832711
 https://news.walla.co.il/item/3832707
 https://hamal.co.il/main/צבא-ארהב-עצר-ספינה-נוספת-264897
@@ -499,3 +498,4 @@ https://hamal.co.il/main/גבר-כבן-40-נפגע-מרכב-בכביש-424-מצ�
 https://news.walla.co.il/item/3833415
 https://hamal.co.il/main/צהל-כשל-פורסם-התחקיר-על-אירועי-7-באוקטובר-בקיבוץ-חולית-אמי-265378
 https://hamal.co.il/main/מזג-אוויר-מעןנן-חלקית-עד-בהיר-בצהריים-יתרבו-העננים-וגשם-מקו-265379
+https://news.walla.co.il/break/3833420
