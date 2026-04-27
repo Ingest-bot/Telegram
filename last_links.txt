@@ -1,6 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3832763
-https://hamal.co.il/main/״הוא-מצילנו-מידם״-בן-גביר-על-המרגלים-שהעבירו-מיקומים-שלו-264931
+COUNTER:17
 https://hamal.co.il/main/מדיניות-ההתגוננות-נותרה-ללא-שינוי-עד-לשבוע-הבא-264932
 https://hamal.co.il/main/צהל-חיסל-שני-מחבלי-חיזבאללה-חמושים-בדרום-לבנון-264933
 https://news.walla.co.il/break/3832769
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833499
 https://news.walla.co.il/break/3833502
 https://hamal.co.il/main/אחרי-ביטול-העדות-נתניהו-מקיים-התייעצויות-ביטחוניות-265429
 https://hamal.co.il/main/לא-לסבך-אותי-נהג-בפסילה-בפעם-ה-3-ונעצר-265431
+https://hamal.co.il/main/מזכל-חיזבאללה--265433
+https://hamal.co.il/main/אינזקוט-265434
