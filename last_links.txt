@@ -1,5 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/בהכוונת-השב״כ-מצבור-אמלח-אותר-264986
+COUNTER:20
 https://hamal.co.il/main/צבא-ארהב-מכריז-3-נושאות-מטוסים-פועלות-באזור-264989
 https://news.walla.co.il/item/3832861
 https://hamal.co.il/main/מצבו-הרפואי-של-נתניהו-נחשף-264991
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ממאסטר-שף-לכנסת-זה-השף-מתוכנית
 https://hamal.co.il/main/ראש-הממשלה-בנימין-נתניהו-בכנס-הפיקוד-הבכיר-של-צה״ל-״יש-לנו-265490
 https://news.walla.co.il/item/3833646
 https://news.walla.co.il/item/3833647
+https://hamal.co.il/main/המשקל-לא-מספר-את-כל-הסיפור-אלו-שיטות-המדידה-החדשות-דורון-קו-265491
