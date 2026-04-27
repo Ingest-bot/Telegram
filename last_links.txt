@@ -1,8 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3832808
-https://hamal.co.il/main/שגריר-ישראל-בארה״ב-לטראמפ-״אנו-מקווים-שנוכל-למסד-שלום-בין-י-264958
-https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ששיגר-מספר-רקטות-לעבר-מרח-264959
-https://news.walla.co.il/break/3832811
+COUNTER:35
 https://news.walla.co.il/break/3832812
 https://news.walla.co.il/break/3832813
 https://news.walla.co.il/item/3832814
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3833560
 https://news.walla.co.il/item/3833561
 https://hamal.co.il/main/צהל-בהודעה-חריגה-פתחנו-בגל-תקיפות-ברחבי-לבנון-265446
 https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-בדרום-שנחסמו-265447
+https://news.walla.co.il/break/3833564
+https://hamal.co.il/main/נשיא-לבנון-מגיב-לחיזבאללה-265448
+https://hamal.co.il/main/איתי-לוי-מבקש-התפללו-לרפואת-אימי-265449
+https://hamal.co.il/main/המבצע-של-צהל-בצפון-הרצועה-מנהרות-הושמדו-70-מחבלים-חוסלו-265457
