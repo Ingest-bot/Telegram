@@ -1,9 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3832805
-https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-שני-משגרים-טעונים-וחיסל-שלושה-מח-264956
-https://news.walla.co.il/break/3832806
-https://hamal.co.il/main/טראמפ-הפסקת-האש-בין-ישראל-ללבנון-תוארך-בשלושה-שבועות-אני-מ-264957
-https://news.walla.co.il/break/3832807
+COUNTER:32
 https://news.walla.co.il/break/3832808
 https://hamal.co.il/main/שגריר-ישראל-בארה״ב-לטראמפ-״אנו-מקווים-שנוכל-למסד-שלום-בין-י-264958
 https://hamal.co.il/main/תוך-דקות-ספורות-צהל-תקף-את-המשגר-ששיגר-מספר-רקטות-לעבר-מרח-264959
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עס�
 https://news.walla.co.il/break/3833556
 https://news.walla.co.il/break/3833557
 https://hamal.co.il/main/מאמן-כושר-חושף-זה-מה-שגורם-לכם-להפסיק-להתאמן-אחרי-זמן-קצר-265405
+https://news.walla.co.il/break/3833562
+https://news.walla.co.il/item/3833560
+https://news.walla.co.il/item/3833561
+https://hamal.co.il/main/צהל-בהודעה-חריגה-פתחנו-בגל-תקיפות-ברחבי-לבנון-265446
+https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-בדרום-שנחסמו-265447
