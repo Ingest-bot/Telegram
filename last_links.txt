@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3832773
-https://news.walla.co.il/break/3832778
-https://news.walla.co.il/break/3832779
-https://hamal.co.il/main/דיווחים-באיראןמערכות-הגנה-אווירית-הופעלו-במערב-טהרן-הסיבה-ל-264935
-https://hamal.co.il/main/תקיפות-מהאוויר-ומעל-ל-25-מחבלים-שחוסלו-פעילות-צה״ל-בלבנון-264941
+COUNTER:22
 https://hamal.co.il/main/בישראל-מבהירים-לא-תוקפים-באיראן-264942
 https://news.walla.co.il/item/3832782
 https://hamal.co.il/main/המוזיקאי-האהוב-נגד-ציונים-נהנים-מזכויות-יתר״-264920
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833507
 https://news.walla.co.il/break/3833508
 https://hamal.co.il/main/תיבת-נח-נמצאה-265403
 https://hamal.co.il/main/ראשוני-תלמיד-נדקר-בבית-ספר-בגבעתיים-265435
+https://news.walla.co.il/break/3833514
+https://news.walla.co.il/break/3833516
+https://hamal.co.il/main/צהל-3-ניסו-להתקרב-לכוחותינו-בדרום-לבנון---וחוסלו--צפו-265436
+https://hamal.co.il/main/בנט-ולפיד-התאחדו---ודווקא-נתניהו-ואיזנקוט-מתחזקים--סקר-מנדט-265437
+https://hamal.co.il/main/יצאו-להציל-חיים-ולא-חזרו-הקרב-של-גיבורי-שלומית-עדיין-לא-נגמ-265439
