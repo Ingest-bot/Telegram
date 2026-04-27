@@ -1,9 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/ממתין-לרגל-תותבת-ומתקשה-לדבר-כך-264901
-https://hamal.co.il/main/השפריץ-צבע-על-יורש-העצר-האיראני---264902
-https://hamal.co.il/main/מסורת-שנתית-מאות-משפחות-הגיעו-לתצוגת-צה״ל-במוצב-עלומים-264904
-https://news.walla.co.il/break/3832723
-https://news.walla.co.il/item/3832722
+COUNTER:37
 https://hamal.co.il/main/דגלי-אש״ף-הוסרו-משכונת-מאה-שערים-בירושלים-264908
 https://hamal.co.il/main/טראמפ-הוריתי-לצי-להרוג-כל-כלי-שיט-שמניח-מוקשים-במצר-הורמוז-264909
 https://hamal.co.il/main/צפו-פיצוץ-700-מוקשים-סמוך-לגבול-סוריה-264910
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833424
 https://news.walla.co.il/break/3833426
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-265382
 https://hamal.co.il/main/הירי-בוושינגהחמוש-פרץ-את-המחסומים---והגיע-למרחק-נגיעה-מטראמפ-265386
+https://news.walla.co.il/break/3833428
+https://news.walla.co.il/item/3833429
+https://news.walla.co.il/item/3833427
+https://hamal.co.il/main/גיוס-המונים-למשפחת-ימנו-בנימין-זלקה-מיליון-וחצי-שקל-נתרמו-265387
+https://hamal.co.il/main/בשל-שיקולים-ביטחוניים-עדות-נתניהו-בוטלה-265398
