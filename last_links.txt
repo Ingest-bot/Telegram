@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/דגלי-אש״ף-הוסרו-משכונת-מאה-שערים-בירושלים-264908
-https://hamal.co.il/main/טראמפ-הוריתי-לצי-להרוג-כל-כלי-שיט-שמניח-מוקשים-במצר-הורמוז-264909
-https://hamal.co.il/main/צפו-פיצוץ-700-מוקשים-סמוך-לגבול-סוריה-264910
-https://news.walla.co.il/break/3832729
+COUNTER:0
 https://news.walla.co.il/item/3832727
 https://hamal.co.il/main/״הנה-הרגל-שלו-באהבה״-אישום-נגד-בן-15-שהתעלל-באכזריות-בחתול-264911
 https://news.walla.co.il/break/3832732
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3833429
 https://news.walla.co.il/item/3833427
 https://hamal.co.il/main/גיוס-המונים-למשפחת-ימנו-בנימין-זלקה-מיליון-וחצי-שקל-נתרמו-265387
 https://hamal.co.il/main/בשל-שיקולים-ביטחוניים-עדות-נתניהו-בוטלה-265398
+https://news.walla.co.il/break/3833436
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-265399
+https://hamal.co.il/main/החליף-את-הלוחית---ונכנס-ליישוב-ערבי-מיוש-נאשם-בהתחזות-265402
+https://hamal.co.il/main/לסייר-ברגל-100-הערים-שהכי-כיף-לטייל-בהן-בהליכה-265245
