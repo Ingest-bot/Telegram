@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/האזעקות-בשתולה-זוהו-מספר-שיגורים-שחצו-מלבנון---וייורטו-264954
-https://hamal.co.il/main/עובד-פיצרייה-נדקר-למוות-לאחר-שהעיר-לנערים-על-ספריי-שלג-264953
-https://hamal.co.il/main/בזמן-השיחות-בבית-הלבן-חיזבאללה-מנסה-לפוצץ-את-המו״מ-264955
+COUNTER:30
 https://news.walla.co.il/break/3832805
 https://hamal.co.il/main/בסגירת-מעגל-מהירה-צהל-תקף-שני-משגרים-טעונים-וחיסל-שלושה-מח-264956
 https://news.walla.co.il/break/3832806
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שימוש-בטלפון-ועקיפות-בקו-הפרד�
 https://news.walla.co.il/item/3833551
 https://hamal.co.il/main/פועל-נפל-מגובה-3-מטרים-בחיפה-מצבו-קשה-265444
 https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265425
+https://news.walla.co.il/break/3833556
+https://news.walla.co.il/break/3833557
+https://hamal.co.il/main/מאמן-כושר-חושף-זה-מה-שגורם-לכם-להפסיק-להתאמן-אחרי-זמן-קצר-265405
