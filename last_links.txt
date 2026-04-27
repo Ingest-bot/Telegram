@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/3-לוחמים-נפצעו-בלבנון-בהם-2-באורח-בינוני-ו-1-במצב-קל-265002
-https://news.walla.co.il/break/3832866
+COUNTER:24
 https://hamal.co.il/main/חוששות-מהסלמה-סין-והודו-קוראות-לאזרחיהן-לעזוב-את-איראן-265009
 https://hamal.co.il/main/דיווח-משלחת-איראנית-תגיע-לפקיסטן-לקראת-המשך-המומ-265010
 https://news.walla.co.il/break/3832867
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שטפונות-וחסימות-צירים-מזג-אוו�
 https://news.walla.co.il/item/3833656
 https://hamal.co.il/main/דוברת-הבית-הלבן-הודיעה-כי-האבטחה-סביב-טראמפ-תתוגבר-לאחר-ניסי-265502
 https://news.walla.co.il/break/3833662
+https://news.walla.co.il/break/3833670
+https://hamal.co.il/main/צהל-תקף-יותר-מ-20-תשתיות-טרור-של-ארגון-הטרור-חיזבאללה-בבקעא-265503
