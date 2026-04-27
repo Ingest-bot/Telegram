@@ -1,5 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3832727
+COUNTER:1
 https://hamal.co.il/main/״הנה-הרגל-שלו-באהבה״-אישום-נגד-בן-15-שהתעלל-באכזריות-בחתול-264911
 https://news.walla.co.il/break/3832732
 https://news.walla.co.il/break/3832733
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833436
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-265399
 https://hamal.co.il/main/החליף-את-הלוחית---ונכנס-ליישוב-ערבי-מיוש-נאשם-בהתחזות-265402
 https://hamal.co.il/main/לסייר-ברגל-100-הערים-שהכי-כיף-לטייל-בהן-בהליכה-265245
+https://hamal.co.il/main/הדגלנית-מטקס-המשואות-קוטפת-קמפיין-ראשון-ושווה-במיוחד-265247
