@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3832854
-https://news.walla.co.il/item/3832851
-https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264981
-https://news.walla.co.il/break/3832856
+COUNTER:19
 https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264979
 https://news.walla.co.il/item/3832860
 https://hamal.co.il/main/בהכוונת-השב״כ-מצבור-אמלח-אותר-264986
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3833629
 https://hamal.co.il/main/בעונה-הבאה-זה-ישתנה-הסיבה-שמשחקי-ליגת-העל-נערכים-במקביל-265406
 https://news.walla.co.il/item/3833641
 https://hamal.co.il/main/הרמטכ״ל-בעדכון-לסגל-הפיקוד-הבכיר-״אנחנו-עדיין-בתוך-מערכה-ר-265487
+https://news.walla.co.il/break/3833643
+https://news.walla.co.il/break/3833642
+https://hamal.co.il/main/ממאסטר-שף-לכנסת-זה-השף-מתוכנית-הריאלטי-שמצטרף-לבנט-265489
+https://hamal.co.il/main/ראש-הממשלה-בנימין-נתניהו-בכנס-הפיקוד-הבכיר-של-צה״ל-״יש-לנו-265490
