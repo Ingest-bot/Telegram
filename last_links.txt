@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3832838
-https://hamal.co.il/main/פרשת-אחרי-מות-קדשים-אלו-זמני-השבת-264971
-https://hamal.co.il/main/הימר-על-המבצע-שהשתתף-בו-לוחם-קומנדו-אמריקני-264975
+COUNTER:13
 https://news.walla.co.il/break/3832843
 https://news.walla.co.il/item/3832842
 https://hamal.co.il/main/פרשת-אחרי-מות---קדושים-המידה-שנלמדת-ממות-בניו-של-אהרון-264973
@@ -499,3 +496,6 @@ https://hamal.co.il/main/באמצע-הקיץ-נצפה-בין-ערד-למצדה-2
 https://news.walla.co.il/break/3833617
 https://hamal.co.il/main/בתום-הערכת-מצב-מדיניות-ההתגוננות-של-פיקוד-העורף-נותרת-ללא-ש-265483
 https://hamal.co.il/main/קנצלר-גרמניה-איראן-משפילה-את-ארהב-אני-מקווה-שזה-ייגמר-265482
+https://news.walla.co.il/break/3833606
+https://hamal.co.il/main/מקורבי-אורבן-מבריחים-את-הונם-מדיאר-לעצור-את-הפושעים-265463
+https://hamal.co.il/main/רעידת-אדמה-בעולם-הקריפטו-המחשב-שפיצח-את-הקוד-של-הביטקוין-דו-265484
