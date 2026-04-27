@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3832843
-https://news.walla.co.il/item/3832842
-https://hamal.co.il/main/פרשת-אחרי-מות---קדושים-המידה-שנלמדת-ממות-בניו-של-אהרון-264973
-https://news.walla.co.il/break/3832845
+COUNTER:15
 https://hamal.co.il/main/פיטורי-נציג-היועמשית-יעמוד-בראש-הצוות-שיגבש-את-ההסכם-264978
 https://news.walla.co.il/break/3832848
 https://hamal.co.il/main/מיליוני-צפיות-ברחבי-העולם-הברכה-של-גדעון-סער-חרכה-את-הרשת-264982
@@ -499,3 +495,7 @@ https://hamal.co.il/main/קנצלר-גרמניה-איראן-משפילה-את-א
 https://news.walla.co.il/break/3833606
 https://hamal.co.il/main/מקורבי-אורבן-מבריחים-את-הונם-מדיאר-לעצור-את-הפושעים-265463
 https://hamal.co.il/main/רעידת-אדמה-בעולם-הקריפטו-המחשב-שפיצח-את-הקוד-של-הביטקוין-דו-265484
+https://news.walla.co.il/break/3833629
+https://news.walla.co.il/item/3833623
+https://hamal.co.il/main/דיווח-OpenAI-מפתחת-סמארטפון-ראשון-שיתחרה-באייפון-ינון-בן-שו-265485
+https://hamal.co.il/main/רוביו-265486
