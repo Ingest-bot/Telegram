@@ -1,10 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3832783
-https://news.walla.co.il/break/3832784
-https://hamal.co.il/main/זה-היה-מהיר-הדגלנית-בתחילתו-של-קשר-זוגי-עם-זמר-מפורסם-264944
-https://hamal.co.il/main/רגע-לפני-שבועות-מוצרי-החלב-בפיקוח-מתייקרים-264947
-https://news.walla.co.il/item/3832789
-https://hamal.co.il/main/בזכות-מייבש-שיער-שיחקו-עם-הטמפרטורה---והרוויחו-37-אלף-דולר-264949
+COUNTER:25
 https://news.walla.co.il/break/3832790
 https://news.walla.co.il/break/3832791
 https://news.walla.co.il/break/3832796
@@ -499,3 +493,9 @@ https://hamal.co.il/main/יצאו-להציל-חיים-ולא-חזרו-הקרב-�
 https://news.walla.co.il/break/3833528
 https://news.walla.co.il/item/3833525
 https://hamal.co.il/main/נדקר-בגלל-265440
+https://news.walla.co.il/break/3833539
+https://news.walla.co.il/item/3833535
+https://news.walla.co.il/item/3833530
+https://news.walla.co.il/item/3833536
+https://hamal.co.il/main/מתקפת-ענק-של-אל-קאעדה-במאלי-שר-ההגנה-נהרג-שכירי-חרב-נסוגו-265428
+https://hamal.co.il/main/הותר-לפרסום-265441
