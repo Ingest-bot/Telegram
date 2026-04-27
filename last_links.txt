@@ -1,6 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/מטענים-נשק-וציוד-צבאי-נתפסו-בפעילות-כוחותינו-בחטיבת-עציון-264923
-https://news.walla.co.il/break/3832754
+COUNTER:10
 https://news.walla.co.il/item/3832753
 https://news.walla.co.il/item/3832755
 https://hamal.co.il/main/בתוך-חנות-בגדים-צה״ל-חושף-מפקדה-של-חיזבאללה-בעומק-25-מטרים-264924
@@ -499,3 +497,5 @@ https://hamal.co.il/main/11-חשודים-נעצרו-265415
 https://hamal.co.il/main/מומחה-לאיראן-265416
 https://hamal.co.il/main/אמלח-בחדר-ילדים-50-תשתיות-של-חיזבאללה-הושמדו-בלבנון-265419
 https://hamal.co.il/main/סוף-לסיפור-שניר-בורגיל-ושי-לי-עופרי-התגרשו-רשמית-265414
+https://news.walla.co.il/item/3833480
+https://hamal.co.il/main/הקטטה-בנהריה-7-חשודים-נעצרו-הרקע---265422
