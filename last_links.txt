@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/מומחה-לאיראן-עונה-264972
-https://news.walla.co.il/break/3832836
-https://hamal.co.il/main/צהל-תקפנו-מבנים-צבאיים-של-חיזבאללה-בדרום-לבנון-264974
+COUNTER:9
 https://news.walla.co.il/break/3832837
 https://hamal.co.il/main/חשד-לרצח-בבאר-שבע-בן-19-נדקר-למוות---הרקע-פלילי-264976
 https://news.walla.co.il/item/3832840
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833607
 https://news.walla.co.il/break/3833610
 https://hamal.co.il/main/בגץ-קבע-יש-לקבוע-מתווה-לחקירת-אירועי-7-באוקטובר-עד-ל-1-ביו-265476
 https://hamal.co.il/main/מחדל-הרחפנים-של-צהל-צוותי-העבודה-שמנסים-להתמודד-באיחור-עם-265477
+https://news.walla.co.il/item/3833611
+https://news.walla.co.il/item/3833612
+https://hamal.co.il/main/באמצע-הקיץ-נצפה-בין-ערד-למצדה-265481
