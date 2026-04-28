@@ -1,11 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3832988
-https://hamal.co.il/main/דיווחים-באיראן-הוצא-להורג-אדם-שהואשם-בריגול-265110
-https://news.walla.co.il/break/3832991
-https://hamal.co.il/main/דובר-צהל-עפיפון-הגיע-מרצועת-עזה-לנחל-עוז-האירוע-בבדיקה-265111
-https://news.walla.co.il/break/3832996
-https://news.walla.co.il/break/3832995
-https://hamal.co.il/main/פצוע-קשה-בשריפת-טרקטור-בתל-גזר-265112
+COUNTER:17
 https://hamal.co.il/main/כ-20-חשודים-פרצו-לשטח-צבאי-סגור-במחנה-הפליטים-גנין-רובם-נעצ-265113
 https://hamal.co.il/main/בדירת-מסתור-החשוד-המרכזי-ברצח-זלקה-נעצר-לאחר-ניסיון-הימלטות-265117
 https://news.walla.co.il/break/3832999
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3833854
 https://news.walla.co.il/item/3833859
 https://news.walla.co.il/item/3833861
 https://hamal.co.il/main/למה-עדיין-קיים-טלפון-קווי-בחדרי-המלון-מסתבר-שיש-סיבות-טובות-265579
+https://news.walla.co.il/break/3833863
+https://news.walla.co.il/break/3833865
+https://news.walla.co.il/break/3833864
+https://news.walla.co.il/item/3833866
+https://hamal.co.il/main/רכב-פגע-בהולכי-רגל-בסחנין-שניים-נפצעו-קשה-265597
+https://hamal.co.il/main/כוחותינו-השמידו-תוואי-תת-קרקעי-ואמלח-רב-של-חיזבאללה-265603
+https://hamal.co.il/main/בני-משפחתו-של-דסטאו-צקול-שנרצח-בבש-מאיפה-האכזריות-הזאת-265583
