@@ -1,5 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/דיווח-שר-החוץ-האיראני-יגיע-לפקיסטן-לטובת-חידוש-המומ-265026
 https://hamal.co.il/main/שבת-שלום-מצוערי-השלמה-חילית-של-חיל-הטנ״א-265029
 https://hamal.co.il/main/בין-ימי-ספירת-העומר-יום-הזיכרון-ופסח--איריס-חיים-265030
 https://news.walla.co.il/item/3832875
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833694
 https://news.walla.co.il/break/3833695
 https://news.walla.co.il/break/3833698
 https://news.walla.co.il/item/3833696
+https://news.walla.co.il/break/3833699
