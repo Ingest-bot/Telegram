@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3833083
-https://news.walla.co.il/break/3833078
+COUNTER:15
 https://news.walla.co.il/item/3833076
 https://hamal.co.il/main/צהל-תקף-מבנים-צבאיים-ששימשו-לקידום-מתווי-טרור-של-חיזבאללה-265197
 https://news.walla.co.il/break/3833085
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נתניהו-265653
 https://hamal.co.il/main/האלימות-לא-מפסיקה-בן-12-זרק-אבן-על-נער-265654
 https://hamal.co.il/main/שריפה-פרצה-בבניין-מגורים-בביתר-עילית-7-פצועים-פונו-במצב-קל-265655
 https://hamal.co.il/main/חכ-מיש-עתיד-חוזר-בו-נשאר-כחבר-במפלגה-265656
+https://news.walla.co.il/break/3833971
+https://hamal.co.il/main/ההפגנה-בבני-ברק-265658
