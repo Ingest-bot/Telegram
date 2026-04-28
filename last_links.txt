@@ -1,8 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/אירוע-אלימות-סמוך-לכנרת-גבר-כבן-30-נפצע-באורח-בינוני-265060
-https://news.walla.co.il/item/3832896
-https://news.walla.co.il/item/3832873
-https://news.walla.co.il/break/3832901
+COUNTER:36
 https://hamal.co.il/main/כוחות-צהל-מחטיבת-הצנחנים-חיסלו-שישה-מחבלים-בבינת-גבייל-265061
 https://hamal.co.il/main/דיווח-וויטקוף-וקושנר-יוצאים-לשיחות-עם-עראקצ׳י-בפקיסטן-265062
 https://news.walla.co.il/item/3832901
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833729
 https://news.walla.co.il/break/3833735
 https://hamal.co.il/main/השיחות-במבוי-סתום-טראמפ-לא-מרוצה-מההצעה-האיראנית-265530
 https://hamal.co.il/main/כוחותינו-השמידו-265531
+https://news.walla.co.il/break/3833740
+https://news.walla.co.il/item/3833744
+https://hamal.co.il/main/בצהל-מתחקרים-משפחות-שכולות-הוכנסו-לאזור-לא-מטוהר-בלבנון-265517
+https://hamal.co.il/main/אחרי-שביקש-מהעוקבים-להתפלל---איתי-לוי-מעדכן-במצבה-של-אמו-265520
