@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3833034
-https://news.walla.co.il/item/3833035
-https://hamal.co.il/main/צהל-ממשיך-בתקיפת-תשתיות-של-חיזבאללה-ברחבי-דרום-לבנון-265154
-https://news.walla.co.il/break/3833036
+COUNTER:33
 https://hamal.co.il/main/טראמפ-ביטל-את-נסיעת-ויטקוף-וקושנר-לפקסיטן-265158
 https://news.walla.co.il/break/3833039
 https://news.walla.co.il/break/3833038
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3833910
 https://hamal.co.il/main/גנב-אמבולנס-כי-לא-היה-מרוצה-מהטיפול-אישום-נגד-תושב-זמר-265623
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בגליל-265624
 https://hamal.co.il/main/בן-גביר-על-דוח-המבקר-שקר-גס-הנתונים-מעוותים-265625
+https://news.walla.co.il/break/3833920
+https://news.walla.co.il/item/3833919
+https://hamal.co.il/main/בשל-הפגנות-החרדים-כביש-4-נחסם-לתנועה-265627
+https://hamal.co.il/main/צהל-חיזבאללה-שיגר-כטבמים-לעבר-כוחותינו-אין-נפגעים-265628
