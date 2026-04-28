@@ -1,10 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3833086
-https://hamal.co.il/main/גדול-ונרחב-מאי-פעם-משט-הסומוד-העולמי-לעזה-יפליג-מסיציליה-265199
-https://news.walla.co.il/break/3833088
-https://news.walla.co.il/break/3833090
-https://hamal.co.il/main/הוארך-מעצרם-של-2-הקטינים-החשודים-במעורבות-ברצח-הצעיר-בב״ש-265200
-https://news.walla.co.il/item/3833092
+COUNTER:20
 https://hamal.co.il/main/כוחות-צהל-הרסו-לוחות-סולאריים-בכפר-בלבנון-האירוע-מתוחקר-265201
 https://news.walla.co.il/break/3833096
 https://news.walla.co.il/break/3833102
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ההפגנה-בבני-ברק-265658
 https://news.walla.co.il/break/3833974
 https://hamal.co.il/main/אירוע-חריג-באשקלון-מפגינים-חרדים-265659
 https://hamal.co.il/main/היועצת-המשפטית-לנשיא-המדינה-265660
+https://news.walla.co.il/break/3833978
+https://news.walla.co.il/break/3833979
+https://news.walla.co.il/item/3833980
+https://hamal.co.il/main/הרמטכל-על-הפריצה-לביתו-של-קצין-המשטרה-הצבאית-קו-אדום-265664
+https://hamal.co.il/main/בדקה-ה-96-הפועל-בש-הפסידה-למכבי-תא-265667
+https://hamal.co.il/main/טראמפ-תוקף-את-קנצלר-265665
