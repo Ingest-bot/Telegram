@@ -1,6 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/כוחות-צהל-הרסו-לוחות-סולאריים-בכפר-בלבנון-האירוע-מתוחקר-265201
-https://news.walla.co.il/break/3833096
+COUNTER:22
 https://news.walla.co.il/break/3833102
 https://news.walla.co.il/break/3833104
 https://news.walla.co.il/break/3833106
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3833980
 https://hamal.co.il/main/הרמטכל-על-הפריצה-לביתו-של-קצין-המשטרה-הצבאית-קו-אדום-265664
 https://hamal.co.il/main/בדקה-ה-96-הפועל-בש-הפסידה-למכבי-תא-265667
 https://hamal.co.il/main/טראמפ-תוקף-את-קנצלר-265665
+https://hamal.co.il/main/נתניהו-על-הפריצה-ליתו-של-קצין-המשטרה-הצבאית-לפעול-ביד-קשה-265669
+https://hamal.co.il/main/דיווח-בארהב-בוחנים-איך-איראן-תגיב-אם-טראמפ-יכריז-על-ניצחון-265668
