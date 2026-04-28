@@ -1,5 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3833115
+COUNTER:32
 https://news.walla.co.il/item/3833112
 https://hamal.co.il/main/גבר-וילד-אותרו-ללא-רוח-חיים-בבית-במעוצה-איזורית-אלונה-265226
 https://hamal.co.il/main/ארהב-ה-FBI-יוביל-את-חקירת-הירי-בארוחת-כתבי-הבית-הלבן-265225
@@ -499,3 +498,4 @@ https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-ח
 https://hamal.co.il/main/4-קטינים-נעצרו-באירוע-אלימות-265680
 https://hamal.co.il/main/פסז׳-ניצחה-45-את-באיירן-מינכן-בחצי-גמר-ליגת-האלופות-265681
 https://news.walla.co.il/break/3833998
+https://hamal.co.il/main/איים-על-חיי-הנשיא-כתב-אישום-נגד-ראש-ה-FBI-לשעבר-גיימס-קומי-265682
