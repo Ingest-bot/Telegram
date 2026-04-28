@@ -1,7 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3833106
-https://news.walla.co.il/break/3833107
-https://news.walla.co.il/break/3833108
+COUNTER:25
 https://news.walla.co.il/item/3833105
 https://hamal.co.il/main/זהות-היורה-בארוחת-הערב-בבית-הלבן-נחשפה-בן-31-מקליפורניה-265213
 https://hamal.co.il/main/ארהב-טראמפ-עוזב-את-ארוחת-הכתבים-בעקבות-הירי-ויקיים-מסיבת-ע-265214
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נתניהו-על-הפריצה-ליתו-של-קצין-�
 https://hamal.co.il/main/דיווח-בארהב-בוחנים-איך-איראן-תגיב-אם-טראמפ-יכריז-על-ניצחון-265668
 https://news.walla.co.il/item/3833985
 https://hamal.co.il/main/מהפך-בצמרת-בית״ר-ניצחה-את-הפועל-פ״ת---ועלתה-למקום-הראשון-265670
+https://news.walla.co.il/item/3833986
+https://hamal.co.il/main/תיעוד-ילדים-בדרום-תא-זורקים-ביצים-על-תחנת-המשטרה-265663
+https://hamal.co.il/main/חלמתי-לגור-בארמון-הקשר-המשפחתי-של-טראמפ-למלך---והתגובה-265626
