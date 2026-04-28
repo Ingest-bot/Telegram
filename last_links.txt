@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3833061
-https://hamal.co.il/main/טרגדיה-בשרון-יולדת-בת-35-ותאומיה-נפטרו-לאחר-התמוטטות-בבית-265182
-https://news.walla.co.il/break/3833064
-https://news.walla.co.il/item/3833059
-https://hamal.co.il/main/המשטרה-פועלת-בשני-מוקדי-מחאה-בירושלים-להשבת-הסדר-הציבורי-265188
+COUNTER:9
 https://news.walla.co.il/break/3833065
 https://news.walla.co.il/item/3833066
 https://news.walla.co.il/break/3833067
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833958
 https://news.walla.co.il/item/3833956
 https://news.walla.co.il/item/3833963
 https://hamal.co.il/main/דיווח-איראן-תגיש-הצעה-לסיום-המלחמה-265647
+https://news.walla.co.il/break/3833966
+https://news.walla.co.il/item/3833958
+https://hamal.co.il/main/האב-שילדיו-הותקפו-בדרום-תא-אעזוב-את-העיר--צפו-265648
+https://hamal.co.il/main/חלק-מתכנית-לכיבוש-הגליל-ערי-המקלט-של-חיזבאללה-נחשפות-265634
+https://hamal.co.il/main/מעל-450-טון-חומר-נפץ-כך-הושמדו-המנהרות-של-חיזבאללה--צפו-265651
