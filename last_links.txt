@@ -1,7 +1,4 @@
 COUNTER:33
-https://hamal.co.il/main/טראמפ-ביטל-את-נסיעת-ויטקוף-וקושנר-לפקסיטן-265158
-https://news.walla.co.il/break/3833039
-https://news.walla.co.il/break/3833038
 https://news.walla.co.il/item/3833036
 https://hamal.co.il/main/רצח-ימנו-זלקה-בפיצרייה-שני-חשודים-כבני-12-שוחררו-למעצר-בית-265161
 https://hamal.co.il/main/כוחותינו-איתרו-מצבור-טילי-נט-של-חיזבאללה-בדרום-לבנון-265164
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833920
 https://news.walla.co.il/item/3833919
 https://hamal.co.il/main/בשל-הפגנות-החרדים-כביש-4-נחסם-לתנועה-265627
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-כטבמים-לעבר-כוחותינו-אין-נפגעים-265628
+https://news.walla.co.il/break/3833922
+https://news.walla.co.il/break/3833924
+https://news.walla.co.il/break/3833926
