@@ -1,10 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/טראמפ-יש-מאבקי-כוח-ובלבול-עצומים-בתוך-ההנהגה-האיראנית-265165
-https://hamal.co.il/main/טרור-העפיפונים-חוזר-התושבים-המציאות-הביטחונית-לא-השתנתה-265126
-https://hamal.co.il/main/חדשות-השבת-265167
-https://news.walla.co.il/break/3833043
-https://news.walla.co.il/break/3833045
-https://news.walla.co.il/item/3833044
+COUNTER:39
 https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-265168
 https://hamal.co.il/main/אישה-כבת-50-נפצעה-אנוש-לאחר-שנמשתה-מהמים-בחוף-בקריית-ים-265169
 https://hamal.co.il/main/ילד-בן-6-נפצע-קשה-מעקיצת-עקרב-בנגב-265170
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3833933
 https://news.walla.co.il/item/3833934
 https://hamal.co.il/main/חלמתי-לגור-בארמון-הקשר-המשפחתי-של-טראמפ-למלך---והתגובה-265630
 https://hamal.co.il/main/והרי-החדשות-ברהנו-טגניה-ובת-הזוגחושפים-את-השמות-שבחרו-לילדי-265618
+https://news.walla.co.il/break/3833936
+https://news.walla.co.il/item/3833943
+https://hamal.co.il/main/אשדוד-265636
+https://hamal.co.il/main/צהל-הופעלו-אזעקות-במשגב-עם-הפרטים-בבדיקה-265638
+https://hamal.co.il/main/נטלי-דדון-בכנס-265639
+https://hamal.co.il/main/גיבורות-היום-265640
