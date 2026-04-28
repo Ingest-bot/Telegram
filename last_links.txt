@@ -1,6 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/המערכה-החשאית-כך-פועל-המוסד-לסיכול-שיקום-תעשיות-הטילים-באיר-265066
-https://hamal.co.il/main/ילד-בן-7-נפצע-באורח-קשה-באירוע-אלימות-ברהט-265067
+COUNTER:39
 https://news.walla.co.il/break/3832916
 https://hamal.co.il/main/דוברת-הבית-הלבן-וויטקוף-וקושנר-יצאו-מחר-לשיחות-בפקיסטן-265069
 https://news.walla.co.il/item/3832920
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3833751
 https://news.walla.co.il/item/3833749
 https://hamal.co.il/main/ראש-המוסד-״השגנו-מודיעין-אסטרטגי-וטקטי-בליבת-הסוד-של-האויב-265535
 https://hamal.co.il/main/הסוד-של-בני-ה־100-המזון-הפשוט-שיכול-להאריך-חיים-265541
+https://news.walla.co.il/item/3833756
+https://hamal.co.il/main/תמונות-ראשונות-חושפות-כך-ייראו-המשקפיים-החכמים-של-סמסונג-265538
