@@ -1,6 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/פצוע-קשה-באירוע-אלימות-בנגב-265221
-https://hamal.co.il/main/הסתער-בריצה-עם-רובה-ציד-תיעוד-הירי-בארוחה-לכתבי-הבית-הלבן-265223
+COUNTER:30
 https://hamal.co.il/main/גשם-וסופות-רעמים-מזג-האוויר-מתהפך-265224
 https://news.walla.co.il/break/3833109
 https://news.walla.co.il/break/3833115
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הותר-לפרסום-עובד-בחברה-קבלנית-
 https://news.walla.co.il/break/3833996
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-265673
 https://hamal.co.il/main/חדירת-כלי-טיס-עוין-בצפון-הארץ-265678
+https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בטרם-חצתה-לשטח-הארץ-265679
+https://hamal.co.il/main/4-קטינים-נעצרו-באירוע-אלימות-265680
