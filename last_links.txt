@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3832920
-https://hamal.co.il/main/הנקמה-שממשל-טראמפ-שוקל-נגד-נאטו-265068
-https://hamal.co.il/main/אזור-נער-בן-16-נפצע-באורח-קשה-בתאונת-דרכים-265070
+COUNTER:1
 https://news.walla.co.il/break/3832924
 https://hamal.co.il/main/רוכב-אופניים-כבן-60-נפצע-באורח-קשה-מפגיעת-רכב-בקלנסווה-265071
 https://hamal.co.il/main/דיווחים-באיראן-שר-החוץ-נחת-בפקיסטן-265072
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3833756
 https://hamal.co.il/main/תמונות-ראשונות-חושפות-כך-ייראו-המשקפיים-החכמים-של-סמסונג-265538
 https://news.walla.co.il/break/3833764
 https://hamal.co.il/main/מטרה-אוו-265542
+https://news.walla.co.il/break/3833774
+https://news.walla.co.il/break/3833778
+https://hamal.co.il/main/אחרי-חודשיים-של-הפסקה-נתניהו-מעיד-בבית-המשפט-בתיק-4000-265548
