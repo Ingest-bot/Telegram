@@ -1,5 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/break/3832881
 https://hamal.co.il/main/כעת-צה״ל-תוקף-בדרום-לבנון-265038
 https://hamal.co.il/main/חילוץ-שני-פצועים-בתאונת-דרכים-בבני-ברק-265036
 https://hamal.co.il/main/חודש-וחצי-לפני-אלין-כהן-ובר-לוי-נפרדו-וביטלו-את-החתונה-265043
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833701
 https://news.walla.co.il/break/3833706
 https://news.walla.co.il/break/3833704
 https://news.walla.co.il/item/3833703
+https://news.walla.co.il/break/3833707
