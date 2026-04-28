@@ -1,11 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3832953
-https://hamal.co.il/main/סופש-נעים-חם-מהרגיל-לעונה-בעיקר-בהרים-ובפנים-הארץ-265092
-https://news.walla.co.il/break/3832961
-https://news.walla.co.il/break/3832963
-https://news.walla.co.il/break/3832967
-https://hamal.co.il/main/צעיר-כבן-20-נפצע-מיידוי-אבנים-סמוך-לכפר-מנדא-265094
-https://hamal.co.il/main/דני-אבדיה-שבר-שן-ברשת-זעמו-איך-זו-עבירה-שלו-265097
+COUNTER:11
 https://news.walla.co.il/break/3832971
 https://news.walla.co.il/break/3832974
 https://hamal.co.il/main/דובר-צהל-בהודעה-דחופה-לתושבי-דרום-לבנון-למען-בטחונכם-265098
@@ -499,3 +492,10 @@ https://hamal.co.il/main/דיווח-קטאר-הבטיחה-לתובע-בהאג---
 https://hamal.co.il/main/לפיד-לבנט-מוכן-לעבור-למקום-ה-3-ברשימה-לטובת-איחוד-עם-איזנקו-265574
 https://news.walla.co.il/break/3833832
 https://hamal.co.il/main/מחיר-הנפט-מזנק-ל-109-דולר-מיצר-הורמוז-הפך-לשטח-רפאים-265559
+https://news.walla.co.il/break/3833846
+https://news.walla.co.il/break/3833847
+https://news.walla.co.il/break/3833848
+https://news.walla.co.il/item/3833844
+https://news.walla.co.il/item/3833841
+https://hamal.co.il/main/בבית-או-במכון-5-התרגילים-הכי-יעילים-לחיזוק-שרירי-הגב-265566
+https://hamal.co.il/main/מתיחות-עם-אוקראינה-זלנסקי-מאיים-בסנקציות-נגד-ישראל-265588
