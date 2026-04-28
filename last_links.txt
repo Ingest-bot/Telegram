@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3832924
-https://hamal.co.il/main/רוכב-אופניים-כבן-60-נפצע-באורח-קשה-מפגיעת-רכב-בקלנסווה-265071
-https://hamal.co.il/main/דיווחים-באיראן-שר-החוץ-נחת-בפקיסטן-265072
-https://news.walla.co.il/break/3832928
-https://news.walla.co.il/break/3832929
+COUNTER:2
 https://hamal.co.il/main/צהל-ממשיך-לתקוף-משגרים-של-ארגון-הטרור-חיזבאללה-בדרום-לבנון-265075
 https://hamal.co.il/main/טראמפ-״איראן-מתכננת-להגיש-הצעה-שעונה-על-דרישותינו״-265076
 https://news.walla.co.il/item/3832928
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מטרה-אוו-265542
 https://news.walla.co.il/break/3833774
 https://news.walla.co.il/break/3833778
 https://hamal.co.il/main/אחרי-חודשיים-של-הפסקה-נתניהו-מעיד-בבית-המשפט-בתיק-4000-265548
+https://news.walla.co.il/break/3833783
+https://news.walla.co.il/break/3833781
+https://news.walla.co.il/break/3833789
+https://news.walla.co.il/item/3833782
+https://hamal.co.il/main/מבצע-ארצי-נגד-פשיעת-נוער-תגבור-כוחות-ופעילות-ממוקדת-265552
