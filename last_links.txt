@@ -1,5 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/כוחות-צהל-חיסלו-מחבלים-חמושים-מארגון-הטרור-חמאס-בצפון-רצועת-265083
+COUNTER:4
 https://news.walla.co.il/break/3832938
 https://news.walla.co.il/break/3832942
 https://hamal.co.il/main/הדובר-האיראני-טוען-כי-לא-מתוכננות-פגישות-עם-ארהב-בפקיסטן-265085
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3833796
 https://news.walla.co.il/break/3833797
 https://news.walla.co.il/break/3833799
 https://hamal.co.il/main/דימום-מהאף-הטעות-הגדולה-שאתם-עושים-שיכולה-להוביל-לחנק-265545
+https://hamal.co.il/main/מכת-הפרוטקשן-בענף-הבנייה-בדרום-אין-אחד-שלא-משלם-265556
