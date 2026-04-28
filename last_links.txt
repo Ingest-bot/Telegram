@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3832971
-https://news.walla.co.il/break/3832974
-https://hamal.co.il/main/דובר-צהל-בהודעה-דחופה-לתושבי-דרום-לבנון-למען-בטחונכם-265098
+COUNTER:12
 https://news.walla.co.il/item/3832977
 https://hamal.co.il/main/תמרור-אזהרה-הדולר-עלול-להכניס-את-ההייטק-לסחרור-265100
 https://news.walla.co.il/item/3832981
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3833844
 https://news.walla.co.il/item/3833841
 https://hamal.co.il/main/בבית-או-במכון-5-התרגילים-הכי-יעילים-לחיזוק-שרירי-הגב-265566
 https://hamal.co.il/main/מתיחות-עם-אוקראינה-זלנסקי-מאיים-בסנקציות-נגד-ישראל-265588
+https://news.walla.co.il/break/3833857
+https://news.walla.co.il/item/3833848
+https://hamal.co.il/main/טבעת-החנק-מתהדקת---ובאיראן-שוקלים-מהלך-קיצוני-265569
