@@ -1,9 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3833021
-https://hamal.co.il/main/דיווח-שר-החוץ-האיראני-עראקצי-עזב-את-פקיסטן-265137
-https://news.walla.co.il/break/3833029
-https://news.walla.co.il/break/3833030
-https://hamal.co.il/main/אזעקות-הופעלו-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-265146
+COUNTER:28
 https://hamal.co.il/main/המשטרה-עצרה-שני-קטינים-בחשד-למעורבות-ברצח-שאירע-אתמול-בבש-265148
 https://hamal.co.il/main/צהל-כטבם-אחד-יורט-אבד-מגע-עם-הכטבפ-השני-265149
 https://news.walla.co.il/item/3833031
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833904
 https://news.walla.co.il/break/3833906
 https://hamal.co.il/main/פלסטיניזציה-ואובדן-שליטה-דוח-מבקר-המדינה-על-הנגב-265617
 https://hamal.co.il/main/גבר-נמשה-מהמים-במצב-אנוש-בחוף-הים-בתא-265619
+https://news.walla.co.il/break/3833910
+https://news.walla.co.il/item/3833906
+https://news.walla.co.il/item/3833912
+https://hamal.co.il/main/צפו-המסר-של-שר-החוץ-הסרבי---בעברית-265621
+https://hamal.co.il/main/טראמפ-אירא-265622
