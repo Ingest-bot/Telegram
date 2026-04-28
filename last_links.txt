@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3833054
-https://news.walla.co.il/break/3833055
-https://news.walla.co.il/break/3833056
-https://hamal.co.il/main/סוריה-תפסה-את-אחד-ממבצעי-הטבח-הקשים-ביותר-תחת-משטר-אסד-265157
-https://news.walla.co.il/break/3833058
+COUNTER:6
 https://news.walla.co.il/item/3833061
 https://hamal.co.il/main/טרגדיה-בשרון-יולדת-בת-35-ותאומיה-נפטרו-לאחר-התמוטטות-בבית-265182
 https://news.walla.co.il/break/3833064
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833954
 https://hamal.co.il/main/כץ-על-השמדת-המנהרה-של-חיזבאללה-265644
 https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265645
 https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265646
+https://news.walla.co.il/break/3833957
+https://news.walla.co.il/break/3833958
+https://news.walla.co.il/item/3833956
+https://news.walla.co.il/item/3833963
+https://hamal.co.il/main/דיווח-איראן-תגיש-הצעה-לסיום-המלחמה-265647
