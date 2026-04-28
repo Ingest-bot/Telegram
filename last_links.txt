@@ -1,11 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/המשטרה-עצרה-שני-קטינים-בחשד-למעורבות-ברצח-שאירע-אתמול-בבש-265148
-https://hamal.co.il/main/צהל-כטבם-אחד-יורט-אבד-מגע-עם-הכטבפ-השני-265149
-https://news.walla.co.il/item/3833031
-https://hamal.co.il/main/יור-קו-העימות-זה-לא-הפסקת-אש---זה-אולי-אש-בלי-הפסקה-265150
-https://hamal.co.il/main/הסלמה-בלבנון-תוכנית-חיזבאללה-לשחיקת-הישגי-צהל-ופירוק-המומ-265142
-https://news.walla.co.il/break/3833032
-https://news.walla.co.il/break/3833033
+COUNTER:31
 https://news.walla.co.il/break/3833034
 https://news.walla.co.il/item/3833035
 https://hamal.co.il/main/צהל-ממשיך-בתקיפת-תשתיות-של-חיזבאללה-ברחבי-דרום-לבנון-265154
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3833906
 https://news.walla.co.il/item/3833912
 https://hamal.co.il/main/צפו-המסר-של-שר-החוץ-הסרבי---בעברית-265621
 https://hamal.co.il/main/טראמפ-אירא-265622
+https://news.walla.co.il/break/3833913
+https://news.walla.co.il/item/3833914
+https://news.walla.co.il/item/3833917
+https://news.walla.co.il/item/3833910
+https://hamal.co.il/main/גנב-אמבולנס-כי-לא-היה-מרוצה-מהטיפול-אישום-נגד-תושב-זמר-265623
+https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בגליל-265624
+https://hamal.co.il/main/בן-גביר-על-דוח-המבקר-שקר-גס-הנתונים-מעוותים-265625
