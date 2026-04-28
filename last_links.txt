@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3833000
-https://news.walla.co.il/break/3833001
-https://news.walla.co.il/item/3832979
-https://news.walla.co.il/item/3833007
+COUNTER:20
 https://hamal.co.il/main/תפקיד-חייו-אייל-ברקוביץ-סבא-265119
 https://news.walla.co.il/break/3833009
 https://news.walla.co.il/item/3833013
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בני-משפחתו-של-דסטאו-צקול-שנרצח
 https://news.walla.co.il/break/3833876
 https://hamal.co.il/main/ביסמוט-המשטר-האיראני-עומד-לשלם-מחיר-כבד-מאוד-265608
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-לבית-אורן-265610
+https://news.walla.co.il/break/3833881
+https://news.walla.co.il/item/3833882
+https://news.walla.co.il/item/3833880
+https://hamal.co.il/main/נבחרת-ישראל-בצירלידינג-זכתה-במדליית-ארד-בזירה-הבינלאומית-265613
