@@ -1,9 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/תיעודים-מעצרת-לזכרו-של-ימנו-זלקה-זל-שרצח-בפתח-תקווה-265176
-https://news.walla.co.il/break/3833053
-https://hamal.co.il/main/צהל-על-ההתרעה-במלכיה-זוהתה-מטרה-אווירית-חשודה-265177
-https://hamal.co.il/main/ילד-בן-10-נפצע-קשה-מפגיעת-רכב-בכפר-מנדא-265178
-https://hamal.co.il/main/נתניהו-הורה-לצהל-לתקוף-בעוצמה-בלבנון-265179
+COUNTER:5
 https://news.walla.co.il/break/3833054
 https://news.walla.co.il/break/3833055
 https://news.walla.co.il/break/3833056
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833947
 https://news.walla.co.il/break/3833949
 https://news.walla.co.il/break/3833950
 https://hamal.co.il/main/נתניהו-שוחח-עם-משפחתו-של-ימנו-זלקה-265643
+https://news.walla.co.il/break/3833952
+https://news.walla.co.il/break/3833954
+https://hamal.co.il/main/כץ-על-השמדת-המנהרה-של-חיזבאללה-265644
+https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265645
+https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265646
