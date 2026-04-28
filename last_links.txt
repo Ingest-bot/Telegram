@@ -1,5 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3832977
+COUNTER:13
 https://hamal.co.il/main/תמרור-אזהרה-הדולר-עלול-להכניס-את-ההייטק-לסחרור-265100
 https://news.walla.co.il/item/3832981
 https://hamal.co.il/main/6-קטינים-נעצרו-בחשד-לרצח-בנימין-זליקה-בן-ה-21-בפתח-תקווה-265106
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מתיחות-עם-אוקראינה-זלנסקי-מאי�
 https://news.walla.co.il/break/3833857
 https://news.walla.co.il/item/3833848
 https://hamal.co.il/main/טבעת-החנק-מתהדקת---ובאיראן-שוקלים-מהלך-קיצוני-265569
+https://hamal.co.il/main/הכלכלן-הבכיר-שאול-מרידור-מצטרף-למפלגתו-של-איזנקוט-265591
