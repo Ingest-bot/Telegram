@@ -1,9 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/צהל-תקף-מבנים-צבאיים-של-ארגון-הטרור-חיזבאללה-בכפר-דיס-עמס---265054
-https://hamal.co.il/main/אחרי-דקירת-הנער-במברג-בת״א-5-קטינים-נעצרו--המשטרה-״צפויים-265055
-https://news.walla.co.il/break/3832895
-https://hamal.co.il/main/נתניהו-״הבטחתי-לכם-שנשנה-את-פני-המזרח-התיכון״-265058
-https://hamal.co.il/main/סוף-עצוב-מתה-מפצעיה-בת-ה-11-שנפגעה-מפגיעת-טיל-איראני-בבני-ב-265059
+COUNTER:34
 https://hamal.co.il/main/אירוע-אלימות-סמוך-לכנרת-גבר-כבן-30-נפצע-באורח-בינוני-265060
 https://news.walla.co.il/item/3832896
 https://news.walla.co.il/item/3832873
@@ -499,3 +494,8 @@ https://hamal.co.il/main/זה-הרחפן-החדש-של-חיזבאללה-שמקש
 https://news.walla.co.il/item/3833721
 https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בלבנון-265524
 https://hamal.co.il/main/פיצה-האט-תשלם-את-משכורתו-של-בנימין-זלקה-זל-למשפחתו-265527
+https://news.walla.co.il/break/3833734
+https://news.walla.co.il/break/3833729
+https://news.walla.co.il/break/3833735
+https://hamal.co.il/main/השיחות-במבוי-סתום-טראמפ-לא-מרוצה-מההצעה-האיראנית-265530
+https://hamal.co.il/main/כוחותינו-השמידו-265531
