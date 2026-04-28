@@ -1,9 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/צהל-שני-שיגורים-נורו-מלבנון-לעבר-הגליל-העליון-אין-נפגעים-265131
-https://hamal.co.il/main/צהל-חיסל-יותר-מ-15-מחבלים-בדרום-לבנון-במהלך-סוף-השבוע-265134
-https://news.walla.co.il/break/3833024
-https://news.walla.co.il/break/3833022
-https://news.walla.co.il/break/3833025
+COUNTER:26
 https://news.walla.co.il/item/3833021
 https://hamal.co.il/main/דיווח-שר-החוץ-האיראני-עראקצי-עזב-את-פקיסטן-265137
 https://news.walla.co.il/break/3833029
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3833889
 https://hamal.co.il/main/החלטה-דרמטית-איחוד-האמירויות-פורשת-מארגון-המדינות-המייצאות-265615
 https://news.walla.co.il/item/3833896
 https://hamal.co.il/main/תושב-רמלה-נעצר-בחשד-ששדד-תחנת-דלק-באיומי-סכין-265616
+https://news.walla.co.il/break/3833903
+https://news.walla.co.il/break/3833904
+https://news.walla.co.il/break/3833906
+https://hamal.co.il/main/פלסטיניזציה-ואובדן-שליטה-דוח-מבקר-המדינה-על-הנגב-265617
+https://hamal.co.il/main/גבר-נמשה-מהמים-במצב-אנוש-בחוף-הים-בתא-265619
