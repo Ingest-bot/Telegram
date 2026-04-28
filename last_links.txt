@@ -1,7 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/כ-20-חשודים-פרצו-לשטח-צבאי-סגור-במחנה-הפליטים-גנין-רובם-נעצ-265113
-https://hamal.co.il/main/בדירת-מסתור-החשוד-המרכזי-ברצח-זלקה-נעצר-לאחר-ניסיון-הימלטות-265117
-https://news.walla.co.il/break/3832999
+COUNTER:19
 https://news.walla.co.il/break/3833000
 https://news.walla.co.il/break/3833001
 https://news.walla.co.il/item/3832979
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3833866
 https://hamal.co.il/main/רכב-פגע-בהולכי-רגל-בסחנין-שניים-נפצעו-קשה-265597
 https://hamal.co.il/main/כוחותינו-השמידו-תוואי-תת-קרקעי-ואמלח-רב-של-חיזבאללה-265603
 https://hamal.co.il/main/בני-משפחתו-של-דסטאו-צקול-שנרצח-בבש-מאיפה-האכזריות-הזאת-265583
+https://news.walla.co.il/break/3833876
+https://hamal.co.il/main/ביסמוט-המשטר-האיראני-עומד-לשלם-מחיר-כבד-מאוד-265608
+https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-לבית-אורן-265610
