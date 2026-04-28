@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/כוחותינו-חיסלו-מחבלי-חמאס-שתכננו-לבצע-מתווי-טרור-265168
-https://hamal.co.il/main/אישה-כבת-50-נפצעה-אנוש-לאחר-שנמשתה-מהמים-בחוף-בקריית-ים-265169
+COUNTER:1
 https://hamal.co.il/main/ילד-בן-6-נפצע-קשה-מעקיצת-עקרב-בנגב-265170
 https://news.walla.co.il/break/3833049
 https://news.walla.co.il/break/3833051
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אשדוד-265636
 https://hamal.co.il/main/צהל-הופעלו-אזעקות-במשגב-עם-הפרטים-בבדיקה-265638
 https://hamal.co.il/main/נטלי-דדון-בכנס-265639
 https://hamal.co.il/main/גיבורות-היום-265640
+https://hamal.co.il/main/לאחר-אזהרת-צהל-מנהרה-ענקית-של-חיזבאללה-הושמדה-בלבנון-265641
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-שוגרו-מיירטים-התוצאות-בבדיקה-265642
