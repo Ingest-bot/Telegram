@@ -1,8 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3833036
-https://hamal.co.il/main/רצח-ימנו-זלקה-בפיצרייה-שני-חשודים-כבני-12-שוחררו-למעצר-בית-265161
-https://hamal.co.il/main/כוחותינו-איתרו-מצבור-טילי-נט-של-חיזבאללה-בדרום-לבנון-265164
-https://news.walla.co.il/break/3833041
+COUNTER:35
 https://hamal.co.il/main/טראמפ-יש-מאבקי-כוח-ובלבול-עצומים-בתוך-ההנהגה-האיראנית-265165
 https://hamal.co.il/main/טרור-העפיפונים-חוזר-התושבים-המציאות-הביטחונית-לא-השתנתה-265126
 https://hamal.co.il/main/חדשות-השבת-265167
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-חיזבאללה-שיגר-כטבמים-לעבר-
 https://news.walla.co.il/break/3833922
 https://news.walla.co.il/break/3833924
 https://news.walla.co.il/break/3833926
+https://news.walla.co.il/item/3833933
+https://news.walla.co.il/item/3833934
+https://hamal.co.il/main/חלמתי-לגור-בארמון-הקשר-המשפחתי-של-טראמפ-למלך---והתגובה-265630
+https://hamal.co.il/main/והרי-החדשות-ברהנו-טגניה-ובת-הזוגחושפים-את-השמות-שבחרו-לילדי-265618
