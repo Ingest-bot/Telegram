@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/גבר-נכווה-מטרקטור-שעלה-באש-סמוך-לכרמי-יוסף-מצבו-קשה-265122
-https://news.walla.co.il/break/3833015
-https://news.walla.co.il/break/3833014
+COUNTER:23
 https://news.walla.co.il/break/3833016
 https://hamal.co.il/main/הפסקת-אש-אזעקות-בשורה-של-ישובים-בגליל-העליון-265130
 https://hamal.co.il/main/צהל-שני-שיגורים-נורו-מלבנון-לעבר-הגליל-העליון-אין-נפגעים-265131
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833884
 https://news.walla.co.il/break/3833886
 https://hamal.co.il/main/רשת-הפארם-החדשה-שרוצה-לשבור-את-השוק-265596
 https://hamal.co.il/main/אשר-בן-עוז-ממשיך-להסתבך-האיש-והפוסקאס-בדרך-לכלא-265586
+https://news.walla.co.il/break/3833891
+https://news.walla.co.il/item/3833889
+https://hamal.co.il/main/החלטה-דרמטית-איחוד-האמירויות-פורשת-מארגון-המדינות-המייצאות-265615
