@@ -1,9 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/כוחות-צהל-מחטיבת-הצנחנים-חיסלו-שישה-מחבלים-בבינת-גבייל-265061
-https://hamal.co.il/main/דיווח-וויטקוף-וקושנר-יוצאים-לשיחות-עם-עראקצ׳י-בפקיסטן-265062
-https://news.walla.co.il/item/3832901
-https://hamal.co.il/main/עם-כל-הלהיטים-כוכב-הנוער-חגג-16-במופע-מיוחד--צפו-265065
-https://news.walla.co.il/break/3832907
+COUNTER:38
 https://hamal.co.il/main/המערכה-החשאית-כך-פועל-המוסד-לסיכול-שיקום-תעשיות-הטילים-באיר-265066
 https://hamal.co.il/main/ילד-בן-7-נפצע-באורח-קשה-באירוע-אלימות-ברהט-265067
 https://news.walla.co.il/break/3832916
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3833740
 https://news.walla.co.il/item/3833744
 https://hamal.co.il/main/בצהל-מתחקרים-משפחות-שכולות-הוכנסו-לאזור-לא-מטוהר-בלבנון-265517
 https://hamal.co.il/main/אחרי-שביקש-מהעוקבים-להתפלל---איתי-לוי-מעדכן-במצבה-של-אמו-265520
+https://news.walla.co.il/break/3833745
+https://news.walla.co.il/break/3833751
+https://news.walla.co.il/item/3833749
+https://hamal.co.il/main/ראש-המוסד-״השגנו-מודיעין-אסטרטגי-וטקטי-בליבת-הסוד-של-האויב-265535
+https://hamal.co.il/main/הסוד-של-בני-ה־100-המזון-הפשוט-שיכול-להאריך-חיים-265541
