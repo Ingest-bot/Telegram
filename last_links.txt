@@ -1,7 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/עושות-דרמה-הפועל-בש-וביתר-ירושלים-נפרדו-ב-22-במשחק-העונה-265191
-https://news.walla.co.il/item/3833071
-https://hamal.co.il/main/דיווחים-צהל-תוקף-בשורה-של-כפרים-בדרום-לבנון-265195
+COUNTER:14
 https://news.walla.co.il/break/3833083
 https://news.walla.co.il/break/3833078
 https://news.walla.co.il/item/3833076
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3833968
 https://news.walla.co.il/break/3833969
 https://hamal.co.il/main/פיקוד-העורף-המדיניות-נותרת-ללא-שינוי-עד-יום-חמישי-265652
 https://hamal.co.il/main/נתניהו-265653
+https://hamal.co.il/main/האלימות-לא-מפסיקה-בן-12-זרק-אבן-על-נער-265654
+https://hamal.co.il/main/שריפה-פרצה-בבניין-מגורים-בביתר-עילית-7-פצועים-פונו-במצב-קל-265655
+https://hamal.co.il/main/חכ-מיש-עתיד-חוזר-בו-נשאר-כחבר-במפלגה-265656
