@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/תמרור-אזהרה-הדולר-עלול-להכניס-את-ההייטק-לסחרור-265100
-https://news.walla.co.il/item/3832981
-https://hamal.co.il/main/6-קטינים-נעצרו-בחשד-לרצח-בנימין-זליקה-בן-ה-21-בפתח-תקווה-265106
-https://news.walla.co.il/break/3832986
+COUNTER:14
 https://news.walla.co.il/break/3832988
 https://hamal.co.il/main/דיווחים-באיראן-הוצא-להורג-אדם-שהואשם-בריגול-265110
 https://news.walla.co.il/break/3832991
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3833857
 https://news.walla.co.il/item/3833848
 https://hamal.co.il/main/טבעת-החנק-מתהדקת---ובאיראן-שוקלים-מהלך-קיצוני-265569
 https://hamal.co.il/main/הכלכלן-הבכיר-שאול-מרידור-מצטרף-למפלגתו-של-איזנקוט-265591
+https://news.walla.co.il/item/3833854
+https://news.walla.co.il/item/3833859
+https://news.walla.co.il/item/3833861
+https://hamal.co.il/main/למה-עדיין-קיים-טלפון-קווי-בחדרי-המלון-מסתבר-שיש-סיבות-טובות-265579
