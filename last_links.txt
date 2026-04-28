@@ -1,6 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3833016
-https://hamal.co.il/main/הפסקת-אש-אזעקות-בשורה-של-ישובים-בגליל-העליון-265130
+COUNTER:24
 https://hamal.co.il/main/צהל-שני-שיגורים-נורו-מלבנון-לעבר-הגליל-העליון-אין-נפגעים-265131
 https://hamal.co.il/main/צהל-חיסל-יותר-מ-15-מחבלים-בדרום-לבנון-במהלך-סוף-השבוע-265134
 https://news.walla.co.il/break/3833024
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אשר-בן-עוז-ממשיך-להסתבך-האיש-ו�
 https://news.walla.co.il/break/3833891
 https://news.walla.co.il/item/3833889
 https://hamal.co.il/main/החלטה-דרמטית-איחוד-האמירויות-פורשת-מארגון-המדינות-המייצאות-265615
+https://news.walla.co.il/item/3833896
+https://hamal.co.il/main/תושב-רמלה-נעצר-בחשד-ששדד-תחנת-דלק-באיומי-סכין-265616
