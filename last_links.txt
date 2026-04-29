@@ -1,8 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3833412
-https://news.walla.co.il/break/3833411
-https://news.walla.co.il/break/3833410
-https://news.walla.co.il/break/3833413
+COUNTER:25
 https://news.walla.co.il/item/3833401
 https://hamal.co.il/main/את-מקריאה-את-הזבל-הזה-מאדם-חולה-טראמפ-תקף-את-המראיינת-עיד-265373
 https://hamal.co.il/main/נתניהו-קבע-ההילולה-במירון-תיערך-במתכונת-מצומצמת-אבי-סולומון-265374
@@ -499,3 +495,7 @@ https://hamal.co.il/main/המחבל-מנסה-להימלט-על-האופנוע---
 https://news.walla.co.il/break/3834243
 https://hamal.co.il/main/פשיטה-על-בית-עסק-נגמרה-במעצר-של-5-שב״חים-265779
 https://hamal.co.il/main/מוסדות-שלא-הסדירו-מעמד-של-חייבי-גיוס-לא-יהנו-מזיכוי-מס-265780
+https://news.walla.co.il/break/3834245
+https://news.walla.co.il/break/3834247
+https://hamal.co.il/main/בן-גביר-לא-מאשר-את-מתווה-פיקוד-העורך-לקיום-ההילולה-במירון-265781
+https://hamal.co.il/main/משטרת-בריטניה-הפיגוע-בלונדון---אירוע-טרור-265782
