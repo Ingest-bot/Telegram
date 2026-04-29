@@ -1,12 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3833112
-https://hamal.co.il/main/גבר-וילד-אותרו-ללא-רוח-חיים-בבית-במעוצה-איזורית-אלונה-265226
-https://hamal.co.il/main/ארהב-ה-FBI-יוביל-את-חקירת-הירי-בארוחת-כתבי-הבית-הלבן-265225
-https://hamal.co.il/main/השחקן-שורד-השואה-דניאל-לוז-הלך-לעולמו-בגיל-92-265231
-https://news.walla.co.il/item/3833119
-https://hamal.co.il/main/תיעוד-דרמטי-מרגעי-הפינוי-המאבטחים-מזנקים-על-טראמפ---שנופל-265232
-https://hamal.co.il/main/האירוע-סמוך-265233
-https://hamal.co.il/main/הרקע-הפוליטי-והניסיון-באקדמיה-הפרטים-של-זהות-החשוד-בירי-בוו-265234
+COUNTER:35
 https://news.walla.co.il/break/3833135
 https://news.walla.co.il/break/3833138
 https://news.walla.co.il/break/3833141
@@ -499,3 +491,11 @@ https://hamal.co.il/main/4-קטינים-נעצרו-באירוע-אלימות-265
 https://hamal.co.il/main/פסז׳-ניצחה-45-את-באיירן-מינכן-בחצי-גמר-ליגת-האלופות-265681
 https://news.walla.co.il/break/3833998
 https://hamal.co.il/main/איים-על-חיי-הנשיא-כתב-אישום-נגד-ראש-ה-FBI-לשעבר-גיימס-קומי-265682
+https://news.walla.co.il/break/3834001
+https://news.walla.co.il/break/3834000
+https://news.walla.co.il/break/3834006
+https://news.walla.co.il/break/3834015
+https://news.walla.co.il/item/3833972
+https://hamal.co.il/main/ארהב-ומדינות-נוספות-מגבות-את-פנמה-סין-מערערת-על-הריבונות-265683
+https://hamal.co.il/main/בריטניה-שוקלת-התערבות-כלכלית-בשל-השפעות-המלחמה-נגד-איראן-265684
+https://hamal.co.il/main/טראמפ-המלך-צארלס-ואני-לא-נאפשר-לאיראן-להשיג-נשק-גרעיני-265685
