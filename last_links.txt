@@ -1,13 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/תינוק-איבד-את-הכרתו-265238
-https://hamal.co.il/main/הרצח-ברכס-הכרמל-265239
-https://hamal.co.il/main/הגיחה-מהבונקר-המאהבת-הסודית-של-פוטין-תועדה-265236
-https://hamal.co.il/main/אירועי-הירי-באזור-אתר-נבי-שועייב-6-חשודים-נעצרו-265241
-https://news.walla.co.il/break/3833160
-https://news.walla.co.il/item/3833166
-https://hamal.co.il/main/נתניהו-על-ניסיון-ההתנקשות-בטראמפ-המומים-מהאירוע-265243
-https://news.walla.co.il/break/3833172
-https://news.walla.co.il/break/3833176
+COUNTER:3
 https://news.walla.co.il/break/3833179
 https://news.walla.co.il/break/3833184
 https://news.walla.co.il/item/3833183
@@ -499,3 +490,12 @@ https://hamal.co.il/main/נכנסו-למבנה---והותקפו-עם-סכין-ש
 https://news.walla.co.il/item/3834022
 https://hamal.co.il/main/צה״ל-תקף-תשתיות-של-חיזבאללה-במספר-מרחבים-בדרום-לבנון-265691
 https://hamal.co.il/main/דיווח-טראמפ-נערך-להארכת-המצור-הכלכלי-על-איראן-265694
+https://news.walla.co.il/break/3834026
+https://news.walla.co.il/break/3834024
+https://news.walla.co.il/break/3834023
+https://news.walla.co.il/break/3834027
+https://news.walla.co.il/break/3834028
+https://news.walla.co.il/item/3834009
+https://news.walla.co.il/item/3834025
+https://hamal.co.il/main/רוכב-אופנוע-נפצע-סמוך-למחלף-כפר-סבא-מצבו-אנוש-265696
+https://hamal.co.il/main/בשל-לוז-ביטחוני-נתניהו-ביקש-לקצר-את-עדותו---ונדחה-265698
