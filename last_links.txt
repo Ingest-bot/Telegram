@@ -1,9 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/איחוד-בנט-לפיד-זה-שם-המפלגה-החדש-שלהם-265326
-https://news.walla.co.il/break/3833314
-https://news.walla.co.il/item/3833213
-https://hamal.co.il/main/אחרי-ששיתפה-על-הקושי-הכלכלי-הצעד-המפתיע-של-ליאת-אחירון-265328
-https://news.walla.co.il/item/3833317
+COUNTER:0
 https://hamal.co.il/main/אחרי-עשור-לצד-נתניהו-הרכש-החדש-של-בן-גביר-265330
 https://news.walla.co.il/break/3833320
 https://hamal.co.il/main/דודו-רצח-את-בנו-סער-והתאבד-הישוב-בהלם-לא-ידענו-על-בעיות-265334
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הניצחון-המוחלט-אלקנה-בוחבוט-ו�
 https://news.walla.co.il/break/3834167
 https://hamal.co.il/main/אותרו-תמונותיו-האחרונות-של-הלוחם-למשימות-מיוחדות-שנפל-בדרו-265742
 https://hamal.co.il/main/מחקר-מצא-קשר-אפשרי-בין-תרופות-ההרזיה-265729
+https://news.walla.co.il/break/3834178
+https://news.walla.co.il/item/3834176
+https://hamal.co.il/main/ראשוני-דיווח-על-פיגוע-דקירה-265745
+https://hamal.co.il/main/צעיר-נפצע-בשריפה-שפרצה-בדירה-בצפון-מצבו-קשה-265746
+https://hamal.co.il/main/למרות-הפסקת-האש-הדלק-ממשיך-להתייקר---זה-המחיר-המעודכן-265744
