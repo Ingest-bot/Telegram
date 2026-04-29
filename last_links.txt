@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/נהג-תחת-פסילה-265427
-https://news.walla.co.il/break/3833501
-https://news.walla.co.il/break/3833499
+COUNTER:14
 https://news.walla.co.il/break/3833502
 https://hamal.co.il/main/אחרי-ביטול-העדות-נתניהו-מקיים-התייעצויות-ביטחוניות-265429
 https://hamal.co.il/main/לא-לסבך-אותי-נהג-בפסילה-בפעם-ה-3-ונעצר-265431
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834319
 https://news.walla.co.il/item/3834318
 https://hamal.co.il/main/במשט-לעזה-טוענים-אנחנו-מותקפים-על-ידי-סירות-צבא-ישראליות-יו-265823
 https://hamal.co.il/main/תיעוד-מסירות-המשט-לעזה-באזור-איי-יוון-265825
+https://news.walla.co.il/break/3834321
+https://hamal.co.il/main/תיעוד-ישיר-מלב-ים-סירות-המשט-לעזה-מדווחות-בזמן-אמת-265829
+https://hamal.co.il/main/הכוח-נשמע-כורז-״כל-ניסיון-נוסף-להפליג-לעבר-עזה-מסכן-את-ביטח-265830
