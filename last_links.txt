@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/סוף-לסיפור-שניר-בורגיל-ושי-לי-עופרי-התגרשו-רשמית-265414
-https://news.walla.co.il/item/3833480
-https://hamal.co.il/main/הקטטה-בנהריה-7-חשודים-נעצרו-הרקע---265422
+COUNTER:10
 https://news.walla.co.il/break/3833486
 https://news.walla.co.il/item/3833450
 https://hamal.co.il/main/4-מחבלים-שיידו-אבנים-על-בתי-יהודים-265423
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834315
 https://hamal.co.il/main/מחבלים-נורו-בחטיבת-יהודה-לאחר-שיידו-אבנים-לעבר-הכוחות-265816
 https://hamal.co.il/main/עמי-אשד-תובע-265819
 https://hamal.co.il/main/המשט-לעזה-שלח-קריאת-מצוקה-״הסירות-שלנו-הותקפו״-265820
+https://news.walla.co.il/item/3834315
+https://hamal.co.il/main/בסיום-משחק-טעון-בבלומפילד-צעיר-נדקר-באורח-קשה-נער-נפצע-בינ-265821
+https://hamal.co.il/main/ראשוני-כוחות-חיל-הים-פושטים-על-המשט-לעזה-265822
