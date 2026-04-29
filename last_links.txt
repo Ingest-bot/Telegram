@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3833507
-https://news.walla.co.il/break/3833508
+COUNTER:18
 https://hamal.co.il/main/תיבת-נח-נמצאה-265403
 https://hamal.co.il/main/ראשוני-תלמיד-נדקר-בבית-ספר-בגבעתיים-265435
 https://news.walla.co.il/break/3833514
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834333
 https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-בארי-הפרטים-בבדיקה-265832
 https://hamal.co.il/main/האזעקה-בבארי-דווא-265834
 https://hamal.co.il/main/חיל-האוויר-יצר-קשר-עם-ספינת-גרינפיס-מהמשט-לעזה-יואב-איתיאל-265835
+https://news.walla.co.il/break/3834334
+https://hamal.co.il/main/ממטה-המשט-נמסר-כי-נכון-לשעה-זו-אבד-הקשר-עם-11-כלי-שיט--״קור-265836
