@@ -1,9 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3833376
-https://hamal.co.il/main/לזכר-ימנו-היכל-ספורט-יוקם-סמוך-לזירת-הרצח-ויישא-את-שמו-265359
-https://news.walla.co.il/break/3833381
-https://news.walla.co.il/break/3833383
-https://hamal.co.il/main/צהל-נערך-להסלמה-אלו-הנחיות-פיקוד-העורף-המועדכנות-ליישובי-ק-265360
+COUNTER:17
 https://news.walla.co.il/break/3833386
 https://news.walla.co.il/break/3833391
 https://hamal.co.il/main/תיעוד-דרמטי-פיצוץ-רחפן-הנפץ-בדרום-לבנון-סמוק-למסוק-פינוי-265365
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3834230
 https://news.walla.co.il/break/3834229
 https://news.walla.co.il/item/3834225
 https://news.walla.co.il/item/3834227
+https://news.walla.co.il/item/3834229
+https://hamal.co.il/main/רוכב-קורקינט-חשמלי-נהרג-מפגיעת-מרכב-בכביש-4-דרום-265767
+https://hamal.co.il/main/לשכת-רה״מ-נתניהו-לא-צפוי-לצאת-לארה״ב-בשבוע-הבא-265768
+https://hamal.co.il/main/הקבינט-המצומצם-מכונס-בקריה-265769
+https://hamal.co.il/main/ההתרעות-במשגב-עם---זיהוי-שווא-265770
