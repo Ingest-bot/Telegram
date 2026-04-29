@@ -1,6 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/הרצח-בפת-אחד-החשודים---בנו-של-בכיר-במערכת-הביטחון-265263
-https://news.walla.co.il/break/3833228
+COUNTER:16
 https://news.walla.co.il/item/3833226
 https://hamal.co.il/main/דיווח-הרצוג-החליט-שלא-להעניק-חנינה-לנתניהו-265265
 https://hamal.co.il/main/הרצוג-מאשר-מעוניין-להגיע-להסדר-לפני-הדיון-בבקשת-החנינה-265266
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834088
 https://hamal.co.il/main/צהל-חיסלנו-בכיר-במטה-המודיעין-של-החמאס-265707
 https://hamal.co.il/main/בגיל-80-האמן-יאיר-גרבוז-הלך-לעולמו-265711
 https://hamal.co.il/main/חשד-לניסיון-התאבדות-ורצח-ברמלה-265713
+https://news.walla.co.il/item/3834088
+https://hamal.co.il/main/נזירה-הותק-265714
