@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3833461
+COUNTER:5
 https://news.walla.co.il/item/3833462
 https://hamal.co.il/main/11-חשודים-נעצרו-265415
 https://hamal.co.il/main/מומחה-לאיראן-265416
@@ -499,3 +498,4 @@ https://hamal.co.il/main/רה״מ-בריטניה-״מודאג-מאוד-מהפי�
 https://news.walla.co.il/break/3834304
 https://news.walla.co.il/break/3834306
 https://hamal.co.il/main/מה-יכול-לעצור-את-רחפני-חיזבאללה-265811
+https://hamal.co.il/main/בנט-הצעתי-להתראיין-לערוץ-14---והם-סירבו-265815
