@@ -1,7 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/מפוקח-מין-מצפת-חשוד-שניסה-לפגוש-קטינה-בקריית-ארבע---ונעצר-265259
-https://news.walla.co.il/break/3833212
-https://news.walla.co.il/item/3833215
+COUNTER:12
 https://news.walla.co.il/item/3833216
 https://news.walla.co.il/item/3833219
 https://hamal.co.il/main/הממשלה-אישרה-ציפי-חוטובולי-265260
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פעילות-צהל-בדרום-לבנון-2-מחבלי�
 https://hamal.co.il/main/בן-60-התלונן-265703
 https://hamal.co.il/main/2-ילדים-נפצעו-באורח-קשה-ובינוני-באירוע-אלימות-בנגב-265704
 https://hamal.co.il/main/מכת-נמלים-במטבח-האם-התבלין-הפופולרי-בארון-שלכם-הוא-הפתרון-265699
+https://news.walla.co.il/break/3834077
+https://hamal.co.il/main/צהל-יורטה-265706
+https://hamal.co.il/main/שבח-ניסה-להימלט-ממעצר---265705
