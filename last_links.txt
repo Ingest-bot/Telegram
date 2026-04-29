@@ -1,6 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3833184
-https://news.walla.co.il/item/3833183
+COUNTER:4
 https://hamal.co.il/main/גופת-גבר-אותרה-בראשון-לציון-265249
 https://hamal.co.il/main/אירוע-הירי-סמוך-לבנימינה-החשד-שהוביל-265248
 https://news.walla.co.il/break/3833191
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834025
 https://hamal.co.il/main/רוכב-אופנוע-נפצע-סמוך-למחלף-כפר-סבא-מצבו-אנוש-265696
 https://hamal.co.il/main/בשל-לוז-ביטחוני-נתניהו-ביקש-לקצר-את-עדותו---ונדחה-265698
 https://news.walla.co.il/break/3834035
+https://news.walla.co.il/break/3834042
+https://hamal.co.il/main/חתן-פרס-נובל-קובע-בעוד-כמה-עשורים-לא-יישארו-בני-אדם-על-כדור-265695
