@@ -1,5 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/break/3833502
 https://hamal.co.il/main/אחרי-ביטול-העדות-נתניהו-מקיים-התייעצויות-ביטחוניות-265429
 https://hamal.co.il/main/לא-לסבך-אותי-נהג-בפסילה-בפעם-ה-3-ונעצר-265431
 https://hamal.co.il/main/מזכל-חיזבאללה--265433
@@ -499,3 +498,4 @@ https://hamal.co.il/main/תיעוד-מסירות-המשט-לעזה-באזור-א
 https://news.walla.co.il/break/3834321
 https://hamal.co.il/main/תיעוד-ישיר-מלב-ים-סירות-המשט-לעזה-מדווחות-בזמן-אמת-265829
 https://hamal.co.il/main/הכוח-נשמע-כורז-״כל-ניסיון-נוסף-להפליג-לעבר-עזה-מסכן-את-ביטח-265830
+https://news.walla.co.il/break/3834330
