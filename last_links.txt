@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3833141
-https://news.walla.co.il/item/3833139
-https://hamal.co.il/main/ארון-הברית-הסתתר-מתחת-לאף-שלנו-כל-הזמן-מחקר-פורץ-דרך-בירושל-265235
+COUNTER:39
 https://news.walla.co.il/break/3833149
 https://news.walla.co.il/item/3833133
 https://hamal.co.il/main/בצהל-החל-קורס-הכשרה-למפקדים-על-חיילים-חרדים-בצהל-265237
@@ -499,3 +496,6 @@ https://hamal.co.il/main/בריטניה-שוקלת-התערבות-כלכלית-�
 https://hamal.co.il/main/טראמפ-המלך-צארלס-ואני-לא-נאפשר-לאיראן-להשיג-נשק-גרעיני-265685
 https://news.walla.co.il/break/3834018
 https://hamal.co.il/main/כוחות-צה״ל-ביצעו-מעצרים-של-חשודים-בקבטיה-265686
+https://hamal.co.il/main/מחבלים-תקפו-2-חיילים-שנפצעו-בחטיבת-בנימין-הכוחות-הגיבו-בירי-265687
+https://hamal.co.il/main/חוזרים-לים-העלייה-בטמפרטורות-מתחילה---לקראת-שיא-בסופש-265689
+https://hamal.co.il/main/נכנסו-למבנה---והותקפו-עם-סכין-שני-לוחמים-נפצעו-בבנימין-265690
