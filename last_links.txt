@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/הירי-בוושינגהחמוש-פרץ-את-המחסומים---והגיע-למרחק-נגיעה-מטראמפ-265386
-https://news.walla.co.il/break/3833428
-https://news.walla.co.il/item/3833429
+COUNTER:37
 https://news.walla.co.il/item/3833427
 https://hamal.co.il/main/גיוס-המונים-למשפחת-ימנו-בנימין-זלקה-מיליון-וחצי-שקל-נתרמו-265387
 https://hamal.co.il/main/בשל-שיקולים-ביטחוניים-עדות-נתניהו-בוטלה-265398
@@ -499,3 +496,6 @@ https://hamal.co.il/main/סוף-לעיצוב-המוכר-סמסונג-עשויה-
 https://hamal.co.il/main/בן-גביר-״אנחנו-דוהרים-בעיניים-פקוחות-לאסון-הבא״-265798
 https://news.walla.co.il/break/3834282
 https://hamal.co.il/main/הרמטכ״ל-בלבנון-״ייתכן-שנידרש-להישאר-על-הקו-שבו-אנו-נמצאים״-265799
+https://news.walla.co.il/break/3834285
+https://hamal.co.il/main/טראמפ-ופוטין-שוחחו-כשעה-וחצי-בין-היתר-על-איראן-265800
+https://hamal.co.il/main/ריסס-גרפיטי---ועלול-לשלם-21-אלף-שקל-העיר-שיוצאת-למאבק-265802
