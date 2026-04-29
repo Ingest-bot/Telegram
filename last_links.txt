@@ -1,8 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/אחרי-עשור-לצד-נתניהו-הרכש-החדש-של-בן-גביר-265330
-https://news.walla.co.il/break/3833320
-https://hamal.co.il/main/דודו-רצח-את-בנו-סער-והתאבד-הישוב-בהלם-לא-ידענו-על-בעיות-265334
-https://news.walla.co.il/item/3833327
+COUNTER:2
 https://news.walla.co.il/break/3833330
 https://news.walla.co.il/break/3833331
 https://news.walla.co.il/item/3833328
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3834176
 https://hamal.co.il/main/ראשוני-דיווח-על-פיגוע-דקירה-265745
 https://hamal.co.il/main/צעיר-נפצע-בשריפה-שפרצה-בדירה-בצפון-מצבו-קשה-265746
 https://hamal.co.il/main/למרות-הפסקת-האש-הדלק-ממשיך-להתייקר---זה-המחיר-המעודכן-265744
+https://news.walla.co.il/break/3834184
+https://news.walla.co.il/item/3834183
+https://hamal.co.il/main/רצח-ימנו-זלקה-265749
+https://hamal.co.il/main/האזעקות-בצפון-265750
