@@ -1,8 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3833372
-https://hamal.co.il/main/ב-2230-ויקטור-וומבניאמה-חוזר-דני-אבדיה-ופורטלנד-יפתיעו-265358
-https://news.walla.co.il/break/3833373
-https://news.walla.co.il/break/3833374
 https://news.walla.co.il/item/3833376
 https://hamal.co.il/main/לזכר-ימנו-היכל-ספורט-יוקם-סמוך-לזירת-הרצח-ויישא-את-שמו-265359
 https://news.walla.co.il/break/3833381
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3834217
 https://news.walla.co.il/break/3834219
 https://hamal.co.il/main/שיחות-השלום-עם-לבנון-״ללא-חיזבאללה-השלום-בהישג-יד״-265763
 https://hamal.co.il/main/התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בבדיקה-265765
+https://news.walla.co.il/break/3834230
+https://news.walla.co.il/break/3834229
+https://news.walla.co.il/item/3834225
+https://news.walla.co.il/item/3834227
