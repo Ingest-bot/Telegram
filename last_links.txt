@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3833135
-https://news.walla.co.il/break/3833138
+COUNTER:36
 https://news.walla.co.il/break/3833141
 https://news.walla.co.il/item/3833139
 https://hamal.co.il/main/ארון-הברית-הסתתר-מתחת-לאף-שלנו-כל-הזמן-מחקר-פורץ-דרך-בירושל-265235
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3833972
 https://hamal.co.il/main/ארהב-ומדינות-נוספות-מגבות-את-פנמה-סין-מערערת-על-הריבונות-265683
 https://hamal.co.il/main/בריטניה-שוקלת-התערבות-כלכלית-בשל-השפעות-המלחמה-נגד-איראן-265684
 https://hamal.co.il/main/טראמפ-המלך-צארלס-ואני-לא-נאפשר-לאיראן-להשיג-נשק-גרעיני-265685
+https://news.walla.co.il/break/3834018
+https://hamal.co.il/main/כוחות-צה״ל-ביצעו-מעצרים-של-חשודים-בקבטיה-265686
