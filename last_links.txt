@@ -1,10 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3833258
-https://news.walla.co.il/break/3833261
-https://news.walla.co.il/break/3833262
-https://news.walla.co.il/break/3833263
-https://hamal.co.il/main/צהל-265297
-https://hamal.co.il/main/צהל-אזעקות-הופעלו-בראש-הנקרה-הפרטים-בבדיקה-265300
+COUNTER:26
 https://hamal.co.il/main/הרצח-בפת-חשוד-נוסף-265305
 https://news.walla.co.il/break/3833268
 https://hamal.co.il/main/האזעקות-בצפון-3-כטבמים-יורטו-בטרם-חצו-לישראל-265307
@@ -499,3 +493,9 @@ https://hamal.co.il/main/חמוש---ומפציץ-באיראן-265728
 https://news.walla.co.il/item/3834124
 https://news.walla.co.il/item/3834120
 https://hamal.co.il/main/התחזו-לישראלים-265730
+https://news.walla.co.il/break/3834133
+https://news.walla.co.il/break/3834135
+https://news.walla.co.il/item/3834125
+https://news.walla.co.il/item/3833563
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הכטבם-לא-חצה-לישראל-265732
+https://hamal.co.il/main/תיעוד-שיכור-הטריד-אישה-בבר-מול-בעלה---שהשכיב-אותו-באגרוף-265700
