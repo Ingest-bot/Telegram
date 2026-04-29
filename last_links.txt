@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3833191
-https://hamal.co.il/main/סגירת-מעגל-חשוד-265252
-https://hamal.co.il/main/בדיקת-צופרים-של-פיקוד-העורף-תתקיים-היום-במרחב-נאעורה-265253
-https://hamal.co.il/main/ניסה-להימלט-ממעצר---ונשך-שוטר-265250
+COUNTER:6
 https://news.walla.co.il/break/3833197
 https://news.walla.co.il/item/3833201
 https://hamal.co.il/main/קשה-לצפייה-תיעוד-הרצח-בפצח-תקווה-265254
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3834042
 https://hamal.co.il/main/חתן-פרס-נובל-קובע-בעוד-כמה-עשורים-לא-יישארו-בני-אדם-על-כדור-265695
 https://news.walla.co.il/break/3834051
 https://hamal.co.il/main/כולנו-נושמים-אויר-מזוהם-מחקר-מצא-איזה-מאכל-מגן-על-הריאות-של-265697
+https://news.walla.co.il/break/3834053
+https://news.walla.co.il/item/3834055
+https://news.walla.co.il/item/3834064
+https://hamal.co.il/main/השר-דיכטר-מודה-אנחנו-מוגבלים-בלבנון-בגלל-השותף-האמריקני-265701
