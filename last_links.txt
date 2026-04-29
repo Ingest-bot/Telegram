@@ -1,8 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3833486
-https://news.walla.co.il/item/3833450
-https://hamal.co.il/main/4-מחבלים-שיידו-אבנים-על-בתי-יהודים-265423
-https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265426
+COUNTER:12
 https://hamal.co.il/main/נהג-תחת-פסילה-265427
 https://news.walla.co.il/break/3833501
 https://news.walla.co.il/break/3833499
@@ -499,3 +495,7 @@ https://hamal.co.il/main/המשט-לעזה-שלח-קריאת-מצוקה-״הסי
 https://news.walla.co.il/item/3834315
 https://hamal.co.il/main/בסיום-משחק-טעון-בבלומפילד-צעיר-נדקר-באורח-קשה-נער-נפצע-בינ-265821
 https://hamal.co.il/main/ראשוני-כוחות-חיל-הים-פושטים-על-המשט-לעזה-265822
+https://news.walla.co.il/break/3834319
+https://news.walla.co.il/item/3834318
+https://hamal.co.il/main/במשט-לעזה-טוענים-אנחנו-מותקפים-על-ידי-סירות-צבא-ישראליות-יו-265823
+https://hamal.co.il/main/תיעוד-מסירות-המשט-לעזה-באזור-איי-יוון-265825
