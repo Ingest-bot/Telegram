@@ -1,7 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3833423
-https://hamal.co.il/main/לאחר-אירוע-ירי-265380
-https://news.walla.co.il/break/3833424
+COUNTER:34
 https://news.walla.co.il/break/3833426
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-265382
 https://hamal.co.il/main/הירי-בוושינגהחמוש-פרץ-את-המחסומים---והגיע-למרחק-נגיעה-מטראמפ-265386
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3834272
 https://hamal.co.il/main/מעל-ל-30-מחסני-אמל״ח-של-חיזבאללה-הותקפו-ביומיים-האחרונים-265790
 https://hamal.co.il/main/איראן-ולבנון-על-הפרק-נתניהו-וטראמפ-צפויים-לשוחח-265792
 https://hamal.co.il/main/התרעות-הופעלו-בזרעית-הפרטים-בבדיקה-265794
+https://hamal.co.il/main/הירי-לזרעית-חיל-האוויר-יירט-מטרה-שלא-חצתה-לשטח-הארץ-265795
+https://hamal.co.il/main/סוף-לעיצוב-המוכר-סמסונג-עשויה-לשנות-את-מערך-המצלמות-265797
+https://hamal.co.il/main/בן-גביר-״אנחנו-דוהרים-בעיניים-פקוחות-לאסון-הבא״-265798
