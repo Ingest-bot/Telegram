@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3833462
-https://hamal.co.il/main/11-חשודים-נעצרו-265415
-https://hamal.co.il/main/מומחה-לאיראן-265416
-https://hamal.co.il/main/אמלח-בחדר-ילדים-50-תשתיות-של-חיזבאללה-הושמדו-בלבנון-265419
+COUNTER:8
 https://hamal.co.il/main/סוף-לסיפור-שניר-בורגיל-ושי-לי-עופרי-התגרשו-רשמית-265414
 https://news.walla.co.il/item/3833480
 https://hamal.co.il/main/הקטטה-בנהריה-7-חשודים-נעצרו-הרקע---265422
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3834304
 https://news.walla.co.il/break/3834306
 https://hamal.co.il/main/מה-יכול-לעצור-את-רחפני-חיזבאללה-265811
 https://hamal.co.il/main/בנט-הצעתי-להתראיין-לערוץ-14---והם-סירבו-265815
+https://news.walla.co.il/break/3834315
+https://hamal.co.il/main/מחבלים-נורו-בחטיבת-יהודה-לאחר-שיידו-אבנים-לעבר-הכוחות-265816
+https://hamal.co.il/main/עמי-אשד-תובע-265819
+https://hamal.co.il/main/המשט-לעזה-שלח-קריאת-מצוקה-״הסירות-שלנו-הותקפו״-265820
