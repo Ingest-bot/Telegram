@@ -1,5 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3833351
+COUNTER:9
 https://hamal.co.il/main/בני-הישיבות-לא-ילכו-לצבא-בשום-פנים-ואופן-בין-אם-יהיה-חוק-265348
 https://hamal.co.il/main/המעשה-הכי-פטריוטי-שעשינו-אי-פעם-בנט-ולפיד-מכריזים-על-איחו-265350
 https://hamal.co.il/main/עם-דגלי-ישראל-עשרות-אזרחים-הגיעו-להריע-בהצהרת-בנט-לפיד-265352
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834199
 https://news.walla.co.il/break/3834202
 https://news.walla.co.il/item/3834203
 https://hamal.co.il/main/הפיגוע-בלונדון-מצבם-של-2-הפצועים-מוגדר-קשה--תיעוד-265756
+https://hamal.co.il/main/איראן-מאיימת-נפעל-צבאית-באופן-חסר-תקדים-בתגובה-למצור-265757
