@@ -1,7 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3833406
-https://hamal.co.il/main/רוכב-אופנוע-נהרג-בכביש-77-265370
-https://news.walla.co.il/break/3833407
+COUNTER:23
 https://news.walla.co.il/break/3833412
 https://news.walla.co.il/break/3833411
 https://news.walla.co.il/break/3833410
@@ -499,3 +496,6 @@ https://hamal.co.il/main/עקב-הפגנת-חרדים-נחסמה-הכניסה-ל
 https://news.walla.co.il/break/3834239
 https://news.walla.co.il/break/3834240
 https://hamal.co.il/main/המחבל-מנסה-להימלט-על-האופנוע---ומחוסל-תיעוד-מדרום-לבנון-265778
+https://news.walla.co.il/break/3834243
+https://hamal.co.il/main/פשיטה-על-בית-עסק-נגמרה-במעצר-של-5-שב״חים-265779
+https://hamal.co.il/main/מוסדות-שלא-הסדירו-מעמד-של-חייבי-גיוס-לא-יהנו-מזיכוי-מס-265780
