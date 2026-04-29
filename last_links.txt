@@ -1,9 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/טראמפ-על-איראן-״אם-הם-רוצים-לדבר-שיבואו-אלינו-265340
-https://news.walla.co.il/item/3833335
-https://hamal.co.il/main/הותר-לפרסום-סמל-עידן-פוקס-נפל-בקרב-בדרום-לבנון-265344
-https://hamal.co.il/main/סקר-חמל-בעד-או-נגד-איחוד-מפלגת-לפיד-ונתניהו-265342
-https://news.walla.co.il/break/3833342
+COUNTER:7
 https://news.walla.co.il/break/3833340
 https://hamal.co.il/main/מתקפת-265345
 https://news.walla.co.il/break/3833347
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3834188
 https://news.walla.co.il/item/3834189
 https://hamal.co.il/main/בן-הגיע-265751
 https://hamal.co.il/main/הפריצה-לביתו-של-מפקד-המשטרה-הצבאית-הוארך-מעצרם-של-10-חשודים-265752
+https://news.walla.co.il/break/3834194
+https://news.walla.co.il/break/3834192
+https://hamal.co.il/main/צהל-מחבל-חצה-את-הקו-הצהוב-בדרום-הרצועה---וחוסל-265753
+https://hamal.co.il/main/מנכל-משרד-הביטחון-לראשי-התעשיות-הביטחוניות-265754
+https://hamal.co.il/main/מומחה-מתריע-אלו-הפעולות-שיקבעו-265731
