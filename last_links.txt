@@ -1,12 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/הרצח-בפת-חשוד-נוסף-265305
-https://news.walla.co.il/break/3833268
-https://hamal.co.il/main/האזעקות-בצפון-3-כטבמים-יורטו-בטרם-חצו-לישראל-265307
-https://hamal.co.il/main/בגץ-קבע-בהחלטה-תקדימית-אלו-הסנקציות-שיוטלו-על-משתמשטים-265309
-https://hamal.co.il/main/הורים-שכולים-דורשים-265308
-https://news.walla.co.il/break/3833279
-https://news.walla.co.il/break/3833278
-https://news.walla.co.il/break/3833283
+COUNTER:30
 https://news.walla.co.il/item/3833277
 https://hamal.co.il/main/שינוי-דרמטי-בשוק-265246
 https://news.walla.co.il/item/3833289
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3834125
 https://news.walla.co.il/item/3833563
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הכטבם-לא-חצה-לישראל-265732
 https://hamal.co.il/main/תיעוד-שיכור-הטריד-אישה-בבר-מול-בעלה---שהשכיב-אותו-באגרוף-265700
+https://news.walla.co.il/break/3834138
+https://news.walla.co.il/break/3834139
+https://news.walla.co.il/break/3834143
+https://news.walla.co.il/item/3834145
+https://hamal.co.il/main/צפו-בור-ממולכד-ועמדת-שהייה-עם-אמלח-אותרו-בדרום-לבנון-265734
+https://hamal.co.il/main/מבקר-המדינה-הודיע--265735
+https://hamal.co.il/main/מאחורי-הדלתות-הסודיות-כך-נבלמה-תכנית-רדואן-בדרום-לבנון-265721
+https://hamal.co.il/main/בית-בושת-נחשף-בנוף-הגליל-מפעילת-המקום-עוכבה-לחקירה-265737
