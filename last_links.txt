@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3833427
-https://hamal.co.il/main/גיוס-המונים-למשפחת-ימנו-בנימין-זלקה-מיליון-וחצי-שקל-נתרמו-265387
-https://hamal.co.il/main/בשל-שיקולים-ביטחוניים-עדות-נתניהו-בוטלה-265398
-https://news.walla.co.il/break/3833436
+COUNTER:39
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-265399
 https://hamal.co.il/main/החליף-את-הלוחית---ונכנס-ליישוב-ערבי-מיוש-נאשם-בהתחזות-265402
 https://hamal.co.il/main/לסייר-ברגל-100-הערים-שהכי-כיף-לטייל-בהן-בהליכה-265245
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הרמטכ״ל-בלבנון-״ייתכן-שנידרש-�
 https://news.walla.co.il/break/3834285
 https://hamal.co.il/main/טראמפ-ופוטין-שוחחו-כשעה-וחצי-בין-היתר-על-איראן-265800
 https://hamal.co.il/main/ריסס-גרפיטי---ועלול-לשלם-21-אלף-שקל-העיר-שיוצאת-למאבק-265802
+https://news.walla.co.il/break/3834286
+https://news.walla.co.il/item/3834287
+https://hamal.co.il/main/הופעלו-התרעות-במרחב-משגב-עם-הפרטים-בבדיקה-265804
+https://hamal.co.il/main/התפתחות-בפרשת-רצח-זלקה-ז״ל-3-קטינים-נעצרו-היום-265805
