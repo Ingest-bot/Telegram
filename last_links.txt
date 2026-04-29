@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/עם-דגלי-ישראל-עשרות-אזרחים-הגיעו-להריע-בהצהרת-בנט-לפיד-265352
-https://news.walla.co.il/break/3833363
-https://news.walla.co.il/break/3833364
-https://hamal.co.il/main/גיא-מרוז-על-הרצח-בפיצרייה-להוציא-להורג-את-כל-המעורבים-265355
+COUNTER:13
 https://news.walla.co.il/break/3833372
 https://hamal.co.il/main/ב-2230-ויקטור-וומבניאמה-חוזר-דני-אבדיה-ופורטלנד-יפתיעו-265358
 https://news.walla.co.il/break/3833373
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הפיגוע-בלונדון-מצבם-של-2-הפצוע�
 https://hamal.co.il/main/איראן-מאיימת-נפעל-צבאית-באופן-חסר-תקדים-בתגובה-למצור-265757
 https://hamal.co.il/main/2-מחרטות-לייצור-אמל״ח-הוחרמו-בשומרון-במבצע-לילי-265760
 https://hamal.co.il/main/אין-פתרון-מלא-בצהל-מודים-בפערים-מול-רחפני-חיזבאללה-265762
+https://news.walla.co.il/break/3834217
+https://news.walla.co.il/break/3834219
+https://hamal.co.il/main/שיחות-השלום-עם-לבנון-״ללא-חיזבאללה-השלום-בהישג-יד״-265763
+https://hamal.co.il/main/התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בבדיקה-265765
