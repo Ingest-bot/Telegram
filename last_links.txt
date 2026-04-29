@@ -1,13 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3833237
-https://news.walla.co.il/break/3833243
-https://hamal.co.il/main/פרופ-עוזי-רבי-שלטון-האייתולות-לא-קיים-יותר-265270
-https://news.walla.co.il/break/3833249
-https://news.walla.co.il/item/3833245
-https://hamal.co.il/main/כוחותינו-השמידו-מנהרה-התקפית-265275
-https://hamal.co.il/main/סוף-טרגי-משפיענית-הרשת-שנדרסה-על-ידי-קולגה-מתה-מפצעיה-265244
-https://news.walla.co.il/item/3833253
-https://hamal.co.il/main/נתניהו-גינה-את-הרצח-בפת-265286
+COUNTER:23
 https://hamal.co.il/main/תיעוד-תושבים-רבים-מדרום-לבנון-מתפנים-אחרי-התרעת-הפינוי-265291
 https://hamal.co.il/main/המשטרה-עצרה-קטין-נוסף-בחשד-למעורבות-ברצח-הצעיר-בבאר-שבע-265293
 https://hamal.co.il/main/חוסל-תמונתו-של-מוגטבא-חמינאי-על-לוח-זיכרון-באיראן--צפו-265296
@@ -499,3 +490,12 @@ https://news.walla.co.il/item/3834103
 https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בנגב-בהם-בן-40-במצב-קשה-265718
 https://hamal.co.il/main/החשד-לניסיון-רצח-והתאבדות-ברמלה-נקבע-מותה-של-האישה-שנדרסה-265719
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון--265720
+https://news.walla.co.il/break/3834112
+https://news.walla.co.il/break/3834108
+https://news.walla.co.il/break/3834109
+https://news.walla.co.il/break/3834113
+https://news.walla.co.il/item/3834106
+https://hamal.co.il/main/הצעד-שצהל-בוחן---בעקבות-הפריצה-לביתו-של-הקצין-הבכיר-265716
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-כטבם-יורט-בטרם-חצה-לשטח-ישראל-265724
+https://hamal.co.il/main/בת-11-נפגעה-מרכב-בטמרה-מצבה-קשה-265725
+https://hamal.co.il/main/חמוש---ומפציץ-באיראן-265728
