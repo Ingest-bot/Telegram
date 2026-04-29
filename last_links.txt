@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/איזנקוט-על-איחוד-בנט-לפיד-מטרה-משותפת-265320
-https://news.walla.co.il/break/3833307
+COUNTER:35
 https://news.walla.co.il/break/3833309
 https://news.walla.co.il/break/3833310
 https://news.walla.co.il/item/3833311
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834156
 https://news.walla.co.il/break/3834159
 https://hamal.co.il/main/הפילוג-בהנהגת-איראן-מחריף-נחצו-קווים-אדומים-במומ--דיווח-265740
 https://hamal.co.il/main/שריפה-פרצה-במבנה-תעשייה-בקריית-גת-אין-נפגעים-265741
+https://news.walla.co.il/break/3834165
+https://hamal.co.il/main/הניצחון-המוחלט-אלקנה-בוחבוט-ואשתו-רבקה-חושפים-את-מין-העובר-265723
