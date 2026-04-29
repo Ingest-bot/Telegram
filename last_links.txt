@@ -1,8 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3833216
-https://news.walla.co.il/item/3833219
-https://hamal.co.il/main/הממשלה-אישרה-ציפי-חוטובולי-265260
-https://news.walla.co.il/break/3833222
+COUNTER:15
 https://hamal.co.il/main/הרצח-בפת-אחד-החשודים---בנו-של-בכיר-במערכת-הביטחון-265263
 https://news.walla.co.il/break/3833228
 https://news.walla.co.il/item/3833226
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מכת-נמלים-במטבח-האם-התבלין-הפו
 https://news.walla.co.il/break/3834077
 https://hamal.co.il/main/צהל-יורטה-265706
 https://hamal.co.il/main/שבח-ניסה-להימלט-ממעצר---265705
+https://news.walla.co.il/break/3834088
+https://hamal.co.il/main/צהל-חיסלנו-בכיר-במטה-המודיעין-של-החמאס-265707
+https://hamal.co.il/main/בגיל-80-האמן-יאיר-גרבוז-הלך-לעולמו-265711
+https://hamal.co.il/main/חשד-לניסיון-התאבדות-ורצח-ברמלה-265713
