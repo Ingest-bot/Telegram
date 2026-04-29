@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3833226
-https://hamal.co.il/main/דיווח-הרצוג-החליט-שלא-להעניק-חנינה-לנתניהו-265265
-https://hamal.co.il/main/הרצוג-מאשר-מעוניין-להגיע-להסדר-לפני-הדיון-בבקשת-החנינה-265266
-https://hamal.co.il/main/הממשלה-אישרה-נתניהו-265267
-https://news.walla.co.il/break/3833238
+COUNTER:19
 https://news.walla.co.il/break/3833237
 https://news.walla.co.il/break/3833243
 https://hamal.co.il/main/פרופ-עוזי-רבי-שלטון-האייתולות-לא-קיים-יותר-265270
@@ -499,3 +494,8 @@ https://hamal.co.il/main/בגיל-80-האמן-יאיר-גרבוז-הלך-לעו�
 https://hamal.co.il/main/חשד-לניסיון-התאבדות-ורצח-ברמלה-265713
 https://news.walla.co.il/item/3834088
 https://hamal.co.il/main/נזירה-הותק-265714
+https://news.walla.co.il/break/3834100
+https://news.walla.co.il/item/3834103
+https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בנגב-בהם-בן-40-במצב-קשה-265718
+https://hamal.co.il/main/החשד-לניסיון-רצח-והתאבדות-ברמלה-נקבע-מותה-של-האישה-שנדרסה-265719
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון--265720
