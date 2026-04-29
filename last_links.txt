@@ -1,7 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3833309
-https://news.walla.co.il/break/3833310
-https://news.walla.co.il/item/3833311
+COUNTER:37
 https://hamal.co.il/main/איחוד-בנט-לפיד-זה-שם-המפלגה-החדש-שלהם-265326
 https://news.walla.co.il/break/3833314
 https://news.walla.co.il/item/3833213
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הפילוג-בהנהגת-איראן-מחריף-נחצ�
 https://hamal.co.il/main/שריפה-פרצה-במבנה-תעשייה-בקריית-גת-אין-נפגעים-265741
 https://news.walla.co.il/break/3834165
 https://hamal.co.il/main/הניצחון-המוחלט-אלקנה-בוחבוט-ואשתו-רבקה-חושפים-את-מין-העובר-265723
+https://news.walla.co.il/break/3834167
+https://hamal.co.il/main/אותרו-תמונותיו-האחרונות-של-הלוחם-למשימות-מיוחדות-שנפל-בדרו-265742
+https://hamal.co.il/main/מחקר-מצא-קשר-אפשרי-בין-תרופות-ההרזיה-265729
