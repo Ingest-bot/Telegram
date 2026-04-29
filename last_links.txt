@@ -1,5 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/break/3833179
 https://news.walla.co.il/break/3833184
 https://news.walla.co.il/item/3833183
 https://hamal.co.il/main/גופת-גבר-אותרה-בראשון-לציון-265249
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3834009
 https://news.walla.co.il/item/3834025
 https://hamal.co.il/main/רוכב-אופנוע-נפצע-סמוך-למחלף-כפר-סבא-מצבו-אנוש-265696
 https://hamal.co.il/main/בשל-לוז-ביטחוני-נתניהו-ביקש-לקצר-את-עדותו---ונדחה-265698
+https://news.walla.co.il/break/3834035
