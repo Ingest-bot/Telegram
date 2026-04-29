@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3833456
-https://news.walla.co.il/break/3833467
+COUNTER:3
 https://news.walla.co.il/break/3833464
 https://news.walla.co.il/break/3833469
 https://news.walla.co.il/item/3833468
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834284
 https://hamal.co.il/main/טראמפ-שוחח-עם-פוטין-״חושב-שהוא-יכריז-על-הפסקת-אש״-265807
 https://news.walla.co.il/item/3834299
 https://hamal.co.il/main/טראמפ-״-265808
+https://news.walla.co.il/break/3834300
+https://hamal.co.il/main/רה״מ-בריטניה-״מודאג-מאוד-מהפיגוע-זה-לא-אירוע-בודד״-265809
