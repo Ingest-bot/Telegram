@@ -1,12 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3833417
-https://news.walla.co.il/break/3833418
-https://news.walla.co.il/break/3833419
-https://hamal.co.il/main/גבר-כבן-40-נפגע-מרכב-בכביש-424-מצבו-קשה-265377
-https://news.walla.co.il/item/3833415
-https://hamal.co.il/main/צהל-כשל-פורסם-התחקיר-על-אירועי-7-באוקטובר-בקיבוץ-חולית-אמי-265378
-https://hamal.co.il/main/מזג-אוויר-מעןנן-חלקית-עד-בהיר-בצהריים-יתרבו-העננים-וגשם-מקו-265379
-https://news.walla.co.il/break/3833420
+COUNTER:31
 https://news.walla.co.il/break/3833423
 https://hamal.co.il/main/לאחר-אירוע-ירי-265380
 https://news.walla.co.il/break/3833424
@@ -499,3 +491,11 @@ https://hamal.co.il/main/שיתוף-פעולה-עם-ישראל-כך-עובדות
 https://news.walla.co.il/item/3834265
 https://news.walla.co.il/item/3834268
 https://hamal.co.il/main/צפו-כך-חיזבאללה-ממקם-משגרים-במבנים-אזרחיים-בלבנון-265791
+https://news.walla.co.il/break/3834269
+https://news.walla.co.il/break/3834274
+https://news.walla.co.il/break/3834271
+https://news.walla.co.il/break/3834276
+https://news.walla.co.il/item/3834272
+https://hamal.co.il/main/מעל-ל-30-מחסני-אמל״ח-של-חיזבאללה-הותקפו-ביומיים-האחרונים-265790
+https://hamal.co.il/main/איראן-ולבנון-על-הפרק-נתניהו-וטראמפ-צפויים-לשוחח-265792
+https://hamal.co.il/main/התרעות-הופעלו-בזרעית-הפרטים-בבדיקה-265794
