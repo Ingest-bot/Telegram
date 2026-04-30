@@ -1,5 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/כביש-40-נחסם-לשני-הכיוונים-בצומת-שדה-בוקר-בעקבות-שיטפון-יניר-265504
+COUNTER:14
 https://news.walla.co.il/item/3833688
 https://news.walla.co.il/break/3833691
 https://news.walla.co.il/break/3833690
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834541
 https://news.walla.co.il/item/3834546
 https://hamal.co.il/main/הרכבת-האווירית-והימית-לישראל-מתרחבת-ישראל-קיבלה-ציוד-צבאי-265933
 https://hamal.co.il/main/רופא-מתמחה-בסורוקה-הורשע-נשבע-אמונים-לדאעש-265942
+https://hamal.co.il/main/רצח-זלקה-ז״ל-מה-העידה-אמו-של-החשוד-המרכזי-שעשוי-לסבך-אותו-265945
