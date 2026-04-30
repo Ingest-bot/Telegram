@@ -1,6 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/מאמן-כושר-חושף-זה-מה-שגורם-לכם-להפסיק-להתאמן-אחרי-זמן-קצר-265405
-https://news.walla.co.il/break/3833562
+COUNTER:28
 https://news.walla.co.il/item/3833560
 https://news.walla.co.il/item/3833561
 https://hamal.co.il/main/צהל-בהודעה-חריגה-פתחנו-בגל-תקיפות-ברחבי-לבנון-265446
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834373
 https://news.walla.co.il/item/3834375
 https://hamal.co.il/main/פגיעה-ישירה-שריפת-רכב-משוריין-בסמוך-ליישוב-שומרה-265863
 https://hamal.co.il/main/מארגני-המשט-לעזה-טוענים-ישראל-חטפה-אזרחים-בתוקפנות-265868
+https://news.walla.co.il/item/3834386
+https://hamal.co.il/main/מובילה-חברתית-ועורכת-דין-זו-הפעילה-שמצטרפת-למפלגת-אייזנקוט-265869
