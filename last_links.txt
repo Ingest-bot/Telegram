@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/בצהל-מתחקרים-משפחות-שכולות-הוכנסו-לאזור-לא-מטוהר-בלבנון-265517
-https://hamal.co.il/main/אחרי-שביקש-מהעוקבים-להתפלל---איתי-לוי-מעדכן-במצבה-של-אמו-265520
+COUNTER:26
 https://news.walla.co.il/break/3833745
 https://news.walla.co.il/break/3833751
 https://news.walla.co.il/item/3833749
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834584
 https://news.walla.co.il/break/3834588
 https://news.walla.co.il/item/3834589
 https://hamal.co.il/main/ליאם-צפה-בדרבי-בבלומפילד-ואז-נכנס-ללבנון-265967
+https://news.walla.co.il/item/3834593
+https://hamal.co.il/main/הפרקליטות-הורתה-על-השלמות-חקירה-אייל-גולן-ייחקר-בשבוע-הבא-265969
