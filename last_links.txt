@@ -1,9 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3833789
-https://news.walla.co.il/item/3833782
-https://hamal.co.il/main/מבצע-ארצי-נגד-פשיעת-נוער-תגבור-כוחות-ופעילות-ממוקדת-265552
-https://news.walla.co.il/break/3833796
-https://news.walla.co.il/break/3833797
 https://news.walla.co.il/break/3833799
 https://hamal.co.il/main/דימום-מהאף-הטעות-הגדולה-שאתם-עושים-שיכולה-להוביל-לחנק-265545
 https://hamal.co.il/main/מכת-הפרוטקשן-בענף-הבנייה-בדרום-אין-אחד-שלא-משלם-265556
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3834608
 https://news.walla.co.il/item/3834607
 https://hamal.co.il/main/קצינה-ונגד-צהל-נפצעו-בינוני-כתוצאה-מנפילת-רחפן-נפץ-בדרום-לב-265983
 https://hamal.co.il/main/גבר-נפגע-מרכבת-דרומית-לרחובות---מותו-נקבע-במקום-265984
+https://news.walla.co.il/break/3834610
+https://news.walla.co.il/break/3834614
+https://news.walla.co.il/break/3834611
+https://news.walla.co.il/break/3834613
+https://news.walla.co.il/item/3834612
