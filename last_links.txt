@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3833764
+COUNTER:29
 https://hamal.co.il/main/מטרה-אוו-265542
 https://news.walla.co.il/break/3833774
 https://news.walla.co.il/break/3833778
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דרמה-בוונציה-שופטי-הביאנלה-הת�
 https://news.walla.co.il/break/3834602
 https://news.walla.co.il/item/3834600
 https://hamal.co.il/main/באנו-לפרק-סודנים-מהומות-בדרום-תל-אביב-265976
+https://hamal.co.il/main/אורלי-עדס-פרשה-מתפקידה-כמנכלית-ועדת-הבחירות-265979
