@@ -1,7 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/הסוד-של-בני-ה־100-המזון-הפשוט-שיכול-להאריך-חיים-265541
-https://news.walla.co.il/item/3833756
-https://hamal.co.il/main/תמונות-ראשונות-חושפות-כך-ייראו-המשקפיים-החכמים-של-סמסונג-265538
+COUNTER:28
 https://news.walla.co.il/break/3833764
 https://hamal.co.il/main/מטרה-אוו-265542
 https://news.walla.co.il/break/3833774
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834594
 https://news.walla.co.il/break/3834596
 https://news.walla.co.il/break/3834597
 https://hamal.co.il/main/דרמה-בוונציה-שופטי-הביאנלה-התפטרו-במחאה-על-השתתפות-ישראל-265972
+https://news.walla.co.il/break/3834602
+https://news.walla.co.il/item/3834600
+https://hamal.co.il/main/באנו-לפרק-סודנים-מהומות-בדרום-תל-אביב-265976
