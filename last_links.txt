@@ -1,7 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/דיווח-OpenAI-מפתחת-סמארטפון-ראשון-שיתחרה-באייפון-ינון-בן-שו-265485
-https://hamal.co.il/main/רוביו-265486
-https://news.walla.co.il/break/3833632
+COUNTER:5
 https://news.walla.co.il/break/3833630
 https://news.walla.co.il/item/3833629
 https://hamal.co.il/main/בעונה-הבאה-זה-ישתנה-הסיבה-שמשחקי-ליגת-העל-נערכים-במקביל-265406
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אירוע-ירי-ביקנעם-גבר-בן-30-פונה-
 https://news.walla.co.il/break/3834494
 https://news.walla.co.il/break/3834498
 https://hamal.co.il/main/למרות-הטכנולוגיות-בצהל-חיזבאללה-חדר-עם-רחפן-את-קו-הגבול-265911
+https://news.walla.co.il/break/3834502
+https://news.walla.co.il/item/3834504
+https://hamal.co.il/main/אחת-ולתמיד-מה-שורף-יותר-קלוריות---הליכה-או-ריצה-265916
