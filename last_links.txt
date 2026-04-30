@@ -1,6 +1,4 @@
 COUNTER:24
-https://news.walla.co.il/break/3833735
-https://hamal.co.il/main/השיחות-במבוי-סתום-טראמפ-לא-מרוצה-מההצעה-האיראנית-265530
 https://hamal.co.il/main/כוחותינו-השמידו-265531
 https://news.walla.co.il/break/3833740
 https://news.walla.co.il/item/3833744
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מרחובות-לצנעא-המשאית-הישראלית
 https://news.walla.co.il/break/3834581
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בטרם-חצתה-לשטח-הארץ-265963
 https://hamal.co.il/main/נתניהו-על-עצירת-המשט-לעזה-שימשיכו-לראות-אותה-ביוטיוב-265964
+https://news.walla.co.il/item/3834585
+https://news.walla.co.il/item/3834584
