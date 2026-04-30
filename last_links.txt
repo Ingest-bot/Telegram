@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3833745
-https://news.walla.co.il/break/3833751
-https://news.walla.co.il/item/3833749
-https://hamal.co.il/main/ראש-המוסד-״השגנו-מודיעין-אסטרטגי-וטקטי-בליבת-הסוד-של-האויב-265535
+COUNTER:27
 https://hamal.co.il/main/הסוד-של-בני-ה־100-המזון-הפשוט-שיכול-להאריך-חיים-265541
 https://news.walla.co.il/item/3833756
 https://hamal.co.il/main/תמונות-ראשונות-חושפות-כך-ייראו-המשקפיים-החכמים-של-סמסונג-265538
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3834589
 https://hamal.co.il/main/ליאם-צפה-בדרבי-בבלומפילד-ואז-נכנס-ללבנון-265967
 https://news.walla.co.il/item/3834593
 https://hamal.co.il/main/הפרקליטות-הורתה-על-השלמות-חקירה-אייל-גולן-ייחקר-בשבוע-הבא-265969
+https://news.walla.co.il/break/3834594
+https://news.walla.co.il/break/3834596
+https://news.walla.co.il/break/3834597
+https://hamal.co.il/main/דרמה-בוונציה-שופטי-הביאנלה-התפטרו-במחאה-על-השתתפות-ישראל-265972
