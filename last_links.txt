@@ -1,6 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3833799
-https://hamal.co.il/main/דימום-מהאף-הטעות-הגדולה-שאתם-עושים-שיכולה-להוביל-לחנק-265545
 https://hamal.co.il/main/מכת-הפרוטקשן-בענף-הבנייה-בדרום-אין-אחד-שלא-משלם-265556
 https://news.walla.co.il/break/3833823
 https://news.walla.co.il/break/3833817
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834614
 https://news.walla.co.il/break/3834611
 https://news.walla.co.il/break/3834613
 https://news.walla.co.il/item/3834612
+https://news.walla.co.il/break/3834619
+https://news.walla.co.il/item/3834618
