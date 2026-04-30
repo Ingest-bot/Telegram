@@ -1,7 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3833530
-https://news.walla.co.il/item/3833536
-https://hamal.co.il/main/מתקפת-ענק-של-אל-קאעדה-במאלי-שר-ההגנה-נהרג-שכירי-חרב-נסוגו-265428
+COUNTER:23
 https://hamal.co.il/main/הותר-לפרסום-265441
 https://news.walla.co.il/break/3833541
 https://hamal.co.il/main/אחיו-של-ימנו-הוא-יצא-לעבוד---ונרצח-באכזריות-265442
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834347
 https://news.walla.co.il/item/3834350
 https://news.walla.co.il/break/3834356
 https://news.walla.co.il/item/3834339
+https://news.walla.co.il/break/3834361
+https://hamal.co.il/main/לוחם-שנפצע-בעזה-מבקש-עזרו-לי-למצוא-את-כלבת-השירות-שלי-265845
+https://hamal.co.il/main/המציאות-בצפון-התרעות-בגליל-המערבי-מחשד-לחדירת-כטבם-265851
