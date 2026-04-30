@@ -1,9 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3833551
-https://hamal.co.il/main/פועל-נפל-מגובה-3-מטרים-בחיפה-מצבו-קשה-265444
-https://hamal.co.il/main/נכנס-לעולם-הבינה-המלאכותית-עסקת-המיליארד-של-עומר-אדם-265425
-https://news.walla.co.il/break/3833556
-https://news.walla.co.il/break/3833557
+COUNTER:27
 https://hamal.co.il/main/מאמן-כושר-חושף-זה-מה-שגורם-לכם-להפסיק-להתאמן-אחרי-זמן-קצר-265405
 https://news.walla.co.il/break/3833562
 https://news.walla.co.il/item/3833560
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3834366
 https://news.walla.co.il/break/3834371
 https://hamal.co.il/main/כך-נראה-הבוקר-בצפון-אזעקות-בעקבות-שיגורים-מלבנון-265854
 https://hamal.co.il/main/נפילה-ביישוב-בגליל-המערבי-רכב-עולה-באש-אין-נפגעים-265857
+https://news.walla.co.il/break/3834377
+https://news.walla.co.il/item/3834373
+https://news.walla.co.il/item/3834375
+https://hamal.co.il/main/פגיעה-ישירה-שריפת-רכב-משוריין-בסמוך-ליישוב-שומרה-265863
+https://hamal.co.il/main/מארגני-המשט-לעזה-טוענים-ישראל-חטפה-אזרחים-בתוקפנות-265868
