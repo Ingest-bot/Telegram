@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3833704
-https://news.walla.co.il/item/3833703
-https://news.walla.co.il/break/3833707
+COUNTER:20
 https://hamal.co.il/main/ראש-מועצה-מכהן-בצפון-עוכב-לחקירה-בחשד-לשוחד-נוספים-נעצרו-265506
 https://hamal.co.il/main/לוחם-צהל-נפצע-קשה-מנפילת-רחפן-נפץ-בדרום-לבנון-265508
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-עם-עלייה-קלה-בטמפרטורות-265509
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3834559
 https://hamal.co.il/main/הותר-לפרסום-סמל-ליאם-בן-חמו-בן-19-נפל-בקרב-בדרום-לבנון-265950
 https://news.walla.co.il/item/3834562
 https://hamal.co.il/main/הפסקת-אש-זוהה-שיגור-מלבנון-שנפל-בשטח-פתוח-265951
+https://news.walla.co.il/item/3834566
+https://hamal.co.il/main/צאטבוטים-סיפקו-הוראות-לייצור-נשק-ביולוגי---והמדענים-נבהלו-265954
+https://hamal.co.il/main/הקטל-בכבישים-ילד-בן-9-נהרג-מפגיעת-רכב-בסמוך-לירושלים-265957
