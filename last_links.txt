@@ -1,6 +1,4 @@
 COUNTER:21
-https://news.walla.co.il/break/3833539
-https://news.walla.co.il/item/3833535
 https://news.walla.co.il/item/3833530
 https://news.walla.co.il/item/3833536
 https://hamal.co.il/main/מתקפת-ענק-של-אל-קאעדה-במאלי-שר-ההגנה-נהרג-שכירי-חרב-נסוגו-265428
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-בהיר-�
 https://news.walla.co.il/item/3834346
 https://news.walla.co.il/break/3834347
 https://news.walla.co.il/item/3834350
+https://news.walla.co.il/break/3834356
+https://news.walla.co.il/item/3834339
