@@ -1,5 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/יצאו-להציל-חיים-ולא-חזרו-הקרב-של-גיבורי-שלומית-עדיין-לא-נגמ-265439
+COUNTER:21
 https://news.walla.co.il/break/3833528
 https://news.walla.co.il/item/3833525
 https://hamal.co.il/main/נדקר-בגלל-265440
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834343
 https://hamal.co.il/main/אמזון-בוחנת-אפשרות-להחיות-את-תוכנית-הריאליטי-המתמחה-כאשר-265837
 https://news.walla.co.il/break/3834344
 https://hamal.co.il/main/נצח-שנמשך-שבועיים-טראמפ-ימשיך-במצור-ככל-שיידרש---לפחות-עד-ש-265838
+https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-בהיר-עם-עלייה-קלה-בטמפרטורות-הטמפ-265839
