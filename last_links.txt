@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3833646
-https://news.walla.co.il/item/3833647
+COUNTER:8
 https://hamal.co.il/main/המשקל-לא-מספר-את-כל-הסיפור-אלו-שיטות-המדידה-החדשות-דורון-קו-265491
 https://news.walla.co.il/break/3833652
 https://news.walla.co.il/break/3833651
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834521
 https://news.walla.co.il/item/3834520
 https://hamal.co.il/main/המאבק-באלימות-זה-הצעד-שנקט-בית-הספר-במודיעין-265925
 https://news.walla.co.il/break/3834526
+https://news.walla.co.il/break/3834528
+https://hamal.co.il/main/מראה-מרהיב-דולפינים-נמצאו-בחיפה--התיעוד-265929
