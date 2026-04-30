@@ -1,12 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/item/3833594
-https://hamal.co.il/main/ריאל-מדריד-הודיעה-קיליאן-אמבפה-הפצוע-בספק-לקלאסיקו-265458
-https://hamal.co.il/main/נשיא-המדינה-החל-את-ביקורו-הרשמי-בקזחסטן-והתקבל-בטקס-קבלת-פני-265469
-https://hamal.co.il/main/חקירת-רצח-הנער-בפתח-תקווה-עצרו-חשוד-נוסף-במעורבות-בקטטה-שהו-265470
-https://news.walla.co.il/item/3833586
-https://hamal.co.il/main/סערה-אחרי-הריאיון-בצינור-של-המאמן-מיבנה-265466
-https://news.walla.co.il/item/3833605
-https://hamal.co.il/main/נצמ-דורון-ילד-יוצא-עם-סכין-מהבית---החינוך-מתחיל-בהורים-265475
+COUNTER:36
 https://hamal.co.il/main/הטעות-הבריאותית-שכולנו-עושים-כשאנחנו-אוכלים-תות-שדה-265452
 https://news.walla.co.il/break/3833607
 https://news.walla.co.il/break/3833610
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3834424
 https://hamal.co.il/main/אותר-במסתור-סוס-נגנב-הוצע-ברשת-למכירה---והושב-הביתה-265879
 https://news.walla.co.il/break/3834432
 https://news.walla.co.il/item/3834431
+https://news.walla.co.il/break/3834444
+https://news.walla.co.il/break/3834446
+https://news.walla.co.il/break/3834448
+https://news.walla.co.il/item/3834440
+https://news.walla.co.il/item/3834442
+https://news.walla.co.il/item/3834441
+https://hamal.co.il/main/אישום-נגד-קצין-צהל-הבריח-סחורות-לעזה-והכניס-אזרח-לרצועה-265884
+https://hamal.co.il/main/בתגובה-ל-48-השעות-האחרונות-צהל-תוקף-בדרום-לבנון-265885
