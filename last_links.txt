@@ -1,9 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3833774
-https://news.walla.co.il/break/3833778
-https://hamal.co.il/main/אחרי-חודשיים-של-הפסקה-נתניהו-מעיד-בבית-המשפט-בתיק-4000-265548
-https://news.walla.co.il/break/3833783
-https://news.walla.co.il/break/3833781
+COUNTER:32
 https://news.walla.co.il/break/3833789
 https://news.walla.co.il/item/3833782
 https://hamal.co.il/main/מבצע-ארצי-נגד-פשיעת-נוער-תגבור-כוחות-ופעילות-ממוקדת-265552
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3834600
 https://hamal.co.il/main/באנו-לפרק-סודנים-מהומות-בדרום-תל-אביב-265976
 https://hamal.co.il/main/אורלי-עדס-פרשה-מתפקידה-כמנכלית-ועדת-הבחירות-265979
 https://hamal.co.il/main/טראמפ-״איראן-מתה-לעשות-עסקה״-265982
+https://news.walla.co.il/break/3834609
+https://news.walla.co.il/item/3834608
+https://news.walla.co.il/item/3834607
+https://hamal.co.il/main/קצינה-ונגד-צהל-נפצעו-בינוני-כתוצאה-מנפילת-רחפן-נפץ-בדרום-לב-265983
+https://hamal.co.il/main/גבר-נפגע-מרכבת-דרומית-לרחובות---מותו-נקבע-במקום-265984
