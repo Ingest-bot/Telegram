@@ -1,5 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/מכת-הפרוטקשן-בענף-הבנייה-בדרום-אין-אחד-שלא-משלם-265556
 https://news.walla.co.il/break/3833823
 https://news.walla.co.il/break/3833817
 https://news.walla.co.il/item/3833809
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834613
 https://news.walla.co.il/item/3834612
 https://news.walla.co.il/break/3834619
 https://news.walla.co.il/item/3834618
+https://news.walla.co.il/item/3834620
