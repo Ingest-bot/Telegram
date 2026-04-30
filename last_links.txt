@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3833643
-https://news.walla.co.il/break/3833642
-https://hamal.co.il/main/ממאסטר-שף-לכנסת-זה-השף-מתוכנית-הריאלטי-שמצטרף-לבנט-265489
+COUNTER:7
 https://hamal.co.il/main/ראש-הממשלה-בנימין-נתניהו-בכנס-הפיקוד-הבכיר-של-צה״ל-״יש-לנו-265490
 https://news.walla.co.il/item/3833646
 https://news.walla.co.il/item/3833647
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834511
 https://news.walla.co.il/break/3834518
 https://news.walla.co.il/item/3834516
 https://hamal.co.il/main/אחרי-7-חודשים-בלבד-אדר-גיציס-ודני-לוי-נפרדו-265923
+https://news.walla.co.il/break/3834521
+https://news.walla.co.il/item/3834520
+https://hamal.co.il/main/המאבק-באלימות-זה-הצעד-שנקט-בית-הספר-במודיעין-265925
