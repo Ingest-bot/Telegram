@@ -1,10 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-עם-עלייה-קלה-בטמפרטורות-265509
-https://news.walla.co.il/break/3833713
-https://hamal.co.il/main/בדיקת-צופרים-של-פיקוד-העורף-תתקיים-היום-במרחב-פקיעין-ומלכיה-265511
-https://hamal.co.il/main/זה-הרחפן-החדש-של-חיזבאללה-שמקשה-על-כוחות-צהל-בגבול-הצפוני-265514
-https://news.walla.co.il/item/3833721
-https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בלבנון-265524
+COUNTER:22
 https://hamal.co.il/main/פיצה-האט-תשלם-את-משכורתו-של-בנימין-זלקה-זל-למשפחתו-265527
 https://news.walla.co.il/break/3833734
 https://news.walla.co.il/break/3833729
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צאטבוטים-סיפקו-הוראות-לייצור-�
 https://hamal.co.il/main/הקטל-בכבישים-ילד-בן-9-נהרג-מפגיעת-רכב-בסמוך-לירושלים-265957
 https://news.walla.co.il/break/3834574
 https://hamal.co.il/main/צהל-ממשיך-לתקוף-את-חיזבאללה-הושמדה-מנהרה-בראס-בידה-265959
+https://news.walla.co.il/break/3834576
+https://news.walla.co.il/break/3834579
+https://news.walla.co.il/break/3834578
+https://news.walla.co.il/break/3834580
+https://news.walla.co.il/item/3834577
+https://hamal.co.il/main/מרחובות-לצנעא-המשאית-הישראלית-שהגיעה-לידי-החותים-265962
