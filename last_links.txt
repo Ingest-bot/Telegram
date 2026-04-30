@@ -1,5 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/באמצע-הקיץ-נצפה-בין-ערד-למצדה-265481
+COUNTER:39
 https://news.walla.co.il/break/3833617
 https://hamal.co.il/main/בתום-הערכת-מצב-מדיניות-ההתגוננות-של-פיקוד-העורף-נותרת-ללא-ש-265483
 https://hamal.co.il/main/קנצלר-גרמניה-איראן-משפילה-את-ארהב-אני-מקווה-שזה-ייגמר-265482
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834465
 https://news.walla.co.il/item/3834462
 https://news.walla.co.il/item/3834461
 https://hamal.co.il/main/מאיר-אדוני-נגד-גיא-פלג-אמן-שיצטרך-שמירה-עד-יומו-האחרון-265889
+https://hamal.co.il/main/שבת-של-שרב-לג-בעומר-עם-שלג-המהפך-הקיצוני-של-מזג-האוויר-265891
