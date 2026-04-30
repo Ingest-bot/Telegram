@@ -1,7 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/המשקל-לא-מספר-את-כל-הסיפור-אלו-שיטות-המדידה-החדשות-דורון-קו-265491
-https://news.walla.co.il/break/3833652
-https://news.walla.co.il/break/3833651
+COUNTER:10
 https://news.walla.co.il/break/3833653
 https://hamal.co.il/main/נמצא-לאחר-שגופתו-הושחתה-חרדי-נרצח-בנסיבות-מסתוריות-בקולומבי-265497
 https://hamal.co.il/main/שטפונות-וחסימות-צירים-מזג-אוויר-מתעתע-בדרך-יואב-איתיאל-י-265498
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המאבק-באלימות-זה-הצעד-שנקט-בית
 https://news.walla.co.il/break/3834526
 https://news.walla.co.il/break/3834528
 https://hamal.co.il/main/מראה-מרהיב-דולפינים-נמצאו-בחיפה--התיעוד-265929
+https://news.walla.co.il/break/3834532
+https://hamal.co.il/main/אחרי-דקירת-אוהדי-מכבי-חיפה-מחוץ-לבלומפילד-מעצר-החשודים-הואר-265931
+https://hamal.co.il/main/איטליה-נגד-ההשתלטות-הישראלית-על-המשט-לעזה-265932
