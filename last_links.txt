@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/חידת-ביצת-הזהב-שנמצאה-במעמקי-הים-המדענים-סוף-סוף-גילו-מה-265424
-https://hamal.co.il/main/ידין-גלמן-בראיון-מדבר-על-הכל-ועל-החתונה-עם-אדווה-דדון-שנדחתה-265468
-https://news.walla.co.il/break/3833596
-https://news.walla.co.il/break/3833598
+COUNTER:34
 https://news.walla.co.il/break/3833597
 https://news.walla.co.il/break/3833599
 https://news.walla.co.il/item/3833594
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נשבע-אמונים-לדאעש-תושב-הצפון-נ
 https://news.walla.co.il/break/3834418
 https://hamal.co.il/main/צוקרברג-מבטיח-הדור-הבא-של-הבינה-המלאכותית-ינהל-עבורכם-את-הח-265875
 https://hamal.co.il/main/תמונת-מצב-מדאיגה-רק-22-מתלמידי-ט-עומדים-בדרישות-באנגלית-265878
+https://news.walla.co.il/break/3834428
+https://news.walla.co.il/break/3834431
+https://news.walla.co.il/item/3834424
+https://hamal.co.il/main/אותר-במסתור-סוס-נגנב-הוצע-ברשת-למכירה---והושב-הביתה-265879
