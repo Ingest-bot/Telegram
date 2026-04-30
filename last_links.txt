@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3833701
-https://news.walla.co.il/break/3833706
+COUNTER:18
 https://news.walla.co.il/break/3833704
 https://news.walla.co.il/item/3833703
 https://news.walla.co.il/break/3833707
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834558
 https://news.walla.co.il/item/3834560
 https://news.walla.co.il/item/3834559
 https://hamal.co.il/main/הותר-לפרסום-סמל-ליאם-בן-חמו-בן-19-נפל-בקרב-בדרום-לבנון-265950
+https://news.walla.co.il/item/3834562
+https://hamal.co.il/main/הפסקת-אש-זוהה-שיגור-מלבנון-שנפל-בשטח-פתוח-265951
