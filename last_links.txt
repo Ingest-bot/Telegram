@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/רעידת-אדמה-בעולם-הקריפטו-המחשב-שפיצח-את-הקוד-של-הביטקוין-דו-265484
-https://news.walla.co.il/break/3833629
-https://news.walla.co.il/item/3833623
+COUNTER:4
 https://hamal.co.il/main/דיווח-OpenAI-מפתחת-סמארטפון-ראשון-שיתחרה-באייפון-ינון-בן-שו-265485
 https://hamal.co.il/main/רוביו-265486
 https://news.walla.co.il/break/3833632
@@ -499,3 +496,6 @@ https://hamal.co.il/main/עונת-הקומבינה-למה-מחירי-החלב-ת
 https://hamal.co.il/main/פגיעת-רחפן-הנפץ-בשומרה-2-חיילים-נפצעו-בינוני-10-באורח-קל-265900
 https://hamal.co.il/main/טרור-העפיפונים-ביישובי-העוטף-2-עפיפוני-תבערה-שוגרו-לכיסופ-265905
 https://hamal.co.il/main/אירוע-ירי-ביקנעם-גבר-בן-30-פונה-במצב-בינוני-לביהח-265910
+https://news.walla.co.il/break/3834494
+https://news.walla.co.il/break/3834498
+https://hamal.co.il/main/למרות-הטכנולוגיות-בצהל-חיזבאללה-חדר-עם-רחפן-את-קו-הגבול-265911
