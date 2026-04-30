@@ -1,6 +1,4 @@
 COUNTER:34
-https://news.walla.co.il/break/3833597
-https://news.walla.co.il/break/3833599
 https://news.walla.co.il/item/3833594
 https://hamal.co.il/main/ריאל-מדריד-הודיעה-קיליאן-אמבפה-הפצוע-בספק-לקלאסיקו-265458
 https://hamal.co.il/main/נשיא-המדינה-החל-את-ביקורו-הרשמי-בקזחסטן-והתקבל-בטקס-קבלת-פני-265469
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834428
 https://news.walla.co.il/break/3834431
 https://news.walla.co.il/item/3834424
 https://hamal.co.il/main/אותר-במסתור-סוס-נגנב-הוצע-ברשת-למכירה---והושב-הביתה-265879
+https://news.walla.co.il/break/3834432
+https://news.walla.co.il/item/3834431
