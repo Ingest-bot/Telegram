@@ -1,12 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/שטפונות-וחסימות-צירים-מזג-אוויר-מתעתע-בדרך-יואב-איתיאל-י-265498
-https://news.walla.co.il/item/3833656
-https://hamal.co.il/main/דוברת-הבית-הלבן-הודיעה-כי-האבטחה-סביב-טראמפ-תתוגבר-לאחר-ניסי-265502
-https://news.walla.co.il/break/3833662
-https://news.walla.co.il/break/3833670
-https://hamal.co.il/main/צהל-תקף-יותר-מ-20-תשתיות-טרור-של-ארגון-הטרור-חיזבאללה-בבקעא-265503
-https://news.walla.co.il/break/3833677
-https://news.walla.co.il/break/3833681
+COUNTER:13
 https://hamal.co.il/main/כביש-40-נחסם-לשני-הכיוונים-בצומת-שדה-בוקר-בעקבות-שיטפון-יניר-265504
 https://news.walla.co.il/item/3833688
 https://news.walla.co.il/break/3833691
@@ -499,3 +491,11 @@ https://hamal.co.il/main/אחרי-דקירת-אוהדי-מכבי-חיפה-מחו
 https://hamal.co.il/main/איטליה-נגד-ההשתלטות-הישראלית-על-המשט-לעזה-265932
 https://news.walla.co.il/item/3834539
 https://hamal.co.il/main/המזוודות-יעברו-לידיים-רובוטיות-המהפכה-בשדה-התעופה-בטוקיו-265937
+https://news.walla.co.il/break/3834547
+https://news.walla.co.il/break/3834543
+https://news.walla.co.il/break/3834548
+https://news.walla.co.il/break/3834545
+https://news.walla.co.il/break/3834541
+https://news.walla.co.il/item/3834546
+https://hamal.co.il/main/הרכבת-האווירית-והימית-לישראל-מתרחבת-ישראל-קיבלה-ציוד-צבאי-265933
+https://hamal.co.il/main/רופא-מתמחה-בסורוקה-הורשע-נשבע-אמונים-לדאעש-265942
