@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/כוחותינו-השמידו-265531
-https://news.walla.co.il/break/3833740
-https://news.walla.co.il/item/3833744
+COUNTER:25
 https://hamal.co.il/main/בצהל-מתחקרים-משפחות-שכולות-הוכנסו-לאזור-לא-מטוהר-בלבנון-265517
 https://hamal.co.il/main/אחרי-שביקש-מהעוקבים-להתפלל---איתי-לוי-מעדכן-במצבה-של-אמו-265520
 https://news.walla.co.il/break/3833745
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-ח
 https://hamal.co.il/main/נתניהו-על-עצירת-המשט-לעזה-שימשיכו-לראות-אותה-ביוטיוב-265964
 https://news.walla.co.il/item/3834585
 https://news.walla.co.il/item/3834584
+https://news.walla.co.il/break/3834588
+https://news.walla.co.il/item/3834589
+https://hamal.co.il/main/ליאם-צפה-בדרבי-בבלומפילד-ואז-נכנס-ללבנון-265967
