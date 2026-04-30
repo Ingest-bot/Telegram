@@ -1,6 +1,4 @@
 COUNTER:5
-https://news.walla.co.il/break/3833630
-https://news.walla.co.il/item/3833629
 https://hamal.co.il/main/בעונה-הבאה-זה-ישתנה-הסיבה-שמשחקי-ליגת-העל-נערכים-במקביל-265406
 https://news.walla.co.il/item/3833641
 https://hamal.co.il/main/הרמטכ״ל-בעדכון-לסגל-הפיקוד-הבכיר-״אנחנו-עדיין-בתוך-מערכה-ר-265487
@@ -499,3 +497,5 @@ https://hamal.co.il/main/למרות-הטכנולוגיות-בצהל-חיזבאל
 https://news.walla.co.il/break/3834502
 https://news.walla.co.il/item/3834504
 https://hamal.co.il/main/אחת-ולתמיד-מה-שורף-יותר-קלוריות---הליכה-או-ריצה-265916
+https://news.walla.co.il/break/3834510
+https://news.walla.co.il/break/3834511
