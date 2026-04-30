@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/איתי-לוי-מבקש-התפללו-לרפואת-אימי-265449
-https://hamal.co.il/main/המבצע-של-צהל-בצפון-הרצועה-מנהרות-הושמדו-70-מחבלים-חוסלו-265457
-https://news.walla.co.il/break/3833571
+COUNTER:31
 https://hamal.co.il/main/הסוד-של-שדה-התעופה-הטוב-בעולם-למה-הוא-מנצח-כל-שנה-265421
 https://hamal.co.il/main/ילדה-הותקפה-265445
 https://hamal.co.il/main/חיזבאללה-שיגר-רחפן-נפץ-לעבר-כוחות-צה״ל-הפועלים-בדרום-לבנון-265459
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תיעוד-חריג-בקיבוץ-גילו-נחש-צפע
 https://news.walla.co.il/break/3834400
 https://news.walla.co.il/item/3834405
 https://hamal.co.il/main/גורם-ביטחוני-סירות-מטעם-משט-המחאה-עגנו-בקפריסין-265873
+https://news.walla.co.il/break/3834406
+https://news.walla.co.il/item/3834412
+https://hamal.co.il/main/נשבע-אמונים-לדאעש-תושב-הצפון-נאשם-בתכנון-פיגוע-נגד-חיילים-265874
