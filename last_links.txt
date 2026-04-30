@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-בדרום-שנחסמו-265447
-https://news.walla.co.il/break/3833564
-https://hamal.co.il/main/נשיא-לבנון-מגיב-לחיזבאללה-265448
+COUNTER:30
 https://hamal.co.il/main/איתי-לוי-מבקש-התפללו-לרפואת-אימי-265449
 https://hamal.co.il/main/המבצע-של-צהל-בצפון-הרצועה-מנהרות-הושמדו-70-מחבלים-חוסלו-265457
 https://news.walla.co.il/break/3833571
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מובילה-חברתית-ועורכת-דין-זו-הפ
 https://news.walla.co.il/break/3834396
 https://news.walla.co.il/item/3834394
 https://hamal.co.il/main/תיעוד-חריג-בקיבוץ-גילו-נחש-צפע-ששוחה-בבריכות-265872
+https://news.walla.co.il/break/3834400
+https://news.walla.co.il/item/3834405
+https://hamal.co.il/main/גורם-ביטחוני-סירות-מטעם-משט-המחאה-עגנו-בקפריסין-265873
