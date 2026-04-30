@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/item/3833560
-https://news.walla.co.il/item/3833561
-https://hamal.co.il/main/צהל-בהודעה-חריגה-פתחנו-בגל-תקיפות-ברחבי-לבנון-265446
+COUNTER:29
 https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-הכבישים-בדרום-שנחסמו-265447
 https://news.walla.co.il/break/3833564
 https://hamal.co.il/main/נשיא-לבנון-מגיב-לחיזבאללה-265448
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פגיעה-ישירה-שריפת-רכב-משוריין-
 https://hamal.co.il/main/מארגני-המשט-לעזה-טוענים-ישראל-חטפה-אזרחים-בתוקפנות-265868
 https://news.walla.co.il/item/3834386
 https://hamal.co.il/main/מובילה-חברתית-ועורכת-דין-זו-הפעילה-שמצטרפת-למפלגת-אייזנקוט-265869
+https://news.walla.co.il/break/3834396
+https://news.walla.co.il/item/3834394
+https://hamal.co.il/main/תיעוד-חריג-בקיבוץ-גילו-נחש-צפע-ששוחה-בבריכות-265872
