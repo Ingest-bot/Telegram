@@ -1,8 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/item/3833809
-https://news.walla.co.il/item/3833814
-https://hamal.co.il/main/כוכבת-חברים-דברים-מרושעים-התרחשו-מאחורי-הקלעים-של-הסדרה-265562
-https://hamal.co.il/main/כוחותינו-השלימו-מבצע-נרחב-בבנימין-שישה-מבוקשים-נעצרו-265563
 https://hamal.co.il/main/דיווח-קטאר-הבטיחה-לתובע-בהאג---אם-תפעל-נגד-נתניהו---נדאג-לך-265573
 https://hamal.co.il/main/לפיד-לבנט-מוכן-לעבור-למקום-ה-3-ברשימה-לטובת-איחוד-עם-איזנקו-265574
 https://news.walla.co.il/break/3833832
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3834618
 https://news.walla.co.il/item/3834620
 https://news.walla.co.il/break/3834622
 https://news.walla.co.il/break/3834624
+https://news.walla.co.il/break/3834628
+https://news.walla.co.il/break/3834629
+https://news.walla.co.il/break/3834632
+https://news.walla.co.il/break/3834633
