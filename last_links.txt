@@ -1,6 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/לפיד-לבנט-מוכן-לעבור-למקום-ה-3-ברשימה-לטובת-איחוד-עם-איזנקו-265574
-https://news.walla.co.il/break/3833832
 https://hamal.co.il/main/מחיר-הנפט-מזנק-ל-109-דולר-מיצר-הורמוז-הפך-לשטח-רפאים-265559
 https://news.walla.co.il/break/3833846
 https://news.walla.co.il/break/3833847
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834629
 https://news.walla.co.il/break/3834632
 https://news.walla.co.il/break/3834633
 https://news.walla.co.il/break/3834636
+https://news.walla.co.il/break/3834638
+https://news.walla.co.il/item/3834630
