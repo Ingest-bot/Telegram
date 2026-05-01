@@ -1,6 +1,4 @@
 COUNTER:0
-https://news.walla.co.il/break/3833968
-https://news.walla.co.il/break/3833969
 https://hamal.co.il/main/פיקוד-העורף-המדיניות-נותרת-ללא-שינוי-עד-יום-חמישי-265652
 https://hamal.co.il/main/נתניהו-265653
 https://hamal.co.il/main/האלימות-לא-מפסיקה-בן-12-זרק-אבן-על-נער-265654
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דוח-רשמי-חושף-כך-תורידו-עד-5-שנ�
 https://news.walla.co.il/break/3834756
 https://hamal.co.il/main/פעוטה-כבת-שנתיים-נפגעה-מרכב-בסלמה-מצבה-בינוני-266067
 https://hamal.co.il/main/המלחמה-על-ההחלמה--איגרת-ראש-אכ״א-266069
+https://news.walla.co.il/break/3834762
+https://news.walla.co.il/break/3834763
