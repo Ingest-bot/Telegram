@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3833848
 https://news.walla.co.il/item/3833844
 https://news.walla.co.il/item/3833841
 https://hamal.co.il/main/בבית-או-במכון-5-התרגילים-הכי-יעילים-לחיזוק-שרירי-הגב-265566
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3834630
 https://news.walla.co.il/break/3834641
 https://news.walla.co.il/break/3834643
 https://news.walla.co.il/item/3834639
+https://news.walla.co.il/break/3834646
