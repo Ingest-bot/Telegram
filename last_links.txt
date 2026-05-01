@@ -1,7 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3833950
-https://hamal.co.il/main/נתניהו-שוחח-עם-משפחתו-של-ימנו-זלקה-265643
-https://news.walla.co.il/break/3833952
+COUNTER:32
 https://news.walla.co.il/break/3833954
 https://hamal.co.il/main/כץ-על-השמדת-המנהרה-של-חיזבאללה-265644
 https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265645
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834735
 https://news.walla.co.il/break/3834738
 https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-חשודה-בלבנון-תוצאות-היירוט-בבדיקה-266055
 https://hamal.co.il/main/ארה״ב-תסגור-את-המפקדה-בקריית-גת-266056
+https://news.walla.co.il/item/3834737
+https://news.walla.co.il/item/3834735
+https://hamal.co.il/main/בעקבות-פעילות-צה״ל-רעשי-פיצוצים-266057
