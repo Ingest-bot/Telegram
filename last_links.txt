@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3833971
+COUNTER:5
 https://hamal.co.il/main/ההפגנה-בבני-ברק-265658
 https://news.walla.co.il/break/3833974
 https://hamal.co.il/main/אירוע-חריג-באשקלון-מפגינים-חרדים-265659
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אקס-ברצלונה-שביזה-את-דקת-הדומי
 https://news.walla.co.il/break/3834767
 https://hamal.co.il/main/אירוע-חריג-בקרית-אתא-רימון-הושלך-לעבר-266072
 https://hamal.co.il/main/דיווח-בוול-סטריט-ג׳ורנל-אלו-פרטי-ההצעה-שהגישה-איראן-266073
+https://hamal.co.il/main/גבר-בן-24-נפצע-באורח-קשה-באירוע-אלימות-בזרזיר-266075
