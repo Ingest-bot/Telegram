@@ -1,6 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3833985
-https://hamal.co.il/main/מהפך-בצמרת-בית״ר-ניצחה-את-הפועל-פ״ת---ועלתה-למקום-הראשון-265670
+COUNTER:11
 https://news.walla.co.il/item/3833986
 https://hamal.co.il/main/תיעוד-ילדים-בדרום-תא-זורקים-ביצים-על-תחנת-המשטרה-265663
 https://hamal.co.il/main/חלמתי-לגור-בארמון-הקשר-המשפחתי-של-טראמפ-למלך---והתגובה-265626
@@ -499,3 +497,5 @@ https://hamal.co.il/main/התרעות-על-חדירת-כטבם-באצבע-הגל
 https://hamal.co.il/main/שוב-התרעות-בצפון-ירי-טילים-בקריית-שמונה-והסביבה-266083
 https://hamal.co.il/main/טראמפ-על-האיראנים-לא-מספקים-את-מה-שצריך-בשביל-הסכם-266084
 https://news.walla.co.il/item/3834782
+https://news.walla.co.il/break/3834783
+https://hamal.co.il/main/בזמן-נסיעה-2-גברים-נרצחו-ביריות-באזור-רמלה-266087
