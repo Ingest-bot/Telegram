@@ -1,5 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/break/3833966
 https://news.walla.co.il/item/3833958
 https://hamal.co.il/main/האב-שילדיו-הותקפו-בדרום-תא-אעזוב-את-העיר--צפו-265648
 https://hamal.co.il/main/חלק-מתכנית-לכיבוש-הגליל-ערי-המקלט-של-חיזבאללה-נחשפות-265634
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ארה״ב-שולטת-מ-266060
 https://hamal.co.il/main/טראמפ-״איראן-רוצה-להגיע-להסכם-אבל-אני-לא-מרוצה-ממנו״-266061
 https://news.walla.co.il/item/3834749
 https://hamal.co.il/main/גבר-כבן-30-נרצח-ברהט-266062
+https://news.walla.co.il/break/3834753
