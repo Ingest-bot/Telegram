@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3833886
-https://hamal.co.il/main/רשת-הפארם-החדשה-שרוצה-לשבור-את-השוק-265596
-https://hamal.co.il/main/אשר-בן-עוז-ממשיך-להסתבך-האיש-והפוסקאס-בדרך-לכלא-265586
+COUNTER:7
 https://news.walla.co.il/break/3833891
 https://news.walla.co.il/item/3833889
 https://hamal.co.il/main/החלטה-דרמטית-איחוד-האמירויות-פורשת-מארגון-המדינות-המייצאות-265615
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3834678
 https://hamal.co.il/main/ההתרעות-בראש-הנקרה-חיל-האוויר-ירט-כטב״ם-מלבנון-266007
 https://hamal.co.il/main/בפיקוד-העורף-נערכים-לשינוי-יישובים-סמוכי-גדר-יוגדרו-צהובים-266006
 https://hamal.co.il/main/כוחותינו-החרימו-מחרטה-לייצור-נשק-בשכם-266008
+https://news.walla.co.il/break/3834686
+https://news.walla.co.il/break/3834685
+https://hamal.co.il/main/ביממה-האחרונה-יותר-מ-40-מטרות-של-חיזבאללה-הותקפו-266009
