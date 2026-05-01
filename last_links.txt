@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3833861
-https://hamal.co.il/main/למה-עדיין-קיים-טלפון-קווי-בחדרי-המלון-מסתבר-שיש-סיבות-טובות-265579
+COUNTER:39
 https://news.walla.co.il/break/3833863
 https://news.walla.co.il/break/3833865
 https://news.walla.co.il/break/3833864
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834652
 https://hamal.co.il/main/2-קטינים-נעצרו-בחשד-לקטטה-בבית-ספר-באור-עקיבא-265993
 https://news.walla.co.il/break/3834657
 https://news.walla.co.il/break/3834656
+https://hamal.co.il/main/זמני-כניסת-השבת-פרשת-״אמור״-265991
+https://hamal.co.il/main/האיחוד-יעבוד-בנט-ולפיד-מתחזקים-נתניהו-נחלש--סקר-מעריב-265995
