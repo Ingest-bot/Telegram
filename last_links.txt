@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/item/3833912
-https://hamal.co.il/main/צפו-המסר-של-שר-החוץ-הסרבי---בעברית-265621
-https://hamal.co.il/main/טראמפ-אירא-265622
-https://news.walla.co.il/break/3833913
+COUNTER:16
 https://news.walla.co.il/item/3833914
 https://news.walla.co.il/item/3833917
 https://news.walla.co.il/item/3833910
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שני-לוחמים-נפצעו-קל-כתוצאה-מפג
 https://news.walla.co.il/break/3834700
 https://news.walla.co.il/item/3834699
 https://hamal.co.il/main/חיל-האוויר-יירט-רחפן-ששוגר-לעבר-כוחותינו-בדרום-לבנון-266031
+https://news.walla.co.il/break/3834702
+https://news.walla.co.il/break/3834703
+https://hamal.co.il/main/צפון-מקדוניה-7-חשודים-בניסיון-ההצתה-של-בניין-הקהילה-היהודית-266032
+https://hamal.co.il/main/הסדר-פשרה-אפל-תשלם-עד-1890-שקלים-ללקוחות-ישראליים-266026
