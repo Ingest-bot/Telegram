@@ -1,10 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-לבית-אורן-265610
-https://news.walla.co.il/break/3833881
-https://news.walla.co.il/item/3833882
-https://news.walla.co.il/item/3833880
-https://hamal.co.il/main/נבחרת-ישראל-בצירלידינג-זכתה-במדליית-ארד-בזירה-הבינלאומית-265613
-https://news.walla.co.il/break/3833884
+COUNTER:6
 https://news.walla.co.il/break/3833886
 https://hamal.co.il/main/רשת-הפארם-החדשה-שרוצה-לשבור-את-השוק-265596
 https://hamal.co.il/main/אשר-בן-עוז-ממשיך-להסתבך-האיש-והפוסקאס-בדרך-לכלא-265586
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3834672
 https://hamal.co.il/main/מחקר-חדש-זה-הפרי-שמפחית-דלקת-ומגן-על-הלב-שלכם-266002
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כטב״ם-במרחב-ראש-הנקרה-הפרטים-בבדיקה-266004
 https://hamal.co.il/main/יוון-הסכימה-שפעילי-המשט-יורדו-לחופיה-266005
+https://news.walla.co.il/break/3834681
+https://news.walla.co.il/break/3834682
+https://news.walla.co.il/item/3834678
+https://hamal.co.il/main/ההתרעות-בראש-הנקרה-חיל-האוויר-ירט-כטב״ם-מלבנון-266007
+https://hamal.co.il/main/בפיקוד-העורף-נערכים-לשינוי-יישובים-סמוכי-גדר-יוגדרו-צהובים-266006
+https://hamal.co.il/main/כוחותינו-החרימו-מחרטה-לייצור-נשק-בשכם-266008
