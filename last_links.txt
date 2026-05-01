@@ -1,9 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3833841
-https://hamal.co.il/main/בבית-או-במכון-5-התרגילים-הכי-יעילים-לחיזוק-שרירי-הגב-265566
-https://hamal.co.il/main/מתיחות-עם-אוקראינה-זלנסקי-מאיים-בסנקציות-נגד-ישראל-265588
-https://news.walla.co.il/break/3833857
-https://news.walla.co.il/item/3833848
+COUNTER:36
 https://hamal.co.il/main/טבעת-החנק-מתהדקת---ובאיראן-שוקלים-מהלך-קיצוני-265569
 https://hamal.co.il/main/הכלכלן-הבכיר-שאול-מרידור-מצטרף-למפלגתו-של-איזנקוט-265591
 https://news.walla.co.il/item/3833854
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3834643
 https://news.walla.co.il/item/3834639
 https://news.walla.co.il/break/3834646
 https://news.walla.co.il/item/3834648
+https://news.walla.co.il/item/3834650
+https://hamal.co.il/main/דיווח-בארהב-נערכים-לאפשרות-של-מכת-סיום-באיראן-265985
+https://hamal.co.il/main/דיווח-ישראל-העבירה-לאיחוד-האמירויות-מערכות-לייזר-והגנה-265988
+https://hamal.co.il/main/גבר-כבן-60-טבע-בחוף-פולג-מצבו-אנוש-265990
+https://hamal.co.il/main/פעולות-חילוץ-של-גבר-שנתקע-עם-רחפן-על-קווי-מתח-סמוך-לערבה-265992
