@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3833954
-https://hamal.co.il/main/כץ-על-השמדת-המנהרה-של-חיזבאללה-265644
-https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265645
+COUNTER:34
 https://hamal.co.il/main/החכ-הבכיר-ביש-עתיד-הכריז-ארוץ-עם-איזנקוט-265646
 https://news.walla.co.il/break/3833957
 https://news.walla.co.il/break/3833958
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ארה״ב-תסגור-את-המפקדה-בקריית-ג
 https://news.walla.co.il/item/3834737
 https://news.walla.co.il/item/3834735
 https://hamal.co.il/main/בעקבות-פעילות-צה״ל-רעשי-פיצוצים-266057
+https://news.walla.co.il/break/3834742
+https://hamal.co.il/main/אעלה-את-המכסים-המוטלים-על-האיחוד-האירופי-עבור-מכוניות-ומשאיו-266058
+https://hamal.co.il/main/רוכבת-קורקינט-חשמלי-בת-16-נפצעה-באורח-בינוני-בראשון-לציון-266059
