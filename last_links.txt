@@ -1,6 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/טראמפ-תוקף-את-קנצלר-265665
-https://hamal.co.il/main/נתניהו-על-הפריצה-ליתו-של-קצין-המשטרה-הצבאית-לפעול-ביד-קשה-265669
+COUNTER:10
 https://hamal.co.il/main/דיווח-בארהב-בוחנים-איך-איראן-תגיב-אם-טראמפ-יכריז-על-ניצחון-265668
 https://news.walla.co.il/item/3833985
 https://hamal.co.il/main/מהפך-בצמרת-בית״ר-ניצחה-את-הפועל-פ״ת---ועלתה-למקום-הראשון-265670
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834779
 https://news.walla.co.il/break/3834780
 https://news.walla.co.il/break/3834781
 https://hamal.co.il/main/התרעות-על-חדירת-כטבם-באצבע-הגליל-ובגולן-266079
+https://hamal.co.il/main/שוב-התרעות-בצפון-ירי-טילים-בקריית-שמונה-והסביבה-266083
+https://hamal.co.il/main/טראמפ-על-האיראנים-לא-מספקים-את-מה-שצריך-בשביל-הסכם-266084
