@@ -1,7 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/האב-שילדיו-הותקפו-בדרום-תא-אעזוב-את-העיר--צפו-265648
-https://hamal.co.il/main/חלק-מתכנית-לכיבוש-הגליל-ערי-המקלט-של-חיזבאללה-נחשפות-265634
-https://hamal.co.il/main/מעל-450-טון-חומר-נפץ-כך-הושמדו-המנהרות-של-חיזבאללה--צפו-265651
+COUNTER:0
 https://news.walla.co.il/break/3833968
 https://news.walla.co.il/break/3833969
 https://hamal.co.il/main/פיקוד-העורף-המדיניות-נותרת-ללא-שינוי-עד-יום-חמישי-265652
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3834749
 https://hamal.co.il/main/גבר-כבן-30-נרצח-ברהט-266062
 https://news.walla.co.il/break/3834753
 https://hamal.co.il/main/דוח-רשמי-חושף-כך-תורידו-עד-5-שנים-מהגיל-הביולוגי-שלכם-266065
+https://news.walla.co.il/break/3834756
+https://hamal.co.il/main/פעוטה-כבת-שנתיים-נפגעה-מרכב-בסלמה-מצבה-בינוני-266067
+https://hamal.co.il/main/המלחמה-על-ההחלמה--איגרת-ראש-אכ״א-266069
