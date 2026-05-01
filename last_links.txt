@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/גבר-נמשה-מהמים-במצב-אנוש-בחוף-הים-בתא-265619
-https://news.walla.co.il/break/3833910
-https://news.walla.co.il/item/3833906
+COUNTER:14
 https://news.walla.co.il/item/3833912
 https://hamal.co.il/main/צפו-המסר-של-שר-החוץ-הסרבי---בעברית-265621
 https://hamal.co.il/main/טראמפ-אירא-265622
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המשלחת-הישראלית-לאירוויזיון-ה
 https://hamal.co.il/main/המערה-הגדולה-בעולם-נמצאה---ואז-נעלמה-ל-17-שנה-בגלל-טעות-אחת-266028
 https://hamal.co.il/main/הנחיות-פיקוד-העורף-עודכנו-יישובי-קו-העימות-הפכו-לצהובים-266029
 https://hamal.co.il/main/שני-לוחמים-נפצעו-קל-כתוצאה-מפגיעת-רחפן-נפץ-בדרום-לבנון-266030
+https://news.walla.co.il/break/3834700
+https://news.walla.co.il/item/3834699
+https://hamal.co.il/main/חיל-האוויר-יירט-רחפן-ששוגר-לעבר-כוחותינו-בדרום-לבנון-266031
