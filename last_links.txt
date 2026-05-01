@@ -1,6 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/תיעוד-ילדים-בדרום-תא-זורקים-ביצים-על-תחנת-המשטרה-265663
-https://hamal.co.il/main/חלמתי-לגור-בארמון-הקשר-המשפחתי-של-טראמפ-למלך---והתגובה-265626
+COUNTER:13
 https://news.walla.co.il/break/3833989
 https://news.walla.co.il/break/3833988
 https://news.walla.co.il/break/3833991
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834782
 https://news.walla.co.il/break/3834783
 https://hamal.co.il/main/בזמן-נסיעה-2-גברים-נרצחו-ביריות-באזור-רמלה-266087
 https://hamal.co.il/main/ההתרעות-לעבר-הצפון-צהל-יירט-בהצלחה-מספר-מטרות-אוויריות-266088
+https://news.walla.co.il/break/3834785
+https://hamal.co.il/main/המעצר-המתוקשר-בחאפלה-בפוריידיס-כל-23-החשודים-שוחררו-266089
