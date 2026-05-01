@@ -1,5 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/ביסמוט-המשטר-האיראני-עומד-לשלם-מחיר-כבד-מאוד-265608
+COUNTER:3
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-לבית-אורן-265610
 https://news.walla.co.il/break/3833881
 https://news.walla.co.il/item/3833882
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834671
 https://news.walla.co.il/break/3834672
 https://hamal.co.il/main/מחקר-חדש-זה-הפרי-שמפחית-דלקת-ומגן-על-הלב-שלכם-266002
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כטב״ם-במרחב-ראש-הנקרה-הפרטים-בבדיקה-266004
+https://hamal.co.il/main/יוון-הסכימה-שפעילי-המשט-יורדו-לחופיה-266005
