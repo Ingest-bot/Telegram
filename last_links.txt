@@ -1,6 +1,4 @@
 COUNTER:37
-https://news.walla.co.il/item/3833854
-https://news.walla.co.il/item/3833859
 https://news.walla.co.il/item/3833861
 https://hamal.co.il/main/למה-עדיין-קיים-טלפון-קווי-בחדרי-המלון-מסתבר-שיש-סיבות-טובות-265579
 https://news.walla.co.il/break/3833863
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גבר-כבן-60-טבע-בחוף-פולג-מצבו-אנ
 https://hamal.co.il/main/פעולות-חילוץ-של-גבר-שנתקע-עם-רחפן-על-קווי-מתח-סמוך-לערבה-265992
 https://news.walla.co.il/item/3834652
 https://hamal.co.il/main/2-קטינים-נעצרו-בחשד-לקטטה-בבית-ספר-באור-עקיבא-265993
+https://news.walla.co.il/break/3834657
+https://news.walla.co.il/break/3834656
