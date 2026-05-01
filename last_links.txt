@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/האלימות-לא-מפסיקה-בן-12-זרק-אבן-על-נער-265654
-https://hamal.co.il/main/שריפה-פרצה-בבניין-מגורים-בביתר-עילית-7-פצועים-פונו-במצב-קל-265655
-https://hamal.co.il/main/חכ-מיש-עתיד-חוזר-בו-נשאר-כחבר-במפלגה-265656
+COUNTER:4
 https://news.walla.co.il/break/3833971
 https://hamal.co.il/main/ההפגנה-בבני-ברק-265658
 https://news.walla.co.il/break/3833974
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834762
 https://news.walla.co.il/break/3834763
 https://hamal.co.il/main/הבית-הלבן-הודיע-שטראמפ-אינו-זקוק-לאישור-לפעילות-באיראן-266070
 https://hamal.co.il/main/אקס-ברצלונה-שביזה-את-דקת-הדומיה-לזכר-7-באוקטובר-חגג-עם-דגל-פ-266071
+https://news.walla.co.il/break/3834767
+https://hamal.co.il/main/אירוע-חריג-בקרית-אתא-רימון-הושלך-לעבר-266072
+https://hamal.co.il/main/דיווח-בוול-סטריט-ג׳ורנל-אלו-פרטי-ההצעה-שהגישה-איראן-266073
