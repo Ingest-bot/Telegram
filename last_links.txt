@@ -1,8 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3833979
-https://news.walla.co.il/item/3833980
-https://hamal.co.il/main/הרמטכל-על-הפריצה-לביתו-של-קצין-המשטרה-הצבאית-קו-אדום-265664
-https://hamal.co.il/main/בדקה-ה-96-הפועל-בש-הפסידה-למכבי-תא-265667
+COUNTER:8
 https://hamal.co.il/main/טראמפ-תוקף-את-קנצלר-265665
 https://hamal.co.il/main/נתניהו-על-הפריצה-ליתו-של-קצין-המשטרה-הצבאית-לפעול-ביד-קשה-265669
 https://hamal.co.il/main/דיווח-בארהב-בוחנים-איך-איראן-תגיב-אם-טראמפ-יכריז-על-ניצחון-265668
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3834776
 https://hamal.co.il/main/ארה״ב-מטילה-סנקציות-חדשות-266066
 https://news.walla.co.il/item/3834778
 https://hamal.co.il/main/אוסטרליה-סוערת-ילדה-אבוריגינית-נחטפה-ונרצחה-תושבים-התעמתו-266074
+https://news.walla.co.il/break/3834779
+https://news.walla.co.il/break/3834780
+https://news.walla.co.il/break/3834781
+https://hamal.co.il/main/התרעות-על-חדירת-כטבם-באצבע-הגליל-ובגולן-266079
