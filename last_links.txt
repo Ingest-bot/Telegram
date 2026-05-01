@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3833914
-https://news.walla.co.il/item/3833917
+COUNTER:17
 https://news.walla.co.il/item/3833910
 https://hamal.co.il/main/גנב-אמבולנס-כי-לא-היה-מרוצה-מהטיפול-אישום-נגד-תושב-זמר-265623
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בגליל-265624
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834702
 https://news.walla.co.il/break/3834703
 https://hamal.co.il/main/צפון-מקדוניה-7-חשודים-בניסיון-ההצתה-של-בניין-הקהילה-היהודית-266032
 https://hamal.co.il/main/הסדר-פשרה-אפל-תשלם-עד-1890-שקלים-ללקוחות-ישראליים-266026
+https://news.walla.co.il/break/3834705
+https://hamal.co.il/main/יותר-מ-900-תשתיות-טרור-הושמדו-תיעוד-מבינת-ג׳בייל-266033
