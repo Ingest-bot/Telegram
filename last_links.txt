@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3833910
-https://hamal.co.il/main/גנב-אמבולנס-כי-לא-היה-מרוצה-מהטיפול-אישום-נגד-תושב-זמר-265623
+COUNTER:18
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בגליל-265624
 https://hamal.co.il/main/בן-גביר-על-דוח-המבקר-שקר-גס-הנתונים-מעוותים-265625
 https://news.walla.co.il/break/3833920
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צפון-מקדוניה-7-חשודים-בניסיון-�
 https://hamal.co.il/main/הסדר-פשרה-אפל-תשלם-עד-1890-שקלים-ללקוחות-ישראליים-266026
 https://news.walla.co.il/break/3834705
 https://hamal.co.il/main/יותר-מ-900-תשתיות-טרור-הושמדו-תיעוד-מבינת-ג׳בייל-266033
+https://news.walla.co.il/break/3834707
+https://hamal.co.il/main/שני-פצועים-קל-מפגיעת-רחפן-נפץ-סמוך-למשגב-עם-266035
