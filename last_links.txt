@@ -1,6 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3833904
-https://news.walla.co.il/break/3833906
+COUNTER:12
 https://hamal.co.il/main/פלסטיניזציה-ואובדן-שליטה-דוח-מבקר-המדינה-על-הנגב-265617
 https://hamal.co.il/main/גבר-נמשה-מהמים-במצב-אנוש-בחוף-הים-בתא-265619
 https://news.walla.co.il/break/3833910
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יובל-כספית-מגיבה-לביקורות-אף-א
 https://news.walla.co.il/break/3834695
 https://news.walla.co.il/item/3834688
 https://hamal.co.il/main/המשלחת-הישראלית-לאירוויזיון-המריאה-לוינה-266020
+https://hamal.co.il/main/המערה-הגדולה-בעולם-נמצאה---ואז-נעלמה-ל-17-שנה-בגלל-טעות-אחת-266028
+https://hamal.co.il/main/הנחיות-פיקוד-העורף-עודכנו-יישובי-קו-העימות-הפכו-לצהובים-266029
