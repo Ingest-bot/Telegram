@@ -1,5 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3833936
+COUNTER:25
 https://news.walla.co.il/item/3833943
 https://hamal.co.il/main/אשדוד-265636
 https://hamal.co.il/main/צהל-הופעלו-אזעקות-במשגב-עם-הפרטים-בבדיקה-265638
@@ -499,3 +498,4 @@ https://hamal.co.il/main/קצין-וחייל-במילואים-נפצעו-באו�
 https://news.walla.co.il/break/3834720
 https://news.walla.co.il/break/3834722
 https://hamal.co.il/main/זו-התשובה-של-נתניהו-לבנט-ולפיד-אחרי-הביקורת-על-מצבו-הרפואי-266044
+https://hamal.co.il/main/צהל-עצר-יותר-מ-80-מבוקשים-והחרים-אמצעי-לחימה-ביהודה-ושומרון-266045
