@@ -1,7 +1,4 @@
 COUNTER:32
-https://hamal.co.il/main/מחיר-הנפט-מזנק-ל-109-דולר-מיצר-הורמוז-הפך-לשטח-רפאים-265559
-https://news.walla.co.il/break/3833846
-https://news.walla.co.il/break/3833847
 https://news.walla.co.il/break/3833848
 https://news.walla.co.il/item/3833844
 https://news.walla.co.il/item/3833841
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834633
 https://news.walla.co.il/break/3834636
 https://news.walla.co.il/break/3834638
 https://news.walla.co.il/item/3834630
+https://news.walla.co.il/break/3834641
+https://news.walla.co.il/break/3834643
+https://news.walla.co.il/item/3834639
