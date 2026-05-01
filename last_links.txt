@@ -1,7 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3833891
-https://news.walla.co.il/item/3833889
-https://hamal.co.il/main/החלטה-דרמטית-איחוד-האמירויות-פורשת-מארגון-המדינות-המייצאות-265615
+COUNTER:9
 https://news.walla.co.il/item/3833896
 https://hamal.co.il/main/תושב-רמלה-נעצר-בחשד-ששדד-תחנת-דלק-באיומי-סכין-265616
 https://news.walla.co.il/break/3833903
@@ -499,3 +496,6 @@ https://hamal.co.il/main/כוחותינו-החרימו-מחרטה-לייצור-�
 https://news.walla.co.il/break/3834686
 https://news.walla.co.il/break/3834685
 https://hamal.co.il/main/ביממה-האחרונה-יותר-מ-40-מטרות-של-חיזבאללה-הותקפו-266009
+https://news.walla.co.il/break/3834691
+https://hamal.co.il/main/הפלוגה-המבצעית-של-גדוד-רותם-בחטיבת-גבעתי-מאחלים-לכם-שבת-שבת-266011
+https://hamal.co.il/main/יובל-כספית-מגיבה-לביקורות-אף-אישה-לא-צריכה-להסתיר-את-עצמה״-266015
