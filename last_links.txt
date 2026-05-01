@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3833919
-https://hamal.co.il/main/בשל-הפגנות-החרדים-כביש-4-נחסם-לתנועה-265627
-https://hamal.co.il/main/צהל-חיזבאללה-שיגר-כטבמים-לעבר-כוחותינו-אין-נפגעים-265628
-https://news.walla.co.il/break/3833922
-https://news.walla.co.il/break/3833924
+COUNTER:21
 https://news.walla.co.il/break/3833926
 https://news.walla.co.il/item/3833933
 https://news.walla.co.il/item/3833934
@@ -499,3 +494,8 @@ https://hamal.co.il/main/שני-פצועים-קל-מפגיעת-רחפן-נפץ-�
 https://news.walla.co.il/break/3834711
 https://news.walla.co.il/break/3834712
 https://hamal.co.il/main/איראן-העבירה-הצעת-הסכם-מעודכנת-לארה״ב-דרך-פקיסטן-266036
+https://news.walla.co.il/break/3834714
+https://news.walla.co.il/item/3834716
+https://news.walla.co.il/item/3834715
+https://hamal.co.il/main/צה״ל-מתחקרים-את-נפילת-רחפן-הנפץ-ששוגר-מלבנון-266037
+https://hamal.co.il/main/הכוח-לבחור-גם-כשאין-שליטה---על-ד״ר-אדית-איגר--איריס-חיים-266038
