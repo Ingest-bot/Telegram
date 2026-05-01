@@ -1,8 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3833863
-https://news.walla.co.il/break/3833865
-https://news.walla.co.il/break/3833864
-https://news.walla.co.il/item/3833866
+COUNTER:0
 https://hamal.co.il/main/רכב-פגע-בהולכי-רגל-בסחנין-שניים-נפצעו-קשה-265597
 https://hamal.co.il/main/כוחותינו-השמידו-תוואי-תת-קרקעי-ואמלח-רב-של-חיזבאללה-265603
 https://hamal.co.il/main/בני-משפחתו-של-דסטאו-צקול-שנרצח-בבש-מאיפה-האכזריות-הזאת-265583
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3834657
 https://news.walla.co.il/break/3834656
 https://hamal.co.il/main/זמני-כניסת-השבת-פרשת-״אמור״-265991
 https://hamal.co.il/main/האיחוד-יעבוד-בנט-ולפיד-מתחזקים-נתניהו-נחלש--סקר-מעריב-265995
+https://news.walla.co.il/break/3834665
+https://news.walla.co.il/break/3834663
+https://news.walla.co.il/item/3834662
+https://hamal.co.il/main/פרשת-׳אמור׳-מה-ההבדל-בין-המילה-׳אמר׳-למילה-׳דבר׳-אל׳-266000
