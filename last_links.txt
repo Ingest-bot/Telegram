@@ -1,9 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/לאחר-אזהרת-צהל-מנהרה-ענקית-של-חיזבאללה-הושמדה-בלבנון-265641
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-שוגרו-מיירטים-התוצאות-בבדיקה-265642
-https://news.walla.co.il/break/3833948
-https://news.walla.co.il/break/3833947
-https://news.walla.co.il/break/3833949
+COUNTER:31
 https://news.walla.co.il/break/3833950
 https://hamal.co.il/main/נתניהו-שוחח-עם-משפחתו-של-ימנו-זלקה-265643
 https://news.walla.co.il/break/3833952
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תם-עידן-במטכל-האלוף-האחרון-שהפ
 https://news.walla.co.il/item/3834730
 https://hamal.co.il/main/3-פצועים-באורח-בינוני-וקל-בתאונת-דרכים-סמוך-לברטעה-266054
 https://hamal.co.il/main/ישראל-תעמיד-לדין-את-מובילי-המשט-לעזה-266053
+https://news.walla.co.il/break/3834734
+https://news.walla.co.il/break/3834735
+https://news.walla.co.il/break/3834738
+https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-חשודה-בלבנון-תוצאות-היירוט-בבדיקה-266055
+https://hamal.co.il/main/ארה״ב-תסגור-את-המפקדה-בקריית-גת-266056
