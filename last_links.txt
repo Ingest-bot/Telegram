@@ -1,6 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/2-ילדים-נפצעו-באורח-קשה-ובינוני-באירוע-אלימות-בנגב-265704
-https://hamal.co.il/main/מכת-נמלים-במטבח-האם-התבלין-הפופולרי-בארון-שלכם-הוא-הפתרון-265699
+COUNTER:34
 https://news.walla.co.il/break/3834077
 https://hamal.co.il/main/צהל-יורטה-265706
 https://hamal.co.il/main/שבח-ניסה-להימלט-ממעצר---265705
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סטארמר-שוקל-הגבלות-על-הפגנות-פ
 https://news.walla.co.il/break/3834858
 https://news.walla.co.il/break/3834856
 https://news.walla.co.il/item/3834789
+https://news.walla.co.il/break/3834859
+https://hamal.co.il/main/המצור-הימי-כבר-עובד-וטראמפ-מחזק-את-צוות-המומ-עם-איראן-266138
