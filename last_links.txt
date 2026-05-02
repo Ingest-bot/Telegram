@@ -1,5 +1,4 @@
 COUNTER:20
-https://news.walla.co.il/break/3834015
 https://news.walla.co.il/item/3833972
 https://hamal.co.il/main/ארהב-ומדינות-נוספות-מגבות-את-פנמה-סין-מערערת-על-הריבונות-265683
 https://hamal.co.il/main/בריטניה-שוקלת-התערבות-כלכלית-בשל-השפעות-המלחמה-נגד-איראן-265684
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אשדוד-בן-71-נפצע-בינוני-מנשיכת-�
 https://news.walla.co.il/break/3834795
 https://news.walla.co.il/item/3834792
 https://hamal.co.il/main/ניו-יורק-ילד-חרדי-נהרג-מפגיעת-אוטובוס-266098
+https://news.walla.co.il/break/3834796
