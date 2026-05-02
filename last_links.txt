@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/כולנו-נושמים-אויר-מזוהם-מחקר-מצא-איזה-מאכל-מגן-על-הריאות-של-265697
-https://news.walla.co.il/break/3834053
+COUNTER:31
 https://news.walla.co.il/item/3834055
 https://news.walla.co.il/item/3834064
 https://hamal.co.il/main/השר-דיכטר-מודה-אנחנו-מוגבלים-בלבנון-בגלל-השותף-האמריקני-265701
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834835
 https://hamal.co.il/main/פורטר-גוניור-על-היחס-לאבדיה-רק-כי-הוא-יהודי-זה-מוזר-266128
 https://news.walla.co.il/break/3834837
 https://news.walla.co.il/break/3834838
+https://news.walla.co.il/break/3834843
+https://hamal.co.il/main/חיל-האוויר-יירט-בהצלחה-רקטה-ששוגרה-לעבר-כוחות-צהל-בדרום-לבנ-266129
