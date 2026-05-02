@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/חמוש---ומפציץ-באיראן-265728
-https://news.walla.co.il/item/3834124
-https://news.walla.co.il/item/3834120
+COUNTER:3
 https://hamal.co.il/main/התחזו-לישראלים-265730
 https://news.walla.co.il/break/3834133
 https://news.walla.co.il/break/3834135
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834883
 https://news.walla.co.il/break/3834884
 https://news.walla.co.il/break/3834886
 https://hamal.co.il/main/יום-לפני-הדיון-בהארכת-מעצרם-בכירי-המשט-הכריזו-על-שביתת-רעב-266147
+https://news.walla.co.il/break/3834889
+https://news.walla.co.il/break/3834890
+https://hamal.co.il/main/במספר-אירועים-שונים-צהל-חיסל-מחבלים-ברצועת-עזה-266162
