@@ -1,9 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/כוחות-צה״ל-ביצעו-מעצרים-של-חשודים-בקבטיה-265686
-https://hamal.co.il/main/מחבלים-תקפו-2-חיילים-שנפצעו-בחטיבת-בנימין-הכוחות-הגיבו-בירי-265687
-https://hamal.co.il/main/חוזרים-לים-העלייה-בטמפרטורות-מתחילה---לקראת-שיא-בסופש-265689
-https://hamal.co.il/main/נכנסו-למבנה---והותקפו-עם-סכין-שני-לוחמים-נפצעו-בבנימין-265690
-https://news.walla.co.il/item/3834022
+COUNTER:23
 https://hamal.co.il/main/צה״ל-תקף-תשתיות-של-חיזבאללה-במספר-מרחבים-בדרום-לבנון-265691
 https://hamal.co.il/main/דיווח-טראמפ-נערך-להארכת-המצור-הכלכלי-על-איראן-265694
 https://news.walla.co.il/break/3834026
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-ל
 https://news.walla.co.il/break/3834803
 https://news.walla.co.il/item/3834801
 https://hamal.co.il/main/שריפה-פרצה-בדירה-266101
+https://news.walla.co.il/break/3834811
+https://news.walla.co.il/break/3834810
+https://news.walla.co.il/break/3834812
+https://news.walla.co.il/item/3834813
+https://hamal.co.il/main/כ-50-תקיפות-ביממה-האחרונה-צהל-ממשיך-לתקוף-בדרום-לבנון-266103
