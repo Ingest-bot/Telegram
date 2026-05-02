@@ -1,7 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/בריטניה-שוקלת-התערבות-כלכלית-בשל-השפעות-המלחמה-נגד-איראן-265684
-https://hamal.co.il/main/טראמפ-המלך-צארלס-ואני-לא-נאפשר-לאיראן-להשיג-נשק-גרעיני-265685
-https://news.walla.co.il/break/3834018
+COUNTER:22
 https://hamal.co.il/main/כוחות-צה״ל-ביצעו-מעצרים-של-חשודים-בקבטיה-265686
 https://hamal.co.il/main/מחבלים-תקפו-2-חיילים-שנפצעו-בחטיבת-בנימין-הכוחות-הגיבו-בירי-265687
 https://hamal.co.il/main/חוזרים-לים-העלייה-בטמפרטורות-מתחילה---לקראת-שיא-בסופש-265689
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ניו-יורק-ילד-חרדי-נהרג-מפגיעת-�
 https://news.walla.co.il/break/3834796
 https://news.walla.co.il/item/3834525
 https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-לתושבי-לבנון-266100
+https://news.walla.co.il/break/3834803
+https://news.walla.co.il/item/3834801
+https://hamal.co.il/main/שריפה-פרצה-בדירה-266101
