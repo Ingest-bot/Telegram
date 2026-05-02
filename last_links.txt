@@ -1,5 +1,4 @@
 COUNTER:34
-https://news.walla.co.il/break/3834077
 https://hamal.co.il/main/צהל-יורטה-265706
 https://hamal.co.il/main/שבח-ניסה-להימלט-ממעצר---265705
 https://news.walla.co.il/break/3834088
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834856
 https://news.walla.co.il/item/3834789
 https://news.walla.co.il/break/3834859
 https://hamal.co.il/main/המצור-הימי-כבר-עובד-וטראמפ-מחזק-את-צוות-המומ-עם-איראן-266138
+https://news.walla.co.il/break/3834861
