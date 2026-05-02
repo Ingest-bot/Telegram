@@ -1,5 +1,4 @@
 COUNTER:30
-https://news.walla.co.il/break/3834051
 https://hamal.co.il/main/כולנו-נושמים-אויר-מזוהם-מחקר-מצא-איזה-מאכל-מגן-על-הריאות-של-265697
 https://news.walla.co.il/break/3834053
 https://news.walla.co.il/item/3834055
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834834
 https://news.walla.co.il/break/3834835
 https://hamal.co.il/main/פורטר-גוניור-על-היחס-לאבדיה-רק-כי-הוא-יהודי-זה-מוזר-266128
 https://news.walla.co.il/break/3834837
+https://news.walla.co.il/break/3834838
