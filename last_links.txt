@@ -1,5 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/צה״ל-תקף-תשתיות-של-חיזבאללה-במספר-מרחבים-בדרום-לבנון-265691
+COUNTER:24
 https://hamal.co.il/main/דיווח-טראמפ-נערך-להארכת-המצור-הכלכלי-על-איראן-265694
 https://news.walla.co.il/break/3834026
 https://news.walla.co.il/break/3834024
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834810
 https://news.walla.co.il/break/3834812
 https://news.walla.co.il/item/3834813
 https://hamal.co.il/main/כ-50-תקיפות-ביממה-האחרונה-צהל-ממשיך-לתקוף-בדרום-לבנון-266103
+https://hamal.co.il/main/פרשת-ימנו-זלקה-נער-בן-15-הסגיר-את-עצמו-למשטרה-266106
