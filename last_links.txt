@@ -1,9 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3834103
-https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בנגב-בהם-בן-40-במצב-קשה-265718
-https://hamal.co.il/main/החשד-לניסיון-רצח-והתאבדות-ברמלה-נקבע-מותה-של-האישה-שנדרסה-265719
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון--265720
-https://news.walla.co.il/break/3834112
+COUNTER:39
 https://news.walla.co.il/break/3834108
 https://news.walla.co.il/break/3834109
 https://news.walla.co.il/break/3834113
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3834870
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-266150
 https://news.walla.co.il/break/3834873
 https://news.walla.co.il/item/3834874
+https://news.walla.co.il/break/3834875
+https://news.walla.co.il/break/3834878
+https://hamal.co.il/main/ההתרעה-ביפתח---זיהוי-שווא-266151
+https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-למעלה-החמישה-266152
+https://hamal.co.il/main/חדשות-השבת-266154
