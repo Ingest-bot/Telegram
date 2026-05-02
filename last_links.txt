@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3834001
-https://news.walla.co.il/break/3834000
-https://news.walla.co.il/break/3834006
+COUNTER:20
 https://news.walla.co.il/break/3834015
 https://news.walla.co.il/item/3833972
 https://hamal.co.il/main/ארהב-ומדינות-נוספות-מגבות-את-פנמה-סין-מערערת-על-הריבונות-265683
@@ -499,3 +496,6 @@ https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-ניכרת-ב
 https://news.walla.co.il/break/3834793
 https://news.walla.co.il/break/3834794
 https://hamal.co.il/main/אשדוד-בן-71-נפצע-בינוני-מנשיכת-כלב-266097
+https://news.walla.co.il/break/3834795
+https://news.walla.co.il/item/3834792
+https://hamal.co.il/main/ניו-יורק-ילד-חרדי-נהרג-מפגיעת-אוטובוס-266098
