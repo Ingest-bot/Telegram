@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/תיעוד-שיכור-הטריד-אישה-בבר-מול-בעלה---שהשכיב-אותו-באגרוף-265700
-https://news.walla.co.il/break/3834138
-https://news.walla.co.il/break/3834139
+COUNTER:8
 https://news.walla.co.il/break/3834143
 https://news.walla.co.il/item/3834145
 https://hamal.co.il/main/צפו-בור-ממולכד-ועמדת-שהייה-עם-אמלח-אותרו-בדרום-לבנון-265734
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834894
 https://news.walla.co.il/item/3834893
 https://news.walla.co.il/item/3834896
 https://hamal.co.il/main/לראשונה-במאי-מאז-2011-גשם-וטמפרטורות-נמוכות-ברחבי-הארץ-266171
+https://news.walla.co.il/break/3834898
+https://hamal.co.il/main/אלין-כהן-מגיבה-לראשונה-לביטול-החתונה-עוברת-ימים-מורכבים-266174
+https://hamal.co.il/main/בן-גביר-חוגג-50---והזמין-את-כל-צמרת-המשטרה-בנט-הזהיר-266182
