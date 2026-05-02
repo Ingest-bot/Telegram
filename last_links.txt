@@ -1,8 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/item/3834106
-https://hamal.co.il/main/הצעד-שצהל-בוחן---בעקבות-הפריצה-לביתו-של-הקצין-הבכיר-265716
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-כטבם-יורט-בטרם-חצה-לשטח-ישראל-265724
-https://hamal.co.il/main/בת-11-נפגעה-מרכב-בטמרה-מצבה-קשה-265725
+COUNTER:2
 https://hamal.co.il/main/חמוש---ומפציץ-באיראן-265728
 https://news.walla.co.il/item/3834124
 https://news.walla.co.il/item/3834120
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חדשות-השבת-266154
 https://news.walla.co.il/break/3834880
 https://hamal.co.il/main/חדשות-השבת-266156
 https://hamal.co.il/main/חיל-האוויר-השמיד-משגר-טעון-ומוכן-לשיגור-בדרום-לבנון-266160
+https://news.walla.co.il/break/3834883
+https://news.walla.co.il/break/3834884
+https://news.walla.co.il/break/3834886
+https://hamal.co.il/main/יום-לפני-הדיון-בהארכת-מעצרם-בכירי-המשט-הכריזו-על-שביתת-רעב-266147
