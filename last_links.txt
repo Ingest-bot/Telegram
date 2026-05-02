@@ -1,6 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/התחזו-לישראלים-265730
-https://news.walla.co.il/break/3834133
+COUNTER:5
 https://news.walla.co.il/break/3834135
 https://news.walla.co.il/item/3834125
 https://news.walla.co.il/item/3833563
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יום-לפני-הדיון-בהארכת-מעצרם-בכ
 https://news.walla.co.il/break/3834889
 https://news.walla.co.il/break/3834890
 https://hamal.co.il/main/במספר-אירועים-שונים-צהל-חיסל-מחבלים-ברצועת-עזה-266162
+https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-סמוך-לצומת-דימונה-צפון-266163
+https://hamal.co.il/main/מדגם-הליכודיאדה-אוחנה-ואלי-כהן-מובילים-בראש-266167
