@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3833998
-https://hamal.co.il/main/איים-על-חיי-הנשיא-כתב-אישום-נגד-ראש-ה-FBI-לשעבר-גיימס-קומי-265682
+COUNTER:19
 https://news.walla.co.il/break/3834001
 https://news.walla.co.il/break/3834000
 https://news.walla.co.il/break/3834006
@@ -499,3 +497,5 @@ https://hamal.co.il/main/קנדה-אישום-נגד-4-אנטי-ישראלים-ש
 https://hamal.co.il/main/טראמפ-למען-האמת-אולי-עדיף-שלא-יהיה-הסכם-עם-איראן-בככל-266095
 https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-ניכרת-בטמפרטורות-266096
 https://news.walla.co.il/break/3834793
+https://news.walla.co.il/break/3834794
+https://hamal.co.il/main/אשדוד-בן-71-נפצע-בינוני-מנשיכת-כלב-266097
