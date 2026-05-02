@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3834108
-https://news.walla.co.il/break/3834109
+COUNTER:0
 https://news.walla.co.il/break/3834113
 https://news.walla.co.il/item/3834106
 https://hamal.co.il/main/הצעד-שצהל-בוחן---בעקבות-הפריצה-לביתו-של-הקצין-הבכיר-265716
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3834878
 https://hamal.co.il/main/ההתרעה-ביפתח---זיהוי-שווא-266151
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-למעלה-החמישה-266152
 https://hamal.co.il/main/חדשות-השבת-266154
+https://news.walla.co.il/break/3834880
+https://hamal.co.il/main/חדשות-השבת-266156
