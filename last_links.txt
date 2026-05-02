@@ -1,6 +1,4 @@
 COUNTER:36
-https://hamal.co.il/main/נזירה-הותק-265714
-https://news.walla.co.il/break/3834100
 https://news.walla.co.il/item/3834103
 https://hamal.co.il/main/3-פצועים-בתאונת-דרכים-בנגב-בהם-בן-40-במצב-קשה-265718
 https://hamal.co.il/main/החשד-לניסיון-רצח-והתאבדות-ברמלה-נקבע-מותה-של-האישה-שנדרסה-265719
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3834868
 https://news.walla.co.il/break/3834869
 https://news.walla.co.il/break/3834870
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-266150
+https://news.walla.co.il/break/3834873
+https://news.walla.co.il/item/3834874
