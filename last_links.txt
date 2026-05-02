@@ -1,5 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3834028
+COUNTER:27
 https://news.walla.co.il/item/3834009
 https://news.walla.co.il/item/3834025
 https://hamal.co.il/main/רוכב-אופנוע-נפצע-סמוך-למחלף-כפר-סבא-מצבו-אנוש-265696
@@ -499,3 +498,4 @@ https://hamal.co.il/main/פרסום-ראשון-חשוד-נוסף-בן-17-נעצ�
 https://news.walla.co.il/break/3834821
 https://news.walla.co.il/break/3834819
 https://news.walla.co.il/break/3834820
+https://hamal.co.il/main/קיץ-בחופי-הכינרת-כפר-הנופש-עין-גב-בתפוסה-מלאה-266114
