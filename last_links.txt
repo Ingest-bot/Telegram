@@ -1,5 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3834143
+COUNTER:9
 https://news.walla.co.il/item/3834145
 https://hamal.co.il/main/צפו-בור-ממולכד-ועמדת-שהייה-עם-אמלח-אותרו-בדרום-לבנון-265734
 https://hamal.co.il/main/מבקר-המדינה-הודיע--265735
@@ -499,3 +498,4 @@ https://hamal.co.il/main/לראשונה-במאי-מאז-2011-גשם-וטמפרט
 https://news.walla.co.il/break/3834898
 https://hamal.co.il/main/אלין-כהן-מגיבה-לראשונה-לביטול-החתונה-עוברת-ימים-מורכבים-266174
 https://hamal.co.il/main/בן-גביר-חוגג-50---והזמין-את-כל-צמרת-המשטרה-בנט-הזהיר-266182
+https://hamal.co.il/main/ביתר-הביסה-את-מכבי-תא-הפועל-באר-שבע-ניצחה-את-הפועל---והפע-266184
