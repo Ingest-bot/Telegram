@@ -1,6 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/וואטסאפ-בדרך-למהפכה-המהלך-שיאפשר-גיבוי-265722
-https://news.walla.co.il/break/3834156
+COUNTER:13
 https://news.walla.co.il/break/3834159
 https://hamal.co.il/main/הפילוג-בהנהגת-איראן-מחריף-נחצו-קווים-אדומים-במומ--דיווח-265740
 https://hamal.co.il/main/שריפה-פרצה-במבנה-תעשייה-בקריית-גת-אין-נפגעים-265741
@@ -499,3 +497,5 @@ https://hamal.co.il/main/במיליארד-דולר-חיל-האוויר-יקבל-
 https://hamal.co.il/main/בני-בית-הפועל-באר-שבע-ניצחה-02-את-הפועל-תל-אביב-266187
 https://hamal.co.il/main/ארבעה-חשודים-נעצרו-בחשד-למעורבות-באירועי-אלימות-סמוך-לכפר-ג-266188
 https://news.walla.co.il/break/3834922
+https://news.walla.co.il/item/3834924
+https://hamal.co.il/main/שני-צעירים-נעצרו-בחשד-לירי-בכלי-איירסופט-לעבר-מחאה-בבאר-שבע-266189
