@@ -1,7 +1,4 @@
 COUNTER:33
-https://news.walla.co.il/break/3834069
-https://hamal.co.il/main/פעילות-צהל-בדרום-לבנון-2-מחבלים-חוסלו-תשתיות-טרור-הושמדו-265702
-https://hamal.co.il/main/בן-60-התלונן-265703
 https://hamal.co.il/main/2-ילדים-נפצעו-באורח-קשה-ובינוני-באירוע-אלימות-בנגב-265704
 https://hamal.co.il/main/מכת-נמלים-במטבח-האם-התבלין-הפופולרי-בארון-שלכם-הוא-הפתרון-265699
 https://news.walla.co.il/break/3834077
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834846
 https://news.walla.co.il/item/3834850
 https://hamal.co.il/main/השבת-כ-120-אלף-מטיילים-פקדו-את-שמורות-הטבע-והגנים-הלאומיים-266132
 https://hamal.co.il/main/סטארמר-שוקל-הגבלות-על-הפגנות-פרו-פלסטיניות-אחרי-הפיגוע-266134
+https://news.walla.co.il/break/3834858
+https://news.walla.co.il/break/3834856
+https://news.walla.co.il/item/3834789
