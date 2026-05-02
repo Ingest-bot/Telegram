@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/בגיל-80-האמן-יאיר-גרבוז-הלך-לעולמו-265711
-https://hamal.co.il/main/חשד-לניסיון-התאבדות-ורצח-ברמלה-265713
-https://news.walla.co.il/item/3834088
+COUNTER:36
 https://hamal.co.il/main/נזירה-הותק-265714
 https://news.walla.co.il/break/3834100
 https://news.walla.co.il/item/3834103
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3834863
 https://news.walla.co.il/item/3834866
 https://hamal.co.il/main/רצח-זלקה-זל-נעצר-חשוד-נוסף-בן-16-בחשד-למעורבות-באירוע-266143
 https://news.walla.co.il/item/3834868
+https://news.walla.co.il/break/3834869
+https://news.walla.co.il/break/3834870
+https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-266150
