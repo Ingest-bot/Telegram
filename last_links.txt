@@ -1,5 +1,4 @@
 COUNTER:31
-https://news.walla.co.il/item/3834055
 https://news.walla.co.il/item/3834064
 https://hamal.co.il/main/השר-דיכטר-מודה-אנחנו-מוגבלים-בלבנון-בגלל-השותף-האמריקני-265701
 https://news.walla.co.il/break/3834067
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3834837
 https://news.walla.co.il/break/3834838
 https://news.walla.co.il/break/3834843
 https://hamal.co.il/main/חיל-האוויר-יירט-בהצלחה-רקטה-ששוגרה-לעבר-כוחות-צהל-בדרום-לבנ-266129
+https://news.walla.co.il/break/3834846
