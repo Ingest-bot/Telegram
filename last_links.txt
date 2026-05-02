@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/צהל-יורטה-265706
-https://hamal.co.il/main/שבח-ניסה-להימלט-ממעצר---265705
-https://news.walla.co.il/break/3834088
+COUNTER:35
 https://hamal.co.il/main/צהל-חיסלנו-בכיר-במטה-המודיעין-של-החמאס-265707
 https://hamal.co.il/main/בגיל-80-האמן-יאיר-גרבוז-הלך-לעולמו-265711
 https://hamal.co.il/main/חשד-לניסיון-התאבדות-ורצח-ברמלה-265713
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3834789
 https://news.walla.co.il/break/3834859
 https://hamal.co.il/main/המצור-הימי-כבר-עובד-וטראמפ-מחזק-את-צוות-המומ-עם-איראן-266138
 https://news.walla.co.il/break/3834861
+https://news.walla.co.il/break/3834863
+https://news.walla.co.il/item/3834866
+https://hamal.co.il/main/רצח-זלקה-זל-נעצר-חשוד-נוסף-בן-16-בחשד-למעורבות-באירוע-266143
