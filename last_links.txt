@@ -1,9 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/בן-12-נעצר-בתל-אביב-בחשד-שאיים-על-תלמידים-עם-שוקר-וסכין-265772
-https://hamal.co.il/main/ירי-לעבר-מספרה-בנתניה-גבר-נפצע-קל-המשטרה-פתחה-בסריקות-265773
-https://hamal.co.il/main/עקב-הפגנת-חרדים-נחסמה-הכניסה-לירושלים-בגשר-המיתרים-265777
-https://news.walla.co.il/break/3834239
-https://news.walla.co.il/break/3834240
+COUNTER:39
 https://hamal.co.il/main/המחבל-מנסה-להימלט-על-האופנוע---ומחוסל-תיעוד-מדרום-לבנון-265778
 https://news.walla.co.il/break/3834243
 https://hamal.co.il/main/פשיטה-על-בית-עסק-נגמרה-במעצר-של-5-שב״חים-265779
@@ -499,3 +494,8 @@ https://hamal.co.il/main/מומחים-מזהירים-3-תוספי-התזונה-�
 https://news.walla.co.il/item/3835010
 https://hamal.co.il/main/הצית-רכב---והשליך-אבן-לעבר-המתלוננת-אישום-נגד-תושב-תל-שבע-266219
 https://hamal.co.il/main/ניסו-להקריב-קרבן-פסח-בהר-הבית-21-חשודים-עוכבו-לחקירה-266220
+https://news.walla.co.il/break/3835015
+https://news.walla.co.il/break/3835019
+https://news.walla.co.il/item/3835020
+https://hamal.co.il/main/מחבלי-חיז-266222
+https://hamal.co.il/main/דרמה-בשוק-המזון-266206
