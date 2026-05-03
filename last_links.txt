@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3834424
-https://hamal.co.il/main/אותר-במסתור-סוס-נגנב-הוצע-ברשת-למכירה---והושב-הביתה-265879
+COUNTER:23
 https://news.walla.co.il/break/3834432
 https://news.walla.co.il/item/3834431
 https://news.walla.co.il/break/3834444
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אגרוף-הברזל-של-מחוז-שי-מעל-40-עצ
 https://news.walla.co.il/item/3835187
 https://hamal.co.il/main/רוני-דיילה-חושף-שהוא-המואשם-בפרשת-המאמן-הבכיר-266332
 https://hamal.co.il/main/אחרי-עוד-התבטאות-אומללה-גארי-ליניקר-הפך-לאחד-מהנאצים-החדשי-266324
+https://hamal.co.il/main/מאות-חרדים-יגיעו-לבקום---כמה-מהם-יגויסו-למסלולים-הקרביים-266314
+https://hamal.co.il/main/המיתוס-קם-לתחייה-התגלית-שמוכיחה-שמפלצת-המעמקים-הייתה-אמיתית-266205
