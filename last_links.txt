@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/item/3834394
-https://hamal.co.il/main/תיעוד-חריג-בקיבוץ-גילו-נחש-צפע-ששוחה-בבריכות-265872
-https://news.walla.co.il/break/3834400
-https://news.walla.co.il/item/3834405
+COUNTER:16
 https://hamal.co.il/main/גורם-ביטחוני-סירות-מטעם-משט-המחאה-עגנו-בקפריסין-265873
 https://news.walla.co.il/break/3834406
 https://news.walla.co.il/item/3834412
@@ -499,3 +495,7 @@ https://hamal.co.il/main/אור-כהן-הבריזה-מהראיונות-אחרי-
 https://news.walla.co.il/item/3835171
 https://hamal.co.il/main/איראן-קיבלנו-את-התגובה-האמריקנית-אנחנו-בוחנים-א-266315
 https://hamal.co.il/main/החשוד-בפרשת-שי-לי-עטרי-חוזר-מחר-לישראל-וצפוי-להיחקר-במשטרה-266317
+https://news.walla.co.il/break/3835176
+https://news.walla.co.il/break/3835178
+https://news.walla.co.il/item/3835175
+https://hamal.co.il/main/למרות-האיסורים-העולים-למירון-פועלים-נגד-ההנחיות-266321
