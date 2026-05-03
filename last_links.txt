@@ -1,8 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בבדיקה-265765
-https://news.walla.co.il/break/3834230
-https://news.walla.co.il/break/3834229
-https://news.walla.co.il/item/3834225
+COUNTER:30
 https://news.walla.co.il/item/3834227
 https://news.walla.co.il/item/3834229
 https://hamal.co.il/main/רוכב-קורקינט-חשמלי-נהרג-מפגיעת-מרכב-בכביש-4-דרום-265767
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-סמוך-לעכו-מ�
 https://hamal.co.il/main/10-חודשים-אחרי-שילדה-265739
 https://news.walla.co.il/item/3834975
 https://hamal.co.il/main/לקחים-266209
+https://news.walla.co.il/break/3834979
+https://news.walla.co.il/item/3834986
+https://hamal.co.il/main/גבר-כבן-50-נהרג-בתאונת-דרכים-בערבה-266210
+https://hamal.co.il/main/החוקר-הבכיר-מזהיר-266211
