@@ -1,5 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3834431
+COUNTER:24
 https://news.walla.co.il/break/3834444
 https://news.walla.co.il/break/3834446
 https://news.walla.co.il/break/3834448
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אחרי-עוד-התבטאות-אומללה-גארי-ל
 https://hamal.co.il/main/מאות-חרדים-יגיעו-לבקום---כמה-מהם-יגויסו-למסלולים-הקרביים-266314
 https://hamal.co.il/main/המיתוס-קם-לתחייה-התגלית-שמוכיחה-שמפלצת-המעמקים-הייתה-אמיתית-266205
 https://news.walla.co.il/break/3835193
+https://hamal.co.il/main/אלון-אבוטבול-המנוח-זכה-בשני-פרסים-בטקס-פרסי-הטלוויזיה-266335
