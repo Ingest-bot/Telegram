@@ -1,7 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/item/3834183
-https://hamal.co.il/main/רצח-ימנו-זלקה-265749
-https://hamal.co.il/main/האזעקות-בצפון-265750
+COUNTER:19
 https://news.walla.co.il/item/3834188
 https://news.walla.co.il/item/3834189
 https://hamal.co.il/main/בן-הגיע-265751
@@ -499,3 +496,6 @@ https://hamal.co.il/main/-טראמפ-ארהב-תצמצם-את-הכוחות-בג�
 https://news.walla.co.il/break/3834933
 https://news.walla.co.il/break/3834935
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עם-ירידה-בטמפרטורות-משעות-הצהריים-י-266194
+https://news.walla.co.il/break/3834936
+https://news.walla.co.il/item/3834935
+https://hamal.co.il/main/חשד-לרצח-בשפרעם-גבר-כבן-50-נורה-למוות-266195
