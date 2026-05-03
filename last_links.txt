@@ -1,9 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/רוכב-קורקינט-חשמלי-נהרג-מפגיעת-מרכב-בכביש-4-דרום-265767
-https://hamal.co.il/main/לשכת-רה״מ-נתניהו-לא-צפוי-לצאת-לארה״ב-בשבוע-הבא-265768
-https://hamal.co.il/main/הקבינט-המצומצם-מכונס-בקריה-265769
-https://hamal.co.il/main/ההתרעות-במשגב-עם---זיהוי-שווא-265770
-https://news.walla.co.il/break/3834234
+COUNTER:35
 https://news.walla.co.il/item/3834236
 https://news.walla.co.il/item/3834235
 https://news.walla.co.il/item/3834237
@@ -499,3 +494,8 @@ https://hamal.co.il/main/גבר-כבן-50-נהרג-בתאונת-דרכים-בע�
 https://hamal.co.il/main/החוקר-הבכיר-מזהיר-266211
 https://hamal.co.il/main/צהל-על-האזעקות-בקו-בעימות-הפרטים-בבדיקה-266214
 https://hamal.co.il/main/הירי-לצפון-5-רקטות-יורטו-אחת-נפלה-בשטח-פתוח-266216
+https://news.walla.co.il/break/3835002
+https://news.walla.co.il/item/3834999
+https://hamal.co.il/main/צהל-על-הירי-לצפון-שיגור-אחד-יורט-בהצלחה-266218
+https://hamal.co.il/main/בלב-תא-3-צעירים-נעצרו-בחשד-שהחזיקו-כלי-תקיפה-266217
+https://hamal.co.il/main/מומחים-מזהירים-3-תוספי-התזונה-הפופולריים-שאינם-יעילים-265743
