@@ -1,10 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3834274
-https://news.walla.co.il/break/3834271
-https://news.walla.co.il/break/3834276
-https://news.walla.co.il/item/3834272
-https://hamal.co.il/main/מעל-ל-30-מחסני-אמל״ח-של-חיזבאללה-הותקפו-ביומיים-האחרונים-265790
-https://hamal.co.il/main/איראן-ולבנון-על-הפרק-נתניהו-וטראמפ-צפויים-לשוחח-265792
+COUNTER:10
 https://hamal.co.il/main/התרעות-הופעלו-בזרעית-הפרטים-בבדיקה-265794
 https://hamal.co.il/main/הירי-לזרעית-חיל-האוויר-יירט-מטרה-שלא-חצתה-לשטח-הארץ-265795
 https://hamal.co.il/main/סוף-לעיצוב-המוכר-סמסונג-עשויה-לשנות-את-מערך-המצלמות-265797
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3835052
 https://news.walla.co.il/break/3835050
 https://hamal.co.il/main/הוארך-מעצרו-של-בכיר-המשט-לעזה-חשוד-בהשתייכת-לארגון-טרור-266233
 https://hamal.co.il/main/האולטימטום-של-איראן-לטראמפ-קבל-את-התנאים-שמסרנו-266234
+https://news.walla.co.il/break/3835056
+https://news.walla.co.il/break/3835059
+https://news.walla.co.il/item/3835058
+https://news.walla.co.il/item/3835045
+https://hamal.co.il/main/דרמה-בליגת-העל-מאמן-בכיר-נחקר-בחשד-להטרדה-מינית-266235
+https://hamal.co.il/main/תוך-יממה-עשרות-אמצעי-לחימה-אותרו-בדרום-לבנון--צפו-266237
