@@ -1,7 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/בנט-הצעתי-להתראיין-לערוץ-14---והם-סירבו-265815
-https://news.walla.co.il/break/3834315
-https://hamal.co.il/main/מחבלים-נורו-בחטיבת-יהודה-לאחר-שיידו-אבנים-לעבר-הכוחות-265816
+COUNTER:29
 https://hamal.co.il/main/עמי-אשד-תובע-265819
 https://hamal.co.il/main/המשט-לעזה-שלח-קריאת-מצוקה-״הסירות-שלנו-הותקפו״-265820
 https://news.walla.co.il/item/3834315
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חשש-להתפשטות-מהירה-של-שריפות-א
 https://news.walla.co.il/break/3835105
 https://hamal.co.il/main/התכנית-של-כץ-266267
 https://hamal.co.il/main/צהל-חיסל-מחבל-במרחב-הקו-הצהוב-ברצועת-עזה-266268
+https://news.walla.co.il/break/3835108
+https://news.walla.co.il/item/3835109
+https://hamal.co.il/main/זול-וקטלני-המאבק-של-משרד-הביטחון-ברחפני-הסיב-האופטי-בלבנון-266239
