@@ -1,8 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-בהיר-עם-עלייה-קלה-בטמפרטורות-הטמפ-265839
-https://news.walla.co.il/item/3834346
-https://news.walla.co.il/break/3834347
-https://news.walla.co.il/item/3834350
+COUNTER:5
 https://news.walla.co.il/break/3834356
 https://news.walla.co.il/item/3834339
 https://news.walla.co.il/break/3834361
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חידת-טרופר-הפרישה-מכחול-לבן-וה
 https://news.walla.co.il/break/3835140
 https://news.walla.co.il/break/3835143
 https://hamal.co.il/main/מאסק-נגד-הקריפטו-רוב-המטבעות-הם-הונאה-266292
+https://news.walla.co.il/break/3835145
+https://news.walla.co.il/item/3835144
+https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-מנרה-הפרטים-בבדיקה-266298
+https://hamal.co.il/main/דיווח-איראן-מבקשת-שסין-ורוסיה-יהיו-מעורבות-בכל-הסכם-266301
