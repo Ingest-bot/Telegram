@@ -1,7 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/המחבל-מנסה-להימלט-על-האופנוע---ומחוסל-תיעוד-מדרום-לבנון-265778
-https://news.walla.co.il/break/3834243
-https://hamal.co.il/main/פשיטה-על-בית-עסק-נגמרה-במעצר-של-5-שב״חים-265779
+COUNTER:1
 https://hamal.co.il/main/מוסדות-שלא-הסדירו-מעמד-של-חייבי-גיוס-לא-יהנו-מזיכוי-מס-265780
 https://news.walla.co.il/break/3834245
 https://news.walla.co.il/break/3834247
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835019
 https://news.walla.co.il/item/3835020
 https://hamal.co.il/main/מחבלי-חיז-266222
 https://hamal.co.il/main/דרמה-בשוק-המזון-266206
+https://news.walla.co.il/break/3835026
+https://hamal.co.il/main/הטרגדיה-בבנימין-נתנאל-נהרג-בתאונה-קטלנית-הנהג-נמלט-מהמקום-266223
+https://hamal.co.il/main/עוז-עזיבה-בכחול-לבן-חכ-חילי-טרופר-פורש-מהמפלגה-266224
