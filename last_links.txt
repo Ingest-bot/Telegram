@@ -1,11 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3834330
-https://news.walla.co.il/break/3834333
-https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-בארי-הפרטים-בבדיקה-265832
-https://hamal.co.il/main/האזעקה-בבארי-דווא-265834
-https://hamal.co.il/main/חיל-האוויר-יצר-קשר-עם-ספינת-גרינפיס-מהמשט-לעזה-יואב-איתיאל-265835
-https://news.walla.co.il/break/3834334
-https://hamal.co.il/main/ממטה-המשט-נמסר-כי-נכון-לשעה-זו-אבד-הקשר-עם-11-כלי-שיט--״קור-265836
+COUNTER:1
 https://news.walla.co.il/break/3834337
 https://news.walla.co.il/break/3834341
 https://news.walla.co.il/break/3834343
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3835127
 https://hamal.co.il/main/דיווח-באיראן-הודיעו-על-מצב-כוננות-על-רקע-חששות-בטחוניים-266281
 https://hamal.co.il/main/מעלית-שירות-266282
 https://hamal.co.il/main/התאונה-בזרזיר-פונו-לבתי-החולים-7-פצועים---אחת-במצב-קשה-266283
+https://news.walla.co.il/break/3835129
+https://news.walla.co.il/break/3835130
+https://news.walla.co.il/break/3835131
+https://hamal.co.il/main/נציב-שב״ס-עד-תביעה-מרכזי-נגדי-ניהל-קשר-אינטימי-עם-חוקרת-במח-266284
+https://hamal.co.il/main/חטיבה-205-השלימה-את-משימתה-בצפון-רצועת-עזה-266287
+https://hamal.co.il/main/רחפן-נפץ-של-חיזבאללה-שנפל-היום-סמוך-לצהל---ולא-התפוצץ-266288
+https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-לעבר-אופנוע-בכפר-חריס-266289
