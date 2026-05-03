@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3834418
-https://hamal.co.il/main/צוקרברג-מבטיח-הדור-הבא-של-הבינה-המלאכותית-ינהל-עבורכם-את-הח-265875
+COUNTER:19
 https://hamal.co.il/main/תמונת-מצב-מדאיגה-רק-22-מתלמידי-ט-עומדים-בדרישות-באנגלית-265878
 https://news.walla.co.il/break/3834428
 https://news.walla.co.il/break/3834431
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835183
 https://news.walla.co.il/item/3835181
 https://hamal.co.il/main/המדען-המפורסם-חושף-זה-מה-שקורה-לנו-אחרי-המוות-266221
 https://hamal.co.il/main/מצאתם-ביצה-סדוקה-האם-מותר-לאכול-או-שזה-מסוכן-266207
+https://news.walla.co.il/break/3835184
+https://hamal.co.il/main/אגרוף-הברזל-של-מחוז-שי-מעל-40-עצורים-במבצע-נגד-טרור-266329
