@@ -1,6 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/פרסום-ראשון-265886
-https://news.walla.co.il/break/3834465
+COUNTER:30
 https://news.walla.co.il/item/3834462
 https://news.walla.co.il/item/3834461
 https://hamal.co.il/main/מאיר-אדוני-נגד-גיא-פלג-אמן-שיצטרך-שמירה-עד-יומו-האחרון-265889
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזעקות-נשמעו-ביראון-266339
 https://hamal.co.il/main/החל-ממחר---מבצע-לליווי-ספינות-החוצה-ממיצרי-הורמוז-ואיום-על-266340
 https://hamal.co.il/main/דיווח-שלושה-בני-אדם-מתו-על-ספינת-תענוגות-באוקיינוס-האטלנטי-266341
 https://hamal.co.il/main/חיל-האוויר-יירט-בהצלחה-מטרה-אווירית-חשודה-בטרם-חצתה-לשטח-ישר-266342
+https://news.walla.co.il/item/3835210
+https://hamal.co.il/main/היועמשית-עונה-בחיוב-להרצוג-נכונים-למומ-על-הסדר-טיעון-עם-266343
