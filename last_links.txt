@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3834337
-https://news.walla.co.il/break/3834341
-https://news.walla.co.il/break/3834343
+COUNTER:2
 https://hamal.co.il/main/אמזון-בוחנת-אפשרות-להחיות-את-תוכנית-הריאליטי-המתמחה-כאשר-265837
 https://news.walla.co.il/break/3834344
 https://hamal.co.il/main/נצח-שנמשך-שבועיים-טראמפ-ימשיך-במצור-ככל-שיידרש---לפחות-עד-ש-265838
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נציב-שב״ס-עד-תביעה-מרכזי-נגדי-�
 https://hamal.co.il/main/חטיבה-205-השלימה-את-משימתה-בצפון-רצועת-עזה-266287
 https://hamal.co.il/main/רחפן-נפץ-של-חיזבאללה-שנפל-היום-סמוך-לצהל---ולא-התפוצץ-266288
 https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-לעבר-אופנוע-בכפר-חריס-266289
+https://news.walla.co.il/break/3835136
+https://news.walla.co.il/item/3835137
+https://hamal.co.il/main/חידת-טרופר-הפרישה-מכחול-לבן-והתוכניות-ליום-שאחרי-266275
