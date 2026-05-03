@@ -1,7 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3834304
-https://news.walla.co.il/break/3834306
-https://hamal.co.il/main/מה-יכול-לעצור-את-רחפני-חיזבאללה-265811
+COUNTER:28
 https://hamal.co.il/main/בנט-הצעתי-להתראיין-לערוץ-14---והם-סירבו-265815
 https://news.walla.co.il/break/3834315
 https://hamal.co.il/main/מחבלים-נורו-בחטיבת-יהודה-לאחר-שיידו-אבנים-לעבר-הכוחות-265816
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3835088
 https://hamal.co.il/main/מהגבוהים-בעולם-266225
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-רחפנים-לעבר-כוחותינו-בלבנון-אין-נפגעים-266265
 https://hamal.co.il/main/חשש-להתפשטות-מהירה-של-שריפות-אלו-ההנחיות-לקראת-לג-בעומר-266266
+https://news.walla.co.il/break/3835105
+https://hamal.co.il/main/התכנית-של-כץ-266267
+https://hamal.co.il/main/צהל-חיסל-מחבל-במרחב-הקו-הצהוב-ברצועת-עזה-266268
