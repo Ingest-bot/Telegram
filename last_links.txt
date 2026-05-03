@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3834339
-https://news.walla.co.il/break/3834361
-https://hamal.co.il/main/לוחם-שנפצע-בעזה-מבקש-עזרו-לי-למצוא-את-כלבת-השירות-שלי-265845
+COUNTER:7
 https://hamal.co.il/main/המציאות-בצפון-התרעות-בגליל-המערבי-מחשד-לחדירת-כטבם-265851
 https://news.walla.co.il/break/3834366
 https://news.walla.co.il/break/3834371
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3835144
 https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-מנרה-הפרטים-בבדיקה-266298
 https://hamal.co.il/main/דיווח-איראן-מבקשת-שסין-ורוסיה-יהיו-מעורבות-בכל-הסכם-266301
 https://hamal.co.il/main/בשעה-טובה-בגיל-23-קים-אור-אזולאי-מצפה-לילד-ראשון-266303
+https://news.walla.co.il/break/3835157
+https://news.walla.co.il/break/3835158
+https://hamal.co.il/main/עמדי-תומך-בטרופר-מהמנהיגים-הישרים-וההגונים-ביותר-שיש-כאן-266295
