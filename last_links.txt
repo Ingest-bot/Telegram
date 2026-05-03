@@ -1,8 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3834442
-https://news.walla.co.il/item/3834441
-https://hamal.co.il/main/אישום-נגד-קצין-צהל-הבריח-סחורות-לעזה-והכניס-אזרח-לרצועה-265884
-https://hamal.co.il/main/בתגובה-ל-48-השעות-האחרונות-צהל-תוקף-בדרום-לבנון-265885
+COUNTER:27
 https://news.walla.co.il/break/3834459
 https://news.walla.co.il/item/3834454
 https://hamal.co.il/main/פרסום-ראשון-265886
@@ -499,3 +495,7 @@ https://hamal.co.il/main/עדן-פינס-מגלה-האם-היא-שלחה-הוד�
 https://news.walla.co.il/break/3835195
 https://news.walla.co.il/break/3835199
 https://news.walla.co.il/item/3835200
+https://news.walla.co.il/break/3835203
+https://news.walla.co.il/item/3835202
+https://hamal.co.il/main/אזעקות-נשמעו-ביראון-266339
+https://hamal.co.il/main/החל-ממחר---מבצע-לליווי-ספינות-החוצה-ממיצרי-הורמוז-ואיום-על-266340
