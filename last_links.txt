@@ -1,8 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/עמי-אשד-תובע-265819
-https://hamal.co.il/main/המשט-לעזה-שלח-קריאת-מצוקה-״הסירות-שלנו-הותקפו״-265820
-https://news.walla.co.il/item/3834315
-https://hamal.co.il/main/בסיום-משחק-טעון-בבלומפילד-צעיר-נדקר-באורח-קשה-נער-נפצע-בינ-265821
+COUNTER:32
 https://hamal.co.il/main/ראשוני-כוחות-חיל-הים-פושטים-על-המשט-לעזה-265822
 https://news.walla.co.il/break/3834319
 https://news.walla.co.il/item/3834318
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-חיסל-מחבל-במרחב-הקו-הצהוב-�
 https://news.walla.co.il/break/3835108
 https://news.walla.co.il/item/3835109
 https://hamal.co.il/main/זול-וקטלני-המאבק-של-משרד-הביטחון-ברחפני-הסיב-האופטי-בלבנון-266239
+https://news.walla.co.il/item/3835113
+https://hamal.co.il/main/חטיבה-410-איתרה-למעלה-מ-100-אמצעי-לחימה-של-חיזבאללה-266269
+https://hamal.co.il/main/תאונה-קשה-סמוך-לזרזיר-2-נשים-במצב-אנוש-266272
+https://hamal.co.il/main/מדא-3-נשים-נהרגו-בתאונה-סמוך-לזרזיר-266276
