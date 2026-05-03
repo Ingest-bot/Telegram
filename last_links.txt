@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/למרות-הפסקת-האש-הדלק-ממשיך-להתייקר---זה-המחיר-המעודכן-265744
-https://news.walla.co.il/break/3834184
+COUNTER:18
 https://news.walla.co.il/item/3834183
 https://hamal.co.il/main/רצח-ימנו-זלקה-265749
 https://hamal.co.il/main/האזעקות-בצפון-265750
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-בתאו�
 https://hamal.co.il/main/טראמפ-מגיב-על-ההצעה-האיראנית-לא-שילמו-מחיר-כבד-מספיק-עידן-266192
 https://hamal.co.il/main/-טראמפ-ארהב-תצמצם-את-הכוחות-בגרמניה-ביותר-מ-5000-חיילים-266193
 https://news.walla.co.il/break/3834933
+https://news.walla.co.il/break/3834935
+https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עם-ירידה-בטמפרטורות-משעות-הצהריים-י-266194
