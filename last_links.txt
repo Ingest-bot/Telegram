@@ -1,10 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/הירי-לזרעית-חיל-האוויר-יירט-מטרה-שלא-חצתה-לשטח-הארץ-265795
-https://hamal.co.il/main/סוף-לעיצוב-המוכר-סמסונג-עשויה-לשנות-את-מערך-המצלמות-265797
-https://hamal.co.il/main/בן-גביר-״אנחנו-דוהרים-בעיניים-פקוחות-לאסון-הבא״-265798
-https://news.walla.co.il/break/3834282
-https://hamal.co.il/main/הרמטכ״ל-בלבנון-״ייתכן-שנידרש-להישאר-על-הקו-שבו-אנו-נמצאים״-265799
-https://news.walla.co.il/break/3834285
+COUNTER:14
 https://hamal.co.il/main/טראמפ-ופוטין-שוחחו-כשעה-וחצי-בין-היתר-על-איראן-265800
 https://hamal.co.il/main/ריסס-גרפיטי---ועלול-לשלם-21-אלף-שקל-העיר-שיוצאת-למאבק-265802
 https://news.walla.co.il/break/3834286
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3835045
 https://hamal.co.il/main/דרמה-בליגת-העל-מאמן-בכיר-נחקר-בחשד-להטרדה-מינית-266235
 https://hamal.co.il/main/תוך-יממה-עשרות-אמצעי-לחימה-אותרו-בדרום-לבנון--צפו-266237
 https://hamal.co.il/main/צהל-על-הירי-לצפון-266238
+https://news.walla.co.il/break/3835071
+https://news.walla.co.il/break/3835068
+https://news.walla.co.il/item/3835072
+https://hamal.co.il/main/נתפס-בשעת-מעשה-שבח-פרץ-לדירה-בי-ם---ונעצר-תוך-שימוש-בטייזר-266240
+https://hamal.co.il/main/מחמירה-את-הנהלים-הצעד-של-אינסטגרם-נגד-266213
+https://hamal.co.il/main/שגריר-איראן-בפקיסטן-פריצת-דרך-במומ---266241
