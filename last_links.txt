@@ -1,8 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/איראן-מאיימת-נפעל-צבאית-באופן-חסר-תקדים-בתגובה-למצור-265757
-https://hamal.co.il/main/2-מחרטות-לייצור-אמל״ח-הוחרמו-בשומרון-במבצע-לילי-265760
-https://hamal.co.il/main/אין-פתרון-מלא-בצהל-מודים-בפערים-מול-רחפני-חיזבאללה-265762
-https://news.walla.co.il/break/3834217
+COUNTER:27
 https://news.walla.co.il/break/3834219
 https://hamal.co.il/main/שיחות-השלום-עם-לבנון-״ללא-חיזבאללה-השלום-בהישג-יד״-265763
 https://hamal.co.il/main/התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בבדיקה-265765
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3834957
 https://news.walla.co.il/item/3834955
 https://hamal.co.il/main/ישראלי-נדרס-למוות-סמוך-שכם-266201
 https://hamal.co.il/main/מתלבטים-למי-להצביע-מחקר-ישראלי-גילה-דבר-מדהים-שזה-עושה-למוח-266197
+https://news.walla.co.il/break/3834961
+https://news.walla.co.il/break/3834967
+https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-סמוך-לעכו-מצבו-קשה-266204
+https://hamal.co.il/main/10-חודשים-אחרי-שילדה-265739
