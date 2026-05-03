@@ -1,5 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/מאיר-אדוני-נגד-גיא-פלג-אמן-שיצטרך-שמירה-עד-יומו-האחרון-265889
+COUNTER:31
 https://hamal.co.il/main/שבת-של-שרב-לג-בעומר-עם-שלג-המהפך-הקיצוני-של-מזג-האוויר-265891
 https://news.walla.co.il/break/3834480
 https://hamal.co.il/main/עונת-הקומבינה-למה-מחירי-החלב-תמיד-מזנקים-רגע-לפני-שבועות-265897
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3835210
 https://hamal.co.il/main/היועמשית-עונה-בחיוב-להרצוג-נכונים-למומ-על-הסדר-טיעון-עם-266343
 https://news.walla.co.il/break/3835216
 https://news.walla.co.il/break/3835220
+https://hamal.co.il/main/היועמשית-לנשיא-מוכנים-לשיח-על-הסדר-טיעון-בתיקי-האלפים-אורי-266344
