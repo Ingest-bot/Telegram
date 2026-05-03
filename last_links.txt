@@ -1,8 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/item/3834188
-https://news.walla.co.il/item/3834189
-https://hamal.co.il/main/בן-הגיע-265751
-https://hamal.co.il/main/הפריצה-לביתו-של-מפקד-המשטרה-הצבאית-הוארך-מעצרם-של-10-חשודים-265752
+COUNTER:22
 https://news.walla.co.il/break/3834194
 https://news.walla.co.il/break/3834192
 https://hamal.co.il/main/צהל-מחבל-חצה-את-הקו-הצהוב-בדרום-הרצועה---וחוסל-265753
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עם-יריד
 https://news.walla.co.il/break/3834936
 https://news.walla.co.il/item/3834935
 https://hamal.co.il/main/חשד-לרצח-בשפרעם-גבר-כבן-50-נורה-למוות-266195
+https://news.walla.co.il/break/3834937
+https://hamal.co.il/main/מפוקח-266196
+https://hamal.co.il/main/בשל-הפרות-חיזבאללצהל-בהודעת-פינוי-לכפרים-נוספים-בדרום-לבנון-266198
+https://hamal.co.il/main/מדענים-גילו-ההרגל-ש-265733
