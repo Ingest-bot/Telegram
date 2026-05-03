@@ -1,10 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3834284
-https://hamal.co.il/main/טראמפ-שוחח-עם-פוטין-״חושב-שהוא-יכריז-על-הפסקת-אש״-265807
-https://news.walla.co.il/item/3834299
-https://hamal.co.il/main/טראמפ-״-265808
-https://news.walla.co.il/break/3834300
-https://hamal.co.il/main/רה״מ-בריטניה-״מודאג-מאוד-מהפיגוע-זה-לא-אירוע-בודד״-265809
+COUNTER:26
 https://news.walla.co.il/break/3834304
 https://news.walla.co.il/break/3834306
 https://hamal.co.il/main/מה-יכול-לעצור-את-רחפני-חיזבאללה-265811
@@ -499,3 +493,9 @@ https://hamal.co.il/main/שדד-קשיש-באלימות-אישום-הוגש-נג
 https://hamal.co.il/main/נועם-בתן-סיים-את-החזרה-הראשונה-עושה-את-זה-כמו-מלך-266260
 https://hamal.co.il/main/בגץ-הוציא-צו-ארעי-266263
 https://hamal.co.il/main/בפעם-השנייה-בתולדותיה-266264
+https://news.walla.co.il/break/3835092
+https://news.walla.co.il/break/3835094
+https://news.walla.co.il/item/3835088
+https://hamal.co.il/main/מהגבוהים-בעולם-266225
+https://hamal.co.il/main/צהל-חיזבאללה-שיגר-רחפנים-לעבר-כוחותינו-בלבנון-אין-נפגעים-266265
+https://hamal.co.il/main/חשש-להתפשטות-מהירה-של-שריפות-אלו-ההנחיות-לקראת-לג-בעומר-266266
