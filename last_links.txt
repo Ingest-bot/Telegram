@@ -1,6 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/תמונת-מצב-מדאיגה-רק-22-מתלמידי-ט-עומדים-בדרישות-באנגלית-265878
-https://news.walla.co.il/break/3834428
+COUNTER:20
 https://news.walla.co.il/break/3834431
 https://news.walla.co.il/item/3834424
 https://hamal.co.il/main/אותר-במסתור-סוס-נגנב-הוצע-ברשת-למכירה---והושב-הביתה-265879
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המדען-המפורסם-חושף-זה-מה-שקורה
 https://hamal.co.il/main/מצאתם-ביצה-סדוקה-האם-מותר-לאכול-או-שזה-מסוכן-266207
 https://news.walla.co.il/break/3835184
 https://hamal.co.il/main/אגרוף-הברזל-של-מחוז-שי-מעל-40-עצורים-במבצע-נגד-טרור-266329
+https://news.walla.co.il/item/3835187
+https://hamal.co.il/main/רוני-דיילה-חושף-שהוא-המואשם-בפרשת-המאמן-הבכיר-266332
