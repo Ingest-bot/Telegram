@@ -1,7 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/break/3834446
-https://news.walla.co.il/break/3834448
-https://news.walla.co.il/item/3834440
 https://news.walla.co.il/item/3834442
 https://news.walla.co.il/item/3834441
 https://hamal.co.il/main/אישום-נגד-קצין-צהל-הבריח-סחורות-לעזה-והכניס-אזרח-לרצועה-265884
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המיתוס-קם-לתחייה-התגלית-שמוכי�
 https://news.walla.co.il/break/3835193
 https://hamal.co.il/main/אלון-אבוטבול-המנוח-זכה-בשני-פרסים-בטקס-פרסי-הטלוויזיה-266335
 https://hamal.co.il/main/עדן-פינס-מגלה-האם-היא-שלחה-הודעה-לאלין-כהן-אחרי-ביטול-החתונ-266336
+https://news.walla.co.il/break/3835195
+https://news.walla.co.il/break/3835199
+https://news.walla.co.il/item/3835200
