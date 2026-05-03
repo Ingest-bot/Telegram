@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3834375
-https://hamal.co.il/main/פגיעה-ישירה-שריפת-רכב-משוריין-בסמוך-ליישוב-שומרה-265863
-https://hamal.co.il/main/מארגני-המשט-לעזה-טוענים-ישראל-חטפה-אזרחים-בתוקפנות-265868
+COUNTER:13
 https://news.walla.co.il/item/3834386
 https://hamal.co.il/main/מובילה-חברתית-ועורכת-דין-זו-הפעילה-שמצטרפת-למפלגת-אייזנקוט-265869
 https://news.walla.co.il/break/3834396
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לאחר-הפרישה-מכחול-לבן-זה-המסר-�
 https://hamal.co.il/main/כעס-בציבור-על-המלצות-משרד-הבריאות-נגד-הקנאביס-266300
 https://hamal.co.il/main/ככה-נראים-אנשים-שכותבים-את-ההיסטוריה-החרדים-שהגיעו-לבקום-266310
 https://news.walla.co.il/break/3835167
+https://news.walla.co.il/break/3835170
+https://news.walla.co.il/break/3835171
+https://hamal.co.il/main/אור-כהן-הבריזה-מהראיונות-אחרי-ההדחה-באח-הגדול---וזו-הסיבה-266253
