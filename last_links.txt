@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/item/3834386
-https://hamal.co.il/main/מובילה-חברתית-ועורכת-דין-זו-הפעילה-שמצטרפת-למפלגת-אייזנקוט-265869
-https://news.walla.co.il/break/3834396
+COUNTER:15
 https://news.walla.co.il/item/3834394
 https://hamal.co.il/main/תיעוד-חריג-בקיבוץ-גילו-נחש-צפע-ששוחה-בבריכות-265872
 https://news.walla.co.il/break/3834400
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835167
 https://news.walla.co.il/break/3835170
 https://news.walla.co.il/break/3835171
 https://hamal.co.il/main/אור-כהן-הבריזה-מהראיונות-אחרי-ההדחה-באח-הגדול---וזו-הסיבה-266253
+https://news.walla.co.il/item/3835171
+https://hamal.co.il/main/איראן-קיבלנו-את-התגובה-האמריקנית-אנחנו-בוחנים-א-266315
+https://hamal.co.il/main/החשוד-בפרשת-שי-לי-עטרי-חוזר-מחר-לישראל-וצפוי-להיחקר-במשטרה-266317
