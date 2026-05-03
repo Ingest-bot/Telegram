@@ -1,7 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/אמזון-בוחנת-אפשרות-להחיות-את-תוכנית-הריאליטי-המתמחה-כאשר-265837
-https://news.walla.co.il/break/3834344
-https://hamal.co.il/main/נצח-שנמשך-שבועיים-טראמפ-ימשיך-במצור-ככל-שיידרש---לפחות-עד-ש-265838
+COUNTER:3
 https://hamal.co.il/main/מזג-אוויר-מעונן-חלקית-עם-בהיר-עם-עלייה-קלה-בטמפרטורות-הטמפ-265839
 https://news.walla.co.il/item/3834346
 https://news.walla.co.il/break/3834347
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיווח-לבנוני-על-תקיפה-ישראלית-
 https://news.walla.co.il/break/3835136
 https://news.walla.co.il/item/3835137
 https://hamal.co.il/main/חידת-טרופר-הפרישה-מכחול-לבן-והתוכניות-ליום-שאחרי-266275
+https://news.walla.co.il/break/3835140
+https://news.walla.co.il/break/3835143
+https://hamal.co.il/main/מאסק-נגד-הקריפטו-רוב-המטבעות-הם-הונאה-266292
