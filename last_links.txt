@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3834291
-https://news.walla.co.il/break/3834289
-https://news.walla.co.il/item/3834288
-https://hamal.co.il/main/הירי-למשגב-עם-חיל-האוויר-יירט-מטרה-אווירית-חשודה-265806
-https://news.walla.co.il/break/3834295
+COUNTER:23
 https://news.walla.co.il/item/3834284
 https://hamal.co.il/main/טראמפ-שוחח-עם-פוטין-״חושב-שהוא-יכריז-על-הפסקת-אש״-265807
 https://news.walla.co.il/item/3834299
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נתניהו-על-רכש-טייסות-הקרב-266247
 https://hamal.co.il/main/במסגרת-הסדר-טיעוןפעיל-המחאה-שתקף-שוטרת-לא-יורשע-במעשה-מגונה-266254
 https://hamal.co.il/main/משרד-הבריאות-נ-קנאביס-רפואי-בטיפול-בפוסט-טראומה-סיכון-משמע-266255
 https://hamal.co.il/main/צפו-בתיעוד-מנהרה-באורך-של-כ-80-מטרים-הושמדה-בדרום-לבנון-266249
+https://news.walla.co.il/break/3835083
+https://hamal.co.il/main/שדד-קשיש-באלימות-אישום-הוגש-נגד-266262
+https://hamal.co.il/main/נועם-בתן-סיים-את-החזרה-הראשונה-עושה-את-זה-כמו-מלך-266260
+https://hamal.co.il/main/בגץ-הוציא-צו-ארעי-266263
+https://hamal.co.il/main/בפעם-השנייה-בתולדותיה-266264
