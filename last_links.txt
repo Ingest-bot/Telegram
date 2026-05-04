@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/הנחיות-פיקוד-העורף-עודכנו-יישובי-קו-העימות-הפכו-לצהובים-266029
-https://hamal.co.il/main/שני-לוחמים-נפצעו-קל-כתוצאה-מפגיעת-רחפן-נפץ-בדרום-לבנון-266030
-https://news.walla.co.il/break/3834700
+COUNTER:24
 https://news.walla.co.il/item/3834699
 https://hamal.co.il/main/חיל-האוויר-יירט-רחפן-ששוגר-לעבר-כוחותינו-בדרום-לבנון-266031
 https://news.walla.co.il/break/3834702
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-איראן-תמחק-מעל-פני-האדמה
 https://news.walla.co.il/break/3835466
 https://news.walla.co.il/break/3835469
 https://news.walla.co.il/item/3835471
+https://news.walla.co.il/break/3835473
+https://hamal.co.il/main/ייתכן-שהגיע-הזמן-שדרום-קוריאה-תצטרף-למשימה-הפלנו-שבע-סירות-266449
+https://hamal.co.il/main/ראש-העיר-נגד-קרעי-חוסר-הקליטה-בנגב-מסכן-את-התושבים-266417
