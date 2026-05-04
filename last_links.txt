@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/מראה-מרהיב-דולפינים-נמצאו-בחיפה--התיעוד-265929
-https://news.walla.co.il/break/3834532
+COUNTER:0
 https://hamal.co.il/main/אחרי-דקירת-אוהדי-מכבי-חיפה-מחוץ-לבלומפילד-מעצר-החשודים-הואר-265931
 https://hamal.co.il/main/איטליה-נגד-ההשתלטות-הישראלית-על-המשט-לעזה-265932
 https://news.walla.co.il/item/3834539
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835243
 https://news.walla.co.il/item/3835241
 https://hamal.co.il/main/בשל-חוז-ביטחוני-נתניהו-מבקש-לבטל-את-עדותו-266355
 https://hamal.co.il/main/לקראת-התקיפות-צהל-פרסם-הודעת-פינוי-לכפרים-בדרום-לבנון-266356
+https://news.walla.co.il/break/3835248
+https://hamal.co.il/main/הייצור-שחי-במקום-העמוק-ביותר-בעולם-266354
