@@ -1,7 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3834545
-https://news.walla.co.il/break/3834541
-https://news.walla.co.il/item/3834546
+COUNTER:6
 https://hamal.co.il/main/הרכבת-האווירית-והימית-לישראל-מתרחבת-ישראל-קיבלה-ציוד-צבאי-265933
 https://hamal.co.il/main/רופא-מתמחה-בסורוקה-הורשע-נשבע-אמונים-לדאעש-265942
 https://hamal.co.il/main/רצח-זלקה-ז״ל-מה-העידה-אמו-של-החשוד-המרכזי-שעשוי-לסבך-אותו-265945
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3835263
 https://hamal.co.il/main/אישום-הוגש-נגד-5-266360
 https://hamal.co.il/main/היועמשית-לבגץ-הדיונים-עם-בן-גביר-יימשכו-בעוד-כשבועיים-266363
 https://hamal.co.il/main/י-ם-פעוטה-כבת-שנתיים-לא-התעוררה-משנתה---ופונתה-במצב-אנוש-266364
+https://news.walla.co.il/break/3835272
+https://news.walla.co.il/break/3835271
+https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266365
