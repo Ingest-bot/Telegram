@@ -1,8 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/איראן-העבירה-הצעת-הסכם-מעודכנת-לארה״ב-דרך-פקיסטן-266036
-https://news.walla.co.il/break/3834714
-https://news.walla.co.il/item/3834716
-https://news.walla.co.il/item/3834715
+COUNTER:33
 https://hamal.co.il/main/צה״ל-מתחקרים-את-נפילת-רחפן-הנפץ-ששוגר-מלבנון-266037
 https://hamal.co.il/main/הכוח-לבחור-גם-כשאין-שליטה---על-ד״ר-אדית-איגר--איריס-חיים-266038
 https://hamal.co.il/main/תל-אביב-גבר-בן-28-נפצע-באורח-בינוני-באירוע-אלימות-266039
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לפני-זמן-קצר-יורטה-מטרה-אווירי
 https://hamal.co.il/main/איראן-הפרה-לחלוטין-את-הפסקת-האש-באמצעות-התקיפות-שלה-נגד-כל-266454
 https://news.walla.co.il/break/3835481
 https://hamal.co.il/main/הסנטור-לינדזי-גרהאם-יש-266455
+https://news.walla.co.il/break/3835487
+https://news.walla.co.il/item/3835489
+https://hamal.co.il/main/נתניהו-מבקש-לבטל-את-עדותו-מחר-בגין-פגישות-מדיניות-וביטחוניו-266456
+https://hamal.co.il/main/הכסף-החשאי-של-האייתוללות-הקשר-בין-הבורסה-הענקית-למשטר-266373
