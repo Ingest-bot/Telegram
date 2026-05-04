@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/הקטל-בכבישים-ילד-בן-9-נהרג-מפגיעת-רכב-בסמוך-לירושלים-265957
-https://news.walla.co.il/break/3834574
+COUNTER:18
 https://hamal.co.il/main/צהל-ממשיך-לתקוף-את-חיזבאללה-הושמדה-מנהרה-בראס-בידה-265959
 https://news.walla.co.il/break/3834576
 https://news.walla.co.il/break/3834579
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חוקרים-גילו-זו-הסיבה-שהחתול-של
 https://hamal.co.il/main/בעקבות-עוגת-יום-ההולדת-אזרח-שאיים-על-השר-בן-גביר---נעצר-266381
 https://news.walla.co.il/item/3835309
 https://hamal.co.il/main/עכשיו-זה-רשמי-זו-המדינה-עם-הטיולים-הטובים-באירופה-266369
+https://news.walla.co.il/item/3835291
+https://hamal.co.il/main/בגץ-ללוין-עליך-לעדכן-עד-יום-חמישי-בלוז-לכינוס-הועדה-266382
