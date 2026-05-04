@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3834579
-https://news.walla.co.il/break/3834578
-https://news.walla.co.il/break/3834580
+COUNTER:20
 https://news.walla.co.il/item/3834577
 https://hamal.co.il/main/מרחובות-לצנעא-המשאית-הישראלית-שהגיעה-לידי-החותים-265962
 https://news.walla.co.il/break/3834581
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3835291
 https://hamal.co.il/main/בגץ-ללוין-עליך-לעדכן-עד-יום-חמישי-בלוז-לכינוס-הועדה-266382
 https://news.walla.co.il/break/3835322
 https://hamal.co.il/main/באיראן-משיבים-להצעה-האמריקנית-266383
+https://news.walla.co.il/break/3835338
+https://news.walla.co.il/item/3835329
+https://hamal.co.il/main/האיבר-שרופאים-חשבו-שהוא-מיותר-התגלה-כמפתח-קריטי-לבריאות-266384
