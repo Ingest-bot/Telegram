@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/גבר-נפגע-מרכבת-דרומית-לרחובות---מותו-נקבע-במקום-265984
-https://news.walla.co.il/break/3834610
-https://news.walla.co.il/break/3834614
+COUNTER:36
 https://news.walla.co.il/break/3834611
 https://news.walla.co.il/break/3834613
 https://news.walla.co.il/item/3834612
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835387
 https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266387
 https://news.walla.co.il/item/3835393
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-266409
+https://news.walla.co.il/break/3835396
+https://news.walla.co.il/break/3835397
+https://hamal.co.il/main/עומסים-ותורים-איטליה-התחילה-את-עונת-התיירות---והרשת-גועשת-266408
