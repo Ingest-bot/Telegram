@@ -1,8 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3834650
-https://hamal.co.il/main/דיווח-בארהב-נערכים-לאפשרות-של-מכת-סיום-באיראן-265985
-https://hamal.co.il/main/דיווח-ישראל-העבירה-לאיחוד-האמירויות-מערכות-לייזר-והגנה-265988
-https://hamal.co.il/main/גבר-כבן-60-טבע-בחוף-פולג-מצבו-אנוש-265990
+COUNTER:7
 https://hamal.co.il/main/פעולות-חילוץ-של-גבר-שנתקע-עם-רחפן-על-קווי-מתח-סמוך-לערבה-265992
 https://news.walla.co.il/item/3834652
 https://hamal.co.il/main/2-קטינים-נעצרו-בחשד-לקטטה-בבית-ספר-באור-עקיבא-265993
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3835429
 https://news.walla.co.il/item/3835430
 https://hamal.co.il/main/רצח-דסטאו-צקול-הוארך-מעצרם-של-שלושה-חשודים-בארבעה-ימים-266419
 https://hamal.co.il/main/פרסום-ראשון-סכסוך-עבודה-ברשות-המסים-266426
+https://news.walla.co.il/break/3835434
+https://news.walla.co.il/item/3835435
+https://hamal.co.il/main/הפרויקט-האישי-של-הקצין-מכפיר-כך-הוגשם-חלום-לחייל-מהגדוד-266415
+https://hamal.co.il/main/לפני-זמן-קצר-חיל-האוויר-החל-באימונים-במרכז-הארץ-לקראת-מטס-ה-266430
