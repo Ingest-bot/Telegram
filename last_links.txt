@@ -1,10 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/רצח-זלקה-ז״ל-מה-העידה-אמו-של-החשוד-המרכזי-שעשוי-לסבך-אותו-265945
-https://news.walla.co.il/item/3834555
-https://news.walla.co.il/item/3834553
-https://news.walla.co.il/item/3834554
-https://news.walla.co.il/item/3834338
-https://hamal.co.il/main/מועצת-השלום-תוקפת-את-המשט-265946
+COUNTER:11
 https://hamal.co.il/main/כץ-יתכן-ובקרוב-נידרש-לשוב-ולפעול-באיראן-265948
 https://news.walla.co.il/break/3834558
 https://news.walla.co.il/item/3834560
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3835271
 https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266365
 https://news.walla.co.il/break/3835276
 https://hamal.co.il/main/צהל-תוקפים-תשתיות-של-חיזבאללה-בדרום-לבנון-266370
+https://news.walla.co.il/break/3835279
+https://news.walla.co.il/item/3835282
+https://hamal.co.il/main/מחשש-לחיסול-או-הפיכה-האבטחה-סביב-פוטין-תוגברה-באופן-דרמטי-266371
+https://hamal.co.il/main/צעיר-מחיפה-נעצר-בחשד-שדקר-גבר-בעיר-ופצע-אותו-באורח-קשה-266375
+https://hamal.co.il/main/הנתוני-שנחשפו-בכנסת-מעל-7700-תיקים-פליליים-נפתחו-לבני-נוער-266374
+https://hamal.co.il/main/תיעוד-דרמטי-מטוס-מתרסק-על-נהג-משאית-שנסע-סמוך-לשדה-התעופה-266376
