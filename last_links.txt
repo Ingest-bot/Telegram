@@ -1,5 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/item/3834630
 https://news.walla.co.il/break/3834641
 https://news.walla.co.il/break/3834643
 https://news.walla.co.il/item/3834639
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835418
 https://news.walla.co.il/break/3835421
 https://hamal.co.il/main/אייקוני-266400
 https://hamal.co.il/main/כוחות-סיירת-גבעתי-איתרו-מצבור-רקטות-ומשגרים-מוכנים-לירי-של-א-266413
+https://news.walla.co.il/item/3835424
