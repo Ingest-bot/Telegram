@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/כץ-יתכן-ובקרוב-נידרש-לשוב-ולפעול-באיראן-265948
-https://news.walla.co.il/break/3834558
-https://news.walla.co.il/item/3834560
-https://news.walla.co.il/item/3834559
+COUNTER:14
 https://hamal.co.il/main/הותר-לפרסום-סמל-ליאם-בן-חמו-בן-19-נפל-בקרב-בדרום-לבנון-265950
 https://news.walla.co.il/item/3834562
 https://hamal.co.il/main/הפסקת-אש-זוהה-שיגור-מלבנון-שנפל-בשטח-פתוח-265951
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מחשש-לחיסול-או-הפיכה-האבטחה-סב
 https://hamal.co.il/main/צעיר-מחיפה-נעצר-בחשד-שדקר-גבר-בעיר-ופצע-אותו-באורח-קשה-266375
 https://hamal.co.il/main/הנתוני-שנחשפו-בכנסת-מעל-7700-תיקים-פליליים-נפתחו-לבני-נוער-266374
 https://hamal.co.il/main/תיעוד-דרמטי-מטוס-מתרסק-על-נהג-משאית-שנסע-סמוך-לשדה-התעופה-266376
+https://news.walla.co.il/break/3835292
+https://hamal.co.il/main/מטוס-התדלוק-״גדעון״-266377
+https://hamal.co.il/main/המשטרה-מעדכנת-מפת-החסימות---בעקבות-ביטול-ההילולה-במירון-266379
+https://hamal.co.il/main/צהל-10-מחבלי-חיזבאללה-חוסלו-בימים-האחרונים--צפו-266380
