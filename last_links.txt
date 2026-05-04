@@ -1,10 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/פעולות-חילוץ-של-גבר-שנתקע-עם-רחפן-על-קווי-מתח-סמוך-לערבה-265992
-https://news.walla.co.il/item/3834652
-https://hamal.co.il/main/2-קטינים-נעצרו-בחשד-לקטטה-בבית-ספר-באור-עקיבא-265993
-https://news.walla.co.il/break/3834657
-https://news.walla.co.il/break/3834656
-https://hamal.co.il/main/זמני-כניסת-השבת-פרשת-״אמור״-265991
+COUNTER:10
 https://hamal.co.il/main/האיחוד-יעבוד-בנט-ולפיד-מתחזקים-נתניהו-נחלש--סקר-מעריב-265995
 https://news.walla.co.il/break/3834665
 https://news.walla.co.il/break/3834663
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3835434
 https://news.walla.co.il/item/3835435
 https://hamal.co.il/main/הפרויקט-האישי-של-הקצין-מכפיר-כך-הוגשם-חלום-לחייל-מהגדוד-266415
 https://hamal.co.il/main/לפני-זמן-קצר-חיל-האוויר-החל-באימונים-במרכז-הארץ-לקראת-מטס-ה-266430
+https://news.walla.co.il/break/3835440
+https://news.walla.co.il/break/3835441
+https://news.walla.co.il/break/3835443
+https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרת-ללא-שינוי-ותהיה-בתוקף-266431
+https://hamal.co.il/main/חיזבאללה-שיגררקטות-לעבר-כוחות-צהל-הפועלים-בדרום-לבנון-דרומ-266432
+https://hamal.co.il/main/הילדות-לא-יוצאות-מהבית-בערב-כך-האלימות-מחלחלת-266429
