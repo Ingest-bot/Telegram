@@ -1,5 +1,4 @@
 COUNTER:36
-https://news.walla.co.il/break/3834518
 https://news.walla.co.il/item/3834516
 https://hamal.co.il/main/אחרי-7-חודשים-בלבד-אדר-גיציס-ודני-לוי-נפרדו-265923
 https://news.walla.co.il/break/3834521
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-אד�
 https://news.walla.co.il/break/3835229
 https://hamal.co.il/main/אקוניס-בניו-יורק-לא-צריכים-הכרה-גאים-במדינה-ובהישגים-עיד-266351
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגיל-במידה-ניכרת-ינשבו-רוחות-חזקות-ובדרום-צפ-266352
+https://news.walla.co.il/break/3835233
