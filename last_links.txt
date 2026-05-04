@@ -1,9 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/item/3834585
-https://news.walla.co.il/item/3834584
-https://news.walla.co.il/break/3834588
-https://news.walla.co.il/item/3834589
-https://hamal.co.il/main/ליאם-צפה-בדרבי-בבלומפילד-ואז-נכנס-ללבנון-265967
+COUNTER:26
 https://news.walla.co.il/item/3834593
 https://hamal.co.il/main/הפרקליטות-הורתה-על-השלמות-חקירה-אייל-גולן-ייחקר-בשבוע-הבא-265969
 https://news.walla.co.il/break/3834594
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ככה-זה-ייראה-באירוויזיון-תמונ�
 https://hamal.co.il/main/באיראן-מאיימים-על-איחוד-האמירויות-266391
 https://hamal.co.il/main/לראשונה-זה-15-שנה-שלג-ירד-בחרמון---בחודש-מאי--צפו-266392
 https://hamal.co.il/main/ראש-מנהלת-ההתיישבות-מונה-266393
+https://news.walla.co.il/break/3835352
+https://news.walla.co.il/break/3835354
+https://news.walla.co.il/item/3835356
+https://hamal.co.il/main/כ-6-שנים-אחרי-כך-נחטף-אביתר-אזרזר-רגע-לפני-שנורה-למוות--תי-266386
+https://hamal.co.il/main/משמרות-המהפכה-הכריזו-השתלטנו-על-אזור-266395
