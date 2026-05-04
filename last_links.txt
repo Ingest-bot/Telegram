@@ -1,6 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3834611
-https://news.walla.co.il/break/3834613
+COUNTER:37
 https://news.walla.co.il/item/3834612
 https://news.walla.co.il/break/3834619
 https://news.walla.co.il/item/3834618
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-266409
 https://news.walla.co.il/break/3835396
 https://news.walla.co.il/break/3835397
 https://hamal.co.il/main/עומסים-ותורים-איטליה-התחילה-את-עונת-התיירות---והרשת-גועשת-266408
+https://news.walla.co.il/break/3835401
+https://hamal.co.il/main/תרחיש-המרמרה-יחזור-צהל-נערך-למשט-אלים-מטורקיה-266385
