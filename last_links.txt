@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/אחרי-דקירת-אוהדי-מכבי-חיפה-מחוץ-לבלומפילד-מעצר-החשודים-הואר-265931
-https://hamal.co.il/main/איטליה-נגד-ההשתלטות-הישראלית-על-המשט-לעזה-265932
+COUNTER:2
 https://news.walla.co.il/item/3834539
 https://hamal.co.il/main/המזוודות-יעברו-לידיים-רובוטיות-המהפכה-בשדה-התעופה-בטוקיו-265937
 https://news.walla.co.il/break/3834547
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בשל-חוז-ביטחוני-נתניהו-מבקש-לב
 https://hamal.co.il/main/לקראת-התקיפות-צהל-פרסם-הודעת-פינוי-לכפרים-בדרום-לבנון-266356
 https://news.walla.co.il/break/3835248
 https://hamal.co.il/main/הייצור-שחי-במקום-העמוק-ביותר-בעולם-266354
+https://hamal.co.il/main/דיווח-266357
+https://hamal.co.il/main/אישום-תקפה-שוטרים-ואנשי-צוות-בבית-מלון-באילת-266359
