@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/הרכבת-האווירית-והימית-לישראל-מתרחבת-ישראל-קיבלה-ציוד-צבאי-265933
-https://hamal.co.il/main/רופא-מתמחה-בסורוקה-הורשע-נשבע-אמונים-לדאעש-265942
+COUNTER:7
 https://hamal.co.il/main/רצח-זלקה-ז״ל-מה-העידה-אמו-של-החשוד-המרכזי-שעשוי-לסבך-אותו-265945
 https://news.walla.co.il/item/3834555
 https://news.walla.co.il/item/3834553
@@ -499,3 +497,5 @@ https://hamal.co.il/main/י-ם-פעוטה-כבת-שנתיים-לא-התעורר�
 https://news.walla.co.il/break/3835272
 https://news.walla.co.il/break/3835271
 https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266365
+https://news.walla.co.il/break/3835276
+https://hamal.co.il/main/צהל-תוקפים-תשתיות-של-חיזבאללה-בדרום-לבנון-266370
