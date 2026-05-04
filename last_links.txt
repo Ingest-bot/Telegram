@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/item/3834607
-https://hamal.co.il/main/קצינה-ונגד-צהל-נפצעו-בינוני-כתוצאה-מנפילת-רחפן-נפץ-בדרום-לב-265983
+COUNTER:35
 https://hamal.co.il/main/גבר-נפגע-מרכבת-דרומית-לרחובות---מותו-נקבע-במקום-265984
 https://news.walla.co.il/break/3834610
 https://news.walla.co.il/break/3834614
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3835379
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בטייבה-מצבו-קשה-266404
 https://news.walla.co.il/break/3835387
 https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266387
+https://news.walla.co.il/item/3835393
+https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-266409
