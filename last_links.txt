@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/אחת-ולתמיד-מה-שורף-יותר-קלוריות---הליכה-או-ריצה-265916
-https://news.walla.co.il/break/3834510
+COUNTER:35
 https://news.walla.co.il/break/3834511
 https://news.walla.co.il/break/3834518
 https://news.walla.co.il/item/3834516
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3835228
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-266347
 https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266348
 https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-אדמית-וערב-אל-עראמשה-הפרטים-בבד-266350
+https://news.walla.co.il/break/3835229
+https://hamal.co.il/main/אקוניס-בניו-יורק-לא-צריכים-הכרה-גאים-במדינה-ובהישגים-עיד-266351
