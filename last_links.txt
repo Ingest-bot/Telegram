@@ -1,9 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3834539
-https://hamal.co.il/main/המזוודות-יעברו-לידיים-רובוטיות-המהפכה-בשדה-התעופה-בטוקיו-265937
-https://news.walla.co.il/break/3834547
-https://news.walla.co.il/break/3834543
-https://news.walla.co.il/break/3834548
+COUNTER:5
 https://news.walla.co.il/break/3834545
 https://news.walla.co.il/break/3834541
 https://news.walla.co.il/item/3834546
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3835248
 https://hamal.co.il/main/הייצור-שחי-במקום-העמוק-ביותר-בעולם-266354
 https://hamal.co.il/main/דיווח-266357
 https://hamal.co.il/main/אישום-תקפה-שוטרים-ואנשי-צוות-בבית-מלון-באילת-266359
+https://news.walla.co.il/item/3835261
+https://news.walla.co.il/item/3835263
+https://hamal.co.il/main/אישום-הוגש-נגד-5-266360
+https://hamal.co.il/main/היועמשית-לבגץ-הדיונים-עם-בן-גביר-יימשכו-בעוד-כשבועיים-266363
+https://hamal.co.il/main/י-ם-פעוטה-כבת-שנתיים-לא-התעוררה-משנתה---ופונתה-במצב-אנוש-266364
