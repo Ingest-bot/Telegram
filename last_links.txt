@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3834516
-https://hamal.co.il/main/אחרי-7-חודשים-בלבד-אדר-גיציס-ודני-לוי-נפרדו-265923
-https://news.walla.co.il/break/3834521
+COUNTER:37
 https://news.walla.co.il/item/3834520
 https://hamal.co.il/main/המאבק-באלימות-זה-הצעד-שנקט-בית-הספר-במודיעין-265925
 https://news.walla.co.il/break/3834526
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835229
 https://hamal.co.il/main/אקוניס-בניו-יורק-לא-צריכים-הכרה-גאים-במדינה-ובהישגים-עיד-266351
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגיל-במידה-ניכרת-ינשבו-רוחות-חזקות-ובדרום-צפ-266352
 https://news.walla.co.il/break/3835233
+https://news.walla.co.il/break/3835236
+https://news.walla.co.il/break/3835237
+https://hamal.co.il/main/לא-תרופות-ולא-דיאטה-מחקר-ישראלי-מצא-איך-באמת-יורדים-במשקל-266353
