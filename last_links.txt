@@ -1,6 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/item/3834620
-https://news.walla.co.il/break/3834622
+COUNTER:39
 https://news.walla.co.il/break/3834624
 https://news.walla.co.il/break/3834628
 https://news.walla.co.il/break/3834629
@@ -499,3 +497,5 @@ https://hamal.co.il/main/תרחיש-המרמרה-יחזור-צהל-נערך-למ
 https://news.walla.co.il/break/3835406
 https://news.walla.co.il/item/3835405
 https://hamal.co.il/main/טראמפ-שתי-אוניות-סוחר-אמריקניות-חצו-בהצלחה-את-מצר-הורמוז-רו-266410
+https://news.walla.co.il/break/3835409
+https://hamal.co.il/main/שפל-חסר-תקדים-מאבטח-אמר-לאלמנת-צהל-מגיע-לך-שבעלך-נהרג-266394
