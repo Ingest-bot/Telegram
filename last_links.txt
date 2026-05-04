@@ -1,11 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/האיחוד-יעבוד-בנט-ולפיד-מתחזקים-נתניהו-נחלש--סקר-מעריב-265995
-https://news.walla.co.il/break/3834665
-https://news.walla.co.il/break/3834663
-https://news.walla.co.il/item/3834662
-https://hamal.co.il/main/פרשת-׳אמור׳-מה-ההבדל-בין-המילה-׳אמר׳-למילה-׳דבר׳-אל׳-266000
-https://news.walla.co.il/break/3834671
-https://news.walla.co.il/break/3834672
+COUNTER:13
 https://hamal.co.il/main/מחקר-חדש-זה-הפרי-שמפחית-דלקת-ומגן-על-הלב-שלכם-266002
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כטב״ם-במרחב-ראש-הנקרה-הפרטים-בבדיקה-266004
 https://hamal.co.il/main/יוון-הסכימה-שפעילי-המשט-יורדו-לחופיה-266005
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3835443
 https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרת-ללא-שינוי-ותהיה-בתוקף-266431
 https://hamal.co.il/main/חיזבאללה-שיגררקטות-לעבר-כוחות-צהל-הפועלים-בדרום-לבנון-דרומ-266432
 https://hamal.co.il/main/הילדות-לא-יוצאות-מהבית-בערב-כך-האלימות-מחלחלת-266429
+https://news.walla.co.il/break/3835445
+https://news.walla.co.il/break/3835450
+https://news.walla.co.il/item/3835449
+https://news.walla.co.il/item/3835446
+https://hamal.co.il/main/באמירויות-אומרים-שאיראן-שיגרה-לעברם-ארבעה-טילים-שלושה-יורטו-266433
+https://hamal.co.il/main/הסלמה-חמורה-איראן-שיגרה-3-טילים-לאמירויות-פיצוצים-בדובאי-ר-266434
+https://hamal.co.il/main/דיווחים-בלתי-פוסקים-על-אזעקות-נוספות-באמירויות-266436
