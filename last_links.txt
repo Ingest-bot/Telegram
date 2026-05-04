@@ -1,7 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3834624
-https://news.walla.co.il/break/3834628
-https://news.walla.co.il/break/3834629
+COUNTER:1
 https://news.walla.co.il/break/3834632
 https://news.walla.co.il/break/3834633
 https://news.walla.co.il/break/3834636
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3835405
 https://hamal.co.il/main/טראמפ-שתי-אוניות-סוחר-אמריקניות-חצו-בהצלחה-את-מצר-הורמוז-רו-266410
 https://news.walla.co.il/break/3835409
 https://hamal.co.il/main/שפל-חסר-תקדים-מאבטח-אמר-לאלמנת-צהל-מגיע-לך-שבעלך-נהרג-266394
+https://news.walla.co.il/break/3835413
+https://hamal.co.il/main/איטליה-לא-נתמוך-בנסיגת-כוחות-אמריקניים-מהמדינה-רויטרס-1-ר-266411
+https://hamal.co.il/main/ני-לוחמי-גולני-נפצעו-במהלך-חילופי-אש-בדרום-לבנון-אמיר-בוחבוט-266412
