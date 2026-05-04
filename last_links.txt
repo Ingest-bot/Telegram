@@ -1,8 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3834641
-https://news.walla.co.il/break/3834643
-https://news.walla.co.il/item/3834639
-https://news.walla.co.il/break/3834646
+COUNTER:4
 https://news.walla.co.il/item/3834648
 https://news.walla.co.il/item/3834650
 https://hamal.co.il/main/דיווח-בארהב-נערכים-לאפשרות-של-מכת-סיום-באיראן-265985
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835421
 https://hamal.co.il/main/אייקוני-266400
 https://hamal.co.il/main/כוחות-סיירת-גבעתי-איתרו-מצבור-רקטות-ומשגרים-מוכנים-לירי-של-א-266413
 https://news.walla.co.il/item/3835424
+https://news.walla.co.il/break/3835428
+https://news.walla.co.il/item/3835429
+https://news.walla.co.il/item/3835430
+https://hamal.co.il/main/רצח-דסטאו-צקול-הוארך-מעצרם-של-שלושה-חשודים-בארבעה-ימים-266419
