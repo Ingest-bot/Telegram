@@ -1,7 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/item/3834612
-https://news.walla.co.il/break/3834619
-https://news.walla.co.il/item/3834618
+COUNTER:38
 https://news.walla.co.il/item/3834620
 https://news.walla.co.il/break/3834622
 https://news.walla.co.il/break/3834624
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835397
 https://hamal.co.il/main/עומסים-ותורים-איטליה-התחילה-את-עונת-התיירות---והרשת-גועשת-266408
 https://news.walla.co.il/break/3835401
 https://hamal.co.il/main/תרחיש-המרמרה-יחזור-צהל-נערך-למשט-אלים-מטורקיה-266385
+https://news.walla.co.il/break/3835406
+https://news.walla.co.il/item/3835405
+https://hamal.co.il/main/טראמפ-שתי-אוניות-סוחר-אמריקניות-חצו-בהצלחה-את-מצר-הורמוז-רו-266410
