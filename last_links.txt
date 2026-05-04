@@ -1,6 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3834711
-https://news.walla.co.il/break/3834712
+COUNTER:31
 https://hamal.co.il/main/איראן-העבירה-הצעת-הסכם-מעודכנת-לארה״ב-דרך-פקיסטן-266036
 https://news.walla.co.il/break/3834714
 https://news.walla.co.il/item/3834716
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835480
 https://news.walla.co.il/item/3835478
 https://hamal.co.il/main/לפני-זמן-קצר-יורטה-מטרה-אווירית-חשודה-שזוהתה-במרחב-בו-פועלי-266453
 https://hamal.co.il/main/איראן-הפרה-לחלוטין-את-הפסקת-האש-באמצעות-התקיפות-שלה-נגד-כל-266454
+https://news.walla.co.il/break/3835481
+https://hamal.co.il/main/הסנטור-לינדזי-גרהאם-יש-266455
