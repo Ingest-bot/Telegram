@@ -1,8 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3834597
-https://hamal.co.il/main/דרמה-בוונציה-שופטי-הביאנלה-התפטרו-במחאה-על-השתתפות-ישראל-265972
-https://news.walla.co.il/break/3834602
-https://news.walla.co.il/item/3834600
+COUNTER:32
 https://hamal.co.il/main/באנו-לפרק-סודנים-מהומות-בדרום-תל-אביב-265976
 https://hamal.co.il/main/אורלי-עדס-פרשה-מתפקידה-כמנכלית-ועדת-הבחירות-265979
 https://hamal.co.il/main/טראמפ-״איראן-מתה-לעשות-עסקה״-265982
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835364
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הכטבם-לא-חצה-לשטח-ישראל-266396
 https://hamal.co.il/main/צהל-חיסלנו-מחבל-חמאס-ששיגר-בעבר-רקטות-לעבר-ישראל-266398
 https://hamal.co.il/main/דיווחים-266397
+https://news.walla.co.il/break/3835368
+https://hamal.co.il/main/ליברמן-הודיע-אחיו-של-שורד-השבי-מצטרף-לישראל-ביתנו-266399
+https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266401
+https://hamal.co.il/main/דיווח-בארהב-מכחישים-שאיראן-פגעה-בספינה-אמריקנית-266402
