@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3834648
+COUNTER:5
 https://news.walla.co.il/item/3834650
 https://hamal.co.il/main/דיווח-בארהב-נערכים-לאפשרות-של-מכת-סיום-באיראן-265985
 https://hamal.co.il/main/דיווח-ישראל-העבירה-לאיחוד-האמירויות-מערכות-לייזר-והגנה-265988
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835428
 https://news.walla.co.il/item/3835429
 https://news.walla.co.il/item/3835430
 https://hamal.co.il/main/רצח-דסטאו-צקול-הוארך-מעצרם-של-שלושה-חשודים-בארבעה-ימים-266419
+https://hamal.co.il/main/פרסום-ראשון-סכסוך-עבודה-ברשות-המסים-266426
