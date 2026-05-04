@@ -1,5 +1,4 @@
 COUNTER:1
-https://hamal.co.il/main/ישראל-תעמיד-לדין-את-מובילי-המשט-לעזה-266053
 https://news.walla.co.il/break/3834734
 https://news.walla.co.il/break/3834735
 https://news.walla.co.il/break/3834738
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אוניית-הקרוז-תקועה-בים-אחרי-הת
 https://hamal.co.il/main/חג-המדורות-חוגגים-ברחבי-הארץ-את-לג-בעומר-266465
 https://news.walla.co.il/break/3835500
 https://hamal.co.il/main/סעודיה-לאמירויות-מגנים-בחריפות-את-המתקפה-האיראנית-266466
+https://news.walla.co.il/break/3835505
