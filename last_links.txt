@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/צהל-ממשיך-לתקוף-את-חיזבאללה-הושמדה-מנהרה-בראס-בידה-265959
-https://news.walla.co.il/break/3834576
+COUNTER:19
 https://news.walla.co.il/break/3834579
 https://news.walla.co.il/break/3834578
 https://news.walla.co.il/break/3834580
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3835309
 https://hamal.co.il/main/עכשיו-זה-רשמי-זו-המדינה-עם-הטיולים-הטובים-באירופה-266369
 https://news.walla.co.il/item/3835291
 https://hamal.co.il/main/בגץ-ללוין-עליך-לעדכן-עד-יום-חמישי-בלוז-לכינוס-הועדה-266382
+https://news.walla.co.il/break/3835322
+https://hamal.co.il/main/באיראן-משיבים-להצעה-האמריקנית-266383
