@@ -1,9 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/הסדר-פשרה-אפל-תשלם-עד-1890-שקלים-ללקוחות-ישראליים-266026
-https://news.walla.co.il/break/3834705
-https://hamal.co.il/main/יותר-מ-900-תשתיות-טרור-הושמדו-תיעוד-מבינת-ג׳בייל-266033
-https://news.walla.co.il/break/3834707
-https://hamal.co.il/main/שני-פצועים-קל-מפגיעת-רחפן-נפץ-סמוך-למשגב-עם-266035
+COUNTER:30
 https://news.walla.co.il/break/3834711
 https://news.walla.co.il/break/3834712
 https://hamal.co.il/main/איראן-העבירה-הצעת-הסכם-מעודכנת-לארה״ב-דרך-פקיסטן-266036
@@ -499,3 +494,8 @@ https://hamal.co.il/main/CNN-ישראל-יירטה-טילים-ששוגרו-מא�
 https://news.walla.co.il/break/3835474
 https://hamal.co.il/main/המדינה-מבקשת-26-שנות-מאסר-לרוצח-מאיה-ווישניאק-266421
 https://hamal.co.il/main/החשוד-בפרשת-אונס-שי-לי-עטרי-ונעמה-שחר-נחת-בישראל---ונעצר-266424
+https://news.walla.co.il/break/3835479
+https://news.walla.co.il/break/3835480
+https://news.walla.co.il/item/3835478
+https://hamal.co.il/main/לפני-זמן-קצר-יורטה-מטרה-אווירית-חשודה-שזוהתה-במרחב-בו-פועלי-266453
+https://hamal.co.il/main/איראן-הפרה-לחלוטין-את-הפסקת-האש-באמצעות-התקיפות-שלה-נגד-כל-266454
