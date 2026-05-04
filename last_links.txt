@@ -1,6 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3834734
-https://news.walla.co.il/break/3834735
+COUNTER:2
 https://news.walla.co.il/break/3834738
 https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-חשודה-בלבנון-תוצאות-היירוט-בבדיקה-266055
 https://hamal.co.il/main/ארה״ב-תסגור-את-המפקדה-בקריית-גת-266056
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חג-המדורות-חוגגים-ברחבי-הארץ-א
 https://news.walla.co.il/break/3835500
 https://hamal.co.il/main/סעודיה-לאמירויות-מגנים-בחריפות-את-המתקפה-האיראנית-266466
 https://news.walla.co.il/break/3835505
+https://news.walla.co.il/item/3835504
+https://hamal.co.il/main/המודיעין-האמריקאי-לוח-הזמנים-הגרעיני-של-איראן-לא-השתנה-266469
