@@ -1,5 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/מדגם-הליכודיאדה-אוחנה-ואלי-כהן-מובילים-בראש-266167
+COUNTER:21
 https://news.walla.co.il/break/3834894
 https://news.walla.co.il/item/3834893
 https://news.walla.co.il/item/3834896
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835730
 https://news.walla.co.il/item/3835723
 https://hamal.co.il/main/דיווח-בצרפת-ערוץ-14-בישראל-מואשם-בהסתה-לרצח-עם-266569
 https://hamal.co.il/main/נתניהו-מגיב-לפרסומים-פייק-ניוז-מוחלט---הליכוד-הוא-הבית-266570
+https://hamal.co.il/main/מפקד-חיל-האוויר-היוצא-האלוף-תומר-בר-266574
