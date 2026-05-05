@@ -1,6 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/רצח-זלקה-זל-נעצר-חשוד-נוסף-בן-16-בחשד-למעורבות-באירוע-266143
-https://news.walla.co.il/item/3834868
+COUNTER:12
 https://news.walla.co.il/break/3834869
 https://news.walla.co.il/break/3834870
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-266150
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835686
 https://news.walla.co.il/item/3835215
 https://news.walla.co.il/item/3835503
 https://hamal.co.il/main/האזעקה-במשגב-עם-תושבים-דיווחו-על-שיגור-מיירטים-266546
+https://news.walla.co.il/break/3835687
+https://hamal.co.il/main/מרדכי-דוד-רדף-אחרי-השופטת-עם-ישראל-יודע-שביבי-חף-מפשע-266548
