@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/גבר-כבן-30-נרצח-ברהט-266062
-https://news.walla.co.il/break/3834753
-https://hamal.co.il/main/דוח-רשמי-חושף-כך-תורידו-עד-5-שנים-מהגיל-הביולוגי-שלכם-266065
-https://news.walla.co.il/break/3834756
+COUNTER:8
 https://hamal.co.il/main/פעוטה-כבת-שנתיים-נפגעה-מרכב-בסלמה-מצבה-בינוני-266067
 https://hamal.co.il/main/המלחמה-על-ההחלמה--איגרת-ראש-אכ״א-266069
 https://news.walla.co.il/break/3834762
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3835522
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-פצצות-מרגמה-לעבר-כוחותינו---אין-נפגעים-266474
 https://news.walla.co.il/break/3835525
 https://hamal.co.il/main/מזג-האוויר-266475
+https://news.walla.co.il/break/3835529
+https://news.walla.co.il/break/3835527
+https://news.walla.co.il/break/3835528
+https://hamal.co.il/main/דיווח-איראני-ארהב-תקפה-שתי-סירות-אזרחיות-וחמישה-נהרגו-266478
