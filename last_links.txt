@@ -1,7 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/דובר-צהל-בערבית-באזהרה-דחופה-לתושבי-לבנון-266100
-https://news.walla.co.il/break/3834803
-https://news.walla.co.il/item/3834801
+COUNTER:32
 https://hamal.co.il/main/שריפה-פרצה-בדירה-266101
 https://news.walla.co.il/break/3834811
 https://news.walla.co.il/break/3834810
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835614
 https://news.walla.co.il/item/3835611
 https://hamal.co.il/main/נתניהו-מבקש-לדחות-את-עדותו-היום-266504
 https://hamal.co.il/main/נשבר-לנו-הם-סכנה-קיומית-הנדל-במתקפה-נגד-המפלגות-החרדיות-266505
+https://news.walla.co.il/item/3835623
+https://news.walla.co.il/item/3835621
+https://hamal.co.il/main/3-כתבי-אישום-הוגשו-נגד-4-נאשמים-בהברחת-סחורות-לעזה-266508
