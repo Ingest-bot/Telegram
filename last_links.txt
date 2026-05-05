@@ -1,5 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/חשד-לרצח-בשפרעם-גבר-כבן-50-נורה-למוות-266195
+COUNTER:36
 https://news.walla.co.il/break/3834937
 https://hamal.co.il/main/מפוקח-266196
 https://hamal.co.il/main/בשל-הפרות-חיזבאללצהל-בהודעת-פינוי-לכפרים-נוספים-בדרום-לבנון-266198
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בעקבות-המשבר-בהורמוז-ישראל-תע�
 https://news.walla.co.il/item/3835772
 https://news.walla.co.il/break/3835773
 https://hamal.co.il/main/המהלך-שיגדיל-את-המכירות-של-התעשייה-האווירית-266584
+https://hamal.co.il/main/תאונה-בעפולה-2-צעירות-כבנות-20-במצב-קשה-266596
