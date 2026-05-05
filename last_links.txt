@@ -1,7 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3834820
-https://hamal.co.il/main/קיץ-בחופי-הכינרת-כפר-הנופש-עין-גב-בתפוסה-מלאה-266114
-https://hamal.co.il/main/חייל-מילואים-זיהה-מצנח-רחיפה-שחדר-לגוש-עציון---וירה-בו-266116
+COUNTER:0
 https://news.walla.co.il/break/3834828
 https://hamal.co.il/main/קשת-סביב-השמש-תופעה-מרהיבה-התגלתה-בשמיים-266119
 https://news.walla.co.il/break/3834834
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נתניהו-נפגש-עם-266514
 https://hamal.co.il/main/מתפללים-שהיו-בדרכם-למירון-חסמו-את-צומת-מגידו-266516
 https://news.walla.co.il/break/3835646
 https://news.walla.co.il/item/3835647
+https://news.walla.co.il/break/3835648
+https://hamal.co.il/main/הפריימריז-בליכוד-השיריונים-שנתניהו-יקבל---והמיקומים-266503
+https://hamal.co.il/main/סכום-משמעותי-תושב-י-ם-נפל-לבור-בכביש---זה-הפיצוי-שיקבל-266506
