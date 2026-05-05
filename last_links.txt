@@ -1,12 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3834738
-https://hamal.co.il/main/מיירט-שוגר-לעבר-מטרה-חשודה-בלבנון-תוצאות-היירוט-בבדיקה-266055
-https://hamal.co.il/main/ארה״ב-תסגור-את-המפקדה-בקריית-גת-266056
-https://news.walla.co.il/item/3834737
-https://news.walla.co.il/item/3834735
-https://hamal.co.il/main/בעקבות-פעילות-צה״ל-רעשי-פיצוצים-266057
-https://news.walla.co.il/break/3834742
-https://hamal.co.il/main/אעלה-את-המכסים-המוטלים-על-האיחוד-האירופי-עבור-מכוניות-ומשאיו-266058
+COUNTER:5
 https://hamal.co.il/main/רוכבת-קורקינט-חשמלי-בת-16-נפצעה-באורח-בינוני-בראשון-לציון-266059
 https://news.walla.co.il/break/3834745
 https://news.walla.co.il/break/3834746
@@ -499,3 +491,11 @@ https://hamal.co.il/main/סעודיה-לאמירויות-מגנים-בחריפו
 https://news.walla.co.il/break/3835505
 https://news.walla.co.il/item/3835504
 https://hamal.co.il/main/המודיעין-האמריקאי-לוח-הזמנים-הגרעיני-של-איראן-לא-השתנה-266469
+https://news.walla.co.il/break/3835507
+https://news.walla.co.il/break/3835508
+https://news.walla.co.il/break/3835509
+https://news.walla.co.il/break/3835514
+https://news.walla.co.il/item/3835506
+https://hamal.co.il/main/גבר-בן-40-נפצע-קשה-באירוע-אלימות-בנתניה-266470
+https://hamal.co.il/main/גבר-כבן-60-266471
+https://hamal.co.il/main/דיווח-טראמפ-בוחן-אפשרויות-תגובה-לתקיפות-האיראניות-266473
