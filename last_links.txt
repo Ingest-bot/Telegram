@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3834767
-https://hamal.co.il/main/אירוע-חריג-בקרית-אתא-רימון-הושלך-לעבר-266072
-https://hamal.co.il/main/דיווח-בוול-סטריט-ג׳ורנל-אלו-פרטי-ההצעה-שהגישה-איראן-266073
+COUNTER:11
 https://hamal.co.il/main/גבר-בן-24-נפצע-באורח-קשה-באירוע-אלימות-בזרזיר-266075
 https://news.walla.co.il/break/3834777
 https://news.walla.co.il/break/3834776
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835538
 https://news.walla.co.il/break/3835536
 https://news.walla.co.il/break/3835539
 https://hamal.co.il/main/סמוטריץ-ממשלה-עם-עבאס-חמורה-יותר-מ־7-באוקטובר-266479
+https://news.walla.co.il/item/3835541
+https://hamal.co.il/main/חזה-את-ניסיונות-ההתנקשות-בטראמפ---ומזהיר-מהאסון-הענק-שבדרך-266480
+https://hamal.co.il/main/גבר-נפצע-באירוע-אלימות-בבאר-שבע-מצבו-קשה-266483
