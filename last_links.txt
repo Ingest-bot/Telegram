@@ -1,12 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3834869
-https://news.walla.co.il/break/3834870
-https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-266150
-https://news.walla.co.il/break/3834873
-https://news.walla.co.il/item/3834874
-https://news.walla.co.il/break/3834875
-https://news.walla.co.il/break/3834878
-https://hamal.co.il/main/ההתרעה-ביפתח---זיהוי-שווא-266151
+COUNTER:16
 https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-למעלה-החמישה-266152
 https://hamal.co.il/main/חדשות-השבת-266154
 https://news.walla.co.il/break/3834880
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3835503
 https://hamal.co.il/main/האזעקה-במשגב-עם-תושבים-דיווחו-על-שיגור-מיירטים-266546
 https://news.walla.co.il/break/3835687
 https://hamal.co.il/main/מרדכי-דוד-רדף-אחרי-השופטת-עם-ישראל-יודע-שביבי-חף-מפשע-266548
+https://news.walla.co.il/break/3835693
+https://news.walla.co.il/break/3835694
+https://news.walla.co.il/break/3835703
+https://news.walla.co.il/item/3835697
+https://hamal.co.il/main/האזעקות-בגליל-שיגורים-שיורטו-בטרם-חצו-לשטח-הארץ-266552
+https://hamal.co.il/main/ראשוני--אירוע-ירי-לעבר-רכב-ללא-נפגעים-בחדרה-266554
+https://hamal.co.il/main/צהל-חיסל-חוליית-מחבלים-חמושים-בצפון-הרצועה-266556
+https://hamal.co.il/main/מיצג-הנובה-מגיע-ללונדון-תחת-היערכות-ביטחונית-חסרת-תקדים-266524
