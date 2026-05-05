@@ -1,7 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3834950
-https://news.walla.co.il/item/3834945
-https://news.walla.co.il/item/3834949
+COUNTER:39
 https://hamal.co.il/main/הילולת-הרשבי-במירון-תתקיים-תחת-הגבלות-אלו-הכבישים-שייחסמו-266199
 https://news.walla.co.il/break/3834959
 https://news.walla.co.il/item/3834957
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835777
 https://news.walla.co.il/break/3835778
 https://news.walla.co.il/break/3835779
 https://hamal.co.il/main/חשד-לתקיפה-במרכז-תל-אביב-פעיל-ימין-ירק-על-אהוד-אולמרט-266599
+https://news.walla.co.il/break/3835783
+https://hamal.co.il/main/חיזבאללה-שיגר-מספר-רקטות-לעבר-הכוחות-בדרום-לבנון-אין-נפגעים-266600
+https://hamal.co.il/main/יותר-מ-550-יחידות-של-חומרים-שיועדו-לייצור-מטענים-הוחרמו-266601
