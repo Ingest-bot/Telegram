@@ -1,9 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/יום-לפני-הדיון-בהארכת-מעצרם-בכירי-המשט-הכריזו-על-שביתת-רעב-266147
-https://news.walla.co.il/break/3834889
-https://news.walla.co.il/break/3834890
-https://hamal.co.il/main/במספר-אירועים-שונים-צהל-חיסל-מחבלים-ברצועת-עזה-266162
-https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-סמוך-לצומת-דימונה-צפון-266163
+COUNTER:20
 https://hamal.co.il/main/מדגם-הליכודיאדה-אוחנה-ואלי-כהן-מובילים-בראש-266167
 https://news.walla.co.il/break/3834894
 https://news.walla.co.il/item/3834893
@@ -499,3 +494,8 @@ https://hamal.co.il/main/העליון-מנע-ממושיקו-מור-לצאת-ממ
 https://news.walla.co.il/break/3835719
 https://news.walla.co.il/item/3835714
 https://hamal.co.il/main/איחוד-האמירויות-נתונים-למתקפת-טילים-וכטב״מים-מאיראן-266563
+https://news.walla.co.il/break/3835725
+https://news.walla.co.il/break/3835730
+https://news.walla.co.il/item/3835723
+https://hamal.co.il/main/דיווח-בצרפת-ערוץ-14-בישראל-מואשם-בהסתה-לרצח-עם-266569
+https://hamal.co.il/main/נתניהו-מגיב-לפרסומים-פייק-ניוז-מוחלט---הליכוד-הוא-הבית-266570
