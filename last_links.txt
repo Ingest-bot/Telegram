@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3834762
-https://news.walla.co.il/break/3834763
-https://hamal.co.il/main/הבית-הלבן-הודיע-שטראמפ-אינו-זקוק-לאישור-לפעילות-באיראן-266070
-https://hamal.co.il/main/אקס-ברצלונה-שביזה-את-דקת-הדומיה-לזכר-7-באוקטובר-חגג-עם-דגל-פ-266071
+COUNTER:9
 https://news.walla.co.il/break/3834767
 https://hamal.co.il/main/אירוע-חריג-בקרית-אתא-רימון-הושלך-לעבר-266072
 https://hamal.co.il/main/דיווח-בוול-סטריט-ג׳ורנל-אלו-פרטי-ההצעה-שהגישה-איראן-266073
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835528
 https://hamal.co.il/main/דיווח-איראני-ארהב-תקפה-שתי-סירות-אזרחיות-וחמישה-נהרגו-266478
 https://news.walla.co.il/break/3835533
 https://news.walla.co.il/item/3835534
+https://news.walla.co.il/break/3835538
+https://news.walla.co.il/break/3835536
+https://news.walla.co.il/break/3835539
+https://hamal.co.il/main/סמוטריץ-ממשלה-עם-עבאס-חמורה-יותר-מ־7-באוקטובר-266479
