@@ -1,8 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/שני-צעירים-נעצרו-בחשד-לירי-בכלי-איירסופט-לעבר-מחאה-בבאר-שבע-266189
-https://news.walla.co.il/break/3834927
-https://news.walla.co.il/break/3834926
-https://news.walla.co.il/break/3834929
+COUNTER:30
 https://news.walla.co.il/break/3834931
 https://news.walla.co.il/item/3834928
 https://news.walla.co.il/item/3834932
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835751
 https://news.walla.co.il/break/3835752
 https://news.walla.co.il/break/3835753
 https://news.walla.co.il/break/3835754
+https://news.walla.co.il/break/3835756
+https://news.walla.co.il/break/3835757
+https://news.walla.co.il/break/3835755
+https://hamal.co.il/main/2-תינוקות-נמצאו-מעורפלי-הכרה-בי-ם-266517
