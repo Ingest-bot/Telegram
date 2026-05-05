@@ -1,8 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/כ-50-תקיפות-ביממה-האחרונה-צהל-ממשיך-לתקוף-בדרום-לבנון-266103
-https://hamal.co.il/main/פרשת-ימנו-זלקה-נער-בן-15-הסגיר-את-עצמו-למשטרה-266106
-https://hamal.co.il/main/אחרי-העימות-עם-הקנצלר-טראמפ-מסיג-5000-חיילים-מגרמניה-266109
-https://hamal.co.il/main/פרסום-ראשון-חשוד-נוסף-בן-17-נעצר-בחשד-למעורבות-ברצח-זלקה-266110
+COUNTER:38
 https://news.walla.co.il/break/3834821
 https://news.walla.co.il/break/3834819
 https://news.walla.co.il/break/3834820
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חכ-נוסף-פורש-מכחול-לבן-גנץ-וטר�
 https://hamal.co.il/main/במהלך-לג-בעומר-מפוקח-מין-ניסה-להתקרב-לנער---ונעצר-266511
 https://hamal.co.il/main/בכחול-לבן-מודים-חכ-נוסף-מעוניין-לפרוש-גנץ-הציב-אולטימטום-266512
 https://hamal.co.il/main/צו-סגירה-הוצא-למסעדה-המוכרת-בתל-אביב---לאחר-העסקת-שבחים-266513
+https://news.walla.co.il/item/3835630
+https://news.walla.co.il/item/3835639
+https://hamal.co.il/main/נתניהו-נפגש-עם-266514
+https://hamal.co.il/main/מתפללים-שהיו-בדרכם-למירון-חסמו-את-צומת-מגידו-266516
