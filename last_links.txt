@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3834936
-https://news.walla.co.il/item/3834935
+COUNTER:35
 https://hamal.co.il/main/חשד-לרצח-בשפרעם-גבר-כבן-50-נורה-למוות-266195
 https://news.walla.co.il/break/3834937
 https://hamal.co.il/main/מפוקח-266196
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3835764
 https://hamal.co.il/main/חוזרים-למלחמה-הממשלה-מאשרת-את-הארכת-מצב-החירום-בשבועיים-266593
 https://hamal.co.il/main/בעקבות-המשבר-בהורמוז-ישראל-תעביר-לגרמניה-דלק-סילוני-266595
 https://news.walla.co.il/item/3835772
+https://news.walla.co.il/break/3835773
+https://hamal.co.il/main/המהלך-שיגדיל-את-המכירות-של-התעשייה-האווירית-266584
