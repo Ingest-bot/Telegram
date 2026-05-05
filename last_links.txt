@@ -1,8 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3834931
-https://news.walla.co.il/item/3834928
-https://news.walla.co.il/item/3834932
-https://news.walla.co.il/item/3834920
+COUNTER:32
 https://hamal.co.il/main/טראמפ-על-התקיפות-ישנה-אפשרות-כזו-זה-בהחלט-יכול-להתרחש-266190
 https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-בתאונת-דרכים-בראשון-לציון-מערכת-ווא-266191
 https://hamal.co.il/main/טראמפ-מגיב-על-ההצעה-האיראנית-לא-שילמו-מחיר-כבד-מספיק-עידן-266192
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835756
 https://news.walla.co.il/break/3835757
 https://news.walla.co.il/break/3835755
 https://hamal.co.il/main/2-תינוקות-נמצאו-מעורפלי-הכרה-בי-ם-266517
+https://news.walla.co.il/break/3835761
+https://news.walla.co.il/item/3835759
+https://hamal.co.il/main/חלום-הפיינל-פור-עדיין-בחיים-מהפך-ענק-להפועל-תל-אביב-266589
+https://hamal.co.il/main/עצוב-נמצאה-גופתה-של-הישראלית-הנעדרת-ביפן-266590
