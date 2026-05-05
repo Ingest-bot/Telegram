@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/סטארמר-שוקל-הגבלות-על-הפגנות-פרו-פלסטיניות-אחרי-הפיגוע-266134
+COUNTER:8
 https://news.walla.co.il/break/3834858
 https://news.walla.co.il/break/3834856
 https://news.walla.co.il/item/3834789
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-חיסלנו-266531
 https://hamal.co.il/main/דיווח-ישראל-וארהב-נערכות-לתקוף-באיראן---אלו-היעדים-266532
 https://news.walla.co.il/break/3835672
 https://hamal.co.il/main/סוף-למסתורין-מ-המסתערב-נחשף-בשמו-ובפניו-266539
+https://hamal.co.il/main/כץ-המשך-משפט-נתניהו---פגיעה-בביטחון-המדינה-266540
