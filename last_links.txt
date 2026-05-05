@@ -1,8 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3834894
-https://news.walla.co.il/item/3834893
-https://news.walla.co.il/item/3834896
-https://hamal.co.il/main/לראשונה-במאי-מאז-2011-גשם-וטמפרטורות-נמוכות-ברחבי-הארץ-266171
+COUNTER:23
 https://news.walla.co.il/break/3834898
 https://hamal.co.il/main/אלין-כהן-מגיבה-לראשונה-לביטול-החתונה-עוברת-ימים-מורכבים-266174
 https://hamal.co.il/main/בן-גביר-חוגג-50---והזמין-את-כל-צמרת-המשטרה-בנט-הזהיר-266182
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3835723
 https://hamal.co.il/main/דיווח-בצרפת-ערוץ-14-בישראל-מואשם-בהסתה-לרצח-עם-266569
 https://hamal.co.il/main/נתניהו-מגיב-לפרסומים-פייק-ניוז-מוחלט---הליכוד-הוא-הבית-266570
 https://hamal.co.il/main/מפקד-חיל-האוויר-היוצא-האלוף-תומר-בר-266574
+https://news.walla.co.il/break/3835737
+https://news.walla.co.il/break/3835740
+https://hamal.co.il/main/שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בטרם-חצתה-ארצה-266575
+https://hamal.co.il/main/דרמה-משפטית-העליון-זיכה-נאשם-באונס-בת-82-266573
