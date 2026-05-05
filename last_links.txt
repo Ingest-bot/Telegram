@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/טראמפ-״איראן-רוצה-להגיע-להסכם-אבל-אני-לא-מרוצה-ממנו״-266061
-https://news.walla.co.il/item/3834749
+COUNTER:7
 https://hamal.co.il/main/גבר-כבן-30-נרצח-ברהט-266062
 https://news.walla.co.il/break/3834753
 https://hamal.co.il/main/דוח-רשמי-חושף-כך-תורידו-עד-5-שנים-מהגיל-הביולוגי-שלכם-266065
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835520
 https://news.walla.co.il/break/3835519
 https://news.walla.co.il/item/3835522
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-פצצות-מרגמה-לעבר-כוחותינו---אין-נפגעים-266474
+https://news.walla.co.il/break/3835525
+https://hamal.co.il/main/מזג-האוויר-266475
