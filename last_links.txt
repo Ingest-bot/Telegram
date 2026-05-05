@@ -1,5 +1,4 @@
 COUNTER:23
-https://news.walla.co.il/break/3834898
 https://hamal.co.il/main/אלין-כהן-מגיבה-לראשונה-לביטול-החתונה-עוברת-ימים-מורכבים-266174
 https://hamal.co.il/main/בן-גביר-חוגג-50---והזמין-את-כל-צמרת-המשטרה-בנט-הזהיר-266182
 https://hamal.co.il/main/ביתר-הביסה-את-מכבי-תא-הפועל-באר-שבע-ניצחה-את-הפועל---והפע-266184
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835737
 https://news.walla.co.il/break/3835740
 https://hamal.co.il/main/שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בטרם-חצתה-ארצה-266575
 https://hamal.co.il/main/דרמה-משפטית-העליון-זיכה-נאשם-באונס-בת-82-266573
+https://news.walla.co.il/item/3835743
