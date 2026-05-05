@@ -1,8 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/המעצר-המתוקשר-בחאפלה-בפוריידיס-כל-23-החשודים-שוחררו-266089
-https://news.walla.co.il/break/3834786
-https://news.walla.co.il/break/3834788
-https://news.walla.co.il/break/3834790
+COUNTER:22
 https://news.walla.co.il/break/3834791
 https://hamal.co.il/main/בהיקף-של-כ־992-מיליון-דולר-266090
 https://hamal.co.il/main/וויטקוף-וקושנר-לא-לבד-חיזוק-לצוות-המו״מ-עם-איראן-266091
@@ -499,3 +495,7 @@ https://hamal.co.il/main/טירוף-חסר-אחריות-העימות-בין-בכ
 https://news.walla.co.il/break/3835570
 https://news.walla.co.il/item/3835577
 https://news.walla.co.il/item/3835572
+https://news.walla.co.il/break/3835579
+https://news.walla.co.il/break/3835582
+https://hamal.co.il/main/הבכיר-האיראני-מאיים-על-ארהב-266496
+https://hamal.co.il/main/מה-הסוד-של-בת-ה־117-המחקר-שמסביר-למה-היא-חיה-כל-כך-הרבה-266482
