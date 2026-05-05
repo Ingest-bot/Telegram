@@ -1,8 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/המצור-הימי-כבר-עובד-וטראמפ-מחזק-את-צוות-המומ-עם-איראן-266138
-https://news.walla.co.il/break/3834861
-https://news.walla.co.il/break/3834863
-https://news.walla.co.il/item/3834866
+COUNTER:11
 https://hamal.co.il/main/רצח-זלקה-זל-נעצר-חשוד-נוסף-בן-16-בחשד-למעורבות-באירוע-266143
 https://news.walla.co.il/item/3834868
 https://news.walla.co.il/break/3834869
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835675
 https://news.walla.co.il/item/3835676
 https://hamal.co.il/main/ישיר-הצהרת-שר-המלחמה-האמריקני-וראש-המטות-המשולבים-266541
 https://hamal.co.il/main/חיזבאללה-שיגר-טילי-נט-ורחפנים-לעבר-כוחותינו---אין-נפגעים-266542
+https://news.walla.co.il/break/3835686
+https://news.walla.co.il/item/3835215
+https://news.walla.co.il/item/3835503
+https://hamal.co.il/main/האזעקה-במשגב-עם-תושבים-דיווחו-על-שיגור-מיירטים-266546
