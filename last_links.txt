@@ -1,10 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/טראמפ-על-התקיפות-ישנה-אפשרות-כזו-זה-בהחלט-יכול-להתרחש-266190
-https://hamal.co.il/main/שני-הרוגים-ושלושה-פצועים-בתאונת-דרכים-בראשון-לציון-מערכת-ווא-266191
-https://hamal.co.il/main/טראמפ-מגיב-על-ההצעה-האיראנית-לא-שילמו-מחיר-כבד-מספיק-עידן-266192
-https://hamal.co.il/main/-טראמפ-ארהב-תצמצם-את-הכוחות-בגרמניה-ביותר-מ-5000-חיילים-266193
-https://news.walla.co.il/break/3834933
-https://news.walla.co.il/break/3834935
+COUNTER:34
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עם-ירידה-בטמפרטורות-משעות-הצהריים-י-266194
 https://news.walla.co.il/break/3834936
 https://news.walla.co.il/item/3834935
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3835761
 https://news.walla.co.il/item/3835759
 https://hamal.co.il/main/חלום-הפיינל-פור-עדיין-בחיים-מהפך-ענק-להפועל-תל-אביב-266589
 https://hamal.co.il/main/עצוב-נמצאה-גופתה-של-הישראלית-הנעדרת-ביפן-266590
+https://news.walla.co.il/break/3835766
+https://news.walla.co.il/break/3835767
+https://news.walla.co.il/item/3835765
+https://news.walla.co.il/item/3835764
+https://hamal.co.il/main/חוזרים-למלחמה-הממשלה-מאשרת-את-הארכת-מצב-החירום-בשבועיים-266593
+https://hamal.co.il/main/בעקבות-המשבר-בהורמוז-ישראל-תעביר-לגרמניה-דלק-סילוני-266595
