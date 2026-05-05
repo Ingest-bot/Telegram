@@ -1,7 +1,4 @@
 COUNTER:20
-https://hamal.co.il/main/בזמן-נסיעה-2-גברים-נרצחו-ביריות-באזור-רמלה-266087
-https://hamal.co.il/main/ההתרעות-לעבר-הצפון-צהל-יירט-בהצלחה-מספר-מטרות-אוויריות-266088
-https://news.walla.co.il/break/3834785
 https://hamal.co.il/main/המעצר-המתוקשר-בחאפלה-בפוריידיס-כל-23-החשודים-שוחררו-266089
 https://news.walla.co.il/break/3834786
 https://news.walla.co.il/break/3834788
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835569
 https://news.walla.co.il/break/3835565
 https://hamal.co.il/main/נער-נעצר-בחשד-לתקיפת-266492
 https://hamal.co.il/main/טירוף-חסר-אחריות-העימות-בין-בכירי-המשטר-האיראני--דיווח-266495
+https://news.walla.co.il/break/3835570
+https://news.walla.co.il/item/3835577
+https://news.walla.co.il/item/3835572
