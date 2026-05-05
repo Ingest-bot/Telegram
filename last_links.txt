@@ -1,5 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3834959
+COUNTER:0
 https://news.walla.co.il/item/3834957
 https://news.walla.co.il/item/3834955
 https://hamal.co.il/main/ישראלי-נדרס-למוות-סמוך-שכם-266201
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835783
 https://hamal.co.il/main/חיזבאללה-שיגר-מספר-רקטות-לעבר-הכוחות-בדרום-לבנון-אין-נפגעים-266600
 https://hamal.co.il/main/יותר-מ-550-יחידות-של-חומרים-שיועדו-לייצור-מטענים-הוחרמו-266601
 https://news.walla.co.il/break/3835790
+https://hamal.co.il/main/משרד-החוץ-האיראני-מכחיש-את-תקיפת-האמירויות-266602
