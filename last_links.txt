@@ -1,5 +1,4 @@
 COUNTER:16
-https://hamal.co.il/main/פצוע-קשה-בתאונת-דרכים-סמוך-למעלה-החמישה-266152
 https://hamal.co.il/main/חדשות-השבת-266154
 https://news.walla.co.il/break/3834880
 https://hamal.co.il/main/חדשות-השבת-266156
@@ -499,3 +498,4 @@ https://hamal.co.il/main/האזעקות-בגליל-שיגורים-שיורטו-�
 https://hamal.co.il/main/ראשוני--אירוע-ירי-לעבר-רכב-ללא-נפגעים-בחדרה-266554
 https://hamal.co.il/main/צהל-חיסל-חוליית-מחבלים-חמושים-בצפון-הרצועה-266556
 https://hamal.co.il/main/מיצג-הנובה-מגיע-ללונדון-תחת-היערכות-ביטחונית-חסרת-תקדים-266524
+https://news.walla.co.il/break/3835704
