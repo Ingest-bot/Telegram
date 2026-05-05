@@ -1,10 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/טראמפ-למען-האמת-אולי-עדיף-שלא-יהיה-הסכם-עם-איראן-בככל-266095
-https://hamal.co.il/main/תחזית-מזג-האוויר-עלייה-ניכרת-בטמפרטורות-266096
-https://news.walla.co.il/break/3834793
-https://news.walla.co.il/break/3834794
-https://hamal.co.il/main/אשדוד-בן-71-נפצע-בינוני-מנשיכת-כלב-266097
-https://news.walla.co.il/break/3834795
+COUNTER:29
 https://news.walla.co.il/item/3834792
 https://hamal.co.il/main/ניו-יורק-ילד-חרדי-נהרג-מפגיעת-אוטובוס-266098
 https://news.walla.co.il/break/3834796
@@ -499,3 +493,9 @@ https://hamal.co.il/main/במהלך-לג-בעומר-שריפה-פרצה-בבית
 https://hamal.co.il/main/דריסה-בתהלוכת-לג-בעומר-בבאר-שבע-266497
 https://news.walla.co.il/break/3835591
 https://hamal.co.il/main/תיעוד-דרמטי-מטוס-מתרסק-בבניין-מגורים-266499
+https://news.walla.co.il/break/3835605
+https://news.walla.co.il/item/3835601
+https://hamal.co.il/main/שריפה-266500
+https://hamal.co.il/main/למה-ישראלים-עם-אסתמה-צריכים-להיות-מודאגים-בימים-אלו-266490
+https://hamal.co.il/main/מנו-266501
+https://hamal.co.il/main/המפכל-במירון-אירועי-ההילולה-עוברים-ללא-אירועים-חריגים-266502
