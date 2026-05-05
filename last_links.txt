@@ -1,8 +1,4 @@
 COUNTER:29
-https://hamal.co.il/main/בני-בית-הפועל-באר-שבע-ניצחה-02-את-הפועל-תל-אביב-266187
-https://hamal.co.il/main/ארבעה-חשודים-נעצרו-בחשד-למעורבות-באירועי-אלימות-סמוך-לכפר-ג-266188
-https://news.walla.co.il/break/3834922
-https://news.walla.co.il/item/3834924
 https://hamal.co.il/main/שני-צעירים-נעצרו-בחשד-לירי-בכלי-איירסופט-לעבר-מחאה-בבאר-שבע-266189
 https://news.walla.co.il/break/3834927
 https://news.walla.co.il/break/3834926
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חשד-לאלימות-במעון-בבאר-שבע-מפח
 https://hamal.co.il/main/יער-של-אנטנות-אוסטריה-חשפה-רשת-ריגול-בשגרירות-הרוסית-266521
 https://hamal.co.il/main/בעקבות-טראמפ-ארהב-מקבלת-גישה-מוקדמת-למודלי-AI-סגורים-266578
 https://hamal.co.il/main/המשטרה-עצרה-אדם-בחשד-לתקיפת-איש-ציבור-266586
+https://news.walla.co.il/break/3835751
+https://news.walla.co.il/break/3835752
+https://news.walla.co.il/break/3835753
+https://news.walla.co.il/break/3835754
