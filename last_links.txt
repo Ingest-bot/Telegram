@@ -1,8 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/חדשות-השבת-266154
-https://news.walla.co.il/break/3834880
-https://hamal.co.il/main/חדשות-השבת-266156
-https://hamal.co.il/main/חיל-האוויר-השמיד-משגר-טעון-ומוכן-לשיגור-בדרום-לבנון-266160
+COUNTER:17
 https://news.walla.co.il/break/3834883
 https://news.walla.co.il/break/3834884
 https://news.walla.co.il/break/3834886
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ראשוני--אירוע-ירי-לעבר-רכב-ללא-
 https://hamal.co.il/main/צהל-חיסל-חוליית-מחבלים-חמושים-בצפון-הרצועה-266556
 https://hamal.co.il/main/מיצג-הנובה-מגיע-ללונדון-תחת-היערכות-ביטחונית-חסרת-תקדים-266524
 https://news.walla.co.il/break/3835704
+https://news.walla.co.il/break/3835713
+https://news.walla.co.il/break/3835714
+https://news.walla.co.il/item/3835715
+https://hamal.co.il/main/העליון-מנע-ממושיקו-מור-לצאת-ממעצר-הבית-להופעה-266560
