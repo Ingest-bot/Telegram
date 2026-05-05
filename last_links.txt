@@ -1,9 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3834828
-https://hamal.co.il/main/קשת-סביב-השמש-תופעה-מרהיבה-התגלתה-בשמיים-266119
-https://news.walla.co.il/break/3834834
-https://news.walla.co.il/break/3834835
-https://hamal.co.il/main/פורטר-גוניור-על-היחס-לאבדיה-רק-כי-הוא-יהודי-זה-מוזר-266128
+COUNTER:4
 https://news.walla.co.il/break/3834837
 https://news.walla.co.il/break/3834838
 https://news.walla.co.il/break/3834843
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3835647
 https://news.walla.co.il/break/3835648
 https://hamal.co.il/main/הפריימריז-בליכוד-השיריונים-שנתניהו-יקבל---והמיקומים-266503
 https://hamal.co.il/main/סכום-משמעותי-תושב-י-ם-נפל-לבור-בכביש---זה-הפיצוי-שיקבל-266506
+https://news.walla.co.il/break/3835659
+https://hamal.co.il/main/הוארך-מעצרו-של-החשוד-באונס-שי-לי-עטרי-ב-3-ימים-266528
+https://hamal.co.il/main/מחקר-מזהיר-אפילו-תוספת-קטנה-ביום-מהמאכלים-האלה-עלולה-לגרום-266507
+https://hamal.co.il/main/נפתלי-בנט-מגיב-לסמוטריץ-מצטרף-לשונאי-ישראל-ומכחישי-הטבח-266527
+https://hamal.co.il/main/איזנקוט-הודיע-ראש-השבכ-לשעבר-מצטרף-למפלגתו-266529
