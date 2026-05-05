@@ -1,8 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/שוב-התרעות-בצפון-ירי-טילים-בקריית-שמונה-והסביבה-266083
-https://hamal.co.il/main/טראמפ-על-האיראנים-לא-מספקים-את-מה-שצריך-בשביל-הסכם-266084
-https://news.walla.co.il/item/3834782
-https://news.walla.co.il/break/3834783
+COUNTER:20
 https://hamal.co.il/main/בזמן-נסיעה-2-גברים-נרצחו-ביריות-באזור-רמלה-266087
 https://hamal.co.il/main/ההתרעות-לעבר-הצפון-צהל-יירט-בהצלחה-מספר-מטרות-אוויריות-266088
 https://news.walla.co.il/break/3834785
@@ -499,3 +495,7 @@ https://hamal.co.il/main/סמוטריץ-מגיב-לסערה-266488
 https://hamal.co.il/main/נער-נפצע-באורח-בינוני-בחדרה-8-חשודים-נעצרו-266489
 https://hamal.co.il/main/המשטרה-מאות-אנשים-שהגיעו-למירון---הורחקו-מהאזור-266491
 https://hamal.co.il/main/עשתה-שיימינג-ללקוח-הטעות-של-השליחה-שתעלה-לה-ביוקר-266481
+https://news.walla.co.il/break/3835569
+https://news.walla.co.il/break/3835565
+https://hamal.co.il/main/נער-נעצר-בחשד-לתקיפת-266492
+https://hamal.co.il/main/טירוף-חסר-אחריות-העימות-בין-בכירי-המשטר-האיראני--דיווח-266495
