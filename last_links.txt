@@ -1,9 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/ארה״ב-מטילה-סנקציות-חדשות-266066
-https://news.walla.co.il/item/3834778
-https://hamal.co.il/main/אוסטרליה-סוערת-ילדה-אבוריגינית-נחטפה-ונרצחה-תושבים-התעמתו-266074
-https://news.walla.co.il/break/3834779
-https://news.walla.co.il/break/3834780
+COUNTER:16
 https://news.walla.co.il/break/3834781
 https://hamal.co.il/main/התרעות-על-חדירת-כטבם-באצבע-הגליל-ובגולן-266079
 https://hamal.co.il/main/שוב-התרעות-בצפון-ירי-טילים-בקריית-שמונה-והסביבה-266083
@@ -499,3 +494,8 @@ https://hamal.co.il/main/גבר-נפצע-באירוע-אלימות-בבאר-שב
 https://news.walla.co.il/break/3835546
 https://hamal.co.il/main/היערכות-להשתלטות-על-שארית-המשט-לעזה-2-פעילים-שובתים-רעב-266485
 https://hamal.co.il/main/מתווה-חדירה-התרחישים-שתרגלו-בחטיבת-מנשה-266486
+https://news.walla.co.il/break/3835551
+https://news.walla.co.il/break/3835554
+https://hamal.co.il/main/מחבלי-חיזבאללה-ניסו-להימלט-על-אופנוע---וחוסלו-266487
+https://hamal.co.il/main/סמוטריץ-מגיב-לסערה-266488
+https://hamal.co.il/main/נער-נפצע-באורח-בינוני-בחדרה-8-חשודים-נעצרו-266489
