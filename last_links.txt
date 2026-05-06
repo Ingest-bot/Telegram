@@ -1,11 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3835109
-https://hamal.co.il/main/זול-וקטלני-המאבק-של-משרד-הביטחון-ברחפני-הסיב-האופטי-בלבנון-266239
-https://news.walla.co.il/item/3835113
-https://hamal.co.il/main/חטיבה-410-איתרה-למעלה-מ-100-אמצעי-לחימה-של-חיזבאללה-266269
-https://hamal.co.il/main/תאונה-קשה-סמוך-לזרזיר-2-נשים-במצב-אנוש-266272
-https://hamal.co.il/main/מדא-3-נשים-נהרגו-בתאונה-סמוך-לזרזיר-266276
-https://news.walla.co.il/break/3835119
+COUNTER:37
 https://hamal.co.il/main/זירת-התאונה-סמוך-לזרזיר-רגעי-החילוץ-של-לוחמי-האש-266277
 https://hamal.co.il/main/התאונה-סמוך-לזרזיר-בנוסף-ל-3-הנשים-ההרוגות-פצועה-בינוני-266280
 https://news.walla.co.il/item/3835125
@@ -499,3 +492,10 @@ https://hamal.co.il/main/דיווח-266648
 https://news.walla.co.il/break/3835918
 https://news.walla.co.il/break/3835913
 https://news.walla.co.il/break/3835914
+https://news.walla.co.il/break/3835928
+https://news.walla.co.il/item/3835924
+https://news.walla.co.il/item/3835879
+https://hamal.co.il/main/חוליית-מחבלי-חמאס-חוסלה-בצפון-הרצועה--תיעוד-266649
+https://hamal.co.il/main/בפקיסטן-מאשרים-266650
+https://hamal.co.il/main/נושאים-את-לפיד-הזיכרון-מפקדי-הפלוגות-העתידייםבמשלחת-לפולין-266651
+https://hamal.co.il/main/צהל-2-לוחמים-נפצעו-באורח-בינוני-וקל-בדרום-לבנון-266652
