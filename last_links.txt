@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/מזג-אוויר-קר-מהרגיל-במידה-ניכרת-ינשבו-רוחות-חזקות-ובדרום-צפ-266352
-https://news.walla.co.il/break/3835233
-https://news.walla.co.il/break/3835236
-https://news.walla.co.il/break/3835237
+COUNTER:9
 https://hamal.co.il/main/לא-תרופות-ולא-דיאטה-מחקר-ישראלי-מצא-איך-באמת-יורדים-במשקל-266353
 https://news.walla.co.il/break/3835243
 https://news.walla.co.il/item/3835241
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3836073
 https://news.walla.co.il/item/3836075
 https://hamal.co.il/main/התרעה-על-אירוע-ביטחוני-הופעלה-במיצד-כוחותינו-סורקים-266758
 https://hamal.co.il/main/אבק-כוכבים-צנינג-טייטום-מצטרף-לסרט-על-פי-הסיפור-הישראלי-266693
+https://news.walla.co.il/break/3836081
+https://news.walla.co.il/break/3836084
+https://hamal.co.il/main/דובר-צהל-על-האירוע-במיצד-אין-חשש-לאירוע-ביטחוני-266759
+https://hamal.co.il/main/סחט-מחיאות-כפיים-נועם-בתן-ערך-את-החזרה-השנייה-לאירוויזיון-266739
