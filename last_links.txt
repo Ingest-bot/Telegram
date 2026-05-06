@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/ניסו-להקריב-קרבן-פסח-בהר-הבית-21-חשודים-עוכבו-לחקירה-266220
-https://news.walla.co.il/break/3835015
-https://news.walla.co.il/break/3835019
-https://news.walla.co.il/item/3835020
+COUNTER:9
 https://hamal.co.il/main/מחבלי-חיז-266222
 https://hamal.co.il/main/דרמה-בשוק-המזון-266206
 https://news.walla.co.il/break/3835026
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835825
 https://news.walla.co.il/break/3835823
 https://news.walla.co.il/item/3835818
 https://hamal.co.il/main/ברקע-ההתפתחויות-בתיק-חקירתו-של-אייל-גולן-נדחתה-266613
+https://news.walla.co.il/item/3835814
+https://news.walla.co.il/item/3835828
+https://news.walla.co.il/item/3835805
+https://hamal.co.il/main/התקדמות-משמעותית-או-מצמוץ-של-טראמפ-266609
