@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3835213
-https://news.walla.co.il/item/3835227
+COUNTER:5
 https://news.walla.co.il/item/3835228
 https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-266347
 https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266348
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שנת-האסון-האזהרה-המצמררת-של-מח
 https://hamal.co.il/main/גורם-מקורב-לחיזבאללה-מפקד-כוח-רדואן-חוסל-בתקיפה-266754
 https://hamal.co.il/main/הנשיא-טראמפ-לרשת-פוקס-ניוז-לאיראן-יש-שבוע-266755
 https://hamal.co.il/main/ביתר-ירושלים-ניצחה-01-את-הפועל-תל-אביב-266757
+https://news.walla.co.il/break/3836071
+https://hamal.co.il/main/נאסא-קלטה-מהחלל-תופעה-מדאיגה-עיר-הבירה-העצומה-שוקעת-ונעלמת-266689
