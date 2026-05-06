@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3835224
-https://news.walla.co.il/break/3835225
-https://news.walla.co.il/break/3835226
+COUNTER:4
 https://news.walla.co.il/item/3835213
 https://news.walla.co.il/item/3835227
 https://news.walla.co.il/item/3835228
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836063
 https://hamal.co.il/main/דיווח-אחד-מבניו-של-266751
 https://hamal.co.il/main/שלב-אחר-שלב-כך-פועלים-לסיכול-איום-הרחפנים-בדרום-לבנון-266734
 https://hamal.co.il/main/שנת-האסון-האזהרה-המצמררת-של-מחבר-אבא-עשיר-אבא-עני-266686
+https://hamal.co.il/main/גורם-מקורב-לחיזבאללה-מפקד-כוח-רדואן-חוסל-בתקיפה-266754
+https://hamal.co.il/main/הנשיא-טראמפ-לרשת-פוקס-ניוז-לאיראן-יש-שבוע-266755
+https://hamal.co.il/main/ביתר-ירושלים-ניצחה-01-את-הפועל-תל-אביב-266757
