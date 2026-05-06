@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3834999
-https://hamal.co.il/main/צהל-על-הירי-לצפון-שיגור-אחד-יורט-בהצלחה-266218
+COUNTER:7
 https://hamal.co.il/main/בלב-תא-3-צעירים-נעצרו-בחשד-שהחזיקו-כלי-תקיפה-266217
 https://hamal.co.il/main/מומחים-מזהירים-3-תוספי-התזונה-הפופולריים-שאינם-יעילים-265743
 https://news.walla.co.il/item/3835010
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835803
 https://news.walla.co.il/item/3835793
 https://news.walla.co.il/break/3835811
 https://hamal.co.il/main/תיעוד-סבתא-וחמישה-נכדים-נלכדו-על-מצוק-בדרכם-למירון---וחולצו-266608
+https://news.walla.co.il/break/3835812
+https://hamal.co.il/main/מזג-האוויר-הקור-ממשיך---מתי-יגיע-המהפך--התחזית-המלאה-266610
