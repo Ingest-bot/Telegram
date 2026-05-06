@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3835210
-https://hamal.co.il/main/היועמשית-עונה-בחיוב-להרצוג-נכונים-למומ-על-הסדר-טיעון-עם-266343
-https://news.walla.co.il/break/3835216
+COUNTER:38
 https://news.walla.co.il/break/3835220
 https://hamal.co.il/main/היועמשית-לנשיא-מוכנים-לשיח-על-הסדר-טיעון-בתיקי-האלפים-אורי-266344
 https://news.walla.co.il/break/3835222
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836053
 https://hamal.co.il/main/צבא-ארה-266743
 https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-תוקף-בדאחייה-בביירות-266745
 https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-מפקד-כוח-רדואן-בביירות-266746
+https://news.walla.co.il/break/3836059
+https://hamal.co.il/main/ניסיון-הסיכול-של-מפקד-כוח-רדואן-ייתכן-שגם-סגנו-שהה-במתחם-266749
+https://hamal.co.il/main/מקור-ישראלי-על-התקיפה-בביירות-״הכל-מתואם-עם-האמריקאים״-266750
