@@ -1,6 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3835136
-https://news.walla.co.il/item/3835137
+COUNTER:7
 https://hamal.co.il/main/חידת-טרופר-הפרישה-מכחול-לבן-והתוכניות-ליום-שאחרי-266275
 https://news.walla.co.il/break/3835140
 https://news.walla.co.il/break/3835143
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835955
 https://news.walla.co.il/item/3835954
 https://hamal.co.il/main/נתפסו-בשעת-מעשה-2-נערים-נעצרו-בחשד-לסחר-בסמים--תיעוד-266660
 https://hamal.co.il/main/החל-ממחר-זמן-ההתגוננות-יוארך-266661
+https://news.walla.co.il/break/3835966
+https://hamal.co.il/main/טראמפ-מאשר-ארהב-ואיראן-קרובות-להסכם-266663
