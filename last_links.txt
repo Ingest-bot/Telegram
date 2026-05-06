@@ -1,9 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/מחבלי-חיז-266222
-https://hamal.co.il/main/דרמה-בשוק-המזון-266206
-https://news.walla.co.il/break/3835026
-https://hamal.co.il/main/הטרגדיה-בבנימין-נתנאל-נהרג-בתאונה-קטלנית-הנהג-נמלט-מהמקום-266223
-https://hamal.co.il/main/עוז-עזיבה-בכחול-לבן-חכ-חילי-טרופר-פורש-מהמפלגה-266224
+COUNTER:13
 https://news.walla.co.il/break/3835037
 https://news.walla.co.il/item/3835034
 https://hamal.co.il/main/בזמן-הלחימה-בלבנון-החל-מחזור-הגיוס-266226
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3835814
 https://news.walla.co.il/item/3835828
 https://news.walla.co.il/item/3835805
 https://hamal.co.il/main/התקדמות-משמעותית-או-מצמוץ-של-טראמפ-266609
+https://news.walla.co.il/item/3835833
+https://hamal.co.il/main/צהל-תקף-מבנים-של-חיזבאללה-בדרום-לבנון-מספר-מחבלים-חוסלו-266616
+https://hamal.co.il/main/תיעד-את-עצמו-נוסע-במהירות-266617
+https://hamal.co.il/main/תינוק-נכווה-ממים-רותחים-ביהוד-מצבו-בינוני-266618
+https://hamal.co.il/main/הדולר-בשפל-של-30-שנה-266619
