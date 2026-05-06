@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3835129
-https://news.walla.co.il/break/3835130
-https://news.walla.co.il/break/3835131
+COUNTER:4
 https://hamal.co.il/main/נציב-שב״ס-עד-תביעה-מרכזי-נגדי-ניהל-קשר-אינטימי-עם-חוקרת-במח-266284
 https://hamal.co.il/main/חטיבה-205-השלימה-את-משימתה-בצפון-רצועת-עזה-266287
 https://hamal.co.il/main/רחפן-נפץ-של-חיזבאללה-שנפל-היום-סמוך-לצהל---ולא-התפוצץ-266288
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835943
 https://news.walla.co.il/break/3835946
 https://hamal.co.il/main/באיראן-משיבים-לארהב-בוחנים-את-הצעת-השלום-266656
 https://hamal.co.il/main/הווטרינר-מזהיר-5-הצעצועים-הנפוצים-שעלולים-להרוג-את-הכלב-שלכ-266614
+https://news.walla.co.il/break/3835952
+https://hamal.co.il/main/התעללו-בפעוטות-בעלת-גן-266658
+https://hamal.co.il/main/שר-החוץ-הפקיסטני-שואפים-שהפסקת-האש-תסיים-את-המלחמה-266659
