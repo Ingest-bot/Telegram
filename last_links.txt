@@ -1,8 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/item/3835175
-https://hamal.co.il/main/למרות-האיסורים-העולים-למירון-פועלים-נגד-ההנחיות-266321
-https://news.walla.co.il/break/3835183
-https://news.walla.co.il/item/3835181
+COUNTER:25
 https://hamal.co.il/main/המדען-המפורסם-חושף-זה-מה-שקורה-לנו-אחרי-המוות-266221
 https://hamal.co.il/main/מצאתם-ביצה-סדוקה-האם-מותר-לאכול-או-שזה-מסוכן-266207
 https://news.walla.co.il/break/3835184
@@ -499,3 +495,7 @@ https://hamal.co.il/main/גורם-מדיני-הובהר-לנו-שטראמפ-עו
 https://hamal.co.il/main/משרד-הבריאות-תן-נגוע-בכלבת-באזור-חקלאי-סמוך-לישוב-ריחאניה-266704
 https://hamal.co.il/main/עם-פנים-חבושות-מה-קרה-לנטלי-דדון-266675
 https://hamal.co.il/main/טראמפ--איראן-תעביר-את-האורניום-המועשר-לארה״ב-266709
+https://news.walla.co.il/break/3836024
+https://hamal.co.il/main/הרצוג-נחת-בפנמה-והחל-את-ביקורו-הרשמי-וההיסטורי-במרכז-אמריקה-266713
+https://hamal.co.il/main/בצל-המגעים-מול-איראן-הקבינט-המדיני-ביטחוני-מתכנס-266714
+https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-מרחפן-נפץ-בדרום-לבנון-266715
