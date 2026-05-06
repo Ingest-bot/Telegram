@@ -1,9 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/item/3835228
-https://hamal.co.il/main/אזעקות-נשמעו-בגליל-המערבי-266347
-https://hamal.co.il/main/משאית-דרסה-קהל-בקולומביה-שני-הרוגים-ועשרות-פצועים-מערכת-ווא-266348
-https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-אדמית-וערב-אל-עראמשה-הפרטים-בבד-266350
-https://news.walla.co.il/break/3835229
+COUNTER:6
 https://hamal.co.il/main/אקוניס-בניו-יורק-לא-צריכים-הכרה-גאים-במדינה-ובהישגים-עיד-266351
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגיל-במידה-ניכרת-ינשבו-רוחות-חזקות-ובדרום-צפ-266352
 https://news.walla.co.il/break/3835233
@@ -499,3 +494,8 @@ https://hamal.co.il/main/הנשיא-טראמפ-לרשת-פוקס-ניוז-לאי
 https://hamal.co.il/main/ביתר-ירושלים-ניצחה-01-את-הפועל-תל-אביב-266757
 https://news.walla.co.il/break/3836071
 https://hamal.co.il/main/נאסא-קלטה-מהחלל-תופעה-מדאיגה-עיר-הבירה-העצומה-שוקעת-ונעלמת-266689
+https://news.walla.co.il/break/3836076
+https://news.walla.co.il/break/3836077
+https://news.walla.co.il/item/3836073
+https://news.walla.co.il/item/3836075
+https://hamal.co.il/main/התרעה-על-אירוע-ביטחוני-הופעלה-במיצד-כוחותינו-סורקים-266758
