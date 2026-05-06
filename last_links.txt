@@ -1,5 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/גבר-כבן-50-נהרג-בתאונת-דרכים-בערבה-266210
+COUNTER:5
 https://hamal.co.il/main/החוקר-הבכיר-מזהיר-266211
 https://hamal.co.il/main/צהל-על-האזעקות-בקו-בעימות-הפרטים-בבדיקה-266214
 https://hamal.co.il/main/הירי-לצפון-5-רקטות-יורטו-אחת-נפלה-בשטח-פתוח-266216
@@ -499,3 +498,4 @@ https://hamal.co.il/main/2-פצועים-אנוש-ופצוע-קשה-בקלנסו�
 https://hamal.co.il/main/איראן-שמונה-הרוגים-בשריפה-במרכז-קניות-ממערב-לטהראן-266606
 https://news.walla.co.il/item/3835801
 https://news.walla.co.il/item/3835796
+https://hamal.co.il/main/שר-החוץ-הסיני-וואנג-יי-שוחח-עם-שר-החוץ-האיראני-עראקצי-266607
