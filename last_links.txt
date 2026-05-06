@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/אלון-אבוטבול-המנוח-זכה-בשני-פרסים-בטקס-פרסי-הטלוויזיה-266335
-https://hamal.co.il/main/עדן-פינס-מגלה-האם-היא-שלחה-הודעה-לאלין-כהן-אחרי-ביטול-החתונ-266336
-https://news.walla.co.il/break/3835195
-https://news.walla.co.il/break/3835199
-https://news.walla.co.il/item/3835200
+COUNTER:33
 https://news.walla.co.il/break/3835203
 https://news.walla.co.il/item/3835202
 https://hamal.co.il/main/אזעקות-נשמעו-ביראון-266339
@@ -499,3 +494,8 @@ https://hamal.co.il/main/משרד-הבריאות-ריקול-על-עלי-גפן-�
 https://hamal.co.il/main/גוטליב-במתקפה-נגד-הדר-מוכתר-שיקרה-בעבר-לא-מתאימה-266700
 https://news.walla.co.il/break/3836045
 https://news.walla.co.il/break/3836046
+https://news.walla.co.il/break/3836047
+https://news.walla.co.il/break/3836048
+https://hamal.co.il/main/גבר-כבן-40-נפצע-קשה-מנפילה-מגובה-במהלך-עבודתו-בנתניה-266731
+https://hamal.co.il/main/הישרדות-מאחורי-אינטרס-התיווך-הפקיסטני-עומד-פחד-גדול-266695
+https://hamal.co.il/main/רהמ-אדבר-עם-טראמפ-הלילה-היעד---הוצאת-החומר-המועשר-מאיראן-266736
