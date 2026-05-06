@@ -1,8 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3835127
-https://hamal.co.il/main/דיווח-באיראן-הודיעו-על-מצב-כוננות-על-רקע-חששות-בטחוניים-266281
-https://hamal.co.il/main/מעלית-שירות-266282
-https://hamal.co.il/main/התאונה-בזרזיר-פונו-לבתי-החולים-7-פצועים---אחת-במצב-קשה-266283
+COUNTER:2
 https://news.walla.co.il/break/3835129
 https://news.walla.co.il/break/3835130
 https://news.walla.co.il/break/3835131
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-2-לוחמים-נפצעו-באורח-בינונ�
 https://hamal.co.il/main/חשודים-בתכנון-פיגוע-2-שבחים-נעצרו-בשרון--צפו-266653
 https://hamal.co.il/main/צהל-תוקפים-מטרות-חיזבאללה-בדרום-לבנון-266654
 https://hamal.co.il/main/לראשונה-בתולדות-המדינה-266655
+https://news.walla.co.il/break/3835943
+https://news.walla.co.il/break/3835946
+https://hamal.co.il/main/באיראן-משיבים-לארהב-בוחנים-את-הצעת-השלום-266656
+https://hamal.co.il/main/הווטרינר-מזהיר-5-הצעצועים-הנפוצים-שעלולים-להרוג-את-הכלב-שלכ-266614
