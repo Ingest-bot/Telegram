@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/הייצור-שחי-במקום-העמוק-ביותר-בעולם-266354
-https://hamal.co.il/main/דיווח-266357
+COUNTER:15
 https://hamal.co.il/main/אישום-תקפה-שוטרים-ואנשי-צוות-בבית-מלון-באילת-266359
 https://news.walla.co.il/item/3835261
 https://news.walla.co.il/item/3835263
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חשש-מהתפרצות-בעיר-הבהדים-כמאה-
 https://hamal.co.il/main/קטיה-אברבוך-מחתונה-ממבט-ראשון-חשפה-את-התקיפה-המינית-שעברה-266774
 https://news.walla.co.il/break/3836093
 https://hamal.co.il/main/נועם-בתן-עשה-זאת-שוב-קבלו-הצצה-למישל-על-הבמה-מתוך-החזרות-266783
+https://news.walla.co.il/break/3836098
+https://hamal.co.il/main/הירי-לצפון-אזעקות-בגליל-העליון-התרעות-חדירת-כטבם-בקש-266788
