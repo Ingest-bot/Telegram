@@ -1,13 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/שותים-קפה-איך-שקמים-זו-השעה-המומלצת-לשמירה-על-אנרגיה-266208
-https://news.walla.co.il/item/3835046
-https://hamal.co.il/main/הסיבה-לעיתוי-הפרישה---והיעד-הבא-יש-מחזרים-כל-הזמן-266228
-https://hamal.co.il/main/הממשלה-266229
-https://news.walla.co.il/break/3835052
-https://news.walla.co.il/break/3835050
-https://hamal.co.il/main/הוארך-מעצרו-של-בכיר-המשט-לעזה-חשוד-בהשתייכת-לארגון-טרור-266233
-https://hamal.co.il/main/האולטימטום-של-איראן-לטראמפ-קבל-את-התנאים-שמסרנו-266234
-https://news.walla.co.il/break/3835056
+COUNTER:18
 https://news.walla.co.il/break/3835059
 https://news.walla.co.il/item/3835058
 https://news.walla.co.il/item/3835045
@@ -499,3 +490,12 @@ https://news.walla.co.il/break/3835840
 https://news.walla.co.il/break/3835839
 https://hamal.co.il/main/אחותו-של-ימנו-זלקה-זל-266620
 https://hamal.co.il/main/בשל-הפרות-חיזבאללה-צהל-בהודעת-פינוי-ל-11-כפרים-בדרום-לבנון-266621
+https://news.walla.co.il/break/3835846
+https://news.walla.co.il/break/3835847
+https://news.walla.co.il/break/3835849
+https://news.walla.co.il/break/3835850
+https://news.walla.co.il/break/3835851
+https://news.walla.co.il/item/3835848
+https://hamal.co.il/main/כתב-אישום-הוגש-בבלגיה-נגד-3-מוהלים-אות-קלון-למדינה-266624
+https://hamal.co.il/main/בת-80-נפצעה-בתאונת-דרכים-בצפון-מצבה-קשה-266625
+https://hamal.co.il/main/לוקחים-כמה-תרופות-יחד-מדי-יום-אתם-חייבים-לקרוא-את-זה-266611
