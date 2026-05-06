@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3835094
-https://news.walla.co.il/item/3835088
+COUNTER:32
 https://hamal.co.il/main/מהגבוהים-בעולם-266225
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-רחפנים-לעבר-כוחותינו-בלבנון-אין-נפגעים-266265
 https://hamal.co.il/main/חשש-להתפשטות-מהירה-של-שריפות-אלו-ההנחיות-לקראת-לג-בעומר-266266
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ליברמן--266644
 https://news.walla.co.il/break/3835896
 https://hamal.co.il/main/לפני-המונדיאל-התקרה-קרסה-ושדה-התעופה-הוצף-בצואה--צפו-266629
 https://hamal.co.il/main/אקדח-266646
+https://news.walla.co.il/break/3835899
+https://hamal.co.il/main/צהל-רחפן-נפץ-של-חיזבאללה-נפל-בשטח-ישראל-אין-נפגעים-266647
