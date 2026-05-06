@@ -1,6 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3834979
-https://news.walla.co.il/item/3834986
 https://hamal.co.il/main/גבר-כבן-50-נהרג-בתאונת-דרכים-בערבה-266210
 https://hamal.co.il/main/החוקר-הבכיר-מזהיר-266211
 https://hamal.co.il/main/צהל-על-האזעקות-בקו-בעימות-הפרטים-בבדיקה-266214
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-ספינת-מטען-הותקפה-במצר-ה
 https://hamal.co.il/main/טראמפ-פרוייקט-266604
 https://hamal.co.il/main/2-פצועים-אנוש-ופצוע-קשה-בקלנסווה-266605
 https://hamal.co.il/main/איראן-שמונה-הרוגים-בשריפה-במרכז-קניות-ממערב-לטהראן-266606
+https://news.walla.co.il/item/3835801
+https://news.walla.co.il/item/3835796
