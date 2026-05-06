@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/במסגרת-הסדר-טיעוןפעיל-המחאה-שתקף-שוטרת-לא-יורשע-במעשה-מגונה-266254
-https://hamal.co.il/main/משרד-הבריאות-נ-קנאביס-רפואי-בטיפול-בפוסט-טראומה-סיכון-משמע-266255
-https://hamal.co.il/main/צפו-בתיעוד-מנהרה-באורך-של-כ-80-מטרים-הושמדה-בדרום-לבנון-266249
+COUNTER:28
 https://news.walla.co.il/break/3835083
 https://hamal.co.il/main/שדד-קשיש-באלימות-אישום-הוגש-נגד-266262
 https://hamal.co.il/main/נועם-בתן-סיים-את-החזרה-הראשונה-עושה-את-זה-כמו-מלך-266260
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835867
 https://news.walla.co.il/break/3835873
 https://hamal.co.il/main/רוכבת-266641
 https://hamal.co.il/main/ברקע-השמועות-האם-הרבנות-תתיר-266612
+https://news.walla.co.il/item/3835881
+https://hamal.co.il/main/קורס-המכים-של-הסיירות-266643
+https://hamal.co.il/main/אוניית-הקרוז-הנגועה-בווירוס-תפליג-לספרד-אנחנו-יודעים-שאתם-266615
