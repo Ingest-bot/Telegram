@@ -1,7 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3835083
-https://hamal.co.il/main/שדד-קשיש-באלימות-אישום-הוגש-נגד-266262
-https://hamal.co.il/main/נועם-בתן-סיים-את-החזרה-הראשונה-עושה-את-זה-כמו-מלך-266260
+COUNTER:29
 https://hamal.co.il/main/בגץ-הוציא-צו-ארעי-266263
 https://hamal.co.il/main/בפעם-השנייה-בתולדותיה-266264
 https://news.walla.co.il/break/3835092
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ברקע-השמועות-האם-הרבנות-תתיר-26
 https://news.walla.co.il/item/3835881
 https://hamal.co.il/main/קורס-המכים-של-הסיירות-266643
 https://hamal.co.il/main/אוניית-הקרוז-הנגועה-בווירוס-תפליג-לספרד-אנחנו-יודעים-שאתם-266615
+https://news.walla.co.il/item/3835889
+https://news.walla.co.il/item/3835884
+https://hamal.co.il/main/ליברמן--266644
