@@ -1,7 +1,4 @@
 COUNTER:33
-https://hamal.co.il/main/התכנית-של-כץ-266267
-https://hamal.co.il/main/צהל-חיסל-מחבל-במרחב-הקו-הצהוב-ברצועת-עזה-266268
-https://news.walla.co.il/break/3835108
 https://news.walla.co.il/item/3835109
 https://hamal.co.il/main/זול-וקטלני-המאבק-של-משרד-הביטחון-ברחפני-הסיב-האופטי-בלבנון-266239
 https://news.walla.co.il/item/3835113
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3835903
 https://news.walla.co.il/item/3835905
 https://news.walla.co.il/item/3835906
 https://hamal.co.il/main/דיווח-266648
+https://news.walla.co.il/break/3835918
+https://news.walla.co.il/break/3835913
+https://news.walla.co.il/break/3835914
