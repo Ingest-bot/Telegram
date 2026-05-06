@@ -1,8 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3835220
-https://hamal.co.il/main/היועמשית-לנשיא-מוכנים-לשיח-על-הסדר-טיעון-בתיקי-האלפים-אורי-266344
-https://news.walla.co.il/break/3835222
-https://news.walla.co.il/break/3835223
+COUNTER:1
 https://news.walla.co.il/break/3835224
 https://news.walla.co.il/break/3835225
 https://news.walla.co.il/break/3835226
@@ -499,3 +495,7 @@ https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-מפקד-כוח-
 https://news.walla.co.il/break/3836059
 https://hamal.co.il/main/ניסיון-הסיכול-של-מפקד-כוח-רדואן-ייתכן-שגם-סגנו-שהה-במתחם-266749
 https://hamal.co.il/main/מקור-ישראלי-על-התקיפה-בביירות-״הכל-מתואם-עם-האמריקאים״-266750
+https://news.walla.co.il/break/3836063
+https://hamal.co.il/main/דיווח-אחד-מבניו-של-266751
+https://hamal.co.il/main/שלב-אחר-שלב-כך-פועלים-לסיכול-איום-הרחפנים-בדרום-לבנון-266734
+https://hamal.co.il/main/שנת-האסון-האזהרה-המצמררת-של-מחבר-אבא-עשיר-אבא-עני-266686
