@@ -1,5 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/item/3835144
 https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-מנרה-הפרטים-בבדיקה-266298
 https://hamal.co.il/main/דיווח-איראן-מבקשת-שסין-ורוסיה-יהיו-מעורבות-בכל-הסכם-266301
 https://hamal.co.il/main/בשעה-טובה-בגיל-23-קים-אור-אזולאי-מצפה-לילד-ראשון-266303
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3835978
 https://news.walla.co.il/item/3835977
 https://news.walla.co.il/item/3835970
 https://hamal.co.il/main/מחקר-ענק-המאכל-הפשוט-שכולנו-אוהבים---ועוזר-למנוע-אלצהיימר-266645
+https://news.walla.co.il/break/3835985
