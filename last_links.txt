@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3835176
-https://news.walla.co.il/break/3835178
+COUNTER:22
 https://news.walla.co.il/item/3835175
 https://hamal.co.il/main/למרות-האיסורים-העולים-למירון-פועלים-נגד-ההנחיות-266321
 https://news.walla.co.il/break/3835183
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ראש-ממשלת-קטאר-סיכוי-גבוה-להסד
 https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-במהלך-עבודתו-בבני-ברק-266697
 https://hamal.co.il/main/גורם-מדיני-הובהר-לנו-שטראמפ-עומד-על-הקווים-האדומים-שלו-266698
 https://hamal.co.il/main/משרד-הבריאות-תן-נגוע-בכלבת-באזור-חקלאי-סמוך-לישוב-ריחאניה-266704
+https://hamal.co.il/main/עם-פנים-חבושות-מה-קרה-לנטלי-דדון-266675
+https://hamal.co.il/main/טראמפ--איראן-תעביר-את-האורניום-המועשר-לארה״ב-266709
