@@ -1,7 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/בגץ-הוציא-צו-ארעי-266263
-https://hamal.co.il/main/בפעם-השנייה-בתולדותיה-266264
-https://news.walla.co.il/break/3835092
+COUNTER:31
 https://news.walla.co.il/break/3835094
 https://news.walla.co.il/item/3835088
 https://hamal.co.il/main/מהגבוהים-בעולם-266225
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אוניית-הקרוז-הנגועה-בווירוס-ת�
 https://news.walla.co.il/item/3835889
 https://news.walla.co.il/item/3835884
 https://hamal.co.il/main/ליברמן--266644
+https://news.walla.co.il/break/3835896
+https://hamal.co.il/main/לפני-המונדיאל-התקרה-קרסה-ושדה-התעופה-הוצף-בצואה--צפו-266629
+https://hamal.co.il/main/אקדח-266646
