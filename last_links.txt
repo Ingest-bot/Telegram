@@ -1,8 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/בלב-תא-3-צעירים-נעצרו-בחשד-שהחזיקו-כלי-תקיפה-266217
-https://hamal.co.il/main/מומחים-מזהירים-3-תוספי-התזונה-הפופולריים-שאינם-יעילים-265743
-https://news.walla.co.il/item/3835010
-https://hamal.co.il/main/הצית-רכב---והשליך-אבן-לעבר-המתלוננת-אישום-נגד-תושב-תל-שבע-266219
+COUNTER:8
 https://hamal.co.il/main/ניסו-להקריב-קרבן-פסח-בהר-הבית-21-חשודים-עוכבו-לחקירה-266220
 https://news.walla.co.il/break/3835015
 https://news.walla.co.il/break/3835019
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3835811
 https://hamal.co.il/main/תיעוד-סבתא-וחמישה-נכדים-נלכדו-על-מצוק-בדרכם-למירון---וחולצו-266608
 https://news.walla.co.il/break/3835812
 https://hamal.co.il/main/מזג-האוויר-הקור-ממשיך---מתי-יגיע-המהפך--התחזית-המלאה-266610
+https://news.walla.co.il/break/3835825
+https://news.walla.co.il/break/3835823
+https://news.walla.co.il/item/3835818
+https://hamal.co.il/main/ברקע-ההתפתחויות-בתיק-חקירתו-של-אייל-גולן-נדחתה-266613
