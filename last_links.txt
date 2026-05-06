@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3835157
-https://news.walla.co.il/break/3835158
+COUNTER:10
 https://hamal.co.il/main/עמדי-תומך-בטרופר-מהמנהיגים-הישרים-וההגונים-ביותר-שיש-כאן-266295
 https://news.walla.co.il/break/3835161
 https://hamal.co.il/main/האזעקות-במנרה-שיגור-266304
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3835985
 https://news.walla.co.il/break/3835992
 https://news.walla.co.il/item/3835993
 https://hamal.co.il/main/מקורות-איראניים-המומ-מתמקד-בסיום-המלחמה-ולא-בנושא-הגרעין-266664
+https://news.walla.co.il/break/3835995
+https://hamal.co.il/main/איראן-ההצעה-האמריקנית-עדיין-נבחנת-266665
