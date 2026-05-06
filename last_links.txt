@@ -1,9 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/חידת-טרופר-הפרישה-מכחול-לבן-והתוכניות-ליום-שאחרי-266275
-https://news.walla.co.il/break/3835140
-https://news.walla.co.il/break/3835143
-https://hamal.co.il/main/מאסק-נגד-הקריפטו-רוב-המטבעות-הם-הונאה-266292
-https://news.walla.co.il/break/3835145
+COUNTER:8
 https://news.walla.co.il/item/3835144
 https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחב-מנרה-הפרטים-בבדיקה-266298
 https://hamal.co.il/main/דיווח-איראן-מבקשת-שסין-ורוסיה-יהיו-מעורבות-בכל-הסכם-266301
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נתפסו-בשעת-מעשה-2-נערים-נעצרו-ב
 https://hamal.co.il/main/החל-ממחר-זמן-ההתגוננות-יוארך-266661
 https://news.walla.co.il/break/3835966
 https://hamal.co.il/main/טראמפ-מאשר-ארהב-ואיראן-קרובות-להסכם-266663
+https://news.walla.co.il/break/3835976
+https://news.walla.co.il/break/3835978
+https://news.walla.co.il/item/3835977
+https://news.walla.co.il/item/3835970
+https://hamal.co.il/main/מחקר-ענק-המאכל-הפשוט-שכולנו-אוהבים---ועוזר-למנוע-אלצהיימר-266645
