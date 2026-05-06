@@ -1,5 +1,4 @@
 COUNTER:16
-https://news.walla.co.il/break/3835170
 https://news.walla.co.il/break/3835171
 https://hamal.co.il/main/אור-כהן-הבריזה-מהראיונות-אחרי-ההדחה-באח-הגדול---וזו-הסיבה-266253
 https://news.walla.co.il/item/3835171
@@ -499,3 +498,4 @@ https://hamal.co.il/main/באיראן-טוענים-הצעת-ארהב-כוללת-
 https://hamal.co.il/main/גורם-ישראלי-266672
 https://hamal.co.il/main/נער-בן-12-נפצע-קשה-מפגיעת-רכב-בכניסה-לחורה-266673
 https://hamal.co.il/main/נערכים-לעימות-ישיר-עם-איראן-צבא-ארהב-מתגבר-כוחות-בישראל-266668
+https://news.walla.co.il/break/3836010
