@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/אקוניס-בניו-יורק-לא-צריכים-הכרה-גאים-במדינה-ובהישגים-עיד-266351
+COUNTER:7
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגיל-במידה-ניכרת-ינשבו-רוחות-חזקות-ובדרום-צפ-266352
 https://news.walla.co.il/break/3835233
 https://news.walla.co.il/break/3835236
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836077
 https://news.walla.co.il/item/3836073
 https://news.walla.co.il/item/3836075
 https://hamal.co.il/main/התרעה-על-אירוע-ביטחוני-הופעלה-במיצד-כוחותינו-סורקים-266758
+https://hamal.co.il/main/אבק-כוכבים-צנינג-טייטום-מצטרף-לסרט-על-פי-הסיפור-הישראלי-266693
