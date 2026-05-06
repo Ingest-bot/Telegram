@@ -1,10 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3835203
-https://news.walla.co.il/item/3835202
-https://hamal.co.il/main/אזעקות-נשמעו-ביראון-266339
-https://hamal.co.il/main/החל-ממחר---מבצע-לליווי-ספינות-החוצה-ממיצרי-הורמוז-ואיום-על-266340
-https://hamal.co.il/main/דיווח-שלושה-בני-אדם-מתו-על-ספינת-תענוגות-באוקיינוס-האטלנטי-266341
-https://hamal.co.il/main/חיל-האוויר-יירט-בהצלחה-מטרה-אווירית-חשודה-בטרם-חצתה-לשטח-ישר-266342
+COUNTER:36
 https://news.walla.co.il/item/3835210
 https://hamal.co.il/main/היועמשית-עונה-בחיוב-להרצוג-נכונים-למומ-על-הסדר-טיעון-עם-266343
 https://news.walla.co.il/break/3835216
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3836048
 https://hamal.co.il/main/גבר-כבן-40-נפצע-קשה-מנפילה-מגובה-במהלך-עבודתו-בנתניה-266731
 https://hamal.co.il/main/הישרדות-מאחורי-אינטרס-התיווך-הפקיסטני-עומד-פחד-גדול-266695
 https://hamal.co.il/main/רהמ-אדבר-עם-טראמפ-הלילה-היעד---הוצאת-החומר-המועשר-מאיראן-266736
+https://news.walla.co.il/break/3836054
+https://news.walla.co.il/item/3836056
+https://news.walla.co.il/item/3836053
+https://hamal.co.il/main/צבא-ארה-266743
+https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-תוקף-בדאחייה-בביירות-266745
+https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-מפקד-כוח-רדואן-בביירות-266746
