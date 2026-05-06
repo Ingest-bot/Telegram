@@ -1,11 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/תוך-יממה-עשרות-אמצעי-לחימה-אותרו-בדרום-לבנון--צפו-266237
-https://hamal.co.il/main/צהל-על-הירי-לצפון-266238
-https://news.walla.co.il/break/3835071
-https://news.walla.co.il/break/3835068
-https://news.walla.co.il/item/3835072
-https://hamal.co.il/main/נתפס-בשעת-מעשה-שבח-פרץ-לדירה-בי-ם---ונעצר-תוך-שימוש-בטייזר-266240
-https://hamal.co.il/main/מחמירה-את-הנהלים-הצעד-של-אינסטגרם-נגד-266213
+COUNTER:24
 https://hamal.co.il/main/שגריר-איראן-בפקיסטן-פריצת-דרך-במומ---266241
 https://news.walla.co.il/item/3835077
 https://hamal.co.il/main/תכננו-פיגועי-דריסה-ומטענים-סוכלה-חוליית-מחבלי-דאעש-בי-ם-266246
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3835854
 https://news.walla.co.il/item/3835853
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-תוצאות-היירוט-בבדיקה-266631
 https://hamal.co.il/main/גבר-נורה-בבני-ברק-מצבו-בינוני-266634
+https://news.walla.co.il/break/3835865
+https://news.walla.co.il/item/3835858
+https://news.walla.co.il/item/3835861
+https://hamal.co.il/main/סוכלה-הברחת-אמלח-ממצרים-4-נשקים-נתפסו-266637
+https://hamal.co.il/main/התאונה-בעפולה-נקבע-מותה-של-הנערה-שנפצעה-בדריסה-266638
+https://hamal.co.il/main/הוא-ביצע-פעולות-החייאה-הזמר-שהציל-חיים-באמצע-הלילה-ברחובו-266640
+https://hamal.co.il/main/עימות-ראשון-נעמה-שחר-תפגוש-את-החשוד-בפרשת-האונס-266635
