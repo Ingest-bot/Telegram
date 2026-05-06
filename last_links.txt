@@ -1,6 +1,4 @@
 COUNTER:5
-https://hamal.co.il/main/החוקר-הבכיר-מזהיר-266211
-https://hamal.co.il/main/צהל-על-האזעקות-בקו-בעימות-הפרטים-בבדיקה-266214
 https://hamal.co.il/main/הירי-לצפון-5-רקטות-יורטו-אחת-נפלה-בשטח-פתוח-266216
 https://news.walla.co.il/break/3835002
 https://news.walla.co.il/item/3834999
@@ -499,3 +497,5 @@ https://hamal.co.il/main/איראן-שמונה-הרוגים-בשריפה-במר�
 https://news.walla.co.il/item/3835801
 https://news.walla.co.il/item/3835796
 https://hamal.co.il/main/שר-החוץ-הסיני-וואנג-יי-שוחח-עם-שר-החוץ-האיראני-עראקצי-266607
+https://news.walla.co.il/break/3835803
+https://news.walla.co.il/item/3835793
