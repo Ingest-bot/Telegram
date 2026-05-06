@@ -1,8 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3835037
-https://news.walla.co.il/item/3835034
-https://hamal.co.il/main/בזמן-הלחימה-בלבנון-החל-מחזור-הגיוס-266226
-https://hamal.co.il/main/מעל-5000-ילדים-נפגעו-266227
+COUNTER:15
 https://hamal.co.il/main/שותים-קפה-איך-שקמים-זו-השעה-המומלצת-לשמירה-על-אנרגיה-266208
 https://news.walla.co.il/item/3835046
 https://hamal.co.il/main/הסיבה-לעיתוי-הפרישה---והיעד-הבא-יש-מחזרים-כל-הזמן-266228
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-תקף-מבנים-של-חיזבאללה-בדרו
 https://hamal.co.il/main/תיעד-את-עצמו-נוסע-במהירות-266617
 https://hamal.co.il/main/תינוק-נכווה-ממים-רותחים-ביהוד-מצבו-בינוני-266618
 https://hamal.co.il/main/הדולר-בשפל-של-30-שנה-266619
+https://news.walla.co.il/break/3835840
+https://news.walla.co.il/break/3835839
+https://hamal.co.il/main/אחותו-של-ימנו-זלקה-זל-266620
+https://hamal.co.il/main/בשל-הפרות-חיזבאללה-צהל-בהודעת-פינוי-ל-11-כפרים-בדרום-לבנון-266621
