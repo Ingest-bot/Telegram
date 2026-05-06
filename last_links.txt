@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3835171
-https://hamal.co.il/main/אור-כהן-הבריזה-מהראיונות-אחרי-ההדחה-באח-הגדול---וזו-הסיבה-266253
-https://news.walla.co.il/item/3835171
-https://hamal.co.il/main/איראן-קיבלנו-את-התגובה-האמריקנית-אנחנו-בוחנים-א-266315
-https://hamal.co.il/main/החשוד-בפרשת-שי-לי-עטרי-חוזר-מחר-לישראל-וצפוי-להיחקר-במשטרה-266317
+COUNTER:20
 https://news.walla.co.il/break/3835176
 https://news.walla.co.il/break/3835178
 https://news.walla.co.il/item/3835175
@@ -499,3 +494,8 @@ https://hamal.co.il/main/גורם-ישראלי-266672
 https://hamal.co.il/main/נער-בן-12-נפצע-קשה-מפגיעת-רכב-בכניסה-לחורה-266673
 https://hamal.co.il/main/נערכים-לעימות-ישיר-עם-איראן-צבא-ארהב-מתגבר-כוחות-בישראל-266668
 https://news.walla.co.il/break/3836010
+https://news.walla.co.il/break/3836016
+https://hamal.co.il/main/ראש-ממשלת-קטאר-סיכוי-גבוה-להסדר-בין-ארהב-לאיראן-266696
+https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-במהלך-עבודתו-בבני-ברק-266697
+https://hamal.co.il/main/גורם-מדיני-הובהר-לנו-שטראמפ-עומד-על-הקווים-האדומים-שלו-266698
+https://hamal.co.il/main/משרד-הבריאות-תן-נגוע-בכלבת-באזור-חקלאי-סמוך-לישוב-ריחאניה-266704
