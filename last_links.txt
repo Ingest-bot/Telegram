@@ -1,6 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/לפני-זמן-קצר-יורטה-מטרה-אווירית-חשודה-שזוהתה-במרחב-בו-פועלי-266453
-https://hamal.co.il/main/איראן-הפרה-לחלוטין-את-הפסקת-האש-באמצעות-התקיפות-שלה-נגד-כל-266454
+COUNTER:33
 https://news.walla.co.il/break/3835481
 https://hamal.co.il/main/הסנטור-לינדזי-גרהאם-יש-266455
 https://news.walla.co.il/break/3835487
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בכירים-אמריקנים-השיחות-בין-יש�
 https://news.walla.co.il/break/3836337
 https://news.walla.co.il/break/3836340
 https://news.walla.co.il/break/3836341
+https://news.walla.co.il/break/3836345
+https://hamal.co.il/main/כתב-אישום-נגד-גוטליב-כץ-חתם-על-חיסיון-באיחור-של-חודשים-266916
