@@ -1,7 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3835387
-https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266387
-https://news.walla.co.il/item/3835393
+COUNTER:1
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-266409
 https://news.walla.co.il/break/3835396
 https://news.walla.co.il/break/3835397
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836173
 https://hamal.co.il/main/הסתבכות-נוספת-בפרשת-אייל-גולן-המתלוננת-הגישה-תלונה-חדשה-266845
 https://hamal.co.il/main/דיווח-איראן-עשויה-למסור-את-צגובתה-להצעה-האמריקאית-266846
 https://hamal.co.il/main/בתוך-קולט-אדים-אקדח-אותר-בדירה-ביפו-266847
+https://news.walla.co.il/item/3836186
+https://hamal.co.il/main/מו״מ-״אפילו-לא-התחלה-האיראנים-לא-מוכנים-לוויתורים-דרמטיים-266839
+https://hamal.co.il/main/צהל-מאשר-חוסל-מפקד-כוח-רדואן-בחיזבאללה-266854
