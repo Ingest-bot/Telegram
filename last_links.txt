@@ -1,6 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/חג-המדורות-חוגגים-ברחבי-הארץ-את-לג-בעומר-266465
-https://news.walla.co.il/break/3835500
+COUNTER:39
 https://hamal.co.il/main/סעודיה-לאמירויות-מגנים-בחריפות-את-המתקפה-האיראנית-266466
 https://news.walla.co.il/break/3835505
 https://news.walla.co.il/item/3835504
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3836360
 https://hamal.co.il/main/טראמפ-נגד-מחירי-הכרטיסים-למונדיאל-גם-אני-לא-הייתי-משלם-266927
 https://news.walla.co.il/item/3836364
 https://hamal.co.il/main/שובו-של-פרוייקט-החירות-266928
+https://news.walla.co.il/break/3836374
+https://hamal.co.il/main/בכיר-הדיווחים-על-ההיערכות-לחידוש-המבצע-בהורמוז---לא-נכונים-266933
