@@ -1,5 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3835533
+COUNTER:12
 https://news.walla.co.il/item/3835534
 https://news.walla.co.il/break/3835538
 https://news.walla.co.il/break/3835536
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הגנה-אווירית-של-איראן-מתמודדת-
 https://hamal.co.il/main/דיווח-ראשוני-פיצוצים-באבו-דאבי-266958
 https://hamal.co.il/main/גורם-אמריקני-בכיר-אומר-לפוקס-כי-מדובר-בתקיפה-צבאית-אמריקנית-266959
 https://hamal.co.il/main/פיצוצים-בשמי-טהרן-תיעוד-דרמטי-266961
+https://hamal.co.il/main/גורם-אמריקני-בכיר-צבא-ארה״ב-תקף-לפני-זמן-קצר-גם-את-עמדת-הבי-266962
