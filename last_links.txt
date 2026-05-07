@@ -1,6 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3835460
-https://news.walla.co.il/item/3835464
+COUNTER:26
 https://hamal.co.il/main/האם-טראמפ-בדרך-ללחוץ-על-ההדק-מול-איראן-בישראל-נערכים-למלחמה-266443
 https://hamal.co.il/main/באורך-של-כ-30-מטרים-כוחות-חטיבה-226-ויחידת-יהלם-השמידו-תוו-266444
 https://hamal.co.il/main/איחוד-האמירויות-שומרים-את-הזכות-המלאה-להגיב-למתקפות-האיראני-266445
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אזהרת-הממשל-לאנשי-הדת-חשיפת-הח
 https://hamal.co.il/main/משרד-החוץ-הפקיסטני-מצפים-שאיראן-וארה״ב-יגיעו-להסכם-266884
 https://news.walla.co.il/break/3836286
 https://news.walla.co.il/item/3836288
+https://news.walla.co.il/break/3836293
+https://hamal.co.il/main/השליכו-בקבוקי-תבערה-ואבנים-3-צעירים-נעצרו-בבית-לחם-266888
