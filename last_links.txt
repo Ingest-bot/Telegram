@@ -1,6 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3835520
-https://news.walla.co.il/break/3835519
 https://news.walla.co.il/item/3835522
 https://hamal.co.il/main/צהל-חיזבאללה-שיגר-פצצות-מרגמה-לעבר-כוחותינו---אין-נפגעים-266474
 https://news.walla.co.il/break/3835525
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אנחנו-יושבים-ומחכים-למה-לאזעק�
 https://news.walla.co.il/break/3836390
 https://news.walla.co.il/break/3836395
 https://hamal.co.il/main/גורם-צבאי-איראני-שיגרנו-טילים-לעבר-״האויב״-266951
+https://news.walla.co.il/break/3836399
+https://news.walla.co.il/item/3836397
