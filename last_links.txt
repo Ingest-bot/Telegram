@@ -1,12 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3835440
-https://news.walla.co.il/break/3835441
-https://news.walla.co.il/break/3835443
-https://hamal.co.il/main/מדיניות-ההתגוננות-של-פיקוד-העורף-נותרת-ללא-שינוי-ותהיה-בתוקף-266431
-https://hamal.co.il/main/חיזבאללה-שיגררקטות-לעבר-כוחות-צהל-הפועלים-בדרום-לבנון-דרומ-266432
-https://hamal.co.il/main/הילדות-לא-יוצאות-מהבית-בערב-כך-האלימות-מחלחלת-266429
-https://news.walla.co.il/break/3835445
-https://news.walla.co.il/break/3835450
+COUNTER:17
 https://news.walla.co.il/item/3835449
 https://news.walla.co.il/item/3835446
 https://hamal.co.il/main/באמירויות-אומרים-שאיראן-שיגרה-לעברם-ארבעה-טילים-שלושה-יורטו-266433
@@ -499,3 +491,11 @@ https://hamal.co.il/main/בלי-תרסיסים-זה-הפתרון-הכי-פשוט
 https://hamal.co.il/main/נתניהו-״אני-אומר-לאויבים-שלנו---לאף-מחבל-אין-חסינות״-266874
 https://news.walla.co.il/break/3836252
 https://news.walla.co.il/item/3836245
+https://news.walla.co.il/break/3836256
+https://news.walla.co.il/break/3836255
+https://news.walla.co.il/item/3836258
+https://news.walla.co.il/item/3836260
+https://news.walla.co.il/item/3836261
+https://hamal.co.il/main/אל-על-פתחה-את-המכירה-לטיסות-לארגנטינה-זה-המחיר-שהיא-דורשת-266876
+https://hamal.co.il/main/דיווח-מעל-ל-1500-ספינות-ממתינות-לאישור-מעבר-במצר-הורמוז-266877
+https://hamal.co.il/main/נשיא-איראן-קיים-שיח-עם-המנהיג-העליון-״צנוע-ומלווה-באמון-266878
