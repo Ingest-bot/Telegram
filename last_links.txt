@@ -1,5 +1,4 @@
 COUNTER:21
-https://hamal.co.il/main/הנתוני-שנחשפו-בכנסת-מעל-7700-תיקים-פליליים-נפתחו-לבני-נוער-266374
 https://hamal.co.il/main/תיעוד-דרמטי-מטוס-מתרסק-על-נהג-משאית-שנסע-סמוך-לשדה-התעופה-266376
 https://news.walla.co.il/break/3835292
 https://hamal.co.il/main/מטוס-התדלוק-״גדעון״-266377
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836110
 https://news.walla.co.il/item/3836109
 https://hamal.co.il/main/לוחם-צהל-נפצע-באורח-קשה-3-לוחמים-נוספים-נפצעו-קל-מפגיעת-רח-266797
 https://hamal.co.il/main/דיווח-אלו-דרישות-ארצות-הברית-להסכם-גרעין-חדש-עם-איראן-266801
+https://news.walla.co.il/break/3836114
