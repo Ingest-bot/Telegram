@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/ככה-זה-ייראה-באירוויזיון-תמונות-ראשונות-מהחזרה-של-נועם-בתן-266389
-https://hamal.co.il/main/באיראן-מאיימים-על-איחוד-האמירויות-266391
-https://hamal.co.il/main/לראשונה-זה-15-שנה-שלג-ירד-בחרמון---בחודש-מאי--צפו-266392
-https://hamal.co.il/main/ראש-מנהלת-ההתיישבות-מונה-266393
-https://news.walla.co.il/break/3835352
+COUNTER:32
 https://news.walla.co.il/break/3835354
 https://news.walla.co.il/item/3835356
 https://hamal.co.il/main/כ-6-שנים-אחרי-כך-נחטף-אביתר-אזרזר-רגע-לפני-שנורה-למוות--תי-266386
@@ -499,3 +494,8 @@ https://hamal.co.il/main/כוחות-צה״ל-סיכלו-ניסיון-הברחה-
 https://hamal.co.il/main/לא-כיף-לא-שווה-את-זה-מכתב-ההתאבדות-של-גפרי-אפשטיין-נחשף-266819
 https://news.walla.co.il/break/3836138
 https://hamal.co.il/main/דיווח-ארה״ב-תמשיך-לתמוך-בעיראק---אם-תנקוט-צעדים-נגד-המליציו-266825
+https://news.walla.co.il/break/3836150
+https://news.walla.co.il/item/3836145
+https://news.walla.co.il/item/3836021
+https://hamal.co.il/main/צה״ל-תקף-יותר-מ-15-תשתיות-של-חיזבאללה-266826
+https://hamal.co.il/main/באיראן-מאוד-חוששים-מחידוש-הלחימה-266829
