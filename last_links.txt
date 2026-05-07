@@ -1,6 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/אחרי-מצוד-ממושך-19-קטינים-נעצרו-בפרשת-רצח-ימנו-זלקה-הודיה-ר-266462
-https://hamal.co.il/main/אוניית-הקרוז-תקועה-בים-אחרי-התפרצות-הנגיף-הקטלני-הרבה-חוסר-266463
+COUNTER:38
 https://hamal.co.il/main/חג-המדורות-חוגגים-ברחבי-הארץ-את-לג-בעומר-266465
 https://news.walla.co.il/break/3835500
 https://hamal.co.il/main/סעודיה-לאמירויות-מגנים-בחריפות-את-המתקפה-האיראנית-266466
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836364
 https://news.walla.co.il/break/3836367
 https://news.walla.co.il/item/3836360
 https://hamal.co.il/main/טראמפ-נגד-מחירי-הכרטיסים-למונדיאל-גם-אני-לא-הייתי-משלם-266927
+https://news.walla.co.il/item/3836364
+https://hamal.co.il/main/שובו-של-פרוייקט-החירות-266928
