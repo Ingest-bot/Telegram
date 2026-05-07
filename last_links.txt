@@ -1,6 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/break/3835481
-https://hamal.co.il/main/הסנטור-לינדזי-גרהאם-יש-266455
+COUNTER:34
 https://news.walla.co.il/break/3835487
 https://news.walla.co.il/item/3835489
 https://hamal.co.il/main/נתניהו-מבקש-לבטל-את-עדותו-מחר-בגין-פגישות-מדיניות-וביטחוניו-266456
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836340
 https://news.walla.co.il/break/3836341
 https://news.walla.co.il/break/3836345
 https://hamal.co.il/main/כתב-אישום-נגד-גוטליב-כץ-חתם-על-חיסיון-באיחור-של-חודשים-266916
+https://news.walla.co.il/break/3836347
+https://hamal.co.il/main/צהל-חוסל-מחבל-שהשתתף-בחטיפתה-של-מייה-שם-בטבח-ה-7-באוקטובר-266918
