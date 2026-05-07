@@ -1,6 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3835538
-https://news.walla.co.il/break/3835536
+COUNTER:15
 https://news.walla.co.il/break/3835539
 https://hamal.co.il/main/סמוטריץ-ממשלה-עם-עבאס-חמורה-יותר-מ־7-באוקטובר-266479
 https://news.walla.co.il/item/3835541
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גורם-אמריקני-בכיר-אומר-לפוקס-כ
 https://hamal.co.il/main/פיצוצים-בשמי-טהרן-תיעוד-דרמטי-266961
 https://hamal.co.il/main/גורם-אמריקני-בכיר-צבא-ארה״ב-תקף-לפני-זמן-קצר-גם-את-עמדת-הבי-266962
 https://hamal.co.il/main/כוחות-אמריקניים-יירטו-מתקפות-איראניות-״בלתי־מוצדקות״-והגיבו-266963
+https://hamal.co.il/main/שגריר-ארה״ב-לאו״ם-מאשר-איראן-תקפה-ספינה-סינית-266964
+https://hamal.co.il/main/טראמפ-ל-abc״אלה-היו-רק-׳טפיחות-של-אהבה׳-הפסקת-האש-עדיין-בת-266965
