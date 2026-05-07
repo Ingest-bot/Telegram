@@ -1,6 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/גבר-כבן-60-266471
-https://hamal.co.il/main/דיווח-טראמפ-בוחן-אפשרויות-תגובה-לתקיפות-האיראניות-266473
+COUNTER:4
 https://news.walla.co.il/break/3835520
 https://news.walla.co.il/break/3835519
 https://news.walla.co.il/item/3835522
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חיזבאללה-שיגר-פצצות-לעבר-כוחו�
 https://news.walla.co.il/item/3836378
 https://hamal.co.il/main/אנחנו-יושבים-ומחכים-למה-לאזעקות-זעקת-תושבי-הגליל-266949
 https://news.walla.co.il/break/3836390
+https://news.walla.co.il/break/3836395
+https://hamal.co.il/main/גורם-צבאי-איראני-שיגרנו-טילים-לעבר-״האויב״-266951
