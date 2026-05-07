@@ -1,5 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/החשוד-בפרשת-אונס-שי-לי-עטרי-ונעמה-שחר-נחת-בישראל---ונעצר-266424
+COUNTER:32
 https://news.walla.co.il/break/3835479
 https://news.walla.co.il/break/3835480
 https://news.walla.co.il/item/3835478
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מאי-ערב-מאשרת-את-הזוגיות-עם-תו�
 https://news.walla.co.il/break/3836322
 https://news.walla.co.il/break/3836324
 https://hamal.co.il/main/פרשים-בהפגנת-החרדים-בירושלים-צירי-הרכבת-הקלה-נחסמו-266907
+https://hamal.co.il/main/בכירים-אמריקנים-השיחות-בין-ישראל-ללבנון-יתקיימו-בשבוע-הבא-266911
