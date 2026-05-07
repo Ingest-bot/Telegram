@@ -1,6 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/איחוד-האמירויות-שומרים-את-הזכות-המלאה-להגיב-למתקפות-האיראני-266445
-https://hamal.co.il/main/טראמפ-איראן-תמחק-מעל-פני-האדמה-אם-תתקוף-ספינות-אמריקאיות-266448
+COUNTER:27
 https://news.walla.co.il/break/3835466
 https://news.walla.co.il/break/3835469
 https://news.walla.co.il/item/3835471
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836293
 https://hamal.co.il/main/השליכו-בקבוקי-תבערה-ואבנים-3-צעירים-נעצרו-בבית-לחם-266888
 https://news.walla.co.il/break/3836299
 https://news.walla.co.il/item/3836297
+https://news.walla.co.il/break/3836307
+https://hamal.co.il/main/לאור-המתיחות-בצפון-בוטלו-האירועים-ההמוניים-בנהריה-266892
