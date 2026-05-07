@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3835292
-https://hamal.co.il/main/מטוס-התדלוק-״גדעון״-266377
-https://hamal.co.il/main/המשטרה-מעדכנת-מפת-החסימות---בעקבות-ביטול-ההילולה-במירון-266379
+COUNTER:24
 https://hamal.co.il/main/צהל-10-מחבלי-חיזבאללה-חוסלו-בימים-האחרונים--צפו-266380
 https://news.walla.co.il/item/3835305
 https://hamal.co.il/main/חוקרים-גילו-זו-הסיבה-שהחתול-שלכם-לא-מסיים-את-266368
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לוחם-צהל-נפצע-באורח-קשה-3-לוחמי
 https://hamal.co.il/main/דיווח-אלו-דרישות-ארצות-הברית-להסכם-גרעין-חדש-עם-איראן-266801
 https://news.walla.co.il/break/3836114
 https://hamal.co.il/main/המגמה-מתהפכת-עלייה-בטמפרטורות-והתחממות-בהרים--התחזית-266806
+https://news.walla.co.il/item/3836116
+https://hamal.co.il/main/דיווח-טראמפ-ביטל-את-המבצע-בהורמוז-בשל-התנגדות-סעודיה-266807
+https://hamal.co.il/main/רב-נעצר-בחשד-לביצוע-עבירות-מין-חמורות-266808
