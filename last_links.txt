@@ -1,10 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/כוחות-סיירת-גבעתי-איתרו-מצבור-רקטות-ומשגרים-מוכנים-לירי-של-א-266413
-https://news.walla.co.il/item/3835424
-https://news.walla.co.il/break/3835428
-https://news.walla.co.il/item/3835429
-https://news.walla.co.il/item/3835430
-https://hamal.co.il/main/רצח-דסטאו-צקול-הוארך-מעצרם-של-שלושה-חשודים-בארבעה-ימים-266419
+COUNTER:12
 https://hamal.co.il/main/פרסום-ראשון-סכסוך-עבודה-ברשות-המסים-266426
 https://news.walla.co.il/break/3835434
 https://news.walla.co.il/item/3835435
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פעילות-כוחות-גבעתי-בדרום-לבנו�
 https://news.walla.co.il/break/3836226
 https://hamal.co.il/main/הוארך-מעצרם-של-5-חשודים-בפרשת-רצח-ימנו-זלקה-266867
 https://hamal.co.il/main/חמאס-הפגיעה-בבנו-של-חליל-אל-חיה-לא-תשפיע-על-עמדותינו-במשא-266868
+https://news.walla.co.il/break/3836238
+https://news.walla.co.il/item/3836239
+https://news.walla.co.il/item/3836235
+https://news.walla.co.il/item/3836211
+https://hamal.co.il/main/הרופאים-בשניידר-לא-האמינו-בן-5-הובא-עם-שיפוד-תקוע-בחזה-266849
+https://hamal.co.il/main/צה״ל-תקף-תשתית-לייצור-אמצעי-לחימה-בנבטיה-266872
