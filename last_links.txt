@@ -1,7 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3835418
-https://news.walla.co.il/break/3835421
-https://hamal.co.il/main/אייקוני-266400
+COUNTER:10
 https://hamal.co.il/main/כוחות-סיירת-גבעתי-איתרו-מצבור-רקטות-ומשגרים-מוכנים-לירי-של-א-266413
 https://news.walla.co.il/item/3835424
 https://news.walla.co.il/break/3835428
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836225
 https://news.walla.co.il/item/3836223
 https://hamal.co.il/main/מכבי-תא-פנתה-לאוהדיה-ומאיימת-די-לשירת-טועמה-מחבל-266834
 https://hamal.co.il/main/פעילות-כוחות-גבעתי-בדרום-לבנון-266866
+https://news.walla.co.il/break/3836226
+https://hamal.co.il/main/הוארך-מעצרם-של-5-חשודים-בפרשת-רצח-ימנו-זלקה-266867
+https://hamal.co.il/main/חמאס-הפגיעה-בבנו-של-חליל-אל-חיה-לא-תשפיע-על-עמדותינו-במשא-266868
