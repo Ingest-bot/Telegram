@@ -1,7 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3835527
-https://news.walla.co.il/break/3835528
-https://hamal.co.il/main/דיווח-איראני-ארהב-תקפה-שתי-סירות-אזרחיות-וחמישה-נהרגו-266478
+COUNTER:11
 https://news.walla.co.il/break/3835533
 https://news.walla.co.il/item/3835534
 https://news.walla.co.il/break/3835538
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מערכות-הגנה-איראניות-הופעלו-ד�
 https://hamal.co.il/main/רשת-פוקס--צבא-ארהב-ביצע-מוקדם-יותר-תקיפות-בבנדר-עבאס-באיר-266954
 https://hamal.co.il/main/דיווחים-באיראן-פגיעה-באי-במצר-הורמוז---וחילופי-אש-עם-האויב-266955
 https://hamal.co.il/main/הגנה-אווירית-של-איראן-מתמודדת-עם-מטרות-עוינות-בשמי-טהראן-266956
+https://hamal.co.il/main/דיווח-ראשוני-פיצוצים-באבו-דאבי-266958
+https://hamal.co.il/main/גורם-אמריקני-בכיר-אומר-לפוקס-כי-מדובר-בתקיפה-צבאית-אמריקנית-266959
+https://hamal.co.il/main/פיצוצים-בשמי-טהרן-תיעוד-דרמטי-266961
