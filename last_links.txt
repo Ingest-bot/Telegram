@@ -1,9 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3835504
-https://hamal.co.il/main/המודיעין-האמריקאי-לוח-הזמנים-הגרעיני-של-איראן-לא-השתנה-266469
-https://news.walla.co.il/break/3835507
-https://news.walla.co.il/break/3835508
-https://news.walla.co.il/break/3835509
+COUNTER:2
 https://news.walla.co.il/break/3835514
 https://news.walla.co.il/item/3835506
 https://hamal.co.il/main/גבר-בן-40-נפצע-קשה-באירוע-אלימות-בנתניה-266470
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3836374
 https://hamal.co.il/main/בכיר-הדיווחים-על-ההיערכות-לחידוש-המבצע-בהורמוז---לא-נכונים-266933
 https://news.walla.co.il/break/3836378
 https://news.walla.co.il/item/3836377
+https://news.walla.co.il/break/3836386
+https://news.walla.co.il/item/3836385
+https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-באזור-מצר-הורמוז-266937
+https://hamal.co.il/main/ירי-אזהרה-של-משמרות-המהפכה-הסיבה-לפיצוצים-באיראן-266941
+https://hamal.co.il/main/חיזבאללה-שיגר-פצצות-לעבר-כוחות-צהל-בדרום-לבנון-אין-נפגעים-266943
