@@ -1,10 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3835492
-https://hamal.co.il/main/איראן-האירועים-באמירויות---תוצאה-של-הרפתקנות-אמריקאית-לא-266457
-https://hamal.co.il/main/טראמפ-נואם--שידור-ישיר-מהבית-הלבן-266459
-https://hamal.co.il/main/בשל-ירי-בקרבת-הבית-הלבן-העיתונאים-העומדים-במדשאה-הצפונית-ה-266460
-https://news.walla.co.il/break/3835494
-https://hamal.co.il/main/טראמפ-נמנע-מלהאשים-את-איראן-בהפרת-הפסקת-האש-ואמר-שהכטבמים-266461
+COUNTER:37
 https://hamal.co.il/main/אחרי-מצוד-ממושך-19-קטינים-נעצרו-בפרשת-רצח-ימנו-זלקה-הודיה-ר-266462
 https://hamal.co.il/main/אוניית-הקרוז-תקועה-בים-אחרי-התפרצות-הנגיף-הקטלני-הרבה-חוסר-266463
 https://hamal.co.il/main/חג-המדורות-חוגגים-ברחבי-הארץ-את-לג-בעומר-266465
@@ -499,3 +493,9 @@ https://hamal.co.il/main/הוא-מקבל-שוב-אוויר-בזמן-שנפגעו
 https://news.walla.co.il/break/3836354
 https://news.walla.co.il/break/3836355
 https://hamal.co.il/main/ברקע-ההיערכות-לירי-מחיזבאללה-אלו-הנחיות-פיקוד-העורף-266923
+https://news.walla.co.il/break/3836358
+https://news.walla.co.il/break/3836359
+https://news.walla.co.il/break/3836364
+https://news.walla.co.il/break/3836367
+https://news.walla.co.il/item/3836360
+https://hamal.co.il/main/טראמפ-נגד-מחירי-הכרטיסים-למונדיאל-גם-אני-לא-הייתי-משלם-266927
