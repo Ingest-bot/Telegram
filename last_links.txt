@@ -1,9 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266401
-https://hamal.co.il/main/דיווח-בארהב-מכחישים-שאיראן-פגעה-בספינה-אמריקנית-266402
-https://news.walla.co.il/break/3835382
-https://news.walla.co.il/item/3835379
-https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-בטייבה-מצבו-קשה-266404
+COUNTER:39
 https://news.walla.co.il/break/3835387
 https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266387
 https://news.walla.co.il/item/3835393
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3836165
 https://news.walla.co.il/item/3836162
 https://hamal.co.il/main/ביהמ״ש-הורה-לנתניהו-מסור-את-התיק-הרפואי-במעטפה-סגורה-266841
 https://hamal.co.il/main/לוחמי-חטיבת-החשמונאים-ציינו-סיום-מסלול-266842
+https://news.walla.co.il/break/3836171
+https://news.walla.co.il/break/3836173
+https://hamal.co.il/main/הסתבכות-נוספת-בפרשת-אייל-גולן-המתלוננת-הגישה-תלונה-חדשה-266845
+https://hamal.co.il/main/דיווח-איראן-עשויה-למסור-את-צגובתה-להצעה-האמריקאית-266846
+https://hamal.co.il/main/בתוך-קולט-אדים-אקדח-אותר-בדירה-ביפו-266847
