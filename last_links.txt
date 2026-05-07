@@ -1,7 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3835466
-https://news.walla.co.il/break/3835469
-https://news.walla.co.il/item/3835471
+COUNTER:28
 https://news.walla.co.il/break/3835473
 https://hamal.co.il/main/ייתכן-שהגיע-הזמן-שדרום-קוריאה-תצטרף-למשימה-הפלנו-שבע-סירות-266449
 https://hamal.co.il/main/ראש-העיר-נגד-קרעי-חוסר-הקליטה-בנגב-מסכן-את-התושבים-266417
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836299
 https://news.walla.co.il/item/3836297
 https://news.walla.co.il/break/3836307
 https://hamal.co.il/main/לאור-המתיחות-בצפון-בוטלו-האירועים-ההמוניים-בנהריה-266892
+https://news.walla.co.il/item/3836309
+https://news.walla.co.il/item/3836248
+https://hamal.co.il/main/המחוזי-שחרר-את-החשוד-בפרשת-שי-לי-עטרי-למעצר-בית-266894
