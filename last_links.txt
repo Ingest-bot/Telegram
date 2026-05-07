@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/CNN-ישראל-יירטה-טילים-ששוגרו-מאיראן-לאמירויות-266452
-https://news.walla.co.il/break/3835474
-https://hamal.co.il/main/המדינה-מבקשת-26-שנות-מאסר-לרוצח-מאיה-ווישניאק-266421
+COUNTER:31
 https://hamal.co.il/main/החשוד-בפרשת-אונס-שי-לי-עטרי-ונעמה-שחר-נחת-בישראל---ונעצר-266424
 https://news.walla.co.il/break/3835479
 https://news.walla.co.il/break/3835480
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836316
 https://news.walla.co.il/item/3836314
 https://hamal.co.il/main/דוברת-הבית-הלבן-אמא-הלב-שלנו-מתפוצץ-מאהבה-266899
 https://hamal.co.il/main/מאי-ערב-מאשרת-את-הזוגיות-עם-תום-ברכה-הגדול-ממנה-ב-22-שנים-266902
+https://news.walla.co.il/break/3836322
+https://news.walla.co.il/break/3836324
+https://hamal.co.il/main/פרשים-בהפגנת-החרדים-בירושלים-צירי-הרכבת-הקלה-נחסמו-266907
