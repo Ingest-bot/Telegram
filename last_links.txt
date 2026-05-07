@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3835409
-https://hamal.co.il/main/שפל-חסר-תקדים-מאבטח-אמר-לאלמנת-צהל-מגיע-לך-שבעלך-נהרג-266394
-https://news.walla.co.il/break/3835413
-https://hamal.co.il/main/איטליה-לא-נתמוך-בנסיגת-כוחות-אמריקניים-מהמדינה-רויטרס-1-ר-266411
-https://hamal.co.il/main/ני-לוחמי-גולני-נפצעו-במהלך-חילופי-אש-בדרום-לבנון-אמיר-בוחבוט-266412
+COUNTER:8
 https://news.walla.co.il/break/3835418
 https://news.walla.co.il/break/3835421
 https://hamal.co.il/main/אייקוני-266400
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3836209
 https://news.walla.co.il/break/3836210
 https://hamal.co.il/main/תצפית-מטורפת-עורב-ניסה-לחטוף-טרף-מנחש---שנמלט-בעמידה-266864
 https://hamal.co.il/main/דובר-צה״ל-בערבית-באזהרה-דחופה-לתושבי-לבנון-״התפנו-מיידית״-266865
+https://news.walla.co.il/break/3836222
+https://news.walla.co.il/break/3836225
+https://news.walla.co.il/item/3836223
+https://hamal.co.il/main/מכבי-תא-פנתה-לאוהדיה-ומאיימת-די-לשירת-טועמה-מחבל-266834
+https://hamal.co.il/main/פעילות-כוחות-גבעתי-בדרום-לבנון-266866
