@@ -1,8 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/צהל-חיסלנו-מחבל-חמאס-ששיגר-בעבר-רקטות-לעבר-ישראל-266398
-https://hamal.co.il/main/דיווחים-266397
-https://news.walla.co.il/break/3835368
-https://hamal.co.il/main/ליברמן-הודיע-אחיו-של-שורד-השבי-מצטרף-לישראל-ביתנו-266399
+COUNTER:36
 https://hamal.co.il/main/הלהבה-של-עם-הנצח-למה-לג-בעומר-הוא-החג-הכי-אקטואלי-שלנו-266401
 https://hamal.co.il/main/דיווח-בארהב-מכחישים-שאיראן-פגעה-בספינה-אמריקנית-266402
 https://news.walla.co.il/break/3835382
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3836162
 https://news.walla.co.il/item/3836152
 https://hamal.co.il/main/גרפיטי-רוסס-מחוץ-לאולפני-חדשות-12-קשת-12-הבוגדים-266836
 https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-בנבטיה-266840
+https://news.walla.co.il/item/3836165
+https://news.walla.co.il/item/3836162
+https://hamal.co.il/main/ביהמ״ש-הורה-לנתניהו-מסור-את-התיק-הרפואי-במעטפה-סגורה-266841
+https://hamal.co.il/main/לוחמי-חטיבת-החשמונאים-ציינו-סיום-מסלול-266842
