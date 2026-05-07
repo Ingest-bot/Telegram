@@ -1,8 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3835322
-https://hamal.co.il/main/באיראן-משיבים-להצעה-האמריקנית-266383
-https://news.walla.co.il/break/3835338
-https://news.walla.co.il/item/3835329
+COUNTER:29
 https://hamal.co.il/main/האיבר-שרופאים-חשבו-שהוא-מיותר-התגלה-כמפתח-קריטי-לבריאות-266384
 https://news.walla.co.il/break/3835340
 https://hamal.co.il/main/ככה-זה-ייראה-באירוויזיון-תמונות-ראשונות-מהחזרה-של-נועם-בתן-266389
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3836125
 https://hamal.co.il/main/חגיגה-באסיה-הבורסות-בשיא-כל-הזמנים-266813
 https://hamal.co.il/main/בתום-מרדף-גבר-נעצר-על-טרקטורון-כשהוא-חמוש-באקדח-266816
 https://hamal.co.il/main/דיווח-שני-הרוגים-בתקיפה-אווירית-בכפר-חבוש-בדרום-לבנון-266820
+https://news.walla.co.il/break/3836133
+https://news.walla.co.il/item/3836129
+https://hamal.co.il/main/כוחות-צה״ל-סיכלו-ניסיון-הברחה-של-11-אקדחים-בגבול-המזרחי-266822
+https://hamal.co.il/main/לא-כיף-לא-שווה-את-זה-מכתב-ההתאבדות-של-גפרי-אפשטיין-נחשף-266819
