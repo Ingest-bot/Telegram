@@ -1,6 +1,4 @@
 COUNTER:14
-https://hamal.co.il/main/הפרויקט-האישי-של-הקצין-מכפיר-כך-הוגשם-חלום-לחייל-מהגדוד-266415
-https://hamal.co.il/main/לפני-זמן-קצר-חיל-האוויר-החל-באימונים-במרכז-הארץ-לקראת-מטס-ה-266430
 https://news.walla.co.il/break/3835440
 https://news.walla.co.il/break/3835441
 https://news.walla.co.il/break/3835443
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צה״ל-תקף-תשתית-לייצור-אמצעי-לח
 https://news.walla.co.il/item/3836243
 https://hamal.co.il/main/בלי-תרסיסים-זה-הפתרון-הכי-פשוט-נגד-יתושים-שרובנו-לא-מכירים-266824
 https://hamal.co.il/main/נתניהו-״אני-אומר-לאויבים-שלנו---לאף-מחבל-אין-חסינות״-266874
+https://news.walla.co.il/break/3836252
+https://news.walla.co.il/item/3836245
