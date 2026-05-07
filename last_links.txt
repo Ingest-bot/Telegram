@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3835473
-https://hamal.co.il/main/ייתכן-שהגיע-הזמן-שדרום-קוריאה-תצטרף-למשימה-הפלנו-שבע-סירות-266449
-https://hamal.co.il/main/ראש-העיר-נגד-קרעי-חוסר-הקליטה-בנגב-מסכן-את-התושבים-266417
-https://hamal.co.il/main/החזית-מול-איראן-מתלהטת-המבוכה-האמריקנית---והדילמה-הישראלית-266450
+COUNTER:30
 https://hamal.co.il/main/CNN-ישראל-יירטה-טילים-ששוגרו-מאיראן-לאמירויות-266452
 https://news.walla.co.il/break/3835474
 https://hamal.co.il/main/המדינה-מבקשת-26-שנות-מאסר-לרוצח-מאיה-ווישניאק-266421
@@ -499,3 +495,7 @@ https://hamal.co.il/main/לאור-המתיחות-בצפון-בוטלו-האיר�
 https://news.walla.co.il/item/3836309
 https://news.walla.co.il/item/3836248
 https://hamal.co.il/main/המחוזי-שחרר-את-החשוד-בפרשת-שי-לי-עטרי-למעצר-בית-266894
+https://news.walla.co.il/break/3836316
+https://news.walla.co.il/item/3836314
+https://hamal.co.il/main/דוברת-הבית-הלבן-אמא-הלב-שלנו-מתפוצץ-מאהבה-266899
+https://hamal.co.il/main/מאי-ערב-מאשרת-את-הזוגיות-עם-תום-ברכה-הגדול-ממנה-ב-22-שנים-266902
