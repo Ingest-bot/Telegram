@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3835514
-https://news.walla.co.il/item/3835506
+COUNTER:3
 https://hamal.co.il/main/גבר-בן-40-נפצע-קשה-באירוע-אלימות-בנתניה-266470
 https://hamal.co.il/main/גבר-כבן-60-266471
 https://hamal.co.il/main/דיווח-טראמפ-בוחן-אפשרויות-תגובה-לתקיפות-האיראניות-266473
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3836385
 https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-באזור-מצר-הורמוז-266937
 https://hamal.co.il/main/ירי-אזהרה-של-משמרות-המהפכה-הסיבה-לפיצוצים-באיראן-266941
 https://hamal.co.il/main/חיזבאללה-שיגר-פצצות-לעבר-כוחות-צהל-בדרום-לבנון-אין-נפגעים-266943
+https://news.walla.co.il/item/3836378
+https://hamal.co.il/main/אנחנו-יושבים-ומחכים-למה-לאזעקות-זעקת-תושבי-הגליל-266949
