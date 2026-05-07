@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3835487
-https://news.walla.co.il/item/3835489
+COUNTER:35
 https://hamal.co.il/main/נתניהו-מבקש-לבטל-את-עדותו-מחר-בגין-פגישות-מדיניות-וביטחוניו-266456
 https://hamal.co.il/main/הכסף-החשאי-של-האייתוללות-הקשר-בין-הבורסה-הענקית-למשטר-266373
 https://news.walla.co.il/break/3835490
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836345
 https://hamal.co.il/main/כתב-אישום-נגד-גוטליב-כץ-חתם-על-חיסיון-באיחור-של-חודשים-266916
 https://news.walla.co.il/break/3836347
 https://hamal.co.il/main/צהל-חוסל-מחבל-שהשתתף-בחטיפתה-של-מייה-שם-בטבח-ה-7-באוקטובר-266918
+https://news.walla.co.il/break/3836350
+https://hamal.co.il/main/הוא-מקבל-שוב-אוויר-בזמן-שנפגעות-מתמודדות-עם-החרדה-266921
