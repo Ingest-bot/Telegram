@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3835646
-https://news.walla.co.il/item/3835647
+COUNTER:0
 https://news.walla.co.il/break/3835648
 https://hamal.co.il/main/הפריימריז-בליכוד-השיריונים-שנתניהו-יקבל---והמיקומים-266503
 https://hamal.co.il/main/סכום-משמעותי-תושב-י-ם-נפל-לבור-בכביש---זה-הפיצוי-שיקבל-266506
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ניגן-לחברים-בשבי-תרמו-לקמפיין-
 https://hamal.co.il/main/המקום-המסוכן-בעולם-266974
 https://hamal.co.il/main/ניסה-להימלט-מהשוטרים-דרס-מתנדב---ונעצר-266987
 https://hamal.co.il/main/צהל-לוחם-נפצע-באורח-קשה-2-נוספים-במצב-בינוני-266988
+https://news.walla.co.il/item/3836480
+https://hamal.co.il/main/צהל-באזהרה-חריגה-נערכים-לירי-לעבר-הצפון-266989
