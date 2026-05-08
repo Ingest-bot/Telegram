@@ -1,5 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3835693
+COUNTER:10
 https://news.walla.co.il/break/3835694
 https://news.walla.co.il/break/3835703
 https://news.walla.co.il/item/3835697
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3836401
 https://hamal.co.il/main/סגירת-מעגל-חיל-האוויר-תקף-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267011
 https://news.walla.co.il/break/3836505
 https://news.walla.co.il/break/3836507
+https://hamal.co.il/main/השחקן-מיקי-לאון-התחתן-עם-בת-הזוג-הצעירה-ממנו-ב-20-שנה-267015
