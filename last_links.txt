@@ -1,8 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/שריפה-266500
-https://hamal.co.il/main/למה-ישראלים-עם-אסתמה-צריכים-להיות-מודאגים-בימים-אלו-266490
-https://hamal.co.il/main/מנו-266501
-https://hamal.co.il/main/המפכל-במירון-אירועי-ההילולה-עוברים-ללא-אירועים-חריגים-266502
+COUNTER:30
 https://news.walla.co.il/break/3835614
 https://news.walla.co.il/item/3835611
 https://hamal.co.il/main/נתניהו-מבקש-לדחות-את-עדותו-היום-266504
@@ -499,3 +495,7 @@ https://hamal.co.il/main/המשטרה-הודיעה-חקירת-רצח-ימנו-ז
 https://news.walla.co.il/item/3836443
 https://hamal.co.il/main/מזרחן-עונה-266977
 https://hamal.co.il/main/שינוי-היסטורי-בבריטניה-הישגים-גדולים-למפלגת-הימין-266978
+https://news.walla.co.il/break/3836454
+https://news.walla.co.il/break/3836453
+https://news.walla.co.il/break/3836451
+https://hamal.co.il/main/התבקשו-לרכוש-אמלח-אזרח-ו-3-חיילים-נאשמים-בריגול-למען-איראן-266980
