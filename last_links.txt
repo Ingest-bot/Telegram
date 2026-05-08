@@ -1,5 +1,4 @@
 COUNTER:17
-https://news.walla.co.il/break/3835554
 https://hamal.co.il/main/מחבלי-חיזבאללה-ניסו-להימלט-על-אופנוע---וחוסלו-266487
 https://hamal.co.il/main/סמוטריץ-מגיב-לסערה-266488
 https://hamal.co.il/main/נער-נפצע-באורח-בינוני-בחדרה-8-חשודים-נעצרו-266489
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3836406
 https://news.walla.co.il/item/3836416
 https://hamal.co.il/main/ראשת-הסגל-של-טראמפ-אתה-אף-פעם-לא-יודע-עם-מה-הוא-ירד-בבוקר-266966
 https://hamal.co.il/main/פיצוצים-גדולים-ייצאו-מאיראן-טראמפ-מאיים-ולא-שולל-חזרה-לפ-266968
+https://news.walla.co.il/break/3836418
