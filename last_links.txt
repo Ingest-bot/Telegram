@@ -1,5 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3835714
+COUNTER:13
 https://hamal.co.il/main/איחוד-האמירויות-נתונים-למתקפת-טילים-וכטב״מים-מאיראן-266563
 https://news.walla.co.il/break/3835725
 https://news.walla.co.il/break/3835730
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3836529
 https://news.walla.co.il/break/3836538
 https://news.walla.co.il/break/3836537
 https://news.walla.co.il/break/3836540
+https://hamal.co.il/main/3-ימי-הפסקת-אש-ברוסיה-ואוקראינה-267024
