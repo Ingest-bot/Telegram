@@ -1,5 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3835737
+COUNTER:15
 https://news.walla.co.il/break/3835740
 https://hamal.co.il/main/שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בטרם-חצתה-ארצה-266575
 https://hamal.co.il/main/דרמה-משפטית-העליון-זיכה-נאשם-באונס-בת-82-266573
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836550
 https://news.walla.co.il/break/3836552
 https://hamal.co.il/main/חילוץ-במסלול-טיול-ברמת-הגולן-בן-86-פונה-באלונקה-לאחר-שחש-בר-267025
 https://news.walla.co.il/break/3836557
+https://hamal.co.il/main/ארגנטינה-סוכלה-הברחת-ענק-של-400-קג-קוקאין-במטוס-267027
