@@ -1,5 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3835670
+COUNTER:4
 https://news.walla.co.il/break/3835671
 https://hamal.co.il/main/צהל-חיסלנו-266531
 https://hamal.co.il/main/דיווח-ישראל-וארהב-נערכות-לתקוף-באיראן---אלו-היעדים-266532
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836486
 https://news.walla.co.il/break/3836487
 https://news.walla.co.il/break/3836488
 https://news.walla.co.il/item/3836479
+https://hamal.co.il/main/ילד-בן-4-נפגע-מרכב-בגוש-עציון-מצבו-קשה-267000
