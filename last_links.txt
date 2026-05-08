@@ -1,5 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/נער-נעצר-בחשד-לתקיפת-266492
+COUNTER:21
 https://hamal.co.il/main/טירוף-חסר-אחריות-העימות-בין-בכירי-המשטר-האיראני--דיווח-266495
 https://news.walla.co.il/break/3835570
 https://news.walla.co.il/item/3835577
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836421
 https://news.walla.co.il/break/3836422
 https://news.walla.co.il/break/3836424
 https://hamal.co.il/main/אחרי-הקור-הטמפרטורות-עולות---מה-צפוי-בהמשך--התחזית-266971
+https://hamal.co.il/main/צהל-נערך-לתמרון-בעזה-חמאס-מנצל-את-הקשב-לאיראן-וללבנון-266657
