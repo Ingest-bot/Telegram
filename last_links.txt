@@ -1,5 +1,4 @@
 COUNTER:11
-https://hamal.co.il/main/צהל-חיסל-חוליית-מחבלים-חמושים-בצפון-הרצועה-266556
 https://hamal.co.il/main/מיצג-הנובה-מגיע-ללונדון-תחת-היערכות-ביטחונית-חסרת-תקדים-266524
 https://news.walla.co.il/break/3835704
 https://news.walla.co.il/break/3835713
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אלוף-אכ״א-דדו-בר-כליפא-במסר-לפ�
 https://news.walla.co.il/break/3836519
 https://news.walla.co.il/break/3836520
 https://news.walla.co.il/item/3836517
+https://news.walla.co.il/break/3836521
