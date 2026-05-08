@@ -1,13 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3835539
-https://hamal.co.il/main/סמוטריץ-ממשלה-עם-עבאס-חמורה-יותר-מ־7-באוקטובר-266479
-https://news.walla.co.il/item/3835541
-https://hamal.co.il/main/חזה-את-ניסיונות-ההתנקשות-בטראמפ---ומזהיר-מהאסון-הענק-שבדרך-266480
-https://hamal.co.il/main/גבר-נפצע-באירוע-אלימות-בבאר-שבע-מצבו-קשה-266483
-https://news.walla.co.il/break/3835546
-https://hamal.co.il/main/היערכות-להשתלטות-על-שארית-המשט-לעזה-2-פעילים-שובתים-רעב-266485
-https://hamal.co.il/main/מתווה-חדירה-התרחישים-שתרגלו-בחטיבת-מנשה-266486
-https://news.walla.co.il/break/3835551
+COUNTER:17
 https://news.walla.co.il/break/3835554
 https://hamal.co.il/main/מחבלי-חיזבאללה-ניסו-להימלט-על-אופנוע---וחוסלו-266487
 https://hamal.co.il/main/סמוטריץ-מגיב-לסערה-266488
@@ -499,3 +490,12 @@ https://hamal.co.il/main/גורם-אמריקני-בכיר-צבא-ארה״ב-תק
 https://hamal.co.il/main/כוחות-אמריקניים-יירטו-מתקפות-איראניות-״בלתי־מוצדקות״-והגיבו-266963
 https://hamal.co.il/main/שגריר-ארה״ב-לאו״ם-מאשר-איראן-תקפה-ספינה-סינית-266964
 https://hamal.co.il/main/טראמפ-ל-abc״אלה-היו-רק-׳טפיחות-של-אהבה׳-הפסקת-האש-עדיין-בת-266965
+https://news.walla.co.il/break/3836408
+https://news.walla.co.il/break/3836409
+https://news.walla.co.il/break/3836407
+https://news.walla.co.il/break/3836415
+https://news.walla.co.il/break/3836417
+https://news.walla.co.il/item/3836406
+https://news.walla.co.il/item/3836416
+https://hamal.co.il/main/ראשת-הסגל-של-טראמפ-אתה-אף-פעם-לא-יודע-עם-מה-הוא-ירד-בבוקר-266966
+https://hamal.co.il/main/פיצוצים-גדולים-ייצאו-מאיראן-טראמפ-מאיים-ולא-שולל-חזרה-לפ-266968
