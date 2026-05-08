@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3835503
-https://hamal.co.il/main/האזעקה-במשגב-עם-תושבים-דיווחו-על-שיגור-מיירטים-266546
+COUNTER:9
 https://news.walla.co.il/break/3835687
 https://hamal.co.il/main/מרדכי-דוד-רדף-אחרי-השופטת-עם-ישראל-יודע-שביבי-חף-מפשע-266548
 https://news.walla.co.il/break/3835693
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836499
 https://news.walla.co.il/item/3836495
 https://news.walla.co.il/break/3836503
 https://hamal.co.il/main/דיווח-הצבא-האמריקני-תקף-מכליות-שניסו-לפרוץ-את-המצור-בהורמוז-267004
+https://news.walla.co.il/item/3836401
+https://hamal.co.il/main/סגירת-מעגל-חיל-האוויר-תקף-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267011
