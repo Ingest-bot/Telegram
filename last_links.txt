@@ -1,8 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/בכחול-לבן-מודים-חכ-נוסף-מעוניין-לפרוש-גנץ-הציב-אולטימטום-266512
-https://hamal.co.il/main/צו-סגירה-הוצא-למסעדה-המוכרת-בתל-אביב---לאחר-העסקת-שבחים-266513
-https://news.walla.co.il/item/3835630
-https://news.walla.co.il/item/3835639
+COUNTER:37
 https://hamal.co.il/main/נתניהו-נפגש-עם-266514
 https://hamal.co.il/main/מתפללים-שהיו-בדרכם-למירון-חסמו-את-צומת-מגידו-266516
 https://news.walla.co.il/break/3835646
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פרשת-בהר-בחקתי-אלו-זמני-השבת-266
 https://hamal.co.il/main/כטבם-אותר-על-גגת-בית-ספר-בגליל--תיעוד-266983
 https://hamal.co.il/main/אישום-תלמיד-התווכח-עם-המאבטח---והשליך-לעברו-אבן-266984
 https://hamal.co.il/main/8-266985
+https://news.walla.co.il/break/3836474
+https://news.walla.co.il/break/3836476
+https://hamal.co.il/main/ניגן-לחברים-בשבי-תרמו-לקמפיין-גיוס-ההמונים-לי-266986
+https://hamal.co.il/main/המקום-המסוכן-בעולם-266974
