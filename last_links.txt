@@ -1,8 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3835579
-https://news.walla.co.il/break/3835582
-https://hamal.co.il/main/הבכיר-האיראני-מאיים-על-ארהב-266496
-https://hamal.co.il/main/מה-הסוד-של-בת-ה־117-המחקר-שמסביר-למה-היא-חיה-כל-כך-הרבה-266482
+COUNTER:25
 https://hamal.co.il/main/במהלך-לג-בעומר-שריפה-פרצה-בבית-סמוך-לגדרה-אין-נפגעים-266498
 https://hamal.co.il/main/דריסה-בתהלוכת-לג-בעומר-בבאר-שבע-266497
 https://news.walla.co.il/break/3835591
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3836428
 https://hamal.co.il/main/המדענית-הבכירה-מתה-שלוש-פעמים---וזה-מה-שהיא-ראתה-בכל-פעם-266642
 https://hamal.co.il/main/13-כדורים-אישום-הוגש-נגד-תושב-שירה---ונעצר-על-חם--תיעוד-266972
 https://hamal.co.il/main/פרשת-המוהל-יו״ר-איגוד-המוהלים-העולמי-נחקר-266973
+https://news.walla.co.il/break/3836439
+https://news.walla.co.il/item/3836437
+https://news.walla.co.il/item/3836427
+https://hamal.co.il/main/הוא-ביצע-פעולות-החייאה-הזמר-שהציל-חיים-באמצע-הלילה-ברחובו-266639
