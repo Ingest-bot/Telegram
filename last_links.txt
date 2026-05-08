@@ -1,7 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/נתניהו-מבקש-לדחות-את-עדותו-היום-266504
-https://hamal.co.il/main/נשבר-לנו-הם-סכנה-קיומית-הנדל-במתקפה-נגד-המפלגות-החרדיות-266505
-https://news.walla.co.il/item/3835623
+COUNTER:31
 https://news.walla.co.il/item/3835621
 https://hamal.co.il/main/3-כתבי-אישום-הוגשו-נגד-4-נאשמים-בהברחת-סחורות-לעזה-266508
 https://news.walla.co.il/break/3835629
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836451
 https://hamal.co.il/main/התבקשו-לרכוש-אמלח-אזרח-ו-3-חיילים-נאשמים-בריגול-למען-איראן-266980
 https://news.walla.co.il/break/3836457
 https://news.walla.co.il/break/3836458
+https://news.walla.co.il/break/3836455
+https://news.walla.co.il/item/3836451
+https://hamal.co.il/main/צפו-תינוק-חולץ-מרכב-נעול-בחדרה-ללא-פגע-266982
