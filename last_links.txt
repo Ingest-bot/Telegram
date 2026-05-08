@@ -1,7 +1,4 @@
 COUNTER:11
-https://news.walla.co.il/item/3835697
-https://hamal.co.il/main/האזעקות-בגליל-שיגורים-שיורטו-בטרם-חצו-לשטח-הארץ-266552
-https://hamal.co.il/main/ראשוני--אירוע-ירי-לעבר-רכב-ללא-נפגעים-בחדרה-266554
 https://hamal.co.il/main/צהל-חיסל-חוליית-מחבלים-חמושים-בצפון-הרצועה-266556
 https://hamal.co.il/main/מיצג-הנובה-מגיע-ללונדון-תחת-היערכות-ביטחונית-חסרת-תקדים-266524
 https://news.walla.co.il/break/3835704
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836507
 https://hamal.co.il/main/השחקן-מיקי-לאון-התחתן-עם-בת-הזוג-הצעירה-ממנו-ב-20-שנה-267015
 https://news.walla.co.il/break/3836512
 https://hamal.co.il/main/אלוף-אכ״א-דדו-בר-כליפא-במסר-לפקודיו-לכבוד-שבת-267019
+https://news.walla.co.il/break/3836519
+https://news.walla.co.il/break/3836520
+https://news.walla.co.il/item/3836517
