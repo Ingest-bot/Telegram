@@ -1,7 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/item/3835621
-https://hamal.co.il/main/3-כתבי-אישום-הוגשו-נגד-4-נאשמים-בהברחת-סחורות-לעזה-266508
-https://news.walla.co.il/break/3835629
+COUNTER:33
 https://hamal.co.il/main/חכ-נוסף-פורש-מכחול-לבן-גנץ-וטרופר-סיכמו---יישאר-בכנסת-266510
 https://hamal.co.il/main/במהלך-לג-בעומר-מפוקח-מין-ניסה-להתקרב-לנער---ונעצר-266511
 https://hamal.co.il/main/בכחול-לבן-מודים-חכ-נוסף-מעוניין-לפרוש-גנץ-הציב-אולטימטום-266512
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836458
 https://news.walla.co.il/break/3836455
 https://news.walla.co.il/item/3836451
 https://hamal.co.il/main/צפו-תינוק-חולץ-מרכב-נעול-בחדרה-ללא-פגע-266982
+https://news.walla.co.il/break/3836466
+https://hamal.co.il/main/פרשת-בהר-בחקתי-אלו-זמני-השבת-266979
+https://hamal.co.il/main/כטבם-אותר-על-גגת-בית-ספר-בגליל--תיעוד-266983
