@@ -1,6 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/נתניהו-נפגש-עם-266514
-https://hamal.co.il/main/מתפללים-שהיו-בדרכם-למירון-חסמו-את-צומת-מגידו-266516
+COUNTER:39
 https://news.walla.co.il/break/3835646
 https://news.walla.co.il/item/3835647
 https://news.walla.co.il/break/3835648
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836474
 https://news.walla.co.il/break/3836476
 https://hamal.co.il/main/ניגן-לחברים-בשבי-תרמו-לקמפיין-גיוס-ההמונים-לי-266986
 https://hamal.co.il/main/המקום-המסוכן-בעולם-266974
+https://hamal.co.il/main/ניסה-להימלט-מהשוטרים-דרס-מתנדב---ונעצר-266987
+https://hamal.co.il/main/צהל-לוחם-נפצע-באורח-קשה-2-נוספים-במצב-בינוני-266988
