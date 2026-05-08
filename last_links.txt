@@ -1,5 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3835725
 https://news.walla.co.il/break/3835730
 https://news.walla.co.il/item/3835723
 https://hamal.co.il/main/דיווח-בצרפת-ערוץ-14-בישראל-מואשם-בהסתה-לרצח-עם-266569
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836537
 https://news.walla.co.il/break/3836540
 https://hamal.co.il/main/3-ימי-הפסקת-אש-ברוסיה-ואוקראינה-267024
 https://news.walla.co.il/item/3836545
+https://news.walla.co.il/break/3836546
