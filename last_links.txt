@@ -1,6 +1,4 @@
 COUNTER:19
-https://hamal.co.il/main/המשטרה-מאות-אנשים-שהגיעו-למירון---הורחקו-מהאזור-266491
-https://hamal.co.il/main/עשתה-שיימינג-ללקוח-הטעות-של-השליחה-שתעלה-לה-ביוקר-266481
 https://news.walla.co.il/break/3835569
 https://news.walla.co.il/break/3835565
 https://hamal.co.il/main/נער-נעצר-בחשד-לתקיפת-266492
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836418
 https://news.walla.co.il/break/3836420
 https://hamal.co.il/main/האמירויות-מערכות-ההגנה-האוויריות-הופעלו-בשל-מתקפת-רחפנים-וט-266969
 https://hamal.co.il/main/בוושינגטון-ובירושלים-מעריכים-למרות-חילופי-האש---טראמפ-חותר-266970
+https://news.walla.co.il/break/3836421
+https://news.walla.co.il/break/3836422
