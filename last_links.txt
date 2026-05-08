@@ -1,7 +1,4 @@
 COUNTER:7
-https://news.walla.co.il/item/3835676
-https://hamal.co.il/main/ישיר-הצהרת-שר-המלחמה-האמריקני-וראש-המטות-המשולבים-266541
-https://hamal.co.il/main/חיזבאללה-שיגר-טילי-נט-ורחפנים-לעבר-כוחותינו---אין-נפגעים-266542
 https://news.walla.co.il/break/3835686
 https://news.walla.co.il/item/3835215
 https://news.walla.co.il/item/3835503
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836494
 https://hamal.co.il/main/איחוד-האמירויות-יירטנו-2-טילים-בליסטיים-ו-3-כטבמים-267002
 https://hamal.co.il/main/כוכבת-הילדים-חשפה-267001
 https://hamal.co.il/main/כוכבת-הילדים-חשפה-267003
+https://news.walla.co.il/break/3836497
+https://news.walla.co.il/break/3836499
+https://news.walla.co.il/item/3836495
