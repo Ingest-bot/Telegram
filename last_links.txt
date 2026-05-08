@@ -1,6 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3835605
-https://news.walla.co.il/item/3835601
+COUNTER:29
 https://hamal.co.il/main/שריפה-266500
 https://hamal.co.il/main/למה-ישראלים-עם-אסתמה-צריכים-להיות-מודאגים-בימים-אלו-266490
 https://hamal.co.il/main/מנו-266501
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836443
 https://hamal.co.il/main/צהל-באזהרת-פינוי-ל-6-כפרים-בדרום-לבנון-נפעל-בעוצמה-266975
 https://hamal.co.il/main/המשטרה-הודיעה-חקירת-רצח-ימנו-זלקה-הושלמה-והועברה-לפרקליטות-266976
 https://news.walla.co.il/item/3836443
+https://hamal.co.il/main/מזרחן-עונה-266977
+https://hamal.co.il/main/שינוי-היסטורי-בבריטניה-הישגים-גדולים-למפלגת-הימין-266978
