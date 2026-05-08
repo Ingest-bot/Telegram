@@ -1,5 +1,4 @@
 COUNTER:12
-https://news.walla.co.il/break/3835714
 https://news.walla.co.il/item/3835715
 https://hamal.co.il/main/העליון-מנע-ממושיקו-מור-לצאת-ממעצר-הבית-להופעה-266560
 https://news.walla.co.il/break/3835719
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836521
 https://news.walla.co.il/break/3836526
 https://news.walla.co.il/break/3836528
 https://hamal.co.il/main/שוגר-מיירט-לעבר-מטרה-חשודה-שזוהתה-בדרום-לבנון-267020
+https://news.walla.co.il/item/3836529
