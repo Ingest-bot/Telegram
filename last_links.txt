@@ -1,6 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3835773
-https://hamal.co.il/main/המהלך-שיגדיל-את-המכירות-של-התעשייה-האווירית-266584
+COUNTER:32
 https://hamal.co.il/main/תאונה-בעפולה-2-צעירות-כבנות-20-במצב-קשה-266596
 https://news.walla.co.il/break/3835777
 https://news.walla.co.il/break/3835778
@@ -499,3 +497,5 @@ https://hamal.co.il/main/התיקים-הסודיים-חושפים-עדויות-�
 https://news.walla.co.il/break/3836604
 https://hamal.co.il/main/שבת-שמשית-הישראלים-מבקרים-בהמוניהם-בשמורות-הטבע-267057
 https://hamal.co.il/main/סטוקהולם-מפגינים-קראו-לעצור-בכיר-ישראלי-שנאם-בכנס-AI-267058
+https://news.walla.co.il/item/3836609
+https://hamal.co.il/main/אירוע-אלימות-בערד-בן-30-פונה-במצב-קשה-267059
