@@ -1,8 +1,4 @@
-COUNTER:8
-https://hamal.co.il/main/תיעד-את-עצמו-נוסע-במהירות-266617
-https://hamal.co.il/main/תינוק-נכווה-ממים-רותחים-ביהוד-מצבו-בינוני-266618
-https://hamal.co.il/main/הדולר-בשפל-של-30-שנה-266619
-https://news.walla.co.il/break/3835840
+COUNTER:10
 https://news.walla.co.il/break/3835839
 https://hamal.co.il/main/אחותו-של-ימנו-זלקה-זל-266620
 https://hamal.co.il/main/בשל-הפרות-חיזבאללה-צהל-בהודעת-פינוי-ל-11-כפרים-בדרום-לבנון-266621
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3836624
 https://news.walla.co.il/break/3836661
 https://hamal.co.il/main/מחסני-אמלח-ומשגרים-תקיפות-צהל-לעבר-יעדי-חיזבאללה-בלבנון-267097
 https://hamal.co.il/main/לראשונה-האירוויזיון-אוכף-את-כללי-ההצבעה-החדשים---נגד-ישראל-267090
+https://news.walla.co.il/break/3836667
+https://news.walla.co.il/break/3836664
+https://hamal.co.il/main/אזעקה-בגליל-העליון-267103
+https://hamal.co.il/main/נער-בן-13-267104
