@@ -1,12 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בטרם-חצתה-ארצה-266575
-https://hamal.co.il/main/דרמה-משפטית-העליון-זיכה-נאשם-באונס-בת-82-266573
-https://news.walla.co.il/item/3835743
-https://hamal.co.il/main/המערכה-בלבנון-מעל-250-מחבלים-חוסלו-מנהרות-הושמדו--צפו-266530
-https://hamal.co.il/main/חברת-הענק-הישראלית-תפצה-עובדים-בכ-8-מיליון-שקל-266538
-https://hamal.co.il/main/חשד-לאלימות-במעון-בבאר-שבע-מפחדים-ממה-שעוד-ייחשף-266518
-https://hamal.co.il/main/יער-של-אנטנות-אוסטריה-חשפה-רשת-ריגול-בשגרירות-הרוסית-266521
-https://hamal.co.il/main/בעקבות-טראמפ-ארהב-מקבלת-גישה-מוקדמת-למודלי-AI-סגורים-266578
+COUNTER:18
 https://hamal.co.il/main/המשטרה-עצרה-אדם-בחשד-לתקיפת-איש-ציבור-266586
 https://news.walla.co.il/break/3835751
 https://news.walla.co.il/break/3835752
@@ -499,3 +491,11 @@ https://hamal.co.il/main/חילוץ-במסלול-טיול-ברמת-הגולן-ב
 https://news.walla.co.il/break/3836557
 https://hamal.co.il/main/ארגנטינה-סוכלה-הברחת-ענק-של-400-קג-קוקאין-במטוס-267027
 https://news.walla.co.il/break/3836565
+https://news.walla.co.il/break/3836569
+https://news.walla.co.il/break/3836570
+https://news.walla.co.il/break/3836571
+https://news.walla.co.il/break/3836572
+https://news.walla.co.il/break/3836574
+https://hamal.co.il/main/טראמפ-אני-מצפה-לתשובה-מאיראן-בקרוב-267028
+https://hamal.co.il/main/טראמפ-״פקיסטן-ביקשה-מאיתנו-לא-לעשות-את-פרוייקט-החירות״-267029
+https://hamal.co.il/main/פיפא-חושפת-פרטים-חדשים-על-טקס-פתיחת-המונדיאל-267031
