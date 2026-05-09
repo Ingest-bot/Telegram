@@ -1,5 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/עימות-ראשון-נעמה-שחר-תפגוש-את-החשוד-בפרשת-האונס-266635
+COUNTER:22
 https://news.walla.co.il/break/3835867
 https://news.walla.co.il/break/3835873
 https://hamal.co.il/main/רוכבת-266641
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836691
 https://hamal.co.il/main/ביתר-הפסידה-בחיפה-ובאר-שבע-ניצחה-את-פתח-תקווה-267127
 https://news.walla.co.il/break/3836692
 https://hamal.co.il/main/55-שנה-אחרי-הנחיתה-על-הירח-הפנטגון-חשף-מסמך-שנשמר-בסוד-267093
+https://hamal.co.il/main/לראשונה-מפרוץ-המלחמה-קטאר-מנסה-לשבור-את-המצור-בהורמוז-דניאל-267128
