@@ -1,7 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/חיזבאללה-שיגר-מספר-רקטות-לעבר-הכוחות-בדרום-לבנון-אין-נפגעים-266600
-https://hamal.co.il/main/יותר-מ-550-יחידות-של-חומרים-שיועדו-לייצור-מטענים-הוחרמו-266601
-https://news.walla.co.il/break/3835790
+COUNTER:35
 https://hamal.co.il/main/משרד-החוץ-האיראני-מכחיש-את-תקיפת-האמירויות-266602
 https://news.walla.co.il/break/3835793
 https://news.walla.co.il/break/3835795
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אחמד-אל-נעאמי-מרהט-נהרג-מירי-מ�
 https://news.walla.co.il/item/3836617
 https://hamal.co.il/main/2-פעילי-המשט-ההומניטרי-לרצועת-עזה-ישוחררו-היום-ממעצר-בישראל-267062
 https://news.walla.co.il/item/3836249
+https://news.walla.co.il/break/3836620
+https://news.walla.co.il/item/3836621
+https://hamal.co.il/main/פגיעת-כטבם-בגליל-המערבי-2-תושבים-פונו-חוסר-האמון-מעמיק-267071
