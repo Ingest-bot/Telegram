@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3835854
-https://news.walla.co.il/item/3835853
+COUNTER:18
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-תוצאות-היירוט-בבדיקה-266631
 https://hamal.co.il/main/גבר-נורה-בבני-ברק-מצבו-בינוני-266634
 https://news.walla.co.il/break/3835865
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הלחץ-במפרץ-גובר-והחשש-בישראל-מ
 https://news.walla.co.il/break/3836679
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267119
 https://hamal.co.il/main/ישראל-הקימה-מוצב-חשאי-בעיראק-כדי-לסייע-בתקיפות-על-איראן-267121
+https://news.walla.co.il/break/3836683
+https://hamal.co.il/main/גבר-בן-50-נהרג-בתאונת-דרכים-בקריית-אתא-267122
