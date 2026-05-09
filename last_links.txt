@@ -1,5 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3835766
+COUNTER:27
 https://news.walla.co.il/break/3835767
 https://news.walla.co.il/item/3835765
 https://news.walla.co.il/item/3835764
@@ -499,3 +498,4 @@ https://hamal.co.il/main/טורקיה-הציגה-טיל-בליסטי-מתקדם-
 https://news.walla.co.il/break/3836589
 https://news.walla.co.il/item/3836585
 https://hamal.co.il/main/הצגת-הטרלול-האחרונה-לפני-הבחירות-היכונו-למופע-ראווה-פיננסי-267046
+https://hamal.co.il/main/ביממה-האחרונה-צהל-תקף-יותר-מ-85-תשתיות-חיזבאללה-בלבנון-267048
