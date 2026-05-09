@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3835754
-https://news.walla.co.il/break/3835756
+COUNTER:23
 https://news.walla.co.il/break/3835757
 https://news.walla.co.il/break/3835755
 https://hamal.co.il/main/2-תינוקות-נמצאו-מעורפלי-הכרה-בי-ם-266517
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הקיץ-כבר-כאן-התחממות-נוספת-267032
 https://hamal.co.il/main/הסנאט-האמריקני-צפוי-לדון-בחוק-הקריפטו-בשבוע-הבא-267034
 https://news.walla.co.il/break/3836575
 https://hamal.co.il/main/רוכבת-אופניים-חשמליים-נפצעה-באורח-בינוני-בכביש-20-267035
+https://hamal.co.il/main/אירועי-אלימות-בתל-אביב-ובאשדוד-2-גברים-נפצעו-באורח-בינוני-267036
+https://hamal.co.il/main/רהט-חשוד-נורה-לאחר-שנמלט-ותקף-שוטרים-267038
