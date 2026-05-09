@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/תיעוד-סבתא-וחמישה-נכדים-נלכדו-על-מצוק-בדרכם-למירון---וחולצו-266608
-https://news.walla.co.il/break/3835812
-https://hamal.co.il/main/מזג-האוויר-הקור-ממשיך---מתי-יגיע-המהפך--התחזית-המלאה-266610
+COUNTER:4
 https://news.walla.co.il/break/3835825
 https://news.walla.co.il/break/3835823
 https://news.walla.co.il/item/3835818
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836631
 https://news.walla.co.il/break/3836640
 https://hamal.co.il/main/המשטרה-עצרה-3-חשודים-בתקיפה-חמורה-של-צעיר-בתל-אביב-267085
 https://hamal.co.il/main/רוסיה-מעבירה-לאיראן-חלקי-כטבמים-דרך-הים-הכספי-267084
+https://news.walla.co.il/break/3836644
+https://news.walla.co.il/item/3836642
+https://hamal.co.il/main/צהל-שלושה-לוחמי-מילואים-נפצעו-מפגיעת-רחפן-נפץ-בגבול-לבנון-267086
