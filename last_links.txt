@@ -1,10 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3835839
-https://hamal.co.il/main/אחותו-של-ימנו-זלקה-זל-266620
-https://hamal.co.il/main/בשל-הפרות-חיזבאללה-צהל-בהודעת-פינוי-ל-11-כפרים-בדרום-לבנון-266621
-https://news.walla.co.il/break/3835846
-https://news.walla.co.il/break/3835847
-https://news.walla.co.il/break/3835849
+COUNTER:13
 https://news.walla.co.il/break/3835850
 https://news.walla.co.il/break/3835851
 https://news.walla.co.il/item/3835848
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3836667
 https://news.walla.co.il/break/3836664
 https://hamal.co.il/main/אזעקה-בגליל-העליון-267103
 https://hamal.co.il/main/נער-בן-13-267104
+https://news.walla.co.il/break/3836668
+https://news.walla.co.il/break/3836669
+https://news.walla.co.il/item/3836653
+https://hamal.co.il/main/ההתרעה-בגליל-העליון---רקטה-נפלה-בשטח-פתוח-267107
+https://hamal.co.il/main/חדשות-השבת-267106
+https://hamal.co.il/main/אזעקות-בישובים-רבים-בגליל-המערבי-267112
