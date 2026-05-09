@@ -1,5 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/המשטרה-עצרה-אדם-בחשד-לתקיפת-איש-ציבור-266586
+COUNTER:19
 https://news.walla.co.il/break/3835751
 https://news.walla.co.il/break/3835752
 https://news.walla.co.il/break/3835753
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836574
 https://hamal.co.il/main/טראמפ-אני-מצפה-לתשובה-מאיראן-בקרוב-267028
 https://hamal.co.il/main/טראמפ-״פקיסטן-ביקשה-מאיתנו-לא-לעשות-את-פרוייקט-החירות״-267029
 https://hamal.co.il/main/פיפא-חושפת-פרטים-חדשים-על-טקס-פתיחת-המונדיאל-267031
+https://hamal.co.il/main/הקיץ-כבר-כאן-התחממות-נוספת-267032
