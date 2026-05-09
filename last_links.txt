@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/2-פצועים-אנוש-ופצוע-קשה-בקלנסווה-266605
-https://hamal.co.il/main/איראן-שמונה-הרוגים-בשריפה-במרכז-קניות-ממערב-לטהראן-266606
-https://news.walla.co.il/item/3835801
+COUNTER:1
 https://news.walla.co.il/item/3835796
 https://hamal.co.il/main/שר-החוץ-הסיני-וואנג-יי-שוחח-עם-שר-החוץ-האיראני-עראקצי-266607
 https://news.walla.co.il/break/3835803
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836626
 https://news.walla.co.il/item/3836628
 https://hamal.co.il/main/ההתרעה-בגליל-המערבי---זיהוי-שווא-267079
 https://hamal.co.il/main/דיווחים-בלבנון-גל-תקיפות-רב-היקף-במדינה-267080
+https://news.walla.co.il/break/3836629
+https://news.walla.co.il/break/3836630
+https://hamal.co.il/main/ילד-בן-5-נפל-מגובה-בצפון-ונפצע-קשה-267081
