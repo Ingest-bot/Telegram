@@ -1,6 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3835765
-https://news.walla.co.il/item/3835764
+COUNTER:29
 https://hamal.co.il/main/חוזרים-למלחמה-הממשלה-מאשרת-את-הארכת-מצב-החירום-בשבועיים-266593
 https://hamal.co.il/main/בעקבות-המשבר-בהורמוז-ישראל-תעביר-לגרמניה-דלק-סילוני-266595
 https://news.walla.co.il/item/3835772
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3836585
 https://hamal.co.il/main/הצגת-הטרלול-האחרונה-לפני-הבחירות-היכונו-למופע-ראווה-פיננסי-267046
 https://hamal.co.il/main/ביממה-האחרונה-צהל-תקף-יותר-מ-85-תשתיות-חיזבאללה-בלבנון-267048
 https://news.walla.co.il/break/3836597
+https://hamal.co.il/main/לקראת-חידוש-הלחימה-עם-איראן-ארהב-מתגברת-כוחות-267050
+https://hamal.co.il/main/התיקים-הסודיים-חושפים-עדויות-על-היצורים-שיצאו-מהעבמים-267054
