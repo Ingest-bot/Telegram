@@ -1,6 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/חלום-הפיינל-פור-עדיין-בחיים-מהפך-ענק-להפועל-תל-אביב-266589
-https://hamal.co.il/main/עצוב-נמצאה-גופתה-של-הישראלית-הנעדרת-ביפן-266590
+COUNTER:26
 https://news.walla.co.il/break/3835766
 https://news.walla.co.il/break/3835767
 https://news.walla.co.il/item/3835765
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מעונן-חלקית-וקפיצה-נוספת-בטמפ�
 https://news.walla.co.il/break/3836579
 https://hamal.co.il/main/טורקיה-הציגה-טיל-בליסטי-מתקדם-שיכול-לשאת-פצצת-אטום-267045
 https://news.walla.co.il/break/3836589
+https://news.walla.co.il/item/3836585
+https://hamal.co.il/main/הצגת-הטרלול-האחרונה-לפני-הבחירות-היכונו-למופע-ראווה-פיננסי-267046
