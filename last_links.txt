@@ -1,7 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/התקדמות-משמעותית-או-מצמוץ-של-טראמפ-266609
-https://news.walla.co.il/item/3835833
-https://hamal.co.il/main/צהל-תקף-מבנים-של-חיזבאללה-בדרום-לבנון-מספר-מחבלים-חוסלו-266616
+COUNTER:8
 https://hamal.co.il/main/תיעד-את-עצמו-נוסע-במהירות-266617
 https://hamal.co.il/main/תינוק-נכווה-ממים-רותחים-ביהוד-מצבו-בינוני-266618
 https://hamal.co.il/main/הדולר-בשפל-של-30-שנה-266619
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ילד-בן-3-נפצע-קשה-מחפץ-כבד-בטמר�
 https://news.walla.co.il/break/3836657
 https://news.walla.co.il/item/3836658
 https://news.walla.co.il/item/3836624
+https://news.walla.co.il/break/3836661
+https://hamal.co.il/main/מחסני-אמלח-ומשגרים-תקיפות-צהל-לעבר-יעדי-חיזבאללה-בלבנון-267097
+https://hamal.co.il/main/לראשונה-האירוויזיון-אוכף-את-כללי-ההצבעה-החדשים---נגד-ישראל-267090
