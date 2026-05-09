@@ -1,6 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/break/3835793
-https://news.walla.co.il/break/3835795
+COUNTER:37
 https://news.walla.co.il/break/3835797
 https://news.walla.co.il/break/3835798
 https://news.walla.co.il/break/3835800
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836620
 https://news.walla.co.il/item/3836621
 https://hamal.co.il/main/פגיעת-כטבם-בגליל-המערבי-2-תושבים-פונו-חוסר-האמון-מעמיק-267071
 https://hamal.co.il/main/איראן-הודיעה-נשתתף-במונדיאל---אבל-גם-הציבה-תנאים-267074
+https://news.walla.co.il/break/3836623
+https://hamal.co.il/main/גבר-בן-30-נפצע-קשה-באירוע-אלימות-באזור-ירושלים-267075
