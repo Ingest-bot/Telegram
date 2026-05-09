@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3835777
 https://news.walla.co.il/break/3835778
 https://news.walla.co.il/break/3835779
 https://hamal.co.il/main/חשד-לתקיפה-במרכז-תל-אביב-פעיל-ימין-ירק-על-אהוד-אולמרט-266599
@@ -499,3 +498,4 @@ https://hamal.co.il/main/סטוקהולם-מפגינים-קראו-לעצור-ב�
 https://news.walla.co.il/item/3836609
 https://hamal.co.il/main/אירוע-אלימות-בערד-בן-30-פונה-במצב-קשה-267059
 https://news.walla.co.il/break/3836614
+https://news.walla.co.il/break/3836615
