@@ -1,6 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3835825
-https://news.walla.co.il/break/3835823
+COUNTER:5
 https://news.walla.co.il/item/3835818
 https://hamal.co.il/main/ברקע-ההתפתחויות-בתיק-חקירתו-של-אייל-גולן-נדחתה-266613
 https://news.walla.co.il/item/3835814
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רוסיה-מעבירה-לאיראן-חלקי-כטבמ�
 https://news.walla.co.il/break/3836644
 https://news.walla.co.il/item/3836642
 https://hamal.co.il/main/צהל-שלושה-לוחמי-מילואים-נפצעו-מפגיעת-רחפן-נפץ-בגבול-לבנון-267086
+https://news.walla.co.il/break/3836651
+https://hamal.co.il/main/צהל-ושבכ-השמידו-אתר-ייצור-אמלח-בצפון-הרצועה-267087
