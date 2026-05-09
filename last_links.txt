@@ -1,6 +1,4 @@
 COUNTER:19
-https://news.walla.co.il/item/3835858
-https://news.walla.co.il/item/3835861
 https://hamal.co.il/main/סוכלה-הברחת-אמלח-ממצרים-4-נשקים-נתפסו-266637
 https://hamal.co.il/main/התאונה-בעפולה-נקבע-מותה-של-הנערה-שנפצעה-בדריסה-266638
 https://hamal.co.il/main/הוא-ביצע-פעולות-החייאה-הזמר-שהציל-חיים-באמצע-הלילה-ברחובו-266640
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גבר-בן-50-נהרג-בתאונת-דרכים-בקר�
 https://news.walla.co.il/item/3836684
 https://news.walla.co.il/item/3836683
 https://hamal.co.il/main/משפחת-זלקה-במחאה-על-האישום-המסתמן-נגד-החשוד-ברצח-בנם-267125
+https://news.walla.co.il/break/3836690
+https://news.walla.co.il/break/3836691
