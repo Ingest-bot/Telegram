@@ -1,7 +1,4 @@
 COUNTER:6
-https://news.walla.co.il/item/3835814
-https://news.walla.co.il/item/3835828
-https://news.walla.co.il/item/3835805
 https://hamal.co.il/main/התקדמות-משמעותית-או-מצמוץ-של-טראמפ-266609
 https://news.walla.co.il/item/3835833
 https://hamal.co.il/main/צהל-תקף-מבנים-של-חיזבאללה-בדרום-לבנון-מספר-מחבלים-חוסלו-266616
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3836651
 https://hamal.co.il/main/צהל-ושבכ-השמידו-אתר-ייצור-אמלח-בצפון-הרצועה-267087
 https://news.walla.co.il/item/3836654
 https://hamal.co.il/main/ילד-בן-3-נפצע-קשה-מחפץ-כבד-בטמרה-267088
+https://news.walla.co.il/break/3836657
+https://news.walla.co.il/item/3836658
+https://news.walla.co.il/item/3836624
