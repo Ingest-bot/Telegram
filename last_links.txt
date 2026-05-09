@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3835752
-https://news.walla.co.il/break/3835753
+COUNTER:21
 https://news.walla.co.il/break/3835754
 https://news.walla.co.il/break/3835756
 https://news.walla.co.il/break/3835757
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-״פקיסטן-ביקשה-מאיתנו-לא-
 https://hamal.co.il/main/פיפא-חושפת-פרטים-חדשים-על-טקס-פתיחת-המונדיאל-267031
 https://hamal.co.il/main/הקיץ-כבר-כאן-התחממות-נוספת-267032
 https://hamal.co.il/main/הסנאט-האמריקני-צפוי-לדון-בחוק-הקריפטו-בשבוע-הבא-267034
+https://news.walla.co.il/break/3836575
+https://hamal.co.il/main/רוכבת-אופניים-חשמליים-נפצעה-באורח-בינוני-בכביש-20-267035
