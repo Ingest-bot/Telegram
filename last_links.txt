@@ -1,6 +1,4 @@
 COUNTER:1
-https://news.walla.co.il/item/3835796
-https://hamal.co.il/main/שר-החוץ-הסיני-וואנג-יי-שוחח-עם-שר-החוץ-האיראני-עראקצי-266607
 https://news.walla.co.il/break/3835803
 https://news.walla.co.il/item/3835793
 https://news.walla.co.il/break/3835811
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווחים-בלבנון-גל-תקיפות-רב-הי
 https://news.walla.co.il/break/3836629
 https://news.walla.co.il/break/3836630
 https://hamal.co.il/main/ילד-בן-5-נפל-מגובה-בצפון-ונפצע-קשה-267081
+https://news.walla.co.il/break/3836638
+https://news.walla.co.il/item/3836631
