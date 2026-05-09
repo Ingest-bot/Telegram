@@ -1,5 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3835751
+COUNTER:20
 https://news.walla.co.il/break/3835752
 https://news.walla.co.il/break/3835753
 https://news.walla.co.il/break/3835754
@@ -499,3 +498,4 @@ https://hamal.co.il/main/טראמפ-אני-מצפה-לתשובה-מאיראן-ב
 https://hamal.co.il/main/טראמפ-״פקיסטן-ביקשה-מאיתנו-לא-לעשות-את-פרוייקט-החירות״-267029
 https://hamal.co.il/main/פיפא-חושפת-פרטים-חדשים-על-טקס-פתיחת-המונדיאל-267031
 https://hamal.co.il/main/הקיץ-כבר-כאן-התחממות-נוספת-267032
+https://hamal.co.il/main/הסנאט-האמריקני-צפוי-לדון-בחוק-הקריפטו-בשבוע-הבא-267034
