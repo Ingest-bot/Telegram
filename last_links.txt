@@ -1,9 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/דיווח-איראן-עשויה-למסור-את-צגובתה-להצעה-האמריקאית-266846
-https://hamal.co.il/main/בתוך-קולט-אדים-אקדח-אותר-בדירה-ביפו-266847
-https://news.walla.co.il/item/3836186
-https://hamal.co.il/main/מו״מ-״אפילו-לא-התחלה-האיראנים-לא-מוכנים-לוויתורים-דרמטיים-266839
-https://hamal.co.il/main/צהל-מאשר-חוסל-מפקד-כוח-רדואן-בחיזבאללה-266854
+COUNTER:28
 https://news.walla.co.il/break/3836194
 https://hamal.co.il/main/צניחה-חופשית-הדולר-צולל-מתחת-ל-29-שקלים---לראשונה-מאז-1993-266851
 https://news.walla.co.il/break/3836204
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837018
 https://news.walla.co.il/break/3837016
 https://news.walla.co.il/break/3837019
 https://hamal.co.il/main/הגראנד-פינלה-הזוגות-של-המירוץ-למיליון-צופים-ביחד-בגמר-267293
+https://news.walla.co.il/break/3837023
+https://news.walla.co.il/break/3837024
+https://hamal.co.il/main/סיכום-שבוע-מבצעי-במחוז-שי-עשרות-עצורים-וסיכול-טרור-267297
+https://hamal.co.il/main/האזעקות-בצפון-חיל-האוויר-יירט-מטרה-חשודה-שחצתה-מלבנון-267298
+https://hamal.co.il/main/זכו-בכל-הקופה-אלמוג-וטום-הם-הזוכים-בגמר-המרוץ-למיליון-267285
