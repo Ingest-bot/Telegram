@@ -1,5 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/הנשיא-טראמפ-לרשת-פוקס-ניוז-לאיראן-יש-שבוע-266755
+COUNTER:31
 https://hamal.co.il/main/ביתר-ירושלים-ניצחה-01-את-הפועל-תל-אביב-266757
 https://news.walla.co.il/break/3836071
 https://hamal.co.il/main/נאסא-קלטה-מהחלל-תופעה-מדאיגה-עיר-הבירה-העצומה-שוקעת-ונעלמת-266689
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836912
 https://news.walla.co.il/item/3836886
 https://news.walla.co.il/item/3836913
 https://hamal.co.il/main/ירי-בתוך-הנגמש-פלג-נגד-קושמרו-בכיין-סדרתי-267196
+https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הצורך-בהרתחת-מים-בכפר-עגר-267198
