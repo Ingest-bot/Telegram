@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/item/3835879
-https://hamal.co.il/main/חוליית-מחבלי-חמאס-חוסלה-בצפון-הרצועה--תיעוד-266649
-https://hamal.co.il/main/בפקיסטן-מאשרים-266650
+COUNTER:35
 https://hamal.co.il/main/נושאים-את-לפיד-הזיכרון-מפקדי-הפלוגות-העתידייםבמשלחת-לפולין-266651
 https://hamal.co.il/main/צהל-2-לוחמים-נפצעו-באורח-בינוני-וקל-בדרום-לבנון-266652
 https://hamal.co.il/main/חשודים-בתכנון-פיגוע-2-שבחים-נעצרו-בשרון--צפו-266653
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836720
 https://hamal.co.il/main/בשל-משאית-שהתהפכה-עומס-כבד-בכביש-1-שנסגר-חלקית-לתנועה-267138
 https://hamal.co.il/main/אקדח-אפוד-צה״לי-ודגל-אשף-נתפסו-במזרח-י-ם-חשוד-נעצר-267139
 https://hamal.co.il/main/רכש-מותג-יוקרה-תושב-אפרת-נעצר-בחשד-שגנב-כסף-מכרטיס-אשראי-267140
+https://news.walla.co.il/break/3836728
+https://news.walla.co.il/item/3836727
+https://hamal.co.il/main/איראן-מאיימת-אם-267141
