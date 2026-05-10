@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/באיראן-טוענים-הצעת-ארהב-כוללת-סעיפים-לא-מקובלים-266671
-https://hamal.co.il/main/גורם-ישראלי-266672
+COUNTER:7
 https://hamal.co.il/main/נער-בן-12-נפצע-קשה-מפגיעת-רכב-בכניסה-לחורה-266673
 https://hamal.co.il/main/נערכים-לעימות-ישיר-עם-איראן-צבא-ארהב-מתגבר-כוחות-בישראל-266668
 https://news.walla.co.il/break/3836010
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3836811
 https://news.walla.co.il/item/3836796
 https://hamal.co.il/main/אדם-נכנס-למסלול-בשדה-תעופה-ונשאב-לתוך-מנוע-המטוס-267153
 https://hamal.co.il/main/בלי-בישול-ובלי-מאמץ-מומחית-לתזונה-חושפת-את-החלבון-הצמחי-הכי-267146
+https://news.walla.co.il/break/3836814
+https://hamal.co.il/main/בעירא-267163
