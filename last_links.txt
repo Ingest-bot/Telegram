@@ -1,6 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-בנבטיה-266840
-https://news.walla.co.il/item/3836165
+COUNTER:23
 https://news.walla.co.il/item/3836162
 https://hamal.co.il/main/ביהמ״ש-הורה-לנתניהו-מסור-את-התיק-הרפואי-במעטפה-סגורה-266841
 https://hamal.co.il/main/לוחמי-חטיבת-החשמונאים-ציינו-סיום-מסלול-266842
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הסוד-ללילה-בריא-יותר-7-מאכלים-ש
 https://hamal.co.il/main/״לא-רוצה-לריב-אתכם-התיעוד-החדש-שחושף-דקות-לפני-רצח-זלקה-267271
 https://news.walla.co.il/item/3837007
 https://hamal.co.il/main/בעקבות-המפלה-בבחירות-אתגר-ראשון-לסטארמר-מתוך-הלייבור-267174
+https://news.walla.co.il/item/3837011
+https://hamal.co.il/main/נועה-קירל-חשפה-267166
