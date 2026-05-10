@@ -1,8 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/התרעה-על-אירוע-ביטחוני-הופעלה-במיצד-כוחותינו-סורקים-266758
-https://hamal.co.il/main/אבק-כוכבים-צנינג-טייטום-מצטרף-לסרט-על-פי-הסיפור-הישראלי-266693
-https://news.walla.co.il/break/3836081
-https://news.walla.co.il/break/3836084
+COUNTER:38
 https://hamal.co.il/main/דובר-צהל-על-האירוע-במיצד-אין-חשש-לאירוע-ביטחוני-266759
 https://hamal.co.il/main/סחט-מחיאות-כפיים-נועם-בתן-ערך-את-החזרה-השנייה-לאירוויזיון-266739
 https://hamal.co.il/main/טד-טרנר-מייסד-CNN-ומהפכן-הטלוויזיה-הלך-לעולמו-בגיל-87-266720
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3836925
 https://news.walla.co.il/break/3836923
 https://news.walla.co.il/item/3836878
 https://hamal.co.il/main/צפו-שיתוף-פעולה-בין-מפעיל-כלי-טיס-מאויש-לקצין-בחטיבת-כפיר-267209
+https://news.walla.co.il/break/3836929
+https://hamal.co.il/main/תאונה-קטלנית-267213
+https://hamal.co.il/main/עושים-את-זה-רשמי-שני-אדרי-ויובל-לוי-בזוגיות-267212
+https://hamal.co.il/main/שוטרי-מרחב-אילת-עצרו-שני-חשודים-בחשד-לשריפת-כלב-267216
