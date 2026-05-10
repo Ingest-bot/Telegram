@@ -1,11 +1,4 @@
 COUNTER:17
-https://hamal.co.il/main/בתום-מרדף-גבר-נעצר-על-טרקטורון-כשהוא-חמוש-באקדח-266816
-https://hamal.co.il/main/דיווח-שני-הרוגים-בתקיפה-אווירית-בכפר-חבוש-בדרום-לבנון-266820
-https://news.walla.co.il/break/3836133
-https://news.walla.co.il/item/3836129
-https://hamal.co.il/main/כוחות-צה״ל-סיכלו-ניסיון-הברחה-של-11-אקדחים-בגבול-המזרחי-266822
-https://hamal.co.il/main/לא-כיף-לא-שווה-את-זה-מכתב-ההתאבדות-של-גפרי-אפשטיין-נחשף-266819
-https://news.walla.co.il/break/3836138
 https://hamal.co.il/main/דיווח-ארה״ב-תמשיך-לתמוך-בעיראק---אם-תנקוט-צעדים-נגד-המליציו-266825
 https://news.walla.co.il/break/3836150
 https://news.walla.co.il/item/3836145
@@ -499,3 +492,10 @@ https://hamal.co.il/main/בזכות-ישראל-וטום-קרוז-ה-F-14-המי�
 https://news.walla.co.il/item/3836981
 https://hamal.co.il/main/הייתי-יורה-לו-כדור-בראש-נחשף-הקבלן-שאיים-על-השר-בן-גביר-267242
 https://hamal.co.il/main/הכנפיים-של-דיקסי-יהיו-שם-פסטיבל-האוכל-של-תל-אביב-יוצא-לדרך-267225
+https://news.walla.co.il/break/3836991
+https://news.walla.co.il/break/3836992
+https://news.walla.co.il/break/3836985
+https://news.walla.co.il/break/3836989
+https://news.walla.co.il/break/3836988
+https://news.walla.co.il/item/3836979
+https://news.walla.co.il/item/3836990
