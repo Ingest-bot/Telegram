@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/צה״ל-תקף-יותר-מ-15-תשתיות-של-חיזבאללה-266826
-https://hamal.co.il/main/באיראן-מאוד-חוששים-מחידוש-הלחימה-266829
-https://news.walla.co.il/break/3836158
-https://news.walla.co.il/break/3836159
-https://news.walla.co.il/break/3836162
+COUNTER:21
 https://news.walla.co.il/item/3836152
 https://hamal.co.il/main/גרפיטי-רוסס-מחוץ-לאולפני-חדשות-12-קשת-12-הבוגדים-266836
 https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-בנבטיה-266840
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3836996
 https://hamal.co.il/main/ילדה-בת-15-קיבלה-מכת-חום-בטיול-שנתי---מצבה-קשה-267267
 https://news.walla.co.il/item/3836996
 https://hamal.co.il/main/טראמפ-איראן-משחקת-משחקים-עם-ארהב-ועם-שאר-העולם-267272
+https://news.walla.co.il/break/3837001
+https://news.walla.co.il/break/3837000
+https://news.walla.co.il/item/3837002
+https://hamal.co.il/main/הסוד-ללילה-בריא-יותר-7-מאכלים-שעובדים-בזמן-שאתם-ישנים-267275
+https://hamal.co.il/main/״לא-רוצה-לריב-אתכם-התיעוד-החדש-שחושף-דקות-לפני-רצח-זלקה-267271
