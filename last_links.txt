@@ -1,5 +1,4 @@
 COUNTER:27
-https://hamal.co.il/main/אקדח-266646
 https://news.walla.co.il/break/3835899
 https://hamal.co.il/main/צהל-רחפן-נפץ-של-חיזבאללה-נפל-בשטח-ישראל-אין-נפגעים-266647
 https://news.walla.co.il/break/3835903
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3836674
 https://hamal.co.il/main/ארהב-שר-החוץ-רוביו-נועד-עם-ראש-ממשלת-קטאר-לדון-בשיתוף-פעול-267131
 https://hamal.co.il/main/פוטין-הודיע-כי-רוסיה-קרובה-לעסקת-אנרגיה-משמעותית-עם-סין-רויט-267132
 https://hamal.co.il/main/בריטניה-שגריר-סין-זומן-בעקבות-הרשעת-שני-גברים-בריגול-מערכת-267133
+https://news.walla.co.il/break/3836713
