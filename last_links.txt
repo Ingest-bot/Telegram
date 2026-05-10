@@ -1,10 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3836104
-https://news.walla.co.il/break/3836106
-https://news.walla.co.il/item/3836100
-https://hamal.co.il/main/צפון-קוריאה-הודיעה-כי-היא-אינה-מחויבת-לאמנה-למניעת-הפצת-נשק-266791
-https://hamal.co.il/main/טראמפ-המלחמה-באיראן-תסתיים-במהירות-266792
-https://hamal.co.il/main/האיחוד-האירופי-התקדמות-במומ-להסכם-סחר-עם-ארצות-הברית-266793
+COUNTER:6
 https://hamal.co.il/main/דיווח-וושינגטון-ובייגינג-בוחנות-שיחות-על-בינה-מלאכותית-266795
 https://news.walla.co.il/break/3836108
 https://news.walla.co.il/break/3836110
@@ -499,3 +493,9 @@ https://hamal.co.il/main/תגובת-טהראן-להצעה-האמריקנית-מ�
 https://news.walla.co.il/item/3836937
 https://hamal.co.il/main/תיעוד-שלא-רואים-כל-יום-מדוזה-ענקית-נצפתה-באילת-267229
 https://hamal.co.il/main/שריפת-קוצים-בחדרה--לוחמי-האש-פועלים-לבלימת-התפשטות-האש-267232
+https://news.walla.co.il/break/3836956
+https://news.walla.co.il/break/3836957
+https://news.walla.co.il/item/3836954
+https://hamal.co.il/main/בעקבות-הפסקת-האש-חתונה-יהודית-המונית-נערכה-בקייב-267235
+https://hamal.co.il/main/משרד-הבריאות-עדכן-על-חולה-חצבת-ששהה-במלון-דן-באילת-267237
+https://hamal.co.il/main/צהל-חיסל-מחבלי-נוחבה-ומחבלים-נוספים-שהיוו-איום-על-כוחותינו-267243
