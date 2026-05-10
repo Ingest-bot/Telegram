@@ -1,5 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3835992
+COUNTER:4
 https://news.walla.co.il/item/3835993
 https://hamal.co.il/main/מקורות-איראניים-המומ-מתמקד-בסיום-המלחמה-ולא-בנושא-הגרעין-266664
 https://news.walla.co.il/break/3835995
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3836774
 https://news.walla.co.il/break/3836778
 https://news.walla.co.il/item/3836772
 https://hamal.co.il/main/פרץ-ל-2-בתי-קפה-בתא-267155
+https://hamal.co.il/main/הילל-את-חמאס-תושב-רהט-נאשם-בהסתה-לטרור-267156
