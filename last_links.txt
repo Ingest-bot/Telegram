@@ -1,8 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-במהלך-עבודתו-בבני-ברק-266697
-https://hamal.co.il/main/גורם-מדיני-הובהר-לנו-שטראמפ-עומד-על-הקווים-האדומים-שלו-266698
-https://hamal.co.il/main/משרד-הבריאות-תן-נגוע-בכלבת-באזור-חקלאי-סמוך-לישוב-ריחאניה-266704
-https://hamal.co.il/main/עם-פנים-חבושות-מה-קרה-לנטלי-דדון-266675
+COUNTER:11
 https://hamal.co.il/main/טראמפ--איראן-תעביר-את-האורניום-המועשר-לארה״ב-266709
 https://news.walla.co.il/break/3836024
 https://hamal.co.il/main/הרצוג-נחת-בפנמה-והחל-את-ביקורו-הרשמי-וההיסטורי-במרכז-אמריקה-266713
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3836834
 https://news.walla.co.il/break/3836838
 https://hamal.co.il/main/פרשת-הונאת-הנדל״ן-הצהרת-תובע-נגד-״הקמב״ץ-של-חסידות-גור-267165
 https://hamal.co.il/main/מיקי-זוהר-267167
+https://news.walla.co.il/item/3836788
+https://news.walla.co.il/item/3836851
+https://hamal.co.il/main/כץ-נעץ-סכין-בגבי-טלי-גוטליב-במתקפה-חריפה-על-שר-הביטחון-267168
+https://hamal.co.il/main/אחת-המדינות-המבודדות-ביותר-בעולם-נפתחת-למבקרים-267149
