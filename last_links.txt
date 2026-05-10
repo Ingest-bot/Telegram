@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3836121
-https://news.walla.co.il/break/3836123
-https://news.walla.co.il/item/3836120
+COUNTER:15
 https://news.walla.co.il/break/3836127
 https://news.walla.co.il/item/3836125
 https://hamal.co.il/main/חגיגה-באסיה-הבורסות-בשיא-כל-הזמנים-266813
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836963
 https://hamal.co.il/main/איראן-מאיימת-על-הכבלים-התת-ימיים-במצר-הורמוז-267221
 https://hamal.co.il/main/ההתרעות-בזרעית-ושומרה-שוגרו-מיירטים-למטרות-חשודות-267262
 https://hamal.co.il/main/צה״ל-תקף-מחסני-אמצעי-לחימה-משגרים-ומפקדות-של-חיזבאללה-267265
+https://news.walla.co.il/item/3836977
+https://hamal.co.il/main/האם-המדינה-תוריד-את-מחירי-הסיגריות-האלקטרוניות-267256
+https://hamal.co.il/main/בזכות-ישראל-וטום-קרוז-ה-F-14-המיתולוגי-יחזור-לטוס-בארהב-267253
