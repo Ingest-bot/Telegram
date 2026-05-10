@@ -1,9 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/שר-החוץ-הפקיסטני-שואפים-שהפסקת-האש-תסיים-את-המלחמה-266659
-https://news.walla.co.il/break/3835955
-https://news.walla.co.il/item/3835954
-https://hamal.co.il/main/נתפסו-בשעת-מעשה-2-נערים-נעצרו-בחשד-לסחר-בסמים--תיעוד-266660
-https://hamal.co.il/main/החל-ממחר-זמן-ההתגוננות-יוארך-266661
+COUNTER:1
 https://news.walla.co.il/break/3835966
 https://hamal.co.il/main/טראמפ-מאשר-ארהב-ואיראן-קרובות-להסכם-266663
 https://news.walla.co.il/break/3835976
@@ -499,3 +494,8 @@ https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-חשודה-ב
 https://hamal.co.il/main/במהלך-הסופש-מעל-40-תשתיות-חיזבאללה-הושמדו-10-מחבלים-חוסלו-267145
 https://news.walla.co.il/break/3836748
 https://news.walla.co.il/break/3836750
+https://news.walla.co.il/break/3836756
+https://news.walla.co.il/break/3836760
+https://news.walla.co.il/item/3836758
+https://hamal.co.il/main/בפעם-ה-2-היום-יורטוה-מטרה-אווירית-חשודה-בדרום-לבנון-267150
+https://hamal.co.il/main/בפעם-ה-2-היום-יורטוה-מטרה-אווירית-חשודה-בדרום-לבנון-267151
