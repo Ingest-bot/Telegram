@@ -1,7 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/נועם-בתן-עשה-זאת-שוב-קבלו-הצצה-למישל-על-הבמה-מתוך-החזרות-266783
-https://news.walla.co.il/break/3836098
-https://hamal.co.il/main/הירי-לצפון-אזעקות-בגליל-העליון-התרעות-חדירת-כטבם-בקש-266788
+COUNTER:1
 https://news.walla.co.il/break/3836101
 https://news.walla.co.il/break/3836103
 https://news.walla.co.il/break/3836102
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3836920
 https://news.walla.co.il/item/3836934
 https://hamal.co.il/main/התגובה-של-מיקי-גבע-לסערת-הליכודיאדה-בחדשות-12-267178
 https://hamal.co.il/main/הרמטכל-חמאס-נמצא-במצוקה-אדירה-למעלה-מ-50-מהשטח-בידינו-267217
+https://news.walla.co.il/break/3836945
+https://news.walla.co.il/break/3836946
+https://hamal.co.il/main/תגובת-טהראן-להצעה-האמריקנית-מתמקדת-בסיום-המלחמה-בכל-הזירות-267218
