@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3836116
-https://hamal.co.il/main/דיווח-טראמפ-ביטל-את-המבצע-בהורמוז-בשל-התנגדות-סעודיה-266807
-https://hamal.co.il/main/רב-נעצר-בחשד-לביצוע-עבירות-מין-חמורות-266808
+COUNTER:13
 https://news.walla.co.il/break/3836121
 https://news.walla.co.il/break/3836123
 https://news.walla.co.il/item/3836120
@@ -499,3 +496,6 @@ https://hamal.co.il/main/האזעקות-בצפון-הארץ-שוגרו-מייר�
 https://news.walla.co.il/break/3836968
 https://news.walla.co.il/item/3836969
 https://news.walla.co.il/item/3836963
+https://hamal.co.il/main/איראן-מאיימת-על-הכבלים-התת-ימיים-במצר-הורמוז-267221
+https://hamal.co.il/main/ההתרעות-בזרעית-ושומרה-שוגרו-מיירטים-למטרות-חשודות-267262
+https://hamal.co.il/main/צה״ל-תקף-מחסני-אמצעי-לחימה-משגרים-ומפקדות-של-חיזבאללה-267265
