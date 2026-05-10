@@ -1,6 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/item/3836162
-https://hamal.co.il/main/ביהמ״ש-הורה-לנתניהו-מסור-את-התיק-הרפואי-במעטפה-סגורה-266841
+COUNTER:24
 https://hamal.co.il/main/לוחמי-חטיבת-החשמונאים-ציינו-סיום-מסלול-266842
 https://news.walla.co.il/break/3836171
 https://news.walla.co.il/break/3836173
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3837007
 https://hamal.co.il/main/בעקבות-המפלה-בבחירות-אתגר-ראשון-לסטארמר-מתוך-הלייבור-267174
 https://news.walla.co.il/item/3837011
 https://hamal.co.il/main/נועה-קירל-חשפה-267166
+https://news.walla.co.il/item/3837014
+https://hamal.co.il/main/בכירים-אמריקנים-טראמפ-צפוי-לדרוש-מסין-להפעיל-לחץ-על-טהרן-267279
