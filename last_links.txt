@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/item/3836145
-https://news.walla.co.il/item/3836021
+COUNTER:19
 https://hamal.co.il/main/צה״ל-תקף-יותר-מ-15-תשתיות-של-חיזבאללה-266826
 https://hamal.co.il/main/באיראן-מאוד-חוששים-מחידוש-הלחימה-266829
 https://news.walla.co.il/break/3836158
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3836979
 https://news.walla.co.il/item/3836990
 https://news.walla.co.il/break/3836996
 https://hamal.co.il/main/ילדה-בת-15-קיבלה-מכת-חום-בטיול-שנתי---מצבה-קשה-267267
+https://news.walla.co.il/item/3836996
+https://hamal.co.il/main/טראמפ-איראן-משחקת-משחקים-עם-ארהב-ועם-שאר-העולם-267272
