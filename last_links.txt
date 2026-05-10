@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3835943
-https://news.walla.co.il/break/3835946
-https://hamal.co.il/main/באיראן-משיבים-לארהב-בוחנים-את-הצעת-השלום-266656
-https://hamal.co.il/main/הווטרינר-מזהיר-5-הצעצועים-הנפוצים-שעלולים-להרוג-את-הכלב-שלכ-266614
+COUNTER:39
 https://news.walla.co.il/break/3835952
 https://hamal.co.il/main/התעללו-בפעוטות-בעלת-גן-266658
 https://hamal.co.il/main/שר-החוץ-הפקיסטני-שואפים-שהפסקת-האש-תסיים-את-המלחמה-266659
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3836733
 https://news.walla.co.il/item/3836740
 https://hamal.co.il/main/בן-גביר-לגיל-לימון-מדוע-אתה-תוקע-גירוש-מסתננים-מדרום-תא-267142
 https://hamal.co.il/main/תא2-נערים-החזיקו-כלי-תקיפה-ונעצרו-המשטרה-פיזרה-מסיבה-בעיר-267143
+https://news.walla.co.il/break/3836742
+https://news.walla.co.il/item/3836744
+https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-חשודה-בדרום-לבנון-267144
+https://hamal.co.il/main/במהלך-הסופש-מעל-40-תשתיות-חיזבאללה-הושמדו-10-מחבלים-חוסלו-267145
