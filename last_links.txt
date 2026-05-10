@@ -1,9 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/טד-טרנר-מייסד-CNN-ומהפכן-הטלוויזיה-הלך-לעולמו-בגיל-87-266720
-https://hamal.co.il/main/היסטוריה-באסיה-שווי-השוק-של-סמסונג-חצה-את-רף-טריליון-הדולר-266742
-https://hamal.co.il/main/חשש-מהתפרצות-בעיר-הבהדים-כמאה-חיילים-סובלים-מהקאות-266767
-https://hamal.co.il/main/קטיה-אברבוך-מחתונה-ממבט-ראשון-חשפה-את-התקיפה-המינית-שעברה-266774
-https://news.walla.co.il/break/3836093
+COUNTER:0
 https://hamal.co.il/main/נועם-בתן-עשה-זאת-שוב-קבלו-הצצה-למישל-על-הבמה-מתוך-החזרות-266783
 https://news.walla.co.il/break/3836098
 https://hamal.co.il/main/הירי-לצפון-אזעקות-בגליל-העליון-התרעות-חדירת-כטבם-בקש-266788
@@ -499,3 +494,8 @@ https://hamal.co.il/main/עושים-את-זה-רשמי-שני-אדרי-ויוב�
 https://hamal.co.il/main/שוטרי-מרחב-אילת-עצרו-שני-חשודים-בחשד-לשריפת-כלב-267216
 https://news.walla.co.il/break/3836932
 https://news.walla.co.il/break/3836935
+https://news.walla.co.il/break/3836938
+https://news.walla.co.il/item/3836920
+https://news.walla.co.il/item/3836934
+https://hamal.co.il/main/התגובה-של-מיקי-גבע-לסערת-הליכודיאדה-בחדשות-12-267178
+https://hamal.co.il/main/הרמטכל-חמאס-נמצא-במצוקה-אדירה-למעלה-מ-50-מהשטח-בידינו-267217
