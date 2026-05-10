@@ -1,5 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/לוחם-צהל-נפצע-באורח-קשה-3-לוחמים-נוספים-נפצעו-קל-מפגיעת-רח-266797
+COUNTER:10
 https://hamal.co.il/main/דיווח-אלו-דרישות-ארצות-הברית-להסכם-גרעין-חדש-עם-איראן-266801
 https://news.walla.co.il/break/3836114
 https://hamal.co.il/main/המגמה-מתהפכת-עלייה-בטמפרטורות-והתחממות-בהרים--התחזית-266806
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3836958
 https://hamal.co.il/main/נתניהו-267244
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-267249
 https://hamal.co.il/main/ערן-267250
+https://hamal.co.il/main/האזעקות-בצפון-הארץ-שוגרו-מיירטים-לעבר-מטרות-אוויריות-חשודות-267260
