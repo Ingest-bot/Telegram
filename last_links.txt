@@ -1,10 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/טראמפ--איראן-תעביר-את-האורניום-המועשר-לארה״ב-266709
-https://news.walla.co.il/break/3836024
-https://hamal.co.il/main/הרצוג-נחת-בפנמה-והחל-את-ביקורו-הרשמי-וההיסטורי-במרכז-אמריקה-266713
-https://hamal.co.il/main/בצל-המגעים-מול-איראן-הקבינט-המדיני-ביטחוני-מתכנס-266714
-https://hamal.co.il/main/צהל-לוחם-נפצע-קשה-מרחפן-נפץ-בדרום-לבנון-266715
-https://hamal.co.il/main/נגיף-מסתורי-בים-מה-גרם-להתפרצות-הקטלנית-ועד-כמה-זה-מסוכן-266678
+COUNTER:15
 https://news.walla.co.il/break/3836033
 https://news.walla.co.il/break/3836036
 https://hamal.co.il/main/באום-קוראים-לישראל-לשחרר-באופן-מיידי-את-פעילי-המשט-266684
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3836788
 https://news.walla.co.il/item/3836851
 https://hamal.co.il/main/כץ-נעץ-סכין-בגבי-טלי-גוטליב-במתקפה-חריפה-על-שר-הביטחון-267168
 https://hamal.co.il/main/אחת-המדינות-המבודדות-ביותר-בעולם-נפתחת-למבקרים-267149
+https://news.walla.co.il/break/3836847
+https://news.walla.co.il/break/3836852
+https://hamal.co.il/main/ההתפרצות-הקטלנית-באוניית-הקרוז-267169
+https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-בירושלים-267179
+https://hamal.co.il/main/בכווית-מדווחים-3-כטבמים-יורטו-מעל-המרחב-האווירי-267175
+https://hamal.co.il/main/דיווח-267180
