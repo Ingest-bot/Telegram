@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3835903
 https://news.walla.co.il/item/3835905
 https://news.walla.co.il/item/3835906
 https://hamal.co.il/main/דיווח-266648
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בריטניה-שגריר-סין-זומן-בעקבות-
 https://news.walla.co.il/break/3836713
 https://news.walla.co.il/break/3836714
 https://hamal.co.il/main/-ספרד-תוצאות-בדיקת-האישה-שנחשדה-בהידבקות-בוירוס-ההאנטה-יצא-267134
+https://news.walla.co.il/break/3836715
