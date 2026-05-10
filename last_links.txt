@@ -1,6 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/break/3835952
-https://hamal.co.il/main/התעללו-בפעוטות-בעלת-גן-266658
 https://hamal.co.il/main/שר-החוץ-הפקיסטני-שואפים-שהפסקת-האש-תסיים-את-המלחמה-266659
 https://news.walla.co.il/break/3835955
 https://news.walla.co.il/item/3835954
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3836742
 https://news.walla.co.il/item/3836744
 https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-חשודה-בדרום-לבנון-267144
 https://hamal.co.il/main/במהלך-הסופש-מעל-40-תשתיות-חיזבאללה-הושמדו-10-מחבלים-חוסלו-267145
+https://news.walla.co.il/break/3836748
+https://news.walla.co.il/break/3836750
