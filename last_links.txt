@@ -1,9 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3836031
-https://hamal.co.il/main/משרד-הבריאות-ריקול-על-עלי-גפן-כשרים-לפסח-של-המותג-תומר-266730
-https://hamal.co.il/main/גוטליב-במתקפה-נגד-הדר-מוכתר-שיקרה-בעבר-לא-מתאימה-266700
-https://news.walla.co.il/break/3836045
-https://news.walla.co.il/break/3836046
+COUNTER:20
 https://news.walla.co.il/break/3836047
 https://news.walla.co.il/break/3836048
 https://hamal.co.il/main/גבר-כבן-40-נפצע-קשה-מנפילה-מגובה-במהלך-עבודתו-בנתניה-266731
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3836856
 https://news.walla.co.il/break/3836859
 https://news.walla.co.il/item/3836860
 https://hamal.co.il/main/תיעוד-מזעזע-267181
+https://news.walla.co.il/break/3836870
+https://hamal.co.il/main/החביאו-מטענים-בתוך-בלוני-גז-2-מחבלים-נעצרו-ביוש--צפו-267184
+https://hamal.co.il/main/הקטל-בכבישים-בן-50-נהרג-בתאונת-דרכים-סמוך-לאלעד-267185
+https://hamal.co.il/main/התרגיל-הקטן-לחיזוק-המוח-ומניעת-אלצהיימר-שסוחף-מיליונים-ברשת-267147
+https://hamal.co.il/main/דיווח-267186
