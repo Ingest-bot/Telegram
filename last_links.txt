@@ -1,10 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/גבר-כבן-40-נפצע-קשה-מנפילה-מגובה-במהלך-עבודתו-בנתניה-266731
-https://hamal.co.il/main/הישרדות-מאחורי-אינטרס-התיווך-הפקיסטני-עומד-פחד-גדול-266695
-https://hamal.co.il/main/רהמ-אדבר-עם-טראמפ-הלילה-היעד---הוצאת-החומר-המועשר-מאיראן-266736
-https://news.walla.co.il/break/3836054
-https://news.walla.co.il/item/3836056
-https://news.walla.co.il/item/3836053
+COUNTER:24
 https://hamal.co.il/main/צבא-ארה-266743
 https://hamal.co.il/main/דיווח-ראשוני-חיל-האוויר-תוקף-בדאחייה-בביירות-266745
 https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-מפקד-כוח-רדואן-בביירות-266746
@@ -499,3 +493,9 @@ https://hamal.co.il/main/התרגיל-הקטן-לחיזוק-המוח-ומניע�
 https://hamal.co.il/main/דיווח-267186
 https://hamal.co.il/main/מכורים-למוצרי-חלבון-לתזונאי-של-הסלבס-יש-אזהרה-אחת-267154
 https://hamal.co.il/main/מחבל-השתחרר-ממאסר-267187
+https://news.walla.co.il/break/3836887
+https://news.walla.co.il/break/3836890
+https://news.walla.co.il/break/3836894
+https://news.walla.co.il/item/3836888
+https://hamal.co.il/main/האמירויות-267188
+https://hamal.co.il/main/לקראת-הקרב-הענק-אלו-השופטים-שינהלו-את-משחק-העונה-267189
