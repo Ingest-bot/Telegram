@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3836101
-https://news.walla.co.il/break/3836103
-https://news.walla.co.il/break/3836102
+COUNTER:3
 https://news.walla.co.il/break/3836104
 https://news.walla.co.il/break/3836106
 https://news.walla.co.il/item/3836100
@@ -499,3 +496,6 @@ https://hamal.co.il/main/הרמטכל-חמאס-נמצא-במצוקה-אדירה-
 https://news.walla.co.il/break/3836945
 https://news.walla.co.il/break/3836946
 https://hamal.co.il/main/תגובת-טהראן-להצעה-האמריקנית-מתמקדת-בסיום-המלחמה-בכל-הזירות-267218
+https://news.walla.co.il/item/3836937
+https://hamal.co.il/main/תיעוד-שלא-רואים-כל-יום-מדוזה-ענקית-נצפתה-באילת-267229
+https://hamal.co.il/main/שריפת-קוצים-בחדרה--לוחמי-האש-פועלים-לבלימת-התפשטות-האש-267232
