@@ -1,12 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/item/3835881
-https://hamal.co.il/main/קורס-המכים-של-הסיירות-266643
-https://hamal.co.il/main/אוניית-הקרוז-הנגועה-בווירוס-תפליג-לספרד-אנחנו-יודעים-שאתם-266615
-https://news.walla.co.il/item/3835889
-https://news.walla.co.il/item/3835884
-https://hamal.co.il/main/ליברמן--266644
-https://news.walla.co.il/break/3835896
-https://hamal.co.il/main/לפני-המונדיאל-התקרה-קרסה-ושדה-התעופה-הוצף-בצואה--צפו-266629
+COUNTER:27
 https://hamal.co.il/main/אקדח-266646
 https://news.walla.co.il/break/3835899
 https://hamal.co.il/main/צהל-רחפן-נפץ-של-חיזבאללה-נפל-בשטח-ישראל-אין-נפגעים-266647
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3836698
 https://hamal.co.il/main/חיל-האוויר-יירט-לפני-זמן-קצר-מטרה-אווירית-חשודה-שזוהתה-במרחב-267129
 https://news.walla.co.il/break/3836707
 https://hamal.co.il/main/קונגו-לפחות-69-בני-אדם-נהרגו-במתקפת-מיליציה-במדינה-רויטרס-267130
+https://news.walla.co.il/break/3836709
+https://news.walla.co.il/break/3836710
+https://news.walla.co.il/break/3836711
+https://news.walla.co.il/break/3836712
+https://news.walla.co.il/item/3836674
+https://hamal.co.il/main/ארהב-שר-החוץ-רוביו-נועד-עם-ראש-ממשלת-קטאר-לדון-בשיתוף-פעול-267131
+https://hamal.co.il/main/פוטין-הודיע-כי-רוסיה-קרובה-לעסקת-אנרגיה-משמעותית-עם-סין-רויט-267132
+https://hamal.co.il/main/בריטניה-שגריר-סין-זומן-בעקבות-הרשעת-שני-גברים-בריגול-מערכת-267133
