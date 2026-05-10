@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3836033
-https://news.walla.co.il/break/3836036
-https://hamal.co.il/main/באום-קוראים-לישראל-לשחרר-באופן-מיידי-את-פעילי-המשט-266684
-https://hamal.co.il/main/לוחם-תועד-מבזה-את-פסל-מריה-בלבנון-צהל-האירוע-יתוחקר-266724
+COUNTER:16
 https://news.walla.co.il/item/3836031
 https://hamal.co.il/main/משרד-הבריאות-ריקול-על-עלי-גפן-כשרים-לפסח-של-המותג-תומר-266730
 https://hamal.co.il/main/גוטליב-במתקפה-נגד-הדר-מוכתר-שיקרה-בעבר-לא-מתאימה-266700
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ההתפרצות-הקטלנית-באוניית-הקרו
 https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-בירושלים-267179
 https://hamal.co.il/main/בכווית-מדווחים-3-כטבמים-יורטו-מעל-המרחב-האווירי-267175
 https://hamal.co.il/main/דיווח-267180
+https://news.walla.co.il/break/3836856
+https://news.walla.co.il/break/3836859
+https://news.walla.co.il/item/3836860
+https://hamal.co.il/main/תיעוד-מזעזע-267181
