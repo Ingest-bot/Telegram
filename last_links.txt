@@ -1,8 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3835913
-https://news.walla.co.il/break/3835914
-https://news.walla.co.il/break/3835928
-https://news.walla.co.il/item/3835924
+COUNTER:34
 https://news.walla.co.il/item/3835879
 https://hamal.co.il/main/חוליית-מחבלי-חמאס-חוסלה-בצפון-הרצועה--תיעוד-266649
 https://hamal.co.il/main/בפקיסטן-מאשרים-266650
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3836717
 https://hamal.co.il/main/גבר-בן-64-במצב-קשה-עם-חבלה-רב-מערכתית-טל-חובש-רפואת-חירום-267135
 https://hamal.co.il/main/משרד-החוץ-שני-פעילים-ממשט-המחאה-לרצועת-עזה-גורשו-מישראל-יוא-267136
 https://hamal.co.il/main/הקיץ-פה-הטמפרטורות-עולות---אבל-לא-להרבה-זמן--התחזית-267137
+https://news.walla.co.il/item/3836720
+https://hamal.co.il/main/בשל-משאית-שהתהפכה-עומס-כבד-בכביש-1-שנסגר-חלקית-לתנועה-267138
+https://hamal.co.il/main/אקדח-אפוד-צה״לי-ודגל-אשף-נתפסו-במזרח-י-ם-חשוד-נעצר-267139
+https://hamal.co.il/main/רכש-מותג-יוקרה-תושב-אפרת-נעצר-בחשד-שגנב-כסף-מכרטיס-אשראי-267140
