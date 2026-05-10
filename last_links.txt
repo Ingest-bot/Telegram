@@ -1,9 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/break/3836063
-https://hamal.co.il/main/דיווח-אחד-מבניו-של-266751
-https://hamal.co.il/main/שלב-אחר-שלב-כך-פועלים-לסיכול-איום-הרחפנים-בדרום-לבנון-266734
-https://hamal.co.il/main/שנת-האסון-האזהרה-המצמררת-של-מחבר-אבא-עשיר-אבא-עני-266686
-https://hamal.co.il/main/גורם-מקורב-לחיזבאללה-מפקד-כוח-רדואן-חוסל-בתקיפה-266754
+COUNTER:30
 https://hamal.co.il/main/הנשיא-טראמפ-לרשת-פוקס-ניוז-לאיראן-יש-שבוע-266755
 https://hamal.co.il/main/ביתר-ירושלים-ניצחה-01-את-הפועל-תל-אביב-266757
 https://news.walla.co.il/break/3836071
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3836903
 https://hamal.co.il/main/עשור-של-עמימות-ופעילות-חשאית-267193
 https://hamal.co.il/main/צהל-יירטנו-רקטות-ששוגרו-לעבר-כוחותינו-בדרום-לבנון-267194
 https://hamal.co.il/main/הרמטכל-בכנסת-העבירו-את-חוק-הגיוס-267195
+https://news.walla.co.il/break/3836911
+https://news.walla.co.il/break/3836912
+https://news.walla.co.il/item/3836886
+https://news.walla.co.il/item/3836913
+https://hamal.co.il/main/ירי-בתוך-הנגמש-פלג-נגד-קושמרו-בכיין-סדרתי-267196
