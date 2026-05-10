@@ -1,5 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/דיווח-השעות-הקרובות-צפויות-להביא-לפריצת-דרך-במצר-הורמוז-266860
+COUNTER:32
 https://news.walla.co.il/break/3836209
 https://news.walla.co.il/break/3836210
 https://hamal.co.il/main/תצפית-מטורפת-עורב-ניסה-לחטוף-טרף-מנחש---שנמלט-בעמידה-266864
@@ -499,3 +498,4 @@ https://hamal.co.il/main/״פרוייקט-חירות-פלוס-נשמע-טוב-מ
 https://hamal.co.il/main/דיווח-״לטהרן-אין-כוונה-לרצות-את-טראמפ״-267300
 https://hamal.co.il/main/קלאסיקה-מודרנית-ברצלונה-זכתה-באליפות-אחרי-02-על-ריאל-מדריד-267302
 https://news.walla.co.il/break/3837033
+https://hamal.co.il/main/דיווח-איראן-דחתה-את-ההצעה-האמריקנית-״משמעותה-כניעה״-267303
