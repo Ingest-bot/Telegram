@@ -1,8 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/לוחמי-חטיבת-החשמונאים-ציינו-סיום-מסלול-266842
-https://news.walla.co.il/break/3836171
-https://news.walla.co.il/break/3836173
-https://hamal.co.il/main/הסתבכות-נוספת-בפרשת-אייל-גולן-המתלוננת-הגישה-תלונה-חדשה-266845
+COUNTER:25
 https://hamal.co.il/main/דיווח-איראן-עשויה-למסור-את-צגובתה-להצעה-האמריקאית-266846
 https://hamal.co.il/main/בתוך-קולט-אדים-אקדח-אותר-בדירה-ביפו-266847
 https://news.walla.co.il/item/3836186
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837011
 https://hamal.co.il/main/נועה-קירל-חשפה-267166
 https://news.walla.co.il/item/3837014
 https://hamal.co.il/main/בכירים-אמריקנים-טראמפ-צפוי-לדרוש-מסין-להפעיל-לחץ-על-טהרן-267279
+https://news.walla.co.il/break/3837018
+https://news.walla.co.il/break/3837016
+https://news.walla.co.il/break/3837019
+https://hamal.co.il/main/הגראנד-פינלה-הזוגות-של-המירוץ-למיליון-צופים-ביחד-בגמר-267293
