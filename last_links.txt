@@ -1,10 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3836407
-https://news.walla.co.il/break/3836415
-https://news.walla.co.il/break/3836417
-https://news.walla.co.il/item/3836406
-https://news.walla.co.il/item/3836416
-https://hamal.co.il/main/ראשת-הסגל-של-טראמפ-אתה-אף-פעם-לא-יודע-עם-מה-הוא-ירד-בבוקר-266966
+COUNTER:16
 https://hamal.co.il/main/פיצוצים-גדולים-ייצאו-מאיראן-טראמפ-מאיים-ולא-שולל-חזרה-לפ-266968
 https://news.walla.co.il/break/3836418
 https://news.walla.co.il/break/3836420
@@ -499,3 +493,9 @@ https://hamal.co.il/main/החל-מהיום-וואטסאפ-מתחילה-לגבו�
 https://hamal.co.il/main/בהמשך-להתרעות-שהופעלמדובר-במיירט-שיצא-לעבר-טיל-קרקע-אוויר-שש-267402
 https://news.walla.co.il/item/3837165
 https://hamal.co.il/main/״אין-לי-רישיון-נהיגה״-נהג-נמלט-מהשוטרים-267403
+https://news.walla.co.il/break/3837238
+https://news.walla.co.il/item/3837233
+https://news.walla.co.il/item/3837237
+https://hamal.co.il/main/הישג-היסטורי-לימין-הקיצוני-באוסטרליה-פורצים-את-התקרה-267404
+https://hamal.co.il/main/טרגדיה-בסיני-ישראלי-בחופשה-התמוטט-ומת-בשארם-א־שייח-267407
+https://hamal.co.il/main/החיילים-שתועדו-מבזים-את-פסל-מריה-בלבנון-נשפטו-לימי-מחבוש-267408
