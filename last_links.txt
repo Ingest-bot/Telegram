@@ -1,5 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3836466
+COUNTER:33
 https://hamal.co.il/main/פרשת-בהר-בחקתי-אלו-זמני-השבת-266979
 https://hamal.co.il/main/כטבם-אותר-על-גגת-בית-ספר-בגליל--תיעוד-266983
 https://hamal.co.il/main/אישום-תלמיד-התווכח-עם-המאבטח---והשליך-לעברו-אבן-266984
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837290
 https://news.walla.co.il/item/3837277
 https://hamal.co.il/main/דיווח-״-267440
 https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
+https://hamal.co.il/main/מוסר-כליות-טייס-שחלה-נדרש-להמשיך-בפעילות-מבצעית-אביחי-חיים-267413
