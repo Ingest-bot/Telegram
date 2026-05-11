@@ -1,11 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/צהל-נערך-לתמרון-בעזה-חמאס-מנצל-את-הקשב-לאיראן-וללבנון-266657
-https://news.walla.co.il/item/3836428
-https://hamal.co.il/main/המדענית-הבכירה-מתה-שלוש-פעמים---וזה-מה-שהיא-ראתה-בכל-פעם-266642
-https://hamal.co.il/main/13-כדורים-אישום-הוגש-נגד-תושב-שירה---ונעצר-על-חם--תיעוד-266972
-https://hamal.co.il/main/פרשת-המוהל-יו״ר-איגוד-המוהלים-העולמי-נחקר-266973
-https://news.walla.co.il/break/3836439
-https://news.walla.co.il/item/3836437
+COUNTER:22
 https://news.walla.co.il/item/3836427
 https://hamal.co.il/main/הוא-ביצע-פעולות-החייאה-הזמר-שהציל-חיים-באמצע-הלילה-ברחובו-266639
 https://news.walla.co.il/break/3836443
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3837257
 https://news.walla.co.il/break/3837253
 https://news.walla.co.il/break/3837254
 https://hamal.co.il/main/כוחות-אוגדה-146-תקפו-מחסן-אמל״ח-וחיסלו-מחבלי-חיזבאללה-267417
+https://news.walla.co.il/break/3837260
+https://news.walla.co.il/break/3837263
+https://news.walla.co.il/break/3837262
+https://news.walla.co.il/item/3837264
+https://hamal.co.il/main/חלק-מחוף-הצוק-הצפוני-נסגר-למתרחצים-עקב-איתור-אמל״ח-267418
+https://hamal.co.il/main/״אין-לנו-אופציה-אחרת-מלבד-לנצח״-גדוד-ארבל-יוצא-לדרך-267422
+https://hamal.co.il/main/סיבה-לדאגה-מהו-נגיף-ההאנטה-שהרג-שלושה-נוסעי-ספינת-תענוגות-267359
