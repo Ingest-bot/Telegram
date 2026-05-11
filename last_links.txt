@@ -1,7 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/אזהרת-הממשל-לאנשי-הדת-חשיפת-החייזרים-בקרוב-תרסק-את-האמונה-266815
-https://hamal.co.il/main/משרד-החוץ-הפקיסטני-מצפים-שאיראן-וארה״ב-יגיעו-להסכם-266884
-https://news.walla.co.il/break/3836286
+COUNTER:14
 https://news.walla.co.il/item/3836288
 https://news.walla.co.il/break/3836293
 https://hamal.co.il/main/השליכו-בקבוקי-תבערה-ואבנים-3-צעירים-נעצרו-בבית-לחם-266888
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837089
 https://hamal.co.il/main/הירי-ברמלה-נעצר-חשוד-ברצח-האישה-267334
 https://news.walla.co.il/item/3837095
 https://hamal.co.il/main/הכפתור-האדום-או-הכחול-מה-הבחירה-אומרת-עליכם-267323
+https://news.walla.co.il/item/3837094
+https://hamal.co.il/main/ראשוני-סוכל-פיגוע-ירי-במחסום-קלנדיה-מחבל-נוטרל-267339
+https://hamal.co.il/main/חיזבאללה-מפעיל-לוחמים-איראנים-התכנית-לפירוק-הארגון-מנשקו-267342
