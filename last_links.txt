@@ -1,6 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/האמירויות-מערכות-ההגנה-האוויריות-הופעלו-בשל-מתקפת-רחפנים-וט-266969
-https://hamal.co.il/main/בוושינגטון-ובירושלים-מעריכים-למרות-חילופי-האש---טראמפ-חותר-266970
+COUNTER:18
 https://news.walla.co.il/break/3836421
 https://news.walla.co.il/break/3836422
 https://news.walla.co.il/break/3836424
@@ -499,3 +497,5 @@ https://hamal.co.il/main/החיילים-שתועדו-מבזים-את-פסל-מר
 https://news.walla.co.il/break/3837247
 https://news.walla.co.il/item/3837244
 https://hamal.co.il/main/המחבל-שהרג-את-עמית-בן-יגאל-ז״ל-הורשע-בגרימת-מוות-בכוונה-267412
+https://news.walla.co.il/break/3837250
+https://hamal.co.il/main/ביהמש-קבע---המועד-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמ-267414
