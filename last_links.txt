@@ -1,8 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3836421
-https://news.walla.co.il/break/3836422
-https://news.walla.co.il/break/3836424
-https://hamal.co.il/main/אחרי-הקור-הטמפרטורות-עולות---מה-צפוי-בהמשך--התחזית-266971
+COUNTER:19
 https://hamal.co.il/main/צהל-נערך-לתמרון-בעזה-חמאס-מנצל-את-הקשב-לאיראן-וללבנון-266657
 https://news.walla.co.il/item/3836428
 https://hamal.co.il/main/המדענית-הבכירה-מתה-שלוש-פעמים---וזה-מה-שהיא-ראתה-בכל-פעם-266642
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837244
 https://hamal.co.il/main/המחבל-שהרג-את-עמית-בן-יגאל-ז״ל-הורשע-בגרימת-מוות-בכוונה-267412
 https://news.walla.co.il/break/3837250
 https://hamal.co.il/main/ביהמש-קבע---המועד-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמ-267414
+https://news.walla.co.il/break/3837257
+https://news.walla.co.il/break/3837253
+https://news.walla.co.il/break/3837254
+https://hamal.co.il/main/כוחות-אוגדה-146-תקפו-מחסן-אמל״ח-וחיסלו-מחבלי-חיזבאללה-267417
