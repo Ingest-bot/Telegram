@@ -1,8 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3836263
-https://hamal.co.il/main/המילואימניק-מילא-לוטו---וזכה-ב-15-מיליון-שקל-266880
-https://hamal.co.il/main/שיטת-הפעולה-של-חיזבאללה-נחשפת--צפו-266881
-https://hamal.co.il/main/הטריק-הביתי-והמפתיע-שיעלים-את-זבובי-הפירות-מהמטבח-שלכם-לתמיד-266811
+COUNTER:8
 https://news.walla.co.il/item/3836277
 https://hamal.co.il/main/דיווח-הרוגים-ופצועים-בתקיפה-ישראלית-מערבית-לעיר-עזה-266882
 https://hamal.co.il/main/סטארמר-ישלם-את-המחיר-הלייבור-נערכים-לתבוסה-בבחירות-המקומיות-266831
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837071
 https://news.walla.co.il/break/3837072
 https://hamal.co.il/main/הכי-מבוקש-בווינה-נועם-בתן-כובש-את-שערי-העיתונות-העולמית-267317
 https://hamal.co.il/main/ראש-המלל-לשעבר-עונה-האם-ארהב-תחזור-לתקוף-באיראן-267328
+https://news.walla.co.il/break/3837076
+https://news.walla.co.il/item/3837078
+https://hamal.co.il/main/הירי-ברמלה-נקבע-מותה-של-אחת-הפצועות-המפכל-בדרכו-לזירה-267330
+https://hamal.co.il/main/שימשו-להחזקת-החטופים-4-מנהרות-הושמדו-בדרום-הרצועה--צפו-267329
