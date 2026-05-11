@@ -1,9 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/כוכבת-הילדים-חשפה-267001
-https://hamal.co.il/main/כוכבת-הילדים-חשפה-267003
-https://news.walla.co.il/break/3836497
-https://news.walla.co.il/break/3836499
-https://news.walla.co.il/item/3836495
+COUNTER:9
 https://news.walla.co.il/break/3836503
 https://hamal.co.il/main/דיווח-הצבא-האמריקני-תקף-מכליות-שניסו-לפרוץ-את-המצור-בהורמוז-267004
 https://news.walla.co.il/item/3836401
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837319
 https://news.walla.co.il/break/3837317
 https://hamal.co.il/main/התרעות-הופעלו-במג׳דל-שמס-הפרטים-בבדיקה-267460
 https://hamal.co.il/main/ללא-מתנגדים-אושר-סופית-החוק-להעמדתם-לדין-של-מחבלי-ה-710-267461
+https://news.walla.co.il/break/3837322
+https://hamal.co.il/main/התגעגענו-גל-גדות-חזרה-לישראל-מאור-בן-הרוש-עודכן-לאחרונה-1-267416
+https://hamal.co.il/main/זו-פעולה-שאנחנו-לא-מרבים-בה---אבל-ההשפעה-שלה-על-הגוף-היא-מטו-267401
+https://hamal.co.il/main/ההתרעות-במג׳דל-שמס---זיהוי-שווא-267468
+https://hamal.co.il/main/דיווח-בתחילת-אפריל---איחוד-האמירויות-תקפה-באיראן-267471
