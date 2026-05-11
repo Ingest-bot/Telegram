@@ -1,9 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3836386
-https://news.walla.co.il/item/3836385
-https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-באזור-מצר-הורמוז-266937
-https://hamal.co.il/main/ירי-אזהרה-של-משמרות-המהפכה-הסיבה-לפיצוצים-באיראן-266941
-https://hamal.co.il/main/חיזבאללה-שיגר-פצצות-לעבר-כוחות-צהל-בדרום-לבנון-אין-נפגעים-266943
+COUNTER:0
 https://news.walla.co.il/item/3836378
 https://hamal.co.il/main/אנחנו-יושבים-ומחכים-למה-לאזעקות-זעקת-תושבי-הגליל-266949
 https://news.walla.co.il/break/3836390
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837184
 https://news.walla.co.il/item/3837183
 https://hamal.co.il/main/מגי-אזרזר-וקותי-סבג-בראיון-זוגי-אני-מקווה-לפרוש-כמה-שיותר-267384
 https://hamal.co.il/main/המשטרה-על-הירי-בלוד-אחד-המעורבים-נעצר-267386
+https://news.walla.co.il/break/3837201
+https://news.walla.co.il/break/3837195
+https://news.walla.co.il/item/3837199
+https://hamal.co.il/main/הרים-אבן-מעניינת-ילד-גילה-פסלון-מפואר-בן-1700-שנה-בטיול-ב-267325
+https://hamal.co.il/main/טראמפ-דוחה-את-תשובת-איראן-מחירי-הנפט-מזנקים-בעוד-סגירת-מצר-267385
