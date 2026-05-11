@@ -1,9 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/פרשים-בהפגנת-החרדים-בירושלים-צירי-הרכבת-הקלה-נחסמו-266907
-https://hamal.co.il/main/בכירים-אמריקנים-השיחות-בין-ישראל-ללבנון-יתקיימו-בשבוע-הבא-266911
-https://news.walla.co.il/break/3836337
-https://news.walla.co.il/break/3836340
-https://news.walla.co.il/break/3836341
+COUNTER:25
 https://news.walla.co.il/break/3836345
 https://hamal.co.il/main/כתב-אישום-נגד-גוטליב-כץ-חתם-על-חיסיון-באיחור-של-חודשים-266916
 https://news.walla.co.il/break/3836347
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3837131
 https://news.walla.co.il/item/3837134
 https://hamal.co.il/main/הבית-מרושת-במצלמות-הסתבך-עם-גרושה-ונסחט-ב-12-מיליארד-דו-267336
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בצפון-מצבו-קשה-267356
+https://news.walla.co.il/break/3837138
+https://hamal.co.il/main/ניסיון-הפיגוע-בקלנדיה-המחבל-פתח-בירי-לעבר-הלוחמים---וחוסל-267360
+https://hamal.co.il/main/השליכו-21-קג-סמים-באמצע-הכביש-2-חשודים-נעצרו-בדרום-267365
+https://hamal.co.il/main/תיעוד-כזה-עוד-לא-ראיתם-אופנוע-עף-בכביש-לגובה-ונוחת-על-רמזור-267363
+https://hamal.co.il/main/מומחים-חושפים-השיטה-היעילה-ביותר-להשקות-את-העציצים-267324
