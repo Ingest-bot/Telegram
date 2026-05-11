@@ -1,12 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/חמאס-הפגיעה-בבנו-של-חליל-אל-חיה-לא-תשפיע-על-עמדותינו-במשא-266868
-https://news.walla.co.il/break/3836238
-https://news.walla.co.il/item/3836239
-https://news.walla.co.il/item/3836235
-https://news.walla.co.il/item/3836211
-https://hamal.co.il/main/הרופאים-בשניידר-לא-האמינו-בן-5-הובא-עם-שיפוד-תקוע-בחזה-266849
-https://hamal.co.il/main/צה״ל-תקף-תשתית-לייצור-אמצעי-לחימה-בנבטיה-266872
-https://news.walla.co.il/item/3836243
+COUNTER:1
 https://hamal.co.il/main/בלי-תרסיסים-זה-הפתרון-הכי-פשוט-נגד-יתושים-שרובנו-לא-מכירים-266824
 https://hamal.co.il/main/נתניהו-״אני-אומר-לאויבים-שלנו---לאף-מחבל-אין-חסינות״-266874
 https://news.walla.co.il/break/3836252
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3837047
 https://hamal.co.il/main/חיזבאללה-טוען-רחפן-מתאבד-תקף-סוללת-כיפת-ברזל-267314
 https://news.walla.co.il/break/3837049
 https://hamal.co.il/main/מזג-267315
+https://news.walla.co.il/break/3837050
+https://news.walla.co.il/break/3837053
+https://news.walla.co.il/break/3837052
+https://news.walla.co.il/item/3837036
+https://hamal.co.il/main/חיזבאללה-פרסם-תיעוד-על-פגיעה-בכיפת-ברזל-צהל-267316
+https://hamal.co.il/main/צהל-יירטנו-מטרה-אווירית-חשודה-בדרום-לבנון-267319
+https://hamal.co.il/main/3-נשים-נורו-ברמלה-בהם-1-במצב-אנוש-ו-2-במצב-קשה-267320
+https://hamal.co.il/main/מזעזע-שבח-תלש-מזוזות-מבתים-בחולון---ונעצר-267321
