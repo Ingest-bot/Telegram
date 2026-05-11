@@ -1,6 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/המשטרה-הודיעה-חקירת-רצח-ימנו-זלקה-הושלמה-והועברה-לפרקליטות-266976
-https://news.walla.co.il/item/3836443
+COUNTER:26
 https://hamal.co.il/main/מזרחן-עונה-266977
 https://hamal.co.il/main/שינוי-היסטורי-בבריטניה-הישגים-גדולים-למפלגת-הימין-266978
 https://news.walla.co.il/break/3836454
@@ -499,3 +497,5 @@ https://hamal.co.il/main/טראמפ-מאיים-בהסלמה-ליווי-הספי�
 https://hamal.co.il/main/נועם-בתן-הרשים-בחזרת-חצי-הגמר-אך-הקרב-האמיתי-עוד-לפניו-267430
 https://news.walla.co.il/break/3837278
 https://news.walla.co.il/item/3837275
+https://hamal.co.il/main/חוליית-שיגור-שפעלה-להעברת-משגר-טילים-חוסלה-בדרום-לבנון-267431
+https://hamal.co.il/main/בריונים-בני-שש-עשו-לבן-שלי-לינץ-בצהרון-267434
