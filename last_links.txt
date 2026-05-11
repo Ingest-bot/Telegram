@@ -1,6 +1,4 @@
 COUNTER:9
-https://news.walla.co.il/break/3836503
-https://hamal.co.il/main/דיווח-הצבא-האמריקני-תקף-מכליות-שניסו-לפרוץ-את-המצור-בהורמוז-267004
 https://news.walla.co.il/item/3836401
 https://hamal.co.il/main/סגירת-מעגל-חיל-האוויר-תקף-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267011
 https://news.walla.co.il/break/3836505
@@ -499,3 +497,5 @@ https://hamal.co.il/main/התגעגענו-גל-גדות-חזרה-לישראל-מ
 https://hamal.co.il/main/זו-פעולה-שאנחנו-לא-מרבים-בה---אבל-ההשפעה-שלה-על-הגוף-היא-מטו-267401
 https://hamal.co.il/main/ההתרעות-במג׳דל-שמס---זיהוי-שווא-267468
 https://hamal.co.il/main/דיווח-בתחילת-אפריל---איחוד-האמירויות-תקפה-באיראן-267471
+https://news.walla.co.il/break/3837323
+https://news.walla.co.il/break/3837325
