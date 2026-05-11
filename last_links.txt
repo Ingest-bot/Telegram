@@ -1,8 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3836354
-https://news.walla.co.il/break/3836355
-https://hamal.co.il/main/ברקע-ההיערכות-לירי-מחיזבאללה-אלו-הנחיות-פיקוד-העורף-266923
-https://news.walla.co.il/break/3836358
+COUNTER:32
 https://news.walla.co.il/break/3836359
 https://news.walla.co.il/break/3836364
 https://news.walla.co.il/break/3836367
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837151
 https://hamal.co.il/main/לקראת-משחק-העונה-מי-לדעתכם-תזכה-באליפות-267370
 https://hamal.co.il/main/נער-בן-16-נפצע-באירוע-אלימות-בלוד-מצבו-אנוש-267371
 https://hamal.co.il/main/3-לוחמים-נפצעו-מפגיעת-רחפן-באורח-קל-בדרום-לבנון-267373
+https://hamal.co.il/main/דיווח-מתיחות-בין-וושינגטון-לטהראן-סביב-הרכבת-הממשלה-בעיראק-267375
+https://hamal.co.il/main/כנס-הקיץ-נפתח-חוק-הגיוס-והמהפכה-המשפטית-חוזרים-למרכז-הבמה-א-267374
+https://hamal.co.il/main/המשטרה-על-האירוע-בלוד-בן-16-נורה-267377
+https://hamal.co.il/main/תייר-תבע-את-המלון-ביוון-כי-לא-מצא-מיטת-שיזוף-פנויה---וזכה-מע-267378
