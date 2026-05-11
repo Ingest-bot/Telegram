@@ -1,9 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/פרשת-בהר-בחקתי-אלו-זמני-השבת-266979
-https://hamal.co.il/main/כטבם-אותר-על-גגת-בית-ספר-בגליל--תיעוד-266983
-https://hamal.co.il/main/אישום-תלמיד-התווכח-עם-המאבטח---והשליך-לעברו-אבן-266984
-https://hamal.co.il/main/8-266985
-https://news.walla.co.il/break/3836474
+COUNTER:35
 https://news.walla.co.il/break/3836476
 https://hamal.co.il/main/ניגן-לחברים-בשבי-תרמו-לקמפיין-גיוס-ההמונים-לי-266986
 https://hamal.co.il/main/המקום-המסוכן-בעולם-266974
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3837277
 https://hamal.co.il/main/דיווח-״-267440
 https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
 https://hamal.co.il/main/מוסר-כליות-טייס-שחלה-נדרש-להמשיך-בפעילות-מבצעית-אביחי-חיים-267413
+https://news.walla.co.il/break/3837292
+https://news.walla.co.il/break/3837295
+https://news.walla.co.il/item/3837296
+https://hamal.co.il/main/גל-הפרישות-בכחול-לבן-גם-ראש-מטה-השטח-עוזב-את-בני-גנץ-אבי-סו-267415
+https://hamal.co.il/main/הכנסת-תצביע-על-חוק-העמדה-לדין-של-מחבלי-7-באוקטובר-267445
