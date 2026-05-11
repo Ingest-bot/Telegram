@@ -1,5 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3836482
+COUNTER:0
 https://hamal.co.il/main/פרשת-בהר-בחוקותי-מה-עומד-מאחורי-האיסור-על-ריבית-266981
 https://news.walla.co.il/item/3836483
 https://hamal.co.il/main/הירי-לצפון-לא-דווח-על-נפגעים--תיעוד-היירוטים-266998
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3837299
 https://news.walla.co.il/item/3837302
 https://hamal.co.il/main/לא-נעים-עטיפת-תקליט-הושלכה-על-אריק-קלפטון-בהופעה-267453
 https://hamal.co.il/main/רצח-את-אשתו-ירה-לעבר-מכוניות---ונמלט-תיעוד-האימה-מרמלה-267454
+https://hamal.co.il/main/הפנטגון-צוללת-אמריקנית-הנושאת-נשק-גרעיני-הגיעה-לגיברלטר-267455
