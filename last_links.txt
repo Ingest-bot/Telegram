@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/בלי-תרסיסים-זה-הפתרון-הכי-פשוט-נגד-יתושים-שרובנו-לא-מכירים-266824
-https://hamal.co.il/main/נתניהו-״אני-אומר-לאויבים-שלנו---לאף-מחבל-אין-חסינות״-266874
-https://news.walla.co.il/break/3836252
-https://news.walla.co.il/item/3836245
+COUNTER:2
 https://news.walla.co.il/break/3836256
 https://news.walla.co.il/break/3836255
 https://news.walla.co.il/item/3836258
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חיזבאללה-פרסם-תיעוד-על-פגיעה-ב
 https://hamal.co.il/main/צהל-יירטנו-מטרה-אווירית-חשודה-בדרום-לבנון-267319
 https://hamal.co.il/main/3-נשים-נורו-ברמלה-בהם-1-במצב-אנוש-ו-2-במצב-קשה-267320
 https://hamal.co.il/main/מזעזע-שבח-תלש-מזוזות-מבתים-בחולון---ונעצר-267321
+https://news.walla.co.il/break/3837058
+https://news.walla.co.il/item/3837050
+https://news.walla.co.il/item/3837060
+https://hamal.co.il/main/המשטרה-על-אירוע-הירי-ברמלה-הרקע-בבדיקה-267322
