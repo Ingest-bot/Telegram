@@ -1,6 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/break/3836408
-https://news.walla.co.il/break/3836409
+COUNTER:13
 https://news.walla.co.il/break/3836407
 https://news.walla.co.il/break/3836415
 https://news.walla.co.il/break/3836417
@@ -499,3 +497,5 @@ https://hamal.co.il/main/לראשונה-בישראל-כאן-11-הגיע-למיל
 https://hamal.co.il/main/14-חשודים-עוכבו-בחשד-להלבנת-הון-ומימון-טרור-267399
 https://hamal.co.il/main/החל-מהיום-וואטסאפ-מתחילה-לגבות-כסף---וזה-מה-שתקבלו-בתמורה-י-267400
 https://hamal.co.il/main/בהמשך-להתרעות-שהופעלמדובר-במיירט-שיצא-לעבר-טיל-קרקע-אוויר-שש-267402
+https://news.walla.co.il/item/3837165
+https://hamal.co.il/main/״אין-לי-רישיון-נהיגה״-נהג-נמלט-מהשוטרים-267403
