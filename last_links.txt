@@ -1,7 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/פיצוצים-גדולים-ייצאו-מאיראן-טראמפ-מאיים-ולא-שולל-חזרה-לפ-266968
-https://news.walla.co.il/break/3836418
-https://news.walla.co.il/break/3836420
+COUNTER:17
 https://hamal.co.il/main/האמירויות-מערכות-ההגנה-האוויריות-הופעלו-בשל-מתקפת-רחפנים-וט-266969
 https://hamal.co.il/main/בוושינגטון-ובירושלים-מעריכים-למרות-חילופי-האש---טראמפ-חותר-266970
 https://news.walla.co.il/break/3836421
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3837237
 https://hamal.co.il/main/הישג-היסטורי-לימין-הקיצוני-באוסטרליה-פורצים-את-התקרה-267404
 https://hamal.co.il/main/טרגדיה-בסיני-ישראלי-בחופשה-התמוטט-ומת-בשארם-א־שייח-267407
 https://hamal.co.il/main/החיילים-שתועדו-מבזים-את-פסל-מריה-בלבנון-נשפטו-לימי-מחבוש-267408
+https://news.walla.co.il/break/3837247
+https://news.walla.co.il/item/3837244
+https://hamal.co.il/main/המחבל-שהרג-את-עמית-בן-יגאל-ז״ל-הורשע-בגרימת-מוות-בכוונה-267412
