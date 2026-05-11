@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/item/3836364
-https://hamal.co.il/main/שובו-של-פרוייקט-החירות-266928
+COUNTER:36
 https://news.walla.co.il/break/3836374
 https://hamal.co.il/main/בכיר-הדיווחים-על-ההיערכות-לחידוש-המבצע-בהורמוז---לא-נכונים-266933
 https://news.walla.co.il/break/3836378
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837172
 https://news.walla.co.il/break/3837174
 https://hamal.co.il/main/היועמשית-לבגץ-לוין-267380
 https://hamal.co.il/main/צהל-מסוק-שפינה-פצועים-לא-הצליח-להמריא-בדרום-לבנון-267381
+https://hamal.co.il/main/הרצח-ברמלה-267382
+https://hamal.co.il/main/מסתמן-הנער-שנורה-בלוד-נפגע-במהלך-משחק-הנשק-גנוב-267383
