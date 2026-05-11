@@ -1,8 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3836261
-https://hamal.co.il/main/אל-על-פתחה-את-המכירה-לטיסות-לארגנטינה-זה-המחיר-שהיא-דורשת-266876
-https://hamal.co.il/main/דיווח-מעל-ל-1500-ספינות-ממתינות-לאישור-מעבר-במצר-הורמוז-266877
-https://hamal.co.il/main/נשיא-איראן-קיים-שיח-עם-המנהיג-העליון-״צנוע-ומלווה-באמון-266878
+COUNTER:6
 https://news.walla.co.il/break/3836263
 https://hamal.co.il/main/המילואימניק-מילא-לוטו---וזכה-ב-15-מיליון-שקל-266880
 https://hamal.co.il/main/שיטת-הפעולה-של-חיזבאללה-נחשפת--צפו-266881
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837066
 https://news.walla.co.il/item/3837064
 https://hamal.co.il/main/לא-חשבתי-שזה-יכול-לקרות-בגיל-שלי-הסיכון-הבריאותי-שצעירים-267318
 https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-כטבם-בדרום-לבנון-התוצאות-בבדיקה-267326
+https://news.walla.co.il/break/3837071
+https://news.walla.co.il/break/3837072
+https://hamal.co.il/main/הכי-מבוקש-בווינה-נועם-בתן-כובש-את-שערי-העיתונות-העולמית-267317
+https://hamal.co.il/main/ראש-המלל-לשעבר-עונה-האם-ארהב-תחזור-לתקוף-באיראן-267328
