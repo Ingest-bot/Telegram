@@ -1,8 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/פרשת-בהר-בחוקותי-מה-עומד-מאחורי-האיסור-על-ריבית-266981
-https://news.walla.co.il/item/3836483
-https://hamal.co.il/main/הירי-לצפון-לא-דווח-על-נפגעים--תיעוד-היירוטים-266998
-https://hamal.co.il/main/צהל-על-הירי-לצפון-שיגור-1-יורט-היתר-נפלו-בשטחים-פתוחים-266999
+COUNTER:1
 https://news.walla.co.il/break/3836486
 https://news.walla.co.il/break/3836487
 https://news.walla.co.il/break/3836488
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837302
 https://hamal.co.il/main/לא-נעים-עטיפת-תקליט-הושלכה-על-אריק-קלפטון-בהופעה-267453
 https://hamal.co.il/main/רצח-את-אשתו-ירה-לעבר-מכוניות---ונמלט-תיעוד-האימה-מרמלה-267454
 https://hamal.co.il/main/הפנטגון-צוללת-אמריקנית-הנושאת-נשק-גרעיני-הגיעה-לגיברלטר-267455
+https://news.walla.co.il/break/3837308
+https://news.walla.co.il/item/3837304
+https://news.walla.co.il/item/3837306
+https://hamal.co.il/main/יצא-מהבית-עם-אלה---ותקף-נער-בן-13-אירוע-אלימות-בביס-באילת-267443
