@@ -1,6 +1,4 @@
 COUNTER:3
-https://news.walla.co.il/item/3836479
-https://hamal.co.il/main/ילד-בן-4-נפגע-מרכב-בגוש-עציון-מצבו-קשה-267000
 https://news.walla.co.il/break/3836490
 https://news.walla.co.il/break/3836496
 https://news.walla.co.il/item/3836492
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יצא-מהבית-עם-אלה---ותקף-נער-בן-13
 https://news.walla.co.il/break/3837312
 https://hamal.co.il/main/רכב-פרץ-מחסום-בכניסה-לקיבוץ-להב-ונמלט-הנסיבות-בבדיקה-267456
 https://hamal.co.il/main/דיווח-איראן-העבירה-מטוסי-צבא-לפקיסטן-לאחר-הפסקת-האש-267457
+https://news.walla.co.il/break/3837316
+https://news.walla.co.il/break/3837314
