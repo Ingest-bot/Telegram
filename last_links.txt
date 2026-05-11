@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3836378
-https://hamal.co.il/main/אנחנו-יושבים-ומחכים-למה-לאזעקות-זעקת-תושבי-הגליל-266949
-https://news.walla.co.il/break/3836390
+COUNTER:2
 https://news.walla.co.il/break/3836395
 https://hamal.co.il/main/גורם-צבאי-איראני-שיגרנו-טילים-לעבר-״האויב״-266951
 https://news.walla.co.il/break/3836399
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837195
 https://news.walla.co.il/item/3837199
 https://hamal.co.il/main/הרים-אבן-מעניינת-ילד-גילה-פסלון-מפואר-בן-1700-שנה-בטיול-ב-267325
 https://hamal.co.il/main/טראמפ-דוחה-את-תשובת-איראן-מחירי-הנפט-מזנקים-בעוד-סגירת-מצר-267385
+https://news.walla.co.il/item/3837207
+https://hamal.co.il/main/שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמה-שחר-יותר-לפרסום-267387
+https://hamal.co.il/main/חכ-משה-סעדה-ממשלה-ממנה-ממשלה-מפטרת-ותפקיד-היועמש-כשמו-267389
