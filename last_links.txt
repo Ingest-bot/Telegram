@@ -1,8 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3836364
-https://news.walla.co.il/break/3836367
-https://news.walla.co.il/item/3836360
-https://hamal.co.il/main/טראמפ-נגד-מחירי-הכרטיסים-למונדיאל-גם-אני-לא-הייתי-משלם-266927
+COUNTER:34
 https://news.walla.co.il/item/3836364
 https://hamal.co.il/main/שובו-של-פרוייקט-החירות-266928
 https://news.walla.co.il/break/3836374
@@ -499,3 +495,7 @@ https://hamal.co.il/main/כנס-הקיץ-נפתח-חוק-הגיוס-והמהפכ
 https://hamal.co.il/main/המשטרה-על-האירוע-בלוד-בן-16-נורה-267377
 https://hamal.co.il/main/תייר-תבע-את-המלון-ביוון-כי-לא-מצא-מיטת-שיזוף-פנויה---וזכה-מע-267378
 https://news.walla.co.il/item/3837167
+https://news.walla.co.il/break/3837172
+https://news.walla.co.il/break/3837174
+https://hamal.co.il/main/היועמשית-לבגץ-לוין-267380
+https://hamal.co.il/main/צהל-מסוק-שפינה-פצועים-לא-הצליח-להמריא-בדרום-לבנון-267381
