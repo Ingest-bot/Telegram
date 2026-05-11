@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/דוברת-הבית-הלבן-אמא-הלב-שלנו-מתפוצץ-מאהבה-266899
-https://hamal.co.il/main/מאי-ערב-מאשרת-את-הזוגיות-עם-תום-ברכה-הגדול-ממנה-ב-22-שנים-266902
-https://news.walla.co.il/break/3836322
-https://news.walla.co.il/break/3836324
+COUNTER:21
 https://hamal.co.il/main/פרשים-בהפגנת-החרדים-בירושלים-צירי-הרכבת-הקלה-נחסמו-266907
 https://hamal.co.il/main/בכירים-אמריקנים-השיחות-בין-ישראל-ללבנון-יתקיימו-בשבוע-הבא-266911
 https://news.walla.co.il/break/3836337
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-תושבים-לבנונים-מתפנים-א�
 https://hamal.co.il/main/דיווחים-בלבנון-צהל-תקף-בדרום-המדינה--תיעוד-267353
 https://news.walla.co.il/item/3837117
 https://hamal.co.il/main/הנרצחת-ברמלה-רנין-אלעביד--אשתו-של-החשוד-267354
+https://news.walla.co.il/item/3837131
+https://news.walla.co.il/item/3837134
+https://hamal.co.il/main/הבית-מרושת-במצלמות-הסתבך-עם-גרושה-ונסחט-ב-12-מיליארד-דו-267336
+https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בצפון-מצבו-קשה-267356
