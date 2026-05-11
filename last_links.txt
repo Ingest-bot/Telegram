@@ -1,9 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3836490
-https://news.walla.co.il/break/3836496
-https://news.walla.co.il/item/3836492
-https://news.walla.co.il/item/3836494
-https://hamal.co.il/main/איחוד-האמירויות-יירטנו-2-טילים-בליסטיים-ו-3-כטבמים-267002
+COUNTER:5
 https://hamal.co.il/main/כוכבת-הילדים-חשפה-267001
 https://hamal.co.il/main/כוכבת-הילדים-חשפה-267003
 https://news.walla.co.il/break/3836497
@@ -499,3 +494,8 @@ https://hamal.co.il/main/רכב-פרץ-מחסום-בכניסה-לקיבוץ-לה
 https://hamal.co.il/main/דיווח-איראן-העבירה-מטוסי-צבא-לפקיסטן-לאחר-הפסקת-האש-267457
 https://news.walla.co.il/break/3837316
 https://news.walla.co.il/break/3837314
+https://news.walla.co.il/break/3837318
+https://news.walla.co.il/break/3837319
+https://news.walla.co.il/break/3837317
+https://hamal.co.il/main/התרעות-הופעלו-במג׳דל-שמס-הפרטים-בבדיקה-267460
+https://hamal.co.il/main/ללא-מתנגדים-אושר-סופית-החוק-להעמדתם-לדין-של-מחבלי-ה-710-267461
