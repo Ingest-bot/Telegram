@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3836316
-https://news.walla.co.il/item/3836314
+COUNTER:19
 https://hamal.co.il/main/דוברת-הבית-הלבן-אמא-הלב-שלנו-מתפוצץ-מאהבה-266899
 https://hamal.co.il/main/מאי-ערב-מאשרת-את-הזוגיות-עם-תום-ברכה-הגדול-ממנה-ב-22-שנים-266902
 https://news.walla.co.il/break/3836322
@@ -499,3 +497,5 @@ https://hamal.co.il/main/פועל-נהרג-מפגיעצ-חפץ-כבד-באתר-�
 https://hamal.co.il/main/הושלם-פינוי-הנוסעים-מספינת-הווירוס-2-נוספים-אובחנו-חיוביי-267351
 https://hamal.co.il/main/תיעוד-תושבים-לבנונים-מתפנים-אחרי-אזהרת-צהל-267352
 https://hamal.co.il/main/דיווחים-בלבנון-צהל-תקף-בדרום-המדינה--תיעוד-267353
+https://news.walla.co.il/item/3837117
+https://hamal.co.il/main/הנרצחת-ברמלה-רנין-אלעביד--אשתו-של-החשוד-267354
