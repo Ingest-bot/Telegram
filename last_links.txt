@@ -1,9 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/המקום-המסוכן-בעולם-266974
-https://hamal.co.il/main/ניסה-להימלט-מהשוטרים-דרס-מתנדב---ונעצר-266987
-https://hamal.co.il/main/צהל-לוחם-נפצע-באורח-קשה-2-נוספים-במצב-בינוני-266988
-https://news.walla.co.il/item/3836480
-https://hamal.co.il/main/צהל-באזהרה-חריגה-נערכים-לירי-לעבר-הצפון-266989
+COUNTER:39
 https://news.walla.co.il/break/3836482
 https://hamal.co.il/main/פרשת-בהר-בחוקותי-מה-עומד-מאחורי-האיסור-על-ריבית-266981
 https://news.walla.co.il/item/3836483
@@ -499,3 +494,8 @@ https://hamal.co.il/main/גל-הפרישות-בכחול-לבן-גם-ראש-מט�
 https://hamal.co.il/main/הכנסת-תצביע-על-חוק-העמדה-לדין-של-מחבלי-7-באוקטובר-267445
 https://hamal.co.il/main/טקס-חילופי-מג״דים-בגדוד-653-267448
 https://hamal.co.il/main/מרגש-האב-של-הלוחם-שנפל-בלבנון-בירך-את-חברו-לצוות-בחופה-267451
+https://news.walla.co.il/break/3837300
+https://news.walla.co.il/item/3837299
+https://news.walla.co.il/item/3837302
+https://hamal.co.il/main/לא-נעים-עטיפת-תקליט-הושלכה-על-אריק-קלפטון-בהופעה-267453
+https://hamal.co.il/main/רצח-את-אשתו-ירה-לעבר-מכוניות---ונמלט-תיעוד-האימה-מרמלה-267454
