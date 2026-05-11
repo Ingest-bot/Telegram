@@ -1,8 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3836395
-https://hamal.co.il/main/גורם-צבאי-איראני-שיגרנו-טילים-לעבר-״האויב״-266951
-https://news.walla.co.il/break/3836399
-https://news.walla.co.il/item/3836397
+COUNTER:4
 https://news.walla.co.il/break/3836402
 https://hamal.co.il/main/מערכות-הגנה-איראניות-הופעלו-דיווח-שארהב-תקפה-בבנדר-עבאס-266953
 https://hamal.co.il/main/רשת-פוקס--צבא-ארהב-ביצע-מוקדם-יותר-תקיפות-בבנדר-עבאס-באיר-266954
@@ -499,3 +495,7 @@ https://hamal.co.il/main/טראמפ-דוחה-את-תשובת-איראן-מחיר
 https://news.walla.co.il/item/3837207
 https://hamal.co.il/main/שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמה-שחר-יותר-לפרסום-267387
 https://hamal.co.il/main/חכ-משה-סעדה-ממשלה-ממנה-ממשלה-מפטרת-ותפקיד-היועמש-כשמו-267389
+https://news.walla.co.il/break/3837216
+https://news.walla.co.il/item/3837214
+https://hamal.co.il/main/לאחר-6-שנים-הורשע-המחבל-שרצח-את-הלוחם-עמית-בן-יגאל-267388
+https://hamal.co.il/main/מחקר-חדש-זה-הגורם-שקובע-את-תוחלת-החיים-יותר-מתזונה-או-ספור-267335
