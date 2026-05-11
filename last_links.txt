@@ -1,10 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3836210
-https://hamal.co.il/main/תצפית-מטורפת-עורב-ניסה-לחטוף-טרף-מנחש---שנמלט-בעמידה-266864
-https://hamal.co.il/main/דובר-צה״ל-בערבית-באזהרה-דחופה-לתושבי-לבנון-״התפנו-מיידית״-266865
-https://news.walla.co.il/break/3836222
-https://news.walla.co.il/break/3836225
-https://news.walla.co.il/item/3836223
+COUNTER:35
 https://hamal.co.il/main/מכבי-תא-פנתה-לאוהדיה-ומאיימת-די-לשירת-טועמה-מחבל-266834
 https://hamal.co.il/main/פעילות-כוחות-גבעתי-בדרום-לבנון-266866
 https://news.walla.co.il/break/3836226
@@ -499,3 +493,9 @@ https://hamal.co.il/main/קלאסיקה-מודרנית-ברצלונה-זכתה-�
 https://news.walla.co.il/break/3837033
 https://hamal.co.il/main/דיווח-איראן-דחתה-את-ההצעה-האמריקנית-״משמעותה-כניעה״-267303
 https://news.walla.co.il/break/3837038
+https://news.walla.co.il/break/3837040
+https://news.walla.co.il/break/3837043
+https://news.walla.co.il/break/3837045
+https://hamal.co.il/main/נתניהו-על-המשטר-האיראני-״הימים-שלהם-ספורים״-267304
+https://hamal.co.il/main/נער-בן-15-נפצע-בינוני-באירוע-אלימות-ברמת-גן-267305
+https://hamal.co.il/main/רס״ב-במיל׳-אלכסנדר-גלובניוב-נפל-בקרב-סמוך-לגבול-לבנון-267306
