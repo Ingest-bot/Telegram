@@ -1,9 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3836457
-https://news.walla.co.il/break/3836458
-https://news.walla.co.il/break/3836455
-https://news.walla.co.il/item/3836451
-https://hamal.co.il/main/צפו-תינוק-חולץ-מרכב-נעול-בחדרה-ללא-פגע-266982
+COUNTER:32
 https://news.walla.co.il/break/3836466
 https://hamal.co.il/main/פרשת-בהר-בחקתי-אלו-זמני-השבת-266979
 https://hamal.co.il/main/כטבם-אותר-על-גגת-בית-ספר-בגליל--תיעוד-266983
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תושב-מזרח-ירושלים-ניסה-להבריח-
 https://hamal.co.il/main/שרי-האיחוד-האירופי-קבעו-סנקציות-יוטלו-נגד-מתנחלים-אלימים-267426
 https://hamal.co.il/main/3-כבשים-ועז-חולצו-לאחר-שנפלו-לבור-בעומק-12-מטרים-267438
 https://hamal.co.il/main/נתניהו-״מי-שממנה-את-ראש-המוסד-זה-רק-ראש-הממשלה״-267439
+https://news.walla.co.il/break/3837288
+https://news.walla.co.il/break/3837290
+https://news.walla.co.il/item/3837277
+https://hamal.co.il/main/דיווח-״-267440
+https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
