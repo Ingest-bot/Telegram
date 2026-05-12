@@ -1,10 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/רוכבת-אופניים-חשמליים-נפצעה-באורח-בינוני-בכביש-20-267035
-https://hamal.co.il/main/אירועי-אלימות-בתל-אביב-ובאשדוד-2-גברים-נפצעו-באורח-בינוני-267036
-https://hamal.co.il/main/רהט-חשוד-נורה-לאחר-שנמלט-ותקף-שוטרים-267038
-https://news.walla.co.il/item/3836577
-https://hamal.co.il/main/מעונן-חלקית-וקפיצה-נוספת-בטמפרטורות--תחזית-מזג-האוויר-267042
-https://news.walla.co.il/break/3836579
+COUNTER:29
 https://hamal.co.il/main/טורקיה-הציגה-טיל-בליסטי-מתקדם-שיכול-לשאת-פצצת-אטום-267045
 https://news.walla.co.il/break/3836589
 https://news.walla.co.il/item/3836585
@@ -499,3 +493,9 @@ https://hamal.co.il/main/מפקדותעמדות-תצפית-ומחסני-אמלח
 https://hamal.co.il/main/לוחמי-גולני-חצו-את-הליטאני-מסר-לממשלת-לבנון-267495
 https://news.walla.co.il/break/3837409
 https://hamal.co.il/main/הביקור-של-הבכיר-האיראני---לקראת-הקמת-הממשלה-267492
+https://news.walla.co.il/item/3837403
+https://news.walla.co.il/item/3837411
+https://hamal.co.il/main/הסתיימה-החקירה-הנגדית-בתיק-4000-והחלה-החקירה-בתיק-2000-267508
+https://hamal.co.il/main/דדי-שמחי-על-חיבור-עם-וינטר-אנחנו-מדברים-267509
+https://hamal.co.il/main/אטלנטיס-היבשתית-העיר-האבודה-שהייתה-גדולה-יותר-מלונדון-ונעלמ-267481
+https://hamal.co.il/main/השגריר-האמריקני-מאשר-ישראל-שלחה-כיפת-ברזל-לאמירויות-267510
