@@ -1,6 +1,4 @@
 COUNTER:35
-https://hamal.co.il/main/אירוע-אלימות-בערד-בן-30-פונה-במצב-קשה-267059
-https://news.walla.co.il/break/3836614
 https://news.walla.co.il/break/3836615
 https://hamal.co.il/main/אחמד-אל-נעאמי-מרהט-נהרג-מירי-משטרתי-היד-על-ההדק-קלה-מדי-267061
 https://news.walla.co.il/item/3836617
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-השתלט-על-הליטני-מחבלים-חוס
 https://news.walla.co.il/item/3837446
 https://hamal.co.il/main/ישיר-בגץ-דן-בעתירות-נגד-מינוי-גופמן-לראש-המוסד-267519
 https://hamal.co.il/main/התוסף-הזול-שמגדיל-שרירים-נמצא-יעיל-בשיפור-הזיכרון-267485
+https://news.walla.co.il/break/3837458
+https://news.walla.co.il/break/3837457
