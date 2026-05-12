@@ -1,9 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/break/3836728
-https://news.walla.co.il/item/3836727
-https://hamal.co.il/main/איראן-מאיימת-אם-267141
-https://news.walla.co.il/break/3836734
-https://news.walla.co.il/item/3836733
+COUNTER:6
 https://news.walla.co.il/item/3836740
 https://hamal.co.il/main/בן-גביר-לגיל-לימון-מדוע-אתה-תוקע-גירוש-מסתננים-מדרום-תא-267142
 https://hamal.co.il/main/תא2-נערים-החזיקו-כלי-תקיפה-ונעצרו-המשטרה-פיזרה-מסיבה-בעיר-267143
@@ -499,3 +494,8 @@ https://hamal.co.il/main/היערכות-לקראת-המשחק-בין-ביתר-י
 https://hamal.co.il/main/לאנס-סטרול-בן-הזוג-של-יעל-שלביה-הגיע-לארץ--פרסום-ראשון-267603
 https://hamal.co.il/main/בגץ-ביטל-את-הדחת-יור-ועדת-האיתור-בתאגיד-267604
 https://hamal.co.il/main/רצח-באדישות-זה-מקומם-המאבק-להחמרת-האישומים-בפרשת-זלקה-267607
+https://news.walla.co.il/break/3837578
+https://news.walla.co.il/break/3837583
+https://news.walla.co.il/break/3837585
+https://hamal.co.il/main/בנט-ברית-שמבוססת-על-פגיעה-בחיילי-צהל---סופה-לקרוס-267608
+https://hamal.co.il/main/נגד-צה״ל-נפצע-בינוני-וחייל-צה״ל-באורח-קל-מפגיעת-רחפן-נפץ-267609
