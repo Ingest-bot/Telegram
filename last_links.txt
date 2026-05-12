@@ -1,5 +1,4 @@
 COUNTER:10
-https://news.walla.co.il/break/3836756
 https://news.walla.co.il/break/3836760
 https://news.walla.co.il/item/3836758
 https://hamal.co.il/main/בפעם-ה-2-היום-יורטוה-מטרה-אווירית-חשודה-בדרום-לבנון-267150
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837597
 https://hamal.co.il/main/רגע-האמת-של-נועם-בתן-חצי-גמר-האירוויזיון-יוצא-לדרך--דיווח-267615
 https://news.walla.co.il/break/3837604
 https://hamal.co.il/main/פרסום-ראשון-תוכנית-חיזבאללה-לכיבוש-ביירות---והלחץ-על-קאסם-267618
+https://news.walla.co.il/break/3837609
