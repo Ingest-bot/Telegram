@@ -1,8 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/טורקיה-הציגה-טיל-בליסטי-מתקדם-שיכול-לשאת-פצצת-אטום-267045
-https://news.walla.co.il/break/3836589
-https://news.walla.co.il/item/3836585
-https://hamal.co.il/main/הצגת-הטרלול-האחרונה-לפני-הבחירות-היכונו-למופע-ראווה-פיננסי-267046
+COUNTER:30
 https://hamal.co.il/main/ביממה-האחרונה-צהל-תקף-יותר-מ-85-תשתיות-חיזבאללה-בלבנון-267048
 https://news.walla.co.il/break/3836597
 https://hamal.co.il/main/לקראת-חידוש-הלחימה-עם-איראן-ארהב-מתגברת-כוחות-267050
@@ -499,3 +495,7 @@ https://hamal.co.il/main/הסתיימה-החקירה-הנגדית-בתיק-4000-
 https://hamal.co.il/main/דדי-שמחי-על-חיבור-עם-וינטר-אנחנו-מדברים-267509
 https://hamal.co.il/main/אטלנטיס-היבשתית-העיר-האבודה-שהייתה-גדולה-יותר-מלונדון-ונעלמ-267481
 https://hamal.co.il/main/השגריר-האמריקני-מאשר-ישראל-שלחה-כיפת-ברזל-לאמירויות-267510
+https://news.walla.co.il/break/3837430
+https://news.walla.co.il/break/3837431
+https://news.walla.co.il/item/3837424
+https://hamal.co.il/main/ינון-מגל-מזהיר-את-נתניהו-267511
