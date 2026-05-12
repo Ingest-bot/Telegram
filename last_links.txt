@@ -1,8 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3836713
-https://news.walla.co.il/break/3836714
-https://hamal.co.il/main/-ספרד-תוצאות-בדיקת-האישה-שנחשדה-בהידבקות-בוירוס-ההאנטה-יצא-267134
-https://news.walla.co.il/break/3836715
+COUNTER:38
 https://news.walla.co.il/break/3836717
 https://hamal.co.il/main/גבר-בן-64-במצב-קשה-עם-חבלה-רב-מערכתית-טל-חובש-רפואת-חירום-267135
 https://hamal.co.il/main/משרד-החוץ-שני-פעילים-ממשט-המחאה-לרצועת-עזה-גורשו-מישראל-יוא-267136
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837564
 https://news.walla.co.il/item/3837566
 https://news.walla.co.il/item/3837565
 https://hamal.co.il/main/בשורה-משמחת-לנופשים-בחול-הקלה-ברמת-הסיכון-לטיסות-בישראל-267571
+https://news.walla.co.il/break/3837568
+https://news.walla.co.il/break/3837567
+https://news.walla.co.il/break/3837571
+https://hamal.co.il/main/ילד-בן-8-במצב-קשה-לאחר-שהחךיק-במהלך-רכיבה-על-אופניים-267576
