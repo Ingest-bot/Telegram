@@ -1,9 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/item/3836740
-https://hamal.co.il/main/בן-גביר-לגיל-לימון-מדוע-אתה-תוקע-גירוש-מסתננים-מדרום-תא-267142
-https://hamal.co.il/main/תא2-נערים-החזיקו-כלי-תקיפה-ונעצרו-המשטרה-פיזרה-מסיבה-בעיר-267143
-https://news.walla.co.il/break/3836742
-https://news.walla.co.il/item/3836744
+COUNTER:8
 https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-חשודה-בדרום-לבנון-267144
 https://hamal.co.il/main/במהלך-הסופש-מעל-40-תשתיות-חיזבאללה-הושמדו-10-מחבלים-חוסלו-267145
 https://news.walla.co.il/break/3836748
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837583
 https://news.walla.co.il/break/3837585
 https://hamal.co.il/main/בנט-ברית-שמבוססת-על-פגיעה-בחיילי-צהל---סופה-לקרוס-267608
 https://hamal.co.il/main/נגד-צה״ל-נפצע-בינוני-וחייל-צה״ל-באורח-קל-מפגיעת-רחפן-נפץ-267609
+https://news.walla.co.il/break/3837588
+https://news.walla.co.il/item/3837592
+https://news.walla.co.il/item/3837590
+https://hamal.co.il/main/חזרה-ללחימה-טראמפ-״זה-כבר-מאחורינו-המצור-מאוד-אפקטיבי״-267610
+https://hamal.co.il/main/ערב-הסעודית-ביצעה-תקיפות-חשאיות-נגד-איראן-במהלך-המלחמה-267611
