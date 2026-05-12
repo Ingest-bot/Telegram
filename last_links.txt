@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/היועמשית-לבגץ-בטלו-את-מינויו-של-גופמן-לראש-המוסד-267152
-https://news.walla.co.il/break/3836774
+COUNTER:15
 https://news.walla.co.il/break/3836778
 https://news.walla.co.il/item/3836772
 https://hamal.co.il/main/פרץ-ל-2-בתי-קפה-בתא-267155
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837616
 https://news.walla.co.il/break/3837617
 https://news.walla.co.il/item/3837615
 https://hamal.co.il/main/דיווח-הממשל-האמריקני-שוקל-לשנות-את-שם-המלחמה-267624
+https://news.walla.co.il/break/3837623
+https://hamal.co.il/main/זה-לא-רק-אצלכם-תקלה-עולמית-בספוטיפיי-מונעת-ניגון-שירים-267630
