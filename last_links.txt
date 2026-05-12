@@ -1,10 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/55-שנה-אחרי-הנחיתה-על-הירח-הפנטגון-חשף-מסמך-שנשמר-בסוד-267093
-https://hamal.co.il/main/לראשונה-מפרוץ-המלחמה-קטאר-מנסה-לשבור-את-המצור-בהורמוז-דניאל-267128
-https://news.walla.co.il/item/3836698
-https://hamal.co.il/main/חיל-האוויר-יירט-לפני-זמן-קצר-מטרה-אווירית-חשודה-שזוהתה-במרחב-267129
-https://news.walla.co.il/break/3836707
-https://hamal.co.il/main/קונגו-לפחות-69-בני-אדם-נהרגו-במתקפת-מיליציה-במדינה-רויטרס-267130
+COUNTER:35
 https://news.walla.co.il/break/3836709
 https://news.walla.co.il/break/3836710
 https://news.walla.co.il/break/3836711
@@ -499,3 +493,9 @@ https://hamal.co.il/main/גר-ברכב-מתקלח-בחדר-כושר-בעל-המ�
 https://news.walla.co.il/break/3837552
 https://hamal.co.il/main/לא-10000-זה-מספר-הצעדים-המדויק-בו-משקל-הגוף-מתחיל-לרדת-267561
 https://hamal.co.il/main/עוצמה-יהודית-״יש-לממשלה-הזאת-עוד-כמה-משימות-לבצע״-267564
+https://news.walla.co.il/break/3837560
+https://news.walla.co.il/break/3837558
+https://news.walla.co.il/item/3837556
+https://hamal.co.il/main/העבירה-שכמעט-כולנו-עושים---ועוד-בטוחים-שמדובר-במצווה-267557
+https://hamal.co.il/main/אזעקות-הופעלו-בצפון-בפעם-השלישית-תוך-שעה-267567
+https://hamal.co.il/main/מפרים-את-הפסקת-האש-חיזבאללה-שיגר-מספר-רחפני-נפץ-267568
