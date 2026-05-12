@@ -1,9 +1,4 @@
 COUNTER:9
-https://news.walla.co.il/break/3836505
-https://news.walla.co.il/break/3836507
-https://hamal.co.il/main/השחקן-מיקי-לאון-התחתן-עם-בת-הזוג-הצעירה-ממנו-ב-20-שנה-267015
-https://news.walla.co.il/break/3836512
-https://hamal.co.il/main/אלוף-אכ״א-דדו-בר-כליפא-במסר-לפקודיו-לכבוד-שבת-267019
 https://news.walla.co.il/break/3836519
 https://news.walla.co.il/break/3836520
 https://news.walla.co.il/item/3836517
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837323
 https://news.walla.co.il/break/3837325
 https://news.walla.co.il/item/3837326
 https://news.walla.co.il/break/3837329
+https://news.walla.co.il/break/3837333
+https://news.walla.co.il/break/3837335
+https://news.walla.co.il/break/3837336
+https://news.walla.co.il/break/3837337
+https://news.walla.co.il/break/3837338
