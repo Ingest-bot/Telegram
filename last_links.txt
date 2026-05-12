@@ -1,7 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/לראשונה-האירוויזיון-אוכף-את-כללי-ההצבעה-החדשים---נגד-ישראל-267090
-https://news.walla.co.il/break/3836667
-https://news.walla.co.il/break/3836664
+COUNTER:20
 https://hamal.co.il/main/אזעקה-בגליל-העליון-267103
 https://hamal.co.il/main/נער-בן-13-267104
 https://news.walla.co.il/break/3836668
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837513
 https://hamal.co.il/main/בדרך-לפיזור-הכנסת-267539
 https://hamal.co.il/main/תיעוד-מקומם-אסיר-יצא-לטיול---וריסס-צלב-קרס-על-קיר-267540
 https://hamal.co.il/main/הטעות-שכמעט-עלתה-לה-בחייה-הרימה-חרק-במהלך-טיול-ומיד-קרסה-267496
+https://news.walla.co.il/break/3837520
+https://hamal.co.il/main/טרגדיה-ברחובות-פועל-נהרג-מפגיעת-חפץ-כבד-באתר-בנייה-267541
+https://hamal.co.il/main/שר-החוץ-הטורקי-״תומכים-במאמצים-לפתיחת-מצר-הורמוז״-267542
