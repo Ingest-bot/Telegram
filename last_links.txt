@@ -1,10 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3836629
-https://news.walla.co.il/break/3836630
-https://hamal.co.il/main/ילד-בן-5-נפל-מגובה-בצפון-ונפצע-קשה-267081
-https://news.walla.co.il/break/3836638
-https://news.walla.co.il/item/3836631
-https://news.walla.co.il/break/3836640
+COUNTER:9
 https://hamal.co.il/main/המשטרה-עצרה-3-חשודים-בתקיפה-חמורה-של-צעיר-בתל-אביב-267085
 https://hamal.co.il/main/רוסיה-מעבירה-לאיראן-חלקי-כטבמים-דרך-הים-הכספי-267084
 https://news.walla.co.il/break/3836644
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צפו-החטופים-שחולצו-267526
 https://hamal.co.il/main/צעיר-נאשם-שדקר-נער-בקריית-גת-267528
 https://hamal.co.il/main/האירוע-המזעזע-בלג-בעומר-הוארך-מעצרם-של-2-חשודים-בשריפת-כלב-267529
 https://hamal.co.il/main/מה-באמת-עוזר-לרדת-במשקל-מחקר-חדש-מצביע-על-גורם-מפתיע-267487
+https://news.walla.co.il/break/3837489
+https://news.walla.co.il/break/3837491
+https://hamal.co.il/main/ראשוני-דיווח-על-יציאת-מיירט-באילת---ללא-התרעה-267530
+https://hamal.co.il/main/צה-267531
+https://hamal.co.il/main/אישום-תקף-את-שכנו-הקשיש---267532
+https://hamal.co.il/main/״שמעתי-קולות-בראש-הוארך-מעצרו-של-החשוד-ברצח-אשתו-ברמלה-267533
