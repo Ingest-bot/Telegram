@@ -1,6 +1,4 @@
 COUNTER:15
-https://hamal.co.il/main/3-ימי-הפסקת-אש-ברוסיה-ואוקראינה-267024
-https://news.walla.co.il/item/3836545
 https://news.walla.co.il/break/3836546
 https://news.walla.co.il/break/3836549
 https://news.walla.co.il/break/3836550
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-טראמפ-מתוסכל-מאיראן---וש�
 https://hamal.co.il/main/ישראלים-קיבלו-הודעות-גיוס-מאיראן-בנו-את-עתידכם-עכשיו-267475
 https://news.walla.co.il/break/3837351
 https://hamal.co.il/main/-קשה-לקריאה-267479
+https://news.walla.co.il/break/3837356
+https://news.walla.co.il/item/3837354
