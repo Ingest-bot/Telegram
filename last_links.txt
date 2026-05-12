@@ -1,6 +1,4 @@
-COUNTER:20
-https://hamal.co.il/main/אזעקה-בגליל-העליון-267103
-https://hamal.co.il/main/נער-בן-13-267104
+COUNTER:21
 https://news.walla.co.il/break/3836668
 https://news.walla.co.il/break/3836669
 https://news.walla.co.il/item/3836653
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הטעות-שכמעט-עלתה-לה-בחייה-הרימ
 https://news.walla.co.il/break/3837520
 https://hamal.co.il/main/טרגדיה-ברחובות-פועל-נהרג-מפגיעת-חפץ-כבד-באתר-בנייה-267541
 https://hamal.co.il/main/שר-החוץ-הטורקי-״תומכים-במאמצים-לפתיחת-מצר-הורמוז״-267542
+https://news.walla.co.il/item/3837332
+https://hamal.co.il/main/הרב-לנדו-״אין-לנו-אמון-יותר-בנתניהו״-267544
