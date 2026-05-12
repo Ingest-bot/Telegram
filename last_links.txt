@@ -1,7 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/אזעקות-בישובים-רבים-בגליל-המערבי-267112
-https://hamal.co.il/main/צהל-חיל-האוויר-יירט-מספר-מטרות-אוויריות-אין-נפגעים-267118
-https://news.walla.co.il/break/3836677
+COUNTER:25
 https://hamal.co.il/main/הלחץ-במפרץ-גובר-והחשש-בישראל-מפיצוץ-במומ-מתעצם-267100
 https://news.walla.co.il/break/3836679
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267119
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3837046
 https://hamal.co.il/main/צה״ל-התייחס-לדו״ח-מבקר-המדינה-״-267543
 https://hamal.co.il/main/מדאיג-בתי-החולים-שעלולים-להיות-מושבתים-במלחמה-הבאה-267546
 https://hamal.co.il/main/דוח-חריף-של-המבקר-הדרג-המדיני-ידע-על-המחסור-באמלח-ולא-פעל-267548
+https://news.walla.co.il/item/3837526
+https://news.walla.co.il/item/3837532
+https://hamal.co.il/main/קיבלו-את-הכומתה-500-חיילי-נח״ל-סיימו-את-הכשרתם-267549
