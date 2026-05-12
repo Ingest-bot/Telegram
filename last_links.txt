@@ -1,8 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/טראמפ-אני-מצפה-לתשובה-מאיראן-בקרוב-267028
-https://hamal.co.il/main/טראמפ-״פקיסטן-ביקשה-מאיתנו-לא-לעשות-את-פרוייקט-החירות״-267029
-https://hamal.co.il/main/פיפא-חושפת-פרטים-חדשים-על-טקס-פתיחת-המונדיאל-267031
-https://hamal.co.il/main/הקיץ-כבר-כאן-התחממות-נוספת-267032
+COUNTER:24
 https://hamal.co.il/main/הסנאט-האמריקני-צפוי-לדון-בחוק-הקריפטו-בשבוע-הבא-267034
 https://news.walla.co.il/break/3836575
 https://hamal.co.il/main/רוכבת-אופניים-חשמליים-נפצעה-באורח-בינוני-בכביש-20-267035
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837377
 https://news.walla.co.il/item/3837372
 https://news.walla.co.il/break/3837387
 https://hamal.co.il/main/חייל-ו-3-משרתי-מילואים-הוכנסו-ל-267491
+https://news.walla.co.il/break/3837400
+https://news.walla.co.il/item/3837394
+https://hamal.co.il/main/מפקדותעמדות-תצפית-ומחסני-אמלח-45-תשתיות-חיזבאללה-הותקפו-267494
+https://hamal.co.il/main/לוחמי-גולני-חצו-את-הליטאני-מסר-לממשלת-לבנון-267495
