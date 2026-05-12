@@ -1,8 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3836546
-https://news.walla.co.il/break/3836549
-https://news.walla.co.il/break/3836550
-https://news.walla.co.il/break/3836552
+COUNTER:17
 https://hamal.co.il/main/חילוץ-במסלול-טיול-ברמת-הגולן-בן-86-פונה-באלונקה-לאחר-שחש-בר-267025
 https://news.walla.co.il/break/3836557
 https://hamal.co.il/main/ארגנטינה-סוכלה-הברחת-ענק-של-400-קג-קוקאין-במטוס-267027
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837351
 https://hamal.co.il/main/-קשה-לקריאה-267479
 https://news.walla.co.il/break/3837356
 https://news.walla.co.il/item/3837354
+https://news.walla.co.il/break/3837361
+https://news.walla.co.il/item/3837360
+https://hamal.co.il/main/זייפו-תעודות-זהות-והיתרי-כניסה-ישראלי-267483
+https://hamal.co.il/main/תקיפת-הקשיש-בתא-267484
