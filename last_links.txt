@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3836748
-https://news.walla.co.il/break/3836750
+COUNTER:10
 https://news.walla.co.il/break/3836756
 https://news.walla.co.il/break/3836760
 https://news.walla.co.il/item/3836758
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חזרה-ללחימה-טראמפ-״זה-כבר-מאחו
 https://hamal.co.il/main/ערב-הסעודית-ביצעה-תקיפות-חשאיות-נגד-איראן-במהלך-המלחמה-267611
 https://news.walla.co.il/break/3837597
 https://hamal.co.il/main/רגע-האמת-של-נועם-בתן-חצי-גמר-האירוויזיון-יוצא-לדרך--דיווח-267615
+https://news.walla.co.il/break/3837604
+https://hamal.co.il/main/פרסום-ראשון-תוכנית-חיזבאללה-לכיבוש-ביירות---והלחץ-על-קאסם-267618
