@@ -1,5 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/רכש-מותג-יוקרה-תושב-אפרת-נעצר-בחשד-שגנב-כסף-מכרטיס-אשראי-267140
+COUNTER:4
 https://news.walla.co.il/break/3836728
 https://news.walla.co.il/item/3836727
 https://hamal.co.il/main/איראן-מאיימת-אם-267141
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3837577
 https://hamal.co.il/main/היערכות-לקראת-המשחק-בין-ביתר-ירושלים-והפועל-באר-שבע-267588
 https://hamal.co.il/main/לאנס-סטרול-בן-הזוג-של-יעל-שלביה-הגיע-לארץ--פרסום-ראשון-267603
 https://hamal.co.il/main/בגץ-ביטל-את-הדחת-יור-ועדת-האיתור-בתאגיד-267604
+https://hamal.co.il/main/רצח-באדישות-זה-מקומם-המאבק-להחמרת-האישומים-בפרשת-זלקה-267607
