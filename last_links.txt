@@ -1,5 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/פרץ-ל-2-בתי-קפה-בתא-267155
+COUNTER:17
 https://hamal.co.il/main/הילל-את-חמאס-תושב-רהט-נאשם-בהסתה-לטרור-267156
 https://news.walla.co.il/break/3836804
 https://news.walla.co.il/item/3836798
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837623
 https://hamal.co.il/main/זה-לא-רק-אצלכם-תקלה-עולמית-בספוטיפיי-מונעת-ניגון-שירים-267630
 https://news.walla.co.il/break/3837627
 https://hamal.co.il/main/נועם-בתן-אחרי-הביצוע-אני-מרגיש-מדהים-שרתי-את-זה-לישראל-267631
+https://hamal.co.il/main/עשה-את-זה-נועם-בתן-העפיל-לגמר-האירוויזיון-267635
