@@ -1,9 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/ביממה-האחרונה-צהל-תקף-יותר-מ-85-תשתיות-חיזבאללה-בלבנון-267048
-https://news.walla.co.il/break/3836597
-https://hamal.co.il/main/לקראת-חידוש-הלחימה-עם-איראן-ארהב-מתגברת-כוחות-267050
-https://hamal.co.il/main/התיקים-הסודיים-חושפים-עדויות-על-היצורים-שיצאו-מהעבמים-267054
-https://news.walla.co.il/break/3836604
+COUNTER:33
 https://hamal.co.il/main/שבת-שמשית-הישראלים-מבקרים-בהמוניהם-בשמורות-הטבע-267057
 https://hamal.co.il/main/סטוקהולם-מפגינים-קראו-לעצור-בכיר-ישראלי-שנאם-בכנס-AI-267058
 https://news.walla.co.il/item/3836609
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837430
 https://news.walla.co.il/break/3837431
 https://news.walla.co.il/item/3837424
 https://hamal.co.il/main/ינון-מגל-מזהיר-את-נתניהו-267511
+https://news.walla.co.il/item/3837432
+https://news.walla.co.il/item/3837430
+https://hamal.co.il/main/״ילד-אסור-ילד-מותר״-267513
+https://hamal.co.il/main/כנופיית-נערים-תקפה-מוכר-בחנות-בא---והחריבה-את-החנות--תיעוד-267514
+https://hamal.co.il/main/צהל-השתלט-על-הליטני-מחבלים-חוסלו-בקרבו-267517
