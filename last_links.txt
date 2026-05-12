@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3836804
-https://news.walla.co.il/item/3836798
+COUNTER:18
 https://news.walla.co.il/break/3836810
 https://news.walla.co.il/break/3836802
 https://news.walla.co.il/item/3836811
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837627
 https://hamal.co.il/main/נועם-בתן-אחרי-הביצוע-אני-מרגיש-מדהים-שרתי-את-זה-לישראל-267631
 https://hamal.co.il/main/עשה-את-זה-נועם-בתן-העפיל-לגמר-האירוויזיון-267635
 https://news.walla.co.il/break/3837633
+https://news.walla.co.il/item/3837636
+https://hamal.co.il/main/המודיעין-האמריקאי-איראן-מחזיקה-ביכולות-טילים-משמעותיות-267637
