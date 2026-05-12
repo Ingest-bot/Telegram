@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3836520
-https://news.walla.co.il/item/3836517
+COUNTER:10
 https://news.walla.co.il/break/3836521
 https://news.walla.co.il/break/3836526
 https://news.walla.co.il/break/3836528
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837336
 https://news.walla.co.il/break/3837337
 https://news.walla.co.il/break/3837338
 https://news.walla.co.il/break/3837339
+https://news.walla.co.il/item/3837341
+https://hamal.co.il/main/יום-שרבי-וחם---הים-פלטה--תחזית-מזג-האוויר-267474
