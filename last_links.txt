@@ -1,8 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/צהל-שלושה-לוחמי-מילואים-נפצעו-מפגיעת-רחפן-נפץ-בגבול-לבנון-267086
-https://news.walla.co.il/break/3836651
-https://hamal.co.il/main/צהל-ושבכ-השמידו-אתר-ייצור-אמלח-בצפון-הרצועה-267087
-https://news.walla.co.il/item/3836654
+COUNTER:14
 https://hamal.co.il/main/ילד-בן-3-נפצע-קשה-מחפץ-כבד-בטמרה-267088
 https://news.walla.co.il/break/3836657
 https://news.walla.co.il/item/3836658
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837493
 https://news.walla.co.il/item/3837494
 https://hamal.co.il/main/נתיב-אחד-נחסם-לתנועה-267534
 https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-בחולון-צוותי-כיבוי-הוזנקו-267535
+https://news.walla.co.il/break/3837504
+https://hamal.co.il/main/הנהג-שדרס-הולכי-רגל-בבש-לא-יואשם-בביצוע-פיגוע-נסע-בשכרות-267537
+https://hamal.co.il/main/מחקר-חושף-אלו-החלומות-המשותפים-שאנשים-רואים-רגע-לפני-שהם-מת-267488
+https://hamal.co.il/main/שריפה-פרצה-267538
