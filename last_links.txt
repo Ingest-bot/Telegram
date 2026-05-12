@@ -1,8 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/המשטרה-עצרה-3-חשודים-בתקיפה-חמורה-של-צעיר-בתל-אביב-267085
-https://hamal.co.il/main/רוסיה-מעבירה-לאיראן-חלקי-כטבמים-דרך-הים-הכספי-267084
-https://news.walla.co.il/break/3836644
-https://news.walla.co.il/item/3836642
+COUNTER:11
 https://hamal.co.il/main/צהל-שלושה-לוחמי-מילואים-נפצעו-מפגיעת-רחפן-נפץ-בגבול-לבנון-267086
 https://news.walla.co.il/break/3836651
 https://hamal.co.il/main/צהל-ושבכ-השמידו-אתר-ייצור-אמלח-בצפון-הרצועה-267087
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ראשוני-דיווח-על-יציאת-מיירט-בא
 https://hamal.co.il/main/צה-267531
 https://hamal.co.il/main/אישום-תקף-את-שכנו-הקשיש---267532
 https://hamal.co.il/main/״שמעתי-קולות-בראש-הוארך-מעצרו-של-החשוד-ברצח-אשתו-ברמלה-267533
+https://news.walla.co.il/item/3837493
+https://news.walla.co.il/item/3837494
+https://hamal.co.il/main/נתיב-אחד-נחסם-לתנועה-267534
+https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-בחולון-צוותי-כיבוי-הוזנקו-267535
