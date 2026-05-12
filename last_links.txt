@@ -1,6 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/ילד-בן-3-נפצע-קשה-מחפץ-כבד-בטמרה-267088
-https://news.walla.co.il/break/3836657
+COUNTER:15
 https://news.walla.co.il/item/3836658
 https://news.walla.co.il/item/3836624
 https://news.walla.co.il/break/3836661
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837504
 https://hamal.co.il/main/הנהג-שדרס-הולכי-רגל-בבש-לא-יואשם-בביצוע-פיגוע-נסע-בשכרות-267537
 https://hamal.co.il/main/מחקר-חושף-אלו-החלומות-המשותפים-שאנשים-רואים-רגע-לפני-שהם-מת-267488
 https://hamal.co.il/main/שריפה-פרצה-267538
+https://news.walla.co.il/item/3837499
+https://hamal.co.il/main/דיירת-האח-הגדול-חושפת-יצאתי-עם-נועם-בתן-267527
