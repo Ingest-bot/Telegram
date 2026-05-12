@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3836628
-https://hamal.co.il/main/ההתרעה-בגליל-המערבי---זיהוי-שווא-267079
-https://hamal.co.il/main/דיווחים-בלבנון-גל-תקיפות-רב-היקף-במדינה-267080
+COUNTER:5
 https://news.walla.co.il/break/3836629
 https://news.walla.co.il/break/3836630
 https://hamal.co.il/main/ילד-בן-5-נפל-מגובה-בצפון-ונפצע-קשה-267081
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837475
 https://news.walla.co.il/item/3837476
 https://hamal.co.il/main/נתניהו-לחרדים-חוק-גיוס---אחרי-הבחירות-267525
 https://hamal.co.il/main/צפו-החטופים-שחולצו-267526
+https://hamal.co.il/main/צעיר-נאשם-שדקר-נער-בקריית-גת-267528
+https://hamal.co.il/main/האירוע-המזעזע-בלג-בעומר-הוארך-מעצרם-של-2-חשודים-בשריפת-כלב-267529
+https://hamal.co.il/main/מה-באמת-עוזר-לרדת-במשקל-מחקר-חדש-מצביע-על-גורם-מפתיע-267487
