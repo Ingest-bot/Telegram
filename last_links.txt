@@ -1,8 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/גבר-בן-30-נפצע-קשה-באירוע-אלימות-באזור-ירושלים-267075
-https://news.walla.co.il/break/3836625
-https://hamal.co.il/main/אזעקה-בגליל-המערבי-חשש-לחדירת-כלי-טיס-עוין-267078
-https://news.walla.co.il/break/3836626
+COUNTER:2
 https://news.walla.co.il/item/3836628
 https://hamal.co.il/main/ההתרעה-בגליל-המערבי---זיהוי-שווא-267079
 https://hamal.co.il/main/דיווחים-בלבנון-גל-תקיפות-רב-היקף-במדינה-267080
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ישראל-נערכה-לתקוף-באיראן---ונב�
 https://news.walla.co.il/break/3837467
 https://hamal.co.il/main/צהל-מחבל-חיזבאללה-ניסה-ליירט-כטבם-של-חיל-האוויר---וחוסל-267522
 https://hamal.co.il/main/דיווחים-בכווית-כוחות-הביטחון-עצרו-4-אנשי-משמרות-המהפכה-267523
+https://news.walla.co.il/break/3837475
+https://news.walla.co.il/item/3837476
+https://hamal.co.il/main/נתניהו-לחרדים-חוק-גיוס---אחרי-הבחירות-267525
+https://hamal.co.il/main/צפו-החטופים-שחולצו-267526
