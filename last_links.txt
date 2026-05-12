@@ -1,7 +1,4 @@
-COUNTER:30
-https://news.walla.co.il/break/3836691
-https://hamal.co.il/main/ביתר-הפסידה-בחיפה-ובאר-שבע-ניצחה-את-פתח-תקווה-267127
-https://news.walla.co.il/break/3836692
+COUNTER:32
 https://hamal.co.il/main/55-שנה-אחרי-הנחיתה-על-הירח-הפנטגון-חשף-מסמך-שנשמר-בסוד-267093
 https://hamal.co.il/main/לראשונה-מפרוץ-המלחמה-קטאר-מנסה-לשבור-את-המצור-בהורמוז-דניאל-267128
 https://news.walla.co.il/item/3836698
@@ -499,3 +496,6 @@ https://hamal.co.il/main/בכיר-בליכוד-״עושים-מאמצים-לפת�
 https://news.walla.co.il/break/3837547
 https://news.walla.co.il/break/3837549
 https://hamal.co.il/main/גר-ברכב-מתקלח-בחדר-כושר-בעל-המסעדה-מהצפון-שהפך-להומלס-267555
+https://news.walla.co.il/break/3837552
+https://hamal.co.il/main/לא-10000-זה-מספר-הצעדים-המדויק-בו-משקל-הגוף-מתחיל-לרדת-267561
+https://hamal.co.il/main/עוצמה-יהודית-״יש-לממשלה-הזאת-עוד-כמה-משימות-לבצע״-267564
