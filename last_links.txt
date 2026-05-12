@@ -1,6 +1,4 @@
 COUNTER:21
-https://news.walla.co.il/break/3836570
-https://news.walla.co.il/break/3836571
 https://news.walla.co.il/break/3836572
 https://news.walla.co.il/break/3836574
 https://hamal.co.il/main/טראמפ-אני-מצפה-לתשובה-מאיראן-בקרוב-267028
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מתחילת-הפסקת-האש-267482
 https://hamal.co.il/main/חזון-יחזקאל-או-טכנולוגיה-חוצנית-התיעוד-שמשגע-את-הרשת-והפולי-267480
 https://hamal.co.il/main/חצה-את-הקווים-והפיל-עשרות-סוחרי-אמלח-38-חשודים-נעצרו-267489
 https://hamal.co.il/main/שר-מהליכוד-בנט-זה-בן-אדם-על-גבול-הדביליות-267490
+https://news.walla.co.il/break/3837377
+https://news.walla.co.il/item/3837372
