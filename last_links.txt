@@ -1,11 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3836615
-https://hamal.co.il/main/אחמד-אל-נעאמי-מרהט-נהרג-מירי-משטרתי-היד-על-ההדק-קלה-מדי-267061
-https://news.walla.co.il/item/3836617
-https://hamal.co.il/main/2-פעילי-המשט-ההומניטרי-לרצועת-עזה-ישוחררו-היום-ממעצר-בישראל-267062
-https://news.walla.co.il/item/3836249
-https://news.walla.co.il/break/3836620
-https://news.walla.co.il/item/3836621
+COUNTER:38
 https://hamal.co.il/main/פגיעת-כטבם-בגליל-המערבי-2-תושבים-פונו-חוסר-האמון-מעמיק-267071
 https://hamal.co.il/main/איראן-הודיעה-נשתתף-במונדיאל---אבל-גם-הציבה-תנאים-267074
 https://news.walla.co.il/break/3836623
@@ -499,3 +492,10 @@ https://hamal.co.il/main/ישיר-בגץ-דן-בעתירות-נגד-מינוי-�
 https://hamal.co.il/main/התוסף-הזול-שמגדיל-שרירים-נמצא-יעיל-בשיפור-הזיכרון-267485
 https://news.walla.co.il/break/3837458
 https://news.walla.co.il/break/3837457
+https://news.walla.co.il/break/3837460
+https://news.walla.co.il/break/3837462
+https://news.walla.co.il/item/3837454
+https://news.walla.co.il/item/3837456
+https://hamal.co.il/main/צהל-מחבלים-התקרבו-לכוחות-צהל-ברצועה-4-מהם-חוסלו-267520
+https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים--בהם-צעיר-במצב-קשה-267521
+https://hamal.co.il/main/ישראל-נערכה-לתקוף-באיראן---ונבלמה-ברגע-האחרון-267512
