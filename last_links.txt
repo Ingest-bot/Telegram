@@ -1,8 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3836709
-https://news.walla.co.il/break/3836710
-https://news.walla.co.il/break/3836711
-https://news.walla.co.il/break/3836712
+COUNTER:36
 https://news.walla.co.il/item/3836674
 https://hamal.co.il/main/ארהב-שר-החוץ-רוביו-נועד-עם-ראש-ממשלת-קטאר-לדון-בשיתוף-פעול-267131
 https://hamal.co.il/main/פוטין-הודיע-כי-רוסיה-קרובה-לעסקת-אנרגיה-משמעותית-עם-סין-רויט-267132
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837556
 https://hamal.co.il/main/העבירה-שכמעט-כולנו-עושים---ועוד-בטוחים-שמדובר-במצווה-267557
 https://hamal.co.il/main/אזעקות-הופעלו-בצפון-בפעם-השלישית-תוך-שעה-267567
 https://hamal.co.il/main/מפרים-את-הפסקת-האש-חיזבאללה-שיגר-מספר-רחפני-נפץ-267568
+https://news.walla.co.il/break/3837562
+https://news.walla.co.il/item/3837559
+https://news.walla.co.il/item/3837563
+https://hamal.co.il/main/התרעות-הופעלו-במנרה-ומרגליות-267570
