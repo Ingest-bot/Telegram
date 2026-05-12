@@ -1,9 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3836668
-https://news.walla.co.il/break/3836669
-https://news.walla.co.il/item/3836653
-https://hamal.co.il/main/ההתרעה-בגליל-העליון---רקטה-נפלה-בשטח-פתוח-267107
-https://hamal.co.il/main/חדשות-השבת-267106
+COUNTER:24
 https://hamal.co.il/main/אזעקות-בישובים-רבים-בגליל-המערבי-267112
 https://hamal.co.il/main/צהל-חיל-האוויר-יירט-מספר-מטרות-אוויריות-אין-נפגעים-267118
 https://news.walla.co.il/break/3836677
@@ -499,3 +494,8 @@ https://hamal.co.il/main/טרגדיה-ברחובות-פועל-נהרג-מפגי�
 https://hamal.co.il/main/שר-החוץ-הטורקי-״תומכים-במאמצים-לפתיחת-מצר-הורמוז״-267542
 https://news.walla.co.il/item/3837332
 https://hamal.co.il/main/הרב-לנדו-״אין-לנו-אמון-יותר-בנתניהו״-267544
+https://news.walla.co.il/break/3837531
+https://news.walla.co.il/item/3837046
+https://hamal.co.il/main/צה״ל-התייחס-לדו״ח-מבקר-המדינה-״-267543
+https://hamal.co.il/main/מדאיג-בתי-החולים-שעלולים-להיות-מושבתים-במלחמה-הבאה-267546
+https://hamal.co.il/main/דוח-חריף-של-המבקר-הדרג-המדיני-ידע-על-המחסור-באמלח-ולא-פעל-267548
