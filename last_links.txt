@@ -1,6 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/הסנאט-האמריקני-צפוי-לדון-בחוק-הקריפטו-בשבוע-הבא-267034
-https://news.walla.co.il/break/3836575
+COUNTER:25
 https://hamal.co.il/main/רוכבת-אופניים-חשמליים-נפצעה-באורח-בינוני-בכביש-20-267035
 https://hamal.co.il/main/אירועי-אלימות-בתל-אביב-ובאשדוד-2-גברים-נפצעו-באורח-בינוני-267036
 https://hamal.co.il/main/רהט-חשוד-נורה-לאחר-שנמלט-ותקף-שוטרים-267038
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837400
 https://news.walla.co.il/item/3837394
 https://hamal.co.il/main/מפקדותעמדות-תצפית-ומחסני-אמלח-45-תשתיות-חיזבאללה-הותקפו-267494
 https://hamal.co.il/main/לוחמי-גולני-חצו-את-הליטאני-מסר-לממשלת-לבנון-267495
+https://news.walla.co.il/break/3837409
+https://hamal.co.il/main/הביקור-של-הבכיר-האיראני---לקראת-הקמת-הממשלה-267492
