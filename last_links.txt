@@ -1,6 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3836537
-https://news.walla.co.il/break/3836540
+COUNTER:15
 https://hamal.co.il/main/3-ימי-הפסקת-אש-ברוסיה-ואוקראינה-267024
 https://news.walla.co.il/item/3836545
 https://news.walla.co.il/break/3836546
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-המלצות-מ
 https://hamal.co.il/main/דגל-אשף-היה-רק-ההתחלה-הערב-המתריס-של-לאמין-ימאל-267477
 https://hamal.co.il/main/דיווח-טראמפ-מתוסכל-מאיראן---ושוקל-ברצינות-לתקוף-267478
 https://hamal.co.il/main/ישראלים-קיבלו-הודעות-גיוס-מאיראן-בנו-את-עתידכם-עכשיו-267475
+https://news.walla.co.il/break/3837351
+https://hamal.co.il/main/-קשה-לקריאה-267479
