@@ -1,8 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/item/3836981
-https://hamal.co.il/main/הייתי-יורה-לו-כדור-בראש-נחשף-הקבלן-שאיים-על-השר-בן-גביר-267242
-https://hamal.co.il/main/הכנפיים-של-דיקסי-יהיו-שם-פסטיבל-האוכל-של-תל-אביב-יוצא-לדרך-267225
-https://news.walla.co.il/break/3836991
+COUNTER:27
 https://news.walla.co.il/break/3836992
 https://news.walla.co.il/break/3836985
 https://news.walla.co.il/break/3836989
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3837812
 https://hamal.co.il/main/הוגש-כתב-אישום-נגד-המחבל-שביצע-את-הפיגוע-בחומש-267694
 https://hamal.co.il/main/צהל-רחפני-נפץ-נפלו-סמוך-לכוחותינו-בדרום-לבנון-267695
 https://hamal.co.il/main/התעוררתי-ולא-זיהיתי-את-הפנים-שלי-מה-קרה-לגורו-הדיאטה-267684
+https://news.walla.co.il/break/3837822
+https://news.walla.co.il/break/3837824
+https://hamal.co.il/main/לקראת-הביקור-עם-נשיא-סין-טראמפ-נחת-בבייגינג-267697
+https://hamal.co.il/main/אחרי-הפרידה-מבן-הזוג-כוכבת-האח-הגדול-עוזבת-את-הבית-267691
