@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/הכפתור-האדום-או-הכחול-מה-הבחירה-אומרת-עליכם-267323
-https://news.walla.co.il/item/3837094
-https://hamal.co.il/main/ראשוני-סוכל-פיגוע-ירי-במחסום-קלנדיה-מחבל-נוטרל-267339
+COUNTER:27
 https://hamal.co.il/main/חיזבאללה-מפעיל-לוחמים-איראנים-התכנית-לפירוק-הארגון-מנשקו-267342
 https://news.walla.co.il/break/3837116
 https://news.walla.co.il/break/3837115
@@ -499,3 +496,6 @@ https://hamal.co.il/main/יור-הקואליציה-הגיש-הצעת-חוק-לפ
 https://hamal.co.il/main/לא-רק-באיראן-סעודיה-תקפה-מטרות-של-המיליציות-בעיראק-267778
 https://news.walla.co.il/break/3837937
 https://news.walla.co.il/break/3837938
+https://news.walla.co.il/item/3837938
+https://news.walla.co.il/item/3837939
+https://hamal.co.il/main/חשד-לרצח-גבר-נורה-למוות-בנתניה-267796
