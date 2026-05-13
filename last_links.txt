@@ -1,11 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3836852
-https://hamal.co.il/main/ההתפרצות-הקטלנית-באוניית-הקרוז-267169
-https://hamal.co.il/main/עובד-זר-נהרג-מפגיעת-חפץ-כבד-בירושלים-267179
-https://hamal.co.il/main/בכווית-מדווחים-3-כטבמים-יורטו-מעל-המרחב-האווירי-267175
-https://hamal.co.il/main/דיווח-267180
-https://news.walla.co.il/break/3836856
-https://news.walla.co.il/break/3836859
+COUNTER:27
 https://news.walla.co.il/item/3836860
 https://hamal.co.il/main/תיעוד-מזעזע-267181
 https://news.walla.co.il/break/3836870
@@ -499,3 +492,10 @@ https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-ששוגרה-
 https://news.walla.co.il/break/3837654
 https://news.walla.co.il/break/3837656
 https://hamal.co.il/main/צהל-הופעלו-אזעקות-בגליל-הפרטים-בבדיקה-267645
+https://news.walla.co.il/break/3837657
+https://news.walla.co.il/break/3837659
+https://news.walla.co.il/break/3837661
+https://hamal.co.il/main/מזג-אוויר-הפכפך-הפוגה-מגל-החום---מה-צפוי-בהמשך--התחזית-267646
+https://hamal.co.il/main/הדקירה-בתל-אביב-הרקע-פלילי-חשוד-נעצר-267647
+https://hamal.co.il/main/צהל-על-האזעקות-בגבול-מדובר-בזיהוי-שווא-267648
+https://hamal.co.il/main/תושב-שפרעם-נורה-למוות-הרקע-פלילי-מצוד-מתנהל-אחר-החשודים-267649
