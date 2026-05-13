@@ -1,10 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/התרגיל-הקטן-לחיזוק-המוח-ומניעת-אלצהיימר-שסוחף-מיליונים-ברשת-267147
-https://hamal.co.il/main/דיווח-267186
-https://hamal.co.il/main/מכורים-למוצרי-חלבון-לתזונאי-של-הסלבס-יש-אזהרה-אחת-267154
-https://hamal.co.il/main/מחבל-השתחרר-ממאסר-267187
-https://news.walla.co.il/break/3836887
-https://news.walla.co.il/break/3836890
+COUNTER:31
 https://news.walla.co.il/break/3836894
 https://news.walla.co.il/item/3836888
 https://hamal.co.il/main/האמירויות-267188
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3837663
 https://news.walla.co.il/item/3837661
 https://hamal.co.il/main/ניסיון-ההצתה-בחדרה-267650
 https://news.walla.co.il/break/3837671
+https://news.walla.co.il/break/3837674
+https://news.walla.co.il/break/3837681
+https://news.walla.co.il/item/3837682
+https://hamal.co.il/main/נועה-קירל-לא-לבד-הסלבס-שנאבקו-בהפרעת-אכילה-קשה-267524
+https://hamal.co.il/main/צהל-מפרסם-הודעת-פינוי-ל-6-כפרים-בדרום-לבנון-267660
+https://hamal.co.il/main/צהל-על-האזעקות-בגליל-הפרטים-בבדיקה-267661
