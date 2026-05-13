@@ -1,7 +1,4 @@
-COUNTER:13
-https://news.walla.co.il/break/3836956
-https://news.walla.co.il/break/3836957
-https://news.walla.co.il/item/3836954
+COUNTER:15
 https://hamal.co.il/main/בעקבות-הפסקת-האש-חתונה-יהודית-המונית-נערכה-בקייב-267235
 https://hamal.co.il/main/משרד-הבריאות-עדכן-על-חולה-חצבת-ששהה-במלון-דן-באילת-267237
 https://hamal.co.il/main/צהל-חיסל-מחבלי-נוחבה-ומחבלים-נוספים-שהיוו-איום-על-כוחותינו-267243
@@ -499,3 +496,6 @@ https://hamal.co.il/main/רגע-לפני-החג-267667
 https://news.walla.co.il/break/3837766
 https://news.walla.co.il/item/3837759
 https://hamal.co.il/main/פליטת-הפה-של-ה-CIA-המסמך-שחושף-מה-קבור-תחת-הספינקס-267653
+https://news.walla.co.il/break/3837770
+https://hamal.co.il/main/בלבנון-מדווחים-8-נהרגו-בתקיפות-חיל-האוויר-267683
+https://hamal.co.il/main/התיעוד-הביזארי-ממוסקבה-פוטין-מכחיש-שהוא-כפיל-של-עצמו-267654
