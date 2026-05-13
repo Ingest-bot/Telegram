@@ -1,6 +1,4 @@
 COUNTER:26
-https://hamal.co.il/main/הירי-ברמלה-נעצר-חשוד-ברצח-האישה-267334
-https://news.walla.co.il/item/3837095
 https://hamal.co.il/main/הכפתור-האדום-או-הכחול-מה-הבחירה-אומרת-עליכם-267323
 https://news.walla.co.il/item/3837094
 https://hamal.co.il/main/ראשוני-סוכל-פיגוע-ירי-במחסום-קלנדיה-מחבל-נוטרל-267339
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בכפר-לבנוני-מבלי-לחצות-את-הגבו
 https://hamal.co.il/main/אחותו-של-ימנו-זלקה-קוראת-להחמרת-הענישה-267766
 https://hamal.co.il/main/יור-הקואליציה-הגיש-הצעת-חוק-לפיזור-הכנסת-267794
 https://hamal.co.il/main/לא-רק-באיראן-סעודיה-תקפה-מטרות-של-המיליציות-בעיראק-267778
+https://news.walla.co.il/break/3837937
+https://news.walla.co.il/break/3837938
