@@ -1,10 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/צהל-יירטנו-רקטות-ששוגרו-לעבר-כוחותינו-בדרום-לבנון-267194
-https://hamal.co.il/main/הרמטכל-בכנסת-העבירו-את-חוק-הגיוס-267195
-https://news.walla.co.il/break/3836911
-https://news.walla.co.il/break/3836912
-https://news.walla.co.il/item/3836886
-https://news.walla.co.il/item/3836913
+COUNTER:38
 https://hamal.co.il/main/ירי-בתוך-הנגמש-פלג-נגד-קושמרו-בכיין-סדרתי-267196
 https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הצורך-בהרתחת-מים-בכפר-עגר-267198
 https://hamal.co.il/main/ביום-שישי-הקרוב-שינויים-זמניים-בתנועת-הרכבות-באזור-הצפון-267202
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צהל-על-האזעקות-בגליל-רקטות-שוג
 https://hamal.co.il/main/בפתח-ביתו-רופא-וכוכב-רשת-נדקר-באישון-לילה---החשוד-נעצר-267666
 https://news.walla.co.il/break/3837693
 https://hamal.co.il/main/אהוד-ברק-267665
+https://news.walla.co.il/break/3837704
+https://news.walla.co.il/break/3837705
+https://news.walla.co.il/item/3837703
+https://hamal.co.il/main/דיווח-מכלית-נפט-סינית-חצתה-את-מעבר-הורמוז-267668
+https://hamal.co.il/main/תיעוד-מעין-הטנק-267658
+https://hamal.co.il/main/אחרי-ההופעה-המעולה-בחצי-גמר-האירוויזיון-ישראל-מטפסת-בטבלאות-267662
