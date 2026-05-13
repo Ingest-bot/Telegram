@@ -1,6 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3836923
-https://news.walla.co.il/item/3836878
+COUNTER:3
 https://hamal.co.il/main/צפו-שיתוף-פעולה-בין-מפעיל-כלי-טיס-מאויש-לקצין-בחטיבת-כפיר-267209
 https://news.walla.co.il/break/3836929
 https://hamal.co.il/main/תאונה-קטלנית-267213
@@ -499,3 +497,5 @@ https://hamal.co.il/main/בפעם-השנייה-הבוקר-בלבנון-מדוו�
 https://hamal.co.il/main/במהלך-היממה-האחרונה-מעל-40-תשתיות-חיזבאללה-הותקפו-בלבנון-267671
 https://hamal.co.il/main/בעסק-לשטיפת-רכבים-4-שבחים-נעצרו-במזרח-י-ם-267672
 https://hamal.co.il/main/הוויטמין-שיכול-להשפיע-על-המוח-שלכם---גם-16-שנה-קדימה-267652
+https://news.walla.co.il/break/3837723
+https://hamal.co.il/main/מצית-השריפה-בהר-הצופים-נתבע-בסכום-עתק-267673
