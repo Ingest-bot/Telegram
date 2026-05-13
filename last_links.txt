@@ -1,7 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3836937
-https://hamal.co.il/main/תיעוד-שלא-רואים-כל-יום-מדוזה-ענקית-נצפתה-באילת-267229
-https://hamal.co.il/main/שריפת-קוצים-בחדרה--לוחמי-האש-פועלים-לבלימת-התפשטות-האש-267232
+COUNTER:13
 https://news.walla.co.il/break/3836956
 https://news.walla.co.il/break/3836957
 https://news.walla.co.il/item/3836954
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-ברמת-גן-�
 https://news.walla.co.il/item/3837750
 https://hamal.co.il/main/המשבר-בקואליציה-כל-החוקים-הוסרו-מסדר-היום-267681
 https://hamal.co.il/main/רגע-לפני-החג-267667
+https://news.walla.co.il/break/3837766
+https://news.walla.co.il/item/3837759
+https://hamal.co.il/main/פליטת-הפה-של-ה-CIA-המסמך-שחושף-מה-קבור-תחת-הספינקס-267653
