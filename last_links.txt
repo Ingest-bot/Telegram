@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3837117
 https://news.walla.co.il/break/3837120
 https://news.walla.co.il/item/3837113
 https://hamal.co.il/main/פועל-נהרג-מפגיעצ-חפץ-כבד-באתר-בנייה-267343
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837942
 https://hamal.co.il/main/כאן-11-התנצלו-בפני-הקרואטים-עקב-פוסט-הומוריסטי-267790
 https://news.walla.co.il/break/3837944
 https://news.walla.co.il/break/3837948
+https://news.walla.co.il/break/3837957
