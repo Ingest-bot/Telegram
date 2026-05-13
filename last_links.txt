@@ -1,9 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/נועה-קירל-חשפה-267166
-https://news.walla.co.il/item/3837014
-https://hamal.co.il/main/בכירים-אמריקנים-טראמפ-צפוי-לדרוש-מסין-להפעיל-לחץ-על-טהרן-267279
-https://news.walla.co.il/break/3837018
-https://news.walla.co.il/break/3837016
+COUNTER:38
 https://news.walla.co.il/break/3837019
 https://hamal.co.il/main/הגראנד-פינלה-הזוגות-של-המירוץ-למיליון-צופים-ביחד-בגמר-267293
 https://news.walla.co.il/break/3837023
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3837847
 https://hamal.co.il/main/7-לוחמי-פונו-לבתי-חולים-בישראל-הסיבה---קדחת-מערות-267710
 https://news.walla.co.il/item/3837855
 https://hamal.co.il/main/למה-יתושים-עוקצים-דווקא-אתכם-מחקר-חדש-סוף-סוף-מסביר-267682
+https://news.walla.co.il/break/3837861
+https://hamal.co.il/main/למוכנות-בשיא-הכוח-סיכום-התרגיל-הגדודי-של-1895-מחטיבת-״נגבה״-267713
+https://hamal.co.il/main/אחרי-לופטהנזה-חברת-הלואו-קוסט-המצליחה-חוזרת-לישראל-267714
+https://hamal.co.il/main/מדא-בקריאה-דחופה-לציבור-לתרום-דם-267717
+https://hamal.co.il/main/נתניהו-נפגש-עם-הממונה-על-עזה-267718
