@@ -1,10 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3836894
-https://news.walla.co.il/item/3836888
-https://hamal.co.il/main/האמירויות-267188
-https://hamal.co.il/main/לקראת-הקרב-הענק-אלו-השופטים-שינהלו-את-משחק-העונה-267189
-https://hamal.co.il/main/מעבר-לקו-הצהוב-התוכנית-החדשה-של-חמאס-והצורך-בשינוי-תפיסה-267190
-https://hamal.co.il/main/בעיראק-מודים-זיהינו-נוכחות-צבאית-במזרח-267191
+COUNTER:34
 https://news.walla.co.il/break/3836903
 https://hamal.co.il/main/עשור-של-עמימות-ופעילות-חשאית-267193
 https://hamal.co.il/main/צהל-יירטנו-רקטות-ששוגרו-לעבר-כוחותינו-בדרום-לבנון-267194
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3837682
 https://hamal.co.il/main/נועה-קירל-לא-לבד-הסלבס-שנאבקו-בהפרעת-אכילה-קשה-267524
 https://hamal.co.il/main/צהל-מפרסם-הודעת-פינוי-ל-6-כפרים-בדרום-לבנון-267660
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-הפרטים-בבדיקה-267661
+https://news.walla.co.il/break/3837691
+https://news.walla.co.il/item/3837688
+https://news.walla.co.il/item/3837690
+https://hamal.co.il/main/דיווחים-בלבנון-רכב-הותקף-בדרום-המדינה-267663
+https://hamal.co.il/main/צהל-על-האזעקות-בגליל-רקטות-שוגרו-לעבר-כוחותינו-אין-נפגעים-267664
+https://hamal.co.il/main/בפתח-ביתו-רופא-וכוכב-רשת-נדקר-באישון-לילה---החשוד-נעצר-267666
