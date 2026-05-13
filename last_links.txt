@@ -1,9 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/ילדה-בת-15-קיבלה-מכת-חום-בטיול-שנתי---מצבה-קשה-267267
-https://news.walla.co.il/item/3836996
-https://hamal.co.il/main/טראמפ-איראן-משחקת-משחקים-עם-ארהב-ועם-שאר-העולם-267272
-https://news.walla.co.il/break/3837001
-https://news.walla.co.il/break/3837000
+COUNTER:32
 https://news.walla.co.il/item/3837002
 https://hamal.co.il/main/הסוד-ללילה-בריא-יותר-7-מאכלים-שעובדים-בזמן-שאתם-ישנים-267275
 https://hamal.co.il/main/״לא-רוצה-לריב-אתכם-התיעוד-החדש-שחושף-דקות-לפני-רצח-זלקה-267271
@@ -499,3 +494,8 @@ https://hamal.co.il/main/ממש-בקרוב-קבוצת-לופטהנזה-חוזר�
 https://hamal.co.il/main/ילד-בן-10-נפגע-מרכב-בנגב-מצבו-קשה-267699
 https://news.walla.co.il/break/3837835
 https://news.walla.co.il/break/3837842
+https://news.walla.co.il/break/3837843
+https://news.walla.co.il/item/3837844
+https://hamal.co.il/main/הרצוג-על-חנינת-נתניהו-צד-אחד-הגיע-עכשיו-מחכים-לצד-השני-267702
+https://hamal.co.il/main/משרד-הבריאות-הכניסה-לנחלים-הללו-מסוכנת-267706
+https://hamal.co.il/main/הרמטכל-267708
