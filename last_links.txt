@@ -1,6 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3836903
-https://hamal.co.il/main/עשור-של-עמימות-ופעילות-חשאית-267193
+COUNTER:35
 https://hamal.co.il/main/צהל-יירטנו-רקטות-ששוגרו-לעבר-כוחותינו-בדרום-לבנון-267194
 https://hamal.co.il/main/הרמטכל-בכנסת-העבירו-את-חוק-הגיוס-267195
 https://news.walla.co.il/break/3836911
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3837690
 https://hamal.co.il/main/דיווחים-בלבנון-רכב-הותקף-בדרום-המדינה-267663
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-רקטות-שוגרו-לעבר-כוחותינו-אין-נפגעים-267664
 https://hamal.co.il/main/בפתח-ביתו-רופא-וכוכב-רשת-נדקר-באישון-לילה---החשוד-נעצר-267666
+https://news.walla.co.il/break/3837693
+https://hamal.co.il/main/אהוד-ברק-267665
