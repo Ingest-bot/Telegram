@@ -1,8 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3836860
-https://hamal.co.il/main/תיעוד-מזעזע-267181
-https://news.walla.co.il/break/3836870
-https://hamal.co.il/main/החביאו-מטענים-בתוך-בלוני-גז-2-מחבלים-נעצרו-ביוש--צפו-267184
+COUNTER:28
 https://hamal.co.il/main/הקטל-בכבישים-בן-50-נהרג-בתאונת-דרכים-סמוך-לאלעד-267185
 https://hamal.co.il/main/התרגיל-הקטן-לחיזוק-המוח-ומניעת-אלצהיימר-שסוחף-מיליונים-ברשת-267147
 https://hamal.co.il/main/דיווח-267186
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מזג-אוויר-הפכפך-הפוגה-מגל-החום
 https://hamal.co.il/main/הדקירה-בתל-אביב-הרקע-פלילי-חשוד-נעצר-267647
 https://hamal.co.il/main/צהל-על-האזעקות-בגבול-מדובר-בזיהוי-שווא-267648
 https://hamal.co.il/main/תושב-שפרעם-נורה-למוות-הרקע-פלילי-מצוד-מתנהל-אחר-החשודים-267649
+https://news.walla.co.il/break/3837662
+https://news.walla.co.il/item/3837663
+https://news.walla.co.il/item/3837661
+https://hamal.co.il/main/ניסיון-ההצתה-בחדרה-267650
