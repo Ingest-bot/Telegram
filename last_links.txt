@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3836945
-https://news.walla.co.il/break/3836946
-https://hamal.co.il/main/תגובת-טהראן-להצעה-האמריקנית-מתמקדת-בסיום-המלחמה-בכל-הזירות-267218
+COUNTER:12
 https://news.walla.co.il/item/3836937
 https://hamal.co.il/main/תיעוד-שלא-רואים-כל-יום-מדוזה-ענקית-נצפתה-באילת-267229
 https://hamal.co.il/main/שריפת-קוצים-בחדרה--לוחמי-האש-פועלים-לבלימת-התפשטות-האש-267232
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837749
 https://hamal.co.il/main/אחרי-אזהרת-צהל-לבנונים-עוזבים-כפרים-בדרום-המדינה--תיעוד-267678
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-267679
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-ברמת-גן-מצבו-קשה-267680
+https://news.walla.co.il/item/3837750
+https://hamal.co.il/main/המשבר-בקואליציה-כל-החוקים-הוסרו-מסדר-היום-267681
+https://hamal.co.il/main/רגע-לפני-החג-267667
