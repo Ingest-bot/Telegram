@@ -1,6 +1,4 @@
 COUNTER:29
-https://news.walla.co.il/item/3836990
-https://news.walla.co.il/break/3836996
 https://hamal.co.il/main/ילדה-בת-15-קיבלה-מכת-חום-בטיול-שנתי---מצבה-קשה-267267
 https://news.walla.co.il/item/3836996
 https://hamal.co.il/main/טראמפ-איראן-משחקת-משחקים-עם-ארהב-ועם-שאר-העולם-267272
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3837820
 https://news.walla.co.il/item/3837829
 https://hamal.co.il/main/ממש-בקרוב-קבוצת-לופטהנזה-חוזרת-לטוס-לישראל-267698
 https://hamal.co.il/main/ילד-בן-10-נפגע-מרכב-בנגב-מצבו-קשה-267699
+https://news.walla.co.il/break/3837835
+https://news.walla.co.il/break/3837842
