@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/חיזבאללה-פרסם-תיעוד-על-פגיעה-בכיפת-ברזל-צהל-267316
-https://hamal.co.il/main/צהל-יירטנו-מטרה-אווירית-חשודה-בדרום-לבנון-267319
-https://hamal.co.il/main/3-נשים-נורו-ברמלה-בהם-1-במצב-אנוש-ו-2-במצב-קשה-267320
+COUNTER:15
 https://hamal.co.il/main/מזעזע-שבח-תלש-מזוזות-מבתים-בחולון---ונעצר-267321
 https://news.walla.co.il/break/3837058
 https://news.walla.co.il/item/3837050
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837900
 https://news.walla.co.il/break/3837901
 https://hamal.co.il/main/נגמרו-הניתוקים-בממד-משרד-התקשורת-בדרך-לשנות-את-הקליטה-בארץ-267731
 https://hamal.co.il/main/גבר-בן-55-נהרג-בתאונת-דרכים-סמוך-לצאלים-267772
+https://news.walla.co.il/break/3837905
+https://news.walla.co.il/break/3837906
+https://hamal.co.il/main/איראן-כווית-חטפה-4-אזרחים-איראנים---דורשים-את-שחרורם-267773
