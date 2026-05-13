@@ -1,5 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3837071
+COUNTER:20
 https://news.walla.co.il/break/3837072
 https://hamal.co.il/main/הכי-מבוקש-בווינה-נועם-בתן-כובש-את-שערי-העיתונות-העולמית-267317
 https://hamal.co.il/main/ראש-המלל-לשעבר-עונה-האם-ארהב-תחזור-לתקוף-באיראן-267328
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837916
 https://news.walla.co.il/item/3837869
 https://hamal.co.il/main/העיתונאי-יואב-זיתון-נוקה-מכל-חשד-הפרקליטות-סגרה-את-התיק-267783
 https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-בתאונת-דרכים-בזמר-267784
+https://hamal.co.il/main/הרמטכל-העיר-ללוחם-על-פאץ-משיח---ונשפט-ל-30-יום-בכלא-267787
