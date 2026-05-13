@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הקטל-בכבישים-בן-50-נהרג-בתאונת-דרכים-סמוך-לאלעד-267185
 https://hamal.co.il/main/התרגיל-הקטן-לחיזוק-המוח-ומניעת-אלצהיימר-שסוחף-מיליונים-ברשת-267147
 https://hamal.co.il/main/דיווח-267186
 https://hamal.co.il/main/מכורים-למוצרי-חלבון-לתזונאי-של-הסלבס-יש-אזהרה-אחת-267154
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837662
 https://news.walla.co.il/item/3837663
 https://news.walla.co.il/item/3837661
 https://hamal.co.il/main/ניסיון-ההצתה-בחדרה-267650
+https://news.walla.co.il/break/3837671
