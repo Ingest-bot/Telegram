@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/דיווח-״לטהרן-אין-כוונה-לרצות-את-טראמפ״-267300
-https://hamal.co.il/main/קלאסיקה-מודרנית-ברצלונה-זכתה-באליפות-אחרי-02-על-ריאל-מדריד-267302
-https://news.walla.co.il/break/3837033
+COUNTER:6
 https://hamal.co.il/main/דיווח-איראן-דחתה-את-ההצעה-האמריקנית-״משמעותה-כניעה״-267303
 https://news.walla.co.il/break/3837038
 https://news.walla.co.il/break/3837040
@@ -499,3 +496,6 @@ https://hamal.co.il/main/משט-נוסף-יצא-מטורקיה-לעזה-אסור
 https://hamal.co.il/main/צהל-השלים-תקיפה-לעבר-תשתיות-חיזבאללה-במספר-מרחבים-267747
 https://hamal.co.il/main/צהל-267748
 https://hamal.co.il/main/הניסויים-שיקבעו-כך-יתמודד-צהל-עם-איום-הרחפנים-267751
+https://news.walla.co.il/break/3837881
+https://news.walla.co.il/item/3837880
+https://hamal.co.il/main/צהל-חוסל-מחבל-נוחבה-שלקח-חלק-בפשיטה-למוצב-נחל-עוז-267757
