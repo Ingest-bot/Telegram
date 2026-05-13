@@ -1,6 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/נער-בן-15-נפצע-בינוני-באירוע-אלימות-ברמת-גן-267305
-https://hamal.co.il/main/רס״ב-במיל׳-אלכסנדר-גלובניוב-נפל-בקרב-סמוך-לגבול-לבנון-267306
+COUNTER:9
 https://news.walla.co.il/break/3837047
 https://hamal.co.il/main/חיזבאללה-טוען-רחפן-מתאבד-תקף-סוללת-כיפת-ברזל-267314
 https://news.walla.co.il/break/3837049
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837885
 https://news.walla.co.il/break/3837888
 https://news.walla.co.il/item/3837873
 https://hamal.co.il/main/ילד-כבן-5-נפצע-קשה-במהלך-קציר-חיטים-סמוך-למודיעין-267762
+https://hamal.co.il/main/סימנים-ראשונים-להתאוששות-בשוק-הנדלן-267744
+https://hamal.co.il/main/הצהרת-נתניהו-קיש-וסמוטריץ-מתווה-הקיץ-של-החופש-הגדול-267769
