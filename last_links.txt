@@ -1,9 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3836938
-https://news.walla.co.il/item/3836920
-https://news.walla.co.il/item/3836934
-https://hamal.co.il/main/התגובה-של-מיקי-גבע-לסערת-הליכודיאדה-בחדשות-12-267178
-https://hamal.co.il/main/הרמטכל-חמאס-נמצא-במצוקה-אדירה-למעלה-מ-50-מהשטח-בידינו-267217
+COUNTER:10
 https://news.walla.co.il/break/3836945
 https://news.walla.co.il/break/3836946
 https://hamal.co.il/main/תגובת-טהראן-להצעה-האמריקנית-מתמקדת-בסיום-המלחמה-בכל-הזירות-267218
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837736
 https://news.walla.co.il/break/3837735
 https://hamal.co.il/main/מחקר-חדש-אכילה-יומית-של-המאכל-הזה-מורידה-את-לחץ-הדם-בכ-30-267651
 https://hamal.co.il/main/גבר-נהרג-בתאונת-אופנוע-267677
+https://news.walla.co.il/break/3837739
+https://news.walla.co.il/break/3837749
+https://hamal.co.il/main/אחרי-אזהרת-צהל-לבנונים-עוזבים-כפרים-בדרום-המדינה--תיעוד-267678
+https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-267679
+https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-ברמת-גן-מצבו-קשה-267680
