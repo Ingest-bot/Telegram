@@ -1,6 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/בעקבות-המפלה-בבחירות-אתגר-ראשון-לסטארמר-מתוך-הלייבור-267174
-https://news.walla.co.il/item/3837011
+COUNTER:34
 https://hamal.co.il/main/נועה-קירל-חשפה-267166
 https://news.walla.co.il/item/3837014
 https://hamal.co.il/main/בכירים-אמריקנים-טראמפ-צפוי-לדרוש-מסין-להפעיל-לחץ-על-טהרן-267279
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837851
 https://news.walla.co.il/item/3837850
 https://news.walla.co.il/item/3837847
 https://hamal.co.il/main/7-לוחמי-פונו-לבתי-חולים-בישראל-הסיבה---קדחת-מערות-267710
+https://news.walla.co.il/item/3837855
+https://hamal.co.il/main/למה-יתושים-עוקצים-דווקא-אתכם-מחקר-חדש-סוף-סוף-מסביר-267682
