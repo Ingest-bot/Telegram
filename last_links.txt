@@ -1,5 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/item/3836851
+COUNTER:22
 https://hamal.co.il/main/כץ-נעץ-סכין-בגבי-טלי-גוטליב-במתקפה-חריפה-על-שר-הביטחון-267168
 https://hamal.co.il/main/אחת-המדינות-המבודדות-ביותר-בעולם-נפתחת-למבקרים-267149
 https://news.walla.co.il/break/3836847
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837647
 https://news.walla.co.il/break/3837648
 https://news.walla.co.il/break/3837649
 https://news.walla.co.il/break/3837651
+https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-267643
