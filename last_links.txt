@@ -1,8 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/בעקבות-הפסקת-האש-חתונה-יהודית-המונית-נערכה-בקייב-267235
-https://hamal.co.il/main/משרד-הבריאות-עדכן-על-חולה-חצבת-ששהה-במלון-דן-באילת-267237
-https://hamal.co.il/main/צהל-חיסל-מחבלי-נוחבה-ומחבלים-נוספים-שהיוו-איום-על-כוחותינו-267243
-https://news.walla.co.il/item/3836958
+COUNTER:17
 https://hamal.co.il/main/נתניהו-267244
 https://hamal.co.il/main/אזעקות-בגליל-המערבי-267249
 https://hamal.co.il/main/ערן-267250
@@ -499,3 +495,7 @@ https://hamal.co.il/main/פליטת-הפה-של-ה-CIA-המסמך-שחושף-מ�
 https://news.walla.co.il/break/3837770
 https://hamal.co.il/main/בלבנון-מדווחים-8-נהרגו-בתקיפות-חיל-האוויר-267683
 https://hamal.co.il/main/התיעוד-הביזארי-ממוסקבה-פוטין-מכחיש-שהוא-כפיל-של-עצמו-267654
+https://news.walla.co.il/break/3837782
+https://news.walla.co.il/break/3837783
+https://hamal.co.il/main/באיראן-משיבים-לארהב-נקבל-מידע-על-עמדתם-דרך-המתווכים-267685
+https://hamal.co.il/main/דיווח-ראש-המוסד-ביקר-פעמיים-באיחוד-האמירויות-במהלך-המלחמה-267686
