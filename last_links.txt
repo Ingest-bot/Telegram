@@ -1,8 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3837002
-https://hamal.co.il/main/הסוד-ללילה-בריא-יותר-7-מאכלים-שעובדים-בזמן-שאתם-ישנים-267275
-https://hamal.co.il/main/״לא-רוצה-לריב-אתכם-התיעוד-החדש-שחושף-דקות-לפני-רצח-זלקה-267271
-https://news.walla.co.il/item/3837007
+COUNTER:33
 https://hamal.co.il/main/בעקבות-המפלה-בבחירות-אתגר-ראשון-לסטארמר-מתוך-הלייבור-267174
 https://news.walla.co.il/item/3837011
 https://hamal.co.il/main/נועה-קירל-חשפה-267166
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837844
 https://hamal.co.il/main/הרצוג-על-חנינת-נתניהו-צד-אחד-הגיע-עכשיו-מחכים-לצד-השני-267702
 https://hamal.co.il/main/משרד-הבריאות-הכניסה-לנחלים-הללו-מסוכנת-267706
 https://hamal.co.il/main/הרמטכל-267708
+https://news.walla.co.il/break/3837851
+https://news.walla.co.il/item/3837850
+https://news.walla.co.il/item/3837847
+https://hamal.co.il/main/7-לוחמי-פונו-לבתי-חולים-בישראל-הסיבה---קדחת-מערות-267710
