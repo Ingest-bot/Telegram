@@ -1,7 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3837047
-https://hamal.co.il/main/חיזבאללה-טוען-רחפן-מתאבד-תקף-סוללת-כיפת-ברזל-267314
-https://news.walla.co.il/break/3837049
+COUNTER:12
 https://hamal.co.il/main/מזג-267315
 https://news.walla.co.il/break/3837050
 https://news.walla.co.il/break/3837053
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3837873
 https://hamal.co.il/main/ילד-כבן-5-נפצע-קשה-במהלך-קציר-חיטים-סמוך-למודיעין-267762
 https://hamal.co.il/main/סימנים-ראשונים-להתאוששות-בשוק-הנדלן-267744
 https://hamal.co.il/main/הצהרת-נתניהו-קיש-וסמוטריץ-מתווה-הקיץ-של-החופש-הגדול-267769
+https://hamal.co.il/main/מתחילת-המערכה-מעל-400-מחבלי-חיזבאללה-חוסלו-בלבנון--צפו-267696
+https://hamal.co.il/main/חשד-להתנהגות-לא-הולמות-מצד-מטפלת-בפעוטון-בגוש-עציון-267770
+https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267771
