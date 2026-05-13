@@ -1,8 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3837066
-https://news.walla.co.il/item/3837064
-https://hamal.co.il/main/לא-חשבתי-שזה-יכול-לקרות-בגיל-שלי-הסיכון-הבריאותי-שצעירים-267318
-https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-כטבם-בדרום-לבנון-התוצאות-בבדיקה-267326
+COUNTER:19
 https://news.walla.co.il/break/3837071
 https://news.walla.co.il/break/3837072
 https://hamal.co.il/main/הכי-מבוקש-בווינה-נועם-בתן-כובש-את-שערי-העיתונות-העולמית-267317
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3837913
 https://news.walla.co.il/item/3837909
 https://hamal.co.il/main/נתניהו-פגש-את-נשיא-האמירויות-במהלך-המלחמה-באיראן-267774
 https://hamal.co.il/main/צהל-267775
+https://news.walla.co.il/break/3837916
+https://news.walla.co.il/item/3837869
+https://hamal.co.il/main/העיתונאי-יואב-זיתון-נוקה-מכל-חשד-הפרקליטות-סגרה-את-התיק-267783
+https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-בתאונת-דרכים-בזמר-267784
