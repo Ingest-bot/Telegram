@@ -1,7 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/צהל-פרסם-הודעת-פינוי-ל-9-כפרים-בדרום-לבנון-נפעל-בעוצמה-267332
-https://news.walla.co.il/break/3837087
-https://news.walla.co.il/break/3837089
+COUNTER:26
 https://hamal.co.il/main/הירי-ברמלה-נעצר-חשוד-ברצח-האישה-267334
 https://news.walla.co.il/item/3837095
 https://hamal.co.il/main/הכפתור-האדום-או-הכחול-מה-הבחירה-אומרת-עליכם-267323
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837930
 https://news.walla.co.il/item/3837929
 https://hamal.co.il/main/בהמלצת-מדורו-מרקו-רוביו-עולה-על-הטרנינג-של-הנשיא-הוונצואלי-267761
 https://hamal.co.il/main/בכפר-לבנוני-מבלי-לחצות-את-הגבול-267793
+https://hamal.co.il/main/אחותו-של-ימנו-זלקה-קוראת-להחמרת-הענישה-267766
+https://hamal.co.il/main/יור-הקואליציה-הגיש-הצעת-חוק-לפיזור-הכנסת-267794
+https://hamal.co.il/main/לא-רק-באיראן-סעודיה-תקפה-מטרות-של-המיליציות-בעיראק-267778
