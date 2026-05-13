@@ -1,5 +1,4 @@
 COUNTER:21
-https://news.walla.co.il/break/3836838
 https://hamal.co.il/main/פרשת-הונאת-הנדל״ן-הצהרת-תובע-נגד-״הקמב״ץ-של-חסידות-גור-267165
 https://hamal.co.il/main/מיקי-זוהר-267167
 https://news.walla.co.il/item/3836788
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3837637
 https://hamal.co.il/main/הרפובליקה-הדומיניקנית-חיזבאללה-ומשמרות-המהפכה-ארגוני-טרור-267639
 https://hamal.co.il/main/גבר-נפצע-קשה-267640
 https://hamal.co.il/main/שוטר-פתח-בירי-לעבר-שני-חשודים-עם-בקבוקי-תבערה-בחדרה-267642
+https://news.walla.co.il/break/3837647
