@@ -1,9 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3836992
-https://news.walla.co.il/break/3836985
-https://news.walla.co.il/break/3836989
-https://news.walla.co.il/break/3836988
-https://news.walla.co.il/item/3836979
+COUNTER:29
 https://news.walla.co.il/item/3836990
 https://news.walla.co.il/break/3836996
 https://hamal.co.il/main/ילדה-בת-15-קיבלה-מכת-חום-בטיול-שנתי---מצבה-קשה-267267
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3837822
 https://news.walla.co.il/break/3837824
 https://hamal.co.il/main/לקראת-הביקור-עם-נשיא-סין-טראמפ-נחת-בבייגינג-267697
 https://hamal.co.il/main/אחרי-הפרידה-מבן-הזוג-כוכבת-האח-הגדול-עוזבת-את-הבית-267691
+https://news.walla.co.il/break/3837831
+https://news.walla.co.il/item/3837820
+https://news.walla.co.il/item/3837829
+https://hamal.co.il/main/ממש-בקרוב-קבוצת-לופטהנזה-חוזרת-לטוס-לישראל-267698
+https://hamal.co.il/main/ילד-בן-10-נפגע-מרכב-בנגב-מצבו-קשה-267699
