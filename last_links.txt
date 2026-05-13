@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/נתניהו-על-המשטר-האיראני-״הימים-שלהם-ספורים״-267304
+COUNTER:7
 https://hamal.co.il/main/נער-בן-15-נפצע-בינוני-באירוע-אלימות-ברמת-גן-267305
 https://hamal.co.il/main/רס״ב-במיל׳-אלכסנדר-גלובניוב-נפל-בקרב-סמוך-לגבול-לבנון-267306
 https://news.walla.co.il/break/3837047
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3837884
 https://news.walla.co.il/break/3837885
 https://news.walla.co.il/break/3837888
 https://news.walla.co.il/item/3837873
+https://hamal.co.il/main/ילד-כבן-5-נפצע-קשה-במהלך-קציר-חיטים-סמוך-למודיעין-267762
