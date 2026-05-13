@@ -1,6 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/חיזבאללה-מפעיל-לוחמים-איראנים-התכנית-לפירוק-הארגון-מנשקו-267342
-https://news.walla.co.il/break/3837116
+COUNTER:28
 https://news.walla.co.il/break/3837115
 https://news.walla.co.il/break/3837118
 https://news.walla.co.il/break/3837117
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837938
 https://news.walla.co.il/item/3837938
 https://news.walla.co.il/item/3837939
 https://hamal.co.il/main/חשד-לרצח-גבר-נורה-למוות-בנתניה-267796
+https://news.walla.co.il/break/3837942
+https://hamal.co.il/main/כאן-11-התנצלו-בפני-הקרואטים-עקב-פוסט-הומוריסטי-267790
