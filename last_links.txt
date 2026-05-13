@@ -1,9 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3837019
-https://hamal.co.il/main/הגראנד-פינלה-הזוגות-של-המירוץ-למיליון-צופים-ביחד-בגמר-267293
-https://news.walla.co.il/break/3837023
-https://news.walla.co.il/break/3837024
-https://hamal.co.il/main/סיכום-שבוע-מבצעי-במחוז-שי-עשרות-עצורים-וסיכול-טרור-267297
+COUNTER:2
 https://hamal.co.il/main/האזעקות-בצפון-חיל-האוויר-יירט-מטרה-חשודה-שחצתה-מלבנון-267298
 https://hamal.co.il/main/זכו-בכל-הקופה-אלמוג-וטום-הם-הזוכים-בגמר-המרוץ-למיליון-267285
 https://hamal.co.il/main/״פרוייקט-חירות-פלוס-נשמע-טוב-מאוד-ברגע-הזה״-267299
@@ -499,3 +494,8 @@ https://hamal.co.il/main/למוכנות-בשיא-הכוח-סיכום-התרגי�
 https://hamal.co.il/main/אחרי-לופטהנזה-חברת-הלואו-קוסט-המצליחה-חוזרת-לישראל-267714
 https://hamal.co.il/main/מדא-בקריאה-דחופה-לציבור-לתרום-דם-267717
 https://hamal.co.il/main/נתניהו-נפגש-עם-הממונה-על-עזה-267718
+https://news.walla.co.il/item/3837861
+https://hamal.co.il/main/המוצר-Kerating-Organic-Smooth-PRADA-משווק-ללא-רישיון-267723
+https://hamal.co.il/main/טרגדיה-בפנמה-ישראלית-נהרגה-בתאונת-דרכים-267727
+https://hamal.co.il/main/לפני-הפסגה-סין-מזהירה-את-ארהב-אל-תמכרו-נשק-לטייוואן-267734
+https://hamal.co.il/main/משט-נוסף-יצא-מטורקיה-לעזה-אסור-לנו-לפחד-מטראמפ-ונתניהו-267738
