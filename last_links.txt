@@ -1,7 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-המלצות-משרד-הבריאות-267476
-https://hamal.co.il/main/דגל-אשף-היה-רק-ההתחלה-הערב-המתריס-של-לאמין-ימאל-267477
-https://hamal.co.il/main/דיווח-טראמפ-מתוסכל-מאיראן---ושוקל-ברצינות-לתקוף-267478
+COUNTER:17
 https://hamal.co.il/main/ישראלים-קיבלו-הודעות-גיוס-מאיראן-בנו-את-עתידכם-עכשיו-267475
 https://news.walla.co.il/break/3837351
 https://hamal.co.il/main/-קשה-לקריאה-267479
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חולה-אבעבועות-רוח-שהה-בטיסה-2679
 https://news.walla.co.il/break/3838256
 https://news.walla.co.il/item/3838258
 https://hamal.co.il/main/צעד-אחרון-הניסיון-של-בכירים-בימין-לגייס-רוב-לחוק-הגיוס-267930
+https://news.walla.co.il/break/3838260
+https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-267936
+https://hamal.co.il/main/האזעקות-בצפון-חלק-מהשיגורים-יורטו-אין-נפגעים-267937
