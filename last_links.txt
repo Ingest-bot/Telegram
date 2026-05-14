@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3837329
-https://news.walla.co.il/break/3837333
-https://news.walla.co.il/break/3837335
+COUNTER:11
 https://news.walla.co.il/break/3837336
 https://news.walla.co.il/break/3837337
 https://news.walla.co.il/break/3837338
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המרכז-לרפואי-לגליל-בעדכון-לגב�
 https://news.walla.co.il/item/3838236
 https://hamal.co.il/main/חצי-מיליון-לכל-אחד-זה-מה-שטום-ואלמוג-יקבלו-267896
 https://hamal.co.il/main/חוק-הגיוס-מפלג-את-הציונות-הדתית-267916
+https://news.walla.co.il/break/3838238
+https://news.walla.co.il/break/3838239
+https://hamal.co.il/main/מחסן-הנשק-שנחטף-בלב-ים---וההסכם-שסעודיה-הציעה-לאיראן-267919
