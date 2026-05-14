@@ -1,7 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3837304
-https://news.walla.co.il/item/3837306
-https://hamal.co.il/main/יצא-מהבית-עם-אלה---ותקף-נער-בן-13-אירוע-אלימות-בביס-באילת-267443
+COUNTER:1
 https://news.walla.co.il/break/3837312
 https://hamal.co.il/main/רכב-פרץ-מחסום-בכניסה-לקיבוץ-להב-ונמלט-הנסיבות-בבדיקה-267456
 https://hamal.co.il/main/דיווח-איראן-העבירה-מטוסי-צבא-לפקיסטן-לאחר-הפסקת-האש-267457
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838195
 https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267893
 https://news.walla.co.il/break/3838203
 https://hamal.co.il/main/מסתערבי-מג״ב-עצרו-חשוד-שתכנן-לבצע-פיגוע-במהלך-יום-ירושלים-267903
+https://news.walla.co.il/break/3838208
+https://news.walla.co.il/item/3838205
+https://hamal.co.il/main/ארהב-חמאס-חיזבאללה-והחותים-מנותקים-מאספקה-של-איראן-267906
