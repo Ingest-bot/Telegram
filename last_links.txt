@@ -1,9 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/טרגדיה-בסיני-ישראלי-בחופשה-התמוטט-ומת-בשארם-א־שייח-267407
-https://hamal.co.il/main/החיילים-שתועדו-מבזים-את-פסל-מריה-בלבנון-נשפטו-לימי-מחבוש-267408
-https://news.walla.co.il/break/3837247
-https://news.walla.co.il/item/3837244
-https://hamal.co.il/main/המחבל-שהרג-את-עמית-בן-יגאל-ז״ל-הורשע-בגרימת-מוות-בכוונה-267412
+COUNTER:19
 https://news.walla.co.il/break/3837250
 https://hamal.co.il/main/ביהמש-קבע---המועד-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמ-267414
 https://news.walla.co.il/break/3837257
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3838094
 https://hamal.co.il/main/גורם-בבית-הלבן-סין-הסכימה---איראן-לעולם-לא-תוכל-להחזיק-בנשק-267855
 https://hamal.co.il/main/עולים-מצרפת-ראשונים-החלה-הצעדה-של-יום-ירושלים--צפו-267856
 https://hamal.co.il/main/ברצלונה-מתנערת-מלאמין-ימאל-מתנגדים-למסר-נגד-מדינה-או-עם-267857
+https://news.walla.co.il/break/3838102
+https://news.walla.co.il/break/3838106
+https://news.walla.co.il/item/3838081
+https://hamal.co.il/main/וולט-התקלה-תוקנה-267858
+https://hamal.co.il/main/כץ-נגד-לאמין-ימאל-מצפה-מברצלונה-להתנער-מדבריו-267859
