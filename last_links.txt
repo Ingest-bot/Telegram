@@ -1,9 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/דיווח-״-267440
-https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
-https://hamal.co.il/main/מוסר-כליות-טייס-שחלה-נדרש-להמשיך-בפעילות-מבצעית-אביחי-חיים-267413
-https://news.walla.co.il/break/3837292
-https://news.walla.co.il/break/3837295
+COUNTER:35
 https://news.walla.co.il/item/3837296
 https://hamal.co.il/main/גל-הפרישות-בכחול-לבן-גם-ראש-מטה-השטח-עוזב-את-בני-גנץ-אבי-סו-267415
 https://hamal.co.il/main/הכנסת-תצביע-על-חוק-העמדה-לדין-של-מחבלי-7-באוקטובר-267445
@@ -499,3 +494,8 @@ https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בבני-בר
 https://hamal.co.il/main/ביום-ירושלים-בן-גביר-עלה-ורקד-בהר-הבית--צפו-267887
 https://hamal.co.il/main/כ-267888
 https://hamal.co.il/main/נתניהו-וסער-החליטו-ישראל-תתבע-את-267890
+https://news.walla.co.il/break/3838180
+https://news.walla.co.il/break/3838181
+https://news.walla.co.il/break/3838173
+https://news.walla.co.il/item/3838176
+https://hamal.co.il/main/רגע-לפני-הגמר-המועמד-המוביל-לנצח-באירוויזיון-נפצע-267880
