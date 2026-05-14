@@ -1,7 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/ישראלים-קיבלו-הודעות-גיוס-מאיראן-בנו-את-עתידכם-עכשיו-267475
-https://news.walla.co.il/break/3837351
-https://hamal.co.il/main/-קשה-לקריאה-267479
+COUNTER:18
 https://news.walla.co.il/break/3837356
 https://news.walla.co.il/item/3837354
 https://news.walla.co.il/break/3837361
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צעד-אחרון-הניסיון-של-בכירים-בי
 https://news.walla.co.il/break/3838260
 https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-267936
 https://hamal.co.il/main/האזעקות-בצפון-חלק-מהשיגורים-יורטו-אין-נפגעים-267937
+https://news.walla.co.il/break/3838263
+https://news.walla.co.il/item/3838262
+https://hamal.co.il/main/שוב-עשרות-חרדים-קיצונים-מפגינים-מחוץ-לביתו-של-מפקד-המשטרה-ה-267938
