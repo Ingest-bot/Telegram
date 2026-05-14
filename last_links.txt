@@ -1,7 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3837172
-https://news.walla.co.il/break/3837174
-https://hamal.co.il/main/היועמשית-לבגץ-לוין-267380
+COUNTER:39
 https://hamal.co.il/main/צהל-מסוק-שפינה-פצועים-לא-הצליח-להמריא-בדרום-לבנון-267381
 https://hamal.co.il/main/הרצח-ברמלה-267382
 https://hamal.co.il/main/מסתמן-הנער-שנורה-בלוד-נפגע-במהלך-משחק-הנשק-גנוב-267383
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מנהרה-מסתורית-באורך-50-מטר-נחשפ
 https://news.walla.co.il/break/3838003
 https://news.walla.co.il/break/3838000
 https://hamal.co.il/main/דרמה-בבנק-הפועלים-8000-עובדים-משביתים-את-הסניפים-והמוקדים-267823
+https://news.walla.co.il/break/3838014
+https://hamal.co.il/main/מחקר-מצא-אלה-הפירות-שמגנים-על-הגוף-מפני-הזדקנות-מואצת-267825
+https://hamal.co.il/main/לקראת-תקיפה-צה״ל-פרסם-הודעת-פינוי-למספר-מרחבים-בדרום-לבנון-267826
