@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3837356
-https://news.walla.co.il/item/3837354
+COUNTER:20
 https://news.walla.co.il/break/3837361
 https://news.walla.co.il/item/3837360
 https://hamal.co.il/main/זייפו-תעודות-זהות-והיתרי-כניסה-ישראלי-267483
@@ -499,3 +497,5 @@ https://hamal.co.il/main/האזעקות-בצפון-חלק-מהשיגורים-י�
 https://news.walla.co.il/break/3838263
 https://news.walla.co.il/item/3838262
 https://hamal.co.il/main/שוב-עשרות-חרדים-קיצונים-מפגינים-מחוץ-לביתו-של-מפקד-המשטרה-ה-267938
+https://hamal.co.il/main/עכשיו-תם-סבב-השיחות-בין-ישראל-ללבנון-ליום-חמישי-הוא-יתחדש-267939
+https://hamal.co.il/main/חיסלו-מחבל-שיידה-אבנים-לעבר-רכבים-ישראליים-בכביש-מרכזי-סמוך-267940
