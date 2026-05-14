@@ -1,8 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3837263
-https://news.walla.co.il/break/3837262
-https://news.walla.co.il/item/3837264
-https://hamal.co.il/main/חלק-מחוף-הצוק-הצפוני-נסגר-למתרחצים-עקב-איתור-אמל״ח-267418
+COUNTER:24
 https://hamal.co.il/main/״אין-לנו-אופציה-אחרת-מלבד-לנצח״-גדוד-ארבל-יוצא-לדרך-267422
 https://hamal.co.il/main/סיבה-לדאגה-מהו-נגיף-ההאנטה-שהרג-שלושה-נוסעי-ספינת-תענוגות-267359
 https://hamal.co.il/main/טראמפ-מאיים-בהסלמה-ליווי-הספינות-בהורמוז-יהיה-רק-חלק-267424
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירוי�
 https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירויות-מעורבת-בתקיפות-נגדנו-267866
 https://news.walla.co.il/item/3838120
 https://hamal.co.il/main/בגץ-ליועמשית-ההודעה-שמסרת-לא-תשנה-את-החלטותינו-267874
+https://news.walla.co.il/item/3838135
+https://news.walla.co.il/item/3838104
+https://hamal.co.il/main/צהל-על-האזעקות-בקו-267877
+https://hamal.co.il/main/משחקי-חברה-הפרקליטות-תערוך-השלמות-בחקירה-נגד-אייל-גולן-267878
