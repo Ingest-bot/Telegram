@@ -1,10 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/הכנסת-תצביע-על-חוק-העמדה-לדין-של-מחבלי-7-באוקטובר-267445
-https://hamal.co.il/main/טקס-חילופי-מג״דים-בגדוד-653-267448
-https://hamal.co.il/main/מרגש-האב-של-הלוחם-שנפל-בלבנון-בירך-את-חברו-לצוות-בחופה-267451
-https://news.walla.co.il/break/3837300
-https://news.walla.co.il/item/3837299
-https://news.walla.co.il/item/3837302
+COUNTER:38
 https://hamal.co.il/main/לא-נעים-עטיפת-תקליט-הושלכה-על-אריק-קלפטון-בהופעה-267453
 https://hamal.co.il/main/רצח-את-אשתו-ירה-לעבר-מכוניות---ונמלט-תיעוד-האימה-מרמלה-267454
 https://hamal.co.il/main/הפנטגון-צוללת-אמריקנית-הנושאת-נשק-גרעיני-הגיעה-לגיברלטר-267455
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3838176
 https://hamal.co.il/main/רגע-לפני-הגמר-המועמד-המוביל-לנצח-באירוויזיון-נפצע-267880
 https://hamal.co.il/main/המרד-בלייבור-שר-בריטי-בכיר-ראשון-התפטר---וקורא-סטארמר-לפרוש-267892
 https://news.walla.co.il/break/3838189
+https://news.walla.co.il/break/3838192
+https://news.walla.co.il/break/3838195
+https://news.walla.co.il/break/3838196
+https://news.walla.co.il/item/3838194
+https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267898
+https://hamal.co.il/main/החל-סבב-שיחות-המומ-בין-ישראל-ללבנון-267899
