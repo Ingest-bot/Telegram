@@ -1,7 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/break/3837336
-https://news.walla.co.il/break/3837337
-https://news.walla.co.il/break/3837338
+COUNTER:13
 https://news.walla.co.il/break/3837339
 https://news.walla.co.il/item/3837341
 https://hamal.co.il/main/יום-שרבי-וחם---הים-פלטה--תחזית-מזג-האוויר-267474
@@ -499,3 +496,6 @@ https://hamal.co.il/main/חוק-הגיוס-מפלג-את-הציונות-הדתי
 https://news.walla.co.il/break/3838238
 https://news.walla.co.il/break/3838239
 https://hamal.co.il/main/מחסן-הנשק-שנחטף-בלב-ים---וההסכם-שסעודיה-הציעה-לאיראן-267919
+https://news.walla.co.il/break/3838244
+https://hamal.co.il/main/ביממה-האחרונה-צהל-חיסל-יותר-מ-20-מחבלי-חיזבאללה-267924
+https://hamal.co.il/main/פועל-בן-25-נהרג-מכלי-הנדסי-במקום-עבודתו-סמוך-לכוכב-השחר-267925
