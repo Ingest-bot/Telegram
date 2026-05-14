@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/מומחים-חושפים-השיטה-היעילה-ביותר-להשקות-את-העציצים-267324
-https://news.walla.co.il/break/3837152
-https://news.walla.co.il/break/3837154
-https://news.walla.co.il/item/3837151
+COUNTER:33
 https://hamal.co.il/main/לקראת-משחק-העונה-מי-לדעתכם-תזכה-באליפות-267370
 https://hamal.co.il/main/נער-בן-16-נפצע-באירוע-אלימות-בלוד-מצבו-אנוש-267371
 https://hamal.co.il/main/3-לוחמים-נפצעו-מפגיעת-רחפן-באורח-קל-בדרום-לבנון-267373
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שרבי-ובהיר-267797
 https://hamal.co.il/main/תרגיל-צבאי-יערך-במרחב-חטיבות-אפרים-ושומרון-267798
 https://hamal.co.il/main/מכרזי-האשפה-בעראבה-קרוב-משפחת-ראש-העיר-שילח-את-היורה-267800
 https://hamal.co.il/main/15-שנות-מאסר-לניאו-נאצי-שתכנן-להרעיל-ילדים-יהודים-בניו-יורק-267802
+https://news.walla.co.il/break/3837981
+https://news.walla.co.il/break/3837984
+https://news.walla.co.il/item/3837980
+https://hamal.co.il/main/חידוש-המלחמה-עם-איראן---הסבירות-עולה-267805
