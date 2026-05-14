@@ -1,9 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3837250
-https://hamal.co.il/main/ביהמש-קבע---המועד-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמ-267414
-https://news.walla.co.il/break/3837257
-https://news.walla.co.il/break/3837253
-https://news.walla.co.il/break/3837254
+COUNTER:21
 https://hamal.co.il/main/כוחות-אוגדה-146-תקפו-מחסן-אמל״ח-וחיסלו-מחבלי-חיזבאללה-267417
 https://news.walla.co.il/break/3837260
 https://news.walla.co.il/break/3837263
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3838106
 https://news.walla.co.il/item/3838081
 https://hamal.co.il/main/וולט-התקלה-תוקנה-267858
 https://hamal.co.il/main/כץ-נגד-לאמין-ימאל-מצפה-מברצלונה-להתנער-מדבריו-267859
+https://news.walla.co.il/break/3838116
+https://news.walla.co.il/break/3838119
+https://news.walla.co.il/item/3838113
+https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירויות-מעורבת-בתקיפות-נגדנו-267864
+https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירויות-מעורבת-בתקיפות-נגדנו-267866
