@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הנרצחת-ברמלה-רנין-אלעביד--אשתו-של-החשוד-267354
-https://news.walla.co.il/item/3837131
 https://news.walla.co.il/item/3837134
 https://hamal.co.il/main/הבית-מרושת-במצלמות-הסתבך-עם-גרושה-ונסחט-ב-12-מיליארד-דו-267336
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בצפון-מצבו-קשה-267356
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837964
 https://news.walla.co.il/item/3837961
 https://news.walla.co.il/item/3837968
 https://news.walla.co.il/item/3837807
+https://news.walla.co.il/break/3837970
+https://news.walla.co.il/break/3837969
