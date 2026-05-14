@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/רכב-פרץ-מחסום-בכניסה-לקיבוץ-להב-ונמלט-הנסיבות-בבדיקה-267456
-https://hamal.co.il/main/דיווח-איראן-העבירה-מטוסי-צבא-לפקיסטן-לאחר-הפסקת-האש-267457
-https://news.walla.co.il/break/3837316
-https://news.walla.co.il/break/3837314
+COUNTER:3
 https://news.walla.co.il/break/3837318
 https://news.walla.co.il/break/3837319
 https://news.walla.co.il/break/3837317
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838208
 https://news.walla.co.il/item/3838205
 https://hamal.co.il/main/ארהב-חמאס-חיזבאללה-והחותים-מנותקים-מאספקה-של-איראן-267906
 https://news.walla.co.il/item/3838210
+https://news.walla.co.il/break/3838216
+https://news.walla.co.il/item/3838215
+https://hamal.co.il/main/טראמפ-נשיא-סין-לא-יספק-ציוד-צבאי-לאיראן-267907
+https://hamal.co.il/main/חיזבאללה-שיגר-רקטות-ופצמרים-לעבר-כוחותינו---אין-נפגעים-267908
