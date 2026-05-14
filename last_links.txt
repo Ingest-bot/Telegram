@@ -1,12 +1,4 @@
-COUNTER:9
-https://hamal.co.il/main/אזעקות-נשמעו-באזור-עתלית-267396
-https://hamal.co.il/main/טלי-גוטליב-בראיון-מה-היא-חושבת-על-ישראל-כץ-והדר-מוכתר-267393
-https://news.walla.co.il/break/3837223
-https://news.walla.co.il/break/3837225
-https://news.walla.co.il/item/3837100
-https://hamal.co.il/main/לראשונה-בישראל-כאן-11-הגיע-למיליון-מנויים-ביוטיוב-מערכת-ווא-267397
-https://hamal.co.il/main/14-חשודים-עוכבו-בחשד-להלבנת-הון-ומימון-טרור-267399
-https://hamal.co.il/main/החל-מהיום-וואטסאפ-מתחילה-לגבות-כסף---וזה-מה-שתקבלו-בתמורה-י-267400
+COUNTER:13
 https://hamal.co.il/main/בהמשך-להתרעות-שהופעלמדובר-במיירט-שיצא-לעבר-טיל-קרקע-אוויר-שש-267402
 https://news.walla.co.il/item/3837165
 https://hamal.co.il/main/״אין-לי-רישיון-נהיגה״-נהג-נמלט-מהשוטרים-267403
@@ -499,3 +491,11 @@ https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנ
 https://hamal.co.il/main/דרמה-בכדורסל-הישראלי-ארגון-השחקנים-הודיע-על-שביתה-267843
 https://hamal.co.il/main/העביר-מידע-בזמן-המלחמה-תושב-טירה-נאשם-בריגול-למען-איראן-267845
 https://hamal.co.il/main/בגץ-ליועמשית-הגשת-המידע-על-גופמן---רק-אם-שייך-לפרשת-ההפעל-267847
+https://news.walla.co.il/break/3838067
+https://news.walla.co.il/break/3838073
+https://news.walla.co.il/item/3838064
+https://news.walla.co.il/item/3838054
+https://hamal.co.il/main/ביום-ירושלים-האירוע-שיוצר-שיח-של-גיבוש-חזון-משותף-267849
+https://hamal.co.il/main/דיווח-ישראל-לא-תתחייב-להפסקת-אש-כוללת-בלבנון-267850
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-בוצעו-יירוטים-אין-נפגעים-267851
+https://hamal.co.il/main/תקלה-עולמית-ב-Wolt-לא-ניתן-לבצע-הזמנות-267852
