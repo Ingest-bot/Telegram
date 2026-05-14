@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3837361
-https://news.walla.co.il/item/3837360
-https://hamal.co.il/main/זייפו-תעודות-זהות-והיתרי-כניסה-ישראלי-267483
+COUNTER:22
 https://hamal.co.il/main/תקיפת-הקשיש-בתא-267484
 https://news.walla.co.il/break/3837369
 https://hamal.co.il/main/מתחילת-הפסקת-האש-267482
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838262
 https://hamal.co.il/main/שוב-עשרות-חרדים-קיצונים-מפגינים-מחוץ-לביתו-של-מפקד-המשטרה-ה-267938
 https://hamal.co.il/main/עכשיו-תם-סבב-השיחות-בין-ישראל-ללבנון-ליום-חמישי-הוא-יתחדש-267939
 https://hamal.co.il/main/חיסלו-מחבל-שיידה-אבנים-לעבר-רכבים-ישראליים-בכביש-מרכזי-סמוך-267940
+https://news.walla.co.il/break/3838284
+https://hamal.co.il/main/בכיר-אמריקני-קיימנו-יום-של-שיחות-חיוביות-בין-ישראל-ללבנון-267941
+https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-שזוהתה-במרחב-בו-פועלים-כו-267942
