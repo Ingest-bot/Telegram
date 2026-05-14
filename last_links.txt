@@ -1,7 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3837318
-https://news.walla.co.il/break/3837319
-https://news.walla.co.il/break/3837317
+COUNTER:5
 https://hamal.co.il/main/התרעות-הופעלו-במג׳דל-שמס-הפרטים-בבדיקה-267460
 https://hamal.co.il/main/ללא-מתנגדים-אושר-סופית-החוק-להעמדתם-לדין-של-מחבלי-ה-710-267461
 https://news.walla.co.il/break/3837322
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838216
 https://news.walla.co.il/item/3838215
 https://hamal.co.il/main/טראמפ-נשיא-סין-לא-יספק-ציוד-צבאי-לאיראן-267907
 https://hamal.co.il/main/חיזבאללה-שיגר-רקטות-ופצמרים-לעבר-כוחותינו---אין-נפגעים-267908
+https://news.walla.co.il/break/3838221
+https://hamal.co.il/main/כתב-אישום-נגד-המחבל-שביצע-את-הפיגוע-בו-נרצח-יהודה-שרמן-זל-267909
+https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267894
