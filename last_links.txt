@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3837183
-https://hamal.co.il/main/מגי-אזרזר-וקותי-סבג-בראיון-זוגי-אני-מקווה-לפרוש-כמה-שיותר-267384
+COUNTER:0
 https://hamal.co.il/main/המשטרה-על-הירי-בלוד-אחד-המעורבים-נעצר-267386
 https://news.walla.co.il/break/3837201
 https://news.walla.co.il/break/3837195
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838030
 https://news.walla.co.il/item/3837962
 https://news.walla.co.il/item/3838027
 https://news.walla.co.il/item/3838023
+https://news.walla.co.il/break/3838031
+https://hamal.co.il/main/נתניהו-מי-שאמר-שאני-חולה-סופני---יובא-לבית-המשפט-267830
