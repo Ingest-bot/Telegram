@@ -1,8 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/בריונים-בני-שש-עשו-לבן-שלי-לינץ-בצהרון-267434
-https://news.walla.co.il/break/3837283
-https://news.walla.co.il/item/3837268
-https://hamal.co.il/main/תושב-מזרח-ירושלים-ניסה-להבריח-3-שב״חים-ברכבו---ונעצר-267437
+COUNTER:29
 https://hamal.co.il/main/שרי-האיחוד-האירופי-קבעו-סנקציות-יוטלו-נגד-מתנחלים-אלימים-267426
 https://hamal.co.il/main/3-כבשים-ועז-חולצו-לאחר-שנפלו-לבור-בעומק-12-מטרים-267438
 https://hamal.co.il/main/נתניהו-״מי-שממנה-את-ראש-המוסד-זה-רק-ראש-הממשלה״-267439
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838148
 https://news.walla.co.il/break/3838153
 https://news.walla.co.il/item/3838134
 https://hamal.co.il/main/נתניהו-בטקס-האזכרה-לזכר-יהודי-אתיופיה-למצות-את-א-267882
+https://news.walla.co.il/break/3838155
+https://news.walla.co.il/item/3838158
+https://hamal.co.il/main/נציגת-פולין-לאירוויזיון-נשאלה-על-ישראל-זו-הייתה-תגובתה-המביכ-267863
+https://hamal.co.il/main/ליברמן-בעוטף-לחזק-את-העסקים-267884
