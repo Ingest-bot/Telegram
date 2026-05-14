@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הבית-מרושת-במצלמות-הסתבך-עם-גרושה-ונסחט-ב-12-מיליארד-דו-267336
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בצפון-מצבו-קשה-267356
 https://news.walla.co.il/break/3837138
 https://hamal.co.il/main/ניסיון-הפיגוע-בקלנדיה-המחבל-פתח-בירי-לעבר-הלוחמים---וחוסל-267360
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3837807
 https://news.walla.co.il/break/3837970
 https://news.walla.co.il/break/3837969
 https://news.walla.co.il/break/3837971
+https://news.walla.co.il/break/3837974
