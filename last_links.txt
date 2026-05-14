@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/הפנטגון-צוללת-אמריקנית-הנושאת-נשק-גרעיני-הגיעה-לגיברלטר-267455
-https://news.walla.co.il/break/3837308
+COUNTER:0
 https://news.walla.co.il/item/3837304
 https://news.walla.co.il/item/3837306
 https://hamal.co.il/main/יצא-מהבית-עם-אלה---ותקף-נער-בן-13-אירוע-אלימות-בביס-באילת-267443
@@ -499,3 +497,5 @@ https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-ח
 https://hamal.co.il/main/החל-סבב-שיחות-המומ-בין-ישראל-ללבנון-267899
 https://news.walla.co.il/item/3838195
 https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267893
+https://news.walla.co.il/break/3838203
+https://hamal.co.il/main/מסתערבי-מג״ב-עצרו-חשוד-שתכנן-לבצע-פיגוע-במהלך-יום-ירושלים-267903
