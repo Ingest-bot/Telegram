@@ -1,9 +1,4 @@
-COUNTER:29
-https://hamal.co.il/main/שרי-האיחוד-האירופי-קבעו-סנקציות-יוטלו-נגד-מתנחלים-אלימים-267426
-https://hamal.co.il/main/3-כבשים-ועז-חולצו-לאחר-שנפלו-לבור-בעומק-12-מטרים-267438
-https://hamal.co.il/main/נתניהו-״מי-שממנה-את-ראש-המוסד-זה-רק-ראש-הממשלה״-267439
-https://news.walla.co.il/break/3837288
-https://news.walla.co.il/break/3837290
+COUNTER:33
 https://news.walla.co.il/item/3837277
 https://hamal.co.il/main/דיווח-״-267440
 https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3838155
 https://news.walla.co.il/item/3838158
 https://hamal.co.il/main/נציגת-פולין-לאירוויזיון-נשאלה-על-ישראל-זו-הייתה-תגובתה-המביכ-267863
 https://hamal.co.il/main/ליברמן-בעוטף-לחזק-את-העסקים-267884
+https://news.walla.co.il/item/3838165
+https://hamal.co.il/main/3-נפצעו-בת-267885
+https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בבני-ברק-מצבו-קשה-267886
+https://hamal.co.il/main/ביום-ירושלים-בן-גביר-עלה-ורקד-בהר-הבית--צפו-267887
+https://hamal.co.il/main/כ-267888
