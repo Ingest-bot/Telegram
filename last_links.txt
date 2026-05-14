@@ -1,5 +1,4 @@
 COUNTER:1
-https://news.walla.co.il/break/3837312
 https://hamal.co.il/main/רכב-פרץ-מחסום-בכניסה-לקיבוץ-להב-ונמלט-הנסיבות-בבדיקה-267456
 https://hamal.co.il/main/דיווח-איראן-העבירה-מטוסי-צבא-לפקיסטן-לאחר-הפסקת-האש-267457
 https://news.walla.co.il/break/3837316
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מסתערבי-מג״ב-עצרו-חשוד-שתכנן-ל
 https://news.walla.co.il/break/3838208
 https://news.walla.co.il/item/3838205
 https://hamal.co.il/main/ארהב-חמאס-חיזבאללה-והחותים-מנותקים-מאספקה-של-איראן-267906
+https://news.walla.co.il/item/3838210
