@@ -1,7 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/יום-שרבי-וחם---הים-פלטה--תחזית-מזג-האוויר-267474
-https://news.walla.co.il/break/3837344
-https://news.walla.co.il/item/3837334
+COUNTER:15
 https://hamal.co.il/main/בעקבות-מזג-האוויר-אלו-המלצות-משרד-הבריאות-267476
 https://hamal.co.il/main/דגל-אשף-היה-רק-ההתחלה-הערב-המתריס-של-לאמין-ימאל-267477
 https://hamal.co.il/main/דיווח-טראמפ-מתוסכל-מאיראן---ושוקל-ברצינות-לתקוף-267478
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ביממה-האחרונה-צהל-חיסל-יותר-מ-2
 https://hamal.co.il/main/פועל-בן-25-נהרג-מכלי-הנדסי-במקום-עבודתו-סמוך-לכוכב-השחר-267925
 https://news.walla.co.il/break/3838247
 https://hamal.co.il/main/חולה-אבעבועות-רוח-שהה-בטיסה-267926
+https://news.walla.co.il/break/3838256
+https://news.walla.co.il/item/3838258
+https://hamal.co.il/main/צעד-אחרון-הניסיון-של-בכירים-בימין-לגייס-רוב-לחוק-הגיוס-267930
