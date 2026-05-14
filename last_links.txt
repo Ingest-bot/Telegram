@@ -1,6 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/בהמשך-להתרעות-שהופעלמדובר-במיירט-שיצא-לעבר-טיל-קרקע-אוויר-שש-267402
-https://news.walla.co.il/item/3837165
+COUNTER:14
 https://hamal.co.il/main/״אין-לי-רישיון-נהיגה״-נהג-נמלט-מהשוטרים-267403
 https://news.walla.co.il/break/3837238
 https://news.walla.co.il/item/3837233
@@ -499,3 +497,5 @@ https://hamal.co.il/main/ביום-ירושלים-האירוע-שיוצר-שיח-
 https://hamal.co.il/main/דיווח-ישראל-לא-תתחייב-להפסקת-אש-כוללת-בלבנון-267850
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-בוצעו-יירוטים-אין-נפגעים-267851
 https://hamal.co.il/main/תקלה-עולמית-ב-Wolt-לא-ניתן-לבצע-הזמנות-267852
+https://news.walla.co.il/item/3838073
+https://hamal.co.il/main/ראשוני-רחפן-נפץ-פגע-בראש-הנקרה-3-נפצעו-267854
