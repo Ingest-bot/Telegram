@@ -1,9 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/המשטרה-על-הירי-בלוד-אחד-המעורבים-נעצר-267386
-https://news.walla.co.il/break/3837201
-https://news.walla.co.il/break/3837195
-https://news.walla.co.il/item/3837199
-https://hamal.co.il/main/הרים-אבן-מעניינת-ילד-גילה-פסלון-מפואר-בן-1700-שנה-בטיול-ב-267325
+COUNTER:1
 https://hamal.co.il/main/טראמפ-דוחה-את-תשובת-איראן-מחירי-הנפט-מזנקים-בעוד-סגירת-מצר-267385
 https://news.walla.co.il/item/3837207
 https://hamal.co.il/main/שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמה-שחר-יותר-לפרסום-267387
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3838027
 https://news.walla.co.il/item/3838023
 https://news.walla.co.il/break/3838031
 https://hamal.co.il/main/נתניהו-מי-שאמר-שאני-חולה-סופני---יובא-לבית-המשפט-267830
+https://news.walla.co.il/break/3838040
+https://news.walla.co.il/break/3838036
+https://news.walla.co.il/break/3838041
+https://news.walla.co.il/item/3838016
+https://hamal.co.il/main/״ירושלמי-מלידה״-בשערי-צדק-הלבישו-את-התינוקות-בחולצה-חגיגית-267833
