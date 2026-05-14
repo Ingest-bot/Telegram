@@ -1,10 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3837120
-https://news.walla.co.il/item/3837113
-https://hamal.co.il/main/פועל-נהרג-מפגיעצ-חפץ-כבד-באתר-בנייה-267343
-https://hamal.co.il/main/הושלם-פינוי-הנוסעים-מספינת-הווירוס-2-נוספים-אובחנו-חיוביי-267351
-https://hamal.co.il/main/תיעוד-תושבים-לבנונים-מתפנים-אחרי-אזהרת-צהל-267352
-https://hamal.co.il/main/דיווחים-בלבנון-צהל-תקף-בדרום-המדינה--תיעוד-267353
 https://news.walla.co.il/item/3837117
 https://hamal.co.il/main/הנרצחת-ברמלה-רנין-אלעביד--אשתו-של-החשוד-267354
 https://news.walla.co.il/item/3837131
@@ -499,3 +493,9 @@ https://hamal.co.il/main/כאן-11-התנצלו-בפני-הקרואטים-עקב
 https://news.walla.co.il/break/3837944
 https://news.walla.co.il/break/3837948
 https://news.walla.co.il/break/3837957
+https://news.walla.co.il/break/3837963
+https://news.walla.co.il/break/3837965
+https://news.walla.co.il/break/3837967
+https://news.walla.co.il/break/3837964
+https://news.walla.co.il/item/3837961
+https://news.walla.co.il/item/3837968
