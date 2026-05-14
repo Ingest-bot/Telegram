@@ -1,5 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/item/3837296
+COUNTER:36
 https://hamal.co.il/main/גל-הפרישות-בכחול-לבן-גם-ראש-מטה-השטח-עוזב-את-בני-גנץ-אבי-סו-267415
 https://hamal.co.il/main/הכנסת-תצביע-על-חוק-העמדה-לדין-של-מחבלי-7-באוקטובר-267445
 https://hamal.co.il/main/טקס-חילופי-מג״דים-בגדוד-653-267448
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838181
 https://news.walla.co.il/break/3838173
 https://news.walla.co.il/item/3838176
 https://hamal.co.il/main/רגע-לפני-הגמר-המועמד-המוביל-לנצח-באירוויזיון-נפצע-267880
+https://hamal.co.il/main/המרד-בלייבור-שר-בריטי-בכיר-ראשון-התפטר---וקורא-סטארמר-לפרוש-267892
