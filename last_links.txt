@@ -1,5 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3837277
+COUNTER:34
 https://hamal.co.il/main/דיווח-״-267440
 https://hamal.co.il/main/סיכום-עונת-הגשמים-2025-2026-ירידה-בכמות-ביחס-לממוצע-הרב-שנת-267410
 https://hamal.co.il/main/מוסר-כליות-טייס-שחלה-נדרש-להמשיך-בפעילות-מבצעית-אביחי-חיים-267413
@@ -499,3 +498,4 @@ https://hamal.co.il/main/3-נפצעו-בת-267885
 https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בבני-ברק-מצבו-קשה-267886
 https://hamal.co.il/main/ביום-ירושלים-בן-גביר-עלה-ורקד-בהר-הבית--צפו-267887
 https://hamal.co.il/main/כ-267888
+https://hamal.co.il/main/נתניהו-וסער-החליטו-ישראל-תתבע-את-267890
