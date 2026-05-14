@@ -1,7 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בצפון-מצבו-קשה-267356
-https://news.walla.co.il/break/3837138
-https://hamal.co.il/main/ניסיון-הפיגוע-בקלנדיה-המחבל-פתח-בירי-לעבר-הלוחמים---וחוסל-267360
+COUNTER:30
 https://hamal.co.il/main/השליכו-21-קג-סמים-באמצע-הכביש-2-חשודים-נעצרו-בדרום-267365
 https://hamal.co.il/main/תיעוד-כזה-עוד-לא-ראיתם-אופנוע-עף-בכביש-לגובה-ונוחת-על-רמזור-267363
 https://hamal.co.il/main/מומחים-חושפים-השיטה-היעילה-ביותר-להשקות-את-העציצים-267324
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3837970
 https://news.walla.co.il/break/3837969
 https://news.walla.co.il/break/3837971
 https://news.walla.co.il/break/3837974
+https://news.walla.co.il/item/3837960
+https://hamal.co.il/main/שרבי-ובהיר-267797
+https://hamal.co.il/main/תרגיל-צבאי-יערך-במרחב-חטיבות-אפרים-ושומרון-267798
