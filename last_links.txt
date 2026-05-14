@@ -1,6 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/השליכו-21-קג-סמים-באמצע-הכביש-2-חשודים-נעצרו-בדרום-267365
-https://hamal.co.il/main/תיעוד-כזה-עוד-לא-ראיתם-אופנוע-עף-בכביש-לגובה-ונוחת-על-רמזור-267363
+COUNTER:32
 https://hamal.co.il/main/מומחים-חושפים-השיטה-היעילה-ביותר-להשקות-את-העציצים-267324
 https://news.walla.co.il/break/3837152
 https://news.walla.co.il/break/3837154
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3837974
 https://news.walla.co.il/item/3837960
 https://hamal.co.il/main/שרבי-ובהיר-267797
 https://hamal.co.il/main/תרגיל-צבאי-יערך-במרחב-חטיבות-אפרים-ושומרון-267798
+https://hamal.co.il/main/מכרזי-האשפה-בעראבה-קרוב-משפחת-ראש-העיר-שילח-את-היורה-267800
+https://hamal.co.il/main/15-שנות-מאסר-לניאו-נאצי-שתכנן-להרעיל-ילדים-יהודים-בניו-יורק-267802
