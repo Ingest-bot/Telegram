@@ -1,6 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3837567
-https://news.walla.co.il/break/3837571
+COUNTER:1
 https://hamal.co.il/main/ילד-בן-8-במצב-קשה-לאחר-שהחךיק-במהלך-רכיבה-על-אופניים-267576
 https://news.walla.co.il/break/3837574
 https://hamal.co.il/main/התמונות-שנחשפו-בעיראק-כך-נראה-הבסיס-הישראלי-הסודי-267580
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838414
 https://news.walla.co.il/break/3838417
 https://news.walla.co.il/item/3838413
 https://hamal.co.il/main/דיווח-ראשוני-תקיפות-בשכונת-רימאל-בעיר-עזה-268090
+https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-ראש-הזרוע-הצבאית-של-חמאס-בעיר-עזה-268091
+https://hamal.co.il/main/בכיר-ביטחוני-268092
