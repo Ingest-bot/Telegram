@@ -1,5 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/אבד-מגע-עם-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-267552
+COUNTER:27
 https://news.walla.co.il/break/3837539
 https://news.walla.co.il/break/3837541
 https://hamal.co.il/main/בכיר-בליכוד-״עושים-מאמצים-לפתור-את-המשבר״-267553
@@ -499,3 +498,4 @@ https://hamal.co.il/main/גדוד-75-חטיבה-7-מוסרים-שבת-שלום-�
 https://news.walla.co.il/break/3838384
 https://news.walla.co.il/item/3838383
 https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכחם-סמוך-למחלף-נתניה-268045
+https://hamal.co.il/main/איראן-מזהה-חולשה-ממרחק-במערכת-הביטחון-נערכים-להכרעה-268044
