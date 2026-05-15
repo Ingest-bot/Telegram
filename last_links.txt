@@ -1,7 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3837491
-https://hamal.co.il/main/ראשוני-דיווח-על-יציאת-מיירט-באילת---ללא-התרעה-267530
-https://hamal.co.il/main/צה-267531
+COUNTER:9
 https://hamal.co.il/main/אישום-תקף-את-שכנו-הקשיש---267532
 https://hamal.co.il/main/״שמעתי-קולות-בראש-הוארך-מעצרו-של-החשוד-ברצח-אשתו-ברמלה-267533
 https://news.walla.co.il/item/3837493
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מטרה-אווירית-יורטה-בסמוך-לכוח�
 https://hamal.co.il/main/הכותל-תפילת-יום-ירושלים-עם-רבני-ישיבות-ההסדר-267992
 https://hamal.co.il/main/גורם-ביטחוני-זמיר-ביקר-באיחוד-האמירויות-במהלך-המלחמה-267994
 https://hamal.co.il/main/פרשת-׳במדבר׳-מה-תפקידם-של-הבנים-הנולדים-ודורות-ההמשך-267991
+https://news.walla.co.il/item/3838328
+https://news.walla.co.il/item/3838341
+https://hamal.co.il/main/תאילנד-נגד-הישראלים-ראש-הממשלה-פשט-על-וילות-בקופנגן-267999
