@@ -1,8 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/ינון-מגל-מזהיר-את-נתניהו-267511
-https://news.walla.co.il/item/3837432
-https://news.walla.co.il/item/3837430
-https://hamal.co.il/main/״ילד-אסור-ילד-מותר״-267513
+COUNTER:36
 https://hamal.co.il/main/כנופיית-נערים-תקפה-מוכר-בחנות-בא---והחריבה-את-החנות--תיעוד-267514
 https://hamal.co.il/main/צהל-השתלט-על-הליטני-מחבלים-חוסלו-בקרבו-267517
 https://news.walla.co.il/item/3837446
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838304
 https://news.walla.co.il/break/3838303
 https://hamal.co.il/main/אחרי-ימים-חמים-הטמפרטורות-צונחות-ויהיו-נמוכות-לעונה--התחזי-267958
 https://hamal.co.il/main/גבר-בן-48-נהרג-מפגיעת-משאית-סמוך-לשוהם-267959
+https://news.walla.co.il/break/3838308
+https://news.walla.co.il/item/3838305
+https://news.walla.co.il/item/3838306
+https://hamal.co.il/main/21-ימים-הסתובב-חופשי-בהרצליה-השב״ח-שהתחזה-לאחר-ונאשם-בעבירו-267960
