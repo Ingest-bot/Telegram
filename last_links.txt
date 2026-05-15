@@ -1,5 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3837513
+COUNTER:16
 https://hamal.co.il/main/בדרך-לפיזור-הכנסת-267539
 https://hamal.co.il/main/תיעוד-מקומם-אסיר-יצא-לטיול---וריסס-צלב-קרס-על-קיר-267540
 https://hamal.co.il/main/הטעות-שכמעט-עלתה-לה-בחייה-הרימה-חרק-במהלך-טיול-ומיד-קרסה-267496
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3838352
 https://hamal.co.il/main/האמירויות-יאיצו-את-פרויקט-צינור-הנפט-במטרה-לעקוף-את-הורמוז-268012
 https://hamal.co.il/main/--268013
 https://hamal.co.il/main/פרשת-׳במדבר׳--זמני-השבת-267995
+https://hamal.co.il/main/מסיבת-טבע-עם-מעל-ל-400-משתתפים-פוזרה-בדרום-268015
