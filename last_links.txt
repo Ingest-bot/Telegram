@@ -1,9 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/שר-החוץ-הטורקי-״תומכים-במאמצים-לפתיחת-מצר-הורמוז״-267542
-https://news.walla.co.il/item/3837332
-https://hamal.co.il/main/הרב-לנדו-״אין-לנו-אמון-יותר-בנתניהו״-267544
-https://news.walla.co.il/break/3837531
-https://news.walla.co.il/item/3837046
+COUNTER:21
 https://hamal.co.il/main/צה״ל-התייחס-לדו״ח-מבקר-המדינה-״-267543
 https://hamal.co.il/main/מדאיג-בתי-החולים-שעלולים-להיות-מושבתים-במלחמה-הבאה-267546
 https://hamal.co.il/main/דוח-חריף-של-המבקר-הדרג-המדיני-ידע-על-המחסור-באמלח-ולא-פעל-267548
@@ -499,3 +494,8 @@ https://hamal.co.il/main/4-פצועים-בתאונת-דרכים-בכביש-1-ב�
 https://news.walla.co.il/break/3838363
 https://news.walla.co.il/item/3838365
 https://hamal.co.il/main/מחירי-הדירות-עלו---אבל-הישראלים-עדיין-משלמים-פחות-משנה-שעברה-268024
+https://news.walla.co.il/break/3838371
+https://news.walla.co.il/break/3838374
+https://news.walla.co.il/item/3838372
+https://hamal.co.il/main/בשבוע-האחרון-חוסלו-כ-60-מחבלים-במרחב-דרום-לבנון-268028
+https://hamal.co.il/main/כך-מלחמת-איראן-חשפה-את-החולשה-של-טורקיה-268030
