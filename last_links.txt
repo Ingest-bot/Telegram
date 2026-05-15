@@ -1,5 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3837467
+COUNTER:3
 https://hamal.co.il/main/צהל-מחבל-חיזבאללה-ניסה-ליירט-כטבם-של-חיל-האוויר---וחוסל-267522
 https://hamal.co.il/main/דיווחים-בכווית-כוחות-הביטחון-עצרו-4-אנשי-משמרות-המהפכה-267523
 https://news.walla.co.il/break/3837475
@@ -499,3 +498,4 @@ https://hamal.co.il/main/ישר-267983
 https://hamal.co.il/main/במהלך-הלילה-צהל-השמיד-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267984
 https://news.walla.co.il/break/3838326
 https://news.walla.co.il/break/3838327
+https://hamal.co.il/main/נועם-בתן-ישיר-שלישי-בגמר-האירוויזיון-ישראל-במקום-הרביעי-בהי-267981
