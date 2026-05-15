@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/השגריר-האמריקני-מאשר-ישראל-שלחה-כיפת-ברזל-לאמירויות-267510
-https://news.walla.co.il/break/3837430
-https://news.walla.co.il/break/3837431
-https://news.walla.co.il/item/3837424
+COUNTER:35
 https://hamal.co.il/main/ינון-מגל-מזהיר-את-נתניהו-267511
 https://news.walla.co.il/item/3837432
 https://news.walla.co.il/item/3837430
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838299
 https://hamal.co.il/main/דובר-צהל-בהמשך-להתרעות-שהופעלו-לפני-זמן-קצר-במרחבים-מסד-ו-267955
 https://news.walla.co.il/break/3838301
 https://news.walla.co.il/break/3838302
+https://news.walla.co.il/break/3838304
+https://news.walla.co.il/break/3838303
+https://hamal.co.il/main/אחרי-ימים-חמים-הטמפרטורות-צונחות-ויהיו-נמוכות-לעונה--התחזי-267958
+https://hamal.co.il/main/גבר-בן-48-נהרג-מפגיעת-משאית-סמוך-לשוהם-267959
