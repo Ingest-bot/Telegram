@@ -1,6 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3837494
-https://hamal.co.il/main/נתיב-אחד-נחסם-לתנועה-267534
+COUNTER:12
 https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-בחולון-צוותי-כיבוי-הוזנקו-267535
 https://news.walla.co.il/break/3837504
 https://hamal.co.il/main/הנהג-שדרס-הולכי-רגל-בבש-לא-יואשם-בביצוע-פיגוע-נסע-בשכרות-267537
@@ -499,3 +497,5 @@ https://hamal.co.il/main/תאילנד-נגד-הישראלים-ראש-הממשל�
 https://news.walla.co.il/break/3838344
 https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כלי-טיס-עוין-268007
 https://hamal.co.il/main/צהל-החל-בהפעלת-בוחן-רמטכל-להערכת-מוכנות-לגבול-המזרחי-267988
+https://news.walla.co.il/break/3838347
+https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-של-חיזבאללה-במרחב-צור-268008
