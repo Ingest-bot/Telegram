@@ -1,7 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/break/3837578
-https://news.walla.co.il/break/3837583
-https://news.walla.co.il/break/3837585
+COUNTER:8
 https://hamal.co.il/main/בנט-ברית-שמבוססת-על-פגיעה-בחיילי-צהל---סופה-לקרוס-267608
 https://hamal.co.il/main/נגד-צה״ל-נפצע-בינוני-וחייל-צה״ל-באורח-קל-מפגיעת-רחפן-נפץ-267609
 https://news.walla.co.il/break/3837588
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838421
 https://hamal.co.il/main/גבר-בן-34-נפצע-קשה-בתאונת-דרכים-סמוך-לקליה-268096
 https://hamal.co.il/main/ארהב-הפסקת-האש-בין-ישראל-ללבנון-תוארך-ב-45-יום-268097
 https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-268098
+https://news.walla.co.il/break/3838427
+https://news.walla.co.il/item/3838429
+https://hamal.co.il/main/צהל-שטח-צבאי-סגור-הוכרז-ברצועת-החוף-של-ראש-הנקרה-ואכזיב-268099
