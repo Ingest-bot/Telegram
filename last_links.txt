@@ -1,5 +1,4 @@
 COUNTER:8
-https://hamal.co.il/main/נגד-צה״ל-נפצע-בינוני-וחייל-צה״ל-באורח-קל-מפגיעת-רחפן-נפץ-267609
 https://news.walla.co.il/break/3837588
 https://news.walla.co.il/item/3837592
 https://news.walla.co.il/item/3837590
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838427
 https://news.walla.co.il/item/3838429
 https://hamal.co.il/main/צהל-שטח-צבאי-סגור-הוכרז-ברצועת-החוף-של-ראש-הנקרה-ואכזיב-268099
 https://news.walla.co.il/break/3838430
+https://news.walla.co.il/break/3838438
