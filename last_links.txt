@@ -1,6 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3837541
-https://hamal.co.il/main/בכיר-בליכוד-״עושים-מאמצים-לפתור-את-המשבר״-267553
+COUNTER:29
 https://news.walla.co.il/break/3837547
 https://news.walla.co.il/break/3837549
 https://hamal.co.il/main/גר-ברכב-מתקלח-בחדר-כושר-בעל-המסעדה-מהצפון-שהפך-להומלס-267555
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3838383
 https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכחם-סמוך-למחלף-נתניה-268045
 https://hamal.co.il/main/איראן-מזהה-חולשה-ממרחק-במערכת-הביטחון-נערכים-להכרעה-268044
 https://news.walla.co.il/break/3838388
+https://hamal.co.il/main/סיכום-התרגיל-הצהלי-״גופרית-ואש״-בגבול-המזרחי-268046
+https://hamal.co.il/main/הקטל-בכבישים-בן-22-נהרג-בתאונת-דרכים-בכביש-2-סמוך-לנתניה-268052
