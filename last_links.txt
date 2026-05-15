@@ -1,5 +1,4 @@
-COUNTER:31
-https://news.walla.co.il/break/3837560
+COUNTER:32
 https://news.walla.co.il/break/3837558
 https://news.walla.co.il/item/3837556
 https://hamal.co.il/main/העבירה-שכמעט-כולנו-עושים---ועוד-בטוחים-שמדובר-במצווה-267557
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838395
 https://news.walla.co.il/break/3838396
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-268055
 https://hamal.co.il/main/הטווח-מתרחב-אזעקות-בנהריה-ובגליל-המערבי-268066
+https://hamal.co.il/main/הרמטכל-268068
