@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/רצח-באדישות-זה-מקומם-המאבק-להחמרת-האישומים-בפרשת-זלקה-267607
+COUNTER:7
 https://news.walla.co.il/break/3837578
 https://news.walla.co.il/break/3837583
 https://news.walla.co.il/break/3837585
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838420
 https://news.walla.co.il/break/3838421
 https://hamal.co.il/main/גבר-בן-34-נפצע-קשה-בתאונת-דרכים-סמוך-לקליה-268096
 https://hamal.co.il/main/ארהב-הפסקת-האש-בין-ישראל-ללבנון-תוארך-ב-45-יום-268097
+https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-268098
