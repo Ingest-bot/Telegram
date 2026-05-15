@@ -1,7 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/מדאיג-בתי-החולים-שעלולים-להיות-מושבתים-במלחמה-הבאה-267546
-https://hamal.co.il/main/דוח-חריף-של-המבקר-הדרג-המדיני-ידע-על-המחסור-באמלח-ולא-פעל-267548
-https://news.walla.co.il/item/3837526
+COUNTER:23
 https://news.walla.co.il/item/3837532
 https://hamal.co.il/main/קיבלו-את-הכומתה-500-חיילי-נח״ל-סיימו-את-הכשרתם-267549
 https://news.walla.co.il/break/3837536
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838372
 https://hamal.co.il/main/בשבוע-האחרון-חוסלו-כ-60-מחבלים-במרחב-דרום-לבנון-268028
 https://hamal.co.il/main/כך-מלחמת-איראן-חשפה-את-החולשה-של-טורקיה-268030
 https://hamal.co.il/main/הרמטכ״ל-בתרגיל-בגבול-המזרחי-״עלינו-ללמוד-ולהפיק-את-הלקחים״-268035
+https://news.walla.co.il/break/3838378
+https://news.walla.co.il/item/3838377
+https://hamal.co.il/main/טראמפ-״ייתכן-שנצטרך-לעשות-עוד-קצת-עבודות-ניקוי-באיראן״-268036
