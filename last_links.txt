@@ -1,6 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3837458
-https://news.walla.co.il/break/3837457
+COUNTER:39
 https://news.walla.co.il/break/3837460
 https://news.walla.co.il/break/3837462
 https://news.walla.co.il/item/3837454
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838309
 https://news.walla.co.il/item/3838286
 https://hamal.co.il/main/פעוט-במצב-בינוני-לאחר-שרכב-על-בימבה-ונפגע-מרכב-267961
 https://hamal.co.il/main/איזנקוט-גונב-קולות-מביבי---והאופוזיציה-גורפת-61-מנדטים--סקר-267973
+https://news.walla.co.il/break/3838319
+https://hamal.co.il/main/טעינו-כל-השנים-יבשת-אפריקה-נקרעת-לשניים-במקום-לא-צפוי-267979
