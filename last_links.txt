@@ -1,9 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/break/3837460
-https://news.walla.co.il/break/3837462
-https://news.walla.co.il/item/3837454
-https://news.walla.co.il/item/3837456
-https://hamal.co.il/main/צהל-מחבלים-התקרבו-לכוחות-צהל-ברצועה-4-מהם-חוסלו-267520
+COUNTER:2
 https://hamal.co.il/main/3-נפצעו-בתאונת-דרכים--בהם-צעיר-במצב-קשה-267521
 https://hamal.co.il/main/ישראל-נערכה-לתקוף-באיראן---ונבלמה-ברגע-האחרון-267512
 https://news.walla.co.il/break/3837467
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פעוט-במצב-בינוני-לאחר-שרכב-על-�
 https://hamal.co.il/main/איזנקוט-גונב-קולות-מביבי---והאופוזיציה-גורפת-61-מנדטים--סקר-267973
 https://news.walla.co.il/break/3838319
 https://hamal.co.il/main/טעינו-כל-השנים-יבשת-אפריקה-נקרעת-לשניים-במקום-לא-צפוי-267979
+https://news.walla.co.il/break/3838322
+https://news.walla.co.il/break/3838324
+https://hamal.co.il/main/מסע-האופניים-׳בואניש׳-יצא-לדרך---ואלו-הכבישים-שנחסמו-לתנועה-267982
+https://hamal.co.il/main/ישר-267983
+https://hamal.co.il/main/במהלך-הלילה-צהל-השמיד-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267984
