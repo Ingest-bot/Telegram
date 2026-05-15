@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3837536
-https://hamal.co.il/main/טראמפ-״אני-מסתדר-מצוין-עם-ביבי״-267550
-https://hamal.co.il/main/בכיר-בדגל-התורה-נתניהו-מבלבל-את-המוח-הרב-לנדו-מרגיש-מרומה-267551
+COUNTER:26
 https://hamal.co.il/main/אבד-מגע-עם-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-267552
 https://news.walla.co.il/break/3837539
 https://news.walla.co.il/break/3837541
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838377
 https://hamal.co.il/main/טראמפ-״ייתכן-שנצטרך-לעשות-עוד-קצת-עבודות-ניקוי-באיראן״-268036
 https://hamal.co.il/main/חיל-האוויר-יירט-רקטה-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-268037
 https://hamal.co.il/main/גדוד-75-חטיבה-7-מוסרים-שבת-שלום-לכל-עם-ישראל-268040
+https://news.walla.co.il/break/3838384
+https://news.walla.co.il/item/3838383
+https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכחם-סמוך-למחלף-נתניה-268045
