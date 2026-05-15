@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3837558
-https://news.walla.co.il/item/3837556
-https://hamal.co.il/main/העבירה-שכמעט-כולנו-עושים---ועוד-בטוחים-שמדובר-במצווה-267557
+COUNTER:33
 https://hamal.co.il/main/אזעקות-הופעלו-בצפון-בפעם-השלישית-תוך-שעה-267567
 https://hamal.co.il/main/מפרים-את-הפסקת-האש-חיזבאללה-שיגר-מספר-רחפני-נפץ-267568
 https://news.walla.co.il/break/3837562
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838396
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-268055
 https://hamal.co.il/main/הטווח-מתרחב-אזעקות-בנהריה-ובגליל-המערבי-268066
 https://hamal.co.il/main/הרמטכל-268068
+https://news.walla.co.il/break/3838402
+https://news.walla.co.il/break/3838400
+https://hamal.co.il/main/האזעקות-בצפון-כטבם-אחד-יורט-נוספים-נפלו-בשטח-פתוח-268074
