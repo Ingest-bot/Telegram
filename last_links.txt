@@ -1,11 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-בחולון-צוותי-כיבוי-הוזנקו-267535
-https://news.walla.co.il/break/3837504
-https://hamal.co.il/main/הנהג-שדרס-הולכי-רגל-בבש-לא-יואשם-בביצוע-פיגוע-נסע-בשכרות-267537
-https://hamal.co.il/main/מחקר-חושף-אלו-החלומות-המשותפים-שאנשים-רואים-רגע-לפני-שהם-מת-267488
-https://hamal.co.il/main/שריפה-פרצה-267538
-https://news.walla.co.il/item/3837499
-https://hamal.co.il/main/דיירת-האח-הגדול-חושפת-יצאתי-עם-נועם-בתן-267527
+COUNTER:15
 https://news.walla.co.il/break/3837513
 https://hamal.co.il/main/בדרך-לפיזור-הכנסת-267539
 https://hamal.co.il/main/תיעוד-מקומם-אסיר-יצא-לטיול---וריסס-צלב-קרס-על-קיר-267540
@@ -499,3 +492,10 @@ https://hamal.co.il/main/אזעקות-הופעלו-בגליל-המערבי-מח�
 https://hamal.co.il/main/צהל-החל-בהפעלת-בוחן-רמטכל-להערכת-מוכנות-לגבול-המזרחי-267988
 https://news.walla.co.il/break/3838347
 https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-של-חיזבאללה-במרחב-צור-268008
+https://news.walla.co.il/break/3838354
+https://news.walla.co.il/break/3838353
+https://news.walla.co.il/item/3838356
+https://news.walla.co.il/item/3838352
+https://hamal.co.il/main/האמירויות-יאיצו-את-פרויקט-צינור-הנפט-במטרה-לעקוף-את-הורמוז-268012
+https://hamal.co.il/main/--268013
+https://hamal.co.il/main/פרשת-׳במדבר׳--זמני-השבת-267995
