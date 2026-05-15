@@ -1,12 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/דיווחים-בכווית-כוחות-הביטחון-עצרו-4-אנשי-משמרות-המהפכה-267523
-https://news.walla.co.il/break/3837475
-https://news.walla.co.il/item/3837476
-https://hamal.co.il/main/נתניהו-לחרדים-חוק-גיוס---אחרי-הבחירות-267525
-https://hamal.co.il/main/צפו-החטופים-שחולצו-267526
-https://hamal.co.il/main/צעיר-נאשם-שדקר-נער-בקריית-גת-267528
-https://hamal.co.il/main/האירוע-המזעזע-בלג-בעומר-הוארך-מעצרם-של-2-חשודים-בשריפת-כלב-267529
-https://hamal.co.il/main/מה-באמת-עוזר-לרדת-במשקל-מחקר-חדש-מצביע-על-גורם-מפתיע-267487
+COUNTER:7
 https://news.walla.co.il/break/3837489
 https://news.walla.co.il/break/3837491
 https://hamal.co.il/main/ראשוני-דיווח-על-יציאת-מיירט-באילת---ללא-התרעה-267530
@@ -499,3 +491,11 @@ https://news.walla.co.il/break/3838326
 https://news.walla.co.il/break/3838327
 https://hamal.co.il/main/נועם-בתן-ישיר-שלישי-בגמר-האירוויזיון-ישראל-במקום-הרביעי-בהי-267981
 https://news.walla.co.il/break/3838331
+https://news.walla.co.il/break/3838333
+https://news.walla.co.il/break/3838334
+https://news.walla.co.il/break/3838336
+https://news.walla.co.il/item/3838335
+https://hamal.co.il/main/תיק-יועצי-נתניהו-עלול-להיסגר-היועמשית-הודיעה-על-עיכוב-הליכי-267986
+https://hamal.co.il/main/מטרה-אווירית-יורטה-בסמוך-לכוחותינו-בדרום-לבנון-אין-נפגעים-267989
+https://hamal.co.il/main/הכותל-תפילת-יום-ירושלים-עם-רבני-ישיבות-ההסדר-267992
+https://hamal.co.il/main/גורם-ביטחוני-זמיר-ביקר-באיחוד-האמירויות-במהלך-המלחמה-267994
