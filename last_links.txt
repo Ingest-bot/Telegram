@@ -1,6 +1,4 @@
 COUNTER:22
-https://hamal.co.il/main/צהל-הופעלו-אזעקות-בגליל-הפרטים-בבדיקה-267645
-https://news.walla.co.il/break/3837657
 https://news.walla.co.il/break/3837659
 https://news.walla.co.il/break/3837661
 https://hamal.co.il/main/מזג-אוויר-הפכפך-הפוגה-מגל-החום---מה-צפוי-בהמשך--התחזית-267646
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הלחץ-עבד-צהל-ביטל-את-צמצום-הכו�
 https://news.walla.co.il/break/3838501
 https://news.walla.co.il/break/3838503
 https://hamal.co.il/main/במקום-איימן-עודה-חדש-בחרה-בדר-יוסף-גבארין-ליור-המפלגה-268130
+https://news.walla.co.il/break/3838506
+https://news.walla.co.il/item/3838507
