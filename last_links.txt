@@ -1,8 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/צהל-על-האזעקות-בגליל-רקטות-שוגרו-לעבר-כוחותינו-אין-נפגעים-267664
-https://hamal.co.il/main/בפתח-ביתו-רופא-וכוכב-רשת-נדקר-באישון-לילה---החשוד-נעצר-267666
-https://news.walla.co.il/break/3837693
-https://hamal.co.il/main/אהוד-ברק-267665
+COUNTER:33
 https://news.walla.co.il/break/3837704
 https://news.walla.co.il/break/3837705
 https://news.walla.co.il/item/3837703
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838530
 https://hamal.co.il/main/עופר-כסיף-במקום-השלישי-ברשימת-חדש-אין-דמוקרטיה-עם-כיבוש-268160
 https://hamal.co.il/main/הפועל-תל-אביב-הודיעה-רשמית-מגיעים-למשחק-עם-5-שחקנים-268163
 https://hamal.co.il/main/רומז-לאיראן-268164
+https://news.walla.co.il/break/3838537
+https://news.walla.co.il/break/3838538
+https://hamal.co.il/main/קרית-אתא-רכב-התהפך-בן-26-פונה-לביהח-רמבם-במצב-בינוני-268165
+https://hamal.co.il/main/שיגור-מלבנון-הופעלו-התרעות-בגליל-המערבי-268167
