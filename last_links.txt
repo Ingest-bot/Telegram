@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3837682
-https://hamal.co.il/main/נועה-קירל-לא-לבד-הסלבס-שנאבקו-בהפרעת-אכילה-קשה-267524
-https://hamal.co.il/main/צהל-מפרסם-הודעת-פינוי-ל-6-כפרים-בדרום-לבנון-267660
-https://hamal.co.il/main/צהל-על-האזעקות-בגליל-הפרטים-בבדיקה-267661
+COUNTER:28
 https://news.walla.co.il/break/3837691
 https://news.walla.co.il/item/3837688
 https://news.walla.co.il/item/3837690
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838518
 https://news.walla.co.il/item/3838481
 https://news.walla.co.il/break/3838523
 https://news.walla.co.il/break/3838525
+https://news.walla.co.il/break/3838527
+https://news.walla.co.il/break/3838526
+https://hamal.co.il/main/דובר-חמאס-סופד-לעז-א-דין-מגדולי-ההתנגדות-הפלסטינית-268150
+https://hamal.co.il/main/הפגנה-בווינה-לפני-גמר-האירוויזיון-אין-תמיכה-ברצח-עם-268154
