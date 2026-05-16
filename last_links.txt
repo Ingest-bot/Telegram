@@ -1,6 +1,4 @@
 COUNTER:26
-https://news.walla.co.il/break/3837674
-https://news.walla.co.il/break/3837681
 https://news.walla.co.il/item/3837682
 https://hamal.co.il/main/נועה-קירל-לא-לבד-הסלבס-שנאבקו-בהפרעת-אכילה-קשה-267524
 https://hamal.co.il/main/צהל-מפרסם-הודעת-פינוי-ל-6-כפרים-בדרום-לבנון-267660
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יו״ר-רשימת-חד״ש-הנבחר-זוהי-חוב
 https://hamal.co.il/main/הפרה-נוספת-של-הפסקת-האש-יורטה-מטרה-אווירית-חשודה-במטולה-268142
 https://news.walla.co.il/break/3838518
 https://news.walla.co.il/item/3838481
+https://news.walla.co.il/break/3838523
+https://news.walla.co.il/break/3838525
