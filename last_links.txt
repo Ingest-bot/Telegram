@@ -1,6 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/break/3837604
-https://hamal.co.il/main/פרסום-ראשון-תוכנית-חיזבאללה-לכיבוש-ביירות---והלחץ-על-קאסם-267618
 https://news.walla.co.il/break/3837609
 https://hamal.co.il/main/אושר-כהן-תודה-שלימדת-אותי-אהבה-בריאה-מהי-267621
 https://hamal.co.il/main/חלוקת-נקודות-במשחק-העונה-הפועל-באר-שבע-ובית״ר-ירושלים-נפרדו-267622
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838445
 https://news.walla.co.il/break/3838446
 https://news.walla.co.il/break/3838448
 https://news.walla.co.il/item/3838447
+https://news.walla.co.il/break/3838450
+https://news.walla.co.il/item/3838449
