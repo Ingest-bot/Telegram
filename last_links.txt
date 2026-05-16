@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3837705
-https://news.walla.co.il/item/3837703
-https://hamal.co.il/main/דיווח-מכלית-נפט-סינית-חצתה-את-מעבר-הורמוז-267668
+COUNTER:35
 https://hamal.co.il/main/תיעוד-מעין-הטנק-267658
 https://hamal.co.il/main/אחרי-ההופעה-המעולה-בחצי-גמר-האירוויזיון-ישראל-מטפסת-בטבלאות-267662
 https://news.walla.co.il/item/3837709
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838538
 https://hamal.co.il/main/קרית-אתא-רכב-התהפך-בן-26-פונה-לביהח-רמבם-במצב-בינוני-268165
 https://hamal.co.il/main/שיגור-מלבנון-הופעלו-התרעות-בגליל-המערבי-268167
 https://hamal.co.il/main/צהל-ההתרעות-שהופעלו-לפני-זמן-קצר-בצפון-הארץ---זיהוי-שווא-268169
+https://news.walla.co.il/break/3838542
+https://news.walla.co.il/item/3838533
+https://hamal.co.il/main/מאחורי-הקלעים-הבחירות-268174
