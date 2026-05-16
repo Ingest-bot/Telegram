@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/גבר-נהרג-בתאונת-אופנוע-267677
-https://news.walla.co.il/break/3837739
-https://news.walla.co.il/break/3837749
+COUNTER:4
 https://hamal.co.il/main/אחרי-אזהרת-צהל-לבנונים-עוזבים-כפרים-בדרום-המדינה--תיעוד-267678
 https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-267679
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-ברמת-גן-מצבו-קשה-267680
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838567
 https://hamal.co.il/main/עמד-להתארס-עם-בחירת-ליבו-268194
 https://news.walla.co.il/break/3838570
 https://hamal.co.il/main/עצרת-לכבוד-משפחת-זלקה-בתל-אביב-268196
+https://news.walla.co.il/break/3838573
+https://news.walla.co.il/break/3838574
+https://hamal.co.il/main/סוף-סוף-גמר-האירוויזיון-יוצא-לדרך-268201
