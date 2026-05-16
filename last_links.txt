@@ -1,6 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/בצל-המתיחות-באזור-נתניהו-יכנס-דיון-ביטח-267675
-https://news.walla.co.il/break/3837736
+COUNTER:2
 https://news.walla.co.il/break/3837735
 https://hamal.co.il/main/מחקר-חדש-אכילה-יומית-של-המאכל-הזה-מורידה-את-לחץ-הדם-בכ-30-267651
 https://hamal.co.il/main/גבר-נהרג-בתאונת-אופנוע-267677
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3838554
 https://hamal.co.il/main/פיגוע-הדריסה-והדקירה-באיטליה-מספר-הפצועים-עלה-ל-12-268192
 https://news.walla.co.il/break/3838562
 https://hamal.co.il/main/הותר-לפרסום-סרן-מעוז-ישראל-רקנטי-נפל-בקרב-בדרום-לבנון-268193
+https://news.walla.co.il/item/3838567
+https://hamal.co.il/main/עמד-להתארס-עם-בחירת-ליבו-268194
