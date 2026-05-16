@@ -1,6 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/אחרי-אזהרת-צהל-לבנונים-עוזבים-כפרים-בדרום-המדינה--תיעוד-267678
-https://hamal.co.il/main/צהל-פתחנו-בגל-תקיפות-בדרום-לבנון-267679
+COUNTER:5
 https://hamal.co.il/main/פועל-נפל-במהלך-עבודתו-ברמת-גן-מצבו-קשה-267680
 https://news.walla.co.il/item/3837750
 https://hamal.co.il/main/המשבר-בקואליציה-כל-החוקים-הוסרו-מסדר-היום-267681
@@ -499,3 +497,5 @@ https://hamal.co.il/main/עצרת-לכבוד-משפחת-זלקה-בתל-אביב
 https://news.walla.co.il/break/3838573
 https://news.walla.co.il/break/3838574
 https://hamal.co.il/main/סוף-סוף-גמר-האירוויזיון-יוצא-לדרך-268201
+https://news.walla.co.il/break/3838579
+https://hamal.co.il/main/כואב-הלב-ההזמנה-לחתונה-של-לוחם-צה״ל-מעוז-ישראל-רקנטי-זל-268206
