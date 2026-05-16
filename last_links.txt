@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/פליטת-הפה-של-ה-CIA-המסמך-שחושף-מה-קבור-תחת-הספינקס-267653
+COUNTER:8
 https://news.walla.co.il/break/3837770
 https://hamal.co.il/main/בלבנון-מדווחים-8-נהרגו-בתקיפות-חיל-האוויר-267683
 https://hamal.co.il/main/התיעוד-הביזארי-ממוסקבה-פוטין-מכחיש-שהוא-כפיל-של-עצמו-267654
@@ -499,3 +498,4 @@ https://hamal.co.il/main/מאות-ישראלים-עם-דגלים-מריעים-ל
 https://hamal.co.il/main/פיצוץ-גדול-נשמע-באזור-בית-שמש-דובר-צהל-לא-מכירים-268214
 https://news.walla.co.il/break/3838584
 https://news.walla.co.il/item/3838587
+https://hamal.co.il/main/חשוד-נעצר-בחשד-למעורבות-נטישת-התינוק-בחדר-המדרגות-בחדרה-שלומ-268215
