@@ -1,5 +1,4 @@
 COUNTER:20
-https://news.walla.co.il/break/3837648
 https://news.walla.co.il/break/3837649
 https://news.walla.co.il/break/3837651
 https://hamal.co.il/main/צהל-יורטה-מטרה-אווירית-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-267643
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838488
 https://hamal.co.il/main/בכירים-בחמאס-אישרו-עז-א-דין-אל-חדאד-חוסל-268119
 https://news.walla.co.il/break/3838490
 https://hamal.co.il/main/סגירת-מעגל-חשובה-הרמטכל-על-חיסולו-של-עז-א-דין-חדאד-268123
+https://news.walla.co.il/break/3838491
