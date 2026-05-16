@@ -1,5 +1,4 @@
 COUNTER:12
-https://news.walla.co.il/break/3837623
 https://hamal.co.il/main/זה-לא-רק-אצלכם-תקלה-עולמית-בספוטיפיי-מונעת-ניגון-שירים-267630
 https://news.walla.co.il/break/3837627
 https://hamal.co.il/main/נועם-בתן-אחרי-הביצוע-אני-מרגיש-מדהים-שרתי-את-זה-לישראל-267631
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3838455
 https://news.walla.co.il/break/3838457
 https://hamal.co.il/main/דיווח-חידוש-התקיפות-לאיראן-עשוי-להתרחש-כבר-בשבוע-הבא-268103
 https://hamal.co.il/main/גורם-ביטחוני-בכיר-כל-האינדיקציות-מהלילה-מעידות---הסיכול-של-268104
+https://news.walla.co.il/break/3838458
