@@ -1,5 +1,4 @@
 COUNTER:10
-https://news.walla.co.il/break/3837616
 https://news.walla.co.il/break/3837617
 https://news.walla.co.il/item/3837615
 https://hamal.co.il/main/דיווח-הממשל-האמריקני-שוקל-לשנות-את-שם-המלחמה-267624
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3838451
 https://hamal.co.il/main/ההתרעות-שהופעלו-במגדל-שמס---זיהוי-שווא-268101
 https://hamal.co.il/main/טראמפ-הודיע-הבוקר-סגנו-של-מנהיג-דעאש-עולמי-חוסל-בניגריה-268102
 https://news.walla.co.il/break/3838452
+https://news.walla.co.il/item/3838455
