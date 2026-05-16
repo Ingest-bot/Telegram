@@ -1,7 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3837609
-https://hamal.co.il/main/אושר-כהן-תודה-שלימדת-אותי-אהבה-בריאה-מהי-267621
-https://hamal.co.il/main/חלוקת-נקודות-במשחק-העונה-הפועל-באר-שבע-ובית״ר-ירושלים-נפרדו-267622
+COUNTER:10
 https://hamal.co.il/main/נער-בן-16-במצב-קשה-לאחר-שנדקר-בטירת-כרמל-267623
 https://news.walla.co.il/break/3837616
 https://news.walla.co.il/break/3837617
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838448
 https://news.walla.co.il/item/3838447
 https://news.walla.co.il/break/3838450
 https://news.walla.co.il/item/3838449
+https://news.walla.co.il/item/3838451
+https://hamal.co.il/main/ההתרעות-שהופעלו-במגדל-שמס---זיהוי-שווא-268101
+https://hamal.co.il/main/טראמפ-הודיע-הבוקר-סגנו-של-מנהיג-דעאש-עולמי-חוסל-בניגריה-268102
