@@ -1,5 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/עשה-את-זה-נועם-בתן-העפיל-לגמר-האירוויזיון-267635
+COUNTER:14
 https://news.walla.co.il/break/3837633
 https://news.walla.co.il/item/3837636
 https://hamal.co.il/main/המודיעין-האמריקאי-איראן-מחזיקה-ביכולות-טילים-משמעותיות-267637
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838458
 https://hamal.co.il/main/האזעקות-במירון-זוהתה-מטרה-אווירית-חשודה---ללא-נפגעים-268106
 https://news.walla.co.il/break/3838462
 https://news.walla.co.il/break/3838467
+https://hamal.co.il/main/בספרד-בטוחים-שמוריניו-חוזר-לריאל-999-אחוז-שזה-יקרה-268109
