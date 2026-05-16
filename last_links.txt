@@ -1,5 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/רגע-לפני-החג-267667
+COUNTER:7
 https://news.walla.co.il/break/3837766
 https://news.walla.co.il/item/3837759
 https://hamal.co.il/main/פליטת-הפה-של-ה-CIA-המסמך-שחושף-מה-קבור-תחת-הספינקס-267653
@@ -499,3 +498,4 @@ https://hamal.co.il/main/כואב-הלב-ההזמנה-לחתונה-של-לוחם
 https://news.walla.co.il/break/3838582
 https://news.walla.co.il/item/3838581
 https://hamal.co.il/main/מאות-ישראלים-עם-דגלים-מריעים-לנועם-בתן-עם-ישראל-חי-268212
+https://hamal.co.il/main/פיצוץ-גדול-נשמע-באזור-בית-שמש-דובר-צהל-לא-מכירים-268214
