@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3837646
-https://news.walla.co.il/item/3837642
+COUNTER:18
 https://news.walla.co.il/item/3837637
 https://hamal.co.il/main/הרפובליקה-הדומיניקנית-חיזבאללה-ומשמרות-המהפכה-ארגוני-טרור-267639
 https://hamal.co.il/main/גבר-נפצע-קשה-267640
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-
 https://news.walla.co.il/break/3838483
 https://news.walla.co.il/item/3838482
 https://hamal.co.il/main/קרוב-יותר-מהירח-אסטרואיד-עצום-יחלוף-במרחק-נגיעה-מכדור-הארץ-268114
+https://news.walla.co.il/break/3838487
+https://hamal.co.il/main/על-שהארגון-טרם-פרסם-הודעה-על-חיסולו-החלה-הלוויתו-של-חדאד-268116
