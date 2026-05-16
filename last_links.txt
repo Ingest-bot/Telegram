@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3837633
-https://news.walla.co.il/item/3837636
-https://hamal.co.il/main/המודיעין-האמריקאי-איראן-מחזיקה-ביכולות-טילים-משמעותיות-267637
-https://news.walla.co.il/break/3837638
+COUNTER:16
 https://news.walla.co.il/break/3837643
 https://news.walla.co.il/break/3837644
 https://news.walla.co.il/break/3837645
@@ -499,3 +495,7 @@ https://hamal.co.il/main/האזעקות-במירון-זוהתה-מטרה-אוו�
 https://news.walla.co.il/break/3838462
 https://news.walla.co.il/break/3838467
 https://hamal.co.il/main/בספרד-בטוחים-שמוריניו-חוזר-לריאל-999-אחוז-שזה-יקרה-268109
+https://news.walla.co.il/break/3838479
+https://news.walla.co.il/break/3838480
+https://hamal.co.il/main/גורם-ביטחוני-אישר-צה״ל-ממשיך-בהערכויות-לתקיפה-באיראן-268110
+https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדרום-לבנון-268111
