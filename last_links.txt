@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/צהל-על-האזעקות-בגבול-מדובר-בזיהוי-שווא-267648
-https://hamal.co.il/main/תושב-שפרעם-נורה-למוות-הרקע-פלילי-מצוד-מתנהל-אחר-החשודים-267649
+COUNTER:24
 https://news.walla.co.il/break/3837662
 https://news.walla.co.il/item/3837663
 https://news.walla.co.il/item/3837661
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מזעזע-אדם-הכה-באכזריות-כלבה-בש
 https://news.walla.co.il/break/3838509
 https://news.walla.co.il/break/3838512
 https://news.walla.co.il/item/3838511
+https://news.walla.co.il/break/3838513
+https://hamal.co.il/main/יי-268139
