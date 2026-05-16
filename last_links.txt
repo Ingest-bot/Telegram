@@ -1,5 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/מצית-השריפה-בהר-הצופים-נתבע-בסכום-עתק-267673
+COUNTER:0
 https://news.walla.co.il/item/3837727
 https://hamal.co.il/main/ראש-מנת״ק-חדש-במשרד-הביטחון-תת-אלוף-שי-עמיאל-267674
 https://hamal.co.il/main/בצל-המתיחות-באזור-נתניהו-יכנס-דיון-ביטח-267675
@@ -499,3 +498,4 @@ https://hamal.co.il/main/חדשות-השבת-כוננות-אחרי-חיסול-א
 https://hamal.co.il/main/רחפן-נפץ-נחת-במטע-ליד-קיבוץ-סאסא-החיים-נמשכים-תחת-איום-מתמ-268190
 https://news.walla.co.il/break/3838559
 https://news.walla.co.il/item/3838554
+https://hamal.co.il/main/פיגוע-הדריסה-והדקירה-באיטליה-מספר-הפצועים-עלה-ל-12-268192
