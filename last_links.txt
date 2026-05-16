@@ -1,6 +1,4 @@
 COUNTER:26
-https://hamal.co.il/main/ניסיון-ההצתה-בחדרה-267650
-https://news.walla.co.il/break/3837671
 https://news.walla.co.il/break/3837674
 https://news.walla.co.il/break/3837681
 https://news.walla.co.il/item/3837682
@@ -499,3 +497,5 @@ https://hamal.co.il/main/יי-268139
 https://news.walla.co.il/break/3838517
 https://hamal.co.il/main/יו״ר-רשימת-חד״ש-הנבחר-זוהי-חובת-השעה-268141
 https://hamal.co.il/main/הפרה-נוספת-של-הפסקת-האש-יורטה-מטרה-אווירית-חשודה-במטולה-268142
+https://news.walla.co.il/break/3838518
+https://news.walla.co.il/item/3838481
