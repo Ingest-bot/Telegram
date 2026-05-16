@@ -1,7 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/break/3837643
-https://news.walla.co.il/break/3837644
-https://news.walla.co.il/break/3837645
+COUNTER:17
 https://news.walla.co.il/break/3837646
 https://news.walla.co.il/item/3837642
 https://news.walla.co.il/item/3837637
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838479
 https://news.walla.co.il/break/3838480
 https://hamal.co.il/main/גורם-ביטחוני-אישר-צה״ל-ממשיך-בהערכויות-לתקיפה-באיראן-268110
 https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדרום-לבנון-268111
+https://news.walla.co.il/break/3838483
+https://news.walla.co.il/item/3838482
+https://hamal.co.il/main/קרוב-יותר-מהירח-אסטרואיד-עצום-יחלוף-במרחק-נגיעה-מכדור-הארץ-268114
