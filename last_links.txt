@@ -1,8 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/תיעוד-מעין-הטנק-267658
-https://hamal.co.il/main/אחרי-ההופעה-המעולה-בחצי-גמר-האירוויזיון-ישראל-מטפסת-בטבלאות-267662
-https://news.walla.co.il/item/3837709
-https://news.walla.co.il/item/3837716
+COUNTER:37
 https://hamal.co.il/main/בפעם-השנייה-הבוקר-בלבנון-מדווחים-על-תקיפת-רכב-בדרום-המדינה-267670
 https://hamal.co.il/main/במהלך-היממה-האחרונה-מעל-40-תשתיות-חיזבאללה-הותקפו-בלבנון-267671
 https://hamal.co.il/main/בעסק-לשטיפת-רכבים-4-שבחים-נעצרו-במזרח-י-ם-267672
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-ההתרעות-שהופעלו-לפני-זמן-ק
 https://news.walla.co.il/break/3838542
 https://news.walla.co.il/item/3838533
 https://hamal.co.il/main/מאחורי-הקלעים-הבחירות-268174
+https://news.walla.co.il/break/3838543
+https://news.walla.co.il/break/3838546
+https://hamal.co.il/main/איטליה-אירוע-דריסה-ודקירה-10-עוברי-אורח-נפצעו-268183
+https://hamal.co.il/main/פעם-נוספת-אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-268188
