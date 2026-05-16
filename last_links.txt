@@ -1,5 +1,4 @@
 COUNTER:13
-https://news.walla.co.il/break/3837627
 https://hamal.co.il/main/נועם-בתן-אחרי-הביצוע-אני-מרגיש-מדהים-שרתי-את-זה-לישראל-267631
 https://hamal.co.il/main/עשה-את-זה-נועם-בתן-העפיל-לגמר-האירוויזיון-267635
 https://news.walla.co.il/break/3837633
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-חידוש-התקיפות-לאיראן-עש�
 https://hamal.co.il/main/גורם-ביטחוני-בכיר-כל-האינדיקציות-מהלילה-מעידות---הסיכול-של-268104
 https://news.walla.co.il/break/3838458
 https://hamal.co.il/main/האזעקות-במירון-זוהתה-מטרה-אווירית-חשודה---ללא-נפגעים-268106
+https://news.walla.co.il/break/3838462
