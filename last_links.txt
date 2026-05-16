@@ -1,6 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/item/3837727
-https://hamal.co.il/main/ראש-מנת״ק-חדש-במשרד-הביטחון-תת-אלוף-שי-עמיאל-267674
+COUNTER:1
 https://hamal.co.il/main/בצל-המתיחות-באזור-נתניהו-יכנס-דיון-ביטח-267675
 https://news.walla.co.il/break/3837736
 https://news.walla.co.il/break/3837735
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רחפן-נפץ-נחת-במטע-ליד-קיבוץ-סא�
 https://news.walla.co.il/break/3838559
 https://news.walla.co.il/item/3838554
 https://hamal.co.il/main/פיגוע-הדריסה-והדקירה-באיטליה-מספר-הפצועים-עלה-ל-12-268192
+https://news.walla.co.il/break/3838562
+https://hamal.co.il/main/הותר-לפרסום-סרן-מעוז-ישראל-רקנטי-נפל-בקרב-בדרום-לבנון-268193
