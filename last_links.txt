@@ -1,10 +1,4 @@
 COUNTER:8
-https://news.walla.co.il/item/3837592
-https://news.walla.co.il/item/3837590
-https://hamal.co.il/main/חזרה-ללחימה-טראמפ-״זה-כבר-מאחורינו-המצור-מאוד-אפקטיבי״-267610
-https://hamal.co.il/main/ערב-הסעודית-ביצעה-תקיפות-חשאיות-נגד-איראן-במהלך-המלחמה-267611
-https://news.walla.co.il/break/3837597
-https://hamal.co.il/main/רגע-האמת-של-נועם-בתן-חצי-גמר-האירוויזיון-יוצא-לדרך--דיווח-267615
 https://news.walla.co.il/break/3837604
 https://hamal.co.il/main/פרסום-ראשון-תוכנית-חיזבאללה-לכיבוש-ביירות---והלחץ-על-קאסם-267618
 https://news.walla.co.il/break/3837609
@@ -499,3 +493,9 @@ https://hamal.co.il/main/צהל-שטח-צבאי-סגור-הוכרז-ברצועת
 https://news.walla.co.il/break/3838430
 https://news.walla.co.il/break/3838438
 https://news.walla.co.il/break/3838441
+https://news.walla.co.il/break/3838444
+https://news.walla.co.il/break/3838443
+https://news.walla.co.il/break/3838445
+https://news.walla.co.il/break/3838446
+https://news.walla.co.il/break/3838448
+https://news.walla.co.il/item/3838447
