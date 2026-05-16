@@ -1,7 +1,4 @@
 COUNTER:23
-https://news.walla.co.il/break/3837661
-https://hamal.co.il/main/מזג-אוויר-הפכפך-הפוגה-מגל-החום---מה-צפוי-בהמשך--התחזית-267646
-https://hamal.co.il/main/הדקירה-בתל-אביב-הרקע-פלילי-חשוד-נעצר-267647
 https://hamal.co.il/main/צהל-על-האזעקות-בגבול-מדובר-בזיהוי-שווא-267648
 https://hamal.co.il/main/תושב-שפרעם-נורה-למוות-הרקע-פלילי-מצוד-מתנהל-אחר-החשודים-267649
 https://news.walla.co.il/break/3837662
@@ -499,3 +496,6 @@ https://hamal.co.il/main/במקום-איימן-עודה-חדש-בחרה-בדר-�
 https://news.walla.co.il/break/3838506
 https://news.walla.co.il/item/3838507
 https://hamal.co.il/main/מזעזע-אדם-הכה-באכזריות-כלבה-בשומרון--קשה-לצפייה-268134
+https://news.walla.co.il/break/3838509
+https://news.walla.co.il/break/3838512
+https://news.walla.co.il/item/3838511
