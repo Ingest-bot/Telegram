@@ -1,10 +1,4 @@
-COUNTER:29
-https://news.walla.co.il/item/3837961
-https://news.walla.co.il/item/3837968
-https://news.walla.co.il/item/3837807
-https://news.walla.co.il/break/3837970
-https://news.walla.co.il/break/3837969
-https://news.walla.co.il/break/3837971
+COUNTER:32
 https://news.walla.co.il/break/3837974
 https://news.walla.co.il/item/3837960
 https://hamal.co.il/main/שרבי-ובהיר-267797
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3838819
 https://hamal.co.il/main/לא-רק-סקווט-3-התרגילים-הכי-יעילים-לרגליים-חזקות-268324
 https://hamal.co.il/main/פעילי-התיישבות-חצו-את-הגבול-הסורי-268333
 https://hamal.co.il/main/תחנה-לא-חוקית-לפינוי-פסולת-אותרה-בפרדס-חנה-10-חשודים-נעצרו-268334
+https://news.walla.co.il/break/3838826
+https://news.walla.co.il/item/3838809
+https://news.walla.co.il/item/3838824
+https://hamal.co.il/main/רצף-שיגורים-של-חיזבאללה-על-כוחותינו-בלבנון-אין-נפגעים-268335
+https://hamal.co.il/main/מומחית-עונה-268327
+https://hamal.co.il/main/בסיוע-כיתת-הכוננות-7-שבחים-נעצרו-בנהריה-268329
