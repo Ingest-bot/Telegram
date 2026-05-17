@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/כאן-11-התנצלו-בפני-הקרואטים-עקב-פוסט-הומוריסטי-267790
-https://news.walla.co.il/break/3837944
-https://news.walla.co.il/break/3837948
+COUNTER:26
 https://news.walla.co.il/break/3837957
 https://news.walla.co.il/break/3837963
 https://news.walla.co.il/break/3837965
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838801
 https://hamal.co.il/main/מומחית-עונה-268328
 https://news.walla.co.il/break/3838805
 https://news.walla.co.il/break/3838807
+https://news.walla.co.il/break/3838814
+https://news.walla.co.il/item/3838813
+https://hamal.co.il/main/י-ם-אדם-איים-להשתמש-בחומרי-נפץ-שהחזיק-בביתו---ונעצר-268331
