@@ -1,5 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/break/3837974
+COUNTER:33
 https://news.walla.co.il/item/3837960
 https://hamal.co.il/main/שרבי-ובהיר-267797
 https://hamal.co.il/main/תרגיל-צבאי-יערך-במרחב-חטיבות-אפרים-ושומרון-267798
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3838824
 https://hamal.co.il/main/רצף-שיגורים-של-חיזבאללה-על-כוחותינו-בלבנון-אין-נפגעים-268335
 https://hamal.co.il/main/מומחית-עונה-268327
 https://hamal.co.il/main/בסיוע-כיתת-הכוננות-7-שבחים-נעצרו-בנהריה-268329
+https://hamal.co.il/main/דניאל-עמית-מוציאה-עוד-עוגה-בקופסה-והמחיר-שערורייתי-268338
