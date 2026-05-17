@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/break/3838040
-https://news.walla.co.il/break/3838036
+COUNTER:9
 https://news.walla.co.il/break/3838041
 https://news.walla.co.il/item/3838016
 https://hamal.co.il/main/״ירושלמי-מלידה״-בשערי-צדק-הלבישו-את-התינוקות-בחולצה-חגיגית-267833
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שבר-את-הכוס-אושר-כהן-ועדן-פינס-
 https://news.walla.co.il/break/3838868
 https://hamal.co.il/main/תיעוד-דרמטי-268352
 https://hamal.co.il/main/אחרי-שנה-וחצי-של-זוגיות-זוג-יוצאי-״האח-הגדול״-נפרדו-268342
+https://news.walla.co.il/break/3838877
+https://hamal.co.il/main/המשט-לעזה-טוען-כלי-שיט-לא-מזוהים-מקיפים-את-המשט-בדרך-לרצועה-268353
