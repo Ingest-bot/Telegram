@@ -1,8 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/סימנים-ראשונים-להתאוששות-בשוק-הנדלן-267744
-https://hamal.co.il/main/הצהרת-נתניהו-קיש-וסמוטריץ-מתווה-הקיץ-של-החופש-הגדול-267769
-https://hamal.co.il/main/מתחילת-המערכה-מעל-400-מחבלי-חיזבאללה-חוסלו-בלבנון--צפו-267696
-https://hamal.co.il/main/חשד-להתנהגות-לא-הולמות-מצד-מטפלת-בפעוטון-בגוש-עציון-267770
+COUNTER:5
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267771
 https://news.walla.co.il/break/3837898
 https://news.walla.co.il/break/3837900
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מכה-נוספת-לכיס-הארנונה-צפויה-ל
 https://news.walla.co.il/item/3838711
 https://news.walla.co.il/item/3838715
 https://hamal.co.il/main/בלו-בירד-פותחת-שלושה-קווים-חדשים-לאירופה-הקיץ-268290
+https://news.walla.co.il/break/3838723
+https://news.walla.co.il/item/3838721
+https://hamal.co.il/main/המדינה-היחידה-שנתנה-לישראל-0-עגול---וקיבלה-מאיתנו-דוז-פואה-268293
+https://hamal.co.il/main/שני-מחבלים-חוסלו-בקו-הצהוב-ברצועה-268294
