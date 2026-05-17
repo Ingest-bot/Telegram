@@ -1,5 +1,4 @@
-COUNTER:3
-https://news.walla.co.il/break/3838030
+COUNTER:4
 https://news.walla.co.il/item/3837962
 https://news.walla.co.il/item/3838027
 https://news.walla.co.il/item/3838023
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838863
 https://news.walla.co.il/item/3838861
 https://hamal.co.il/main/מספיק-עם-המשחקים-חוק-הגיוס-חייב-לעבור--ינון-מגל-268346
 https://hamal.co.il/main/גבר-הוכש-268347
+https://hamal.co.il/main/בגץ-גופמן-היועמשית-הגישה-תצהיר-חסוי-268348
