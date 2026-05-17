@@ -1,5 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3837964
+COUNTER:29
 https://news.walla.co.il/item/3837961
 https://news.walla.co.il/item/3837968
 https://news.walla.co.il/item/3837807
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838817
 https://news.walla.co.il/break/3838819
 https://hamal.co.il/main/לא-רק-סקווט-3-התרגילים-הכי-יעילים-לרגליים-חזקות-268324
 https://hamal.co.il/main/פעילי-התיישבות-חצו-את-הגבול-הסורי-268333
+https://hamal.co.il/main/תחנה-לא-חוקית-לפינוי-פסולת-אותרה-בפרדס-חנה-10-חשודים-נעצרו-268334
