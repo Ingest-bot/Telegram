@@ -1,6 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3837835
-https://news.walla.co.il/break/3837842
+COUNTER:27
 https://news.walla.co.il/break/3837843
 https://news.walla.co.il/item/3837844
 https://hamal.co.il/main/הרצוג-על-חנינת-נתניהו-צד-אחד-הגיע-עכשיו-מחכים-לצד-השני-267702
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838613
 https://hamal.co.il/main/יו-268248
 https://hamal.co.il/main/ליברמן-נתניהו-מפקיר-את-הביטחון-עבור-דיל-אישי-מול-טראמפ-268251
 https://hamal.co.il/main/ראש-ממשלת-בריטניה-קיר-סטארמר-החליט-להתפטר-268252
+https://news.walla.co.il/item/3838619
+https://hamal.co.il/main/פיצוץ-לילי-במפעל-המסווג-האם-מסתירים-מאיתנו-ניסוי-שהשתבש-268255
