@@ -1,7 +1,4 @@
-COUNTER:39
-https://news.walla.co.il/item/3837880
-https://hamal.co.il/main/צהל-חוסל-מחבל-נוחבה-שלקח-חלק-בפשיטה-למוצב-נחל-עוז-267757
-https://news.walla.co.il/break/3837883
+COUNTER:0
 https://news.walla.co.il/break/3837884
 https://news.walla.co.il/break/3837885
 https://news.walla.co.il/break/3837888
@@ -499,3 +496,6 @@ https://hamal.co.il/main/מקלחת-או-אמבטיה-המדע-חושף-את-ה�
 https://news.walla.co.il/break/3838690
 https://news.walla.co.il/item/3838699
 https://news.walla.co.il/item/3838695
+https://news.walla.co.il/break/3838708
+https://news.walla.co.il/item/3838534
+https://hamal.co.il/main/סודות-העבמים-8-סרטונים-מטלטלים-שממשלת-ארהב-מנסה-להסתיר-268282
