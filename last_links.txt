@@ -1,6 +1,4 @@
 COUNTER:19
-https://news.walla.co.il/break/3837811
-https://news.walla.co.il/break/3837812
 https://hamal.co.il/main/הוגש-כתב-אישום-נגד-המחבל-שביצע-את-הפיגוע-בחומש-267694
 https://hamal.co.il/main/צהל-רחפני-נפץ-נפלו-סמוך-לכוחותינו-בדרום-לבנון-267695
 https://hamal.co.il/main/התעוררתי-ולא-זיהיתי-את-הפנים-שלי-מה-קרה-לגורו-הדיאטה-267684
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המנצחת-באירוויזיון-2026-בולגריה
 https://hamal.co.il/main/בפעם-השניה-ברציפות-ישראל-במקום-השני-באירוויזיון-268235
 https://hamal.co.il/main/נועם-בתן-אחרי-האירוויזיון-מבחינתי-ניצחנו-אנחנו-כאן-כדי-לת-268237
 https://hamal.co.il/main/שיא-המדינה-בירך-את-נועם-בתן-ריגשת-אותנו-הבאת-כבוד-לעם-ישר-268238
+https://news.walla.co.il/break/3838599
+https://news.walla.co.il/break/3838602
