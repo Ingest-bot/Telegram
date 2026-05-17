@@ -1,7 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/מנהרה-מסתורית-באורך-50-מטר-נחשפה-מתחת-לירושלים-267818
-https://news.walla.co.il/break/3838003
-https://news.walla.co.il/break/3838000
+COUNTER:1
 https://hamal.co.il/main/דרמה-בבנק-הפועלים-8000-עובדים-משביתים-את-הסניפים-והמוקדים-267823
 https://news.walla.co.il/break/3838014
 https://hamal.co.il/main/מחקר-מצא-אלה-הפירות-שמגנים-על-הגוף-מפני-הזדקנות-מואצת-267825
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838845
 https://hamal.co.il/main/אחרי-ההכחשה-יוצאת-האח-הגדול-ובן-זוגה-נפרדו-268330
 https://news.walla.co.il/break/3838852
 https://hamal.co.il/main/חוק-עונש-מוות-למחבלים-יוצא-לג-268343
+https://news.walla.co.il/break/3838856
+https://hamal.co.il/main/צה-268344
+https://hamal.co.il/main/הרוצח-השקט-מגיע-לנשים-כבר-בגיל-30-אלה-גורמי-הסיכון-268332
