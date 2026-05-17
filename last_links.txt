@@ -1,8 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-בתאונת-דרכים-בזמר-267784
-https://hamal.co.il/main/הרמטכל-העיר-ללוחם-על-פאץ-משיח---ונשפט-ל-30-יום-בכלא-267787
-https://news.walla.co.il/break/3837922
-https://news.walla.co.il/break/3837920
+COUNTER:19
 https://news.walla.co.il/break/3837923
 https://hamal.co.il/main/האם-נחשפה-הסיבה-לסטירה-שקיבל-מקרון-מאשתו-267741
 https://news.walla.co.il/break/3837930
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3838757
 https://hamal.co.il/main/דיווח-ישראל-הקימה-2-בסיסים-סודיים-בעיראק-268309
 https://hamal.co.il/main/בן-12-שרף-את-המשרד-במהלך-יום-הבא-את-ילדך-לעבודה-268288
 https://hamal.co.il/main/לוחם-וקצין-נפצעו-קשה-ובינוני-כתוצאה-מעליה-על-מטען-בלבנון-268310
+https://news.walla.co.il/break/3838763
+https://hamal.co.il/main/מתוך-הלהבות-כלב-חולץ-מבניין-בוער-בג׳סר-א׳-זרקא-268311
+https://hamal.co.il/main/אלפי-מדוזות-כבר-כאן-והנחיל-הענק-מתקרב-המים-מלאים״-268306
+https://hamal.co.il/main/״מאוד-מתגעגעת-אליך״-לוחם-גבעתי-קיבל-הודעה-מרגשת-מאחותו-268313
