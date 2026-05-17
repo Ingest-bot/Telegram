@@ -1,9 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/item/3837929
-https://hamal.co.il/main/בהמלצת-מדורו-מרקו-רוביו-עולה-על-הטרנינג-של-הנשיא-הוונצואלי-267761
-https://hamal.co.il/main/בכפר-לבנוני-מבלי-לחצות-את-הגבול-267793
-https://hamal.co.il/main/אחותו-של-ימנו-זלקה-קוראת-להחמרת-הענישה-267766
-https://hamal.co.il/main/יור-הקואליציה-הגיש-הצעת-חוק-לפיזור-הכנסת-267794
+COUNTER:23
 https://hamal.co.il/main/לא-רק-באיראן-סעודיה-תקפה-מטרות-של-המיליציות-בעיראק-267778
 https://news.walla.co.il/break/3837937
 https://news.walla.co.il/break/3837938
@@ -499,3 +494,8 @@ https://hamal.co.il/main/״מאוד-מתגעגעת-אליך״-לוחם-גבעת�
 https://news.walla.co.il/break/3838777
 https://news.walla.co.il/break/3838780
 https://hamal.co.il/main/צהל-מספר-רקטות-יורטו-מעל-דרום-לבנון-268314
+https://news.walla.co.il/break/3838785
+https://news.walla.co.il/break/3838791
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הפרטים-בבדיקה-268316
+https://hamal.co.il/main/אחותו-של-החלל-מעוז-ישראל-בהלוויתו-היית-בדרך-לבנות-בית-268317
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268318
