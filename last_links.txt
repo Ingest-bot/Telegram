@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3837855
-https://hamal.co.il/main/למה-יתושים-עוקצים-דווקא-אתכם-מחקר-חדש-סוף-סוף-מסביר-267682
-https://news.walla.co.il/break/3837861
+COUNTER:34
 https://hamal.co.il/main/למוכנות-בשיא-הכוח-סיכום-התרגיל-הגדודי-של-1895-מחטיבת-״נגבה״-267713
 https://hamal.co.il/main/אחרי-לופטהנזה-חברת-הלואו-קוסט-המצליחה-חוזרת-לישראל-267714
 https://hamal.co.il/main/מדא-בקריאה-דחופה-לציבור-לתרום-דם-267717
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838642
 https://news.walla.co.il/item/3838617
 https://hamal.co.il/main/רייטינג-גמר-האירוויזיון-עם-327-גבוה-מהשנה-שעברה-268272
 https://hamal.co.il/main/צו-עיכוב-יציאה-מהארץ-הוטל-על-החשוד-באונס-שי-לי-עטרי-268273
+https://news.walla.co.il/break/3838650
+https://hamal.co.il/main/הותר-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמה-שחר-268253
+https://hamal.co.il/main/התרעות-הופעלו-בגבול-הצפון-268275
