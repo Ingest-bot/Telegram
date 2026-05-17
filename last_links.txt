@@ -1,8 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/break/3837822
-https://news.walla.co.il/break/3837824
-https://hamal.co.il/main/לקראת-הביקור-עם-נשיא-סין-טראמפ-נחת-בבייגינג-267697
-https://hamal.co.il/main/אחרי-הפרידה-מבן-הזוג-כוכבת-האח-הגדול-עוזבת-את-הבית-267691
+COUNTER:22
 https://news.walla.co.il/break/3837831
 https://news.walla.co.il/item/3837820
 https://news.walla.co.il/item/3837829
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838602
 https://news.walla.co.il/break/3838603
 https://news.walla.co.il/break/3838604
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בב-268240
+https://news.walla.co.il/break/3838607
+https://news.walla.co.il/item/3838606
+https://hamal.co.il/main/ישראל-לקראת-יומיים-של-שרב-אובך-ורוחות--התחזית-268245
+https://hamal.co.il/main/בולגריה-ניצחה-בגמר-האירוויזיון-נועם-בתן-הלהיב-את-אירופה-וסי-268246
