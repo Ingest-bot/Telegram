@@ -1,7 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/הוגש-כתב-אישום-נגד-המחבל-שביצע-את-הפיגוע-בחומש-267694
-https://hamal.co.il/main/צהל-רחפני-נפץ-נפלו-סמוך-לכוחותינו-בדרום-לבנון-267695
-https://hamal.co.il/main/התעוררתי-ולא-זיהיתי-את-הפנים-שלי-מה-קרה-לגורו-הדיאטה-267684
+COUNTER:20
 https://news.walla.co.il/break/3837822
 https://news.walla.co.il/break/3837824
 https://hamal.co.il/main/לקראת-הביקור-עם-נשיא-סין-טראמפ-נחת-בבייגינג-267697
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נועם-בתן-אחרי-האירוויזיון-מבח�
 https://hamal.co.il/main/שיא-המדינה-בירך-את-נועם-בתן-ריגשת-אותנו-הבאת-כבוד-לעם-ישר-268238
 https://news.walla.co.il/break/3838599
 https://news.walla.co.il/break/3838602
+https://news.walla.co.il/break/3838603
+https://news.walla.co.il/break/3838604
+https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בב-268240
