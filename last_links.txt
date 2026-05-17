@@ -1,6 +1,4 @@
-COUNTER:0
-https://news.walla.co.il/break/3837884
-https://news.walla.co.il/break/3837885
+COUNTER:2
 https://news.walla.co.il/break/3837888
 https://news.walla.co.il/item/3837873
 https://hamal.co.il/main/ילד-כבן-5-נפצע-קשה-במהלך-קציר-חיטים-סמוך-למודיעין-267762
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3838695
 https://news.walla.co.il/break/3838708
 https://news.walla.co.il/item/3838534
 https://hamal.co.il/main/סודות-העבמים-8-סרטונים-מטלטלים-שממשלת-ארהב-מנסה-להסתיר-268282
+https://hamal.co.il/main/הטבע-הישראלי-במיטבו-זאב-תועד-במהלך-מרדף-אחרי-צבי-268283
+https://hamal.co.il/main/מכה-נוספת-לכיס-הארנונה-צפויה-לזנק-בכ-3-268286
