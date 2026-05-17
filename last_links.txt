@@ -1,6 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/נועם-בתן-יודע-זברה-חדשה-נולדה-בספארי---וזה-השם-שהיא-קיבלה-267801
-https://news.walla.co.il/break/3837988
+COUNTER:39
 https://hamal.co.il/main/מנהרה-מסתורית-באורך-50-מטר-נחשפה-מתחת-לירושלים-267818
 https://news.walla.co.il/break/3838003
 https://news.walla.co.il/break/3838000
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3838843
 https://hamal.co.il/main/צהל-הנחיות-פיקוד-העורף---ללא-שינוי-עד-ליום-שלישי-268341
 https://news.walla.co.il/item/3838845
 https://hamal.co.il/main/אחרי-ההכחשה-יוצאת-האח-הגדול-ובן-זוגה-נפרדו-268330
+https://news.walla.co.il/break/3838852
+https://hamal.co.il/main/חוק-עונש-מוות-למחבלים-יוצא-לג-268343
