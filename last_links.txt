@@ -1,8 +1,4 @@
-COUNTER:1
-https://hamal.co.il/main/דרמה-בבנק-הפועלים-8000-עובדים-משביתים-את-הסניפים-והמוקדים-267823
-https://news.walla.co.il/break/3838014
-https://hamal.co.il/main/מחקר-מצא-אלה-הפירות-שמגנים-על-הגוף-מפני-הזדקנות-מואצת-267825
-https://hamal.co.il/main/לקראת-תקיפה-צה״ל-פרסם-הודעת-פינוי-למספר-מרחבים-בדרום-לבנון-267826
+COUNTER:3
 https://news.walla.co.il/break/3838030
 https://news.walla.co.il/item/3837962
 https://news.walla.co.il/item/3838027
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חוק-עונש-מוות-למחבלים-יוצא-לג-2
 https://news.walla.co.il/break/3838856
 https://hamal.co.il/main/צה-268344
 https://hamal.co.il/main/הרוצח-השקט-מגיע-לנשים-כבר-בגיל-30-אלה-גורמי-הסיכון-268332
+https://news.walla.co.il/break/3838863
+https://news.walla.co.il/item/3838861
+https://hamal.co.il/main/מספיק-עם-המשחקים-חוק-הגיוס-חייב-לעבור--ינון-מגל-268346
+https://hamal.co.il/main/גבר-הוכש-268347
