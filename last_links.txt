@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267771
-https://news.walla.co.il/break/3837898
-https://news.walla.co.il/break/3837900
-https://news.walla.co.il/break/3837901
+COUNTER:8
 https://hamal.co.il/main/נגמרו-הניתוקים-בממד-משרד-התקשורת-בדרך-לשנות-את-הקליטה-בארץ-267731
 https://hamal.co.il/main/גבר-בן-55-נהרג-בתאונת-דרכים-סמוך-לצאלים-267772
 https://news.walla.co.il/break/3837905
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838723
 https://news.walla.co.il/item/3838721
 https://hamal.co.il/main/המדינה-היחידה-שנתנה-לישראל-0-עגול---וקיבלה-מאיתנו-דוז-פואה-268293
 https://hamal.co.il/main/שני-מחבלים-חוסלו-בקו-הצהוב-ברצועה-268294
+https://news.walla.co.il/item/3838733
+https://hamal.co.il/main/דיווח-בית-הדין-בהאג-הוציא-צווי-מעצר-סודיים-נגד-5-ישראלים-268297
+https://hamal.co.il/main/דיווח-באמירויות-מתקפת-כטב״מים-על-המתקן-הגרעיני-באזור-אל-דאפ-268298
+https://hamal.co.il/main/בשטח-מתחם-אונר״א-לשעבר-הממשלה-תקים-מוזיאון-צה״ל-ולשכת-גיוס-268299
