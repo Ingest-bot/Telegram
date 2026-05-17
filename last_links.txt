@@ -1,6 +1,4 @@
-COUNTER:27
-https://hamal.co.il/main/הרצוג-על-חנינת-נתניהו-צד-אחד-הגיע-עכשיו-מחכים-לצד-השני-267702
-https://hamal.co.il/main/משרד-הבריאות-הכניסה-לנחלים-הללו-מסוכנת-267706
+COUNTER:29
 https://hamal.co.il/main/הרמטכל-267708
 https://news.walla.co.il/break/3837851
 https://news.walla.co.il/item/3837850
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3838619
 https://hamal.co.il/main/פיצוץ-לילי-במפעל-המסווג-האם-מסתירים-מאיתנו-ניסוי-שהשתבש-268255
 https://news.walla.co.il/break/3838623
 https://news.walla.co.il/item/3838625
+https://hamal.co.il/main/מחקר-גילה-זה-מה-שהקפה-של-הבוקר-עושה-למוח-שלכם-268257
+https://hamal.co.il/main/לפחות-80-מתים-בהתפרצות-אבולה-בקונגו-אין-תרופה-או-חיסון-268260
