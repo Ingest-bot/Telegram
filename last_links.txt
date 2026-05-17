@@ -1,6 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/חשד-לרצח-גבר-נורה-למוות-בנתניה-267796
-https://news.walla.co.il/break/3837942
 https://hamal.co.il/main/כאן-11-התנצלו-בפני-הקרואטים-עקב-פוסט-הומוריסטי-267790
 https://news.walla.co.il/break/3837944
 https://news.walla.co.il/break/3837948
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-268325
 https://news.walla.co.il/break/3838799
 https://news.walla.co.il/item/3838801
 https://hamal.co.il/main/מומחית-עונה-268328
+https://news.walla.co.il/break/3838805
+https://news.walla.co.il/break/3838807
