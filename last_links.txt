@@ -1,7 +1,4 @@
-COUNTER:19
-https://news.walla.co.il/break/3837923
-https://hamal.co.il/main/האם-נחשפה-הסיבה-לסטירה-שקיבל-מקרון-מאשתו-267741
-https://news.walla.co.il/break/3837930
+COUNTER:20
 https://news.walla.co.il/item/3837929
 https://hamal.co.il/main/בהמלצת-מדורו-מרקו-רוביו-עולה-על-הטרנינג-של-הנשיא-הוונצואלי-267761
 https://hamal.co.il/main/בכפר-לבנוני-מבלי-לחצות-את-הגבול-267793
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838763
 https://hamal.co.il/main/מתוך-הלהבות-כלב-חולץ-מבניין-בוער-בג׳סר-א׳-זרקא-268311
 https://hamal.co.il/main/אלפי-מדוזות-כבר-כאן-והנחיל-הענק-מתקרב-המים-מלאים״-268306
 https://hamal.co.il/main/״מאוד-מתגעגעת-אליך״-לוחם-גבעתי-קיבל-הודעה-מרגשת-מאחותו-268313
+https://news.walla.co.il/break/3838777
+https://news.walla.co.il/break/3838780
+https://hamal.co.il/main/צהל-מספר-רקטות-יורטו-מעל-דרום-לבנון-268314
