@@ -1,9 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/15-שנות-מאסר-לניאו-נאצי-שתכנן-להרעיל-ילדים-יהודים-בניו-יורק-267802
-https://news.walla.co.il/break/3837981
-https://news.walla.co.il/break/3837984
-https://news.walla.co.il/item/3837980
-https://hamal.co.il/main/חידוש-המלחמה-עם-איראן---הסבירות-עולה-267805
+COUNTER:37
 https://news.walla.co.il/break/3837985
 https://hamal.co.il/main/אזעקות-הופעלו-בעוטף-עזה-צה״ל-הפרטים-בבדיקה-267808
 https://hamal.co.il/main/נועם-בתן-יודע-זברה-חדשה-נולדה-בספארי---וזה-השם-שהיא-קיבלה-267801
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פי-2-בסדיר-פי-10-במילואים-באכא-מ�
 https://hamal.co.il/main/מומחית-עונה-268326
 https://news.walla.co.il/break/3838838
 https://hamal.co.il/main/טראמפ-ממשיך-לאיים-על-איראן-השעון-מתקתק-268340
+https://news.walla.co.il/break/3838840
+https://news.walla.co.il/break/3838842
+https://news.walla.co.il/break/3838841
+https://news.walla.co.il/item/3838843
+https://hamal.co.il/main/צהל-הנחיות-פיקוד-העורף---ללא-שינוי-עד-ליום-שלישי-268341
