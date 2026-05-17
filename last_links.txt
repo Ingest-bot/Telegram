@@ -1,7 +1,4 @@
 COUNTER:39
-https://hamal.co.il/main/צהל-267748
-https://hamal.co.il/main/הניסויים-שיקבעו-כך-יתמודד-צהל-עם-איום-הרחפנים-267751
-https://news.walla.co.il/break/3837881
 https://news.walla.co.il/item/3837880
 https://hamal.co.il/main/צהל-חוסל-מחבל-נוחבה-שלקח-חלק-בפשיטה-למוצב-נחל-עוז-267757
 https://news.walla.co.il/break/3837883
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838687
 https://news.walla.co.il/item/3838683
 https://hamal.co.il/main/11-בני-אדם-נפצעו-קל-בתאונה-בירושלים-268277
 https://hamal.co.il/main/מקלחת-או-אמבטיה-המדע-חושף-את-האמת-המטרידה-268265
+https://news.walla.co.il/break/3838690
+https://news.walla.co.il/item/3838699
+https://news.walla.co.il/item/3838695
