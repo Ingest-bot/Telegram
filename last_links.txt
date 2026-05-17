@@ -1,8 +1,4 @@
-COUNTER:12
-https://news.walla.co.il/item/3837911
-https://news.walla.co.il/item/3837913
-https://news.walla.co.il/item/3837909
-https://hamal.co.il/main/נתניהו-פגש-את-נשיא-האמירויות-במהלך-המלחמה-באיראן-267774
+COUNTER:13
 https://hamal.co.il/main/צהל-267775
 https://news.walla.co.il/break/3837916
 https://news.walla.co.il/item/3837869
@@ -499,3 +495,7 @@ https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-ב
 https://hamal.co.il/main/נתניהו-על-איראן-״עינינו-פקוחה-268301
 https://hamal.co.il/main/קרפור-שוברת-את-השוק-המוצר-המבוקש-לשבועות-במחיר-הזול-ביותר-268303
 https://hamal.co.il/main/נתניהו-שוחח-עם-נועם-בתן-״הבאת-הישג-מדהים-כולנו-גאים-בך״-268302
+https://news.walla.co.il/break/3838751
+https://news.walla.co.il/item/3838754
+https://news.walla.co.il/item/3838737
+https://hamal.co.il/main/החל-משנה-הבאה---טלפונים-ניידים-יאסרו-גם-בחטיבות-הביניים-268308
