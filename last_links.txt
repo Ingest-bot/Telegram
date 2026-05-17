@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/break/3837888
-https://news.walla.co.il/item/3837873
-https://hamal.co.il/main/ילד-כבן-5-נפצע-קשה-במהלך-קציר-חיטים-סמוך-למודיעין-267762
+COUNTER:3
 https://hamal.co.il/main/סימנים-ראשונים-להתאוששות-בשוק-הנדלן-267744
 https://hamal.co.il/main/הצהרת-נתניהו-קיש-וסמוטריץ-מתווה-הקיץ-של-החופש-הגדול-267769
 https://hamal.co.il/main/מתחילת-המערכה-מעל-400-מחבלי-חיזבאללה-חוסלו-בלבנון--צפו-267696
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3838534
 https://hamal.co.il/main/סודות-העבמים-8-סרטונים-מטלטלים-שממשלת-ארהב-מנסה-להסתיר-268282
 https://hamal.co.il/main/הטבע-הישראלי-במיטבו-זאב-תועד-במהלך-מרדף-אחרי-צבי-268283
 https://hamal.co.il/main/מכה-נוספת-לכיס-הארנונה-צפויה-לזנק-בכ-3-268286
+https://news.walla.co.il/item/3838711
+https://news.walla.co.il/item/3838715
+https://hamal.co.il/main/בלו-בירד-פותחת-שלושה-קווים-חדשים-לאירופה-הקיץ-268290
