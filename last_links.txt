@@ -1,6 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/נתניהו-נפגש-עם-הממונה-על-עזה-267718
-https://news.walla.co.il/item/3837861
+COUNTER:37
 https://hamal.co.il/main/המוצר-Kerating-Organic-Smooth-PRADA-משווק-ללא-רישיון-267723
 https://hamal.co.il/main/טרגדיה-בפנמה-ישראלית-נהרגה-בתאונת-דרכים-267727
 https://hamal.co.il/main/לפני-הפסגה-סין-מזהירה-את-ארהב-אל-תמכרו-נשק-לטייוואן-267734
@@ -499,3 +497,5 @@ https://hamal.co.il/main/התרעות-הופעלו-בגבול-הצפון-268275
 https://hamal.co.il/main/זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268276
 https://news.walla.co.il/item/3838665
 https://hamal.co.il/main/גם-אתם-משתתפים-בטרנד-הצעדים-תראו-מה-זה-עושה-לגוף-שלכם-268270
+https://news.walla.co.il/item/3838669
+https://hamal.co.il/main/חלון-להצלחה-הסוד-המדעי-לשדרוג-הקשב-והציונים-בתקופת-המבחנים-268268
