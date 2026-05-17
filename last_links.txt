@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3837985
-https://hamal.co.il/main/אזעקות-הופעלו-בעוטף-עזה-צה״ל-הפרטים-בבדיקה-267808
+COUNTER:38
 https://hamal.co.il/main/נועם-בתן-יודע-זברה-חדשה-נולדה-בספארי---וזה-השם-שהיא-קיבלה-267801
 https://news.walla.co.il/break/3837988
 https://hamal.co.il/main/מנהרה-מסתורית-באורך-50-מטר-נחשפה-מתחת-לירושלים-267818
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838842
 https://news.walla.co.il/break/3838841
 https://news.walla.co.il/item/3838843
 https://hamal.co.il/main/צהל-הנחיות-פיקוד-העורף---ללא-שינוי-עד-ליום-שלישי-268341
+https://news.walla.co.il/item/3838845
+https://hamal.co.il/main/אחרי-ההכחשה-יוצאת-האח-הגדול-ובן-זוגה-נפרדו-268330
