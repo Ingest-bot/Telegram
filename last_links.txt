@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/לא-רק-באיראן-סעודיה-תקפה-מטרות-של-המיליציות-בעיראק-267778
-https://news.walla.co.il/break/3837937
+COUNTER:24
 https://news.walla.co.il/break/3837938
 https://news.walla.co.il/item/3837938
 https://news.walla.co.il/item/3837939
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3838791
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הפרטים-בבדיקה-268316
 https://hamal.co.il/main/אחותו-של-החלל-מעוז-ישראל-בהלוויתו-היית-בדרך-לבנות-בית-268317
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268318
+https://news.walla.co.il/break/3838794
+https://hamal.co.il/main/צהל-268325
