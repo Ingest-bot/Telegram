@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/נתניהו-מי-שאמר-שאני-חולה-סופני---יובא-לבית-המשפט-267830
+COUNTER:8
 https://news.walla.co.il/break/3838040
 https://news.walla.co.il/break/3838036
 https://news.walla.co.il/break/3838041
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דניאל-עמית-מוציאה-עוד-עוגה-בקו
 https://hamal.co.il/main/שבר-את-הכוס-אושר-כהן-ועדן-פינס-בעל-ואישה-268350
 https://news.walla.co.il/break/3838868
 https://hamal.co.il/main/תיעוד-דרמטי-268352
+https://hamal.co.il/main/אחרי-שנה-וחצי-של-זוגיות-זוג-יוצאי-״האח-הגדול״-נפרדו-268342
