@@ -1,9 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/המוצר-Kerating-Organic-Smooth-PRADA-משווק-ללא-רישיון-267723
-https://hamal.co.il/main/טרגדיה-בפנמה-ישראלית-נהרגה-בתאונת-דרכים-267727
-https://hamal.co.il/main/לפני-הפסגה-סין-מזהירה-את-ארהב-אל-תמכרו-נשק-לטייוואן-267734
-https://hamal.co.il/main/משט-נוסף-יצא-מטורקיה-לעזה-אסור-לנו-לפחד-מטראמפ-ונתניהו-267738
-https://hamal.co.il/main/צהל-השלים-תקיפה-לעבר-תשתיות-חיזבאללה-במספר-מרחבים-267747
+COUNTER:39
 https://hamal.co.il/main/צהל-267748
 https://hamal.co.il/main/הניסויים-שיקבעו-כך-יתמודד-צהל-עם-איום-הרחפנים-267751
 https://news.walla.co.il/break/3837881
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3838665
 https://hamal.co.il/main/גם-אתם-משתתפים-בטרנד-הצעדים-תראו-מה-זה-עושה-לגוף-שלכם-268270
 https://news.walla.co.il/item/3838669
 https://hamal.co.il/main/חלון-להצלחה-הסוד-המדעי-לשדרוג-הקשב-והציונים-בתקופת-המבחנים-268268
+https://news.walla.co.il/break/3838685
+https://news.walla.co.il/item/3838687
+https://news.walla.co.il/item/3838683
+https://hamal.co.il/main/11-בני-אדם-נפצעו-קל-בתאונה-בירושלים-268277
+https://hamal.co.il/main/מקלחת-או-אמבטיה-המדע-חושף-את-האמת-המטרידה-268265
