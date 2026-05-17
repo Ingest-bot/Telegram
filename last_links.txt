@@ -1,5 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3837831
+COUNTER:23
 https://news.walla.co.il/item/3837820
 https://news.walla.co.il/item/3837829
 https://hamal.co.il/main/ממש-בקרוב-קבוצת-לופטהנזה-חוזרת-לטוס-לישראל-267698
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838607
 https://news.walla.co.il/item/3838606
 https://hamal.co.il/main/ישראל-לקראת-יומיים-של-שרב-אובך-ורוחות--התחזית-268245
 https://hamal.co.il/main/בולגריה-ניצחה-בגמר-האירוויזיון-נועם-בתן-הלהיב-את-אירופה-וסי-268246
+https://hamal.co.il/main/ההתרעות-במשגב-עם---מטרה-אווירית-שנפלה-סמוך-לכוחותינו-בלבנון-268247
