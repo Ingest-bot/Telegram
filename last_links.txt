@@ -1,8 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/צהל-267775
-https://news.walla.co.il/break/3837916
-https://news.walla.co.il/item/3837869
-https://hamal.co.il/main/העיתונאי-יואב-זיתון-נוקה-מכל-חשד-הפרקליטות-סגרה-את-התיק-267783
+COUNTER:16
 https://hamal.co.il/main/גבר-כבן-50-נפצע-קשה-בתאונת-דרכים-בזמר-267784
 https://hamal.co.il/main/הרמטכל-העיר-ללוחם-על-פאץ-משיח---ונשפט-ל-30-יום-בכלא-267787
 https://news.walla.co.il/break/3837922
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838751
 https://news.walla.co.il/item/3838754
 https://news.walla.co.il/item/3838737
 https://hamal.co.il/main/החל-משנה-הבאה---טלפונים-ניידים-יאסרו-גם-בחטיבות-הביניים-268308
+https://news.walla.co.il/item/3838757
+https://hamal.co.il/main/דיווח-ישראל-הקימה-2-בסיסים-סודיים-בעיראק-268309
+https://hamal.co.il/main/בן-12-שרף-את-המשרד-במהלך-יום-הבא-את-ילדך-לעבודה-268288
+https://hamal.co.il/main/לוחם-וקצין-נפצעו-קשה-ובינוני-כתוצאה-מעליה-על-מטען-בלבנון-268310
