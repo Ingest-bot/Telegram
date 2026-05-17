@@ -1,8 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3837957
-https://news.walla.co.il/break/3837963
-https://news.walla.co.il/break/3837965
-https://news.walla.co.il/break/3837967
+COUNTER:28
 https://news.walla.co.il/break/3837964
 https://news.walla.co.il/item/3837961
 https://news.walla.co.il/item/3837968
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3838807
 https://news.walla.co.il/break/3838814
 https://news.walla.co.il/item/3838813
 https://hamal.co.il/main/י-ם-אדם-איים-להשתמש-בחומרי-נפץ-שהחזיק-בביתו---ונעצר-268331
+https://news.walla.co.il/break/3838817
+https://news.walla.co.il/break/3838819
+https://hamal.co.il/main/לא-רק-סקווט-3-התרגילים-הכי-יעילים-לרגליים-חזקות-268324
+https://hamal.co.il/main/פעילי-התיישבות-חצו-את-הגבול-הסורי-268333
