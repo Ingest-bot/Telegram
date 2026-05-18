@@ -1,7 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3838291
-https://news.walla.co.il/break/3838292
-https://news.walla.co.il/break/3838294
+COUNTER:37
 https://news.walla.co.il/break/3838297
 https://news.walla.co.il/item/3838295
 https://hamal.co.il/main/מזכיר-המדינה-של-ארהב-מקווה-שסין-תיענה-לבקשה-לשחרור-איל-הת-267945
@@ -499,3 +496,6 @@ https://hamal.co.il/main/לפני-זמן-קצר-התקבל-דיווח-אודות
 https://hamal.co.il/main/השלטון-המקומיישבית-מחראת-קבלת-הקהל-לשעתיים-בדרישה-להכניס-את-268465
 https://hamal.co.il/main/דני-אלגרט-אחי-הוצא-להורג-בשבי-חמאס-במהלך-חקירה-כי-גמגם-268419
 https://hamal.co.il/main/כבר-לא-מסתתרים-קנדל-גנר-וגייקוב-אלורדי-צמודים-ספיר-סויסה-268470
+https://news.walla.co.il/item/3839097
+https://hamal.co.il/main/דיווח-נבחר-ראש-הזרוע-הצבאית-החדש-של-חמאס-ברצועת-עזה-גיא-אלס-268474
+https://hamal.co.il/main/אפקט-מטורף-המתיחות-מול-איראן-ריסקה-את-המטבע-הפופולרי-268469
