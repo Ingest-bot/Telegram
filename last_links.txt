@@ -1,11 +1,4 @@
-COUNTER:14
-https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267894
-https://hamal.co.il/main/בישראל-מבינים-פסגת-טראמפ-שי-תקבע-את-המשך-הדרך-מול-איראן-267912
-https://news.walla.co.il/break/3838227
-https://news.walla.co.il/break/3838228
-https://news.walla.co.il/item/3838231
-https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267895
-https://news.walla.co.il/item/3838230
+COUNTER:18
 https://hamal.co.il/main/המרכז-לרפואי-לגליל-בעדכון-לגבי-מצב-הפצועים-מפגיעת-רחפן-הנפץ-267913
 https://news.walla.co.il/item/3838236
 https://hamal.co.il/main/חצי-מיליון-לכל-אחד-זה-מה-שטום-ואלמוג-יקבלו-267896
@@ -499,3 +492,10 @@ https://hamal.co.il/main/נתניהו-צפה-בהתשלטות-על-המשט-2684
 https://news.walla.co.il/break/3839034
 https://hamal.co.il/main/כחלק-מהסכם-ההגנה-פקיסטן-פרסה-כוח-צבאי-בסעודיה--דיווח-268425
 https://hamal.co.il/main/הלוחם-שחילץ-פצועים-סירב-להשתחרר-והלך-לעולמו-בנסיבות-טרגיות-268430
+https://news.walla.co.il/break/3839042
+https://news.walla.co.il/break/3839043
+https://news.walla.co.il/item/3839038
+https://hamal.co.il/main/תיעוד-דרמטי-סירה-עלתה-באש-בכנרת-נוסעיו-חולצו-268434
+https://hamal.co.il/main/הכי-גבוה-מאז-2024-הפרס-בדאבל-לוטו-מזנק-לסכום-אסטרונומי-268401
+https://hamal.co.il/main/צהל-חיסלנו-268435
+https://hamal.co.il/main/מבלי-שהופעלו-התרעות-רחפן-נפץ-התפוצץ-בגליל-268436
