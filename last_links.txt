@@ -1,9 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3838324
-https://hamal.co.il/main/מסע-האופניים-׳בואניש׳-יצא-לדרך---ואלו-הכבישים-שנחסמו-לתנועה-267982
-https://hamal.co.il/main/ישר-267983
-https://hamal.co.il/main/במהלך-הלילה-צהל-השמיד-את-המשגר-ממנו-חיזבאללה-שיגר-רקטות-267984
-https://news.walla.co.il/break/3838326
+COUNTER:15
 https://news.walla.co.il/break/3838327
 https://hamal.co.il/main/נועם-בתן-ישיר-שלישי-בגמר-האירוויזיון-ישראל-במקום-הרביעי-בהי-267981
 https://news.walla.co.il/break/3838331
@@ -499,3 +494,8 @@ https://hamal.co.il/main/תיעוד-מזירת-קריסת-העץ-על-האוטו
 https://hamal.co.il/main/סהכ-7-נפגעים-1-אנוש-בת-15-2-קשה-בת-49-במצב-קשה-לאיכילוב-268490
 https://hamal.co.il/main/ילדה-בת-11-במצב-אנוש-ופצועה-נוספת-באורח-קשה-268491
 https://hamal.co.il/main/שוטרים-הוזעקו-לקטטה-מצאו-גורת-כלבים-מוזנחת---ואימצו-אותה-אל-268492
+https://news.walla.co.il/break/3839139
+https://news.walla.co.il/break/3839141
+https://news.walla.co.il/item/3839125
+https://news.walla.co.il/item/3839144
+https://hamal.co.il/main/יותר-משנתיים-אחרי-שנעלמה-כיווני-חקירה-חדשים-בפרשת-היימנוט-ק-268493
