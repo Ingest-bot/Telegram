@@ -1,9 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3838299
-https://hamal.co.il/main/דובר-צהל-בהמשך-להתרעות-שהופעלו-לפני-זמן-קצר-במרחבים-מסד-ו-267955
-https://news.walla.co.il/break/3838301
-https://news.walla.co.il/break/3838302
-https://news.walla.co.il/break/3838304
+COUNTER:4
 https://news.walla.co.il/break/3838303
 https://hamal.co.il/main/אחרי-ימים-חמים-הטמפרטורות-צונחות-ויהיו-נמוכות-לעונה--התחזי-267958
 https://hamal.co.il/main/גבר-בן-48-נהרג-מפגיעת-משאית-סמוך-לשוהם-267959
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3839096
 https://hamal.co.il/main/סוכלה-הברחת-ענק-מירדן-דרך-גשר-אלנבי-268478
 https://hamal.co.il/main/פנחסוב-עלה-עירום-לבמה-הרבה-זמן-לא-ראיתי-טירוף-כזה-בקהל-268413
 https://hamal.co.il/main/תיאוריה-מטלטלת-על-הפירמידה-הגדולה-מה-מטרתה-האמיתית-268385
+https://news.walla.co.il/item/3839114
+https://news.walla.co.il/item/3839117
+https://hamal.co.il/main/הנשיא-הרצוג-לנועם-בתן-עמדת-בגבורה-מול-גלי-שנאה-ועוינות-שג-268479
+https://hamal.co.il/main/לפני-זמן-קצר-עצרו-חשוד-נוסף-במעורבות-באירוע--מעצרו-של-החשוד-268480
+https://hamal.co.il/main/ניצול-של-ממש-של-הלומי-קרב-תאסר-כניסת-עוד-לבתים-מאזנים-אב-268481
