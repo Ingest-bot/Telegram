@@ -1,11 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/צעד-אחרון-הניסיון-של-בכירים-בימין-לגייס-רוב-לחוק-הגיוס-267930
-https://news.walla.co.il/break/3838260
-https://hamal.co.il/main/אזעקות-בקריית-שמונה-והסביבה-267936
-https://hamal.co.il/main/האזעקות-בצפון-חלק-מהשיגורים-יורטו-אין-נפגעים-267937
-https://news.walla.co.il/break/3838263
-https://news.walla.co.il/item/3838262
-https://hamal.co.il/main/שוב-עשרות-חרדים-קיצונים-מפגינים-מחוץ-לביתו-של-מפקד-המשטרה-ה-267938
+COUNTER:30
 https://hamal.co.il/main/עכשיו-תם-סבב-השיחות-בין-ישראל-ללבנון-ליום-חמישי-הוא-יתחדש-267939
 https://hamal.co.il/main/חיסלו-מחבל-שיידה-אבנים-לעבר-רכבים-ישראליים-בכביש-מרכזי-סמוך-267940
 https://news.walla.co.il/break/3838284
@@ -499,3 +492,10 @@ https://news.walla.co.il/break/3839076
 https://news.walla.co.il/break/3839078
 https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-מחשש-לחדירת-כלי-טיס-עוין-268454
 https://hamal.co.il/main/נשיא-הונגריה-מסרב-להתפטר-מדיאר-הוא-בובה-של-המערכת-הכושלת-268448
+https://news.walla.co.il/break/3839083
+https://news.walla.co.il/item/3839078
+https://news.walla.co.il/item/3839079
+https://hamal.co.il/main/דיווח-מאיראן-ארהב-מוכנה-להקפיא-את-הסנקציות-במהלך-המומ-גיא-268457
+https://hamal.co.il/main/חיל-האוויר-יירט-שלוש-מטרות-אוויריות-חשודות-שזוהו-במרחב-בו-פו-268458
+https://hamal.co.il/main/ההתרעות-נראות-אחרת-פיקוד-העורף-השיק-עדכון-חדש-לאפליקציה-268461
+https://hamal.co.il/main/כוחות-חטיבה-769-השמידו-תשתיות-טרור-ואיתרו-אמצעי-לחימה-כוחות-268463
