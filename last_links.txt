@@ -1,8 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3838155
-https://news.walla.co.il/item/3838158
-https://hamal.co.il/main/נציגת-פולין-לאירוויזיון-נשאלה-על-ישראל-זו-הייתה-תגובתה-המביכ-267863
-https://hamal.co.il/main/ליברמן-בעוטף-לחזק-את-העסקים-267884
+COUNTER:36
 https://news.walla.co.il/item/3838165
 https://hamal.co.il/main/3-נפצעו-בת-267885
 https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בבני-ברק-מצבו-קשה-267886
@@ -499,3 +495,7 @@ https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-2
 https://news.walla.co.il/break/3838944
 https://news.walla.co.il/item/3838937
 https://hamal.co.il/main/צהל-נערך-להשתלט-על-המשט-מטורקיה-268390
+https://news.walla.co.il/break/3838946
+https://news.walla.co.il/break/3838953
+https://news.walla.co.il/item/3838951
+https://hamal.co.il/main/שמו-לב-ואז-גילו-את-האמת-המטרידה-268374
