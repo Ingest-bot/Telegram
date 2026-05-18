@@ -1,9 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3838194
-https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267898
-https://hamal.co.il/main/החל-סבב-שיחות-המומ-בין-ישראל-ללבנון-267899
-https://news.walla.co.il/item/3838195
-https://hamal.co.il/main/ניבר-מדר-בזוגיות-חדשה---וכולכם-מכירים-את-אחותו-של-בן-הזוג-267893
+COUNTER:6
 https://news.walla.co.il/break/3838203
 https://hamal.co.il/main/מסתערבי-מג״ב-עצרו-חשוד-שתכנן-לבצע-פיגוע-במהלך-יום-ירושלים-267903
 https://news.walla.co.il/break/3838208
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3838980
 https://news.walla.co.il/item/3838982
 https://news.walla.co.il/break/3838991
 https://hamal.co.il/main/התמונות-מהחתונה-עוררו-גיחוך---ואז-נחשף-הגיל-הלא-ייאמן-של-החת-268384
+https://news.walla.co.il/item/3839008
+https://hamal.co.il/main/המאבק-הצליח-הדיון-על-הכרה-בחיילים-שהתאבדו-מגיע-לבג״ץ-268404
+https://hamal.co.il/main/תיעוד-מטוס-קרב-אמריקני-ממלא-דלק-מעל-המזרח-התיכון-268405
+https://hamal.co.il/main/שיא-מטורף-מדוע-האישה-הזו-נעצרה-17-פעמים-מתחילת-השנה-268382
+https://hamal.co.il/main/סיום-המלחמה-טהרן-מסרה-הצעה-חדשה-לאמריקנים-268406
