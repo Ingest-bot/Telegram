@@ -1,10 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/break/3838119
-https://news.walla.co.il/item/3838113
-https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירויות-מעורבת-בתקיפות-נגדנו-267864
-https://hamal.co.il/main/שר-החוץ-האיראני-איחוד-האמירויות-מעורבת-בתקיפות-נגדנו-267866
-https://news.walla.co.il/item/3838120
-https://hamal.co.il/main/בגץ-ליועמשית-ההודעה-שמסרת-לא-תשנה-את-החלטותינו-267874
+COUNTER:30
 https://news.walla.co.il/item/3838135
 https://news.walla.co.il/item/3838104
 https://hamal.co.il/main/צהל-על-האזעקות-בקו-267877
@@ -499,3 +493,9 @@ https://hamal.co.il/main/פיתו-את-הקורבן-תקפו-ושדדו-את-ר�
 https://hamal.co.il/main/הכלה-מהעונה-החדשה-של-חתונה-ממבט-ראשון---בהיריון-268370
 https://hamal.co.il/main/מטעמים-ביטחוניים-ומדיניים-עדותו-של-נתניהו-נדחתה-268371
 https://hamal.co.il/main/מאבד-סבלנות-הפגישה-של-טראמפ-עם-בכירי-הממשל---והאזהרה-268372
+https://news.walla.co.il/break/3838920
+https://news.walla.co.il/item/3838919
+https://hamal.co.il/main/במהלך-היממה-האחרונה-מעל-30-תשתיות-של-חיזבאללה-הושמדו-268376
+https://hamal.co.il/main/משרד-הביטחון-תרגיל-יתקיים-היום-במעבר-גלבוע-268379
+https://hamal.co.il/main/זייפו-אישורי-שהייה-3-שבחים-ונהג-מונית-נעצרו-בצפון-268380
+https://hamal.co.il/main/תיעוד-עקף-בקו-הפרדה-רצוף---ונעצר-268381
