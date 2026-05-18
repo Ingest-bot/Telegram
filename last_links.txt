@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3838153
-https://news.walla.co.il/item/3838134
-https://hamal.co.il/main/נתניהו-בטקס-האזכרה-לזכר-יהודי-אתיופיה-למצות-את-א-267882
+COUNTER:35
 https://news.walla.co.il/break/3838155
 https://news.walla.co.il/item/3838158
 https://hamal.co.il/main/נציגת-פולין-לאירוויזיון-נשאלה-על-ישראל-זו-הייתה-תגובתה-המביכ-267863
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838933
 https://news.walla.co.il/break/3838935
 https://news.walla.co.il/item/3838936
 https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-268387
+https://news.walla.co.il/break/3838944
+https://news.walla.co.il/item/3838937
+https://hamal.co.il/main/צהל-נערך-להשתלט-על-המשט-מטורקיה-268390
