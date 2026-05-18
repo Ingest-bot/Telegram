@@ -1,5 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3838196
+COUNTER:2
 https://news.walla.co.il/item/3838194
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-חשודה-בדרום-לבנון-267898
 https://hamal.co.il/main/החל-סבב-שיחות-המומ-בין-ישראל-ללבנון-267899
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3838984
 https://news.walla.co.il/item/3838980
 https://news.walla.co.il/item/3838982
 https://news.walla.co.il/break/3838991
+https://hamal.co.il/main/התמונות-מהחתונה-עוררו-גיחוך---ואז-נחשף-הגיל-הלא-ייאמן-של-החת-268384
