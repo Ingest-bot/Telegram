@@ -1,5 +1,4 @@
-COUNTER:24
-https://hamal.co.il/main/כץ-נגד-לאמין-ימאל-מצפה-מברצלונה-להתנער-מדבריו-267859
+COUNTER:25
 https://news.walla.co.il/break/3838116
 https://news.walla.co.il/break/3838119
 https://news.walla.co.il/item/3838113
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3838900
 https://hamal.co.il/main/פיקוד-העורף-בדיקת-צופרים-תתקיים-היום-בבקעת-הירדן-268368
 https://hamal.co.il/main/פיתו-את-הקורבן-תקפו-ושדדו-את-רכושו-אישום-נגד-4-תושבי-הצפון-268369
 https://hamal.co.il/main/הכלה-מהעונה-החדשה-של-חתונה-ממבט-ראשון---בהיריון-268370
+https://hamal.co.il/main/מטעמים-ביטחוניים-ומדיניים-עדותו-של-נתניהו-נדחתה-268371
