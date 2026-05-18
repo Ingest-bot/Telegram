@@ -1,7 +1,4 @@
-COUNTER:6
-https://news.walla.co.il/break/3838203
-https://hamal.co.il/main/מסתערבי-מג״ב-עצרו-חשוד-שתכנן-לבצע-פיגוע-במהלך-יום-ירושלים-267903
-https://news.walla.co.il/break/3838208
+COUNTER:7
 https://news.walla.co.il/item/3838205
 https://hamal.co.il/main/ארהב-חמאס-חיזבאללה-והחותים-מנותקים-מאספקה-של-איראן-267906
 https://news.walla.co.il/item/3838210
@@ -499,3 +496,6 @@ https://hamal.co.il/main/המאבק-הצליח-הדיון-על-הכרה-בחיי
 https://hamal.co.il/main/תיעוד-מטוס-קרב-אמריקני-ממלא-דלק-מעל-המזרח-התיכון-268405
 https://hamal.co.il/main/שיא-מטורף-מדוע-האישה-הזו-נעצרה-17-פעמים-מתחילת-השנה-268382
 https://hamal.co.il/main/סיום-המלחמה-טהרן-מסרה-הצעה-חדשה-לאמריקנים-268406
+https://news.walla.co.il/break/3839012
+https://news.walla.co.il/break/3839015
+https://hamal.co.il/main/הירי-בראש-268407
