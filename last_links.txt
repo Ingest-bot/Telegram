@@ -1,5 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/ראשוני-הופעלו-התרעות-במרחבים-מסד-ועילבון-הפרטים-בבדיקה-267954
+COUNTER:1
 https://news.walla.co.il/break/3838299
 https://hamal.co.il/main/דובר-צהל-בהמשך-להתרעות-שהופעלו-לפני-זמן-קצר-במרחבים-מסד-ו-267955
 https://news.walla.co.il/break/3838301
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839113
 https://news.walla.co.il/item/3839096
 https://hamal.co.il/main/סוכלה-הברחת-ענק-מירדן-דרך-גשר-אלנבי-268478
 https://hamal.co.il/main/פנחסוב-עלה-עירום-לבמה-הרבה-זמן-לא-ראיתי-טירוף-כזה-בקהל-268413
+https://hamal.co.il/main/תיאוריה-מטלטלת-על-הפירמידה-הגדולה-מה-מטרתה-האמיתית-268385
