@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/ביממה-האחרונה-צהל-חיסל-יותר-מ-20-מחבלי-חיזבאללה-267924
-https://hamal.co.il/main/פועל-בן-25-נהרג-מכלי-הנדסי-במקום-עבודתו-סמוך-לכוכב-השחר-267925
+COUNTER:24
 https://news.walla.co.il/break/3838247
 https://hamal.co.il/main/חולה-אבעבועות-רוח-שהה-בטיסה-267926
 https://news.walla.co.il/break/3838256
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839064
 https://hamal.co.il/main/זוהו-מספר-שיגורים-לעבר-כוחות-צהל-הפועלים-במרחב-דרום-לבנון-268441
 https://hamal.co.il/main/עם-פער-של-33-שנה-עמוס-לוזון-בזוגיות-חדשה-268433
 https://hamal.co.il/main/לשכת-בנט-איזנקוט-ובנט-נפגשו-אמש-268449
+https://news.walla.co.il/break/3839071
+https://hamal.co.il/main/המאכל-מספר-1-להורדת-כולסטרול-הפתרון-שמסתתר-בארון-המטבח-מערכ-268451
