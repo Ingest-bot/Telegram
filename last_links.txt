@@ -1,10 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3838308
-https://news.walla.co.il/item/3838305
-https://news.walla.co.il/item/3838306
-https://hamal.co.il/main/21-ימים-הסתובב-חופשי-בהרצליה-השב״ח-שהתחזה-לאחר-ונאשם-בעבירו-267960
-https://news.walla.co.il/break/3838312
-https://news.walla.co.il/break/3838309
+COUNTER:9
 https://news.walla.co.il/item/3838286
 https://hamal.co.il/main/פעוט-במצב-בינוני-לאחר-שרכב-על-בימבה-ונפגע-מרכב-267961
 https://hamal.co.il/main/איזנקוט-גונב-קולות-מביבי---והאופוזיציה-גורפת-61-מנדטים--סקר-267973
@@ -499,3 +493,9 @@ https://hamal.co.il/main/ניצול-של-ממש-של-הלומי-קרב-תאסר-
 https://news.walla.co.il/break/3839124
 https://news.walla.co.il/item/3839121
 https://hamal.co.il/main/דיווח-פקיסטן-שלחה-אלפי-חיילים-ומטוסי-קרב-לסעודיה-בזמן-המלחמ-268482
+https://news.walla.co.il/item/3839130
+https://news.walla.co.il/item/3839131
+https://hamal.co.il/main/תל-אביב-אוטובוס-פגע-בעץ-במקום-הרוג-ו2-לכודים-268483
+https://hamal.co.il/main/4-נפגעים-בתאונת-האוטובוס-נהג-האוטובוס-לכוד-במצב-בינוני-268484
+https://hamal.co.il/main/עלה-ל-5-מספר-הפצועים-בתאונה-שניים-במצב-קשה-268485
+https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-בדקות-אלה-בחילוץ-לכודים-בתאונת-דרכ-268486
