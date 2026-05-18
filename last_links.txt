@@ -1,10 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3838327
-https://hamal.co.il/main/נועם-בתן-ישיר-שלישי-בגמר-האירוויזיון-ישראל-במקום-הרביעי-בהי-267981
-https://news.walla.co.il/break/3838331
-https://news.walla.co.il/break/3838333
-https://news.walla.co.il/break/3838334
-https://news.walla.co.il/break/3838336
+COUNTER:17
 https://news.walla.co.il/item/3838335
 https://hamal.co.il/main/תיק-יועצי-נתניהו-עלול-להיסגר-היועמשית-הודיעה-על-עיכוב-הליכי-267986
 https://hamal.co.il/main/מטרה-אווירית-יורטה-בסמוך-לכוחותינו-בדרום-לבנון-אין-נפגעים-267989
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3839141
 https://news.walla.co.il/item/3839125
 https://news.walla.co.il/item/3839144
 https://hamal.co.il/main/יותר-משנתיים-אחרי-שנעלמה-כיווני-חקירה-חדשים-בפרשת-היימנוט-ק-268493
+https://news.walla.co.il/break/3839150
+https://news.walla.co.il/break/3839147
+https://news.walla.co.il/break/3839151
+https://news.walla.co.il/item/3839136
+https://hamal.co.il/main/דיווח-בהאג-ביקשו-בחשאי-צו-מעצר-נגד-סמוטריץ-בגין-אפרטהייד-268494
+https://hamal.co.il/main/רותם-סלע-נגד-שר-החינוך-יואב-קיש-והממשלה-פשוט-בושה-מאור-בן-268495
