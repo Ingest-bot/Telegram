@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3838353
-https://news.walla.co.il/item/3838356
-https://news.walla.co.il/item/3838352
+COUNTER:27
 https://hamal.co.il/main/האמירויות-יאיצו-את-פרויקט-צינור-הנפט-במטרה-לעקוף-את-הורמוז-268012
 https://hamal.co.il/main/--268013
 https://hamal.co.il/main/פרשת-׳במדבר׳--זמני-השבת-267995
@@ -499,3 +496,6 @@ https://hamal.co.il/main/אמריקן-איירליינס-לא-תחדש-את-טי
 https://hamal.co.il/main/מגבילים-אתכם-עם-סוללות-ניידות-בטיסה-הנה-הפתרון-ניב-ליליאן-268502
 https://news.walla.co.il/break/3839178
 https://hamal.co.il/main/יתייחס-לנושא-האיראני-טראמפ-צפוי-לנאום-בכנס-בבית-הלבן-268503
+https://news.walla.co.il/break/3839179
+https://hamal.co.il/main/רוכב-אופנוע-נפגע-ממשאית-סמוך-לצומת-ניר-צבי-מצבו-קשה-268504
+https://hamal.co.il/main/הוא-חוזר-ניימאר-בסגל-נבחרת-ברזיל-למונדיאל-2026-268506
