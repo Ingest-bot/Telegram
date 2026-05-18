@@ -1,7 +1,4 @@
-COUNTER:36
-https://news.walla.co.il/item/3838165
-https://hamal.co.il/main/3-נפצעו-בת-267885
-https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בבני-ברק-מצבו-קשה-267886
+COUNTER:37
 https://hamal.co.il/main/ביום-ירושלים-בן-גביר-עלה-ורקד-בהר-הבית--צפו-267887
 https://hamal.co.il/main/כ-267888
 https://hamal.co.il/main/נתניהו-וסער-החליטו-ישראל-תתבע-את-267890
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838946
 https://news.walla.co.il/break/3838953
 https://news.walla.co.il/item/3838951
 https://hamal.co.il/main/שמו-לב-ואז-גילו-את-האמת-המטרידה-268374
+https://news.walla.co.il/item/3838954
+https://news.walla.co.il/item/3838959
+https://hamal.co.il/main/דיווח-פקיסטן-העבירה-268391
