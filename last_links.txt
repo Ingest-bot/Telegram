@@ -1,6 +1,4 @@
-COUNTER:18
-https://hamal.co.il/main/פרשת-׳במדבר׳-מה-תפקידם-של-הבנים-הנולדים-ודורות-ההמשך-267991
-https://news.walla.co.il/item/3838328
+COUNTER:19
 https://news.walla.co.il/item/3838341
 https://hamal.co.il/main/תאילנד-נגד-הישראלים-ראש-הממשלה-פשט-על-וילות-בקופנגן-267999
 https://news.walla.co.il/break/3838344
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839156
 https://news.walla.co.il/break/3839153
 https://news.walla.co.il/item/3839126
 https://hamal.co.il/main/תרגיל-משותף-של-צהל-ומשטרת-ישראל-יחל-מחר-במרחב-העיר-אילת-ב-268496
+https://news.walla.co.il/break/3839161
+https://hamal.co.il/main/לראשונה-מתחילת-המומ-ארהב-ואיראן-החליפו-נוסחאות-להסכם-גרעי-268497
