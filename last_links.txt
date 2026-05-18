@@ -1,6 +1,4 @@
-COUNTER:7
-https://news.walla.co.il/item/3838205
-https://hamal.co.il/main/ארהב-חמאס-חיזבאללה-והחותים-מנותקים-מאספקה-של-איראן-267906
+COUNTER:8
 https://news.walla.co.il/item/3838210
 https://news.walla.co.il/break/3838216
 https://news.walla.co.il/item/3838215
@@ -499,3 +497,5 @@ https://hamal.co.il/main/סיום-המלחמה-טהרן-מסרה-הצעה-חדש
 https://news.walla.co.il/break/3839012
 https://news.walla.co.il/break/3839015
 https://hamal.co.il/main/הירי-בראש-268407
+https://news.walla.co.il/item/3839012
+https://hamal.co.il/main/4-שבחים-268415
