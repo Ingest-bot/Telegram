@@ -1,8 +1,4 @@
-COUNTER:33
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-267879
-https://hamal.co.il/main/רגע-לפני-החתונה-יובל-כספית-וארוסה-בצעד-ששווה-מיליון-שקלים-267861
-https://news.walla.co.il/break/3838147
-https://news.walla.co.il/break/3838148
+COUNTER:34
 https://news.walla.co.il/break/3838153
 https://news.walla.co.il/item/3838134
 https://hamal.co.il/main/נתניהו-בטקס-האזכרה-לזכר-יהודי-אתיופיה-למצות-את-א-267882
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3838889
 https://hamal.co.il/main/אחרי-ימים-ארוכים-חניכי-תוכנית-ארז-השלימו-את-קורס-הצניחה-268383
 https://hamal.co.il/main/המסר-המטריד-של-החייזרים-מה-מסתתר-במסמכי-העבמים-הסודיים-268373
 https://hamal.co.il/main/עמדת-שירות-מבוססת-בינה-מלאכותית-268386
+https://news.walla.co.il/break/3838933
+https://news.walla.co.il/break/3838935
+https://news.walla.co.il/item/3838936
+https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-268387
