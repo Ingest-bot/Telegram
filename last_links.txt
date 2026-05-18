@@ -1,7 +1,4 @@
 COUNTER:21
-https://news.walla.co.il/break/3838093
-https://news.walla.co.il/item/3838094
-https://hamal.co.il/main/גורם-בבית-הלבן-סין-הסכימה---איראן-לעולם-לא-תוכל-להחזיק-בנשק-267855
 https://hamal.co.il/main/עולים-מצרפת-ראשונים-החלה-הצעדה-של-יום-ירושלים--צפו-267856
 https://hamal.co.il/main/ברצלונה-מתנערת-מלאמין-ימאל-מתנגדים-למסר-נגד-מדינה-או-עם-267857
 https://news.walla.co.il/break/3838102
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838893
 https://hamal.co.il/main/אחרי-חיסול-אל־חדאד-מי-יירש-את-הנהגת-חמאס---ואיך-זה-ישפיע-על-268366
 https://news.walla.co.il/break/3838899
 https://hamal.co.il/main/מזג-אוויר-שרבי-עם-אובך-קל-הטמפרטורות-החזויות-בירושלים-31-עד-268367
+https://news.walla.co.il/break/3838901
+https://news.walla.co.il/item/3838902
+https://news.walla.co.il/item/3838904
