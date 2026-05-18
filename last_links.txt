@@ -1,5 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3838289
+COUNTER:35
 https://news.walla.co.il/break/3838291
 https://news.walla.co.il/break/3838292
 https://news.walla.co.il/break/3838294
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839092
 https://hamal.co.il/main/לפני-זמן-קצר-התקבל-דיווח-אודות-חשודה-תושבת-הרשות-הפלסטינית-ש-268464
 https://hamal.co.il/main/השלטון-המקומיישבית-מחראת-קבלת-הקהל-לשעתיים-בדרישה-להכניס-את-268465
 https://hamal.co.il/main/דני-אלגרט-אחי-הוצא-להורג-בשבי-חמאס-במהלך-חקירה-כי-גמגם-268419
+https://hamal.co.il/main/כבר-לא-מסתתרים-קנדל-גנר-וגייקוב-אלורדי-צמודים-ספיר-סויסה-268470
