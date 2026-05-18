@@ -1,5 +1,4 @@
 COUNTER:38
-https://hamal.co.il/main/ארהב-נמל-התעופה-בפאלם-ביץ-ייקרא-על-שם-דונלד-טראמפ-רויטרס-267947
 https://hamal.co.il/main/--סמ״ר-נגב-דגן-Negev-Dagan-בן-20-מדקל-לוחם-בגדוד-12-ח-267948
 https://hamal.co.il/main/כוחות-צהל-מפוצצים-כעת-מבנים-פלסטינים-במרכז-רצועת-עזה-אמיר-ב-267949
 https://hamal.co.il/main/טראמפ-מזהיר-את-איראן-הסבלנות-נגמרת-רק-משוגעים-יסרבו-לעסקה-267950
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839102
 https://news.walla.co.il/break/3839104
 https://news.walla.co.il/break/3839106
 https://hamal.co.il/main/המחירים-זינקו-כמה-שילם-כל-אמריקאי-בגלל-המלחמה-עם-איראן-268398
+https://news.walla.co.il/break/3839111
