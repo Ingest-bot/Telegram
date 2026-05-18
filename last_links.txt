@@ -1,8 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3838210
-https://news.walla.co.il/break/3838216
-https://news.walla.co.il/item/3838215
-https://hamal.co.il/main/טראמפ-נשיא-סין-לא-יספק-ציוד-צבאי-לאיראן-267907
+COUNTER:12
 https://hamal.co.il/main/חיזבאללה-שיגר-רקטות-ופצמרים-לעבר-כוחותינו---אין-נפגעים-267908
 https://news.walla.co.il/break/3838221
 https://hamal.co.il/main/כתב-אישום-נגד-המחבל-שביצע-את-הפיגוע-בו-נרצח-יהודה-שרמן-זל-267909
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839015
 https://hamal.co.il/main/הירי-בראש-268407
 https://news.walla.co.il/item/3839012
 https://hamal.co.il/main/4-שבחים-268415
+https://hamal.co.il/main/בגץ-ליועמשית-העבירי-את-התצהיר-הסודי-לראש-הממשלה-268421
+https://hamal.co.il/main/טוב-כמו-ספורט-הפעילות-התרבותית-שמאריכה-חיים-268392
+https://hamal.co.il/main/לאחר-שנה-וחודשיים-268422
+https://hamal.co.il/main/נתניהו-צפה-בהתשלטות-על-המשט-268423
