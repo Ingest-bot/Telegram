@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/ביום-ירושלים-בן-גביר-עלה-ורקד-בהר-הבית--צפו-267887
-https://hamal.co.il/main/כ-267888
-https://hamal.co.il/main/נתניהו-וסער-החליטו-ישראל-תתבע-את-267890
-https://news.walla.co.il/break/3838180
+COUNTER:39
 https://news.walla.co.il/break/3838181
 https://news.walla.co.il/break/3838173
 https://news.walla.co.il/item/3838176
@@ -499,3 +495,7 @@ https://hamal.co.il/main/שמו-לב-ואז-גילו-את-האמת-המטריד�
 https://news.walla.co.il/item/3838954
 https://news.walla.co.il/item/3838959
 https://hamal.co.il/main/דיווח-פקיסטן-העבירה-268391
+https://news.walla.co.il/break/3838968
+https://news.walla.co.il/break/3838973
+https://hamal.co.il/main/ביצע-מעשים-מגונים-ב-6-תלמידים-אישום-יוגש-נגד-מורה-מהצפון-268393
+https://hamal.co.il/main/לראשונה-בישראל-שגריר-סומלילנד-התקבל-על-ידי-הנשיא-268394
