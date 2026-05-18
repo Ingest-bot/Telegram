@@ -1,9 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/item/3838335
-https://hamal.co.il/main/תיק-יועצי-נתניהו-עלול-להיסגר-היועמשית-הודיעה-על-עיכוב-הליכי-267986
-https://hamal.co.il/main/מטרה-אווירית-יורטה-בסמוך-לכוחותינו-בדרום-לבנון-אין-נפגעים-267989
-https://hamal.co.il/main/הכותל-תפילת-יום-ירושלים-עם-רבני-ישיבות-ההסדר-267992
-https://hamal.co.il/main/גורם-ביטחוני-זמיר-ביקר-באיחוד-האמירויות-במהלך-המלחמה-267994
+COUNTER:18
 https://hamal.co.il/main/פרשת-׳במדבר׳-מה-תפקידם-של-הבנים-הנולדים-ודורות-ההמשך-267991
 https://news.walla.co.il/item/3838328
 https://news.walla.co.il/item/3838341
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3839151
 https://news.walla.co.il/item/3839136
 https://hamal.co.il/main/דיווח-בהאג-ביקשו-בחשאי-צו-מעצר-נגד-סמוטריץ-בגין-אפרטהייד-268494
 https://hamal.co.il/main/רותם-סלע-נגד-שר-החינוך-יואב-קיש-והממשלה-פשוט-בושה-מאור-בן-268495
+https://news.walla.co.il/break/3839154
+https://news.walla.co.il/break/3839156
+https://news.walla.co.il/break/3839153
+https://news.walla.co.il/item/3839126
+https://hamal.co.il/main/תרגיל-משותף-של-צהל-ומשטרת-ישראל-יחל-מחר-במרחב-העיר-אילת-ב-268496
