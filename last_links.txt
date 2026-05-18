@@ -1,7 +1,4 @@
 COUNTER:1
-https://hamal.co.il/main/המרד-בלייבור-שר-בריטי-בכיר-ראשון-התפטר---וקורא-סטארמר-לפרוש-267892
-https://news.walla.co.il/break/3838189
-https://news.walla.co.il/break/3838192
 https://news.walla.co.il/break/3838195
 https://news.walla.co.il/break/3838196
 https://news.walla.co.il/item/3838194
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3838977
 https://news.walla.co.il/item/3838976
 https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268395
 https://hamal.co.il/main/רופא-מזהיר-לעולם-אל-תיקחו-את-התוסף-הזה-עם-קפה-או-תה-268375
+https://news.walla.co.il/break/3838984
+https://news.walla.co.il/item/3838980
+https://news.walla.co.il/item/3838982
