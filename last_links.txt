@@ -1,6 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/item/3838073
-https://hamal.co.il/main/ראשוני-רחפן-נפץ-פגע-בראש-הנקרה-3-נפצעו-267854
+COUNTER:21
 https://news.walla.co.il/break/3838093
 https://news.walla.co.il/item/3838094
 https://hamal.co.il/main/גורם-בבית-הלבן-סין-הסכימה---איראן-לעולם-לא-תוכל-להחזיק-בנשק-267855
@@ -499,3 +497,5 @@ https://hamal.co.il/main/אוקראינה-מבני-מגורים-נפגעו-במ�
 https://hamal.co.il/main/הפיליפינים-הסנאט-יתכנס-כבית-משפט-להדחת-סגנית-הנשיא-רויטרס-268365
 https://news.walla.co.il/break/3838893
 https://hamal.co.il/main/אחרי-חיסול-אל־חדאד-מי-יירש-את-הנהגת-חמאס---ואיך-זה-ישפיע-על-268366
+https://news.walla.co.il/break/3838899
+https://hamal.co.il/main/מזג-אוויר-שרבי-עם-אובך-קל-הטמפרטורות-החזויות-בירושלים-31-עד-268367
