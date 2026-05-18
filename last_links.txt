@@ -1,5 +1,4 @@
-COUNTER:23
-https://news.walla.co.il/break/3838347
+COUNTER:24
 https://hamal.co.il/main/צה״ל-החל-לתקוף-תשתיות-של-חיזבאללה-במרחב-צור-268008
 https://news.walla.co.il/break/3838354
 https://news.walla.co.il/break/3838353
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839164
 https://hamal.co.il/main/איתמר-בן-גביר-״אני-לא-מפחד-ולא-נרתע-שום-צו-בהאג-לא-ירתיע-268499
 https://hamal.co.il/main/ירי-במסגד-בסן-דייגו-לפחות-שני-הרוגים-ומספר-פצועים-בזירה-268500
 https://hamal.co.il/main/אמריקן-איירליינס-לא-תחדש-את-טיסותיה-לישראל-עד-2027-מערכת-ווא-268501
+https://hamal.co.il/main/מגבילים-אתכם-עם-סוללות-ניידות-בטיסה-הנה-הפתרון-ניב-ליליאן-268502
