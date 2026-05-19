@@ -1,8 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3838481
-https://news.walla.co.il/break/3838523
-https://news.walla.co.il/break/3838525
-https://news.walla.co.il/break/3838527
+COUNTER:10
 https://news.walla.co.il/break/3838526
 https://hamal.co.il/main/דובר-חמאס-סופד-לעז-א-דין-מגדולי-ההתנגדות-הפלסטינית-268150
 https://hamal.co.il/main/הפגנה-בווינה-לפני-גמר-האירוויזיון-אין-תמיכה-ברצח-עם-268154
@@ -499,3 +495,7 @@ https://hamal.co.il/main/מאמנו-של-דניאל-פרץ-עשוי-להיות-�
 https://hamal.co.il/main/עדות-נתניהו-לא-תתקיים-גם-מחר-הסיבה-לוז-בטחוני-268612
 https://hamal.co.il/main/אופירה-אסייג-לא-התחברתי-לאודיה-אפילו-לא-זיהיתי-אותה-268615
 https://news.walla.co.il/item/3839394
+https://news.walla.co.il/break/3839419
+https://news.walla.co.il/break/3839421
+https://news.walla.co.il/break/3839423
+https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-268616
