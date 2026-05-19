@@ -1,6 +1,4 @@
-COUNTER:18
-https://news.walla.co.il/break/3838549
-https://hamal.co.il/main/חדשות-השבת-כוננות-אחרי-חיסול-אל-חדאד-וגמר-האירווזיון-בוינה-268181
+COUNTER:19
 https://hamal.co.il/main/רחפן-נפץ-נחת-במטע-ליד-קיבוץ-סאסא-החיים-נמשכים-תחת-איום-מתמ-268190
 https://news.walla.co.il/break/3838559
 https://news.walla.co.il/item/3838554
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839452
 https://news.walla.co.il/break/3839451
 https://news.walla.co.il/break/3839454
 https://hamal.co.il/main/אחרי-22-שנים-ארסנל-זכתה-באליפות-אנגליה-לכדורגל-268638
+https://news.walla.co.il/break/3839462
+https://hamal.co.il/main/משרד-החוץ-הסתיימה-ההשתלטות-על-המשט-לעזה-268639
