@@ -1,5 +1,4 @@
 COUNTER:4
-https://news.walla.co.il/break/3838501
 https://news.walla.co.il/break/3838503
 https://hamal.co.il/main/במקום-איימן-עודה-חדש-בחרה-בדר-יוסף-גבארין-ליור-המפלגה-268130
 https://news.walla.co.il/break/3838506
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839386
 https://hamal.co.il/main/טראמפ-האיראנים-מתחננים-להסכם-אבל-ייתכן-שנאלץ-לחבוט-בהם-בקר-268603
 https://news.walla.co.il/break/3839392
 https://news.walla.co.il/item/3839391
+https://news.walla.co.il/item/3839398
