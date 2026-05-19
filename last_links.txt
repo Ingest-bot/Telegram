@@ -1,8 +1,4 @@
-COUNTER:14
-https://news.walla.co.il/break/3838537
-https://news.walla.co.il/break/3838538
-https://hamal.co.il/main/קרית-אתא-רכב-התהפך-בן-26-פונה-לביהח-רמבם-במצב-בינוני-268165
-https://hamal.co.il/main/שיגור-מלבנון-הופעלו-התרעות-בגליל-המערבי-268167
+COUNTER:15
 https://hamal.co.il/main/צהל-ההתרעות-שהופעלו-לפני-זמן-קצר-בצפון-הארץ---זיהוי-שווא-268169
 https://news.walla.co.il/break/3838542
 https://news.walla.co.il/item/3838533
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839429
 https://news.walla.co.il/break/3839431
 https://hamal.co.il/main/לא-ייאמן-סאותהמפטון-ודניאל-פרץ-הודחו-מפלייאוף-הצמפיונשיפ-268625
 https://hamal.co.il/main/יואב-קיש-מונע-מאנשי-מקצוע-במשרדו-להיפגש-עם-היועמשית-268628
+https://news.walla.co.il/break/3839436
+https://news.walla.co.il/item/3839434
+https://news.walla.co.il/item/3839189
+https://hamal.co.il/main/התחממות-הים-התיכון-מדאיגה---גשמים-עזים-ושיטפונות-בדרך-268632
