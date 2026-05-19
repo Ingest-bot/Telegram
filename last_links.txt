@@ -1,6 +1,4 @@
-COUNTER:33
-https://news.walla.co.il/item/3838377
-https://hamal.co.il/main/טראמפ-״ייתכן-שנצטרך-לעשות-עוד-קצת-עבודות-ניקוי-באיראן״-268036
+COUNTER:34
 https://hamal.co.il/main/חיל-האוויר-יירט-רקטה-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-268037
 https://hamal.co.il/main/גדוד-75-חטיבה-7-מוסרים-שבת-שלום-לכל-עם-ישראל-268040
 https://news.walla.co.il/break/3838384
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רוסיה-יורט-כטבמ-שהיה-בדרכו-למו
 https://hamal.co.il/main/לייטר-גיי-סטריט-הוא-סרטן-בגופה-של-הקהילה-היהודית-בארהב-268511
 https://news.walla.co.il/break/3839195
 https://hamal.co.il/main/טייוואן-ראש-הממשלה-הביע-תקווה-לקיום-מגעים-שלווים-עם-סין-268512
+https://news.walla.co.il/break/3839197
+https://hamal.co.il/main/אירוע-אלימות-בחיפה-268513
