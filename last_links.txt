@@ -1,10 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/גורם-ביטחוני-בכיר-כל-האינדיקציות-מהלילה-מעידות---הסיכול-של-268104
-https://news.walla.co.il/break/3838458
-https://hamal.co.il/main/האזעקות-במירון-זוהתה-מטרה-אווירית-חשודה---ללא-נפגעים-268106
-https://news.walla.co.il/break/3838462
-https://news.walla.co.il/break/3838467
-https://hamal.co.il/main/בספרד-בטוחים-שמוריניו-חוזר-לריאל-999-אחוז-שזה-יקרה-268109
+COUNTER:38
 https://news.walla.co.il/break/3838479
 https://news.walla.co.il/break/3838480
 https://hamal.co.il/main/גורם-ביטחוני-אישר-צה״ל-ממשיך-בהערכויות-לתקיפה-באיראן-268110
@@ -499,3 +493,9 @@ https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים
 https://news.walla.co.il/break/3839330
 https://hamal.co.il/main/צהל-מאשר-רחפן-שוגר-לעבר-כוחותינו-והתפוצץ-בשטח-ישראל-268585
 https://hamal.co.il/main/ביממה-האחרונה-מעל-25-מחסני-אמלח-ומשגרים-הותקפו-בדרום-לבנון-268586
+https://news.walla.co.il/break/3839348
+https://news.walla.co.il/break/3839352
+https://hamal.co.il/main/פעלו-בזמן-המערכות-מול-איראן-268587
+https://hamal.co.il/main/עוצמה-לצד-חיבור-למסורת-הכנסת-ספר-תורה-בקריית-התקשוב-268588
+https://hamal.co.il/main/דיווח-מטען-חבלה-התפוצץ-בדמשק-ירי-נשמע-מיד-לאחר-מכן-268589
+https://hamal.co.il/main/טלי-גוטליב-היועמשית-הודיעה-על-הגשת-כתב-אישום-נגדי-268590
