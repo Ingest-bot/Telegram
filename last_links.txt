@@ -1,6 +1,4 @@
-COUNTER:34
-https://hamal.co.il/main/חיל-האוויר-יירט-רקטה-ששוגרה-לעבר-כוחותינו-בדרום-לבנון-268037
-https://hamal.co.il/main/גדוד-75-חטיבה-7-מוסרים-שבת-שלום-לכל-עם-ישראל-268040
+COUNTER:36
 https://news.walla.co.il/break/3838384
 https://news.walla.co.il/item/3838383
 https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכחם-סמוך-למחלף-נתניה-268045
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839195
 https://hamal.co.il/main/טייוואן-ראש-הממשלה-הביע-תקווה-לקיום-מגעים-שלווים-עם-סין-268512
 https://news.walla.co.il/break/3839197
 https://hamal.co.il/main/אירוע-אלימות-בחיפה-268513
+https://hamal.co.il/main/ארה״ב-משמר-החופים-פועל-בעקבות-דליפת-נפט-בהוואי-268514
+https://hamal.co.il/main/מהפך-במזג-האוויר-ירידה-ניכרת-בטמפרטורות-וטפטופים-בצפון-268516
