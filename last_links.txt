@@ -1,9 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3838407
-https://hamal.co.il/main/צהל-שני-כטבמים-יורטו-זוהו-נפילות-במטולה-וקריית-שמונה-268088
-https://news.walla.co.il/break/3838414
-https://news.walla.co.il/break/3838417
-https://news.walla.co.il/item/3838413
+COUNTER:12
 https://hamal.co.il/main/דיווח-ראשוני-תקיפות-בשכונת-רימאל-בעיר-עזה-268090
 https://hamal.co.il/main/נתניהו-וכץ-צהל-תקף-את-ראש-הזרוע-הצבאית-של-חמאס-בעיר-עזה-268091
 https://hamal.co.il/main/בכיר-ביטחוני-268092
@@ -499,3 +494,8 @@ https://hamal.co.il/main/סערה-בחתונה-ממבט-ראשון-בריטני�
 https://news.walla.co.il/break/3839238
 https://news.walla.co.il/break/3839241
 https://hamal.co.il/main/בית-המשפט-אישר-עדות-נתניהו-תקוצר-268538
+https://news.walla.co.il/break/3839245
+https://news.walla.co.il/item/3839242
+https://hamal.co.il/main/פועל-נפל-מגובה-8-מטרים-בקריית-מלאכי-מצבו-קשה-268541
+https://hamal.co.il/main/הכיסאות-עפו-באוויר-קטטת-נוער-במסעדתה-הפכה-לזירת-קרב--צפו-268530
+https://hamal.co.il/main/נשיא-איראן-הודה-מתמודדים-על-לחצים-268542
