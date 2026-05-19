@@ -1,6 +1,4 @@
-COUNTER:12
-https://hamal.co.il/main/עופר-כסיף-במקום-השלישי-ברשימת-חדש-אין-דמוקרטיה-עם-כיבוש-268160
-https://hamal.co.il/main/הפועל-תל-אביב-הודיעה-רשמית-מגיעים-למשחק-עם-5-שחקנים-268163
+COUNTER:13
 https://hamal.co.il/main/רומז-לאיראן-268164
 https://news.walla.co.il/break/3838537
 https://news.walla.co.il/break/3838538
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839427
 https://hamal.co.il/main/במטכל-מודאגים-המשמעת-בצהל-נשחקת---והפיקוד-מחפש-פתרונות-268619
 https://hamal.co.il/main/הותר-לפרסום-רס״ן-מיל׳-איתמר-ספיר-נפל-בקרב-בדרום-לבנון-268622
 https://news.walla.co.il/break/3839429
+https://news.walla.co.il/break/3839431
+https://hamal.co.il/main/לא-ייאמן-סאותהמפטון-ודניאל-פרץ-הודחו-מפלייאוף-הצמפיונשיפ-268625
