@@ -1,9 +1,4 @@
-COUNTER:38
-https://news.walla.co.il/break/3838479
-https://news.walla.co.il/break/3838480
-https://hamal.co.il/main/גורם-ביטחוני-אישר-צה״ל-ממשיך-בהערכויות-לתקיפה-באיראן-268110
-https://hamal.co.il/main/צהל-החל-לתקוף-תשתיות-חיזבאללה-בדרום-לבנון-268111
-https://news.walla.co.il/break/3838483
+COUNTER:0
 https://news.walla.co.il/item/3838482
 https://hamal.co.il/main/קרוב-יותר-מהירח-אסטרואיד-עצום-יחלוף-במרחק-נגיעה-מכדור-הארץ-268114
 https://news.walla.co.il/break/3838487
@@ -499,3 +494,8 @@ https://hamal.co.il/main/פעלו-בזמן-המערכות-מול-איראן-2685
 https://hamal.co.il/main/עוצמה-לצד-חיבור-למסורת-הכנסת-ספר-תורה-בקריית-התקשוב-268588
 https://hamal.co.il/main/דיווח-מטען-חבלה-התפוצץ-בדמשק-ירי-נשמע-מיד-לאחר-מכן-268589
 https://hamal.co.il/main/טלי-גוטליב-היועמשית-הודיעה-על-הגשת-כתב-אישום-נגדי-268590
+https://news.walla.co.il/break/3839356
+https://news.walla.co.il/item/3839352
+https://news.walla.co.il/item/3839354
+https://hamal.co.il/main/תינוק-ו-2-לכודים-חולצו-משריפה-שפרצה-במודיעין-עילית-268592
+https://hamal.co.il/main/החוקרים-נדהמו-זה-מה-שקורה-לגוף-אחרי-3-ימים-בלי-אוכל-268561
