@@ -1,10 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/תיעוד-זירת-ניסיון-החיסול-של-מנהיג-חמאס-בעיר-עזה--צפו-268094
-https://hamal.co.il/main/גורם-ביטחוני-אישור-ראשוני-לחיסול-268095
-https://news.walla.co.il/break/3838419
-https://news.walla.co.il/break/3838420
-https://news.walla.co.il/break/3838421
-https://hamal.co.il/main/גבר-בן-34-נפצע-קשה-בתאונת-דרכים-סמוך-לקליה-268096
+COUNTER:19
 https://hamal.co.il/main/ארהב-הפסקת-האש-בין-ישראל-ללבנון-תוארך-ב-45-יום-268097
 https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-268098
 https://news.walla.co.il/break/3838427
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3839247
 https://hamal.co.il/main/גנבו-לוחיות-זיהוי-השיטה-המתוחכמת-של-הפורצים-בערד--תיעוד-268548
 https://hamal.co.il/main/כמה-ביצים-צריך-לאכול-בשבוע-כדי-להוריד-סיכון-לדמנציה-ב-27-268551
 https://hamal.co.il/main/הרגשתי-שהרעל-מכניע-אותי-268543
+https://news.walla.co.il/break/3839278
+https://news.walla.co.il/item/3839271
+https://hamal.co.il/main/נראה-מי-גבר-תושב-קש-נאשם-שאיים-על-עובד-עירייה-268553
+https://hamal.co.il/main/צהל-חיסלנו-מחבל-שפשט-על-יישובי-העוטף-ב-268554
+https://hamal.co.il/main/רשת-13-מודיעה-על-מינויו-של-עידן-אלרום-לממלא-מקום-מנכל-החברה-268555
+https://hamal.co.il/main/שי-לי-עטרי-268556
