@@ -1,6 +1,4 @@
 COUNTER:6
-https://news.walla.co.il/break/3838512
-https://news.walla.co.il/item/3838511
 https://news.walla.co.il/break/3838513
 https://hamal.co.il/main/יי-268139
 https://news.walla.co.il/break/3838517
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839404
 https://news.walla.co.il/break/3839407
 https://news.walla.co.il/break/3839408
 https://hamal.co.il/main/רצח-בעיר-שפרעם-268607
+https://news.walla.co.il/break/3839405
+https://news.walla.co.il/item/3839407
