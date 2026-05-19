@@ -1,9 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3838438
-https://news.walla.co.il/break/3838441
-https://news.walla.co.il/break/3838444
-https://news.walla.co.il/break/3838443
-https://news.walla.co.il/break/3838445
+COUNTER:25
 https://news.walla.co.il/break/3838446
 https://news.walla.co.il/break/3838448
 https://news.walla.co.il/item/3838447
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3839291
 https://news.walla.co.il/break/3839292
 https://hamal.co.il/main/צהל-268565
 https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-סמוך-לבית-שאן-מטוסי-כיבוי-הוזנקו-268566
+https://news.walla.co.il/break/3839297
+https://news.walla.co.il/item/3839293
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-268567
+https://hamal.co.il/main/אישום-פרץ-לחדר-בבית-מלון-בים-המלח---וגנב-כרטיסי-אשראי--צפו-268576
+https://hamal.co.il/main/צהל-באזהרת-פינוי-268577
