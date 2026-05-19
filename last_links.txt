@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3838450
 https://news.walla.co.il/item/3838449
 https://news.walla.co.il/item/3838451
 https://hamal.co.il/main/ההתרעות-שהופעלו-במגדל-שמס---זיהוי-שווא-268101
@@ -499,3 +498,4 @@ https://hamal.co.il/main/צהל-באזהרת-פינוי-268577
 https://hamal.co.il/main/וועדת-החוקה-אישרה-268578
 https://hamal.co.il/main/סמוטריץ-נגד-האג-אחתום-על-פינוי-חאן-אל-אחמאר-בתגובה-268579
 https://hamal.co.il/main/ברקע-ההיערכות-למלחמה-התפתחות-דרמטית-במומ-בין-איראן-לארהב-268580
+https://news.walla.co.il/break/3839314
