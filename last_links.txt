@@ -1,6 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/ארהב-הפסקת-האש-בין-ישראל-ללבנון-תוארך-ב-45-יום-268097
-https://hamal.co.il/main/גבר-בן-25-נפצע-קשה-268098
+COUNTER:20
 https://news.walla.co.il/break/3838427
 https://news.walla.co.il/item/3838429
 https://hamal.co.il/main/צהל-שטח-צבאי-סגור-הוכרז-ברצועת-החוף-של-ראש-הנקרה-ואכזיב-268099
@@ -499,3 +497,5 @@ https://hamal.co.il/main/נראה-מי-גבר-תושב-קש-נאשם-שאיים-
 https://hamal.co.il/main/צהל-חיסלנו-מחבל-שפשט-על-יישובי-העוטף-ב-268554
 https://hamal.co.il/main/רשת-13-מודיעה-על-מינויו-של-עידן-אלרום-לממלא-מקום-מנכל-החברה-268555
 https://hamal.co.il/main/שי-לי-עטרי-268556
+https://news.walla.co.il/item/3839274
+https://hamal.co.il/main/כמה-ביצים-צריך-לאכול-בשבוע-כדי-להוריד-סיכון-לדמנציה-ב-27-268549
