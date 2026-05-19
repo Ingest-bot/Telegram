@@ -1,7 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/הטווח-מתרחב-אזעקות-בנהריה-ובגליל-המערבי-268066
-https://hamal.co.il/main/הרמטכל-268068
-https://news.walla.co.il/break/3838402
+COUNTER:5
 https://news.walla.co.il/break/3838400
 https://hamal.co.il/main/האזעקות-בצפון-כטבם-אחד-יורט-נוספים-נפלו-בשטח-פתוח-268074
 https://news.walla.co.il/break/3838404
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839209
 https://news.walla.co.il/item/3839197
 https://news.walla.co.il/item/3839214
 https://hamal.co.il/main/דיאטנים-חושפים-זו-הדרך-הכי-בריאה-לאכול-בטטה-268519
+https://news.walla.co.il/break/3839225
+https://hamal.co.il/main/הצהרות-טראמפ---הטעיה-ההכנות-לתקיפה-והשיקום-268533
+https://hamal.co.il/main/פיתתה-צעיר-להיפגש-בפארק-268534
