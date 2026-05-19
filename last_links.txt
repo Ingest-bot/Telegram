@@ -1,6 +1,4 @@
-COUNTER:5
-https://news.walla.co.il/break/3838400
-https://hamal.co.il/main/האזעקות-בצפון-כטבם-אחד-יורט-נוספים-נפלו-בשטח-פתוח-268074
+COUNTER:7
 https://news.walla.co.il/break/3838404
 https://hamal.co.il/main/חיזבאללה-שיגר-כטבמים-פצמרים-ורחפנים-לעבר-כוחותינו-בלבנון-268075
 https://hamal.co.il/main/בשבוע-האחרון-צהל-חיסל-יותר-מ-220-מחבלים-חיזבאללה-בדרום-לבנ-268076
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיאטנים-חושפים-זו-הדרך-הכי-ברי
 https://news.walla.co.il/break/3839225
 https://hamal.co.il/main/הצהרות-טראמפ---הטעיה-ההכנות-לתקיפה-והשיקום-268533
 https://hamal.co.il/main/פיתתה-צעיר-להיפגש-בפארק-268534
+https://hamal.co.il/main/גורם-ביטחוני-חיל-הים-השתלט-268535
+https://hamal.co.il/main/בת-80-נפגעה-מרכב-סמוך-להרצליה-מצבה-קשה-268531
