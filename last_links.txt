@@ -1,5 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/רומז-לאיראן-268164
+COUNTER:14
 https://news.walla.co.il/break/3838537
 https://news.walla.co.il/break/3838538
 https://hamal.co.il/main/קרית-אתא-רכב-התהפך-בן-26-פונה-לביהח-רמבם-במצב-בינוני-268165
@@ -499,3 +498,4 @@ https://hamal.co.il/main/הותר-לפרסום-רס״ן-מיל׳-איתמר-ספ
 https://news.walla.co.il/break/3839429
 https://news.walla.co.il/break/3839431
 https://hamal.co.il/main/לא-ייאמן-סאותהמפטון-ודניאל-פרץ-הודחו-מפלייאוף-הצמפיונשיפ-268625
+https://hamal.co.il/main/יואב-קיש-מונע-מאנשי-מקצוע-במשרדו-להיפגש-עם-היועמשית-268628
