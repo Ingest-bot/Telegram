@@ -1,6 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3838455
-https://news.walla.co.il/break/3838457
+COUNTER:33
 https://hamal.co.il/main/דיווח-חידוש-התקיפות-לאיראן-עשוי-להתרחש-כבר-בשבוע-הבא-268103
 https://hamal.co.il/main/גורם-ביטחוני-בכיר-כל-האינדיקציות-מהלילה-מעידות---הסיכול-של-268104
 https://news.walla.co.il/break/3838458
@@ -499,3 +497,5 @@ https://hamal.co.il/main/המשטרה-על-הדריסה-בתא-נהג-האוטו
 https://hamal.co.il/main/ראשוני-דיווח-על-פגיעת-רחפן-על-רכב-סמוך-למשגב-עם-268583
 https://news.walla.co.il/break/3839323
 https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-באי-קאשם-שבמפרץ-268584
+https://news.walla.co.il/break/3839330
+https://hamal.co.il/main/צהל-מאשר-רחפן-שוגר-לעבר-כוחותינו-והתפוצץ-בשטח-ישראל-268585
