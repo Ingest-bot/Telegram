@@ -1,6 +1,4 @@
 COUNTER:1
-https://news.walla.co.il/break/3838487
-https://hamal.co.il/main/על-שהארגון-טרם-פרסם-הודעה-על-חיסולו-החלה-הלוויתו-של-חדאד-268116
 https://news.walla.co.il/break/3838489
 https://news.walla.co.il/break/3838488
 https://hamal.co.il/main/בכירים-בחמאס-אישרו-עז-א-דין-אל-חדאד-חוסל-268119
@@ -499,3 +497,5 @@ https://hamal.co.il/main/תינוק-ו-2-לכודים-חולצו-משריפה-ש
 https://hamal.co.il/main/החוקרים-נדהמו-זה-מה-שקורה-לגוף-אחרי-3-ימים-בלי-אוכל-268561
 https://news.walla.co.il/break/3839359
 https://hamal.co.il/main/משפחות-שכולות-לעצור-את-הריסת-בתי-העדות-בשכונת-דור-צעיר-268595
+https://news.walla.co.il/break/3839374
+https://news.walla.co.il/break/3839375
