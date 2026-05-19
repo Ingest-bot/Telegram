@@ -1,6 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3838489
-https://news.walla.co.il/break/3838488
+COUNTER:2
 https://hamal.co.il/main/בכירים-בחמאס-אישרו-עז-א-דין-אל-חדאד-חוסל-268119
 https://news.walla.co.il/break/3838490
 https://hamal.co.il/main/סגירת-מעגל-חשובה-הרמטכל-על-חיסולו-של-עז-א-דין-חדאד-268123
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839359
 https://hamal.co.il/main/משפחות-שכולות-לעצור-את-הריסת-בתי-העדות-בשכונת-דור-צעיר-268595
 https://news.walla.co.il/break/3839374
 https://news.walla.co.il/break/3839375
+https://news.walla.co.il/item/3839378
+https://hamal.co.il/main/צהל-השמיד-מחסן-אמצעי-לחימה-ופיר-שיגור-רקטות-של-חמאס-268599
