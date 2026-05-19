@@ -1,6 +1,4 @@
-COUNTER:2
-https://hamal.co.il/main/בכירים-בחמאס-אישרו-עז-א-דין-אל-חדאד-חוסל-268119
-https://news.walla.co.il/break/3838490
+COUNTER:3
 https://hamal.co.il/main/סגירת-מעגל-חשובה-הרמטכל-על-חיסולו-של-עז-א-דין-חדאד-268123
 https://news.walla.co.il/break/3838491
 https://news.walla.co.il/break/3838496
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839374
 https://news.walla.co.il/break/3839375
 https://news.walla.co.il/item/3839378
 https://hamal.co.il/main/צהל-השמיד-מחסן-אמצעי-לחימה-ופיר-שיגור-רקטות-של-חמאס-268599
+https://news.walla.co.il/break/3839385
+https://hamal.co.il/main/הרשת-סוערת-האם-הלהיט-החדש-של-נועה-קירל-ועדן-בן-זקן-מועתק-268602
