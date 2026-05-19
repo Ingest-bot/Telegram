@@ -1,5 +1,4 @@
 COUNTER:9
-https://news.walla.co.il/break/3838518
 https://news.walla.co.il/item/3838481
 https://news.walla.co.il/break/3838523
 https://news.walla.co.il/break/3838525
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839413
 https://hamal.co.il/main/מאמנו-של-דניאל-פרץ-עשוי-להיות-מפוטר-בשל-הפרשה-החמורה-268610
 https://hamal.co.il/main/עדות-נתניהו-לא-תתקיים-גם-מחר-הסיבה-לוז-בטחוני-268612
 https://hamal.co.il/main/אופירה-אסייג-לא-התחברתי-לאודיה-אפילו-לא-זיהיתי-אותה-268615
+https://news.walla.co.il/item/3839394
