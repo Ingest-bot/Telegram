@@ -1,5 +1,4 @@
 COUNTER:0
-https://news.walla.co.il/item/3838482
 https://hamal.co.il/main/קרוב-יותר-מהירח-אסטרואיד-עצום-יחלוף-במרחק-נגיעה-מכדור-הארץ-268114
 https://news.walla.co.il/break/3838487
 https://hamal.co.il/main/על-שהארגון-טרם-פרסם-הודעה-על-חיסולו-החלה-הלוויתו-של-חדאד-268116
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839352
 https://news.walla.co.il/item/3839354
 https://hamal.co.il/main/תינוק-ו-2-לכודים-חולצו-משריפה-שפרצה-במודיעין-עילית-268592
 https://hamal.co.il/main/החוקרים-נדהמו-זה-מה-שקורה-לגוף-אחרי-3-ימים-בלי-אוכל-268561
+https://news.walla.co.il/break/3839359
