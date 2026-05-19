@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/הקטל-בכבישים-בן-22-נהרג-בתאונת-דרכים-בכביש-2-סמוך-לנתניה-268052
-https://news.walla.co.il/break/3838393
+COUNTER:2
 https://news.walla.co.il/break/3838394
 https://news.walla.co.il/break/3838395
 https://news.walla.co.il/break/3838396
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839202
 https://hamal.co.il/main/ההתשלטות-על-המשט-לעזה-נמשך-268521
 https://hamal.co.il/main/כלי-שיט-מעזה-ניסה-לפרוץ-את-המצור-צהל-השיב-בירי-268523
 https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268524
+https://hamal.co.il/main/איתי-לוי-על-תקרית-הבזו-תופעה-מסריחה-ומזעזעת-268525
+https://hamal.co.il/main/הזדקנתי-מי-חתכה-מוקדם-מרחבת-הריקודים-בחתונת-השנה-268473
