@@ -1,8 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכחם-סמוך-למחלף-נתניה-268045
-https://hamal.co.il/main/איראן-מזהה-חולשה-ממרחק-במערכת-הביטחון-נערכים-להכרעה-268044
-https://news.walla.co.il/break/3838388
-https://hamal.co.il/main/סיכום-התרגיל-הצהלי-״גופרית-ואש״-בגבול-המזרחי-268046
+COUNTER:0
 https://hamal.co.il/main/הקטל-בכבישים-בן-22-נהרג-בתאונת-דרכים-בכביש-2-סמוך-לנתניה-268052
 https://news.walla.co.il/break/3838393
 https://news.walla.co.il/break/3838394
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ארה״ב-משמר-החופים-פועל-בעקבות-
 https://hamal.co.il/main/מהפך-במזג-האוויר-ירידה-ניכרת-בטמפרטורות-וטפטופים-בצפון-268516
 https://news.walla.co.il/break/3839200
 https://hamal.co.il/main/ירי-במסגד-בסן-דייגו-3-נרצחו-התוקפים-התאבדו-268518
+https://news.walla.co.il/break/3839202
+https://hamal.co.il/main/ההתשלטות-על-המשט-לעזה-נמשך-268521
+https://hamal.co.il/main/כלי-שיט-מעזה-ניסה-לפרוץ-את-המצור-צהל-השיב-בירי-268523
+https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268524
