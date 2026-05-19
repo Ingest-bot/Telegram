@@ -1,6 +1,4 @@
 COUNTER:2
-https://news.walla.co.il/break/3838394
-https://news.walla.co.il/break/3838395
 https://news.walla.co.il/break/3838396
 https://hamal.co.il/main/אזעקה-בגליל-העליון-חשש-לחדירת-כלי-טיס-עוין-268055
 https://hamal.co.il/main/הטווח-מתרחב-אזעקות-בנהריה-ובגליל-המערבי-268066
@@ -499,3 +497,5 @@ https://hamal.co.il/main/כלי-שיט-מעזה-ניסה-לפרוץ-את-המצ�
 https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268524
 https://hamal.co.il/main/איתי-לוי-על-תקרית-הבזו-תופעה-מסריחה-ומזעזעת-268525
 https://hamal.co.il/main/הזדקנתי-מי-חתכה-מוקדם-מרחבת-הריקודים-בחתונת-השנה-268473
+https://news.walla.co.il/break/3839209
+https://news.walla.co.il/item/3839197
