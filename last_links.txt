@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/break/3838526
-https://hamal.co.il/main/דובר-חמאס-סופד-לעז-א-דין-מגדולי-ההתנגדות-הפלסטינית-268150
-https://hamal.co.il/main/הפגנה-בווינה-לפני-גמר-האירוויזיון-אין-תמיכה-ברצח-עם-268154
+COUNTER:12
 https://news.walla.co.il/break/3838530
 https://hamal.co.il/main/עופר-כסיף-במקום-השלישי-ברשימת-חדש-אין-דמוקרטיה-עם-כיבוש-268160
 https://hamal.co.il/main/הפועל-תל-אביב-הודיעה-רשמית-מגיעים-למשחק-עם-5-שחקנים-268163
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839419
 https://news.walla.co.il/break/3839421
 https://news.walla.co.il/break/3839423
 https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-268616
+https://news.walla.co.il/break/3839427
+https://hamal.co.il/main/במטכל-מודאגים-המשמעת-בצהל-נשחקת---והפיקוד-מחפש-פתרונות-268619
+https://hamal.co.il/main/הותר-לפרסום-רס״ן-מיל׳-איתמר-ספיר-נפל-בקרב-בדרום-לבנון-268622
