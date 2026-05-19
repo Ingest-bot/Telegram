@@ -1,6 +1,4 @@
 COUNTER:17
-https://news.walla.co.il/break/3838543
-https://news.walla.co.il/break/3838546
 https://hamal.co.il/main/איטליה-אירוע-דריסה-ודקירה-10-עוברי-אורח-נפצעו-268183
 https://hamal.co.il/main/פעם-נוספת-אזעקות-הופעלו-בגליל-המערבי-מחשש-לחדירת-כטבם-268188
 https://news.walla.co.il/break/3838549
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3839442
 https://hamal.co.il/main/הלב-שלי-תומר-קאפון-וקארן-פוקהארה-עשו-קעקוע-משותף-268635
 https://news.walla.co.il/break/3839446
 https://hamal.co.il/main/הפועל-באר-שבע-אלופת-המדינה-בכדורגל-268636
+https://news.walla.co.il/break/3839452
+https://news.walla.co.il/break/3839451
