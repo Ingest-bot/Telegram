@@ -1,6 +1,4 @@
-COUNTER:15
-https://hamal.co.il/main/צהל-ההתרעות-שהופעלו-לפני-זמן-קצר-בצפון-הארץ---זיהוי-שווא-268169
-https://news.walla.co.il/break/3838542
+COUNTER:16
 https://news.walla.co.il/item/3838533
 https://hamal.co.il/main/מאחורי-הקלעים-הבחירות-268174
 https://news.walla.co.il/break/3838543
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839436
 https://news.walla.co.il/item/3839434
 https://news.walla.co.il/item/3839189
 https://hamal.co.il/main/התחממות-הים-התיכון-מדאיגה---גשמים-עזים-ושיטפונות-בדרך-268632
+https://news.walla.co.il/item/3839442
+https://hamal.co.il/main/הלב-שלי-תומר-קאפון-וקארן-פוקהארה-עשו-קעקוע-משותף-268635
