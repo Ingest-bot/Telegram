@@ -1,6 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/טראמפ-הודיע-הבוקר-סגנו-של-מנהיג-דעאש-עולמי-חוסל-בניגריה-268102
-https://news.walla.co.il/break/3838452
+COUNTER:32
 https://news.walla.co.il/item/3838455
 https://news.walla.co.il/break/3838457
 https://hamal.co.il/main/דיווח-חידוש-התקיפות-לאיראן-עשוי-להתרחש-כבר-בשבוע-הבא-268103
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839314
 https://hamal.co.il/main/חוצה-את-הקווים-השף-הבכיר-268581
 https://hamal.co.il/main/המשטרה-על-הדריסה-בתא-נהג-האוטובוס-שוחרר-למעצר-בית-268582
 https://hamal.co.il/main/ראשוני-דיווח-על-פגיעת-רחפן-על-רכב-סמוך-למשגב-עם-268583
+https://news.walla.co.il/break/3839323
+https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-באי-קאשם-שבמפרץ-268584
