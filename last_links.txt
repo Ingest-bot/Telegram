@@ -1,9 +1,4 @@
-COUNTER:15
-https://news.walla.co.il/break/3838685
-https://news.walla.co.il/item/3838687
-https://news.walla.co.il/item/3838683
-https://hamal.co.il/main/11-בני-אדם-נפצעו-קל-בתאונה-בירושלים-268277
-https://hamal.co.il/main/מקלחת-או-אמבטיה-המדע-חושף-את-האמת-המטרידה-268265
+COUNTER:18
 https://news.walla.co.il/break/3838690
 https://news.walla.co.il/item/3838699
 https://news.walla.co.il/item/3838695
@@ -499,3 +494,8 @@ https://hamal.co.il/main/דיווחים-בלבנון-268686
 https://hamal.co.il/main/דיווח-268687
 https://hamal.co.il/main/צהל-חושף-כך-חיזבאללה-עוקב-אחר-כוחותינו-בדרום-לבנון-268688
 https://hamal.co.il/main/2-פצועים-בתאונת-דרכים-בבת-ים-בהם-בן-30-במצב-קשה-268689
+https://news.walla.co.il/break/3839617
+https://news.walla.co.il/item/3839590
+https://hamal.co.il/main/צפו-צהל-השמיד-מחסן-אמלח-של-חמאס-במרכז-הרצועה-268690
+https://hamal.co.il/main/צבא-ירדן-כטבם-לא-מזוהה-יורט-בשמי-המדינה-268691
+https://hamal.co.il/main/בן-גביר-עם-דגל-ישראל-ליד-פעילי-המשט-268693
