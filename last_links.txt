@@ -1,5 +1,4 @@
-COUNTER:7
-https://hamal.co.il/main/טראמפ-ממשיך-לאיים-על-איראן-השעון-מתקתק-268340
+COUNTER:8
 https://news.walla.co.il/break/3838840
 https://news.walla.co.il/break/3838842
 https://news.walla.co.il/break/3838841
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אייל-גולן-נחקר-היום-רביעי-באזה
 https://news.walla.co.il/break/3839733
 https://news.walla.co.il/break/3839736
 https://news.walla.co.il/break/3839735
+https://hamal.co.il/main/אביב-גפן-מקדים-ביום-את-נשף-רוק--זו-הסיבה-268763
