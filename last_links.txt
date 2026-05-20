@@ -1,11 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/item/3838581
-https://hamal.co.il/main/מאות-ישראלים-עם-דגלים-מריעים-לנועם-בתן-עם-ישראל-חי-268212
-https://hamal.co.il/main/פיצוץ-גדול-נשמע-באזור-בית-שמש-דובר-צהל-לא-מכירים-268214
-https://news.walla.co.il/break/3838584
-https://news.walla.co.il/item/3838587
-https://hamal.co.il/main/חשוד-נעצר-בחשד-למעורבות-נטישת-התינוק-בחדר-המדרגות-בחדרה-שלומ-268215
-https://news.walla.co.il/break/3838591
+COUNTER:30
 https://hamal.co.il/main/בצהל-נערכים-לתגובת-חמאס-כוננות-שיא-בים-באוויר-ובגבול-עזה-268216
 https://hamal.co.il/main/נועם-בתן-בתגובה-ראשונה-אחרי-ביצוע-הגמר-268218
 https://hamal.co.il/main/סרן-מעוז-ישראל-רקנטי-שנפל-בלבנון-היה-אמור-להתחתן-בעוד-חודש-268219
@@ -499,3 +492,10 @@ https://hamal.co.il/main/היורש-של-חמינאי-שישראל-וארהב-ס
 https://news.walla.co.il/break/3839487
 https://hamal.co.il/main/בעלי-החיים-שנמצאו-בטמרה-268648
 https://hamal.co.il/main/חוקר-CIA-לשעבר-חושף-ארצות-הברית-מסתירה-4-גזעי-חייזרים-268539
+https://news.walla.co.il/break/3839491
+https://news.walla.co.il/break/3839492
+https://news.walla.co.il/break/3839495
+https://news.walla.co.il/break/3839497
+https://hamal.co.il/main/הרשקוביץ-פרש-מהמרוץ-לתפקיד-מבקר-המדינה-אלו-המועמדים-שנותרו-268652
+https://hamal.co.il/main/פועל-נפצע-מחפץ-כבד-בעמק-יזרעאל-מצבו-קשה-268654
+https://hamal.co.il/main/משרד-הביטחון-פינוי-מוקשים-יתבצע-היום-ברמת-הגולן-268655
