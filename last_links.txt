@@ -1,7 +1,4 @@
 COUNTER:7
-https://hamal.co.il/main/פי-2-בסדיר-פי-10-במילואים-באכא-מתריעים-על-החרפת-משבר-כוח-268339
-https://hamal.co.il/main/מומחית-עונה-268326
-https://news.walla.co.il/break/3838838
 https://hamal.co.il/main/טראמפ-ממשיך-לאיים-על-איראן-השעון-מתקתק-268340
 https://news.walla.co.il/break/3838840
 https://news.walla.co.il/break/3838842
@@ -499,3 +496,6 @@ https://hamal.co.il/main/השדרוג-החדש-של-וואטסאפ-יקשה-על
 https://hamal.co.il/main/המחקר-שחושף-איזה-מבנה-גוף-נחשב-להכי-מושך-בעולם-268726
 https://news.walla.co.il/item/3839730
 https://hamal.co.il/main/אייל-גולן-נחקר-היום-רביעי-באזהרה-בתחנת-המשטרה-ברחובות-268753
+https://news.walla.co.il/break/3839733
+https://news.walla.co.il/break/3839736
+https://news.walla.co.il/break/3839735
