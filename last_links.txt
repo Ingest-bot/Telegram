@@ -1,11 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/מספר-רקטות-שנורו-על-ידי-ארגון-הטרור-חיזבאללה-לעבר-כוחות-צהל-268221
-https://hamal.co.il/main/שלב-הצבעות-השופטים-ישראל-מקבלת-12-נקודות-מפולין-268223
-https://hamal.co.il/main/למרות-התקלה-נדחתה-הבקשה-הצכית-להופעה-חוזרת-יניב-דורנבוש-א-268224
-https://news.walla.co.il/break/3838596
-https://news.walla.co.il/break/3838598
-https://hamal.co.il/main/המנצחת-באירוויזיון-2026-בולגריה---ישראל-מקום-שני-268231
-https://hamal.co.il/main/בפעם-השניה-ברציפות-ישראל-במקום-השני-באירוויזיון-268235
+COUNTER:35
 https://hamal.co.il/main/נועם-בתן-אחרי-האירוויזיון-מבחינתי-ניצחנו-אנחנו-כאן-כדי-לת-268237
 https://hamal.co.il/main/שיא-המדינה-בירך-את-נועם-בתן-ריגשת-אותנו-הבאת-כבוד-לעם-ישר-268238
 https://news.walla.co.il/break/3838599
@@ -499,3 +492,10 @@ https://hamal.co.il/main/הלכו-מכות-ביום-חתונתם-268657
 https://news.walla.co.il/break/3839503
 https://news.walla.co.il/break/3839508
 https://news.walla.co.il/break/3839509
+https://news.walla.co.il/break/3839513
+https://news.walla.co.il/item/3839512
+https://news.walla.co.il/item/3839508
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-שוגר-מיירט-לעבר-מטרת-שווא-268660
+https://hamal.co.il/main/כץ-החליט-268661
+https://hamal.co.il/main/נשיא-דרום-קוריאה-268663
+https://hamal.co.il/main/דיווח-רעידת-אדמה-268664
