@@ -1,8 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/מומחית-עונה-268328
-https://news.walla.co.il/break/3838805
-https://news.walla.co.il/break/3838807
-https://news.walla.co.il/break/3838814
+COUNTER:1
 https://news.walla.co.il/item/3838813
 https://hamal.co.il/main/י-ם-אדם-איים-להשתמש-בחומרי-נפץ-שהחזיק-בביתו---ונעצר-268331
 https://news.walla.co.il/break/3838817
@@ -499,3 +495,7 @@ https://hamal.co.il/main/דובר-צהל-בערבית-באזהרת-פינוי-ל
 https://news.walla.co.il/break/3839705
 https://news.walla.co.il/break/3839707
 https://hamal.co.il/main/אחרי-25-שנה-גוגל-משנה-לחלוטין-את-מנוע-החיפוש-268720
+https://news.walla.co.il/item/3839713
+https://news.walla.co.il/item/3839711
+https://news.walla.co.il/item/3839712
+https://hamal.co.il/main/חתן-וכלה---בגיפים-עם-מקלעים-איראן-ארגנה-חתונות-הקרבה-268746
