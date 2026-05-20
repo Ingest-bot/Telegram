@@ -1,6 +1,4 @@
-COUNTER:21
-https://news.walla.co.il/break/3838877
-https://hamal.co.il/main/המשט-לעזה-טוען-כלי-שיט-לא-מזוהים-מקיפים-את-המשט-בדרך-לרצועה-268353
+COUNTER:22
 https://news.walla.co.il/break/3838880
 https://hamal.co.il/main/לפני-זמן-קצר-עשרה-אזרחים-ישראלים-חצו-את-הגבול-לשטח-סוריה-268354
 https://news.walla.co.il/break/3838882
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839770
 https://news.walla.co.il/break/3839769
 https://hamal.co.il/main/גבר-בן-28-במצב-קשה-בהכרה-עם-חבלות-בראש-ובגפיים-דניאל-חובש-268774
 https://hamal.co.il/main/טרגדיה-שחקן-גליל-עליון-ונבחרת-ישראל-רז-אדם-נהרג-בתאונה-אור-268775
+https://news.walla.co.il/item/3839772
+https://hamal.co.il/main/שובר-לב-השחקן-רז-אדם-שנהרג---עזר-לחייל-להשיג-כרטיס-למשחק-268777
