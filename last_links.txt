@@ -1,6 +1,4 @@
 COUNTER:1
-https://news.walla.co.il/item/3838813
-https://hamal.co.il/main/י-ם-אדם-איים-להשתמש-בחומרי-נפץ-שהחזיק-בביתו---ונעצר-268331
 https://news.walla.co.il/break/3838817
 https://news.walla.co.il/break/3838819
 https://hamal.co.il/main/לא-רק-סקווט-3-התרגילים-הכי-יעילים-לרגליים-חזקות-268324
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3839713
 https://news.walla.co.il/item/3839711
 https://news.walla.co.il/item/3839712
 https://hamal.co.il/main/חתן-וכלה---בגיפים-עם-מקלעים-איראן-ארגנה-חתונות-הקרבה-268746
+https://news.walla.co.il/break/3839718
+https://news.walla.co.il/break/3839719
