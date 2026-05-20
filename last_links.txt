@@ -1,6 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/עושים-את-זה-רשמי-עומר-אדם-וארוסתו-סשה-בהופעה-פומבית-ראשונה-268355
-https://news.walla.co.il/break/3838884
+COUNTER:24
 https://news.walla.co.il/item/3838885
 https://hamal.co.il/main/דוברות-מדא-בשעה-0021-התקבל-דיווח-במוקד-101-של-מדא-במרח-268356
 https://hamal.co.il/main/ארהב-טראמפ-פרסם-מפת-מזרח-תיכון-עם-חצים-המכוונים-לאיראן-עיד-268357
@@ -499,3 +497,5 @@ https://hamal.co.il/main/שובר-לב-השחקן-רז-אדם-שנהרג---עז�
 https://news.walla.co.il/break/3839774
 https://news.walla.co.il/break/3839775
 https://hamal.co.il/main/10-פצועים-בתאונת-דרכים-בכביש-7-בין-משאית-למיניבוס-268778
+https://news.walla.co.il/item/3839774
+https://hamal.co.il/main/התנגשות-משאית-ומיניבוססמוך-למחלף-שורק-שני-הרוגים-וכעשרה-פצו-268779
