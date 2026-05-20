@@ -1,9 +1,4 @@
-COUNTER:23
-https://hamal.co.il/main/מכה-נוספת-לכיס-הארנונה-צפויה-לזנק-בכ-3-268286
-https://news.walla.co.il/item/3838711
-https://news.walla.co.il/item/3838715
-https://hamal.co.il/main/בלו-בירד-פותחת-שלושה-קווים-חדשים-לאירופה-הקיץ-268290
-https://news.walla.co.il/break/3838723
+COUNTER:26
 https://news.walla.co.il/item/3838721
 https://hamal.co.il/main/המדינה-היחידה-שנתנה-לישראל-0-עגול---וקיבלה-מאיתנו-דוז-פואה-268293
 https://hamal.co.il/main/שני-מחבלים-חוסלו-בקו-הצהוב-ברצועה-268294
@@ -499,3 +494,8 @@ https://hamal.co.il/main/חשש-לחדירת-מחבלים-בנופים-שבשו�
 https://hamal.co.il/main/צהל-על-ההתרעות-בשומרון-כוחותינו-סורקים-אחר-חשודים-במרחב-268697
 https://hamal.co.il/main/תיעוד-מסתערבים-עצרו-מבוקש-בקלקיליה-מהומות-פרצו-במקום-268698
 https://hamal.co.il/main/פיקוד-העורף-הוסר-החשש-לחדירת-מחבלים-בנופים-שבשומרון-268700
+https://news.walla.co.il/break/3839649
+https://news.walla.co.il/item/3839593
+https://hamal.co.il/main/כוכב-הרשת-ופעיל-הימין-נאשמים-268692
+https://hamal.co.il/main/צהל-על-ההתרעות-בנופים-אזרח-ישראלי-זוהה-בסמוך-לגדר-268702
+https://hamal.co.il/main/גבר-נדקר-בבני-ברק-מצבו-קשה---הרקע-פלילי-268703
