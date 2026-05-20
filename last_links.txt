@@ -1,9 +1,4 @@
-COUNTER:36
-https://hamal.co.il/main/צהל-מספר-רקטות-יורטו-מעל-דרום-לבנון-268314
-https://news.walla.co.il/break/3838785
-https://news.walla.co.il/break/3838791
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-הפרטים-בבדיקה-268316
-https://hamal.co.il/main/אחותו-של-החלל-מעוז-ישראל-בהלוויתו-היית-בדרך-לבנות-בית-268317
+COUNTER:38
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268318
 https://news.walla.co.il/break/3838794
 https://hamal.co.il/main/צהל-268325
@@ -499,3 +494,8 @@ https://hamal.co.il/main/נתניהו-האופן-בו-נהג-בן-גביר-אי�
 https://news.walla.co.il/break/3839691
 https://news.walla.co.il/item/3839694
 https://news.walla.co.il/item/3839690
+https://news.walla.co.il/break/3839696
+https://news.walla.co.il/break/3839699
+https://news.walla.co.il/item/3839662
+https://hamal.co.il/main/צהל-לוחמים-קצינים-נפצעו-מנפילת-רחפן-נפץ-בגבול-לבנון-268731
+https://hamal.co.il/main/הותר-לפרסום-הפצוע-קשה-בדרום-לבנון---מפקד-חטיבת-שריון-268739
