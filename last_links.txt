@@ -1,7 +1,4 @@
-COUNTER:35
-https://hamal.co.il/main/נועם-בתן-אחרי-האירוויזיון-מבחינתי-ניצחנו-אנחנו-כאן-כדי-לת-268237
-https://hamal.co.il/main/שיא-המדינה-בירך-את-נועם-בתן-ריגשת-אותנו-הבאת-כבוד-לעם-ישר-268238
-https://news.walla.co.il/break/3838599
+COUNTER:37
 https://news.walla.co.il/break/3838602
 https://news.walla.co.il/break/3838603
 https://news.walla.co.il/break/3838604
@@ -499,3 +496,6 @@ https://hamal.co.il/main/צהל-על-האזעקות-בצפון-שוגר-מייר
 https://hamal.co.il/main/כץ-החליט-268661
 https://hamal.co.il/main/נשיא-דרום-קוריאה-268663
 https://hamal.co.il/main/דיווח-רעידת-אדמה-268664
+https://news.walla.co.il/item/3839469
+https://hamal.co.il/main/עמית-סגל-עונה-האם-נתניהו-יפרוש-בקרוב-268667
+https://hamal.co.il/main/רופא-עונה-זו-הטעות-הכי-גדולה-שאתם-עושים-בשבועות-268649
