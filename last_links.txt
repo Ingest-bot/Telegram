@@ -1,7 +1,4 @@
 COUNTER:23
-https://news.walla.co.il/break/3838570
-https://hamal.co.il/main/עצרת-לכבוד-משפחת-זלקה-בתל-אביב-268196
-https://news.walla.co.il/break/3838573
 https://news.walla.co.il/break/3838574
 https://hamal.co.il/main/סוף-סוף-גמר-האירוויזיון-יוצא-לדרך-268201
 https://news.walla.co.il/break/3838579
@@ -499,3 +496,6 @@ https://hamal.co.il/main/טראמפ-על-איראן-המלחמה-הזאת-תסת
 https://hamal.co.il/main/גורם-בבית-הלבן-הנשיא-טראמפ-יגיע-לפסגת-ה-G7-בצרפת-268644
 https://news.walla.co.il/break/3839472
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-וקר-מהרגיל--התחזית-המלאה-268645
+https://news.walla.co.il/break/3839477
+https://news.walla.co.il/break/3839479
+https://news.walla.co.il/item/3839476
