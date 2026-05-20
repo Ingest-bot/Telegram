@@ -1,5 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3838842
+COUNTER:10
 https://news.walla.co.il/break/3838841
 https://news.walla.co.il/item/3838843
 https://hamal.co.il/main/צהל-הנחיות-פיקוד-העורף---ללא-שינוי-עד-ליום-שלישי-268341
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839736
 https://news.walla.co.il/break/3839735
 https://hamal.co.il/main/אביב-גפן-מקדים-ביום-את-נשף-רוק--זו-הסיבה-268763
 https://hamal.co.il/main/טראמפ-מגביר-את-הלחץ-על-קובה-ראול-קסטרו-מואשם-בהפלת-מטוס-268759
+https://hamal.co.il/main/לוחמי-דובדבן-עצרו-מחבל-שתכנן-לבצע-פיגוע-בטווח-זמן-המיידי-268766
