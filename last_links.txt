@@ -1,6 +1,4 @@
 COUNTER:39
-https://hamal.co.il/main/צהל-268325
-https://news.walla.co.il/break/3838799
 https://news.walla.co.il/item/3838801
 https://hamal.co.il/main/מומחית-עונה-268328
 https://news.walla.co.il/break/3838805
@@ -499,3 +497,5 @@ https://hamal.co.il/main/צהל-לוחמים-קצינים-נפצעו-מנפיל�
 https://hamal.co.il/main/הותר-לפרסום-הפצוע-קשה-בדרום-לבנון---מפקד-חטיבת-שריון-268739
 https://news.walla.co.il/break/3839701
 https://hamal.co.il/main/דובר-צהל-בערבית-באזהרת-פינוי-לתושבי-לבנון-נפעל-בעוצמה-268741
+https://news.walla.co.il/break/3839705
+https://news.walla.co.il/break/3839707
