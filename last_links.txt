@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/item/3838534
-https://hamal.co.il/main/סודות-העבמים-8-סרטונים-מטלטלים-שממשלת-ארהב-מנסה-להסתיר-268282
-https://hamal.co.il/main/הטבע-הישראלי-במיטבו-זאב-תועד-במהלך-מרדף-אחרי-צבי-268283
+COUNTER:23
 https://hamal.co.il/main/מכה-נוספת-לכיס-הארנונה-צפויה-לזנק-בכ-3-268286
 https://news.walla.co.il/item/3838711
 https://news.walla.co.il/item/3838715
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839635
 https://news.walla.co.il/item/3839632
 https://hamal.co.il/main/אירוע-חריג-בשומרון-בן-14-נפצע-קשה-לאחר-שנפל-מרכב-בעת-נסיעה-268695
 https://hamal.co.il/main/חשש-לחדירת-מחבלים-בנופים-שבשומרון-268696
+https://hamal.co.il/main/צהל-על-ההתרעות-בשומרון-כוחותינו-סורקים-אחר-חשודים-במרחב-268697
+https://hamal.co.il/main/תיעוד-מסתערבים-עצרו-מבוקש-בקלקיליה-מהומות-פרצו-במקום-268698
+https://hamal.co.il/main/פיקוד-העורף-הוסר-החשש-לחדירת-מחבלים-בנופים-שבשומרון-268700
