@@ -1,5 +1,4 @@
-COUNTER:22
-https://hamal.co.il/main/עמד-להתארס-עם-בחירת-ליבו-268194
+COUNTER:23
 https://news.walla.co.il/break/3838570
 https://hamal.co.il/main/עצרת-לכבוד-משפחת-זלקה-בתל-אביב-268196
 https://news.walla.co.il/break/3838573
@@ -499,3 +498,4 @@ https://hamal.co.il/main/גבר-נפצע-קשה-מירי-268640
 https://hamal.co.il/main/טראמפ-על-איראן-המלחמה-הזאת-תסתיים-מהר-מאוד-268642
 https://hamal.co.il/main/גורם-בבית-הלבן-הנשיא-טראמפ-יגיע-לפסגת-ה-G7-בצרפת-268644
 https://news.walla.co.il/break/3839472
+https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-וקר-מהרגיל--התחזית-המלאה-268645
