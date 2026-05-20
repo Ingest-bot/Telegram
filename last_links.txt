@@ -1,6 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/לא-רק-סקווט-3-התרגילים-הכי-יעילים-לרגליים-חזקות-268324
-https://hamal.co.il/main/פעילי-התיישבות-חצו-את-הגבול-הסורי-268333
+COUNTER:4
 https://hamal.co.il/main/תחנה-לא-חוקית-לפינוי-פסולת-אותרה-בפרדס-חנה-10-חשודים-נעצרו-268334
 https://news.walla.co.il/break/3838826
 https://news.walla.co.il/item/3838809
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839718
 https://news.walla.co.il/break/3839719
 https://hamal.co.il/main/טראמפ-האם-נלך-לסיים-את-העבודה-או-שהם-יחתמו-על-מסמך-268750
 https://hamal.co.il/main/החל-מ-99-דולר-לכיוון-לא-בדיוק-אייר-חיפה-החלה-לטוס-לכרתים-268738
+https://news.walla.co.il/item/3839723
+https://hamal.co.il/main/כפר-שמריהו-רימון-רסס-הושלך-לעבר-ביתו-של-איש-עסקים-מוכר-268752
