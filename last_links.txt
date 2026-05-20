@@ -1,9 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3838617
-https://hamal.co.il/main/רייטינג-גמר-האירוויזיון-עם-327-גבוה-מהשנה-שעברה-268272
-https://hamal.co.il/main/צו-עיכוב-יציאה-מהארץ-הוטל-על-החשוד-באונס-שי-לי-עטרי-268273
-https://news.walla.co.il/break/3838650
-https://hamal.co.il/main/הותר-לפרסום-שמו-של-החשוד-באונס-שי-לי-עטרי-ונעמה-שחר-268253
+COUNTER:11
 https://hamal.co.il/main/התרעות-הופעלו-בגבול-הצפון-268275
 https://hamal.co.il/main/זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268276
 https://news.walla.co.il/item/3838665
@@ -499,3 +494,8 @@ https://hamal.co.il/main/העדכון-הגדול-ביותר-זה-25-שנה-גו�
 https://hamal.co.il/main/במהלך-חג-השבועות-יותר-מ-6200-מארזי-חג-חולקו-ללוחמים-בשטח-268680
 https://news.walla.co.il/break/3839597
 https://hamal.co.il/main/בגיל-השורד-האחרון-מטבח-תרפט-הלך-לעולמו-268681
+https://news.walla.co.il/break/3839600
+https://news.walla.co.il/break/3839601
+https://news.walla.co.il/item/3839559
+https://hamal.co.il/main/ברוב-268684
+https://hamal.co.il/main/בן-14-נפצע-קשה-סמוך-לאלון-מורה-נפל-מרכב-במהלך-נסיעה-268685
