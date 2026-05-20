@@ -1,10 +1,4 @@
-COUNTER:26
-https://news.walla.co.il/item/3838721
-https://hamal.co.il/main/המדינה-היחידה-שנתנה-לישראל-0-עגול---וקיבלה-מאיתנו-דוז-פואה-268293
-https://hamal.co.il/main/שני-מחבלים-חוסלו-בקו-הצהוב-ברצועה-268294
-https://news.walla.co.il/item/3838733
-https://hamal.co.il/main/דיווח-בית-הדין-בהאג-הוציא-צווי-מעצר-סודיים-נגד-5-ישראלים-268297
-https://hamal.co.il/main/דיווח-באמירויות-מתקפת-כטב״מים-על-המתקן-הגרעיני-באזור-אל-דאפ-268298
+COUNTER:28
 https://hamal.co.il/main/בשטח-מתחם-אונר״א-לשעבר-הממשלה-תקים-מוזיאון-צה״ל-ולשכת-גיוס-268299
 https://news.walla.co.il/break/3838742
 https://hamal.co.il/main/חיל-האוויר-יירט-מטרה-אווירית-במרחב-בו-פועלים-כוחותינו-בלבנון-268300
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3839593
 https://hamal.co.il/main/כוכב-הרשת-ופעיל-הימין-נאשמים-268692
 https://hamal.co.il/main/צהל-על-ההתרעות-בנופים-אזרח-ישראלי-זוהה-בסמוך-לגדר-268702
 https://hamal.co.il/main/גבר-נדקר-בבני-ברק-מצבו-קשה---הרקע-פלילי-268703
+https://news.walla.co.il/break/3839650
+https://news.walla.co.il/break/3839657
+https://news.walla.co.il/break/3839655
+https://news.walla.co.il/item/3839649
+https://hamal.co.il/main/ישראלים-אנא-היזהרו-הסיפור-של-התייר-שהורחק-מתאילנד-לכל-חייו-268704
+https://hamal.co.il/main/צהל-תקף-אתר-אמלח-של-חיזבאללה-268705
