@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3838880
-https://hamal.co.il/main/לפני-זמן-קצר-עשרה-אזרחים-ישראלים-חצו-את-הגבול-לשטח-סוריה-268354
-https://news.walla.co.il/break/3838882
+COUNTER:23
 https://hamal.co.il/main/עושים-את-זה-רשמי-עומר-אדם-וארוסתו-סשה-בהופעה-פומבית-ראשונה-268355
 https://news.walla.co.il/break/3838884
 https://news.walla.co.il/item/3838885
@@ -499,3 +496,6 @@ https://hamal.co.il/main/גבר-בן-28-במצב-קשה-בהכרה-עם-חבלו
 https://hamal.co.il/main/טרגדיה-שחקן-גליל-עליון-ונבחרת-ישראל-רז-אדם-נהרג-בתאונה-אור-268775
 https://news.walla.co.il/item/3839772
 https://hamal.co.il/main/שובר-לב-השחקן-רז-אדם-שנהרג---עזר-לחייל-להשיג-כרטיס-למשחק-268777
+https://news.walla.co.il/break/3839774
+https://news.walla.co.il/break/3839775
+https://hamal.co.il/main/10-פצועים-בתאונת-דרכים-בכביש-7-בין-משאית-למיניבוס-268778
