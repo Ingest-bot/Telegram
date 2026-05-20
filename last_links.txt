@@ -1,6 +1,4 @@
-COUNTER:6
-https://hamal.co.il/main/בסיוע-כיתת-הכוננות-7-שבחים-נעצרו-בנהריה-268329
-https://hamal.co.il/main/דניאל-עמית-מוציאה-עוד-עוגה-בקופסה-והמחיר-שערורייתי-268338
+COUNTER:7
 https://hamal.co.il/main/פי-2-בסדיר-פי-10-במילואים-באכא-מתריעים-על-החרפת-משבר-כוח-268339
 https://hamal.co.il/main/מומחית-עונה-268326
 https://news.walla.co.il/break/3838838
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3839725
 https://news.walla.co.il/item/3839729
 https://hamal.co.il/main/השדרוג-החדש-של-וואטסאפ-יקשה-על-מי-שמנסה-למחוק-עקבות-בצאט-268734
 https://hamal.co.il/main/המחקר-שחושף-איזה-מבנה-גוף-נחשב-להכי-מושך-בעולם-268726
+https://news.walla.co.il/item/3839730
+https://hamal.co.il/main/אייל-גולן-נחקר-היום-רביעי-באזהרה-בתחנת-המשטרה-ברחובות-268753
