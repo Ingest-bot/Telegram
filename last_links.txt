@@ -1,7 +1,4 @@
-COUNTER:2
-https://news.walla.co.il/item/3838619
-https://hamal.co.il/main/פיצוץ-לילי-במפעל-המסווג-האם-מסתירים-מאיתנו-ניסוי-שהשתבש-268255
-https://news.walla.co.il/break/3838623
+COUNTER:5
 https://news.walla.co.il/item/3838625
 https://hamal.co.il/main/מחקר-גילה-זה-מה-שהקפה-של-הבוקר-עושה-למוח-שלכם-268257
 https://hamal.co.il/main/לפחות-80-מתים-בהתפרצות-אבולה-בקונגו-אין-תרופה-או-חיסון-268260
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3839560
 https://news.walla.co.il/break/3839558
 https://hamal.co.il/main/אלונה-ברקת-על-האליפות-268674
 https://news.walla.co.il/item/3839566
+https://hamal.co.il/main/שר-החוץ-האיראני-במהלך-המלחמה-הפלנו-268677
+https://hamal.co.il/main/בוושינגטון-גוברת-ההערכה---טראמפ-יכריע-את-עניין-התקיפה-בקרוב-268675
+https://hamal.co.il/main/בשר-שרי-268678
