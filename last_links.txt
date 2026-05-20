@@ -1,6 +1,4 @@
-COUNTER:38
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268318
-https://news.walla.co.il/break/3838794
+COUNTER:39
 https://hamal.co.il/main/צהל-268325
 https://news.walla.co.il/break/3838799
 https://news.walla.co.il/item/3838801
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839699
 https://news.walla.co.il/item/3839662
 https://hamal.co.il/main/צהל-לוחמים-קצינים-נפצעו-מנפילת-רחפן-נפץ-בגבול-לבנון-268731
 https://hamal.co.il/main/הותר-לפרסום-הפצוע-קשה-בדרום-לבנון---מפקד-חטיבת-שריון-268739
+https://news.walla.co.il/break/3839701
+https://hamal.co.il/main/דובר-צהל-בערבית-באזהרת-פינוי-לתושבי-לבנון-נפעל-בעוצמה-268741
