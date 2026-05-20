@@ -1,7 +1,4 @@
-COUNTER:32
-https://news.walla.co.il/item/3838754
-https://news.walla.co.il/item/3838737
-https://hamal.co.il/main/החל-משנה-הבאה---טלפונים-ניידים-יאסרו-גם-בחטיבות-הביניים-268308
+COUNTER:33
 https://news.walla.co.il/item/3838757
 https://hamal.co.il/main/דיווח-ישראל-הקימה-2-בסיסים-סודיים-בעיראק-268309
 https://hamal.co.il/main/בן-12-שרף-את-המשרד-במהלך-יום-הבא-את-ילדך-לעבודה-268288
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839664
 https://news.walla.co.il/break/3839665
 https://hamal.co.il/main/סער-תוקף-את-בן-גביר-268708
 https://hamal.co.il/main/ראשוני-דיווח-על-ניסיון-דריסה-סמוך-לעופרה-268709
+https://news.walla.co.il/break/3839673
+https://news.walla.co.il/item/3839676
+https://hamal.co.il/main/בנט-בקריאה-לנתניהו--268710
