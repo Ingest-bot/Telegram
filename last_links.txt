@@ -1,6 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בב-268240
-https://news.walla.co.il/break/3838607
+COUNTER:0
 https://news.walla.co.il/item/3838606
 https://hamal.co.il/main/ישראל-לקראת-יומיים-של-שרב-אובך-ורוחות--התחזית-268245
 https://hamal.co.il/main/בולגריה-ניצחה-בגמר-האירוויזיון-נועם-בתן-הלהיב-את-אירופה-וסי-268246
@@ -499,3 +497,5 @@ https://hamal.co.il/main/רופא-עונה-זו-הטעות-הכי-גדולה-ש�
 https://news.walla.co.il/break/3839533
 https://hamal.co.il/main/תיעוד-תלמידים-בקש-הסתתרו-מתחת-לשולחנות-בזמן-האזעקות-268668
 https://hamal.co.il/main/בצהל-268669
+https://news.walla.co.il/item/3839546
+https://hamal.co.il/main/רסן-במיל-איתמר-ספיר-מובא-למנוחות--ישיר-268671
