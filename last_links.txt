@@ -1,7 +1,4 @@
-COUNTER:17
-https://hamal.co.il/main/מספיק-עם-המשחקים-חוק-הגיוס-חייב-לעבור--ינון-מגל-268346
-https://hamal.co.il/main/גבר-הוכש-268347
-https://hamal.co.il/main/בגץ-גופמן-היועמשית-הגישה-תצהיר-חסוי-268348
+COUNTER:18
 https://hamal.co.il/main/דניאל-עמית-מוציאה-עוד-עוגה-בקופסה-והמחיר-שערורייתי-268337
 https://hamal.co.il/main/שבר-את-הכוס-אושר-כהן-ועדן-פינס-בעל-ואישה-268350
 https://news.walla.co.il/break/3838868
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839757
 https://news.walla.co.il/break/3839756
 https://news.walla.co.il/break/3839758
 https://hamal.co.il/main/כבר-139-מתים-בהתפרצות-האבולה-באפריקה-המספר-צפוי-לעלות-268756
+https://news.walla.co.il/break/3839763
+https://news.walla.co.il/item/3839761
+https://hamal.co.il/main/קותי-סבג-זועם-אחרי-זה-בוכים-שקוראים-להם-ערוצי-תבהלה-268749
