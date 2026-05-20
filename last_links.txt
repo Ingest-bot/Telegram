@@ -1,7 +1,4 @@
 COUNTER:31
-https://hamal.co.il/main/סרן-מעוז-ישראל-רקנטי-שנפל-בלבנון-היה-אמור-להתחתן-בעוד-חודש-268219
-https://hamal.co.il/main/עם-ישראל-חי-נועם-בתן-טרף-את-הבמה-בגמר-האירוויזיון-יניב-דו-268220
-https://news.walla.co.il/break/3838595
 https://hamal.co.il/main/מספר-רקטות-שנורו-על-ידי-ארגון-הטרור-חיזבאללה-לעבר-כוחות-צהל-268221
 https://hamal.co.il/main/שלב-הצבעות-השופטים-ישראל-מקבלת-12-נקודות-מפולין-268223
 https://hamal.co.il/main/למרות-התקלה-נדחתה-הבקשה-הצכית-להופעה-חוזרת-יניב-דורנבוש-א-268224
@@ -499,3 +496,6 @@ https://hamal.co.il/main/פועל-נפצע-מחפץ-כבד-בעמק-יזרעאל
 https://hamal.co.il/main/משרד-הביטחון-פינוי-מוקשים-יתבצע-היום-ברמת-הגולן-268655
 https://news.walla.co.il/item/3839500
 https://hamal.co.il/main/הלכו-מכות-ביום-חתונתם-268657
+https://news.walla.co.il/break/3839503
+https://news.walla.co.il/break/3839508
+https://news.walla.co.il/break/3839509
