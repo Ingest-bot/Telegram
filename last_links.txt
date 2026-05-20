@@ -1,10 +1,4 @@
-COUNTER:11
-https://hamal.co.il/main/התרעות-הופעלו-בגבול-הצפון-268275
-https://hamal.co.il/main/זוהתה-מטרה-אווירית-חשודה-אין-נפגעים-268276
-https://news.walla.co.il/item/3838665
-https://hamal.co.il/main/גם-אתם-משתתפים-בטרנד-הצעדים-תראו-מה-זה-עושה-לגוף-שלכם-268270
-https://news.walla.co.il/item/3838669
-https://hamal.co.il/main/חלון-להצלחה-הסוד-המדעי-לשדרוג-הקשב-והציונים-בתקופת-המבחנים-268268
+COUNTER:15
 https://news.walla.co.il/break/3838685
 https://news.walla.co.il/item/3838687
 https://news.walla.co.il/item/3838683
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3839601
 https://news.walla.co.il/item/3839559
 https://hamal.co.il/main/ברוב-268684
 https://hamal.co.il/main/בן-14-נפצע-קשה-סמוך-לאלון-מורה-נפל-מרכב-במהלך-נסיעה-268685
+https://news.walla.co.il/break/3839611
+https://news.walla.co.il/break/3839614
+https://hamal.co.il/main/דיווחים-בלבנון-268686
+https://hamal.co.il/main/דיווח-268687
+https://hamal.co.il/main/צהל-חושף-כך-חיזבאללה-עוקב-אחר-כוחותינו-בדרום-לבנון-268688
+https://hamal.co.il/main/2-פצועים-בתאונת-דרכים-בבת-ים-בהם-בן-30-במצב-קשה-268689
