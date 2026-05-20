@@ -1,7 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/break/3838763
-https://hamal.co.il/main/מתוך-הלהבות-כלב-חולץ-מבניין-בוער-בג׳סר-א׳-זרקא-268311
-https://hamal.co.il/main/אלפי-מדוזות-כבר-כאן-והנחיל-הענק-מתקרב-המים-מלאים״-268306
+COUNTER:36
 https://hamal.co.il/main/״מאוד-מתגעגעת-אליך״-לוחם-גבעתי-קיבל-הודעה-מרגשת-מאחותו-268313
 https://news.walla.co.il/break/3838777
 https://news.walla.co.il/break/3838780
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839681
 https://news.walla.co.il/item/3839678
 https://news.walla.co.il/item/3839679
 https://hamal.co.il/main/אסון-בבני-ברק-נקבע-מותו-של-הגבר-כבן-50-שנדקר-בבית-כנסת-268713
+https://news.walla.co.il/item/3839688
+https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-של-בלוגרית-האופנה-כלה-268716
+https://hamal.co.il/main/נתניהו-האופן-בו-נהג-בן-גביר-אינו-תואם-לערכי-מדינת-ישראל-268717
