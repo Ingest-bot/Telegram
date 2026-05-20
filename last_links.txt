@@ -1,7 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3838579
-https://hamal.co.il/main/כואב-הלב-ההזמנה-לחתונה-של-לוחם-צה״ל-מעוז-ישראל-רקנטי-זל-268206
-https://news.walla.co.il/break/3838582
+COUNTER:27
 https://news.walla.co.il/item/3838581
 https://hamal.co.il/main/מאות-ישראלים-עם-דגלים-מריעים-לנועם-בתן-עם-ישראל-חי-268212
 https://hamal.co.il/main/פיצוץ-גדול-נשמע-באזור-בית-שמש-דובר-צהל-לא-מכירים-268214
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839479
 https://news.walla.co.il/item/3839476
 https://hamal.co.il/main/לאחר-שהנהג-ניסה-להימלט-שבחים-הסתתרו-בתוך-משאית---ונעצרו-268646
 https://hamal.co.il/main/היורש-של-חמינאי-שישראל-וארהב-סימנו-268647
+https://news.walla.co.il/break/3839487
+https://hamal.co.il/main/בעלי-החיים-שנמצאו-בטמרה-268648
+https://hamal.co.il/main/חוקר-CIA-לשעבר-חושף-ארצות-הברית-מסתירה-4-גזעי-חייזרים-268539
