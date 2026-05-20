@@ -1,8 +1,4 @@
-COUNTER:16
-https://hamal.co.il/main/צה-268344
-https://hamal.co.il/main/הרוצח-השקט-מגיע-לנשים-כבר-בגיל-30-אלה-גורמי-הסיכון-268332
-https://news.walla.co.il/break/3838863
-https://news.walla.co.il/item/3838861
+COUNTER:17
 https://hamal.co.il/main/מספיק-עם-המשחקים-חוק-הגיוס-חייב-לעבור--ינון-מגל-268346
 https://hamal.co.il/main/גבר-הוכש-268347
 https://hamal.co.il/main/בגץ-גופמן-היועמשית-הגישה-תצהיר-חסוי-268348
@@ -499,3 +495,7 @@ https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-
 https://hamal.co.il/main/דיווח-ארהב-הגישה-הצעה-להסכם-דרך-פקיסטן-268768
 https://hamal.co.il/main/לקראת-המונדיאל-רחוב-בארצות-הברית-ייקרא-על-שם-ליאו-מסי-268771
 https://hamal.co.il/main/אירוע-נוסף-של-נפילת-רחפן-נפץ-בדרום-לבנון-לוחמת-במצב-קשה-268772
+https://news.walla.co.il/break/3839757
+https://news.walla.co.il/break/3839756
+https://news.walla.co.il/break/3839758
+https://hamal.co.il/main/כבר-139-מתים-בהתפרצות-האבולה-באפריקה-המספר-צפוי-לעלות-268756
