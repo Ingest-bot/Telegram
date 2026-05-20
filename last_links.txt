@@ -1,8 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/נתניהו-על-איראן-״עינינו-פקוחה-268301
-https://hamal.co.il/main/קרפור-שוברת-את-השוק-המוצר-המבוקש-לשבועות-במחיר-הזול-ביותר-268303
-https://hamal.co.il/main/נתניהו-שוחח-עם-נועם-בתן-״הבאת-הישג-מדהים-כולנו-גאים-בך״-268302
-https://news.walla.co.il/break/3838751
+COUNTER:32
 https://news.walla.co.il/item/3838754
 https://news.walla.co.il/item/3838737
 https://hamal.co.il/main/החל-משנה-הבאה---טלפונים-ניידים-יאסרו-גם-בחטיבות-הביניים-268308
@@ -499,3 +495,7 @@ https://hamal.co.il/main/צהל-תקף-אתר-אמלח-של-חיזבאללה-268
 https://news.walla.co.il/break/3839663
 https://hamal.co.il/main/בעקבות-התיעוד-של-בן-גביר-איטליה-תזמן-את-השגריר-הישראלי-268707
 https://hamal.co.il/main/דיווח-ארהב-מגלה-גמישות-בנושאים-כלכליים-במומ-עם-איראן-268706
+https://news.walla.co.il/break/3839664
+https://news.walla.co.il/break/3839665
+https://hamal.co.il/main/סער-תוקף-את-בן-גביר-268708
+https://hamal.co.il/main/ראשוני-דיווח-על-ניסיון-דריסה-סמוך-לעופרה-268709
