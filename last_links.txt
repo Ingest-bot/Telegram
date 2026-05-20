@@ -1,10 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/רחפן-נפץ-נחת-במטע-ליד-קיבוץ-סאסא-החיים-נמשכים-תחת-איום-מתמ-268190
-https://news.walla.co.il/break/3838559
-https://news.walla.co.il/item/3838554
-https://hamal.co.il/main/פיגוע-הדריסה-והדקירה-באיטליה-מספר-הפצועים-עלה-ל-12-268192
-https://news.walla.co.il/break/3838562
-https://hamal.co.il/main/הותר-לפרסום-סרן-מעוז-ישראל-רקנטי-נפל-בקרב-בדרום-לבנון-268193
+COUNTER:22
 https://news.walla.co.il/item/3838567
 https://hamal.co.il/main/עמד-להתארס-עם-בחירת-ליבו-268194
 https://news.walla.co.il/break/3838570
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3839454
 https://hamal.co.il/main/אחרי-22-שנים-ארסנל-זכתה-באליפות-אנגליה-לכדורגל-268638
 https://news.walla.co.il/break/3839462
 https://hamal.co.il/main/משרד-החוץ-הסתיימה-ההשתלטות-על-המשט-לעזה-268639
+https://news.walla.co.il/break/3839467
+https://news.walla.co.il/break/3839468
+https://news.walla.co.il/break/3839470
+https://hamal.co.il/main/גבר-נפצע-קשה-מירי-268640
+https://hamal.co.il/main/טראמפ-על-איראן-המלחמה-הזאת-תסתיים-מהר-מאוד-268642
+https://hamal.co.il/main/גורם-בבית-הלבן-הנשיא-טראמפ-יגיע-לפסגת-ה-G7-בצרפת-268644
