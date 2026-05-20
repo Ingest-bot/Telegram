@@ -1,6 +1,4 @@
-COUNTER:37
-https://news.walla.co.il/break/3838602
-https://news.walla.co.il/break/3838603
+COUNTER:38
 https://news.walla.co.il/break/3838604
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-במרחב-משגב-עם-הפרטים-בב-268240
 https://news.walla.co.il/break/3838607
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-רעידת-אדמה-268664
 https://news.walla.co.il/item/3839469
 https://hamal.co.il/main/עמית-סגל-עונה-האם-נתניהו-יפרוש-בקרוב-268667
 https://hamal.co.il/main/רופא-עונה-זו-הטעות-הכי-גדולה-שאתם-עושים-בשבועות-268649
+https://news.walla.co.il/break/3839533
+https://hamal.co.il/main/תיעוד-תלמידים-בקש-הסתתרו-מתחת-לשולחנות-בזמן-האזעקות-268668
