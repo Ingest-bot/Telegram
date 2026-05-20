@@ -1,6 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/תיעוד-דרמטי-268352
-https://hamal.co.il/main/אחרי-שנה-וחצי-של-זוגיות-זוג-יוצאי-״האח-הגדול״-נפרדו-268342
+COUNTER:21
 https://news.walla.co.il/break/3838877
 https://hamal.co.il/main/המשט-לעזה-טוען-כלי-שיט-לא-מזוהים-מקיפים-את-המשט-בדרך-לרצועה-268353
 https://news.walla.co.il/break/3838880
@@ -499,3 +497,5 @@ https://hamal.co.il/main/קותי-סבג-זועם-אחרי-זה-בוכים-שק�
 https://hamal.co.il/main/לוחמי-האש-פועלים-בשריפה-במטבח-באולם-אירועים-באשדוד---פונו-14-268773
 https://news.walla.co.il/break/3839770
 https://news.walla.co.il/break/3839769
+https://hamal.co.il/main/גבר-בן-28-במצב-קשה-בהכרה-עם-חבלות-בראש-ובגפיים-דניאל-חובש-268774
+https://hamal.co.il/main/טרגדיה-שחקן-גליל-עליון-ונבחרת-ישראל-רז-אדם-נהרג-בתאונה-אור-268775
