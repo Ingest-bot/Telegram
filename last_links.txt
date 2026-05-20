@@ -1,7 +1,4 @@
-COUNTER:1
-https://news.walla.co.il/break/3838613
-https://hamal.co.il/main/יו-268248
-https://hamal.co.il/main/ליברמן-נתניהו-מפקיר-את-הביטחון-עבור-דיל-אישי-מול-טראמפ-268251
+COUNTER:2
 https://hamal.co.il/main/ראש-ממשלת-בריטניה-קיר-סטארמר-החליט-להתפטר-268252
 https://news.walla.co.il/item/3838619
 https://hamal.co.il/main/פיצוץ-לילי-במפעל-המסווג-האם-מסתירים-מאיתנו-ניסוי-שהשתבש-268255
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839552
 https://news.walla.co.il/item/3839549
 https://news.walla.co.il/item/3839555
 https://hamal.co.il/main/באיראן-מאיימים-אם-נותקף-המלחמה-תתרחב-מחוץ-למזרח-התיכון-268672
+https://news.walla.co.il/item/3839560
+https://news.walla.co.il/break/3839558
+https://hamal.co.il/main/אלונה-ברקת-על-האליפות-268674
