@@ -1,5 +1,4 @@
 COUNTER:2
-https://hamal.co.il/main/ראש-ממשלת-בריטניה-קיר-סטארמר-החליט-להתפטר-268252
 https://news.walla.co.il/item/3838619
 https://hamal.co.il/main/פיצוץ-לילי-במפעל-המסווג-האם-מסתירים-מאיתנו-ניסוי-שהשתבש-268255
 https://news.walla.co.il/break/3838623
@@ -499,3 +498,4 @@ https://hamal.co.il/main/באיראן-מאיימים-אם-נותקף-המלחמ�
 https://news.walla.co.il/item/3839560
 https://news.walla.co.il/break/3839558
 https://hamal.co.il/main/אלונה-ברקת-על-האליפות-268674
+https://news.walla.co.il/item/3839566
