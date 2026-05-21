@@ -1,6 +1,4 @@
-COUNTER:11
-https://news.walla.co.il/item/3838959
-https://hamal.co.il/main/דיווח-פקיסטן-העבירה-268391
+COUNTER:12
 https://news.walla.co.il/break/3838968
 https://news.walla.co.il/break/3838973
 https://hamal.co.il/main/ביצע-מעשים-מגונים-ב-6-תלמידים-אישום-יוגש-נגד-מורה-מהצפון-268393
@@ -499,3 +497,5 @@ https://hamal.co.il/main/דיווח-268810
 https://news.walla.co.il/break/3839838
 https://news.walla.co.il/item/3839839
 https://hamal.co.il/main/צפו-5-שבחים-ישנו-באוהלים-בתוך-יער-בגליל---ונעצרו-268811
+https://news.walla.co.il/break/3839842
+https://hamal.co.il/main/בא-לי-לטעום-כבר-שולחן-שבועות-המטורף-שהשאיר-את-רוסלנה-וטי-268812
