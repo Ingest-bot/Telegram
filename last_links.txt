@@ -1,6 +1,4 @@
-COUNTER:37
-https://hamal.co.il/main/אזעקות-נשמעו-במלכיה-מחשש-לחדירת-כלי-טיס-עוין-268454
-https://hamal.co.il/main/נשיא-הונגריה-מסרב-להתפטר-מדיאר-הוא-בובה-של-המערכת-הכושלת-268448
+COUNTER:38
 https://news.walla.co.il/break/3839083
 https://news.walla.co.il/item/3839078
 https://news.walla.co.il/item/3839079
@@ -499,3 +497,5 @@ https://hamal.co.il/main/לצד-מרחבים-מוגנים-קיבוץ-חניתה-
 https://hamal.co.il/main/יי-268859
 https://news.walla.co.il/break/3839901
 https://news.walla.co.il/break/3839900
+https://news.walla.co.il/break/3839903
+https://hamal.co.il/main/גוגל-ממשיכה-לרצוח-את-הרשת-הפתוחה-268862
