@@ -1,8 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-268387
-https://news.walla.co.il/break/3838944
-https://news.walla.co.il/item/3838937
-https://hamal.co.il/main/צהל-נערך-להשתלט-על-המשט-מטורקיה-268390
+COUNTER:9
 https://news.walla.co.il/break/3838946
 https://news.walla.co.il/break/3838953
 https://news.walla.co.il/item/3838951
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839827
 https://news.walla.co.il/item/3839826
 https://hamal.co.il/main/מוקדם-מהצפוי-כך-איראן-שיקמה-מערך-הטילים-והכטבמים--דיווח-268802
 https://news.walla.co.il/break/3839830
+https://hamal.co.il/main/הולכת-רגל-נפגעה-מרכב-בלוד-מצבה-קשה-268806
+https://hamal.co.il/main/התאונה-הקטלנית-בכביש-7-אהרון-פרץ-ושירה-נעים-268805
+https://hamal.co.il/main/שבועות-268801
+https://hamal.co.il/main/צפו-לוחמי-268807
