@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/break/3838946
-https://news.walla.co.il/break/3838953
+COUNTER:10
 https://news.walla.co.il/item/3838951
 https://hamal.co.il/main/שמו-לב-ואז-גילו-את-האמת-המטרידה-268374
 https://news.walla.co.il/item/3838954
@@ -499,3 +497,5 @@ https://hamal.co.il/main/הולכת-רגל-נפגעה-מרכב-בלוד-מצבה
 https://hamal.co.il/main/התאונה-הקטלנית-בכביש-7-אהרון-פרץ-ושירה-נעים-268805
 https://hamal.co.il/main/שבועות-268801
 https://hamal.co.il/main/צפו-לוחמי-268807
+https://news.walla.co.il/item/3839836
+https://hamal.co.il/main/דיווח-268810
