@@ -1,7 +1,4 @@
 COUNTER:30
-https://news.walla.co.il/item/3839038
-https://hamal.co.il/main/תיעוד-דרמטי-סירה-עלתה-באש-בכנרת-נוסעיו-חולצו-268434
-https://hamal.co.il/main/הכי-גבוה-מאז-2024-הפרס-בדאבל-לוטו-מזנק-לסכום-אסטרונומי-268401
 https://hamal.co.il/main/צהל-חיסלנו-268435
 https://hamal.co.il/main/מבלי-שהופעלו-התרעות-רחפן-נפץ-התפוצץ-בגליל-268436
 https://news.walla.co.il/break/3839045
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839881
 https://news.walla.co.il/break/3839883
 https://hamal.co.il/main/שר-החוץ-האמריקני-יש-סימנים-טובים-בנוגע-להסכם-268842
 https://hamal.co.il/main/לייטר-״אני-מגנה-בחריפות-את-המתקפה-של-השרה-מאי-גולן-268843
+https://news.walla.co.il/item/3839883
+https://news.walla.co.il/break/3839886
+https://news.walla.co.il/item/3839885
