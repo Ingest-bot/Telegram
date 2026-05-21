@@ -1,7 +1,4 @@
-COUNTER:10
-https://news.walla.co.il/item/3838951
-https://hamal.co.il/main/שמו-לב-ואז-גילו-את-האמת-המטרידה-268374
-https://news.walla.co.il/item/3838954
+COUNTER:11
 https://news.walla.co.il/item/3838959
 https://hamal.co.il/main/דיווח-פקיסטן-העבירה-268391
 https://news.walla.co.il/break/3838968
@@ -499,3 +496,6 @@ https://hamal.co.il/main/שבועות-268801
 https://hamal.co.il/main/צפו-לוחמי-268807
 https://news.walla.co.il/item/3839836
 https://hamal.co.il/main/דיווח-268810
+https://news.walla.co.il/break/3839838
+https://news.walla.co.il/item/3839839
+https://hamal.co.il/main/צפו-5-שבחים-ישנו-באוהלים-בתוך-יער-בגליל---ונעצרו-268811
