@@ -1,7 +1,4 @@
-COUNTER:4
-https://hamal.co.il/main/עמדת-שירות-מבוססת-בינה-מלאכותית-268386
-https://news.walla.co.il/break/3838933
-https://news.walla.co.il/break/3838935
+COUNTER:5
 https://news.walla.co.il/item/3838936
 https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-268387
 https://news.walla.co.il/break/3838944
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839825
 https://hamal.co.il/main/המתפש-לאום-268797
 https://hamal.co.il/main/סוכל-ניסיון-הברחת-אמלח-בגבול-ירדן-26-אקדחים-נתפסו-268798
 https://hamal.co.il/main/אחרי-שנפצעו-בלבנון-מחט-401-ולוחמת-התיעוד-שבו-להכרה-268799
+https://news.walla.co.il/break/3839827
+https://news.walla.co.il/item/3839826
+https://hamal.co.il/main/מוקדם-מהצפוי-כך-איראן-שיקמה-מערך-הטילים-והכטבמים--דיווח-268802
