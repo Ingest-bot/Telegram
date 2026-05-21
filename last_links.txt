@@ -1,8 +1,4 @@
-COUNTER:28
-https://hamal.co.il/main/כחלק-מהסכם-ההגנה-פקיסטן-פרסה-כוח-צבאי-בסעודיה--דיווח-268425
-https://hamal.co.il/main/הלוחם-שחילץ-פצועים-סירב-להשתחרר-והלך-לעולמו-בנסיבות-טרגיות-268430
-https://news.walla.co.il/break/3839042
-https://news.walla.co.il/break/3839043
+COUNTER:30
 https://news.walla.co.il/item/3839038
 https://hamal.co.il/main/תיעוד-דרמטי-סירה-עלתה-באש-בכנרת-נוסעיו-חולצו-268434
 https://hamal.co.il/main/הכי-גבוה-מאז-2024-הפרס-בדאבל-לוטו-מזנק-לסכום-אסטרונומי-268401
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839877
 https://hamal.co.il/main/האתר-הפופולארי-זועק-זה-הסיפור-של-ענף-התיירות-כולו-בצפון-268839
 https://news.walla.co.il/break/3839878
 https://hamal.co.il/main/תל-אביב-בת-7-נפלה-מקומה-רביעית-מצבה-קשה-268840
+https://news.walla.co.il/break/3839881
+https://news.walla.co.il/break/3839883
+https://hamal.co.il/main/שר-החוץ-האמריקני-יש-סימנים-טובים-בנוגע-להסכם-268842
+https://hamal.co.il/main/לייטר-״אני-מגנה-בחריפות-את-המתקפה-של-השרה-מאי-גולן-268843
