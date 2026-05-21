@@ -1,8 +1,4 @@
-COUNTER:19
-https://hamal.co.il/main/התמונות-מהחתונה-עוררו-גיחוך---ואז-נחשף-הגיל-הלא-ייאמן-של-החת-268384
-https://news.walla.co.il/item/3839008
-https://hamal.co.il/main/המאבק-הצליח-הדיון-על-הכרה-בחיילים-שהתאבדו-מגיע-לבג״ץ-268404
-https://hamal.co.il/main/תיעוד-מטוס-קרב-אמריקני-ממלא-דלק-מעל-המזרח-התיכון-268405
+COUNTER:21
 https://hamal.co.il/main/שיא-מטורף-מדוע-האישה-הזו-נעצרה-17-פעמים-מתחילת-השנה-268382
 https://hamal.co.il/main/סיום-המלחמה-טהרן-מסרה-הצעה-חדשה-לאמריקנים-268406
 https://news.walla.co.il/break/3839012
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839857
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-זוהתה-מטרה-חשודה-האירוע-הסתיים-268820
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-שטח-באום-אל-פאחם-מצבו-קשה-268821
 https://news.walla.co.il/break/3839861
+https://news.walla.co.il/break/3839864
+https://news.walla.co.il/item/3839862
+https://hamal.co.il/main/איטליה-לאיחוד-האירופי-הטילו-סנקציות-על-בן-גביר-268824
+https://hamal.co.il/main/דיווח-268823
