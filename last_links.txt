@@ -1,7 +1,4 @@
-COUNTER:25
-https://hamal.co.il/main/הירי-בראש-268407
-https://news.walla.co.il/item/3839012
-https://hamal.co.il/main/4-שבחים-268415
+COUNTER:26
 https://hamal.co.il/main/בגץ-ליועמשית-העבירי-את-התצהיר-הסודי-לראש-הממשלה-268421
 https://hamal.co.il/main/טוב-כמו-ספורט-הפעילות-התרבותית-שמאריכה-חיים-268392
 https://hamal.co.il/main/לאחר-שנה-וחודשיים-268422
@@ -499,3 +496,6 @@ https://hamal.co.il/main/דיאטטית-ועשירה-בחלבון-עוגת-גב�
 https://hamal.co.il/main/משרד-החוץ-כל-הפעילים-הזרים-ממשט-יחסי-הציבור-גורשו-מישראל-268827
 https://hamal.co.il/main/רהט-בת-21-נפצעה-בתאונת-דרכים-באורח-בינוני-268828
 https://hamal.co.il/main/נמשיך-לשמור-ולהגן-עליכם-לוחמי-גדוד-ברדלס-מאחלים-חג-שמח-268831
+https://news.walla.co.il/break/3839875
+https://news.walla.co.il/break/3839873
+https://hamal.co.il/main/דניאל-פרץ-צפוי-לשוב-לבאיירן-מינכן-בעקבות-הדחת-סאותהמפטון-268835
