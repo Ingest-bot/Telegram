@@ -1,5 +1,4 @@
-COUNTER:39
-https://hamal.co.il/main/חיל-האוויר-יירט-שלוש-מטרות-אוויריות-חשודות-שזוהו-במרחב-בו-פו-268458
+COUNTER:0
 https://hamal.co.il/main/ההתרעות-נראות-אחרת-פיקוד-העורף-השיק-עדכון-חדש-לאפליקציה-268461
 https://hamal.co.il/main/כוחות-חטיבה-769-השמידו-תשתיות-טרור-ואיתרו-אמצעי-לחימה-כוחות-268463
 https://news.walla.co.il/break/3839089
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839913
 https://hamal.co.il/main/כביש-6-3-נפצעו-בתאונת-דרכים-בהם-צעירה-בת-20-במצב-קשה-268868
 https://news.walla.co.il/break/3839919
 https://news.walla.co.il/break/3839923
+https://hamal.co.il/main/דיווח-איראני-חילופי-מסרים-בין-איראן-לארהב-נמשכים-268870
