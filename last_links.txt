@@ -1,6 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/item/3838900
-https://hamal.co.il/main/פיקוד-העורף-בדיקת-צופרים-תתקיים-היום-בבקעת-הירדן-268368
+COUNTER:36
 https://hamal.co.il/main/פיתו-את-הקורבן-תקפו-ושדדו-את-רכושו-אישום-נגד-4-תושבי-הצפון-268369
 https://hamal.co.il/main/הכלה-מהעונה-החדשה-של-חתונה-ממבט-ראשון---בהיריון-268370
 https://hamal.co.il/main/מטעמים-ביטחוניים-ומדיניים-עדותו-של-נתניהו-נדחתה-268371
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839791
 https://news.walla.co.il/item/3839790
 https://news.walla.co.il/item/3839794
 https://hamal.co.il/main/לפני-הקפיצה-הגדולה-בקריירה-על-הטרגדיה-של-רז-אדם-זל-268793
+https://news.walla.co.il/break/3839798
+https://hamal.co.il/main/השיחה-מתוחה-בין-טראמפ-לנתניהו-על-המשך-המלחמה-באיראן--דיווח-268794
