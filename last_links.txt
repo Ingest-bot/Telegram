@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/בגץ-ליועמשית-העבירי-את-התצהיר-הסודי-לראש-הממשלה-268421
-https://hamal.co.il/main/טוב-כמו-ספורט-הפעילות-התרבותית-שמאריכה-חיים-268392
-https://hamal.co.il/main/לאחר-שנה-וחודשיים-268422
+COUNTER:27
 https://hamal.co.il/main/נתניהו-צפה-בהתשלטות-על-המשט-268423
 https://news.walla.co.il/break/3839034
 https://hamal.co.il/main/כחלק-מהסכם-ההגנה-פקיסטן-פרסה-כוח-צבאי-בסעודיה--דיווח-268425
@@ -499,3 +496,6 @@ https://hamal.co.il/main/נמשיך-לשמור-ולהגן-עליכם-לוחמי-
 https://news.walla.co.il/break/3839875
 https://news.walla.co.il/break/3839873
 https://hamal.co.il/main/דניאל-פרץ-צפוי-לשוב-לבאיירן-מינכן-בעקבות-הדחת-סאותהמפטון-268835
+https://news.walla.co.il/break/3839876
+https://news.walla.co.il/break/3839877
+https://hamal.co.il/main/האתר-הפופולארי-זועק-זה-הסיפור-של-ענף-התיירות-כולו-בצפון-268839
