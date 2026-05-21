@@ -1,10 +1,4 @@
-COUNTER:31
-https://hamal.co.il/main/מבלי-שהופעלו-התרעות-רחפן-נפץ-התפוצץ-בגליל-268436
-https://news.walla.co.il/break/3839045
-https://hamal.co.il/main/צהל-הופעלו-268439
-https://hamal.co.il/main/בית-שמש-פעוט-נפל-מגובה-בביתו-מצבו-בינוני-268440
-https://news.walla.co.il/break/3839062
-https://news.walla.co.il/break/3839064
+COUNTER:34
 https://hamal.co.il/main/זוהו-מספר-שיגורים-לעבר-כוחות-צהל-הפועלים-במרחב-דרום-לבנון-268441
 https://hamal.co.il/main/עם-פער-של-33-שנה-עמוס-לוזון-בזוגיות-חדשה-268433
 https://hamal.co.il/main/לשכת-בנט-איזנקוט-ובנט-נפגשו-אמש-268449
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3839883
 https://news.walla.co.il/break/3839886
 https://news.walla.co.il/item/3839885
 https://hamal.co.il/main/טראמפ-נשיג-את-האורניום-המועשר---ונשמיד-אותו-כשנקבל-אותו-268846
+https://news.walla.co.il/break/3839888
+https://news.walla.co.il/break/3839890
+https://news.walla.co.il/break/3839891
+https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-בקריית-שמונה-ובמנרה-268850
+https://hamal.co.il/main/מאי-גולן-268851
+https://hamal.co.il/main/אסון-בערב-החג-נקבע-מותה-של-בת-ה-7-שנפלה-מקומה-רביעית-בתא-268853
