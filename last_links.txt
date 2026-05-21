@@ -1,5 +1,4 @@
-COUNTER:30
-https://hamal.co.il/main/צהל-חיסלנו-268435
+COUNTER:31
 https://hamal.co.il/main/מבלי-שהופעלו-התרעות-רחפן-נפץ-התפוצץ-בגליל-268436
 https://news.walla.co.il/break/3839045
 https://hamal.co.il/main/צהל-הופעלו-268439
@@ -499,3 +498,4 @@ https://hamal.co.il/main/לייטר-״אני-מגנה-בחריפות-את-המת
 https://news.walla.co.il/item/3839883
 https://news.walla.co.il/break/3839886
 https://news.walla.co.il/item/3839885
+https://hamal.co.il/main/טראמפ-נשיג-את-האורניום-המועשר---ונשמיד-אותו-כשנקבל-אותו-268846
