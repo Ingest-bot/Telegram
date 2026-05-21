@@ -1,8 +1,4 @@
-COUNTER:34
-https://news.walla.co.il/item/3838902
-https://news.walla.co.il/item/3838904
-https://news.walla.co.il/break/3838906
-https://news.walla.co.il/break/3838908
+COUNTER:35
 https://news.walla.co.il/item/3838900
 https://hamal.co.il/main/פיקוד-העורף-בדיקת-צופרים-תתקיים-היום-בבקעת-הירדן-268368
 https://hamal.co.il/main/פיתו-את-הקורבן-תקפו-ושדדו-את-רכושו-אישום-נגד-4-תושבי-הצפון-268369
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3839789
 https://news.walla.co.il/break/3839790
 https://hamal.co.il/main/מסתערבים-פשטו-268790
 https://hamal.co.il/main/חשד-לרצח-בלוד-268791
+https://news.walla.co.il/break/3839791
+https://news.walla.co.il/item/3839790
+https://news.walla.co.il/item/3839794
+https://hamal.co.il/main/לפני-הקפיצה-הגדולה-בקריירה-על-הטרגדיה-של-רז-אדם-זל-268793
