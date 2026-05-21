@@ -1,5 +1,4 @@
 COUNTER:5
-https://news.walla.co.il/item/3838936
 https://hamal.co.il/main/תיעוד-צלף-של-חמאס-חוסל-ברצועה-268387
 https://news.walla.co.il/break/3838944
 https://news.walla.co.il/item/3838937
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אחרי-שנפצעו-בלבנון-מחט-401-ולוח�
 https://news.walla.co.il/break/3839827
 https://news.walla.co.il/item/3839826
 https://hamal.co.il/main/מוקדם-מהצפוי-כך-איראן-שיקמה-מערך-הטילים-והכטבמים--דיווח-268802
+https://news.walla.co.il/break/3839830
