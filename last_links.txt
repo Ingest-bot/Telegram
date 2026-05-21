@@ -1,5 +1,4 @@
-COUNTER:21
-https://hamal.co.il/main/שיא-מטורף-מדוע-האישה-הזו-נעצרה-17-פעמים-מתחילת-השנה-268382
+COUNTER:22
 https://hamal.co.il/main/סיום-המלחמה-טהרן-מסרה-הצעה-חדשה-לאמריקנים-268406
 https://news.walla.co.il/break/3839012
 https://news.walla.co.il/break/3839015
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839864
 https://news.walla.co.il/item/3839862
 https://hamal.co.il/main/איטליה-לאיחוד-האירופי-הטילו-סנקציות-על-בן-גביר-268824
 https://hamal.co.il/main/דיווח-268823
+https://hamal.co.il/main/דיאטטית-ועשירה-בחלבון-עוגת-גבינה-קלאסית-לשבועות-268813
