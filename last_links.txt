@@ -1,8 +1,4 @@
-COUNTER:32
-https://hamal.co.il/main/אחרי-חיסול-אל־חדאד-מי-יירש-את-הנהגת-חמאס---ואיך-זה-ישפיע-על-268366
-https://news.walla.co.il/break/3838899
-https://hamal.co.il/main/מזג-אוויר-שרבי-עם-אובך-קל-הטמפרטורות-החזויות-בירושלים-31-עד-268367
-https://news.walla.co.il/break/3838901
+COUNTER:34
 https://news.walla.co.il/item/3838902
 https://news.walla.co.il/item/3838904
 https://news.walla.co.il/break/3838906
@@ -499,3 +495,7 @@ https://hamal.co.il/main/בכירת-האום-פרנצסקה-אלבנזה-הוס�
 https://hamal.co.il/main/דיווח-משרד-החוץ-האיראני-הודיע-כי-הוא-בוחן-את-עמדות-ארצות-הב-268788
 https://news.walla.co.il/break/3839785
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגילמעונן-חלקית-וינשבו-רוחות-ערות-גשם-מקומי-268789
+https://news.walla.co.il/break/3839789
+https://news.walla.co.il/break/3839790
+https://hamal.co.il/main/מסתערבים-פשטו-268790
+https://hamal.co.il/main/חשד-לרצח-בלוד-268791
