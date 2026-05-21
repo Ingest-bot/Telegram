@@ -1,5 +1,4 @@
-COUNTER:24
-https://news.walla.co.il/break/3839015
+COUNTER:25
 https://hamal.co.il/main/הירי-בראש-268407
 https://news.walla.co.il/item/3839012
 https://hamal.co.il/main/4-שבחים-268415
@@ -499,3 +498,4 @@ https://hamal.co.il/main/דיווח-268823
 https://hamal.co.il/main/דיאטטית-ועשירה-בחלבון-עוגת-גבינה-קלאסית-לשבועות-268813
 https://hamal.co.il/main/משרד-החוץ-כל-הפעילים-הזרים-ממשט-יחסי-הציבור-גורשו-מישראל-268827
 https://hamal.co.il/main/רהט-בת-21-נפצעה-בתאונת-דרכים-באורח-בינוני-268828
+https://hamal.co.il/main/נמשיך-לשמור-ולהגן-עליכם-לוחמי-גדוד-ברדלס-מאחלים-חג-שמח-268831
