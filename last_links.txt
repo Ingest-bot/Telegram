@@ -1,5 +1,4 @@
 COUNTER:19
-https://news.walla.co.il/break/3838991
 https://hamal.co.il/main/התמונות-מהחתונה-עוררו-גיחוך---ואז-נחשף-הגיל-הלא-ייאמן-של-החת-268384
 https://news.walla.co.il/item/3839008
 https://hamal.co.il/main/המאבק-הצליח-הדיון-על-הכרה-בחיילים-שהתאבדו-מגיע-לבג״ץ-268404
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839852
 https://news.walla.co.il/break/3839857
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-זוהתה-מטרה-חשודה-האירוע-הסתיים-268820
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-שטח-באום-אל-פאחם-מצבו-קשה-268821
+https://news.walla.co.il/break/3839861
