@@ -1,5 +1,4 @@
 COUNTER:39
-https://news.walla.co.il/item/3839079
 https://hamal.co.il/main/דיווח-מאיראן-ארהב-מוכנה-להקפיא-את-הסנקציות-במהלך-המומ-גיא-268457
 https://hamal.co.il/main/חיל-האוויר-יירט-שלוש-מטרות-אוויריות-חשודות-שזוהו-במרחב-בו-פו-268458
 https://hamal.co.il/main/ההתרעות-נראות-אחרת-פיקוד-העורף-השיק-עדכון-חדש-לאפליקציה-268461
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839903
 https://hamal.co.il/main/גוגל-ממשיכה-לרצוח-את-הרשת-הפתוחה-268862
 https://news.walla.co.il/break/3839913
 https://hamal.co.il/main/כביש-6-3-נפצעו-בתאונת-דרכים-בהם-צעירה-בת-20-במצב-קשה-268868
+https://news.walla.co.il/break/3839919
