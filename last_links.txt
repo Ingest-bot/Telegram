@@ -1,6 +1,4 @@
-COUNTER:16
-https://news.walla.co.il/item/3838976
-https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268395
+COUNTER:17
 https://hamal.co.il/main/רופא-מזהיר-לעולם-אל-תיקחו-את-התוסף-הזה-עם-קפה-או-תה-268375
 https://news.walla.co.il/break/3838984
 https://news.walla.co.il/item/3838980
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3839846
 https://hamal.co.il/main/הרצח-בבני-ברק-268809
 https://hamal.co.il/main/יחידה-חדשה-הוקמה-בצהל-תנגיש-יכולות-AI-ללוחמים-268815
 https://hamal.co.il/main/לקראת-החג-אלו-מסלולי-הטיולים-בדרום-268817
+https://news.walla.co.il/item/3839850
+https://hamal.co.il/main/דיווח-מוגתבא-חמינאי-הורה---אין-להוציא-את-האורניום-מאיראן-268819
