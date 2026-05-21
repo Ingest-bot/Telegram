@@ -1,5 +1,4 @@
-COUNTER:35
-https://news.walla.co.il/break/3839071
+COUNTER:36
 https://hamal.co.il/main/המאכל-מספר-1-להורדת-כולסטרול-הפתרון-שמסתתר-בארון-המטבח-מערכ-268451
 https://news.walla.co.il/break/3839076
 https://news.walla.co.il/break/3839078
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אסון-בערב-החג-נקבע-מותה-של-בת-ה
 https://news.walla.co.il/break/3839892
 https://news.walla.co.il/item/3839890
 https://hamal.co.il/main/ההתרעות-בקריית-שמונה-ומנרה-זיהוי-שווא-268855
+https://hamal.co.il/main/לצד-מרחבים-מוגנים-קיבוץ-חניתה-בקו-העימות-חוגג-שבועות-268857
