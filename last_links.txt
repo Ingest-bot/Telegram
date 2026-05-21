@@ -1,6 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/במהלך-היממה-האחרונה-מעל-30-תשתיות-של-חיזבאללה-הושמדו-268376
-https://hamal.co.il/main/משרד-הביטחון-תרגיל-יתקיים-היום-במעבר-גלבוע-268379
+COUNTER:1
 https://hamal.co.il/main/זייפו-אישורי-שהייה-3-שבחים-ונהג-מונית-נעצרו-בצפון-268380
 https://hamal.co.il/main/תיעוד-עקף-בקו-הפרדה-רצוף---ונעצר-268381
 https://news.walla.co.il/item/3838889
@@ -499,3 +497,5 @@ https://hamal.co.il/main/לפני-הקפיצה-הגדולה-בקריירה-על-
 https://news.walla.co.il/item/3839807
 https://news.walla.co.il/item/3839766
 https://hamal.co.il/main/מפחיתים-סרטן-ומאריכים-חיים-אלה-הירקות-שאתם-חייבים-להכניס-לצ-268676
+https://news.walla.co.il/item/3839812
+https://hamal.co.il/main/יוצאת-האח-הגדול-מגיבה-לפרידה-268682
