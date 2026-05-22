@@ -1,5 +1,4 @@
-COUNTER:3
-https://hamal.co.il/main/כבר-לא-מסתתרים-קנדל-גנר-וגייקוב-אלורדי-צמודים-ספיר-סויסה-268470
+COUNTER:4
 https://news.walla.co.il/item/3839097
 https://hamal.co.il/main/דיווח-נבחר-ראש-הזרוע-הצבאית-החדש-של-חמאס-ברצועת-עזה-גיא-אלס-268474
 https://hamal.co.il/main/אפקט-מטורף-המתיחות-מול-איראן-ריסקה-את-המטבע-הפופולרי-268469
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839930
 https://news.walla.co.il/item/3839931
 https://news.walla.co.il/break/3839932
 https://news.walla.co.il/break/3839934
+https://hamal.co.il/main/מזג-אוויר-הפכפך-התחממות-קלה-בסוף-השבוע---ירידה-נוספת-בראשון-268880
