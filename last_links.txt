@@ -1,6 +1,4 @@
-COUNTER:17
-https://news.walla.co.il/break/3839156
-https://news.walla.co.il/break/3839153
+COUNTER:19
 https://news.walla.co.il/item/3839126
 https://hamal.co.il/main/תרגיל-משותף-של-צהל-ומשטרת-ישראל-יחל-מחר-במרחב-העיר-אילת-ב-268496
 https://news.walla.co.il/break/3839161
@@ -499,3 +497,5 @@ https://hamal.co.il/main/מסר-מרגיע-לאירופה-טראמפ-ישלח-50
 https://news.walla.co.il/break/3840014
 https://news.walla.co.il/break/3840015
 https://news.walla.co.il/item/3840016
+https://hamal.co.il/main/גבר-בן-20-נהרג-בתאונת-דרכים-סמוך-לטבריה-268920
+https://hamal.co.il/main/דיווח-268921
