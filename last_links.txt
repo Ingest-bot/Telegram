@@ -1,7 +1,4 @@
-COUNTER:10
-https://hamal.co.il/main/4-נפגעים-בתאונת-האוטובוס-נהג-האוטובוס-לכוד-במצב-בינוני-268484
-https://hamal.co.il/main/עלה-ל-5-מספר-הפצועים-בתאונה-שניים-במצב-קשה-268485
-https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-בדקות-אלה-בחילוץ-לכודים-בתאונת-דרכ-268486
+COUNTER:11
 https://news.walla.co.il/break/3839134
 https://hamal.co.il/main/נערה-בת-15-במצב-אנוש-ו2-פצועים-נוספים-במצב-קשה-268487
 https://hamal.co.il/main/תיעוד-מזירת-קריסת-העץ-על-האוטובוס-ברחוב-דיזינגוף-בתל-אביב-268489
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839990
 https://news.walla.co.il/break/3839992
 https://news.walla.co.il/break/3839996
 https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהו-מספר-נפילות-בסמוך-לגבול-268902
+https://news.walla.co.il/break/3839999
+https://news.walla.co.il/break/3840000
+https://hamal.co.il/main/בדרך-להסכם-משלחת-קטארית-יצאה-לאיראן-268903
