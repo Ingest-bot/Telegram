@@ -1,5 +1,4 @@
 COUNTER:14
-https://news.walla.co.il/break/3839141
 https://news.walla.co.il/item/3839125
 https://news.walla.co.il/item/3839144
 https://hamal.co.il/main/יותר-משנתיים-אחרי-שנעלמה-כיווני-חקירה-חדשים-בפרשת-היימנוט-ק-268493
@@ -499,3 +498,4 @@ https://hamal.co.il/main/אישה-בת-51-נהרגה-בתאונת-דרכים-ב�
 https://news.walla.co.il/break/3840004
 https://news.walla.co.il/item/3839995
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-268911
+https://news.walla.co.il/break/3840006
