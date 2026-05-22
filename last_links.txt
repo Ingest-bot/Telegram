@@ -1,7 +1,4 @@
-COUNTER:22
-https://news.walla.co.il/break/3839178
-https://hamal.co.il/main/יתייחס-לנושא-האיראני-טראמפ-צפוי-לנאום-בכנס-בבית-הלבן-268503
-https://news.walla.co.il/break/3839179
+COUNTER:24
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-ממשאית-סמוך-לצומת-ניר-צבי-מצבו-קשה-268504
 https://hamal.co.il/main/הוא-חוזר-ניימאר-בסגל-נבחרת-ברזיל-למונדיאל-2026-268506
 https://hamal.co.il/main/טראמפ-״ביקשו-ממני-לדחות-את-התקיפה-לזמן-קצר-268507
@@ -499,3 +496,6 @@ https://hamal.co.il/main/ראש-המודיעין-הלאומי-של-ארה״ב-ט
 https://hamal.co.il/main/המשטרה-פתחה-בחקירת-האירוע-הטרגי-בשפלה-268929
 https://news.walla.co.il/break/3840024
 https://news.walla.co.il/item/3840022
+https://news.walla.co.il/item/3840027
+https://hamal.co.il/main/ב-נקבע-מותה-של-טליה-חיה-טימסית-בת-ה-11-שנפגעה-בתאונת-האוטוב-268930
+https://hamal.co.il/main/בצל-המתיחות-עם-איראן---טראמפ-ייעדר-מחתונת-בנו-268933
