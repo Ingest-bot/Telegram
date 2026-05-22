@@ -1,5 +1,4 @@
 COUNTER:9
-https://hamal.co.il/main/דיווח-פקיסטן-שלחה-אלפי-חיילים-ומטוסי-קרב-לסעודיה-בזמן-המלחמ-268482
 https://news.walla.co.il/item/3839130
 https://news.walla.co.il/item/3839131
 https://hamal.co.il/main/תל-אביב-אוטובוס-פגע-בעץ-במקום-הרוג-ו2-לכודים-268483
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839979
 https://news.walla.co.il/break/3839984
 https://news.walla.co.il/item/3839966
 https://news.walla.co.il/break/3839988
+https://news.walla.co.il/break/3839990
