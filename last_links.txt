@@ -1,5 +1,4 @@
 COUNTER:6
-https://hamal.co.il/main/המחירים-זינקו-כמה-שילם-כל-אמריקאי-בגלל-המלחמה-עם-איראן-268398
 https://news.walla.co.il/break/3839111
 https://news.walla.co.il/break/3839113
 https://news.walla.co.il/item/3839096
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839936
 https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-יעדי-חיזבאללה-בדרום-לבנון-הדי-פיצוצים-ב-268883
 https://news.walla.co.il/break/3839942
 https://news.walla.co.il/item/3839944
+https://news.walla.co.il/break/3839948
