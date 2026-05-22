@@ -1,5 +1,4 @@
 COUNTER:9
-https://news.walla.co.il/break/3839124
 https://news.walla.co.il/item/3839121
 https://hamal.co.il/main/דיווח-פקיסטן-שלחה-אלפי-חיילים-ומטוסי-קרב-לסעודיה-בזמן-המלחמ-268482
 https://news.walla.co.il/item/3839130
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3839975
 https://hamal.co.il/main/כוחותינו-זיהו-מחבלים-נכנסים-למפקדה-של-הארגון-וחיסלו-אותם-268896
 https://news.walla.co.il/break/3839979
 https://news.walla.co.il/break/3839984
+https://news.walla.co.il/item/3839966
