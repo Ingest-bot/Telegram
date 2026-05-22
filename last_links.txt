@@ -1,7 +1,4 @@
-COUNTER:20
-https://news.walla.co.il/item/3839164
-https://hamal.co.il/main/איתמר-בן-גביר-״אני-לא-מפחד-ולא-נרתע-שום-צו-בהאג-לא-ירתיע-268499
-https://hamal.co.il/main/ירי-במסגד-בסן-דייגו-לפחות-שני-הרוגים-ומספר-פצועים-בזירה-268500
+COUNTER:22
 https://hamal.co.il/main/אמריקן-איירליינס-לא-תחדש-את-טיסותיה-לישראל-עד-2027-מערכת-ווא-268501
 https://hamal.co.il/main/מגבילים-אתכם-עם-סוללות-ניידות-בטיסה-הנה-הפתרון-ניב-ליליאן-268502
 https://news.walla.co.il/break/3839178
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840019
 https://news.walla.co.il/break/3840020
 https://news.walla.co.il/item/3840021
 https://hamal.co.il/main/גבר-ואישה-אותרו-ללא-רוח-חיים-בשפלה-268926
+https://news.walla.co.il/break/3840022
+https://hamal.co.il/main/ראש-המודיעין-הלאומי-של-ארה״ב-טולסי-גבארד-מתפטרת-268928
+https://hamal.co.il/main/המשטרה-פתחה-בחקירת-האירוע-הטרגי-בשפלה-268929
