@@ -1,6 +1,4 @@
-COUNTER:9
-https://news.walla.co.il/item/3839131
-https://hamal.co.il/main/תל-אביב-אוטובוס-פגע-בעץ-במקום-הרוג-ו2-לכודים-268483
+COUNTER:10
 https://hamal.co.il/main/4-נפגעים-בתאונת-האוטובוס-נהג-האוטובוס-לכוד-במצב-בינוני-268484
 https://hamal.co.il/main/עלה-ל-5-מספר-הפצועים-בתאונה-שניים-במצב-קשה-268485
 https://hamal.co.il/main/צוותי-כיבוי-והצלה-פועלים-בדקות-אלה-בחילוץ-לכודים-בתאונת-דרכ-268486
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3839966
 https://news.walla.co.il/break/3839988
 https://news.walla.co.il/break/3839990
 https://news.walla.co.il/break/3839992
+https://news.walla.co.il/break/3839996
+https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהו-מספר-נפילות-בסמוך-לגבול-268902
