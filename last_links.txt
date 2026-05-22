@@ -1,7 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/item/3839193
-https://news.walla.co.il/item/3839191
-https://news.walla.co.il/item/3839188
 https://hamal.co.il/main/צהל-פרסם-אזהרת-פינוי-בדרום-לבנון-עקב-הפרת-הפסקת-האש-268508
 https://hamal.co.il/main/ארהב-גוגל-ובלקסטון-יקימו-חברת-ענן-משותפת-לבינה-מלאכותית-268509
 https://hamal.co.il/main/רוסיה-יורט-כטבמ-שהיה-בדרכו-למוסקבה-268510
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840039
 https://news.walla.co.il/break/3840041
 https://news.walla.co.il/break/3840043
 https://news.walla.co.il/item/3840045
+https://news.walla.co.il/break/3840048
+https://news.walla.co.il/break/3840047
+https://news.walla.co.il/item/3840046
