@@ -1,5 +1,4 @@
 COUNTER:7
-https://news.walla.co.il/item/3839096
 https://hamal.co.il/main/סוכלה-הברחת-ענק-מירדן-דרך-גשר-אלנבי-268478
 https://hamal.co.il/main/פנחסוב-עלה-עירום-לבמה-הרבה-זמן-לא-ראיתי-טירוף-כזה-בקהל-268413
 https://hamal.co.il/main/תיאוריה-מטלטלת-על-הפירמידה-הגדולה-מה-מטרתה-האמיתית-268385
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839944
 https://news.walla.co.il/break/3839948
 https://news.walla.co.il/item/3839953
 https://hamal.co.il/main/וחג-שבועות-תעשו-לכם-כל-האטרקציות-והאירועים-המומלצים-268893
+https://news.walla.co.il/break/3839955
