@@ -1,6 +1,4 @@
 COUNTER:22
-https://hamal.co.il/main/אמריקן-איירליינס-לא-תחדש-את-טיסותיה-לישראל-עד-2027-מערכת-ווא-268501
-https://hamal.co.il/main/מגבילים-אתכם-עם-סוללות-ניידות-בטיסה-הנה-הפתרון-ניב-ליליאן-268502
 https://news.walla.co.il/break/3839178
 https://hamal.co.il/main/יתייחס-לנושא-האיראני-טראמפ-צפוי-לנאום-בכנס-בבית-הלבן-268503
 https://news.walla.co.il/break/3839179
@@ -499,3 +497,5 @@ https://hamal.co.il/main/גבר-ואישה-אותרו-ללא-רוח-חיים-ב�
 https://news.walla.co.il/break/3840022
 https://hamal.co.il/main/ראש-המודיעין-הלאומי-של-ארה״ב-טולסי-גבארד-מתפטרת-268928
 https://hamal.co.il/main/המשטרה-פתחה-בחקירת-האירוע-הטרגי-בשפלה-268929
+https://news.walla.co.il/break/3840024
+https://news.walla.co.il/item/3840022
