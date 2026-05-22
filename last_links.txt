@@ -1,5 +1,4 @@
-COUNTER:4
-https://news.walla.co.il/item/3839097
+COUNTER:5
 https://hamal.co.il/main/דיווח-נבחר-ראש-הזרוע-הצבאית-החדש-של-חמאס-ברצועת-עזה-גיא-אלס-268474
 https://hamal.co.il/main/אפקט-מטורף-המתיחות-מול-איראן-ריסקה-את-המטבע-הפופולרי-268469
 https://news.walla.co.il/break/3839102
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3839931
 https://news.walla.co.il/break/3839932
 https://news.walla.co.il/break/3839934
 https://hamal.co.il/main/מזג-אוויר-הפכפך-התחממות-קלה-בסוף-השבוע---ירידה-נוספת-בראשון-268880
+https://hamal.co.il/main/האזעקות-בראש-הנקרה-האירוע-הסתיים-ללא-נפגעים-268881
