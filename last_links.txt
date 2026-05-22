@@ -1,5 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/הוא-חוזר-ניימאר-בסגל-נבחרת-ברזיל-למונדיאל-2026-268506
 https://hamal.co.il/main/טראמפ-״ביקשו-ממני-לדחות-את-התקיפה-לזמן-קצר-268507
 https://news.walla.co.il/break/3839182
 https://news.walla.co.il/break/3839183
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840027
 https://hamal.co.il/main/ב-נקבע-מותה-של-טליה-חיה-טימסית-בת-ה-11-שנפגעה-בתאונת-האוטוב-268930
 https://hamal.co.il/main/בצל-המתיחות-עם-איראן---טראמפ-ייעדר-מחתונת-בנו-268933
 https://hamal.co.il/main/פעוט-כבן-שנה-נפגע-מרכב-ונפצע-באורח-אנוש-בנגב-268934
+https://news.walla.co.il/break/3840033
