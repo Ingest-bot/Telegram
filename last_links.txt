@@ -1,10 +1,4 @@
-COUNTER:0
-https://hamal.co.il/main/ההתרעות-נראות-אחרת-פיקוד-העורף-השיק-עדכון-חדש-לאפליקציה-268461
-https://hamal.co.il/main/כוחות-חטיבה-769-השמידו-תשתיות-טרור-ואיתרו-אמצעי-לחימה-כוחות-268463
-https://news.walla.co.il/break/3839089
-https://news.walla.co.il/item/3839077
-https://hamal.co.il/main/131000-משרות-פנויות-אלו-התחומים-שבהם-הכי-מחפשים-עובדים-268444
-https://news.walla.co.il/break/3839090
+COUNTER:3
 https://news.walla.co.il/break/3839092
 https://hamal.co.il/main/לפני-זמן-קצר-התקבל-דיווח-אודות-חשודה-תושבת-הרשות-הפלסטינית-ש-268464
 https://hamal.co.il/main/השלטון-המקומיישבית-מחראת-קבלת-הקהל-לשעתיים-בדרישה-להכניס-את-268465
@@ -499,3 +493,9 @@ https://hamal.co.il/main/כביש-6-3-נפצעו-בתאונת-דרכים-בהם-
 https://news.walla.co.il/break/3839919
 https://news.walla.co.il/break/3839923
 https://hamal.co.il/main/דיווח-איראני-חילופי-מסרים-בין-איראן-לארהב-נמשכים-268870
+https://news.walla.co.il/break/3839926
+https://news.walla.co.il/break/3839927
+https://news.walla.co.il/break/3839929
+https://hamal.co.il/main/רוסיה-מחוז-יארוסלב-תחת-מתקפת-רחפנים-268872
+https://hamal.co.il/main/שרי-החוץ-של-יפן-ארהב-אוסטרליה-והודו-ייפגשו-בניו-דלהי-268874
+https://hamal.co.il/main/צהל-שני-חמושים-חוסלו-בדרום-לבנון-לאחר-שזוהו-סמוך-לגבול-268876
