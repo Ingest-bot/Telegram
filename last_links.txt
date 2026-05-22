@@ -1,7 +1,4 @@
-COUNTER:5
-https://hamal.co.il/main/דיווח-נבחר-ראש-הזרוע-הצבאית-החדש-של-חמאס-ברצועת-עזה-גיא-אלס-268474
-https://hamal.co.il/main/אפקט-מטורף-המתיחות-מול-איראן-ריסקה-את-המטבע-הפופולרי-268469
-https://news.walla.co.il/break/3839102
+COUNTER:6
 https://news.walla.co.il/break/3839104
 https://news.walla.co.il/break/3839106
 https://hamal.co.il/main/המחירים-זינקו-כמה-שילם-כל-אמריקאי-בגלל-המלחמה-עם-איראן-268398
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3839932
 https://news.walla.co.il/break/3839934
 https://hamal.co.il/main/מזג-אוויר-הפכפך-התחממות-קלה-בסוף-השבוע---ירידה-נוספת-בראשון-268880
 https://hamal.co.il/main/האזעקות-בראש-הנקרה-האירוע-הסתיים-ללא-נפגעים-268881
+https://news.walla.co.il/item/3839939
+https://news.walla.co.il/item/3839936
+https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-יעדי-חיזבאללה-בדרום-לבנון-הדי-פיצוצים-ב-268883
