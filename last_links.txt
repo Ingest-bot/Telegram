@@ -1,7 +1,4 @@
-COUNTER:13
-https://hamal.co.il/main/ילדה-בת-11-במצב-אנוש-ופצועה-נוספת-באורח-קשה-268491
-https://hamal.co.il/main/שוטרים-הוזעקו-לקטטה-מצאו-גורת-כלבים-מוזנחת---ואימצו-אותה-אל-268492
-https://news.walla.co.il/break/3839139
+COUNTER:14
 https://news.walla.co.il/break/3839141
 https://news.walla.co.il/item/3839125
 https://news.walla.co.il/item/3839144
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840003
 https://news.walla.co.il/item/3840001
 https://hamal.co.il/main/התרעות-הופעלו-במשגב-עם-הפרטים-בבדיקה-268905
 https://hamal.co.il/main/אישה-בת-51-נהרגה-בתאונת-דרכים-בכביש-9-268907
+https://news.walla.co.il/break/3840004
+https://news.walla.co.il/item/3839995
+https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-268911
