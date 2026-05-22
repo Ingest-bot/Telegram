@@ -1,8 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/טראמפ-״ביקשו-ממני-לדחות-את-התקיפה-לזמן-קצר-268507
-https://news.walla.co.il/break/3839182
-https://news.walla.co.il/break/3839183
-https://news.walla.co.il/break/3839186
 https://news.walla.co.il/break/3839187
 https://news.walla.co.il/break/3839192
 https://news.walla.co.il/break/3839194
@@ -499,3 +495,7 @@ https://hamal.co.il/main/ב-נקבע-מותה-של-טליה-חיה-טימסית-
 https://hamal.co.il/main/בצל-המתיחות-עם-איראן---טראמפ-ייעדר-מחתונת-בנו-268933
 https://hamal.co.il/main/פעוט-כבן-שנה-נפגע-מרכב-ונפצע-באורח-אנוש-בנגב-268934
 https://news.walla.co.il/break/3840033
+https://news.walla.co.il/break/3840036
+https://news.walla.co.il/break/3840037
+https://news.walla.co.il/break/3840038
+https://news.walla.co.il/break/3840039
