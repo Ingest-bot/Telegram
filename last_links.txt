@@ -1,6 +1,4 @@
-COUNTER:8
-https://news.walla.co.il/item/3839117
-https://hamal.co.il/main/הנשיא-הרצוג-לנועם-בתן-עמדת-בגבורה-מול-גלי-שנאה-ועוינות-שג-268479
+COUNTER:9
 https://hamal.co.il/main/לפני-זמן-קצר-עצרו-חשוד-נוסף-במעורבות-באירוע--מעצרו-של-החשוד-268480
 https://hamal.co.il/main/ניצול-של-ממש-של-הלומי-קרב-תאסר-כניסת-עוד-לבתים-מאזנים-אב-268481
 https://news.walla.co.il/break/3839124
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3839961
 https://hamal.co.il/main/שר-החוץ-האמריקני-חלה-התקדמות-קלה-בשיחות-עם-איראן-268894
 https://news.walla.co.il/break/3839964
 https://news.walla.co.il/item/3839968
+https://news.walla.co.il/break/3839975
+https://hamal.co.il/main/כוחותינו-זיהו-מחבלים-נכנסים-למפקדה-של-הארגון-וחיסלו-אותם-268896
