@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839292
 https://hamal.co.il/main/צהל-268565
 https://hamal.co.il/main/שריפה-פרצה-בשטח-פתוח-סמוך-לבית-שאן-מטוסי-כיבוי-הוזנקו-268566
 https://news.walla.co.il/break/3839297
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840167
 https://news.walla.co.il/break/3840174
 https://news.walla.co.il/break/3840176
 https://news.walla.co.il/item/3840175
+https://news.walla.co.il/break/3840184
