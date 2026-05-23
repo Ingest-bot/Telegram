@@ -1,8 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הצהרות-טראמפ---הטעיה-ההכנות-לתקיפה-והשיקום-268533
-https://hamal.co.il/main/פיתתה-צעיר-להיפגש-בפארק-268534
-https://hamal.co.il/main/גורם-ביטחוני-חיל-הים-השתלט-268535
-https://hamal.co.il/main/בת-80-נפגעה-מרכב-סמוך-להרצליה-מצבה-קשה-268531
 https://news.walla.co.il/break/3839236
 https://hamal.co.il/main/סערה-בחתונה-ממבט-ראשון-בריטניה-2-משתתפות-טוענות-שנאנסו-268520
 https://news.walla.co.il/break/3839238
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3840097
 https://news.walla.co.il/break/3840095
 https://news.walla.co.il/break/3840094
 https://news.walla.co.il/break/3840096
+https://news.walla.co.il/break/3840104
+https://news.walla.co.il/break/3840105
+https://news.walla.co.il/break/3840106
+https://news.walla.co.il/item/3840102
