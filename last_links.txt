@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/רשת-13-מודיעה-על-מינויו-של-עידן-אלרום-לממלא-מקום-מנכל-החברה-268555
-https://hamal.co.il/main/שי-לי-עטרי-268556
 https://news.walla.co.il/item/3839274
 https://hamal.co.il/main/כמה-ביצים-צריך-לאכול-בשבוע-כדי-להוריד-סיכון-לדמנציה-ב-27-268549
 https://news.walla.co.il/break/3839291
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840153
 https://news.walla.co.il/item/3840149
 https://news.walla.co.il/item/3840154
 https://news.walla.co.il/break/3840159
+https://news.walla.co.il/break/3840163
+https://news.walla.co.il/break/3840167
