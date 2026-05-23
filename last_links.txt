@@ -1,5 +1,4 @@
-COUNTER:25
-https://news.walla.co.il/break/3839197
+COUNTER:26
 https://hamal.co.il/main/אירוע-אלימות-בחיפה-268513
 https://hamal.co.il/main/ארה״ב-משמר-החופים-פועל-בעקבות-דליפת-נפט-בהוואי-268514
 https://hamal.co.il/main/מהפך-במזג-האוויר-ירידה-ניכרת-בטמפרטורות-וטפטופים-בצפון-268516
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840055
 https://news.walla.co.il/item/3840052
 https://news.walla.co.il/break/3840057
 https://news.walla.co.il/break/3840059
+https://hamal.co.il/main/רוכב-אופניים-כבן-50-נפגע-מרכב-סמוך-למחלף-הדרים-נקבע-מותו-268935
