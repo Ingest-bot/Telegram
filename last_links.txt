@@ -1,8 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839197
-https://news.walla.co.il/item/3839214
-https://hamal.co.il/main/דיאטנים-חושפים-זו-הדרך-הכי-בריאה-לאכול-בטטה-268519
-https://news.walla.co.il/break/3839225
 https://hamal.co.il/main/הצהרות-טראמפ---הטעיה-ההכנות-לתקיפה-והשיקום-268533
 https://hamal.co.il/main/פיתתה-צעיר-להיפגש-בפארק-268534
 https://hamal.co.il/main/גורם-ביטחוני-חיל-הים-השתלט-268535
@@ -499,3 +495,7 @@ https://news.walla.co.il/break/3840080
 https://news.walla.co.il/break/3840087
 https://news.walla.co.il/break/3840085
 https://news.walla.co.il/break/3840091
+https://news.walla.co.il/break/3840097
+https://news.walla.co.il/break/3840095
+https://news.walla.co.il/break/3840094
+https://news.walla.co.il/break/3840096
