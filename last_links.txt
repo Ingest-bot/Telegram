@@ -1,7 +1,4 @@
-COUNTER:26
-https://hamal.co.il/main/מהפך-במזג-האוויר-ירידה-ניכרת-בטמפרטורות-וטפטופים-בצפון-268516
-https://news.walla.co.il/break/3839200
-https://hamal.co.il/main/ירי-במסגד-בסן-דייגו-3-נרצחו-התוקפים-התאבדו-268518
+COUNTER:27
 https://news.walla.co.il/break/3839202
 https://hamal.co.il/main/ההתשלטות-על-המשט-לעזה-נמשך-268521
 https://hamal.co.il/main/כלי-שיט-מעזה-ניסה-לפרוץ-את-המצור-צהל-השיב-בירי-268523
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840059
 https://hamal.co.il/main/רוכב-אופניים-כבן-50-נפגע-מרכב-סמוך-למחלף-הדרים-נקבע-מותו-268935
 https://news.walla.co.il/break/3840063
 https://news.walla.co.il/break/3840065
+https://news.walla.co.il/break/3840074
+https://news.walla.co.il/item/3840068
+https://hamal.co.il/main/האזעקות-בקריית-שמונה-נפילה-של-מטרה-אווירית-בשטח-ישראל-268937
