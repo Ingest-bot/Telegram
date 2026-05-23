@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839241
 https://hamal.co.il/main/בית-המשפט-אישר-עדות-נתניהו-תקוצר-268538
 https://news.walla.co.il/break/3839245
 https://news.walla.co.il/item/3839242
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840102
 https://news.walla.co.il/break/3840107
 https://news.walla.co.il/break/3840109
 https://news.walla.co.il/break/3840111
+https://news.walla.co.il/break/3840112
