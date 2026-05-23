@@ -1,8 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/כמה-ביצים-צריך-לאכול-בשבוע-כדי-להוריד-סיכון-לדמנציה-ב-27-268551
-https://hamal.co.il/main/הרגשתי-שהרעל-מכניע-אותי-268543
-https://news.walla.co.il/break/3839278
-https://news.walla.co.il/item/3839271
 https://hamal.co.il/main/נראה-מי-גבר-תושב-קש-נאשם-שאיים-על-עובד-עירייה-268553
 https://hamal.co.il/main/צהל-חיסלנו-מחבל-שפשט-על-יישובי-העוטף-ב-268554
 https://hamal.co.il/main/רשת-13-מודיעה-על-מינויו-של-עידן-אלרום-לממלא-מקום-מנכל-החברה-268555
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3840117
 https://news.walla.co.il/break/3840129
 https://news.walla.co.il/break/3840133
 https://news.walla.co.il/break/3840134
+https://news.walla.co.il/break/3840146
+https://news.walla.co.il/break/3840152
+https://news.walla.co.il/break/3840153
+https://news.walla.co.il/item/3840149
