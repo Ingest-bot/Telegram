@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/צהל-חיסלנו-מחבל-שפשט-על-יישובי-העוטף-ב-268554
 https://hamal.co.il/main/רשת-13-מודיעה-על-מינויו-של-עידן-אלרום-לממלא-מקום-מנכל-החברה-268555
 https://hamal.co.il/main/שי-לי-עטרי-268556
 https://news.walla.co.il/item/3839274
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840152
 https://news.walla.co.il/break/3840153
 https://news.walla.co.il/item/3840149
 https://news.walla.co.il/item/3840154
+https://news.walla.co.il/break/3840159
