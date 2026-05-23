@@ -1,8 +1,4 @@
 COUNTER:25
-https://hamal.co.il/main/צהל-פרסם-אזהרת-פינוי-בדרום-לבנון-עקב-הפרת-הפסקת-האש-268508
-https://hamal.co.il/main/ארהב-גוגל-ובלקסטון-יקימו-חברת-ענן-משותפת-לבינה-מלאכותית-268509
-https://hamal.co.il/main/רוסיה-יורט-כטבמ-שהיה-בדרכו-למוסקבה-268510
-https://hamal.co.il/main/לייטר-גיי-סטריט-הוא-סרטן-בגופה-של-הקהילה-היהודית-בארהב-268511
 https://news.walla.co.il/break/3839195
 https://hamal.co.il/main/טייוואן-ראש-הממשלה-הביע-תקווה-לקיום-מגעים-שלווים-עם-סין-268512
 https://news.walla.co.il/break/3839197
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3840045
 https://news.walla.co.il/break/3840048
 https://news.walla.co.il/break/3840047
 https://news.walla.co.il/item/3840046
+https://news.walla.co.il/break/3840053
+https://news.walla.co.il/break/3840054
+https://news.walla.co.il/break/3840055
+https://news.walla.co.il/item/3840052
