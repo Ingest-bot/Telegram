@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/סערה-בחתונה-ממבט-ראשון-בריטניה-2-משתתפות-טוענות-שנאנסו-268520
-https://news.walla.co.il/break/3839238
 https://news.walla.co.il/break/3839241
 https://hamal.co.il/main/בית-המשפט-אישר-עדות-נתניהו-תקוצר-268538
 https://news.walla.co.il/break/3839245
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840105
 https://news.walla.co.il/break/3840106
 https://news.walla.co.il/item/3840102
 https://news.walla.co.il/break/3840107
+https://news.walla.co.il/break/3840109
+https://news.walla.co.il/break/3840111
