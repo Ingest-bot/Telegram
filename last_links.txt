@@ -1,5 +1,4 @@
 COUNTER:25
-https://news.walla.co.il/break/3839195
 https://hamal.co.il/main/טייוואן-ראש-הממשלה-הביע-תקווה-לקיום-מגעים-שלווים-עם-סין-268512
 https://news.walla.co.il/break/3839197
 https://hamal.co.il/main/אירוע-אלימות-בחיפה-268513
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840053
 https://news.walla.co.il/break/3840054
 https://news.walla.co.il/break/3840055
 https://news.walla.co.il/item/3840052
+https://news.walla.co.il/break/3840057
