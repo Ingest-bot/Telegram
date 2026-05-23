@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839209
 https://news.walla.co.il/item/3839197
 https://news.walla.co.il/item/3839214
 https://hamal.co.il/main/דיאטנים-חושפים-זו-הדרך-הכי-בריאה-לאכול-בטטה-268519
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840079
 https://news.walla.co.il/break/3840080
 https://news.walla.co.il/break/3840087
 https://news.walla.co.il/break/3840085
+https://news.walla.co.il/break/3840091
