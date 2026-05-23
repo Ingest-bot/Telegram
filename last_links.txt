@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/נשיא-איראן-הודה-מתמודדים-על-לחצים-268542
 https://news.walla.co.il/item/3839247
 https://hamal.co.il/main/גנבו-לוחיות-זיהוי-השיטה-המתוחכמת-של-הפורצים-בערד--תיעוד-268548
 https://hamal.co.il/main/כמה-ביצים-צריך-לאכול-בשבוע-כדי-להוריד-סיכון-לדמנציה-ב-27-268551
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840121
 https://news.walla.co.il/break/3840125
 https://news.walla.co.il/break/3840124
 https://news.walla.co.il/item/3840117
+https://news.walla.co.il/break/3840129
