@@ -1,6 +1,4 @@
-COUNTER:27
-https://news.walla.co.il/break/3839202
-https://hamal.co.il/main/ההתשלטות-על-המשט-לעזה-נמשך-268521
+COUNTER:28
 https://hamal.co.il/main/כלי-שיט-מעזה-ניסה-לפרוץ-את-המצור-צהל-השיב-בירי-268523
 https://hamal.co.il/main/צהל-שוגר-מיירט-לעבר-מטרה-אווירית-חשודה-בדרום-לבנון-268524
 https://hamal.co.il/main/איתי-לוי-על-תקרית-הבזו-תופעה-מסריחה-ומזעזעת-268525
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840065
 https://news.walla.co.il/break/3840074
 https://news.walla.co.il/item/3840068
 https://hamal.co.il/main/האזעקות-בקריית-שמונה-נפילה-של-מטרה-אווירית-בשטח-ישראל-268937
+https://news.walla.co.il/item/3840073
+https://hamal.co.il/main/שוד-אלים-בביתו-של-אגדת-הפורמולה-1-שנפצע-קל-בראשו-268940
