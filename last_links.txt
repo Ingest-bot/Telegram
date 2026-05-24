@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/מאמנו-של-דניאל-פרץ-עשוי-להיות-מפוטר-בשל-הפרשה-החמורה-268610
-https://hamal.co.il/main/עדות-נתניהו-לא-תתקיים-גם-מחר-הסיבה-לוז-בטחוני-268612
-https://hamal.co.il/main/אופירה-אסייג-לא-התחברתי-לאודיה-אפילו-לא-זיהיתי-אותה-268615
 https://news.walla.co.il/item/3839394
 https://news.walla.co.il/break/3839419
 https://news.walla.co.il/break/3839421
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840409
 https://news.walla.co.il/item/3840404
 https://news.walla.co.il/item/3840403
 https://news.walla.co.il/item/3840410
+https://news.walla.co.il/break/3840414
+https://news.walla.co.il/break/3840419
+https://news.walla.co.il/item/3840413
