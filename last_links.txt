@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/עוצמה-לצד-חיבור-למסורת-הכנסת-ספר-תורה-בקריית-התקשוב-268588
 https://hamal.co.il/main/דיווח-מטען-חבלה-התפוצץ-בדמשק-ירי-נשמע-מיד-לאחר-מכן-268589
 https://hamal.co.il/main/טלי-גוטליב-היועמשית-הודיעה-על-הגשת-כתב-אישום-נגדי-268590
 https://news.walla.co.il/break/3839356
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840244
 https://news.walla.co.il/break/3840248
 https://news.walla.co.il/item/3840253
 https://news.walla.co.il/item/3840255
+https://news.walla.co.il/break/3840259
