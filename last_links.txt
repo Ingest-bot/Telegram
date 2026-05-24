@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839436
 https://news.walla.co.il/item/3839434
 https://news.walla.co.il/item/3839189
 https://hamal.co.il/main/התחממות-הים-התיכון-מדאיגה---גשמים-עזים-ושיטפונות-בדרך-268632
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840437
 https://news.walla.co.il/item/3840443
 https://news.walla.co.il/break/3840445
 https://news.walla.co.il/item/3840442
+https://news.walla.co.il/break/3840446
