@@ -1,11 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/צהל-באזהרת-פינוי-268577
-https://hamal.co.il/main/וועדת-החוקה-אישרה-268578
-https://hamal.co.il/main/סמוטריץ-נגד-האג-אחתום-על-פינוי-חאן-אל-אחמאר-בתגובה-268579
-https://hamal.co.il/main/ברקע-ההיערכות-למלחמה-התפתחות-דרמטית-במומ-בין-איראן-לארהב-268580
-https://news.walla.co.il/break/3839314
-https://hamal.co.il/main/חוצה-את-הקווים-השף-הבכיר-268581
-https://hamal.co.il/main/המשטרה-על-הדריסה-בתא-נהג-האוטובוס-שוחרר-למעצר-בית-268582
 https://hamal.co.il/main/ראשוני-דיווח-על-פגיעת-רחפן-על-רכב-סמוך-למשגב-עם-268583
 https://news.walla.co.il/break/3839323
 https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-באי-קאשם-שבמפרץ-268584
@@ -499,3 +492,10 @@ https://news.walla.co.il/item/3840191
 https://news.walla.co.il/item/3840195
 https://news.walla.co.il/break/3840200
 https://news.walla.co.il/item/3840200
+https://news.walla.co.il/break/3840206
+https://news.walla.co.il/break/3840207
+https://news.walla.co.il/break/3840208
+https://news.walla.co.il/break/3840210
+https://news.walla.co.il/break/3840214
+https://news.walla.co.il/item/3840203
+https://news.walla.co.il/item/3840215
