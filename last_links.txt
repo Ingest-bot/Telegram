@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839378
-https://hamal.co.il/main/צהל-השמיד-מחסן-אמצעי-לחימה-ופיר-שיגור-רקטות-של-חמאס-268599
 https://news.walla.co.il/break/3839385
 https://hamal.co.il/main/הרשת-סוערת-האם-הלהיט-החדש-של-נועה-קירל-ועדן-בן-זקן-מועתק-268602
 https://news.walla.co.il/break/3839386
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840336
 https://news.walla.co.il/item/3840326
 https://news.walla.co.il/item/3840328
 https://news.walla.co.il/item/3840340
+https://news.walla.co.il/break/3840348
+https://news.walla.co.il/break/3840351
