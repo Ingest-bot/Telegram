@@ -1,8 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839452
-https://news.walla.co.il/break/3839451
-https://news.walla.co.il/break/3839454
-https://hamal.co.il/main/אחרי-22-שנים-ארסנל-זכתה-באליפות-אנגליה-לכדורגל-268638
 https://news.walla.co.il/break/3839462
 https://hamal.co.il/main/משרד-החוץ-הסתיימה-ההשתלטות-על-המשט-לעזה-268639
 https://news.walla.co.il/break/3839467
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3840454
 https://news.walla.co.il/break/3840461
 https://news.walla.co.il/break/3840462
 https://news.walla.co.il/break/3840463
+https://news.walla.co.il/break/3840473
+https://news.walla.co.il/break/3840474
+https://news.walla.co.il/break/3840478
+https://news.walla.co.il/item/3840475
