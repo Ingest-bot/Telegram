@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/כך-ניצל-חמאס-את-הפסקת-האש-להכשרת-לוחמים-חדשים-268606
-https://news.walla.co.il/break/3839404
-https://news.walla.co.il/break/3839407
 https://news.walla.co.il/break/3839408
 https://hamal.co.il/main/רצח-בעיר-שפרעם-268607
 https://news.walla.co.il/break/3839405
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840374
 https://news.walla.co.il/item/3840375
 https://news.walla.co.il/break/3840383
 https://news.walla.co.il/item/3840385
+https://news.walla.co.il/break/3840399
+https://news.walla.co.il/item/3840389
+https://news.walla.co.il/item/3840390
