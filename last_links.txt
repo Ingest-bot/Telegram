@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839394
-https://news.walla.co.il/break/3839419
-https://news.walla.co.il/break/3839421
 https://news.walla.co.il/break/3839423
 https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-268616
 https://news.walla.co.il/break/3839427
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3840410
 https://news.walla.co.il/break/3840414
 https://news.walla.co.il/break/3840419
 https://news.walla.co.il/item/3840413
+https://news.walla.co.il/break/3840422
+https://news.walla.co.il/break/3840424
+https://news.walla.co.il/item/3840419
