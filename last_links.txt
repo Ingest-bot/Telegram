@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839408
 https://hamal.co.il/main/רצח-בעיר-שפרעם-268607
 https://news.walla.co.il/break/3839405
 https://news.walla.co.il/item/3839407
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840385
 https://news.walla.co.il/break/3840399
 https://news.walla.co.il/item/3840389
 https://news.walla.co.il/item/3840390
+https://news.walla.co.il/break/3840403
