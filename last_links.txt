@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839423
-https://hamal.co.il/main/הנחיות-פיקוד-העורף-נותרו-ללא-שינוי-268616
-https://news.walla.co.il/break/3839427
 https://hamal.co.il/main/במטכל-מודאגים-המשמעת-בצהל-נשחקת---והפיקוד-מחפש-פתרונות-268619
 https://hamal.co.il/main/הותר-לפרסום-רס״ן-מיל׳-איתמר-ספיר-נפל-בקרב-בדרום-לבנון-268622
 https://news.walla.co.il/break/3839429
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3840413
 https://news.walla.co.il/break/3840422
 https://news.walla.co.il/break/3840424
 https://news.walla.co.il/item/3840419
+https://news.walla.co.il/break/3840432
+https://news.walla.co.il/item/3840431
+https://news.walla.co.il/item/3840427
