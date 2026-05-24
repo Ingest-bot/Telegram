@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839374
-https://news.walla.co.il/break/3839375
 https://news.walla.co.il/item/3839378
 https://hamal.co.il/main/צהל-השמיד-מחסן-אמצעי-לחימה-ופיר-שיגור-רקטות-של-חמאס-268599
 https://news.walla.co.il/break/3839385
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3840309
 https://news.walla.co.il/break/3840322
 https://news.walla.co.il/break/3840336
 https://news.walla.co.il/item/3840326
+https://news.walla.co.il/item/3840328
+https://news.walla.co.il/item/3840340
