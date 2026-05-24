@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839462
 https://hamal.co.il/main/משרד-החוץ-הסתיימה-ההשתלטות-על-המשט-לעזה-268639
 https://news.walla.co.il/break/3839467
 https://news.walla.co.il/break/3839468
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840473
 https://news.walla.co.il/break/3840474
 https://news.walla.co.il/break/3840478
 https://news.walla.co.il/item/3840475
+https://news.walla.co.il/break/3840481
