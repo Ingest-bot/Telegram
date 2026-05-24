@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/ראשוני-דיווח-על-פגיעת-רחפן-על-רכב-סמוך-למשגב-עם-268583
 https://news.walla.co.il/break/3839323
 https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-באי-קאשם-שבמפרץ-268584
 https://news.walla.co.il/break/3839330
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840210
 https://news.walla.co.il/break/3840214
 https://news.walla.co.il/item/3840203
 https://news.walla.co.il/item/3840215
+https://news.walla.co.il/break/3840216
