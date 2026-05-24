@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839391
 https://news.walla.co.il/item/3839398
 https://news.walla.co.il/break/3839401
 https://hamal.co.il/main/כך-ניצל-חמאס-את-הפסקת-האש-להכשרת-לוחמים-חדשים-268606
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840359
 https://news.walla.co.il/item/3840362
 https://news.walla.co.il/break/3840366
 https://news.walla.co.il/break/3840374
+https://news.walla.co.il/item/3840375
