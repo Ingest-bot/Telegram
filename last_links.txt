@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דיווחים-באיראן-פיצוצים-נשמעים-באי-קאשם-שבמפרץ-268584
 https://news.walla.co.il/break/3839330
 https://hamal.co.il/main/צהל-מאשר-רחפן-שוגר-לעבר-כוחותינו-והתפוצץ-בשטח-ישראל-268585
 https://hamal.co.il/main/ביממה-האחרונה-מעל-25-מחסני-אמלח-ומשגרים-הותקפו-בדרום-לבנון-268586
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840203
 https://news.walla.co.il/item/3840215
 https://news.walla.co.il/break/3840216
 https://news.walla.co.il/break/3840218
+https://news.walla.co.il/break/3840221
