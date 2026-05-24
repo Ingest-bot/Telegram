@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839354
 https://hamal.co.il/main/תינוק-ו-2-לכודים-חולצו-משריפה-שפרצה-במודיעין-עילית-268592
 https://hamal.co.il/main/החוקרים-נדהמו-זה-מה-שקורה-לגוף-אחרי-3-ימים-בלי-אוכל-268561
 https://news.walla.co.il/break/3839359
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840267
 https://news.walla.co.il/break/3840253
 https://news.walla.co.il/item/3840285
 https://news.walla.co.il/break/3840289
+https://news.walla.co.il/item/3840296
