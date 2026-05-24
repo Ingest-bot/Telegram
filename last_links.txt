@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הלב-שלי-תומר-קאפון-וקארן-פוקהארה-עשו-קעקוע-משותף-268635
-https://news.walla.co.il/break/3839446
-https://hamal.co.il/main/הפועל-באר-שבע-אלופת-המדינה-בכדורגל-268636
 https://news.walla.co.il/break/3839452
 https://news.walla.co.il/break/3839451
 https://news.walla.co.il/break/3839454
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840451
 https://news.walla.co.il/item/3840450
 https://news.walla.co.il/break/3840453
 https://news.walla.co.il/item/3840454
+https://news.walla.co.il/break/3840461
+https://news.walla.co.il/break/3840462
+https://news.walla.co.il/break/3840463
