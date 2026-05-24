@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/לא-ייאמן-סאותהמפטון-ודניאל-פרץ-הודחו-מפלייאוף-הצמפיונשיפ-268625
-https://hamal.co.il/main/יואב-קיש-מונע-מאנשי-מקצוע-במשרדו-להיפגש-עם-היועמשית-268628
 https://news.walla.co.il/break/3839436
 https://news.walla.co.il/item/3839434
 https://news.walla.co.il/item/3839189
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840436
 https://news.walla.co.il/break/3840438
 https://news.walla.co.il/item/3840437
 https://news.walla.co.il/item/3840443
+https://news.walla.co.il/break/3840445
+https://news.walla.co.il/item/3840442
