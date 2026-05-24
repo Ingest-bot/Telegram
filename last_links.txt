@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/טראמפ-על-איראן-המלחמה-הזאת-תסתיים-מהר-מאוד-268642
 https://hamal.co.il/main/גורם-בבית-הלבן-הנשיא-טראמפ-יגיע-לפסגת-ה-G7-בצרפת-268644
 https://news.walla.co.il/break/3839472
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-וקר-מהרגיל--התחזית-המלאה-268645
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840487
 https://news.walla.co.il/break/3840491
 https://news.walla.co.il/break/3840493
 https://news.walla.co.il/break/3840494
+https://news.walla.co.il/break/3840500
