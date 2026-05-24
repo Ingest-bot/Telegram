@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839359
-https://hamal.co.il/main/משפחות-שכולות-לעצור-את-הריסת-בתי-העדות-בשכונת-דור-צעיר-268595
 https://news.walla.co.il/break/3839374
 https://news.walla.co.il/break/3839375
 https://news.walla.co.il/item/3839378
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840289
 https://news.walla.co.il/item/3840296
 https://news.walla.co.il/item/3840309
 https://news.walla.co.il/break/3840322
+https://news.walla.co.il/break/3840336
+https://news.walla.co.il/item/3840326
