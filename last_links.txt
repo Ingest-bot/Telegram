@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דיווחים-בלבנון-268686
-https://hamal.co.il/main/דיווח-268687
-https://hamal.co.il/main/צהל-חושף-כך-חיזבאללה-עוקב-אחר-כוחותינו-בדרום-לבנון-268688
 https://hamal.co.il/main/2-פצועים-בתאונת-דרכים-בבת-ים-בהם-בן-30-במצב-קשה-268689
 https://news.walla.co.il/break/3839617
 https://news.walla.co.il/item/3839590
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840729
 https://news.walla.co.il/break/3840732
 https://news.walla.co.il/break/3840733
 https://news.walla.co.il/item/3840729
+https://news.walla.co.il/break/3840736
+https://news.walla.co.il/break/3840739
+https://news.walla.co.il/item/3840735
