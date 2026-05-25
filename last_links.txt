@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/עמית-סגל-עונה-האם-נתניהו-יפרוש-בקרוב-268667
-https://hamal.co.il/main/רופא-עונה-זו-הטעות-הכי-גדולה-שאתם-עושים-בשבועות-268649
 https://news.walla.co.il/break/3839533
 https://hamal.co.il/main/תיעוד-תלמידים-בקש-הסתתרו-מתחת-לשולחנות-בזמן-האזעקות-268668
 https://hamal.co.il/main/בצהל-268669
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3840605
 https://news.walla.co.il/item/3840603
 https://news.walla.co.il/break/3840615
 https://news.walla.co.il/break/3840623
+https://news.walla.co.il/break/3840630
+https://news.walla.co.il/item/3840629
