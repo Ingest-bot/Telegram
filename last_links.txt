@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839533
 https://hamal.co.il/main/תיעוד-תלמידים-בקש-הסתתרו-מתחת-לשולחנות-בזמן-האזעקות-268668
 https://hamal.co.il/main/בצהל-268669
 https://news.walla.co.il/item/3839546
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840615
 https://news.walla.co.il/break/3840623
 https://news.walla.co.il/break/3840630
 https://news.walla.co.il/item/3840629
+https://news.walla.co.il/break/3840640
