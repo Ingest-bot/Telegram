@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/אירוע-חריג-בשומרון-בן-14-נפצע-קשה-לאחר-שנפל-מרכב-בעת-נסיעה-268695
-https://hamal.co.il/main/חשש-לחדירת-מחבלים-בנופים-שבשומרון-268696
 https://hamal.co.il/main/צהל-על-ההתרעות-בשומרון-כוחותינו-סורקים-אחר-חשודים-במרחב-268697
 https://hamal.co.il/main/תיעוד-מסתערבים-עצרו-מבוקש-בקלקיליה-מהומות-פרצו-במקום-268698
 https://hamal.co.il/main/פיקוד-העורף-הוסר-החשש-לחדירת-מחבלים-בנופים-שבשומרון-268700
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840755
 https://news.walla.co.il/break/3840758
 https://news.walla.co.il/item/3840745
 https://news.walla.co.il/item/3840734
+https://news.walla.co.il/break/3840764
+https://news.walla.co.il/item/3840762
