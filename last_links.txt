@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839487
 https://hamal.co.il/main/בעלי-החיים-שנמצאו-בטמרה-268648
 https://hamal.co.il/main/חוקר-CIA-לשעבר-חושף-ארצות-הברית-מסתירה-4-גזעי-חייזרים-268539
 https://news.walla.co.il/break/3839491
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840513
 https://news.walla.co.il/item/3840510
 https://news.walla.co.il/break/3840514
 https://news.walla.co.il/break/3840515
+https://news.walla.co.il/break/3840518
