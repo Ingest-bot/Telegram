@@ -1,9 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/באיראן-מאיימים-אם-נותקף-המלחמה-תתרחב-מחוץ-למזרח-התיכון-268672
-https://news.walla.co.il/item/3839560
-https://news.walla.co.il/break/3839558
-https://hamal.co.il/main/אלונה-ברקת-על-האליפות-268674
-https://news.walla.co.il/item/3839566
 https://hamal.co.il/main/שר-החוץ-האיראני-במהלך-המלחמה-הפלנו-268677
 https://hamal.co.il/main/בוושינגטון-גוברת-ההערכה---טראמפ-יכריע-את-עניין-התקיפה-בקרוב-268675
 https://hamal.co.il/main/בשר-שרי-268678
@@ -499,3 +494,8 @@ https://news.walla.co.il/break/3840670
 https://news.walla.co.il/break/3840675
 https://news.walla.co.il/item/3840672
 https://news.walla.co.il/item/3840681
+https://news.walla.co.il/break/3840693
+https://news.walla.co.il/break/3840694
+https://news.walla.co.il/break/3840696
+https://news.walla.co.il/break/3840695
+https://news.walla.co.il/break/3840697
