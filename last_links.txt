@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/צבא-ירדן-כטבם-לא-מזוהה-יורט-בשמי-המדינה-268691
 https://hamal.co.il/main/בן-גביר-עם-דגל-ישראל-ליד-פעילי-המשט-268693
 https://news.walla.co.il/break/3839635
 https://news.walla.co.il/item/3839632
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840747
 https://news.walla.co.il/break/3840750
 https://news.walla.co.il/break/3840751
 https://news.walla.co.il/break/3840753
+https://news.walla.co.il/break/3840755
