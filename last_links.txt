@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839600
-https://news.walla.co.il/break/3839601
-https://news.walla.co.il/item/3839559
 https://hamal.co.il/main/ברוב-268684
 https://hamal.co.il/main/בן-14-נפצע-קשה-סמוך-לאלון-מורה-נפל-מרכב-במהלך-נסיעה-268685
 https://news.walla.co.il/break/3839611
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840710
 https://news.walla.co.il/item/3840711
 https://news.walla.co.il/break/3840714
 https://news.walla.co.il/item/3840709
+https://news.walla.co.il/break/3840719
+https://news.walla.co.il/break/3840726
+https://news.walla.co.il/item/3840704
