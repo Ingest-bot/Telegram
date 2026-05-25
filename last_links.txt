@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839555
 https://hamal.co.il/main/באיראן-מאיימים-אם-נותקף-המלחמה-תתרחב-מחוץ-למזרח-התיכון-268672
 https://news.walla.co.il/item/3839560
 https://news.walla.co.il/break/3839558
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840656
 https://news.walla.co.il/break/3840670
 https://news.walla.co.il/break/3840675
 https://news.walla.co.il/item/3840672
+https://news.walla.co.il/item/3840681
