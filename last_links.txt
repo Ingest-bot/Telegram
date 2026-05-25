@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דיווח-רעידת-אדמה-268664
 https://news.walla.co.il/item/3839469
 https://hamal.co.il/main/עמית-סגל-עונה-האם-נתניהו-יפרוש-בקרוב-268667
 https://hamal.co.il/main/רופא-עונה-זו-הטעות-הכי-גדולה-שאתם-עושים-בשבועות-268649
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840602
 https://news.walla.co.il/item/3840568
 https://news.walla.co.il/item/3840605
 https://news.walla.co.il/item/3840603
+https://news.walla.co.il/break/3840615
