@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839500
 https://hamal.co.il/main/הלכו-מכות-ביום-חתונתם-268657
 https://news.walla.co.il/break/3839503
 https://news.walla.co.il/break/3839508
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840527
 https://news.walla.co.il/item/3840521
 https://news.walla.co.il/break/3840534
 https://news.walla.co.il/break/3840541
+https://news.walla.co.il/item/3840541
