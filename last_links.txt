@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/תרגיל-ביטחוני-יתקיים-היום-במעבר-חשמונאים-268679
-https://hamal.co.il/main/העדכון-הגדול-ביותר-זה-25-שנה-גוגל-משנה-את-מנוע-החיפוש-268670
-https://hamal.co.il/main/במהלך-חג-השבועות-יותר-מ-6200-מארזי-חג-חולקו-ללוחמים-בשטח-268680
 https://news.walla.co.il/break/3839597
 https://hamal.co.il/main/בגיל-השורד-האחרון-מטבח-תרפט-הלך-לעולמו-268681
 https://news.walla.co.il/break/3839600
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840697
 https://news.walla.co.il/break/3840699
 https://news.walla.co.il/item/3840687
 https://news.walla.co.il/break/3840707
+https://news.walla.co.il/break/3840709
+https://news.walla.co.il/break/3840710
+https://news.walla.co.il/item/3840711
