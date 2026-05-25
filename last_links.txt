@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839508
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-שוגר-מיירט-לעבר-מטרת-שווא-268660
 https://hamal.co.il/main/כץ-החליט-268661
 https://hamal.co.il/main/נשיא-דרום-קוריאה-268663
 https://hamal.co.il/main/דיווח-רעידת-אדמה-268664
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840566
 https://news.walla.co.il/break/3840567
 https://news.walla.co.il/item/3840566
 https://news.walla.co.il/break/3840592
+https://news.walla.co.il/item/3840602
+https://news.walla.co.il/item/3840568
