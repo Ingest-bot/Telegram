@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/שר-החוץ-האיראני-במהלך-המלחמה-הפלנו-268677
-https://hamal.co.il/main/בוושינגטון-גוברת-ההערכה---טראמפ-יכריע-את-עניין-התקיפה-בקרוב-268675
 https://hamal.co.il/main/בשר-שרי-268678
 https://hamal.co.il/main/תרגיל-ביטחוני-יתקיים-היום-במעבר-חשמונאים-268679
 https://hamal.co.il/main/העדכון-הגדול-ביותר-זה-25-שנה-גוגל-משנה-את-מנוע-החיפוש-268670
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840694
 https://news.walla.co.il/break/3840696
 https://news.walla.co.il/break/3840695
 https://news.walla.co.il/break/3840697
+https://news.walla.co.il/break/3840699
+https://news.walla.co.il/item/3840687
