@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/בן-גביר-עם-דגל-ישראל-ליד-פעילי-המשט-268693
-https://news.walla.co.il/break/3839635
 https://news.walla.co.il/item/3839632
 https://hamal.co.il/main/אירוע-חריג-בשומרון-בן-14-נפצע-קשה-לאחר-שנפל-מרכב-בעת-נסיעה-268695
 https://hamal.co.il/main/חשש-לחדירת-מחבלים-בנופים-שבשומרון-268696
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840750
 https://news.walla.co.il/break/3840751
 https://news.walla.co.il/break/3840753
 https://news.walla.co.il/break/3840755
+https://news.walla.co.il/break/3840758
+https://news.walla.co.il/item/3840745
