@@ -1,10 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/גורם-בבית-הלבן-הנשיא-טראמפ-יגיע-לפסגת-ה-G7-בצרפת-268644
-https://news.walla.co.il/break/3839472
-https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-וקר-מהרגיל--התחזית-המלאה-268645
-https://news.walla.co.il/break/3839477
-https://news.walla.co.il/break/3839479
-https://news.walla.co.il/item/3839476
 https://hamal.co.il/main/לאחר-שהנהג-ניסה-להימלט-שבחים-הסתתרו-בתוך-משאית---ונעצרו-268646
 https://hamal.co.il/main/היורש-של-חמינאי-שישראל-וארהב-סימנו-268647
 https://news.walla.co.il/break/3839487
@@ -499,3 +493,9 @@ https://news.walla.co.il/break/3840491
 https://news.walla.co.il/break/3840493
 https://news.walla.co.il/break/3840494
 https://news.walla.co.il/break/3840500
+https://news.walla.co.il/break/3840508
+https://news.walla.co.il/break/3840509
+https://news.walla.co.il/break/3840512
+https://news.walla.co.il/break/3840511
+https://news.walla.co.il/break/3840513
+https://news.walla.co.il/item/3840510
