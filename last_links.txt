@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/בצהל-268669
-https://news.walla.co.il/item/3839546
 https://hamal.co.il/main/רסן-במיל-איתמר-ספיר-מובא-למנוחות--ישיר-268671
 https://news.walla.co.il/break/3839552
 https://news.walla.co.il/item/3839549
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840630
 https://news.walla.co.il/item/3840629
 https://news.walla.co.il/break/3840640
 https://news.walla.co.il/item/3840632
+https://news.walla.co.il/break/3840657
+https://news.walla.co.il/item/3840656
