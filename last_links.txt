@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/לאחר-שהנהג-ניסה-להימלט-שבחים-הסתתרו-בתוך-משאית---ונעצרו-268646
-https://hamal.co.il/main/היורש-של-חמינאי-שישראל-וארהב-סימנו-268647
 https://news.walla.co.il/break/3839487
 https://hamal.co.il/main/בעלי-החיים-שנמצאו-בטמרה-268648
 https://hamal.co.il/main/חוקר-CIA-לשעבר-חושף-ארצות-הברית-מסתירה-4-גזעי-חייזרים-268539
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840512
 https://news.walla.co.il/break/3840511
 https://news.walla.co.il/break/3840513
 https://news.walla.co.il/item/3840510
+https://news.walla.co.il/break/3840514
+https://news.walla.co.il/break/3840515
