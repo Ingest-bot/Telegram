@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-של-בלוגרית-האופנה-כלה-268716
-https://hamal.co.il/main/נתניהו-האופן-בו-נהג-בן-גביר-אינו-תואם-לערכי-מדינת-ישראל-268717
 https://news.walla.co.il/break/3839691
 https://news.walla.co.il/item/3839694
 https://news.walla.co.il/item/3839690
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3840864
 https://news.walla.co.il/break/3840869
 https://news.walla.co.il/break/3840870
 https://news.walla.co.il/break/3840872
+https://news.walla.co.il/break/3840882
+https://news.walla.co.il/break/3840880
