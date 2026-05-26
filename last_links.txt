@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839727
-https://news.walla.co.il/item/3839725
 https://news.walla.co.il/item/3839729
 https://hamal.co.il/main/השדרוג-החדש-של-וואטסאפ-יקשה-על-מי-שמנסה-למחוק-עקבות-בצאט-268734
 https://hamal.co.il/main/המחקר-שחושף-איזה-מבנה-גוף-נחשב-להכי-מושך-בעולם-268726
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3840991
 https://news.walla.co.il/item/3840970
 https://news.walla.co.il/break/3840999
 https://news.walla.co.il/item/3840990
+https://news.walla.co.il/break/3841004
+https://news.walla.co.il/item/3841003
