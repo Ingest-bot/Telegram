@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839690
-https://news.walla.co.il/break/3839696
-https://news.walla.co.il/break/3839699
 https://news.walla.co.il/item/3839662
 https://hamal.co.il/main/צהל-לוחמים-קצינים-נפצעו-מנפילת-רחפן-נפץ-בגבול-לבנון-268731
 https://hamal.co.il/main/הותר-לפרסום-הפצוע-קשה-בדרום-לבנון---מפקד-חטיבת-שריון-268739
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3840882
 https://news.walla.co.il/break/3840880
 https://news.walla.co.il/break/3840886
 https://news.walla.co.il/item/3840891
+https://news.walla.co.il/break/3840903
+https://news.walla.co.il/break/3840904
+https://news.walla.co.il/item/3840900
