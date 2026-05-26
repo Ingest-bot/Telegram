@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דיווח-ארהב-העבירה-הצעה-חדשה-לאיראן-268767
 https://hamal.co.il/main/ספין-אוף-חדש-לסדרה-האנטומיה-של-גריי-יעלה-ב-ABC-268723
 https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-של-יובל-כספית-כלה-268730
 https://hamal.co.il/main/דיווח-ארהב-הגישה-הצעה-להסכם-דרך-פקיסטן-268768
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841050
 https://news.walla.co.il/break/3841053
 https://news.walla.co.il/item/3841054
 https://news.walla.co.il/break/3841060
+https://news.walla.co.il/item/3841062
