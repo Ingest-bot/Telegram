@@ -1,12 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839649
-https://news.walla.co.il/item/3839593
-https://hamal.co.il/main/כוכב-הרשת-ופעיל-הימין-נאשמים-268692
-https://hamal.co.il/main/צהל-על-ההתרעות-בנופים-אזרח-ישראלי-זוהה-בסמוך-לגדר-268702
-https://hamal.co.il/main/גבר-נדקר-בבני-ברק-מצבו-קשה---הרקע-פלילי-268703
-https://news.walla.co.il/break/3839650
-https://news.walla.co.il/break/3839657
-https://news.walla.co.il/break/3839655
 https://news.walla.co.il/item/3839649
 https://hamal.co.il/main/ישראלים-אנא-היזהרו-הסיפור-של-התייר-שהורחק-מתאילנד-לכל-חייו-268704
 https://hamal.co.il/main/צהל-תקף-אתר-אמלח-של-חיזבאללה-268705
@@ -499,3 +491,11 @@ https://news.walla.co.il/item/3840762
 https://news.walla.co.il/break/3840771
 https://news.walla.co.il/item/3840787
 https://news.walla.co.il/break/3840789
+https://news.walla.co.il/break/3840793
+https://news.walla.co.il/break/3840797
+https://news.walla.co.il/break/3840796
+https://news.walla.co.il/break/3840798
+https://news.walla.co.il/break/3840800
+https://news.walla.co.il/item/3840795
+https://news.walla.co.il/item/3840799
+https://news.walla.co.il/item/3840794
