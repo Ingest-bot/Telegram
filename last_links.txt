@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/ראשוני-דיווח-על-ניסיון-דריסה-סמוך-לעופרה-268709
-https://news.walla.co.il/break/3839673
 https://news.walla.co.il/item/3839676
 https://hamal.co.il/main/בנט-בקריאה-לנתניהו--268710
 https://news.walla.co.il/break/3839681
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840814
 https://news.walla.co.il/item/3840819
 https://news.walla.co.il/break/3840826
 https://news.walla.co.il/item/3840818
+https://news.walla.co.il/break/3840842
+https://news.walla.co.il/item/3840826
