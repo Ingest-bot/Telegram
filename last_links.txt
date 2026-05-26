@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839679
-https://hamal.co.il/main/אסון-בבני-ברק-נקבע-מותו-של-הגבר-כבן-50-שנדקר-בבית-כנסת-268713
-https://news.walla.co.il/item/3839688
 https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-של-בלוגרית-האופנה-כלה-268716
 https://hamal.co.il/main/נתניהו-האופן-בו-נהג-בן-גביר-אינו-תואם-לערכי-מדינת-ישראל-268717
 https://news.walla.co.il/break/3839691
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3840847
 https://news.walla.co.il/item/3840855
 https://news.walla.co.il/item/3840859
 https://news.walla.co.il/item/3840864
+https://news.walla.co.il/break/3840869
+https://news.walla.co.il/break/3840870
+https://news.walla.co.il/break/3840872
