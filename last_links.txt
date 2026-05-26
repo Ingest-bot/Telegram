@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839707
 https://hamal.co.il/main/אחרי-25-שנה-גוגל-משנה-לחלוטין-את-מנוע-החיפוש-268720
 https://news.walla.co.il/item/3839713
 https://news.walla.co.il/item/3839711
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840916
 https://news.walla.co.il/item/3840909
 https://news.walla.co.il/break/3840905
 https://news.walla.co.il/break/3840921
+https://news.walla.co.il/item/3840925
