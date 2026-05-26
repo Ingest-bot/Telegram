@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/בנט-בקריאה-לנתניהו--268710
 https://news.walla.co.il/break/3839681
 https://news.walla.co.il/item/3839678
 https://news.walla.co.il/item/3839679
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840818
 https://news.walla.co.il/break/3840842
 https://news.walla.co.il/item/3840826
 https://news.walla.co.il/item/3840847
+https://news.walla.co.il/item/3840855
