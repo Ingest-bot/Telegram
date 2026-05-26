@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839730
-https://hamal.co.il/main/אייל-גולן-נחקר-היום-רביעי-באזהרה-בתחנת-המשטרה-ברחובות-268753
 https://news.walla.co.il/break/3839733
 https://news.walla.co.il/break/3839736
 https://news.walla.co.il/break/3839735
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841003
 https://news.walla.co.il/break/3841009
 https://news.walla.co.il/break/3841025
 https://news.walla.co.il/break/3841029
+https://news.walla.co.il/break/3841037
+https://news.walla.co.il/item/3841035
