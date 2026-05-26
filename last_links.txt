@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/רגע-לפני-החופה-תמונות-ראשונות-של-יובל-כספית-כלה-268730
 https://hamal.co.il/main/דיווח-ארהב-הגישה-הצעה-להסכם-דרך-פקיסטן-268768
 https://hamal.co.il/main/לקראת-המונדיאל-רחוב-בארצות-הברית-ייקרא-על-שם-ליאו-מסי-268771
 https://hamal.co.il/main/אירוע-נוסף-של-נפילת-רחפן-נפץ-בדרום-לבנון-לוחמת-במצב-קשה-268772
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841054
 https://news.walla.co.il/break/3841060
 https://news.walla.co.il/item/3841062
 https://news.walla.co.il/break/3841070
+https://news.walla.co.il/item/3841084
