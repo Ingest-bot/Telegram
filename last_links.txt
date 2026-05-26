@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/ישראלים-אנא-היזהרו-הסיפור-של-התייר-שהורחק-מתאילנד-לכל-חייו-268704
-https://hamal.co.il/main/צהל-תקף-אתר-אמלח-של-חיזבאללה-268705
 https://news.walla.co.il/break/3839663
 https://hamal.co.il/main/בעקבות-התיעוד-של-בן-גביר-איטליה-תזמן-את-השגריר-הישראלי-268707
 https://hamal.co.il/main/דיווח-ארהב-מגלה-גמישות-בנושאים-כלכליים-במומ-עם-איראן-268706
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3840795
 https://news.walla.co.il/item/3840799
 https://news.walla.co.il/item/3840794
 https://news.walla.co.il/break/3840801
+https://news.walla.co.il/break/3840803
+https://news.walla.co.il/break/3840804
