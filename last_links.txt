@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839681
-https://news.walla.co.il/item/3839678
 https://news.walla.co.il/item/3839679
 https://hamal.co.il/main/אסון-בבני-ברק-נקבע-מותו-של-הגבר-כבן-50-שנדקר-בבית-כנסת-268713
 https://news.walla.co.il/item/3839688
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840842
 https://news.walla.co.il/item/3840826
 https://news.walla.co.il/item/3840847
 https://news.walla.co.il/item/3840855
+https://news.walla.co.il/item/3840859
+https://news.walla.co.il/item/3840864
