@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/כפר-שמריהו-רימון-רסס-הושלך-לעבר-ביתו-של-איש-עסקים-מוכר-268752
 https://news.walla.co.il/break/3839728
 https://news.walla.co.il/break/3839727
 https://news.walla.co.il/item/3839725
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3840952
 https://news.walla.co.il/item/3840977
 https://news.walla.co.il/item/3840991
 https://news.walla.co.il/item/3840970
+https://news.walla.co.il/break/3840999
