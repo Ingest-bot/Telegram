@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דובר-צהל-בערבית-באזהרת-פינוי-לתושבי-לבנון-נפעל-בעוצמה-268741
-https://news.walla.co.il/break/3839705
 https://news.walla.co.il/break/3839707
 https://hamal.co.il/main/אחרי-25-שנה-גוגל-משנה-לחלוטין-את-מנוע-החיפוש-268720
 https://news.walla.co.il/item/3839713
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3840913
 https://news.walla.co.il/break/3840911
 https://news.walla.co.il/break/3840916
 https://news.walla.co.il/item/3840909
+https://news.walla.co.il/break/3840905
+https://news.walla.co.il/break/3840921
