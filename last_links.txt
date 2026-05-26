@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839665
 https://hamal.co.il/main/סער-תוקף-את-בן-גביר-268708
 https://hamal.co.il/main/ראשוני-דיווח-על-ניסיון-דריסה-סמוך-לעופרה-268709
 https://news.walla.co.il/break/3839673
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3840806
 https://news.walla.co.il/break/3840808
 https://news.walla.co.il/break/3840814
 https://news.walla.co.il/item/3840819
+https://news.walla.co.il/break/3840826
