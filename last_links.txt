@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/מסתערבים-פשטו-268790
-https://hamal.co.il/main/חשד-לרצח-בלוד-268791
 https://news.walla.co.il/break/3839791
 https://news.walla.co.il/item/3839790
 https://news.walla.co.il/item/3839794
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841234
 https://news.walla.co.il/item/3841233
 https://news.walla.co.il/item/3841236
 https://news.walla.co.il/item/3840998
+https://news.walla.co.il/break/3841248
+https://news.walla.co.il/break/3841249
