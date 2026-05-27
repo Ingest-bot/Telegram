@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839769
-https://hamal.co.il/main/גבר-בן-28-במצב-קשה-בהכרה-עם-חבלות-בראש-ובגפיים-דניאל-חובש-268774
-https://hamal.co.il/main/טרגדיה-שחקן-גליל-עליון-ונבחרת-ישראל-רז-אדם-נהרג-בתאונה-אור-268775
 https://news.walla.co.il/item/3839772
 https://hamal.co.il/main/שובר-לב-השחקן-רז-אדם-שנהרג---עזר-לחייל-להשיג-כרטיס-למשחק-268777
 https://news.walla.co.il/break/3839774
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841114
 https://news.walla.co.il/break/3841116
 https://news.walla.co.il/break/3841119
 https://news.walla.co.il/item/3841124
+https://news.walla.co.il/break/3841136
+https://news.walla.co.il/break/3841139
+https://news.walla.co.il/item/3841135
