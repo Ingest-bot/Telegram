@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/כבר-139-מתים-בהתפרצות-האבולה-באפריקה-המספר-צפוי-לעלות-268756
 https://news.walla.co.il/break/3839763
 https://news.walla.co.il/item/3839761
 https://hamal.co.il/main/קותי-סבג-זועם-אחרי-זה-בוכים-שקוראים-להם-ערוצי-תבהלה-268749
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841089
 https://news.walla.co.il/break/3841091
 https://news.walla.co.il/break/3841095
 https://news.walla.co.il/break/3841099
+https://news.walla.co.il/break/3841102
