@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839798
-https://hamal.co.il/main/השיחה-מתוחה-בין-טראמפ-לנתניהו-על-המשך-המלחמה-באיראן--דיווח-268794
-https://hamal.co.il/main/נלחמים-כתף-אל-כתף-היחידה-של-הלוחמת-שנפצעה-קשה-בלבנון-268795
 https://hamal.co.il/main/לאחר-שעות-ארוכות-268796
 https://hamal.co.il/main/לפני-הקפיצה-הגדולה-בקריירה-על-הטרגדיה-של-רז-אדם-זל-268792
 https://news.walla.co.il/item/3839807
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841262
 https://news.walla.co.il/item/3841259
 https://news.walla.co.il/break/3841265
 https://news.walla.co.il/break/3841274
+https://news.walla.co.il/break/3841278
+https://news.walla.co.il/item/3841268
+https://news.walla.co.il/item/3841282
