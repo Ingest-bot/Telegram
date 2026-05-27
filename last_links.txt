@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839780
-https://news.walla.co.il/break/3839782
 https://news.walla.co.il/break/3839783
 https://news.walla.co.il/item/3839777
 https://hamal.co.il/main/לביהח-קפלן-הגיעו-3-פצועים-באורח-אנוש-קשה-ובינוני-268783
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841166
 https://news.walla.co.il/item/3841151
 https://news.walla.co.il/break/3841180
 https://news.walla.co.il/item/3841128
+https://news.walla.co.il/break/3841183
+https://news.walla.co.il/item/3841191
