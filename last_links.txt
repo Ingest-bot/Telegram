@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/מזג-אוויר-קר-מהרגילמעונן-חלקית-וינשבו-רוחות-ערות-גשם-מקומי-268789
-https://news.walla.co.il/break/3839789
-https://news.walla.co.il/break/3839790
 https://hamal.co.il/main/מסתערבים-פשטו-268790
 https://hamal.co.il/main/חשד-לרצח-בלוד-268791
 https://news.walla.co.il/break/3839791
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3841217
 https://news.walla.co.il/break/3841224
 https://news.walla.co.il/break/3841233
 https://news.walla.co.il/item/3841234
+https://news.walla.co.il/item/3841233
+https://news.walla.co.il/item/3841236
+https://news.walla.co.il/item/3840998
