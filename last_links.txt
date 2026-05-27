@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/בכירת-האום-פרנצסקה-אלבנזה-הוסרה-מרשימת-הסנקציות-של-ארהב-ר-268787
 https://hamal.co.il/main/דיווח-משרד-החוץ-האיראני-הודיע-כי-הוא-בוחן-את-עמדות-ארצות-הב-268788
 https://news.walla.co.il/break/3839785
 https://hamal.co.il/main/מזג-אוויר-קר-מהרגילמעונן-חלקית-וינשבו-רוחות-ערות-גשם-מקומי-268789
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841205
 https://news.walla.co.il/item/3841209
 https://news.walla.co.il/break/3841220
 https://news.walla.co.il/item/3841217
+https://news.walla.co.il/break/3841224
