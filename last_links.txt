@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/10-פצועים-בתאונת-דרכים-בכביש-7-בין-משאית-למיניבוס-268778
-https://news.walla.co.il/item/3839774
 https://hamal.co.il/main/התנגשות-משאית-ומיניבוססמוך-למחלף-שורק-שני-הרוגים-וכעשרה-פצו-268779
 https://hamal.co.il/main/התאונה-סמוך-למחלף-שורק-ההרוגים-הם-נער-בן-15-וצעירה-כבת-20-268780
 https://news.walla.co.il/break/3839776
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841146
 https://news.walla.co.il/break/3841148
 https://news.walla.co.il/break/3841152
 https://news.walla.co.il/item/3841150
+https://news.walla.co.il/break/3841159
+https://news.walla.co.il/item/3841164
