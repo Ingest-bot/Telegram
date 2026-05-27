@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/שובר-לב-השחקן-רז-אדם-שנהרג---עזר-לחייל-להשיג-כרטיס-למשחק-268777
-https://news.walla.co.il/break/3839774
-https://news.walla.co.il/break/3839775
 https://hamal.co.il/main/10-פצועים-בתאונת-דרכים-בכביש-7-בין-משאית-למיניבוס-268778
 https://news.walla.co.il/item/3839774
 https://hamal.co.il/main/התנגשות-משאית-ומיניבוססמוך-למחלף-שורק-שני-הרוגים-וכעשרה-פצו-268779
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841136
 https://news.walla.co.il/break/3841139
 https://news.walla.co.il/item/3841135
 https://news.walla.co.il/item/3841146
+https://news.walla.co.il/break/3841148
+https://news.walla.co.il/break/3841152
+https://news.walla.co.il/item/3841150
