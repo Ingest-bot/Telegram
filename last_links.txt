@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/התנגשות-משאית-ומיניבוססמוך-למחלף-שורק-שני-הרוגים-וכעשרה-פצו-268779
-https://hamal.co.il/main/התאונה-סמוך-למחלף-שורק-ההרוגים-הם-נער-בן-15-וצעירה-כבת-20-268780
 https://news.walla.co.il/break/3839776
 https://news.walla.co.il/break/3839778
 https://news.walla.co.il/break/3839780
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841152
 https://news.walla.co.il/item/3841150
 https://news.walla.co.il/break/3841159
 https://news.walla.co.il/item/3841164
+https://news.walla.co.il/break/3841166
+https://news.walla.co.il/item/3841151
