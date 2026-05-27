@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839766
 https://hamal.co.il/main/מפחיתים-סרטן-ומאריכים-חיים-אלה-הירקות-שאתם-חייבים-להכניס-לצ-268676
 https://news.walla.co.il/item/3839812
 https://hamal.co.il/main/יוצאת-האח-הגדול-מגיבה-לפרידה-268682
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841282
 https://news.walla.co.il/break/3841291
 https://news.walla.co.il/item/3841281
 https://news.walla.co.il/item/3841287
+https://news.walla.co.il/item/3841295
