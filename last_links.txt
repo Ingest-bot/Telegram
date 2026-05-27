@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839761
-https://hamal.co.il/main/קותי-סבג-זועם-אחרי-זה-בוכים-שקוראים-להם-ערוצי-תבהלה-268749
-https://hamal.co.il/main/לוחמי-האש-פועלים-בשריפה-במטבח-באולם-אירועים-באשדוד---פונו-14-268773
 https://news.walla.co.il/break/3839770
 https://news.walla.co.il/break/3839769
 https://hamal.co.il/main/גבר-בן-28-במצב-קשה-בהכרה-עם-חבלות-בראש-ובגפיים-דניאל-חובש-268774
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841095
 https://news.walla.co.il/break/3841099
 https://news.walla.co.il/break/3841102
 https://news.walla.co.il/break/3841105
+https://news.walla.co.il/break/3841114
+https://news.walla.co.il/break/3841116
+https://news.walla.co.il/break/3841119
