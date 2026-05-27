@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/אחרי-שנפצעו-בלבנון-מחט-401-ולוחמת-התיעוד-שבו-להכרה-268799
-https://news.walla.co.il/break/3839827
 https://news.walla.co.il/item/3839826
 https://hamal.co.il/main/מוקדם-מהצפוי-כך-איראן-שיקמה-מערך-הטילים-והכטבמים--דיווח-268802
 https://news.walla.co.il/break/3839830
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841302
 https://news.walla.co.il/break/3841317
 https://news.walla.co.il/item/3841315
 https://news.walla.co.il/item/3841304
+https://news.walla.co.il/item/3841321
+https://news.walla.co.il/item/3841279
