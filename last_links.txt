@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839826
 https://hamal.co.il/main/מוקדם-מהצפוי-כך-איראן-שיקמה-מערך-הטילים-והכטבמים--דיווח-268802
 https://news.walla.co.il/break/3839830
 https://hamal.co.il/main/הולכת-רגל-נפגעה-מרכב-בלוד-מצבה-קשה-268806
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841315
 https://news.walla.co.il/item/3841304
 https://news.walla.co.il/item/3841321
 https://news.walla.co.il/item/3841279
+https://news.walla.co.il/break/3841322
