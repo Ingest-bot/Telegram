@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/דיווח-268810
 https://news.walla.co.il/break/3839838
 https://news.walla.co.il/item/3839839
 https://hamal.co.il/main/צפו-5-שבחים-ישנו-באוהלים-בתוך-יער-בגליל---ונעצרו-268811
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841348
 https://news.walla.co.il/item/3841349
 https://news.walla.co.il/item/3841352
 https://news.walla.co.il/item/3841359
+https://news.walla.co.il/break/3841363
