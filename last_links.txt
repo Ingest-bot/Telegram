@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839783
-https://news.walla.co.il/item/3839777
-https://hamal.co.il/main/לביהח-קפלן-הגיעו-3-פצועים-באורח-אנוש-קשה-ובינוני-268783
 https://hamal.co.il/main/גבר-כן-25-נהרג-באתר-בנייה-בלוד-לאחר-שנפצע-מחפץ-כבד-268784
 https://hamal.co.il/main/דריכות-השיא-עליית-המדרגה-במומ---ושאלת-העיתוי-לתקיפה-באיראן-268785
 https://hamal.co.il/main/דיווח-מחלקת-המדינה-האמריקנית-חוקרת-קרן-סיוע-ההומניטרי-שפעלה-268786
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841180
 https://news.walla.co.il/item/3841128
 https://news.walla.co.il/break/3841183
 https://news.walla.co.il/item/3841191
+https://news.walla.co.il/break/3841196
+https://news.walla.co.il/break/3841200
+https://news.walla.co.il/item/3841193
