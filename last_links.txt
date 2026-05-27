@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839825
-https://hamal.co.il/main/המתפש-לאום-268797
-https://hamal.co.il/main/סוכל-ניסיון-הברחת-אמלח-בגבול-ירדן-26-אקדחים-נתפסו-268798
 https://hamal.co.il/main/אחרי-שנפצעו-בלבנון-מחט-401-ולוחמת-התיעוד-שבו-להכרה-268799
 https://news.walla.co.il/break/3839827
 https://news.walla.co.il/item/3839826
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3841303
 https://news.walla.co.il/break/3841305
 https://news.walla.co.il/break/3841307
 https://news.walla.co.il/item/3841302
+https://news.walla.co.il/break/3841317
+https://news.walla.co.il/item/3841315
+https://news.walla.co.il/item/3841304
