@@ -1,9 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/לקראת-המונדיאל-רחוב-בארצות-הברית-ייקרא-על-שם-ליאו-מסי-268771
-https://hamal.co.il/main/אירוע-נוסף-של-נפילת-רחפן-נפץ-בדרום-לבנון-לוחמת-במצב-קשה-268772
-https://news.walla.co.il/break/3839757
-https://news.walla.co.il/break/3839756
-https://news.walla.co.il/break/3839758
 https://hamal.co.il/main/כבר-139-מתים-בהתפרצות-האבולה-באפריקה-המספר-צפוי-לעלות-268756
 https://news.walla.co.il/break/3839763
 https://news.walla.co.il/item/3839761
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3841062
 https://news.walla.co.il/break/3841070
 https://news.walla.co.il/item/3841084
 https://news.walla.co.il/break/3841085
+https://news.walla.co.il/break/3841088
+https://news.walla.co.il/break/3841089
+https://news.walla.co.il/break/3841091
+https://news.walla.co.il/break/3841095
+https://news.walla.co.il/break/3841099
