@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839794
 https://hamal.co.il/main/לפני-הקפיצה-הגדולה-בקריירה-על-הטרגדיה-של-רז-אדם-זל-268793
 https://news.walla.co.il/break/3839798
 https://hamal.co.il/main/השיחה-מתוחה-בין-טראמפ-לנתניהו-על-המשך-המלחמה-באיראן--דיווח-268794
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841248
 https://news.walla.co.il/break/3841249
 https://news.walla.co.il/break/3841262
 https://news.walla.co.il/item/3841259
+https://news.walla.co.il/break/3841265
