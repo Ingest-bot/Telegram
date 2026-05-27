@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/הולכת-רגל-נפגעה-מרכב-בלוד-מצבה-קשה-268806
 https://hamal.co.il/main/התאונה-הקטלנית-בכביש-7-אהרון-פרץ-ושירה-נעים-268805
 https://hamal.co.il/main/שבועות-268801
 https://hamal.co.il/main/צפו-לוחמי-268807
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841279
 https://news.walla.co.il/break/3841322
 https://news.walla.co.il/break/3841330
 https://news.walla.co.il/item/3841331
+https://news.walla.co.il/item/3841340
