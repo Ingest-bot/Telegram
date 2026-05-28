@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839892
-https://news.walla.co.il/item/3839890
 https://hamal.co.il/main/ההתרעות-בקריית-שמונה-ומנרה-זיהוי-שווא-268855
 https://hamal.co.il/main/לצד-מרחבים-מוגנים-קיבוץ-חניתה-בקו-העימות-חוגג-שבועות-268857
 https://hamal.co.il/main/יי-268859
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841539
 https://news.walla.co.il/break/3841540
 https://news.walla.co.il/break/3841542
 https://news.walla.co.il/item/3841543
+https://news.walla.co.il/break/3841545
+https://news.walla.co.il/break/3841547
