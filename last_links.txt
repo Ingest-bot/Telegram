@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/טראמפ-נשיג-את-האורניום-המועשר---ונשמיד-אותו-כשנקבל-אותו-268846
-https://news.walla.co.il/break/3839888
-https://news.walla.co.il/break/3839890
 https://news.walla.co.il/break/3839891
 https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-בקריית-שמונה-ובמנרה-268850
 https://hamal.co.il/main/מאי-גולן-268851
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3841504
 https://news.walla.co.il/break/3841510
 https://news.walla.co.il/item/3841513
 https://news.walla.co.il/item/3841498
+https://news.walla.co.il/break/3841526
+https://news.walla.co.il/break/3841527
+https://news.walla.co.il/break/3841535
