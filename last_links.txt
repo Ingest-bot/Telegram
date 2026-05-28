@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839923
-https://hamal.co.il/main/דיווח-איראני-חילופי-מסרים-בין-איראן-לארהב-נמשכים-268870
 https://news.walla.co.il/break/3839926
 https://news.walla.co.il/break/3839927
 https://news.walla.co.il/break/3839929
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841562
 https://news.walla.co.il/break/3841568
 https://news.walla.co.il/break/3841570
 https://news.walla.co.il/item/3841566
+https://news.walla.co.il/break/3841577
+https://news.walla.co.il/item/3841576
