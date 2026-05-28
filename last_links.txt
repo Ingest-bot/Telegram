@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839852
-https://news.walla.co.il/break/3839857
 https://hamal.co.il/main/צהל-על-האזעקות-בגליל-זוהתה-מטרה-חשודה-האירוע-הסתיים-268820
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-שטח-באום-אל-פאחם-מצבו-קשה-268821
 https://news.walla.co.il/break/3839861
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841378
 https://news.walla.co.il/item/3841336
 https://news.walla.co.il/break/3841380
 https://news.walla.co.il/break/3841385
+https://news.walla.co.il/break/3841392
+https://news.walla.co.il/item/3841384
