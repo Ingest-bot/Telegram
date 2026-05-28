@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839876
 https://news.walla.co.il/break/3839877
 https://hamal.co.il/main/האתר-הפופולארי-זועק-זה-הסיפור-של-ענף-התיירות-כולו-בצפון-268839
 https://news.walla.co.il/break/3839878
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841442
 https://news.walla.co.il/break/3841445
 https://news.walla.co.il/break/3841451
 https://news.walla.co.il/item/3841445
+https://news.walla.co.il/break/3841457
