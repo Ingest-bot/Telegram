@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839861
-https://news.walla.co.il/break/3839864
 https://news.walla.co.il/item/3839862
 https://hamal.co.il/main/איטליה-לאיחוד-האירופי-הטילו-סנקציות-על-בן-גביר-268824
 https://hamal.co.il/main/דיווח-268823
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841392
 https://news.walla.co.il/item/3841384
 https://news.walla.co.il/break/3841403
 https://news.walla.co.il/break/3841400
+https://news.walla.co.il/break/3841407
+https://news.walla.co.il/item/3841405
