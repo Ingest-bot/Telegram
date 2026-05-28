@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/וחג-שבועות-תעשו-לכם-כל-האטרקציות-והאירועים-המומלצים-268893
-https://news.walla.co.il/break/3839955
 https://news.walla.co.il/item/3839961
 https://hamal.co.il/main/שר-החוץ-האמריקני-חלה-התקדמות-קלה-בשיחות-עם-איראן-268894
 https://news.walla.co.il/break/3839964
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841629
 https://news.walla.co.il/break/3841627
 https://news.walla.co.il/break/3841633
 https://news.walla.co.il/break/3841634
+https://news.walla.co.il/item/3841635
+https://news.walla.co.il/item/3841636
