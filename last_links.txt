@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/מזג-אוויר-הפכפך-התחממות-קלה-בסוף-השבוע---ירידה-נוספת-בראשון-268880
-https://hamal.co.il/main/האזעקות-בראש-הנקרה-האירוע-הסתיים-ללא-נפגעים-268881
 https://news.walla.co.il/item/3839939
 https://news.walla.co.il/item/3839936
 https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-יעדי-חיזבאללה-בדרום-לבנון-הדי-פיצוצים-ב-268883
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841589
 https://news.walla.co.il/item/3841590
 https://news.walla.co.il/break/3841601
 https://news.walla.co.il/break/3841602
+https://news.walla.co.il/break/3841605
+https://news.walla.co.il/item/3841604
