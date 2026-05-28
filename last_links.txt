@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839975
 https://hamal.co.il/main/כוחותינו-זיהו-מחבלים-נכנסים-למפקדה-של-הארגון-וחיסלו-אותם-268896
 https://news.walla.co.il/break/3839979
 https://news.walla.co.il/break/3839984
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841639
 https://news.walla.co.il/break/3841640
 https://news.walla.co.il/item/3841644
 https://news.walla.co.il/item/3841648
+https://news.walla.co.il/break/3841650
