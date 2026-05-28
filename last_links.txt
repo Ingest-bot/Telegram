@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839903
 https://hamal.co.il/main/גוגל-ממשיכה-לרצוח-את-הרשת-הפתוחה-268862
 https://news.walla.co.il/break/3839913
 https://hamal.co.il/main/כביש-6-3-נפצעו-בתאונת-דרכים-בהם-צעירה-בת-20-במצב-קשה-268868
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841549
 https://news.walla.co.il/break/3841560
 https://news.walla.co.il/item/3841529
 https://news.walla.co.il/item/3841482
+https://news.walla.co.il/item/3841563
