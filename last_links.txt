@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839942
-https://news.walla.co.il/item/3839944
 https://news.walla.co.il/break/3839948
 https://news.walla.co.il/item/3839953
 https://hamal.co.il/main/וחג-שבועות-תעשו-לכם-כל-האטרקציות-והאירועים-המומלצים-268893
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841604
 https://news.walla.co.il/break/3841606
 https://news.walla.co.il/break/3841610
 https://news.walla.co.il/break/3841613
+https://news.walla.co.il/break/3841629
+https://news.walla.co.il/break/3841627
