@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/רהט-בת-21-נפצעה-בתאונת-דרכים-באורח-בינוני-268828
-https://hamal.co.il/main/נמשיך-לשמור-ולהגן-עליכם-לוחמי-גדוד-ברדלס-מאחלים-חג-שמח-268831
-https://news.walla.co.il/break/3839875
 https://news.walla.co.il/break/3839873
 https://hamal.co.il/main/דניאל-פרץ-צפוי-לשוב-לבאיירן-מינכן-בעקבות-הדחת-סאותהמפטון-268835
 https://news.walla.co.il/break/3839876
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3841416
 https://news.walla.co.il/item/3841357
 https://news.walla.co.il/break/3841431
 https://news.walla.co.il/item/3841412
+https://news.walla.co.il/break/3841440
+https://news.walla.co.il/break/3841442
+https://news.walla.co.il/break/3841445
