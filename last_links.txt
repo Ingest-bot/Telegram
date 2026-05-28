@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839939
 https://news.walla.co.il/item/3839936
 https://hamal.co.il/main/חיל-האוויר-תוקף-כעת-יעדי-חיזבאללה-בדרום-לבנון-הדי-פיצוצים-ב-268883
 https://news.walla.co.il/break/3839942
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841601
 https://news.walla.co.il/break/3841602
 https://news.walla.co.il/break/3841605
 https://news.walla.co.il/item/3841604
+https://news.walla.co.il/break/3841606
