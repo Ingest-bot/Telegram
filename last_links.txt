@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839846
 https://hamal.co.il/main/הרצח-בבני-ברק-268809
 https://hamal.co.il/main/יחידה-חדשה-הוקמה-בצהל-תנגיש-יכולות-AI-ללוחמים-268815
 https://hamal.co.il/main/לקראת-החג-אלו-מסלולי-הטיולים-בדרום-268817
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841370
 https://news.walla.co.il/break/3841372
 https://news.walla.co.il/break/3841373
 https://news.walla.co.il/item/3841365
+https://news.walla.co.il/break/3841375
