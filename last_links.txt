@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/שר-החוץ-האמריקני-יש-סימנים-טובים-בנוגע-להסכם-268842
-https://hamal.co.il/main/לייטר-״אני-מגנה-בחריפות-את-המתקפה-של-השרה-מאי-גולן-268843
 https://news.walla.co.il/item/3839883
 https://news.walla.co.il/break/3839886
 https://news.walla.co.il/item/3839885
@@ -499,3 +497,5 @@ https://news.walla.co.il/item/3841478
 https://news.walla.co.il/break/3841483
 https://news.walla.co.il/break/3841487
 https://news.walla.co.il/item/3841488
+https://news.walla.co.il/break/3841506
+https://news.walla.co.il/item/3841504
