@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839929
-https://hamal.co.il/main/רוסיה-מחוז-יארוסלב-תחת-מתקפת-רחפנים-268872
 https://hamal.co.il/main/שרי-החוץ-של-יפן-ארהב-אוסטרליה-והודו-ייפגשו-בניו-דלהי-268874
 https://hamal.co.il/main/צהל-שני-חמושים-חוסלו-בדרום-לבנון-לאחר-שזוהו-סמוך-לגבול-268876
 https://news.walla.co.il/break/3839930
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841577
 https://news.walla.co.il/item/3841576
 https://news.walla.co.il/item/3841583
 https://news.walla.co.il/item/3841581
+https://news.walla.co.il/break/3841586
+https://news.walla.co.il/break/3841585
