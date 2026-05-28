@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839885
 https://hamal.co.il/main/טראמפ-נשיג-את-האורניום-המועשר---ונשמיד-אותו-כשנקבל-אותו-268846
 https://news.walla.co.il/break/3839888
 https://news.walla.co.il/break/3839890
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841506
 https://news.walla.co.il/item/3841504
 https://news.walla.co.il/break/3841510
 https://news.walla.co.il/item/3841513
+https://news.walla.co.il/item/3841498
