@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/האתר-הפופולארי-זועק-זה-הסיפור-של-ענף-התיירות-כולו-בצפון-268839
-https://news.walla.co.il/break/3839878
 https://hamal.co.il/main/תל-אביב-בת-7-נפלה-מקומה-רביעית-מצבה-קשה-268840
 https://news.walla.co.il/break/3839881
 https://news.walla.co.il/break/3839883
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841451
 https://news.walla.co.il/item/3841445
 https://news.walla.co.il/break/3841457
 https://news.walla.co.il/break/3841465
+https://news.walla.co.il/item/3841473
+https://news.walla.co.il/item/3841478
