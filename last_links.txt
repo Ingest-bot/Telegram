@@ -1,10 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839838
-https://news.walla.co.il/item/3839839
-https://hamal.co.il/main/צפו-5-שבחים-ישנו-באוהלים-בתוך-יער-בגליל---ונעצרו-268811
-https://news.walla.co.il/break/3839842
-https://hamal.co.il/main/בא-לי-לטעום-כבר-שולחן-שבועות-המטורף-שהשאיר-את-רוסלנה-וטי-268812
-https://hamal.co.il/main/סגן-הרמטכ״ל-ללוחמי-חטיבת-החשמונאים-268814
 https://news.walla.co.il/break/3839846
 https://hamal.co.il/main/הרצח-בבני-ברק-268809
 https://hamal.co.il/main/יחידה-חדשה-הוקמה-בצהל-תנגיש-יכולות-AI-ללוחמים-268815
@@ -499,3 +493,9 @@ https://news.walla.co.il/item/3841349
 https://news.walla.co.il/item/3841352
 https://news.walla.co.il/item/3841359
 https://news.walla.co.il/break/3841363
+https://news.walla.co.il/break/3841368
+https://news.walla.co.il/break/3841369
+https://news.walla.co.il/break/3841370
+https://news.walla.co.il/break/3841372
+https://news.walla.co.il/break/3841373
+https://news.walla.co.il/item/3841365
