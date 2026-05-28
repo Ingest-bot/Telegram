@@ -1,7 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/יי-268859
-https://news.walla.co.il/break/3839901
-https://news.walla.co.il/break/3839900
 https://news.walla.co.il/break/3839903
 https://hamal.co.il/main/גוגל-ממשיכה-לרצוח-את-הרשת-הפתוחה-268862
 https://news.walla.co.il/break/3839913
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841545
 https://news.walla.co.il/break/3841547
 https://news.walla.co.il/break/3841554
 https://news.walla.co.il/item/3841549
+https://news.walla.co.il/break/3841560
+https://news.walla.co.il/item/3841529
+https://news.walla.co.il/item/3841482
