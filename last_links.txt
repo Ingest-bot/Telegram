@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3839891
-https://hamal.co.il/main/הופעלו-התרעות-על-חדירת-כלי-טיס-עוין-בקריית-שמונה-ובמנרה-268850
-https://hamal.co.il/main/מאי-גולן-268851
 https://hamal.co.il/main/אסון-בערב-החג-נקבע-מותה-של-בת-ה-7-שנפלה-מקומה-רביעית-בתא-268853
 https://news.walla.co.il/break/3839892
 https://news.walla.co.il/item/3839890
@@ -499,3 +496,6 @@ https://news.walla.co.il/item/3841498
 https://news.walla.co.il/break/3841526
 https://news.walla.co.il/break/3841527
 https://news.walla.co.il/break/3841535
+https://news.walla.co.il/break/3841539
+https://news.walla.co.il/break/3841540
+https://news.walla.co.il/break/3841542
