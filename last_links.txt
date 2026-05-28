@@ -1,8 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/שרי-החוץ-של-יפן-ארהב-אוסטרליה-והודו-ייפגשו-בניו-דלהי-268874
-https://hamal.co.il/main/צהל-שני-חמושים-חוסלו-בדרום-לבנון-לאחר-שזוהו-סמוך-לגבול-268876
-https://news.walla.co.il/break/3839930
-https://news.walla.co.il/item/3839931
 https://news.walla.co.il/break/3839932
 https://news.walla.co.il/break/3839934
 https://hamal.co.il/main/מזג-אוויר-הפכפך-התחממות-קלה-בסוף-השבוע---ירידה-נוספת-בראשון-268880
@@ -499,3 +495,7 @@ https://news.walla.co.il/item/3841583
 https://news.walla.co.il/item/3841581
 https://news.walla.co.il/break/3841586
 https://news.walla.co.il/break/3841585
+https://news.walla.co.il/break/3841592
+https://news.walla.co.il/break/3841593
+https://news.walla.co.il/item/3841589
+https://news.walla.co.il/item/3841590
