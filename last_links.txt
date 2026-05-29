@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/גבר-בן-30-נפצע-קשה-בתאונת-דרכים-ברהט-268914
 https://hamal.co.il/main/האזעקות-בצפון-מספר-נפילות-במרחב-הגבול-עם-לבנון-268916
 https://news.walla.co.il/item/3840010
 https://news.walla.co.il/break/3840013
@@ -499,3 +498,4 @@ https://news.walla.co.il/item/3841707
 https://news.walla.co.il/break/3841711
 https://news.walla.co.il/item/3841710
 https://news.walla.co.il/item/3841712
+https://news.walla.co.il/break/3841714
