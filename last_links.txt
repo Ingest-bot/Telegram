@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840019
-https://news.walla.co.il/break/3840020
 https://news.walla.co.il/item/3840021
 https://hamal.co.il/main/גבר-ואישה-אותרו-ללא-רוח-חיים-בשפלה-268926
 https://news.walla.co.il/break/3840022
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841730
 https://news.walla.co.il/break/3841742
 https://news.walla.co.il/item/3841744
 https://news.walla.co.il/item/3841746
+https://news.walla.co.il/break/3841750
+https://news.walla.co.il/item/3841749
