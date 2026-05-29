@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840003
 https://news.walla.co.il/item/3840001
 https://hamal.co.il/main/התרעות-הופעלו-במשגב-עם-הפרטים-בבדיקה-268905
 https://hamal.co.il/main/אישה-בת-51-נהרגה-בתאונת-דרכים-בכביש-9-268907
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841670
 https://news.walla.co.il/item/3841669
 https://news.walla.co.il/break/3841679
 https://news.walla.co.il/item/3841680
+https://news.walla.co.il/break/3841684
