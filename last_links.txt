@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3840027
 https://hamal.co.il/main/ב-נקבע-מותה-של-טליה-חיה-טימסית-בת-ה-11-שנפגעה-בתאונת-האוטוב-268930
 https://hamal.co.il/main/בצל-המתיחות-עם-איראן---טראמפ-ייעדר-מחתונת-בנו-268933
 https://hamal.co.il/main/פעוט-כבן-שנה-נפגע-מרכב-ונפצע-באורח-אנוש-בנגב-268934
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841762
 https://news.walla.co.il/item/3841764
 https://news.walla.co.il/break/3841765
 https://news.walla.co.il/item/3841758
+https://news.walla.co.il/item/3841762
