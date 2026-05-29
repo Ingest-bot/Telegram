@@ -1,9 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840013
-https://hamal.co.il/main/מסר-מרגיע-לאירופה-טראמפ-ישלח-5000-חיילים-נוספים-לפולין-268919
-https://news.walla.co.il/break/3840014
-https://news.walla.co.il/break/3840015
-https://news.walla.co.il/item/3840016
 https://hamal.co.il/main/גבר-בן-20-נהרג-בתאונת-דרכים-סמוך-לטבריה-268920
 https://hamal.co.il/main/דיווח-268921
 https://news.walla.co.il/break/3840017
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3841712
 https://news.walla.co.il/break/3841714
 https://news.walla.co.il/break/3841719
 https://news.walla.co.il/break/3841720
+https://news.walla.co.il/break/3841729
+https://news.walla.co.il/break/3841727
+https://news.walla.co.il/break/3841731
+https://news.walla.co.il/break/3841726
+https://news.walla.co.il/break/3841730
