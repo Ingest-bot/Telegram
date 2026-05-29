@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/המשטרה-פתחה-בחקירת-האירוע-הטרגי-בשפלה-268929
 https://news.walla.co.il/break/3840024
 https://news.walla.co.il/item/3840022
 https://news.walla.co.il/item/3840027
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841754
 https://news.walla.co.il/item/3841752
 https://news.walla.co.il/break/3841761
 https://news.walla.co.il/break/3841762
+https://news.walla.co.il/item/3841764
