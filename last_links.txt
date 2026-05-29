@@ -1,6 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/האזעקות-בצפון-מספר-נפילות-במרחב-הגבול-עם-לבנון-268916
-https://news.walla.co.il/item/3840010
 https://news.walla.co.il/break/3840013
 https://hamal.co.il/main/מסר-מרגיע-לאירופה-טראמפ-ישלח-5000-חיילים-נוספים-לפולין-268919
 https://news.walla.co.il/break/3840014
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841711
 https://news.walla.co.il/item/3841710
 https://news.walla.co.il/item/3841712
 https://news.walla.co.il/break/3841714
+https://news.walla.co.il/break/3841719
+https://news.walla.co.il/break/3841720
