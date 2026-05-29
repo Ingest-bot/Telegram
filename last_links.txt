@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3839995
 https://hamal.co.il/main/אזעקות-בלתי-פוסקות-בגליל-העליון-268911
 https://news.walla.co.il/break/3840006
 https://news.walla.co.il/break/3840008
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841691
 https://news.walla.co.il/item/3841690
 https://news.walla.co.il/break/3841693
 https://news.walla.co.il/item/3841698
+https://news.walla.co.il/break/3841705
