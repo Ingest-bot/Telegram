@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/בצל-המתיחות-עם-איראן---טראמפ-ייעדר-מחתונת-בנו-268933
 https://hamal.co.il/main/פעוט-כבן-שנה-נפגע-מרכב-ונפצע-באורח-אנוש-בנגב-268934
 https://news.walla.co.il/break/3840033
 https://news.walla.co.il/break/3840036
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841765
 https://news.walla.co.il/item/3841758
 https://news.walla.co.il/item/3841762
 https://news.walla.co.il/break/3841768
+https://news.walla.co.il/break/3841769
