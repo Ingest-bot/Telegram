@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/צהל-על-האזעקות-בצפון-זוהו-מספר-נפילות-בסמוך-לגבול-268902
 https://news.walla.co.il/break/3839999
 https://news.walla.co.il/break/3840000
 https://hamal.co.il/main/בדרך-להסכם-משלחת-קטארית-יצאה-לאיראן-268903
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841662
 https://news.walla.co.il/break/3841666
 https://news.walla.co.il/break/3841667
 https://news.walla.co.il/item/3841665
+https://news.walla.co.il/break/3841670
