@@ -1,6 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840000
-https://hamal.co.il/main/בדרך-להסכם-משלחת-קטארית-יצאה-לאיראן-268903
 https://news.walla.co.il/break/3840003
 https://news.walla.co.il/item/3840001
 https://hamal.co.il/main/התרעות-הופעלו-במשגב-עם-הפרטים-בבדיקה-268905
@@ -499,3 +497,5 @@ https://news.walla.co.il/break/3841667
 https://news.walla.co.il/item/3841665
 https://news.walla.co.il/break/3841670
 https://news.walla.co.il/item/3841669
+https://news.walla.co.il/break/3841679
+https://news.walla.co.il/item/3841680
