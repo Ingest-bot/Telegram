@@ -1,5 +1,4 @@
 COUNTER:28
-https://hamal.co.il/main/גבר-בן-20-נהרג-בתאונת-דרכים-סמוך-לטבריה-268920
 https://hamal.co.il/main/דיווח-268921
 https://news.walla.co.il/break/3840017
 https://news.walla.co.il/break/3840019
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841727
 https://news.walla.co.il/break/3841731
 https://news.walla.co.il/break/3841726
 https://news.walla.co.il/break/3841730
+https://news.walla.co.il/break/3841742
