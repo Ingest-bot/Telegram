@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3840068
 https://hamal.co.il/main/האזעקות-בקריית-שמונה-נפילה-של-מטרה-אווירית-בשטח-ישראל-268937
 https://news.walla.co.il/item/3840073
 https://hamal.co.il/main/שוד-אלים-בביתו-של-אגדת-הפורמולה-1-שנפצע-קל-בראשו-268940
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841803
 https://news.walla.co.il/break/3841804
 https://news.walla.co.il/break/3841805
 https://news.walla.co.il/item/3841774
+https://news.walla.co.il/break/3841810
