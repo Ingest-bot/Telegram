@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840059
-https://hamal.co.il/main/רוכב-אופניים-כבן-50-נפגע-מרכב-סמוך-למחלף-הדרים-נקבע-מותו-268935
-https://news.walla.co.il/break/3840063
 https://news.walla.co.il/break/3840065
 https://news.walla.co.il/break/3840074
 https://news.walla.co.il/item/3840068
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3841798
 https://news.walla.co.il/item/3841796
 https://news.walla.co.il/break/3841800
 https://news.walla.co.il/item/3841801
+https://news.walla.co.il/break/3841802
+https://news.walla.co.il/break/3841803
+https://news.walla.co.il/break/3841804
