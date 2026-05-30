@@ -1,5 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/item/3840073
 https://hamal.co.il/main/שוד-אלים-בביתו-של-אגדת-הפורמולה-1-שנפצע-קל-בראשו-268940
 https://news.walla.co.il/break/3840079
 https://news.walla.co.il/break/3840080
@@ -499,3 +498,4 @@ https://news.walla.co.il/break/3841805
 https://news.walla.co.il/item/3841774
 https://news.walla.co.il/break/3841810
 https://news.walla.co.il/break/3841813
+https://news.walla.co.il/break/3841815
