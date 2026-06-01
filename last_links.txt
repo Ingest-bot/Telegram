@@ -1,7 +1,4 @@
 COUNTER:28
-https://news.walla.co.il/break/3840560
-https://news.walla.co.il/item/3840552
-https://news.walla.co.il/break/3840566
 https://news.walla.co.il/break/3840567
 https://news.walla.co.il/item/3840566
 https://news.walla.co.il/break/3840592
@@ -499,3 +496,6 @@ https://news.walla.co.il/break/3842279
 https://news.walla.co.il/item/3842281
 https://news.walla.co.il/item/3842289
 https://news.walla.co.il/break/3842300
+https://news.walla.co.il/break/3842302
+https://news.walla.co.il/break/3842304
+https://news.walla.co.il/break/3842305
