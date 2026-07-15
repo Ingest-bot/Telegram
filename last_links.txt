@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852349
-https://news.walla.co.il/break/3852352
-https://news.walla.co.il/item/3852351
 https://news.walla.co.il/item/3852355
 https://news.walla.co.il/break/3852356
 https://news.walla.co.il/break/3852358
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3853825
 https://hamal.co.il/main/טרגדיה-במושב-תקומה-הילדה-שנפצעה-אנוש-בתאונה---נפטרה-מפצעיה-276476
 https://hamal.co.il/main/יור-הפרלמנט-האיראני-מאיים-את-נקמתנו-נביא-לידי-מימוש-276481
 https://hamal.co.il/main/היסטוריה-בכנסת-אושר-החוק-לפיצול-תפקיד-היועץ-המשפטי-לממשלה-276472
+https://news.walla.co.il/break/3853830
+https://hamal.co.il/main/צהל-חיסל-שלושה-מחבלי-חיזבאללה-חמושים-בבית-יאהון-276488
+https://hamal.co.il/main/האבטחה-למשפחת-נתניהו-תוארך-ההחלטה-החריגה-של-ראש-השבכ-276484
