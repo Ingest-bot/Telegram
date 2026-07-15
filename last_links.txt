@@ -1,9 +1,4 @@
-COUNTER:28
-https://news.walla.co.il/break/3852158
-https://news.walla.co.il/break/3852160
-https://news.walla.co.il/break/3852163
-https://news.walla.co.il/break/3852164
-https://news.walla.co.il/break/3852170
+COUNTER:32
 https://news.walla.co.il/break/3852175
 https://news.walla.co.il/break/3852191
 https://news.walla.co.il/break/3852196
@@ -499,3 +494,8 @@ https://news.walla.co.il/item/3853748
 https://news.walla.co.il/break/3853755
 https://news.walla.co.il/break/3853761
 https://news.walla.co.il/item/3853753
+https://news.walla.co.il/item/3853766
+https://hamal.co.il/main/המורה-הודתה-בקשר-אסור-עם-תלמיד-אחרי-שבעלה-חשף-אותה-אסור-לפספ-276413
+https://hamal.co.il/main/השר-אופיר-סופר-הודיע-על-פרישתו-מהפוליטיקה-276414
+https://hamal.co.il/main/בגץ-בהודעה-נמנע-כניסתו-לתוקף-של-חוק-הקפאת-מעצרי-המשתמטים-276419
+https://hamal.co.il/main/דיווח-בלבנון-נסיגה-ישראלית-מאזורי-הפיילוט-בתוך-ימים-276422
