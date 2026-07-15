@@ -88,28 +88,9 @@ def _try_cleanuri(long_url):
         return data["result_url"]
     raise ValueError(f"cleanuri: {data}")
 
-TINYURL_API_TOKEN = os.getenv("TINYURL_API_TOKEN")  # אופציונלי: token מ-tinyurl.com/app/dev
-
-def _try_tinyurl_auth(long_url):
-    # גרסה מאומתת של tinyurl - הרבה פחות סבירה להיחסם מאשר קריאות אנונימיות,
-    # ולא מציגה מסך אזהרה/preview כמו הגרסה החינמית הלא-מאומתת
-    if not TINYURL_API_TOKEN:
-        raise ValueError("tinyurl_auth: no token configured")
-    r = requests.post(
-        "https://api.tinyurl.com/create",
-        params={"api_token": TINYURL_API_TOKEN},
-        json={"url": long_url},
-        timeout=5,
-    )
-    data = r.json()
-    if r.status_code == 200 and data.get("data", {}).get("tiny_url"):
-        return data["data"]["tiny_url"]
-    raise ValueError(f"tinyurl_auth: {data}")
-
 def get_short_url(long_url):
-    # קודם ננסה שירות מאומת אם הוגדר token (אמין הרבה יותר מ-IP-ים אנונימיים
-    # של GitHub Actions, שנתקלים בחסימות אנטי-ספאם משותפות מול שירותים חינמיים)
-    shorteners = (_try_tinyurl_auth, _try_dagd, _try_isgd, _try_vgd, _try_cleanuri)
+    # cleanuri ראשון - הפניה ישירה בלי מסך ביניים, נראה שהיחיד שעובד כרגע
+    shorteners = (_try_cleanuri, _try_dagd, _try_isgd, _try_vgd)
     for shortener in shorteners:
         try:
             return shortener(long_url)
