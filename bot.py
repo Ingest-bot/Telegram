@@ -1,8 +1,10 @@
 import feedparser
 import asyncio
+import fcntl
 import os
 import re
 import requests
+import sys
 import time
 from datetime import datetime, timedelta
 from telegram import Bot
@@ -22,12 +24,14 @@ HAMAL_TOKEN = os.getenv("HAMAL_TELEGRAM_TOKEN")
 HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 
 LAST_LINKS_FILE = "last_links.txt"
+LOCK_FILE = "bot.lock"
 MAX_LINKS_TO_KEEP = 500
 MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
 MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
 
-RLE = "\u202B" 
-PDF = "\u202C" 
+# RLM (Right-to-Left Mark) בתחילת הטקסט וגם בסופו - זו השיטה שהכי אמינה
+# לאלץ יישור ימני בקפציות תמונות בטלגרם אנדרואיד. RLE/PDF (embedding) הוסרו
+# כי מתברר שאנדרואיד לפעמים מתעלם מהם בקפציות (בניגוד ל-iOS/דסקטופ).
 RLM = "\u200f"
 
 # --- פונקציות עזר ---
@@ -160,6 +164,21 @@ def extract_image(entry, feed_default_image=None):
 
     return upgrade_image_quality(image_url)
 
+def acquire_lock():
+    """
+    מונע הרצה כפולה במקביל (למשל אם ריצה קודמת עדיין רצה כשהריצה הבאה
+    כבר התחילה בגלל timeout ארוך/עומס). בלי זה, שתי ריצות יכולות לקרוא
+    את אותו last_links.txt לפני ששתיהן שומרות, וכך שתיהן שולחות את אותו
+    אייטם - זה ההסבר הסביר ביותר לכפילות שראית.
+    """
+    lock_fd = open(LOCK_FILE, "w")
+    try:
+        fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    except (IOError, OSError):
+        print("ריצה אחרת כבר פעילה - יוצא כדי למנוע שליחה כפולה")
+        sys.exit(0)
+    return lock_fd
+
 def get_history():
     links = []
     if os.path.exists(LAST_LINKS_FILE):
@@ -202,7 +221,7 @@ async def process_walla(bot, seen_links_set, links_list):
             cleaned_link = clean_url(entry.link)
             
             prefix = "🚨 " if is_mivzak else ""
-            caption = f'{RLE}{RLM}<b><a href="{cleaned_link}">{prefix}{entry.title}</a></b>{PDF}'
+            caption = f'{RLM}<b><a href="{cleaned_link}">{prefix}{entry.title}</a></b>{RLM}'
             
             try:
                 if is_mivzak:
@@ -236,8 +255,6 @@ async def process_hamal(seen_links_set, links_list):
         url = f"{HAMAL_RSS}?t={int(time.time())}"
         feed = feedparser.parse(url)
 
-        feed_default_image = get_feed_default_image(feed)
-        
         # לוקח רק את 5 האייטמים הראשונים בפיד
         latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
         
@@ -258,18 +275,12 @@ async def process_hamal(seen_links_set, links_list):
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
             
-            message = f'{RLE}{RLM}<b><a href="{cleaned_link}">{clean_title}</a></b>{PDF}'
+            message = f'{RLM}<b><a href="{cleaned_link}">{clean_title}</a></b>{RLM}'
             
             try:
-                image = extract_image(entry, feed_default_image)
-                if image:
-                    try:
-                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image, caption=message, parse_mode='HTML')
-                    except Exception as photo_err:
-                        print(f"Hamal photo failed ({photo_err}), falling back to text")
-                        await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
-                else:
-                    await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                # לחמ"ל אין תמונות אמיתיות לכתבה - התמונה שה-RSS מספק היא תמיד
+                # הלוגו הגנרי של האתר, ולכן לא שולחים תמונה בכלל, רק טקסט.
+                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
                 
@@ -280,6 +291,9 @@ async def process_hamal(seen_links_set, links_list):
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
+
+    lock_fd = acquire_lock()
+
     links_list = get_history()
     seen_links_set = {clean_url(l) for l in links_list}
 
