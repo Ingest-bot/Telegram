@@ -1,6 +1,7 @@
 import feedparser
 import asyncio
 import fcntl
+import html
 import os
 import re
 import requests
@@ -257,7 +258,9 @@ async def process_walla(bot, seen_links_set, links_list):
             cleaned_link = clean_url(entry.link)
             
             prefix = "🚨 " if is_mivzak else ""
-            caption = f'{RLM}<b><a href="{cleaned_link}">{prefix}{entry.title}</a></b>{RLM}'
+            safe_title = html.escape(entry.title)
+            # וואלה: בלי הייפרלינק מוסתר - הכותרת מודגשת, והקישור עצמו מוצג כטקסט גלוי בשורה נפרדת מתחתיה
+            caption = f'{RLM}<b>{prefix}{safe_title}</b>{RLM}\n{cleaned_link}'
             
             try:
                 if is_mivzak:
