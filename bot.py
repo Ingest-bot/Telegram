@@ -202,7 +202,8 @@ async def process_walla(bot, seen_links_set, links_list):
             cleaned_link = clean_url(entry.link)
             
             prefix = "🚨 " if is_mivzak else ""
-            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{cleaned_link}"
+            link_html = f'<a href="{cleaned_link}">📖 לכתבה המלאה</a>'
+            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{link_html}"
             
             try:
                 if is_mivzak:
@@ -251,14 +252,15 @@ async def process_hamal(seen_links_set, links_list):
             # לא משתמשים יותר בשירותי קיצור חיצוניים (cleanuri/is.gd/v.gd/da.gd) -
             # הם הוכיחו שהם לא אמינים (חלקם מובילים לפרסומות/ספאם, חלקם לא זמינים,
             # ואצל אחד מהם קישורים עם עברית בנתיב נשברו ולא הובילו ליעד הנכון).
-            # הקישור המקורי המלא תמיד עובד ואין בו תלות בצד שלישי.
-            short_link = cleaned_link
+            # הקישור המקורי המלא תמיד עובד, ומכיוון שהוא מוצג כהיפרלינק מוסתר
+            # (טקסט קליק במקום ה-URL עצמו), האורך שלו כבר לא משנה בכלל.
             
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
             
-            message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
+            link_html = f'<a href="{cleaned_link}">📖 לכתבה המלאה</a>'
+            message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{link_html}"
             
             try:
                 image = extract_image(entry, feed_default_image)
