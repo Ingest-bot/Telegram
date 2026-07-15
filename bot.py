@@ -18,6 +18,7 @@ WALLA_FEEDS = {
     "טכנולוגיה": "https://rss.walla.co.il/feed/6"
 }
 HAMAL_RSS = "https://public-api.hamal.co.il/rss"
+HAMAL_GENERIC_IMAGE = "https://hamal.co.il/seo/hamal.png"  # תמונת ברירת מחדל של חמ"ל - לא תמונה אמיתית של כתבה, לא לשלוח
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -329,7 +330,7 @@ async def process_hamal(seen_links_set, links_list, image_history):
             #    *בתוך* תגית ה-<a> עצמה, ומוודאים שהתו הראשון בפועל בתוך
             #    הקישור הוא אות עברית חזקה (ולא אימוג'י שהוא ניטרלי) - האימוג'י
             #    זז לסוף הטקסט במקום ההתחלה.
-            message = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{RLM}<a href="{cleaned_link}">{RLM}לכתבה המלאה 🔗{RLM}</a>{RLM}'
+            message = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{RLM}<a href="{cleaned_link}">{RLM}<b>לכתבה המלאה</b>{RLM}</a>{RLM}'
 
             # תמונה אמיתית של כתבה כמעט תמיד ייחודית לאותה כתבה. התמונה
             # הגנרית (לוגו האתר) חוזרת על עצמה בהרבה כתבות שונות שאין להן
@@ -340,13 +341,16 @@ async def process_hamal(seen_links_set, links_list, image_history):
             image_to_send = None
             if raw_image:
                 normalized = clean_image_url(raw_image)
-                prior_count = image_history.get(normalized, 0)
-                print(f"DEBUG hamal image for '{clean_title[:40]}': {raw_image} (seen {prior_count}x before)")
-                if prior_count == 0:
-                    image_to_send = upgrade_image_quality(raw_image)
+                print(f"DEBUG hamal image for '{clean_title[:40]}': {raw_image}")
+                if normalized == clean_image_url(HAMAL_GENERIC_IMAGE):
+                    print("  -> matches known generic Hamal image, skipping")
                 else:
-                    print("  -> already seen before, treating as generic image, skipping")
-                image_history[normalized] = prior_count + 1
+                    prior_count = image_history.get(normalized, 0)
+                    if prior_count == 0:
+                        image_to_send = upgrade_image_quality(raw_image)
+                    else:
+                        print("  -> already seen before, treating as generic image, skipping")
+                    image_history[normalized] = prior_count + 1
             
             try:
                 sent = False
