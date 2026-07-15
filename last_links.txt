@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852410
-https://news.walla.co.il/break/3852411
-https://news.walla.co.il/break/3852413
 https://news.walla.co.il/break/3852414
 https://news.walla.co.il/break/3852416
 https://news.walla.co.il/break/3852417
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3853853
 https://hamal.co.il/main/דיווחים-על-אזעקות-בבחריין-276498
 https://hamal.co.il/main/כלי-תקשורת-באיראן-הפצצה-כבדה-באהוואז-שבדרום-מערב-המדינה-276499
 https://hamal.co.il/main/דיווח-טראמפ-נוטה-לפעול-להרחבת-הפעילות-הצבאית-באיראן-276500
+https://news.walla.co.il/break/3853856
+https://news.walla.co.il/item/3853854
+https://hamal.co.il/main/אנגליה-עלתה-ליתרון-01-על-ארגנטינה-276502
