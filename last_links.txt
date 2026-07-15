@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3852360
-https://news.walla.co.il/break/3852359
-https://news.walla.co.il/item/3852362
 https://news.walla.co.il/break/3852369
 https://news.walla.co.il/break/3852372
 https://news.walla.co.il/break/3852374
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3853831
 https://hamal.co.il/main/חכ-דו-אילוז-מודיע-על-פרישה-לא-אתמודד-בפריימריז-של-הליכוד-276489
 https://news.walla.co.il/break/3853840
 https://hamal.co.il/main/דיווח-איראן-מנצלת-את-המלחמה---ומאיצה-את-קצב-ההוצאות-להורג-276471
+https://news.walla.co.il/break/3853843
+https://hamal.co.il/main/דיווח-הפנטגון-בחן-אפשרויות-לפעולה-צבאית-נגד-קובה-276490
+https://hamal.co.il/main/חוק-״הלומי-הקרב״-אושר-סופית-אופיר-כץ-למען-הלוחמים-276492
