@@ -1,5 +1,3 @@
-COUNTER:33
-https://news.walla.co.il/break/3852211
 https://news.walla.co.il/break/3852210
 https://news.walla.co.il/break/3852212
 https://news.walla.co.il/break/3852215
@@ -499,3 +497,4 @@ https://news.walla.co.il/break/3853768
 https://news.walla.co.il/break/3853769
 https://news.walla.co.il/item/3853773
 https://hamal.co.il/main/מרגיש-כמו-גמר-הכל-על-הקרב-העצום-בין-אנגליה-וארגנטינה-276425
+https://news.walla.co.il/break/3853780
