@@ -25,6 +25,8 @@ HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 
 LAST_LINKS_FILE = "last_links.txt"
 LOCK_FILE = "bot.lock"
+IMAGE_HISTORY_FILE = "hamal_image_counts.txt"
+MAX_IMAGE_HISTORY = 300
 MAX_LINKS_TO_KEEP = 500
 MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
 MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
@@ -142,7 +144,8 @@ def get_feed_default_image(feed):
         pass
     return None
 
-def extract_image(entry, feed_default_image=None):
+def extract_raw_image(entry):
+    """שולף את כתובת התמונה הגולמית מהאייטם, בלי שום סינון"""
     image_url = None
     if 'media_content' in entry: image_url = entry.media_content[0]['url']
     elif 'links' in entry:
@@ -151,6 +154,10 @@ def extract_image(entry, feed_default_image=None):
                 image_url = link.get('href'); break
     if not image_url and 'enclosure' in entry:
         image_url = entry.enclosure.get('url')
+    return image_url
+
+def extract_image(entry, feed_default_image=None):
+    image_url = extract_raw_image(entry)
 
     if not image_url:
         return None
@@ -195,6 +202,35 @@ def save_history(links_list):
     with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
         for link in recent_links:
             f.write(f"{link}\n")
+
+def get_image_history():
+    """
+    טוען כמה פעמים כל תמונה (מנורמלת) כבר נראתה בעדכוני חמ"ל.
+    זה חלופה לזיהוי-לפי-לוגו-הפיד (שלא עובד לחמ"ל כי אין <image> ברמת
+    הפיד): תמונה אמיתית של כתבה כמעט תמיד ייחודית, ואילו התמונה הגנרית
+    (לוגו האתר) חוזרת על עצמה בהרבה כתבות - אז אם כבר ראינו אותה קודם,
+    מסמנים אותה כגנרית ולא שולחים אותה.
+    """
+    history = {}
+    if os.path.exists(IMAGE_HISTORY_FILE):
+        with open(IMAGE_HISTORY_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or "\t" not in line:
+                    continue
+                url, count = line.rsplit("\t", 1)
+                try:
+                    history[url] = int(count)
+                except ValueError:
+                    history[url] = 1
+    return history
+
+def save_image_history(history):
+    # שומר רק את האחרונים כדי שהקובץ לא יגדל בלי גבול
+    items = list(history.items())[-MAX_IMAGE_HISTORY:]
+    with open(IMAGE_HISTORY_FILE, "w", encoding="utf-8") as f:
+        for url, count in items:
+            f.write(f"{url}\t{count}\n")
 
 # --- עיבוד וואלה ---
 async def process_walla(bot, seen_links_set, links_list):
@@ -247,7 +283,7 @@ async def process_walla(bot, seen_links_set, links_list):
     return links_list
 
 # --- עיבוד חמ"ל ---
-async def process_hamal(seen_links_set, links_list):
+async def process_hamal(seen_links_set, links_list, image_history):
     if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list
     
     hamal_bot = Bot(token=HAMAL_TOKEN)
@@ -276,11 +312,34 @@ async def process_hamal(seen_links_set, links_list):
             clean_title = clean_title.lstrip(" :")
             
             message = f'{RLM}<b><a href="{cleaned_link}">{clean_title}</a></b>{RLM}'
+
+            # תמונה אמיתית של כתבה כמעט תמיד ייחודית לאותה כתבה. התמונה
+            # הגנרית (לוגו האתר) חוזרת על עצמה בהרבה כתבות שונות שאין להן
+            # תמונה אמיתית. לכן: אם זו הפעם הראשונה שרואים את התמונה הזו -
+            # כנראה תמונה אמיתית, שולחים אותה. אם כבר ראינו אותה קודם
+            # (לכתבה אחרת) - כנראה גנרית, לא שולחים.
+            raw_image = extract_raw_image(entry)
+            image_to_send = None
+            if raw_image:
+                normalized = clean_image_url(raw_image)
+                prior_count = image_history.get(normalized, 0)
+                print(f"DEBUG hamal image for '{clean_title[:40]}': {raw_image} (seen {prior_count}x before)")
+                if prior_count == 0:
+                    image_to_send = upgrade_image_quality(raw_image)
+                else:
+                    print("  -> already seen before, treating as generic image, skipping")
+                image_history[normalized] = prior_count + 1
             
             try:
-                # לחמ"ל אין תמונות אמיתיות לכתבה - התמונה שה-RSS מספק היא תמיד
-                # הלוגו הגנרי של האתר, ולכן לא שולחים תמונה בכלל, רק טקסט.
-                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                sent = False
+                if image_to_send:
+                    try:
+                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image_to_send, caption=message, parse_mode='HTML')
+                        sent = True
+                    except Exception as photo_err:
+                        print(f"Hamal photo failed ({photo_err}), falling back to text")
+                if not sent:
+                    await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
                 
@@ -296,13 +355,15 @@ async def main():
 
     links_list = get_history()
     seen_links_set = {clean_url(l) for l in links_list}
+    image_history = get_image_history()
 
     bot = Bot(token=TELEGRAM_TOKEN)
     async with bot:
         links_list = await process_walla(bot, seen_links_set, links_list)
-        links_list = await process_hamal(seen_links_set, links_list)
+        links_list = await process_hamal(seen_links_set, links_list, image_history)
 
     save_history(links_list)
+    save_image_history(image_history)
 
 if __name__ == "__main__":
     asyncio.run(main())
