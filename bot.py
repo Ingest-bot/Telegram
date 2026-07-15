@@ -50,19 +50,41 @@ def is_too_old(entry):
 def clean_url(url):
     return url.split('?')[0].split('#')[0].strip()
 
+def _try_isgd(long_url):
+    encoded_url = requests.utils.quote(long_url, safe='')
+    api_url = f"https://is.gd/create.php?format=simple&url={encoded_url}"
+    r = requests.get(api_url, timeout=5)
+    text = r.text.strip()
+    if r.status_code == 200 and text and not text.startswith("Error") and text.startswith("http"):
+        return text
+    raise ValueError(f"is.gd: {text}")
+
+def _try_vgd(long_url):
+    # v.gd הוא אותו שירות/צוות כמו is.gd, אבל תשתית נפרדת - גיבוי טוב
+    encoded_url = requests.utils.quote(long_url, safe='')
+    api_url = f"https://v.gd/create.php?format=simple&url={encoded_url}"
+    r = requests.get(api_url, timeout=5)
+    text = r.text.strip()
+    if r.status_code == 200 and text and not text.startswith("Error") and text.startswith("http"):
+        return text
+    raise ValueError(f"v.gd: {text}")
+
+def _try_tinyurl(long_url):
+    # TinyURL - לא דורש מפתח API, מאוד יציב
+    encoded_url = requests.utils.quote(long_url, safe='')
+    api_url = f"https://tinyurl.com/api-create.php?url={encoded_url}"
+    r = requests.get(api_url, timeout=5)
+    text = r.text.strip()
+    if r.status_code == 200 and text.startswith("http"):
+        return text
+    raise ValueError(f"tinyurl: {text}")
+
 def get_short_url(long_url):
-    try:
-        encoded_url = requests.utils.quote(long_url, safe='')
-        api_url = f"https://is.gd/create.php?format=simple&url={encoded_url}"
-        response = requests.get(api_url, timeout=5)
-        if response.status_code == 200:
-            result = response.text.strip()
-            # is.gd מחזיר HTTP 200 גם על שגיאות, עם טקסט שמתחיל ב-"Error:"
-            if result and not result.startswith("Error"):
-                return result
-            print(f"is.gd error for {long_url}: {result}")
-    except Exception as e:
-        print(f"get_short_url exception: {e}")
+    for shortener in (_try_isgd, _try_vgd, _try_tinyurl):
+        try:
+            return shortener(long_url)
+        except Exception as e:
+            print(f"get_short_url [{shortener.__name__}] failed for {long_url}: {e}")
     return long_url
 
 def upgrade_image_quality(url):
@@ -176,7 +198,15 @@ async def process_hamal(seen_links_set, links_list, counter):
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
-                await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                image = extract_image(entry)
+                if image:
+                    try:
+                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image, caption=message, parse_mode='HTML')
+                    except Exception as photo_err:
+                        print(f"Hamal photo failed ({photo_err}), falling back to text")
+                        await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                else:
+                    await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
                 counter += 1
