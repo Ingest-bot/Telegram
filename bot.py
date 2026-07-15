@@ -23,15 +23,12 @@ HAMAL_CHAT_ID = os.getenv("HAMAL_CHAT_ID")
 
 LAST_LINKS_FILE = "last_links.txt"
 MAX_LINKS_TO_KEEP = 500
-PROMO_EVERY_X_MESSAGES = 40 
 MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
 MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
 
 RLE = "\u202B" 
 PDF = "\u202C" 
-RLM = "\u200f" 
-
-LOGO_URL = "https://raw.githubusercontent.com/Ingest-bot/Telegram/main/Logo2.png"
+RLM = "\u200f"
 
 # --- פונקציות עזר ---
 
@@ -103,22 +100,19 @@ def extract_image(entry):
     return upgrade_image_quality(image_url)
 
 def get_history():
-    history = {"links": [], "counter": 0}
+    links = []
     if os.path.exists(LAST_LINKS_FILE):
         with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
-                if line.startswith("COUNTER:"):
-                    try: history["counter"] = int(line.split(":")[1])
-                    except: history["counter"] = 0
-                elif line:
-                    history["links"].append(line)
-    return history
+                # תאימות לאחור: מדלג על שורת COUNTER ישנה מגרסאות קודמות
+                if line and not line.startswith("COUNTER:"):
+                    links.append(line)
+    return links
 
-def save_history(links_list, counter):
+def save_history(links_list):
     recent_links = links_list[-MAX_LINKS_TO_KEEP:]
     with open(LAST_LINKS_FILE, "w", encoding="utf-8") as f:
-        f.write(f"COUNTER:{counter}\n")
         for link in recent_links:
             f.write(f"{link}\n")
 
@@ -171,8 +165,8 @@ async def process_walla(bot, seen_links_set, links_list):
     return links_list
 
 # --- עיבוד חמ"ל ---
-async def process_hamal(seen_links_set, links_list, counter):
-    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list, counter
+async def process_hamal(seen_links_set, links_list):
+    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list
     
     hamal_bot = Bot(token=HAMAL_TOKEN)
     async with hamal_bot:
@@ -209,32 +203,23 @@ async def process_hamal(seen_links_set, links_list, counter):
                     await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
-                counter += 1
-                
-                if counter >= PROMO_EVERY_X_MESSAGES:
-                    promo_caption = f"{RLE}{RLM}<b>הצטרפו לעדכונים מאתר וואלה</b>{PDF}\n\nhttps://t.me/walla26"
-                    try: await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=LOGO_URL, caption=promo_caption, parse_mode='HTML')
-                    except: await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=promo_caption, parse_mode='HTML')
-                    counter = 0 
                 
                 await asyncio.sleep(0.5)
             except Exception as e: print(f"Hamal Error: {e}")
             
-    return links_list, counter
+    return links_list
 
 async def main():
     if not TELEGRAM_TOKEN or not CHAT_ID: return
-    history = get_history()
-    seen_links_set = {clean_url(l) for l in history["links"]}
-    links_list = history["links"]
-    counter = history["counter"]
+    links_list = get_history()
+    seen_links_set = {clean_url(l) for l in links_list}
 
     bot = Bot(token=TELEGRAM_TOKEN)
     async with bot:
         links_list = await process_walla(bot, seen_links_set, links_list)
-        links_list, counter = await process_hamal(seen_links_set, links_list, counter)
+        links_list = await process_hamal(seen_links_set, links_list)
 
-    save_history(links_list, counter)
+    save_history(links_list)
 
 if __name__ == "__main__":
     asyncio.run(main())
