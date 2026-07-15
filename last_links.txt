@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3852196
 https://news.walla.co.il/item/3852197
 https://news.walla.co.il/break/3852211
 https://news.walla.co.il/break/3852210
@@ -499,3 +498,4 @@ https://hamal.co.il/main/בגץ-בהודעה-נמנע-כניסתו-לתוקף-ש
 https://hamal.co.il/main/דיווח-בלבנון-נסיגה-ישראלית-מאזורי-הפיילוט-בתוך-ימים-276422
 https://news.walla.co.il/break/3853768
 https://news.walla.co.il/break/3853769
+https://news.walla.co.il/item/3853773
