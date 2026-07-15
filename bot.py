@@ -248,7 +248,11 @@ async def process_hamal(seen_links_set, links_list):
         
         for entry in reversed(new_entries):
             cleaned_link = clean_url(entry.link)
-            short_link = get_short_url(cleaned_link)
+            # לא משתמשים יותר בשירותי קיצור חיצוניים (cleanuri/is.gd/v.gd/da.gd) -
+            # הם הוכיחו שהם לא אמינים (חלקם מובילים לפרסומות/ספאם, חלקם לא זמינים,
+            # ואצל אחד מהם קישורים עם עברית בנתיב נשברו ולא הובילו ליעד הנכון).
+            # הקישור המקורי המלא תמיד עובד ואין בו תלות בצד שלישי.
+            short_link = cleaned_link
             
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
