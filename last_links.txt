@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852303
-https://news.walla.co.il/break/3852304
-https://news.walla.co.il/break/3852307
 https://news.walla.co.il/item/3852253
 https://news.walla.co.il/item/3852301
 https://news.walla.co.il/break/3852309
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3853809
 https://news.walla.co.il/item/3853807
 https://news.walla.co.il/break/3853812
 https://hamal.co.il/main/רצח-בניהו-רזי-שוטרת-נחקרה-בחשד-לשיבוש-מהלכי-משפט-276466
+https://news.walla.co.il/item/3853813
+https://hamal.co.il/main/20-שנה-לפרוץ-מלחמת-לבנון-השנייה-פעילות-צה״ל-בבינת-ג׳בייל-276461
+https://hamal.co.il/main/נערים-מסמנים-מעל-18--וקונים-זינוק-ברכישת-מוצרי-עישון-ברשת-276456
