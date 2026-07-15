@@ -313,8 +313,14 @@ async def process_hamal(seen_links_set, links_list, image_history):
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
-            
-            message = f'{RLM}<b><a href="{cleaned_link}">{clean_title}</a></b>{RLM}'
+            safe_title = html.escape(clean_title)
+
+            # הכותרת נשארת טקסט רגיל (לא קישור) - כשכל ההודעה היא קישור אחד ענק,
+            # טלגרם (בעיקר אנדרואיד) לפעמים ממרכז אותה במקום ליישר לימין, וה-RLM
+            # לא מצליח לגבור על זה. לכן: כותרת רגילה עם RLM (מיושרת נכון), ומתחתיה
+            # שורת קישור קצרה עם טקסט הצגה קצר - כך הקישור הארוך עדיין מוסתר
+            # מאחורי טקסט קצר, אבל רוב ההודעה היא טקסט רגיל וה-RLM עובד.
+            message = f'{RLM}<b>{safe_title}</b>{RLM}\n{RLM}<a href="{cleaned_link}">🔗 לכתבה המלאה</a>{RLM}'
 
             # תמונה אמיתית של כתבה כמעט תמיד ייחודית לאותה כתבה. התמונה
             # הגנרית (לוגו האתר) חוזרת על עצמה בהרבה כתבות שונות שאין להן
