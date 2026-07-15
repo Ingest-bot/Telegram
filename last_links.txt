@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3852324
-https://news.walla.co.il/break/3852326
-https://news.walla.co.il/break/3852332
-https://news.walla.co.il/break/3852350
-https://news.walla.co.il/break/3852346
 https://news.walla.co.il/break/3852349
 https://news.walla.co.il/break/3852352
 https://news.walla.co.il/item/3852351
@@ -498,3 +493,8 @@ https://hamal.co.il/main/הפשיעה-בישראל-רימון-הלם-הושלך-
 https://hamal.co.il/main/מחקר-מצא-ההשפעה-המפתיעה-של-הקורונה-על-ילדים-שנולדו-בתקופת-ה-276468
 https://news.walla.co.il/item/3853820
 https://hamal.co.il/main/מעל-70-ראשי-רשויות-נגד-חוקי-ההשתמטות-פגיעה-בחוסן-הלאומי-276475
+https://news.walla.co.il/break/3853824
+https://news.walla.co.il/break/3853825
+https://hamal.co.il/main/טרגדיה-במושב-תקומה-הילדה-שנפצעה-אנוש-בתאונה---נפטרה-מפצעיה-276476
+https://hamal.co.il/main/יור-הפרלמנט-האיראני-מאיים-את-נקמתנו-נביא-לידי-מימוש-276481
+https://hamal.co.il/main/היסטוריה-בכנסת-אושר-החוק-לפיצול-תפקיד-היועץ-המשפטי-לממשלה-276472
