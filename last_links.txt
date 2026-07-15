@@ -1,5 +1,3 @@
-https://news.walla.co.il/item/3852281
-https://news.walla.co.il/break/3852293
 https://news.walla.co.il/break/3852294
 https://news.walla.co.il/break/3852297
 https://news.walla.co.il/break/3852303
@@ -498,3 +496,5 @@ https://news.walla.co.il/item/3853802
 https://hamal.co.il/main/מדד-יוני-ללא-שינוי-מחירי-הדירות-בירידה-חדה-השכירות-מזנקת-276449
 https://news.walla.co.il/break/3853807
 https://hamal.co.il/main/בגלל-ויכוח-על-תרסיס-הורשע-בדקירת-בן-זוגה-של-אחותו-למוות-276438
+https://news.walla.co.il/break/3853809
+https://news.walla.co.il/item/3853807
