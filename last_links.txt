@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852418
-https://news.walla.co.il/break/3852419
-https://news.walla.co.il/item/3852422
 https://news.walla.co.il/break/3852423
 https://news.walla.co.il/break/3852426
 https://news.walla.co.il/break/3852428
@@ -498,3 +495,6 @@ https://hamal.co.il/main/אנגליה-עלתה-ליתרון-01-על-ארגנטי
 https://news.walla.co.il/break/3853860
 https://hamal.co.il/main/אלופת-העולם-חזרה-ארגנטינה-השוותה-מול-אנגליה-276503
 https://hamal.co.il/main/המהפך-הושלם-2-1-לארגנטינה-על-אנגליה-276505
+https://news.walla.co.il/item/3853861
+https://hamal.co.il/main/בפעם-ה-2-ברציפות-ארגנטינה-עלתה-לגמר-המונדיאל-276507
+https://hamal.co.il/main/דיווחים-באיראן-ארהב-תקפה-בדרום-מזרח-המדינה-276508
