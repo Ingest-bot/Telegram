@@ -1,5 +1,4 @@
 COUNTER:32
-https://news.walla.co.il/break/3852175
 https://news.walla.co.il/break/3852191
 https://news.walla.co.il/break/3852196
 https://news.walla.co.il/item/3852197
@@ -499,3 +498,4 @@ https://hamal.co.il/main/המורה-הודתה-בקשר-אסור-עם-תלמיד
 https://hamal.co.il/main/השר-אופיר-סופר-הודיע-על-פרישתו-מהפוליטיקה-276414
 https://hamal.co.il/main/בגץ-בהודעה-נמנע-כניסתו-לתוקף-של-חוק-הקפאת-מעצרי-המשתמטים-276419
 https://hamal.co.il/main/דיווח-בלבנון-נסיגה-ישראלית-מאזורי-הפיילוט-בתוך-ימים-276422
+https://news.walla.co.il/break/3853768
