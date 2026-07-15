@@ -88,12 +88,33 @@ def _try_cleanuri(long_url):
         return data["result_url"]
     raise ValueError(f"cleanuri: {data}")
 
+def _verify_short_url(short_url, original_url):
+    """
+    מוודא שהקישור המקוצר באמת מפנה ליעד המקורי.
+    חלק מהשירותים (בעיקר cleanuri) מזהים לפעמים לא נכון URL-ים עם
+    תווים בעברית מקודדים (%D7%9B וכו') ומייצרים הפניה שבורה
+    (למשל מוחקים לגמרי את קטע העברית ומשאירים רק מקפים) -
+    מה שמוביל בסוף לעמוד שגיאה. הבדיקה כאן תופסת מקרה כזה
+    ותגרום לקוד לנסות את המקצר הבא, ובסוף - אם כולם נכשלים -
+    לשלוח את הקישור המקורי המלא, שתמיד עובד.
+    """
+    try:
+        r = requests.get(short_url, allow_redirects=True, timeout=6, stream=True)
+        r.close()
+        resolved = clean_url(r.url)
+        if resolved != clean_url(original_url):
+            raise ValueError(f"redirect mismatch: got '{resolved}', expected '{original_url}'")
+    except requests.RequestException as e:
+        raise ValueError(f"verification request failed: {e}")
+
 def get_short_url(long_url):
     # cleanuri ראשון - הפניה ישירה בלי מסך ביניים, נראה שהיחיד שעובד כרגע
     shorteners = (_try_cleanuri, _try_dagd, _try_isgd, _try_vgd)
     for shortener in shorteners:
         try:
-            return shortener(long_url)
+            short_url = shortener(long_url)
+            _verify_short_url(short_url, long_url)
+            return short_url
         except Exception as e:
             print(f"get_short_url [{shortener.__name__}] failed for {long_url}: {e}")
     return long_url
