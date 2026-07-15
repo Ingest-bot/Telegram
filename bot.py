@@ -69,18 +69,18 @@ def _try_vgd(long_url):
         return text
     raise ValueError(f"v.gd: {text}")
 
-def _try_tinyurl(long_url):
-    # TinyURL - לא דורש מפתח API, מאוד יציב
+def _try_dagd(long_url):
+    # da.gd - שירות מינימלי שמיועד ל-API, בלי מסכי ביניים/פרסומות
     encoded_url = requests.utils.quote(long_url, safe='')
-    api_url = f"https://tinyurl.com/api-create.php?url={encoded_url}"
+    api_url = f"https://da.gd/shorten?url={encoded_url}"
     r = requests.get(api_url, timeout=5)
     text = r.text.strip()
     if r.status_code == 200 and text.startswith("http"):
         return text
-    raise ValueError(f"tinyurl: {text}")
+    raise ValueError(f"da.gd: {text}")
 
 def get_short_url(long_url):
-    for shortener in (_try_isgd, _try_vgd, _try_tinyurl):
+    for shortener in (_try_dagd, _try_isgd, _try_vgd):
         try:
             return shortener(long_url)
         except Exception as e:
