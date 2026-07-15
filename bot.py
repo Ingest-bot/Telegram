@@ -76,8 +76,41 @@ def _try_dagd(long_url):
         return text
     raise ValueError(f"da.gd: {text}")
 
+def _try_cleanuri(long_url):
+    # cleanuri.com - הפניה ישירה (301), בלי מסך ביניים/אזהרה
+    r = requests.post(
+        "https://cleanuri.com/api/v1/shorten",
+        json={"url": long_url},
+        timeout=5,
+    )
+    data = r.json()
+    if r.status_code == 200 and data.get("result_url", "").startswith("http"):
+        return data["result_url"]
+    raise ValueError(f"cleanuri: {data}")
+
+TINYURL_API_TOKEN = os.getenv("TINYURL_API_TOKEN")  # אופציונלי: token מ-tinyurl.com/app/dev
+
+def _try_tinyurl_auth(long_url):
+    # גרסה מאומתת של tinyurl - הרבה פחות סבירה להיחסם מאשר קריאות אנונימיות,
+    # ולא מציגה מסך אזהרה/preview כמו הגרסה החינמית הלא-מאומתת
+    if not TINYURL_API_TOKEN:
+        raise ValueError("tinyurl_auth: no token configured")
+    r = requests.post(
+        "https://api.tinyurl.com/create",
+        params={"api_token": TINYURL_API_TOKEN},
+        json={"url": long_url},
+        timeout=5,
+    )
+    data = r.json()
+    if r.status_code == 200 and data.get("data", {}).get("tiny_url"):
+        return data["data"]["tiny_url"]
+    raise ValueError(f"tinyurl_auth: {data}")
+
 def get_short_url(long_url):
-    for shortener in (_try_dagd, _try_isgd, _try_vgd):
+    # קודם ננסה שירות מאומת אם הוגדר token (אמין הרבה יותר מ-IP-ים אנונימיים
+    # של GitHub Actions, שנתקלים בחסימות אנטי-ספאם משותפות מול שירותים חינמיים)
+    shorteners = (_try_tinyurl_auth, _try_dagd, _try_isgd, _try_vgd, _try_cleanuri)
+    for shortener in shorteners:
         try:
             return shortener(long_url)
         except Exception as e:
@@ -88,7 +121,22 @@ def upgrade_image_quality(url):
     if not url: return url
     return re.sub(r'w=\d+', 'w=1200', url).replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
 
-def extract_image(entry):
+def clean_image_url(url):
+    """מנרמל URL של תמונה לצורך השוואה (מוריד פרמטרים כמו גודל/timestamp)"""
+    if not url: return url
+    return url.split('?')[0].split('#')[0].strip()
+
+def get_feed_default_image(feed):
+    """התמונה ברמת הערוץ (הלוגו הכללי של הפיד), אם קיימת"""
+    try:
+        img = feed.feed.get('image', {})
+        if isinstance(img, dict):
+            return clean_image_url(img.get('href') or img.get('url'))
+    except Exception:
+        pass
+    return None
+
+def extract_image(entry, feed_default_image=None):
     image_url = None
     if 'media_content' in entry: image_url = entry.media_content[0]['url']
     elif 'links' in entry:
@@ -97,6 +145,17 @@ def extract_image(entry):
                 image_url = link.get('href'); break
     if not image_url and 'enclosure' in entry:
         image_url = entry.enclosure.get('url')
+
+    if not image_url:
+        return None
+
+    print(f"DEBUG image url for '{entry.get('title', '')[:40]}': {image_url}")
+
+    # אם התמונה זהה ללוגו הכללי של הפיד - זה לא תמונה אמיתית של הכתבה, נתעלם ממנה
+    if feed_default_image and clean_image_url(image_url) == feed_default_image:
+        print(f"  -> matches feed default/logo image, skipping")
+        return None
+
     return upgrade_image_quality(image_url)
 
 def get_history():
@@ -124,6 +183,8 @@ async def process_walla(bot, seen_links_set, links_list):
         
         if not feed.entries:
             continue
+
+        feed_default_image = get_feed_default_image(feed)
             
         # לוקח רק את 5 האייטמים הראשונים בפיד
         latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
@@ -150,7 +211,7 @@ async def process_walla(bot, seen_links_set, links_list):
                         disable_web_page_preview=True
                     )
                 else:
-                    image = extract_image(entry)
+                    image = extract_image(entry, feed_default_image)
                     if image:
                         await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
                     else:
@@ -172,6 +233,8 @@ async def process_hamal(seen_links_set, links_list):
     async with hamal_bot:
         url = f"{HAMAL_RSS}?t={int(time.time())}"
         feed = feedparser.parse(url)
+
+        feed_default_image = get_feed_default_image(feed)
         
         # לוקח רק את 5 האייטמים הראשונים בפיד
         latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
@@ -192,7 +255,7 @@ async def process_hamal(seen_links_set, links_list):
             message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{short_link}"
             
             try:
-                image = extract_image(entry)
+                image = extract_image(entry, feed_default_image)
                 if image:
                     try:
                         await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image, caption=message, parse_mode='HTML')
