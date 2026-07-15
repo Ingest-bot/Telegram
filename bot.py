@@ -52,11 +52,17 @@ def clean_url(url):
 
 def get_short_url(long_url):
     try:
-        api_url = f"https://is.gd/create.php?format=simple&url={long_url}"
+        encoded_url = requests.utils.quote(long_url, safe='')
+        api_url = f"https://is.gd/create.php?format=simple&url={encoded_url}"
         response = requests.get(api_url, timeout=5)
         if response.status_code == 200:
-            return response.text.strip()
-    except: pass
+            result = response.text.strip()
+            # is.gd מחזיר HTTP 200 גם על שגיאות, עם טקסט שמתחיל ב-"Error:"
+            if result and not result.startswith("Error"):
+                return result
+            print(f"is.gd error for {long_url}: {result}")
+    except Exception as e:
+        print(f"get_short_url exception: {e}")
     return long_url
 
 def upgrade_image_quality(url):
