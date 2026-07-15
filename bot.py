@@ -202,8 +202,7 @@ async def process_walla(bot, seen_links_set, links_list):
             cleaned_link = clean_url(entry.link)
             
             prefix = "🚨 " if is_mivzak else ""
-            link_html = f'<a href="{cleaned_link}">📖 לכתבה המלאה</a>'
-            caption = f"{RLE}{RLM}<b>{prefix}{entry.title}</b>{PDF}\n\n{link_html}"
+            caption = f'{RLE}{RLM}<b><a href="{cleaned_link}">{prefix}{entry.title}</a></b>{PDF}'
             
             try:
                 if is_mivzak:
@@ -259,8 +258,7 @@ async def process_hamal(seen_links_set, links_list):
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
             
-            link_html = f'<a href="{cleaned_link}">📖 לכתבה המלאה</a>'
-            message = f"{RLE}{RLM}<b>{clean_title}</b>{PDF}\n\n{link_html}"
+            message = f'{RLE}{RLM}<b><a href="{cleaned_link}">{clean_title}</a></b>{PDF}'
             
             try:
                 image = extract_image(entry, feed_default_image)
