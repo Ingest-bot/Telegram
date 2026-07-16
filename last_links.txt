@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3852688
-https://news.walla.co.il/break/3852689
-https://news.walla.co.il/item/3852696
-https://news.walla.co.il/break/3852698
-https://news.walla.co.il/break/3852705
 https://news.walla.co.il/break/3852707
 https://news.walla.co.il/break/3852711
 https://news.walla.co.il/break/3852712
@@ -498,3 +493,8 @@ https://news.walla.co.il/break/3854081
 https://news.walla.co.il/break/3854083
 https://hamal.co.il/main/השרים-אישרו-שרה-נתניהו-תאובטח-עד-לסוף-חייו-של-רהמ-276612
 https://hamal.co.il/main/רוכב-קורקינט-נפגע-מרכב-בתא-מצבו-קשה-276613
+https://news.walla.co.il/break/3854082
+https://news.walla.co.il/item/3854086
+https://hamal.co.il/main/בן-46-נפצע-קשה-באירוע-אלימות-בבש-פונה-עם-פציעות-חודרות-276614
+https://hamal.co.il/main/בשיא-העומס-כביש-4-נחסם-על-ידי-מפגינים-חרדים-276615
+https://hamal.co.il/main/תישאר-במשרד-תושב-טייבה-חשוד-שאיים-על-רופא-עם-אקדח-צעצוע-276617
