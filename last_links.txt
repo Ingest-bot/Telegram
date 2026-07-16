@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3852501
-https://news.walla.co.il/break/3852502
 https://news.walla.co.il/break/3852506
 https://news.walla.co.il/break/3852509
 https://news.walla.co.il/break/3852511
@@ -498,3 +496,5 @@ https://hamal.co.il/main/גז-דלף-ממשאית-שנפגעה-בתאונת-דר
 https://news.walla.co.il/item/3853910
 https://hamal.co.il/main/מדבקת-חרם-על-תפוחי-אדמה-מישראל-בחנות-מרקס-אנד-ספנסר-בבריטניה-276525
 https://hamal.co.il/main/חשד-מורה-למתמטיקה-מלוד-אנס-את-תלמידתו-בת-ה-12-276530
+https://news.walla.co.il/break/3853912
+https://hamal.co.il/main/צהל-חיסל-אחראי-צליפה-גדודי-בחמאס-שלקח-חלק-במתווי-טרור-נגד-כ-276531
