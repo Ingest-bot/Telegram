@@ -1,9 +1,3 @@
-https://news.walla.co.il/break/3852596
-https://news.walla.co.il/break/3852599
-https://news.walla.co.il/item/3852604
-https://news.walla.co.il/break/3852608
-https://news.walla.co.il/break/3852609
-https://news.walla.co.il/break/3852610
 https://news.walla.co.il/break/3852615
 https://news.walla.co.il/break/3852619
 https://news.walla.co.il/break/3852621
@@ -498,3 +492,9 @@ https://hamal.co.il/main/אוכלים-חטיף-חלבון-כל-יום-כך-זה-
 https://news.walla.co.il/break/3854011
 https://news.walla.co.il/item/3854005
 https://hamal.co.il/main/260-מיליון-שקלים-בדרך-למאות-אלפי-עובדים-276581
+https://news.walla.co.il/break/3854020
+https://news.walla.co.il/item/3854019
+https://hamal.co.il/main/1358-פעמים-ברצף-בת-השירות-ברמב״ם-זכתה-בתחרות-ההקפצות-276590
+https://hamal.co.il/main/דיווחים-בלבנון-על-תקיפה-אווירית-באזור-א-נבטיה-276591
+https://hamal.co.il/main/מתקפת-כטב״מים-איראנית-על-כווית-מערכות-ההגנה-האווירית-הופעלו-276592
+https://hamal.co.il/main/הבחירות-במרכז-הליכוד-לא-יתקיימו-היום-בעקבות-העתירות-לבית-המש-276593
