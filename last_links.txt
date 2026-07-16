@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3852913
-https://news.walla.co.il/item/3852914
-https://news.walla.co.il/break/3852916
-https://news.walla.co.il/item/3852920
 https://news.walla.co.il/item/3852917
 https://news.walla.co.il/break/3852921
 https://news.walla.co.il/break/3852926
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3854150
 https://hamal.co.il/main/הטלוויזיה-האיראנית-ארהב-תקפה-נמל-תעופה-בדרום-המדינה-276645
 https://news.walla.co.il/break/3854152
 https://hamal.co.il/main/אושר-סופית-הארכת-שירות-החובה-ל-32-חודשים-במסגרת-הוראת-שעה-276646
+https://hamal.co.il/main/תיעוד-אחד-הגשרים-שהופצצו-בדרום-איראן-276648
+https://hamal.co.il/main/הטלוויזיה-האיראנית-שני-בני-אדם-נהרגו-וארבעה-נוספים-נפצעו-בת-276649
+https://hamal.co.il/main/דוברקריית-שמונה-נשמעה-לפני-מספר-דקות-אזעקה-הנושא-בבדיקה-276650
+https://hamal.co.il/main/דיווחים-באיראן-ארה״ב-תקפה-את-תחנת-הרכבת-בבנדר-עבאס-כמה-נפצ-276651
