@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852801
-https://news.walla.co.il/item/3852792
-https://news.walla.co.il/item/3852783
 https://news.walla.co.il/break/3852802
 https://news.walla.co.il/break/3852807
 https://news.walla.co.il/item/3852819
@@ -498,3 +495,6 @@ https://hamal.co.il/main/אירוע-חומרים-מסוכנים-באזור-הת�
 https://news.walla.co.il/break/3854114
 https://news.walla.co.il/item/3854117
 https://hamal.co.il/main/צהל-276630
+https://news.walla.co.il/item/3854119
+https://hamal.co.il/main/דוברת-הבית-הלבן-ישראל-מנסה-להאריך-את-המלחמה-עם-איראן-276631
+https://hamal.co.il/main/מפעיל-276632
