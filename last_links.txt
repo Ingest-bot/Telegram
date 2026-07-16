@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3852817
-https://news.walla.co.il/break/3852827
-https://news.walla.co.il/break/3852824
-https://news.walla.co.il/break/3852843
-https://news.walla.co.il/break/3852855
 https://news.walla.co.il/item/3852844
 https://news.walla.co.il/break/3852857
 https://news.walla.co.il/break/3852868
@@ -498,3 +493,8 @@ https://news.walla.co.il/break/3854124
 https://news.walla.co.il/break/3854125
 https://hamal.co.il/main/אלימות-קשה-בהפגנות-בבני-ברק-שוטר-נפצע-קל-276634
 https://hamal.co.il/main/אירוע-חומרים-מסוכנים-בקש-הושגה-שליטה-276635
+https://news.walla.co.il/break/3854127
+https://news.walla.co.il/break/3854129
+https://news.walla.co.il/item/3854128
+https://hamal.co.il/main/צבא-ארהב-הודיע-פתחנו-תקיפות-נוסף-באיראן-276636
+https://hamal.co.il/main/וזוהי-רק-ההתחלה-מכבי-תל-אביב-זכתה-בתואר-אלוף-האלופים-276637
