@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852549
-https://news.walla.co.il/break/3852550
-https://news.walla.co.il/break/3852551
 https://news.walla.co.il/break/3852552
 https://news.walla.co.il/break/3852553
 https://news.walla.co.il/break/3852554
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3853948
 https://news.walla.co.il/item/3853953
 https://hamal.co.il/main/תיעוד-מסתערבי-מג״ב-עצרו-מבוקש-בכפר-עיזרייה-276556
 https://hamal.co.il/main/האלוף-במיל-על-חוק-יסוד-לימוד-תורה-אמרו-לאזרחים-אתם-סוג-ב-276558
+https://news.walla.co.il/break/3853954
+https://news.walla.co.il/item/3853952
+https://hamal.co.il/main/מדמות-אויב-ומפעילות-האמר-חדשות-בצה״ל-276559
