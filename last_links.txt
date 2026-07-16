@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3852758
-https://news.walla.co.il/break/3852760
-https://news.walla.co.il/break/3852765
-https://news.walla.co.il/item/3852766
-https://news.walla.co.il/break/3852778
 https://news.walla.co.il/item/3852772
 https://news.walla.co.il/item/3852773
 https://news.walla.co.il/break/3852796
@@ -498,3 +493,8 @@ https://hamal.co.il/main/דיווח-פיצוצים-נשמעו-בדובאי-27662
 https://hamal.co.il/main/סופית-חוק-התקשורת-אושר-בקריאה-שנייה-ושלישית-276625
 https://news.walla.co.il/break/3854110
 https://hamal.co.il/main/המפכל-והרמטכל-נפגשו-דנו-276626
+https://news.walla.co.il/break/3854113
+https://hamal.co.il/main/בדובאי-מכחישים-לא-נשמעו-פיצוצים-במרכז-העיר-276627
+https://hamal.co.il/main/דרעי-מצהיר-על-נאמנות-לנתניהו-איזנקוט-מוביל-מחנה-של-שנאה-276628
+https://hamal.co.il/main/השירות-המטאורולוגי-מזהיר-גל-חום-משמעותי-ראשון-לקיץ-הנוכחי-276609
+https://hamal.co.il/main/אירוע-חומרים-מסוכנים-באזור-התעשייה-בקש-276629
