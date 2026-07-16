@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3852634
-https://news.walla.co.il/item/3852631
-https://news.walla.co.il/break/3852635
 https://news.walla.co.il/break/3852637
 https://news.walla.co.il/item/3852634
 https://news.walla.co.il/item/3852641
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3854033
 https://news.walla.co.il/item/3854036
 https://hamal.co.il/main/תושב-תל-אביב-נמצא-מאומת-לקדחת-מערב-הנילוס-276598
 https://hamal.co.il/main/גם-בישראל-ענקית-הסמארטפונים-הסינית-יוצאת-מאירופה-ומארהב-276543
+https://news.walla.co.il/break/3854039
+https://news.walla.co.il/item/3854038
+https://hamal.co.il/main/זאת-הבקשה-של-איראן-מהחות׳ים-במידה-וארה״ב-תתקוף-מתקני-אנרגיה-276599
