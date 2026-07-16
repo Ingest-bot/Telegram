@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3852537
-https://news.walla.co.il/break/3852544
-https://news.walla.co.il/break/3852545
-https://news.walla.co.il/break/3852547
 https://news.walla.co.il/break/3852549
 https://news.walla.co.il/break/3852550
 https://news.walla.co.il/break/3852551
@@ -498,3 +494,7 @@ https://hamal.co.il/main/צבא-איראן-אם-התקיפות-האמריקני�
 https://news.walla.co.il/item/3853940
 https://hamal.co.il/main/חסר-תקדים-כמה-יעלה-כרטיס-לגמר-מונדיאל-2026-276551
 https://hamal.co.il/main/דיווחים-בעזה-הרוג-בתקיפה-של-צה״ל-276552
+https://news.walla.co.il/item/3853948
+https://news.walla.co.il/item/3853953
+https://hamal.co.il/main/תיעוד-מסתערבי-מג״ב-עצרו-מבוקש-בכפר-עיזרייה-276556
+https://hamal.co.il/main/האלוף-במיל-על-חוק-יסוד-לימוד-תורה-אמרו-לאזרחים-אתם-סוג-ב-276558
