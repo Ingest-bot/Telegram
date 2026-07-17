@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3853033
-https://news.walla.co.il/item/3853047
-https://news.walla.co.il/break/3853048
 https://news.walla.co.il/break/3853054
 https://news.walla.co.il/item/3852788
 https://news.walla.co.il/break/3853055
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3854219
 https://news.walla.co.il/item/3854218
 https://hamal.co.il/main/זהותו-של-המורה-החשוד-באונס-תלמידתו-בת-ה-12-נחשפת-276707
 https://hamal.co.il/main/״פרשת-דברים״--זמני-השבת-276697
+https://news.walla.co.il/break/3854221
+https://hamal.co.il/main/חשד-לחטיפה-בלב-ים-חמושים-השתלטו-על-מכלית-כימיקלים-ליד-תימן-276713
+https://hamal.co.il/main/תקופת-ההמתנה-הסתיימה-המסר-הדרמטי-של-טהרן-לחיזבאללה-276710
