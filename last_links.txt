@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3853024
-https://news.walla.co.il/break/3853028
-https://news.walla.co.il/break/3853027
-https://news.walla.co.il/break/3853029
 https://news.walla.co.il/break/3853033
 https://news.walla.co.il/item/3853047
 https://news.walla.co.il/break/3853048
@@ -498,3 +494,7 @@ https://hamal.co.il/main/פרשת-דברים-276693
 https://hamal.co.il/main/בן-גביר-במתקפה-על-היועמ״שית-תתחילי-לארוז-276704
 https://hamal.co.il/main/אוטובוס-פגע-בעמוד-בבאר-שבע---8-נפצעו-קל-276705
 https://hamal.co.il/main/המשטר-באיראן-ייפול---הוא-עבר-את-נקודת-האל-חזור-276702
+https://news.walla.co.il/item/3854219
+https://news.walla.co.il/item/3854218
+https://hamal.co.il/main/זהותו-של-המורה-החשוד-באונס-תלמידתו-בת-ה-12-נחשפת-276707
+https://hamal.co.il/main/״פרשת-דברים״--זמני-השבת-276697
