@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3853232
-https://news.walla.co.il/break/3853235
-https://news.walla.co.il/item/3853238
 https://news.walla.co.il/break/3853241
 https://news.walla.co.il/item/3853244
 https://news.walla.co.il/item/3853241
@@ -498,3 +495,6 @@ https://hamal.co.il/main/מענה-רפואי-לפגועי-הנפש-והגוף-ד
 https://hamal.co.il/main/באיראן-מחריפים-את-האיומים-אם-המתקפות-ימשכו-ביומיים-הקרובים-276739
 https://news.walla.co.il/break/3854301
 https://hamal.co.il/main/צבא-ארהב-נערך-להרחבה-אפשרית-של-הפעולות-הצבאיות-נגד-איראן-276740
+https://news.walla.co.il/break/3854303
+https://hamal.co.il/main/מספר-ישראלים-חצו-את-הגבול-לסוריה-צהל-החזיר-אותם-בבטחה-לארץ-276741
+https://hamal.co.il/main/צבא-ארה״ב-פתחנו-בגל-תקיפות-נוסף-באיראן-276742
