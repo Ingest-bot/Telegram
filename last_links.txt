@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3853005
-https://news.walla.co.il/break/3853007
-https://news.walla.co.il/break/3853009
-https://news.walla.co.il/item/3853006
-https://news.walla.co.il/item/3853013
 https://news.walla.co.il/break/3853015
 https://news.walla.co.il/break/3853020
 https://news.walla.co.il/item/3853021
@@ -498,3 +493,8 @@ https://hamal.co.il/main/אישה-הרה-נדקרה-בדירתה-בבת-ים---�
 https://news.walla.co.il/break/3854198
 https://news.walla.co.il/item/3854197
 https://hamal.co.il/main/מה-שטוב-לאמריקה-רפורמת-היבוא-מארהב-אושרה-בכנסת-276688
+https://news.walla.co.il/break/3854213
+https://news.walla.co.il/item/3854211
+https://news.walla.co.il/item/3854212
+https://hamal.co.il/main/אישום-נגד-המחבל-שביצע-את-הפיגוע-בו-נרצח-עידו-זולדן-ב-2007-276692
+https://hamal.co.il/main/פרשת-דברים-276693
