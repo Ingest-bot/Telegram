@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3853259
-https://news.walla.co.il/item/3853257
 https://news.walla.co.il/item/3853262
 https://news.walla.co.il/break/3853263
 https://news.walla.co.il/break/3853265
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3854313
 https://news.walla.co.il/break/3854315
 https://news.walla.co.il/break/3854316
 https://news.walla.co.il/break/3854317
+https://news.walla.co.il/break/3854318
+https://news.walla.co.il/break/3854319
