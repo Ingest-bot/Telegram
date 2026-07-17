@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3852977
-https://news.walla.co.il/break/3852979
-https://news.walla.co.il/item/3852982
-https://news.walla.co.il/break/3852987
 https://news.walla.co.il/break/3852986
 https://news.walla.co.il/item/3852988
 https://news.walla.co.il/break/3852998
@@ -498,3 +494,7 @@ https://hamal.co.il/main/חם-מהרגיל-בהרים-ולחות-מעיקה-במ
 https://news.walla.co.il/break/3854177
 https://news.walla.co.il/item/3854180
 https://hamal.co.il/main/4-276668
+https://news.walla.co.il/item/3854187
+https://hamal.co.il/main/גבר-כבן-40-עובר-פעולות-החייאה-לאחר-שטבע-בחוף-באשקלון-276669
+https://hamal.co.il/main/אמור-היה-להגן-עליו-וכמעט-הרג-אותו-תינוק-בן-חצי-שנה-בלע-קמע-276676
+https://hamal.co.il/main/התפתחות-בחקירת-גל-הרימונים-נעצר-חשוד-בהשלכת-רימון-הרסס-לעבר-276678
