@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3853498
-https://news.walla.co.il/item/3853499
-https://news.walla.co.il/break/3853510
 https://news.walla.co.il/item/3853513
 https://news.walla.co.il/item/3853517
 https://news.walla.co.il/break/3853521
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3854408
 https://hamal.co.il/main/חמינאי-מאיים-איראן-ובעלותה-בריתה-ילמדו-את-ארהב-לקח-276793
 https://news.walla.co.il/break/3854410
 https://news.walla.co.il/item/3854408
+https://news.walla.co.il/break/3854412
+https://hamal.co.il/main/צוות-חקירה-מיוחד-פועל-לבדיקת-נסיבות-השריפה-בשומרון-276797
+https://hamal.co.il/main/צבא-ארהב-שני-חיילים-אמריקאים-נהרגו-בירדן-מפגיעת-טיל-איראני-276802
