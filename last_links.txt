@@ -1,4 +1,3 @@
-https://news.walla.co.il/break/3853529
 https://news.walla.co.il/item/3853530
 https://news.walla.co.il/item/3853537
 https://news.walla.co.il/item/3853543
@@ -498,3 +497,4 @@ https://news.walla.co.il/break/3854415
 https://news.walla.co.il/break/3854416
 https://hamal.co.il/main/חדשות-השבת-276807
 https://hamal.co.il/main/צהל-חיסל-צלף-מארגון-הטרור-גאפ-ומחבל-ממטה-המבצעים-של-חמאס-276810
+https://news.walla.co.il/break/3854417
