@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3853551
-https://news.walla.co.il/break/3853553
-https://news.walla.co.il/break/3853556
 https://news.walla.co.il/break/3853555
 https://news.walla.co.il/item/3853551
 https://news.walla.co.il/break/3853561
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3854426
 https://news.walla.co.il/break/3854427
 https://hamal.co.il/main/רכב-של-צבא-לבנון-עלה-על-מטען-של-חיזבאללה-חייל-נהרג-276816
 https://hamal.co.il/main/שריפות-הענק-בקנדה-חונקות-את-ארהב--והחשש-מגיע-לגמר-המונדיאל-276790
+https://news.walla.co.il/break/3854432
+https://news.walla.co.il/break/3854434
+https://news.walla.co.il/break/3854433
