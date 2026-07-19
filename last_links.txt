@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3853860
-https://hamal.co.il/main/אלופת-העולם-חזרה-ארגנטינה-השוותה-מול-אנגליה-276503
-https://hamal.co.il/main/המהפך-הושלם-2-1-לארגנטינה-על-אנגליה-276505
 https://news.walla.co.il/item/3853861
 https://hamal.co.il/main/בפעם-ה-2-ברציפות-ארגנטינה-עלתה-לגמר-המונדיאל-276507
 https://hamal.co.il/main/דיווחים-באיראן-ארהב-תקפה-בדרום-מזרח-המדינה-276508
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3854666
 https://news.walla.co.il/break/3854668
 https://hamal.co.il/main/חשד-לאירוע-לאומני-פגיעה-שלישית-במטוס-ישראייר-בלונדון-276960
 https://hamal.co.il/main/במערכת-הביטחון-מעריכים-בכירים-איראנים-יורו-לתקוף-את-ישראל-276964
+https://news.walla.co.il/break/3854670
+https://news.walla.co.il/break/3854671
+https://hamal.co.il/main/מרד-בגוגל-אלפי-עובדים-דורשים-מהמנכל-פיטורים-הוגנים-276967
