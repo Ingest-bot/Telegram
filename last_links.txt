@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3853686
-https://news.walla.co.il/item/3853687
-https://news.walla.co.il/item/3853681
-https://news.walla.co.il/item/3853684
 https://news.walla.co.il/item/3853704
 https://news.walla.co.il/break/3853705
 https://news.walla.co.il/item/3853696
@@ -498,3 +494,7 @@ https://hamal.co.il/main/גל-חום-ממושך-צפוי-באזורנו-היום
 https://news.walla.co.il/break/3854466
 https://news.walla.co.il/break/3854467
 https://hamal.co.il/main/גורם-ביטחוני-שב״כ-קבעו-שהשריפות-בחוות-גלעד--אינן-הצתות-276829
+https://news.walla.co.il/item/3854471
+https://hamal.co.il/main/מחקר-חדש-אכילה-של-מוצר-החלב-הזה-מדי-יום-עשויה-להאט-הזדקנות-276255
+https://hamal.co.il/main/בגץ-הוציא-צו-ביניים-חוק-התקשורת-של-קרעי-לא-ייכנס-לתוקף-276831
+https://hamal.co.il/main/שריפה-פרצה-סמוך-למסילת-הרכבת-בבאר-יעקב-276832
