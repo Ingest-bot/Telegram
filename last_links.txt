@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3853626
-https://news.walla.co.il/break/3853629
-https://news.walla.co.il/item/3853632
 https://news.walla.co.il/item/3853640
 https://news.walla.co.il/break/3853659
 https://news.walla.co.il/break/3853662
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3854457
 https://hamal.co.il/main/מונדיאל-2026-אנגליה-מנצחת-את-צרפת-6-4-276823
 https://hamal.co.il/main/איראן-דיווח-על-תקיפה-אמריקנית-סמוך-לעיר-חאגי-אבאד-עמית-אבי-276825
 https://hamal.co.il/main/איראן-סוכנות-הידיעות-הרשמית-מדווחת-על-פיצוצים-בבנדר-עבאס-וב-276826
+https://news.walla.co.il/break/3854459
+https://news.walla.co.il/item/3854422
+https://hamal.co.il/main/בהתאם-להערכת-המצב-הוחלט-על-הטלת-צו-שטח-צבאי-סגור-החל-מהיום-276827
