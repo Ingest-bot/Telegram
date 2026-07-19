@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3853869
-https://hamal.co.il/main/התקיפות-נמשכות-דיווחים-על-פיצוצים-בדרום-איראן-276512
-https://news.walla.co.il/break/3853870
 https://news.walla.co.il/break/3853872
 https://news.walla.co.il/break/3853879
 https://news.walla.co.il/break/3853880
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3854678
 https://news.walla.co.il/break/3854681
 https://hamal.co.il/main/חיל-האוויר-יירט-כטבם-שזוהה-בגבול-סוריה-276968
 https://hamal.co.il/main/זמיר-על-איראן-מערך-ההגנה-האווירית-בכוננות-276971
+https://news.walla.co.il/item/3854686
+https://news.walla.co.il/item/3854689
+https://hamal.co.il/main/אלפים-השתתפו-בצעדה-הקוראת-להתיישבות-בעזה-276974
