@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3854108
-https://news.walla.co.il/break/3854106
-https://news.walla.co.il/break/3854109
-https://news.walla.co.il/item/3854104
 https://hamal.co.il/main/דיווח-פיצוצים-נשמעו-בדובאי-276624
 https://hamal.co.il/main/סופית-חוק-התקשורת-אושר-בקריאה-שנייה-ושלישית-276625
 https://news.walla.co.il/break/3854110
@@ -498,3 +494,7 @@ https://hamal.co.il/main/27-ו-25-שנות-מאסר-נגזרו-על-3-נאשמי
 https://news.walla.co.il/break/3854947
 https://news.walla.co.il/break/3854948
 https://hamal.co.il/main/דיווח-ראשוני-תקיפה-בעיר-שיראז-איראן-277086
+https://news.walla.co.il/break/3854953
+https://news.walla.co.il/break/3854956
+https://hamal.co.il/main/דיווח-ארהב-מתכננת-לשלוח-מטוסי-קרב-נוספים-למזרח-התיכון-277087
+https://hamal.co.il/main/דיווח-ראשוני-על-קרי-277088
