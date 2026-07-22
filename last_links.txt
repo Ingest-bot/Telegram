@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3854416
-https://hamal.co.il/main/חדשות-השבת-276807
-https://hamal.co.il/main/צהל-חיסל-צלף-מארגון-הטרור-גאפ-ומחבל-ממטה-המבצעים-של-חמאס-276810
-https://news.walla.co.il/break/3854417
 https://news.walla.co.il/break/3854420
 https://hamal.co.il/main/הושגה-שליטה-על-האש-בחוות-גלעד-276815
 https://hamal.co.il/main/צהל-חיסל-צלף-מארגון-הטרור-גאפ-ומחבל-ממטה-המבצעים-של-חמאס-276813
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3855334
 https://hamal.co.il/main/גל-החום-נמשך-היום-יוסיף-להיות-חם-מהרגיל-במידה-ניכרת-277276
 https://news.walla.co.il/item/3855336
 https://hamal.co.il/main/צום-תשעה-באב-מה-כדאי-לאכול-יממה-לפני-ומה-לאחריו-277178
+https://news.walla.co.il/break/3855342
+https://news.walla.co.il/item/3855339
+https://news.walla.co.il/item/3855341
+https://hamal.co.il/main/פועל-נפל-אל-מותו-באתר-בנייה-בי-ם-הפציעה-הייתה-קשה-277279
