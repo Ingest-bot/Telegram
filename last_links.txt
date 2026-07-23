@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3854890
-https://news.walla.co.il/item/3854889
-https://hamal.co.il/main/עדכון-דרמטי-גורם-סיכון-חדש-לדמנציה-נחשף-והתוספים-שמומלץ-לה-277040
 https://hamal.co.il/main/באמצע-העיר-תושב-מזרח-י-ם-נעצר-בחשד-לסחר-בסמים--תיעוד-277053
 https://news.walla.co.il/break/3854895
 https://news.walla.co.il/item/3854898
@@ -498,3 +495,6 @@ https://hamal.co.il/main/נתניהו-המלחמה-נגד-איראן-יצרה-א
 https://news.walla.co.il/item/3855760
 https://news.walla.co.il/item/3855740
 https://hamal.co.il/main/כוח-צהל-חיסל-את-המחבל-בצפון-השומרון-277472
+https://news.walla.co.il/break/3855765
+https://news.walla.co.il/item/3855763
+https://hamal.co.il/main/המשטרה-ממשיכה-בחיפושים-אחר-הנעדר-יובל-כוגן-בן-ה-4-באשקלון-277475
