@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3855018
-https://hamal.co.il/main/צהל-מאשר-החל-פיילוט-אזורי-מרחב-בטוח-בדרום-לבנון-277145
-https://hamal.co.il/main/רילוקיישן-או-אבטלה-האולטימטום-של-סמסונג-למאות-עובדים-277134
 https://news.walla.co.il/break/3855021
 https://hamal.co.il/main/הורשע-בהסתה-לטרור-שיח-כמאל-חטיב-ירצה-9-חודשי-עבודות-שירות-277143
 https://hamal.co.il/main/יוסי-יהושוע-צבא-ארה״ב-החל-בגל-תקיפות-חדש-באיראן-277148
@@ -498,3 +495,6 @@ https://hamal.co.il/main/הירי-בחוות-גלעד-דיווח-על-פצוע-�
 https://news.walla.co.il/item/3855876
 https://hamal.co.il/main/הירי-בחוות-גלעד-צהל-מכתר-כפר-ואת-העיר-שכם-277541
 https://hamal.co.il/main/הירי-בחוות-גלעד-277542
+https://news.walla.co.il/item/3855879
+https://hamal.co.il/main/הלכה-לעולמה-זהבה-שאול-אימו-של-סמר-אורון-שאול-277543
+https://hamal.co.il/main/הפיגוע-בחוות-גלעד-נקבע-מותו-של-277545
