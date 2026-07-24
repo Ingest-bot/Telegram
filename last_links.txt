@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3855039
-https://news.walla.co.il/break/3855045
-https://news.walla.co.il/break/3855042
 https://news.walla.co.il/item/3855029
 https://news.walla.co.il/item/3855033
 https://news.walla.co.il/item/3855037
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3855889
 https://hamal.co.il/main/אחרי-הפיגוע-הרמטכל-קיים-הערכת-מצב-והנחה-לתפוס-את-המחבלים-277550
 https://hamal.co.il/main/צהל-חוסל-המחבל-שביצע-את-הפיגוע-סמוך-לחוות-גלעד-277551
 https://hamal.co.il/main/הותר-לפרסום-בניהו-מלט-הוא-הנרצח-בפיגוע-בשומרון-277552
+https://hamal.co.il/main/היית-אבא-של-כולם-חיים-יבין-מובא-למנוחות-277554
+https://hamal.co.il/main/מאמצי-החיפוש-277555
+https://hamal.co.il/main/על-רקע-ההסלמה-ביוש-צהל-נערך-למבצע-רחב-באזור-שכם-277556
