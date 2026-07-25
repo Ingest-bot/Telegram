@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3855327
-https://news.walla.co.il/item/3855320
-https://news.walla.co.il/item/3855322
 https://news.walla.co.il/item/3855312
 https://news.walla.co.il/item/3855324
 https://news.walla.co.il/item/3855326
@@ -498,3 +495,6 @@ https://hamal.co.il/main/הפצוע-בפיגוע-סמוך-לסוסיא-במצב-
 https://hamal.co.il/main/כעת-כוחות-צהל-מבצעים-מרדף-אחר-המחבל-277721
 https://news.walla.co.il/break/3856073
 https://hamal.co.il/main/עכו-גבר-כבן-20-נפצע-באורח-קשה-בתאונת-דרכים-277723
+https://hamal.co.il/main/הנשק-אותר-המצוד-אחר-המחבל-עדיין-מתנהל-277724
+https://hamal.co.il/main/חדשות-השבת-277722
+https://hamal.co.il/main/מצאנו-את-הילד-הרגעים-הדרמטיים-277726
