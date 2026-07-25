@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3855310
-https://news.walla.co.il/break/3855313
-https://news.walla.co.il/item/3855316
-https://news.walla.co.il/break/3855317
 https://news.walla.co.il/break/3855321
 https://news.walla.co.il/break/3855323
 https://news.walla.co.il/break/3855327
@@ -498,3 +494,7 @@ https://hamal.co.il/main/דיווח-על-ירי-במרחב-סוסיא-שבחטי
 https://news.walla.co.il/break/3856066
 https://hamal.co.il/main/אזרח-ישראלי-נפצע-בדרום-הר-חברון-כתוצאה-מיידוי-אבנים-277708
 https://hamal.co.il/main/דיווח-מרדף-אחר-מחבל-שגנב-נשק-בסוסיא-277709
+https://news.walla.co.il/break/3856071
+https://hamal.co.il/main/כוחות-צה״ל-סורקים-אחר-מחבל-שפצע-חייל-וחטף-נשק-בסוסיא-277710
+https://hamal.co.il/main/הפצוע-בפיגוע-סמוך-לסוסיא-במצב-בינוני-277711
+https://hamal.co.il/main/כעת-כוחות-צהל-מבצעים-מרדף-אחר-המחבל-277721
