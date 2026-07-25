@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3855312
-https://news.walla.co.il/item/3855324
-https://news.walla.co.il/item/3855326
-https://hamal.co.il/main/דיווח-מדינות-המפרץ-לוחצות-על-ארהב-שתמנע-תקיפה-ישראלית-277269
 https://hamal.co.il/main/ארה״ב-פתחה-בגל-תקיפות-באיראן-277271
 https://hamal.co.il/main/ממדאני-נכנע-אין-דרך-לעצור-את-נתניהו-277273
 https://hamal.co.il/main/דיווח-טראמפ-אישר-הסכם-גרעין-אזרחי-היסטורי-עם-סעודיה-277275
@@ -498,3 +494,7 @@ https://hamal.co.il/main/עכו-גבר-כבן-20-נפצע-באורח-קשה-בת
 https://hamal.co.il/main/הנשק-אותר-המצוד-אחר-המחבל-עדיין-מתנהל-277724
 https://hamal.co.il/main/חדשות-השבת-277722
 https://hamal.co.il/main/מצאנו-את-הילד-הרגעים-הדרמטיים-277726
+https://news.walla.co.il/break/3856080
+https://news.walla.co.il/item/3856079
+https://hamal.co.il/main/איוש-כחבית-נפץ-צהל-מתגבר-כוחות---ונערך-לפיגועי-נקמה-277727
+https://hamal.co.il/main/צהל-חיסל-ראש-חוליית-נוחבה-שפשט-למרחב-כיסופים-ב-7-באוקטובר-277730
