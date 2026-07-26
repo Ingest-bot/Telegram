@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3855496
-https://hamal.co.il/main/צרפת-5764-מקרי-מוות-תועדו-במהלך-גל-החום-277325
-https://hamal.co.il/main/רצח-בניהו-רזי-הוארך-מעצרן-של-3-החשודות-277324
 https://news.walla.co.il/break/3855498
 https://news.walla.co.il/break/3855501
 https://news.walla.co.il/item/3855500
@@ -498,3 +495,6 @@ https://hamal.co.il/main/הטיסה-בוטלה-כך-תחסכו-אלפי-שקלי
 https://news.walla.co.il/item/3856219
 https://hamal.co.il/main/בן-גביר-על-מפלגת-הדמוקרטים-לא-ראויים-לכהן-בכנסת-277796
 https://hamal.co.il/main/צפו-ביתו-של-המחבל-שביצע-את-פיגוע-הירי-בשומרון-נאטם-277798
+https://news.walla.co.il/break/3856225
+https://news.walla.co.il/item/3856223
+https://hamal.co.il/main/יהודי-הותקף-277799
