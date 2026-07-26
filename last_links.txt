@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3855584
-https://news.walla.co.il/break/3855587
-https://news.walla.co.il/break/3855588
-https://news.walla.co.il/break/3855589
 https://news.walla.co.il/item/3855562
 https://news.walla.co.il/item/3855569
 https://hamal.co.il/main/חום-יולי-אוגוסט-עומס-חום-כבד-ולחות-קיצונית--תחזית-מזג-האוו-277394
@@ -498,3 +494,7 @@ https://hamal.co.il/main/פרסום-ראשון-תושבי-שדרות-מדווח�
 https://news.walla.co.il/break/3856372
 https://news.walla.co.il/break/3856373
 https://hamal.co.il/main/יוצאת-מתחנות-הדלק-פז-מקימה-עמדות-טעינה-מהירה-במתחמי-BIG-277864
+https://news.walla.co.il/break/3856382
+https://news.walla.co.il/break/3856383
+https://news.walla.co.il/break/3856378
+https://news.walla.co.il/break/3856380
