@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3855860
-https://news.walla.co.il/break/3855863
 https://news.walla.co.il/item/3855858
 https://news.walla.co.il/item/3855861
 https://hamal.co.il/main/תיעוד-התקיפות-באיראן-277528
@@ -498,3 +496,5 @@ https://hamal.co.il/main/עקב-תקלה-במערכת-האירופאית-יתכ�
 https://news.walla.co.il/item/3856625
 https://hamal.co.il/main/המערכת-האירופאית-שבה-לפעילות-מלאה-277981
 https://hamal.co.il/main/מכה-לנהגים-עיריית-תל-אביב-מייקרת-את-חניונים-עירוניים-ב-20-277969
+https://news.walla.co.il/break/3856630
+https://news.walla.co.il/item/3856624
