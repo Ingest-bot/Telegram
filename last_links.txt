@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3855796
-https://hamal.co.il/main/סכנה-ללהיט-הישראלי-אירופה-הכריזה-על-מתחרה-לחץ-3-277448
-https://hamal.co.il/main/דיווחים-על-אזעקות-ופיצוצים-בכווית-277496
 https://news.walla.co.il/break/3855803
 https://hamal.co.il/main/4-מיליארד-דולר-אושרה-עסקת-הנשק-הגדולה-בתולדות-המדינה-277494
 https://news.walla.co.il/break/3855804
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3856578
 https://news.walla.co.il/item/3856574
 https://hamal.co.il/main/זה-מה-שמסתמן-לקראת-השקת-ה-Apple-Watch-הבא-ינון-בן-שושן-עודכ-277905
 https://news.walla.co.il/break/3856580
+https://news.walla.co.il/item/3856584
+https://hamal.co.il/main/תיעוד-מתוך-תוואי-תת-קרקעי-של-חמאס-שהושמד-בצפון-רצועת-עזה-277954
+https://hamal.co.il/main/קרויזר-לעצור-את-דרישות-ההשבה-של-הביטוח-הלאומי-מתושבי-שדרות-277957
