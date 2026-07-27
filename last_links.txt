@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3855770
-https://news.walla.co.il/item/3855766
-https://hamal.co.il/main/הגמר-עשה-נזק-הפופולריות-של-ליאו-מסי-התרסקה-אחרי-המונדיאל-277442
-https://news.walla.co.il/break/3855776
 https://hamal.co.il/main/המוסד-סוכל-פיגוע-איראני-להחדרת-פעולה-מבצעית-לישראל-277480
 https://hamal.co.il/main/עובד-זר-בן-40-אותר-ללא-רוח-חיים-בירושלים-277482
 https://news.walla.co.il/item/3855779
@@ -498,3 +494,7 @@ https://hamal.co.il/main/הדוגמנית-אליענה-זקס-שאיבדה-את-
 https://news.walla.co.il/item/3856537
 https://hamal.co.il/main/מוקדם-יותר-היום-שני-אזרחים-ישראלים-הגיעו-למרחב-החרמון-וחצו-א-277934
 https://hamal.co.il/main/ראש-הממשלה-נתניהו-לפני-המראתו-לביקור-בוושינגטון-״אני-אדון-ע-277935
+https://news.walla.co.il/break/3856555
+https://news.walla.co.il/break/3856556
+https://hamal.co.il/main/בעקבות-תאונה-שני-רכבים-נופלים-ממשאית-להובלת-רכבים-אל-הכביש-277937
+https://hamal.co.il/main/נעדר-כבר-עשרה-ימים-המשטרה-מבקשת-סיוע-באיתור-אלדר-יצחק-דיין-277938
