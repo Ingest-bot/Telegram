@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3855898
-https://news.walla.co.il/break/3855899
-https://hamal.co.il/main/תיעוד-דרמטי-רגע-חטיפת-הנשק-מהפיגוע-בשומרון-277561
-https://hamal.co.il/main/שריפה-פרצה-277559
 https://hamal.co.il/main/באיוש-277563
 https://hamal.co.il/main/אחרי-הפיגוע-פצוע-קל-מיידוי-אבנים-סמוך-לחוות-גלעד-277564
 https://news.walla.co.il/break/3855905
@@ -498,3 +494,7 @@ https://hamal.co.il/main/מחקר-חדש-גילה-השפעה-מפתיעה-של-�
 https://news.walla.co.il/break/3856703
 https://news.walla.co.il/break/3856701
 https://hamal.co.il/main/בסוף-מישהו-ימות-המכתב-שהונח-ליד-דלת-חדשות-12-278007
+https://news.walla.co.il/break/3856705
+https://news.walla.co.il/break/3856708
+https://news.walla.co.il/break/3856711
+https://hamal.co.il/main/תיעוד-חריג-מבני-ברק-ילד-חזר-למעבר-חצייה-278008
