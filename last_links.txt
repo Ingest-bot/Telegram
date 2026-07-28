@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3855905
-https://news.walla.co.il/item/3855901
-https://news.walla.co.il/item/3855904
 https://news.walla.co.il/item/3855908
 https://hamal.co.il/main/בעקבות-הפיגוע-277566
 https://hamal.co.il/main/בעקבות-הפיגוע-נתניהו-קיים-התייעצות-ביטחונית-277567
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3856711
 https://hamal.co.il/main/תיעוד-חריג-מבני-ברק-ילד-חזר-למעבר-חצייה-278008
 https://hamal.co.il/main/הפיקוח-על-אזורי-הפיילוט---והאזהרה-האמריקנית-לחיזבאללה-278009
 https://hamal.co.il/main/המשטרה-פשטה-על-278010
+https://news.walla.co.il/break/3856716
+https://news.walla.co.il/break/3856718
+https://hamal.co.il/main/רעידת-אדמה-עוצמתית-הורגשה-ביפן-אזהרת-צונאמי-פורסמה-278013
