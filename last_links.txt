@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3856122
-https://news.walla.co.il/break/3856126
-https://news.walla.co.il/break/3856125
-https://news.walla.co.il/break/3856128
 https://news.walla.co.il/break/3856129
 https://news.walla.co.il/item/3856124
 https://news.walla.co.il/item/3856121
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3857013
 https://hamal.co.il/main/סמוך-למסגד-מחסני-אמלח-של-חמאס-הותקפו-ברצועת-עזה-278136
 https://hamal.co.il/main/אחרי-התקיפות-בוטל-ביקור-ראש-ממשלת-עיראק-בסעודיה--דיווח-278137
 https://hamal.co.il/main/ניצלו-פרויקט-בינלאומי-כך-חיזבאללה-278113
+https://news.walla.co.il/item/3857020
+https://news.walla.co.il/item/3857003
+https://hamal.co.il/main/הוארך-מעצרן-של-החשודות-ברצח-בניהו-רזי-חייו-שווים-בפניה-כקל-278139
+https://hamal.co.il/main/האם-הכטבמים-מעיראק-הם-הניסיון-האיראני-לכפות-משוואה-חדשה-278116
