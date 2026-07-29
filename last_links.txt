@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3856175
-https://hamal.co.il/main/צהל-277792
 https://hamal.co.il/main/לאחר-החיפושים-אותרה-גופת-גבר-בחוף-הים-באשקלון-277793
 https://news.walla.co.il/break/3856176
 https://news.walla.co.il/item/3856184
@@ -498,3 +496,5 @@ https://news.walla.co.il/item/3857060
 https://news.walla.co.il/item/3857065
 https://hamal.co.il/main/דיווח-ההנחיה-של-הגרנל-האמריקני-בעקבות-חשיפת-כץ-278148
 https://hamal.co.il/main/צהל-על-הפגיעה-בדחפור-בדרום-לבנון-הפרה-בוטה-של-ההסכם-278150
+https://news.walla.co.il/item/3857068
+https://hamal.co.il/main/מערך-הסייבר-מזהיר-אל-תלחצו-על-ההודעה-הזאת-278149
