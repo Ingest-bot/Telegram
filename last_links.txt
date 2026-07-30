@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3856656
-https://news.walla.co.il/break/3856657
-https://news.walla.co.il/break/3856658
 https://news.walla.co.il/break/3856661
 https://news.walla.co.il/break/3856662
 https://news.walla.co.il/item/3856659
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3857462
 https://hamal.co.il/main/דיווח-ישראלי-נדקר-בפסטיבל-מוזיקה-בהונגריה-278354
 https://news.walla.co.il/break/3857470
 https://hamal.co.il/main/שר-החוץ-האיראני-מצרים-היא-ידידה-חשובה-היזהרו-ממזימות-ישראל-278355
+https://hamal.co.il/main/משטרת-ישראל-פתחה-בחקירה-בעקבות-חשד-לאירוע-ירי-בסמוך-ליישוב-כ-278356
+https://hamal.co.il/main/-צהל-השמיד-כעת-את-מנהרות-הטרור-במרחב-הבופור-שבדרום-לבנון-278357
+https://hamal.co.il/main/צהל-השמיד-מספר-תוואים-מרכזיים-ברשת-המנהרות-התת-קרקעיות-במרח-278358
