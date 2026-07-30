@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3856604
-https://news.walla.co.il/item/3856601
-https://hamal.co.il/main/רוסלנה-לא-פוסלת-את-הרעיון-של-שמירת-שבת-277942
-https://hamal.co.il/main/צהל-חיסל-מחבל-נוחבה-שלקח-חלק-בשחרורו-של-אזרח-ישראלי-מהשבי-277972
 https://hamal.co.il/main/שניים-מחבריו-של-הנעדר-מדימונה---נעצרו-277973
 https://hamal.co.il/main/2-צעירים-בני-18-נפצעו-אנוש-וקשה-בתאונת-דרכים-סמוך-לניר-אליהו-277974
 https://news.walla.co.il/item/3856605
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3857420
 https://hamal.co.il/main/מעצר-חשוד-בגרימת-מוות-במושב-במועצה-איזורית-חוף-כרמל-278330
 https://hamal.co.il/main/רעידת-אדמה-הסכמה-פה-אחד-באופא-להחרים-את-המונדיאל-278333
 https://hamal.co.il/main/הותר-לפרסום-נעצר-החשוד-שהשליך-אבנים-לעבר-בניין-חדשות-12-278334
+https://news.walla.co.il/break/3857421
+https://news.walla.co.il/item/3857420
+https://news.walla.co.il/item/3857423
+https://hamal.co.il/main/המצוד-נמשך-התשתיות-יוקרסו-התוכנית-החדשה-של-צהל-בעזה-278337
