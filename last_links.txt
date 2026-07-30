@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3856393
-https://news.walla.co.il/break/3856398
-https://hamal.co.il/main/שי-מיקה-מתייחסת-לראשונה-לפתיחת-תיק-הרצח-של-תאיר-ראדה-זל-277873
 https://news.walla.co.il/break/3856401
 https://hamal.co.il/main/״הרשימה-ממשיכה-להתארך״-איראן-באיום-חדש---על-מדינה-אירופית-277874
 https://hamal.co.il/main/טראמפ-אנחנו-מצוידים-בחימוש-יותר-מכל-מדינה-אחרת-בעולם-277875
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3857228
 https://news.walla.co.il/break/3857229
 https://hamal.co.il/main/צבא-ירדן-הודיע-שיירט-חמישה-טילים-ששוגרו-מאיראן-278216
 https://hamal.co.il/main/אזעקות-נשמעו-בפולין-בעקבות-תקיפות-רוסיות-באוקראינה-278217
+https://news.walla.co.il/break/3857239
+https://news.walla.co.il/break/3857240
+https://hamal.co.il/main/חשד-לירי-לעבר-אולם-אירועים-בעיר-278218
