@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3856509
-https://news.walla.co.il/item/3856503
-https://hamal.co.il/main/השריפה-בשדרות-אלו-הכבישים-שנחסמו-277908
 https://hamal.co.il/main/אחרי-הפריימריז-זה-המועמד-שעל-הכוונות-של-סמוטריץ-277918
 https://hamal.co.il/main/צבא-ירדן-2-כטבמים-יורטו-בשמי-המדינה-277919
 https://hamal.co.il/main/אחרי-אלפי-צלמיות-שנמצאו---דווקא-החפץ-הזה-שינה-את-כל-התמונה-ז-277920
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3857318
 https://hamal.co.il/main/בת-8-נלכדה-במשאבת-ג׳קוזי-בחופשה-בצימר-278276
 https://hamal.co.il/main/שני-ישראלים-חצו-את-הגבול-לשטח-סוריה-278277
 https://hamal.co.il/main/גבר-בן-60-טבע-סמוך-לחוף-נווה-ים-מצבו-קשה-278278
+https://news.walla.co.il/break/3857323
+https://news.walla.co.il/item/3857325
+https://hamal.co.il/main/פילטר-או-נמס-278272
