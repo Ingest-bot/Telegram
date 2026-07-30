@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3856619
-https://news.walla.co.il/break/3856621
-https://news.walla.co.il/item/3856620
-https://hamal.co.il/main/עקב-תקלה-במערכת-האירופאית-יתכנו-עיכובים-ממושכים-בטיסות-277980
 https://news.walla.co.il/item/3856625
 https://hamal.co.il/main/המערכת-האירופאית-שבה-לפעילות-מלאה-277981
 https://hamal.co.il/main/מכה-לנהגים-עיריית-תל-אביב-מייקרת-את-חניונים-עירוניים-ב-20-277969
@@ -498,3 +494,7 @@ https://hamal.co.il/main/סקר-חדש-קובע-צכיה-איסלנד-וספרד
 https://news.walla.co.il/break/3857443
 https://news.walla.co.il/break/3857442
 https://news.walla.co.il/item/3857445
+https://news.walla.co.il/break/3857447
+https://news.walla.co.il/break/3857449
+https://news.walla.co.il/item/3857448
+https://hamal.co.il/main/אירוע-בשומרון-מחבל-האיץ-ברכבו-לעבר-כוחותינו---ונוטרל-278344
