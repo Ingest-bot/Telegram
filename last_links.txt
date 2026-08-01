@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3856792
-https://news.walla.co.il/item/3856804
-https://hamal.co.il/main/התוכנית-שתאפשר-לאיראן-לגבות-דמי-מעבר-במצרי-הורמוז-278040
-https://hamal.co.il/main/במדא-מעדכנים-מצבה-של-הילדה-שנחנקה-מענב-מוגדר-קשה-ויציב-278041
 https://hamal.co.il/main/לאחר-שהותקפה-המגעים-של-בעלת-הברית-של-ישראל-עם-איראן-278042
 https://hamal.co.il/main/איילת-שקד-מסרה-עדות-בפרשת-נווה-אורנשטיין-278044
 https://news.walla.co.il/item/3856822
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3857620
 https://news.walla.co.il/break/3857619
 https://news.walla.co.il/break/3857621
 https://news.walla.co.il/break/3857622
+https://news.walla.co.il/break/3857623
+https://news.walla.co.il/break/3857626
+https://news.walla.co.il/break/3857628
+https://news.walla.co.il/break/3857632
