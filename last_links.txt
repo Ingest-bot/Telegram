@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3857144
-https://hamal.co.il/main/דיווח-פיצוץ-בטרמינל-הגז-הטבעי-ב-278180
-https://news.walla.co.il/item/3857148
-https://hamal.co.il/main/דיווח-שישה-יועצים-צבאיים-של-איראן-נהרגו-בתקיפות-בעיראק-עמית-278181
 https://news.walla.co.il/break/3857151
 https://news.walla.co.il/break/3857152
 https://hamal.co.il/main/עד-47-מעלות-גל-חום-צפוי-לפקוד-את-ישראל-החל-מיום-שישי-278158
@@ -498,3 +494,7 @@ https://hamal.co.il/main/צהל-חיסל-שלושה-מחבלים-שקידמו-מ
 https://news.walla.co.il/break/3857948
 https://news.walla.co.il/item/3857950
 https://hamal.co.il/main/אחרי-שש-שנים-בלי-שינוי-ייתכן-שה-iPad-Air-עומד-לקבל-סוף-סוף-278553
+https://news.walla.co.il/break/3857953
+https://news.walla.co.il/break/3857954
+https://news.walla.co.il/break/3857956
+https://news.walla.co.il/break/3857957
