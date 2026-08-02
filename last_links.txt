@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3857029
-https://news.walla.co.il/break/3857038
-https://news.walla.co.il/item/3857033
-https://news.walla.co.il/item/3857037
 https://news.walla.co.il/item/3857031
 https://hamal.co.il/main/סיכון-להפרעה-בקצב-הלב-המחקר-שידאיג-את-חובבי-הביצים-והבשר-278122
 https://news.walla.co.il/break/3857045
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3857827
 https://news.walla.co.il/item/3857800
 https://news.walla.co.il/item/3857825
 https://hamal.co.il/main/הרצח-בנתיבות-278504
+https://news.walla.co.il/break/3857831
+https://news.walla.co.il/item/3857814
+https://hamal.co.il/main/דיווח-המהלך-שנועד-להבטיח-את-יישום-הסכם-הנסיגה-מעזה-278506
+https://hamal.co.il/main/כוחות-צוות-הקרב-החטיבתי-401-השלימו-את-משימתם-בדרום-לבנון-278505
