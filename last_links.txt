@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3857113
-https://news.walla.co.il/break/3857115
-https://hamal.co.il/main/הרצח-בנחלאות-מעצרו-של-אביאור-ששון-הוארך-בשבעה-ימים-278159
-https://hamal.co.il/main/3-אזרחים-ישראלים-חצו-את-הגבול-לשטח-סוריה-צה״ל-השיב-אותם-278160
 https://news.walla.co.il/break/3857118
 https://news.walla.co.il/break/3857121
 https://news.walla.co.il/break/3857123
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3857898
 https://hamal.co.il/main/דיווחים-בירדן-אזעקות-הופעלו-בעקבות-ירי-מאיראן-278534
 https://hamal.co.il/main/באיראן-טוענים-אלו-הסיבות-להסתרת-ההקל-278529
 https://news.walla.co.il/item/3857914
+https://news.walla.co.il/break/3857918
+https://news.walla.co.il/break/3857922
+https://news.walla.co.il/item/3857916
+https://hamal.co.il/main/תאונת-דרכים-ברמת-הגולן-נקבע-מותו-של-גבר-כבן-35-278535
