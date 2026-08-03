@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3857392
-https://news.walla.co.il/break/3857394
-https://news.walla.co.il/item/3857388
 https://hamal.co.il/main/עוד-רועי-כהן-מסיים-את-תפקידו-כמנכל-ארגון-נפגעי-פעולות-איבה-278310
 https://hamal.co.il/main/למה-מושבי-המטוס-כמעט-תמיד-בצבע-כחול-278282
 https://hamal.co.il/main/חשד-לרצח-גבר-נמצא-מת-בחוף-הכרמל-278311
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3858182
 https://news.walla.co.il/item/3858165
 https://hamal.co.il/main/ראש-הלשכה-המדינית-של-חמאז-קיבל-טלפון-מנשיא-איראן-278674
 https://hamal.co.il/main/סמוטריץ-וסטרוק-לנתניהו-לעצור-את-כניסת-הכוח-הבינל-לעזה-278677
+https://news.walla.co.il/item/3858189
+https://news.walla.co.il/item/3858192
+https://hamal.co.il/main/גורם-מדיני-278678
