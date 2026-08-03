@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3857374
-https://news.walla.co.il/item/3854006
-https://hamal.co.il/main/ישראייר-תפעיל-מטוסי-278302
 https://hamal.co.il/main/כרגע-חזרו-בודדים-הלוחמים-מספרים-על-הסיבה-למרד-278303
 https://news.walla.co.il/break/3857377
 https://hamal.co.il/main/גורם-צבאי-בכיר-אירוע-משמעתי-חמור-שאין-לו-מקום-בצהל-278304
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3858166
 https://news.walla.co.il/item/3858167
 https://hamal.co.il/main/דיווחים-בלבנון-על-תקיפת-מכונית-278667
 https://hamal.co.il/main/בין-זכותה-של-ישראל-להגן-על-עצמה-לחזון-טראמפ-לעזה-278670
+https://news.walla.co.il/break/3858174
+https://news.walla.co.il/item/3858175
+https://hamal.co.il/main/צוותי-יחידת-להבה-פועלים-בחיפושים-אחר-נעדר-בכנרת-278673
