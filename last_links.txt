@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3857625
-https://news.walla.co.il/break/3857640
-https://news.walla.co.il/break/3857641
-https://news.walla.co.il/break/3857643
 https://news.walla.co.il/break/3857642
 https://hamal.co.il/main/ילד-כבן-12-נפל-מחמור-סמוך-לירוחם-מצבו-בינוני-278422
 https://hamal.co.il/main/הסתבכה-שוב-דוגמנית-האונליפאנס-הישראלית-תישאר-במעצר-בלוס-אנג-278423
@@ -498,3 +494,7 @@ https://hamal.co.il/main/לא-רק-שיר-חדש-נרקיס-חושפת-זוגי�
 https://news.walla.co.il/break/3858473
 https://hamal.co.il/main/ילד-בן-5-במצב-אנוש-לאחר-שטבע-בבריכה-ציבורית-בעומר-278826
 https://hamal.co.il/main/באיראן-מאשרים-ה-278827
+https://news.walla.co.il/break/3858476
+https://hamal.co.il/main/השתייך-בעבר-278828
+https://hamal.co.il/main/ליבו-של-הילד-שטבע-בעומר-שב-לפעום-מצבו-מוגדר-קשה-278829
+https://hamal.co.il/main/בצל-לחץ-אמריקני-ובינלאומי-מדיניות-האש-בעזה-הוחמרה-משמעותית-278831
