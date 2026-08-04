@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3857621
-https://news.walla.co.il/break/3857622
-https://news.walla.co.il/break/3857623
-https://news.walla.co.il/break/3857626
 https://news.walla.co.il/break/3857628
 https://news.walla.co.il/break/3857632
 https://news.walla.co.il/break/3857633
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3858458
 https://news.walla.co.il/item/3858456
 https://news.walla.co.il/item/3858453
 https://hamal.co.il/main/דיווח-צבא-ארהב-השתמש-כמעט-בכל-מלאי-הטילים-שלו-278823
+https://news.walla.co.il/break/3858463
+https://news.walla.co.il/break/3858467
+https://news.walla.co.il/item/3858461
+https://news.walla.co.il/item/3858462
