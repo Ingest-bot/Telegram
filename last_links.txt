@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3857815
-https://news.walla.co.il/break/3857827
-https://news.walla.co.il/item/3857800
 https://news.walla.co.il/item/3857825
 https://hamal.co.il/main/הרצח-בנתיבות-278504
 https://news.walla.co.il/break/3857831
@@ -498,3 +495,6 @@ https://hamal.co.il/main/אחמד-אלגרוב-הוא-החשוד-ברצח-עור
 https://news.walla.co.il/break/3858700
 https://news.walla.co.il/item/3858688
 https://hamal.co.il/main/כדאי-לדעת-הדברים-שהמלון-מצפה-שתיקחו---ואלה-שממש-אסור-לכם-278893
+https://news.walla.co.il/item/3858704
+https://hamal.co.il/main/צה״ל-באזהרת-פינוי-לתושבי-כפר-בלבנון-278921
+https://hamal.co.il/main/שר-החוץ-הסעודי-נפגש-עם-מקבילו-העיראקי-בעמאן-ליה-ויין-שר-הח-278922
