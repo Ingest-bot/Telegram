@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3857970
-https://news.walla.co.il/break/3857972
-https://news.walla.co.il/item/3857876
-https://hamal.co.il/main/משרד-החוץ-האיראני-השגנו-התקדמות-במשא-ומתן-עם-עומאן-278559
 https://news.walla.co.il/break/3857973
 https://news.walla.co.il/break/3857974
 https://news.walla.co.il/break/3857975
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3858805
 https://news.walla.co.il/break/3858811
 https://hamal.co.il/main/צעיר-בן-20-278982
 https://hamal.co.il/main/רימון-רסס-הושלך-לעבר-בניין-בצפון-תא-אין-נפגעים-278983
+https://news.walla.co.il/break/3858817
+https://news.walla.co.il/break/3858819
+https://news.walla.co.il/break/3858820
+https://hamal.co.il/main/עלייה-קלה-בטמפרטורות-עומסי-חום-כבדים-יורגשו-ברחבי-הארץ-278985
