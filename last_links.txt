@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3858000
-https://news.walla.co.il/break/3858001
-https://hamal.co.il/main/תרגיל-צבאי-של-חיל-הים-ייערך-החל-ממחר-ועד-ליום-שלישי-278578
-https://hamal.co.il/main/על-רקע-השיח-סביב-מצבה-אריאנה-גרנדה-לוקחת-הפסקה-278583
-https://news.walla.co.il/item/3858006
 https://hamal.co.il/main/בשידור-חי-בערוץ-14-השר-כ״ץ-הודיע-על-הדחת-אלוף-פיקוד-מרכז-278599
 https://hamal.co.il/main/טראמפ-על-המתקפה-המתוכננת-באיראן-״הייתה-הולכת-להיות-278600
 https://news.walla.co.il/break/3858009
@@ -498,3 +493,8 @@ https://hamal.co.il/main/התקרית-בלבנון-כץ-דרש-תשובות-על
 https://news.walla.co.il/break/3858848
 https://news.walla.co.il/item/3858851
 https://hamal.co.il/main/כתב-אישום-הוגש-279003
+https://news.walla.co.il/break/3858861
+https://news.walla.co.il/item/3858858
+https://hamal.co.il/main/רם-בן-ברק-לאיזנקוט-חסר-ניסיון---זה-לא-צבא-279005
+https://hamal.co.il/main/מעצרו-של-סגן-ראש-העיר-החשוד-בהטרדה-מינית-הוארך-ב-5-ימים-279007
+https://hamal.co.il/main/פקיסטן-אנו-עדיין-במגעים-עם-מדינות-נוספות-בנוגע-למצב-במצר-ה-279009
