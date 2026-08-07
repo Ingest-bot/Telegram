@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3858145
-https://hamal.co.il/main/מטען-חומר-נפץ-ומקלע-אמלח-אותר-בכפר-קאסם-278647
 https://news.walla.co.il/break/3858148
 https://hamal.co.il/main/תחקיר-התקרית-בלבנון-278611
 https://hamal.co.il/main/הפנייה-החריגה-של-צבא-ארהב-ל-278648
@@ -498,3 +496,5 @@ https://hamal.co.il/main/דיווח-טורקיה-סעודיה-ופקיסטן-י�
 https://news.walla.co.il/break/3859056
 https://news.walla.co.il/item/3859056
 https://news.walla.co.il/break/3859057
+https://news.walla.co.il/break/3859059
+https://news.walla.co.il/item/3859053
