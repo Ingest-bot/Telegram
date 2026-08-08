@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3858330
-https://news.walla.co.il/break/3858329
-https://news.walla.co.il/item/3858326
-https://hamal.co.il/main/דדי-ברנע-בחר-בכסף-הגדול-מארהב-האם-תהיה-פגיעה-בביטחון-המדינ-278740
 https://news.walla.co.il/break/3858331
 https://hamal.co.il/main/כוחות-ביטחון-הפנים-של-סוריה-איתרו-רקטות-גראד-שהוסתרו-סמוך-לע-278742
 https://hamal.co.il/main/26-ממשרתי-המילואים-מתגרשים-לאחר-תקופת-השירות-הראשונה-278744
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3859210
 https://news.walla.co.il/break/3859211
 https://news.walla.co.il/break/3859209
 https://hamal.co.il/main/התרעות-בעופרים-עקב-חשש-לחדירת-מחבלים-279192
+https://news.walla.co.il/break/3859213
+https://news.walla.co.il/item/3858915
+https://hamal.co.il/main/צה״ל-התרעה-על-חשש-לחדירת-מחבלים-בעופרים-הפרטים-בבדיקה-279193
+https://hamal.co.il/main/דיווחים-בדרום-לבנון-צהל-תוקף-מהאוויר-במספר-מוקדים-279195
