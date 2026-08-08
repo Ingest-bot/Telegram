@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3858410
-https://hamal.co.il/main/מספר-פצועים-באשקלון-כתוצאה-מאוטובוס-פגע-בהולכי-רגל-278794
-https://hamal.co.il/main/צב-ים-פצוע-נסחף-אל-תחנת-החשמל---העובדים-הצילו-אותו-278796
 https://hamal.co.il/main/שריפת-ענק-סמוך-לכביש-6-הכביש-נחסם-בשני-הכיוונים-בבן-שמן-278803
 https://hamal.co.il/main/דיווח-טראמפ-הציב-לאיראן-אולטימטום-להגיע-להסכם-עם-עומאן-278804
 https://news.walla.co.il/break/3858419
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3859263
 https://news.walla.co.il/break/3859266
 https://news.walla.co.il/break/3859277
 https://hamal.co.il/main/הארגון-הפרו-פלסטיני-הגיש-תלונה-נגד-מנכל-אם-תרצו-279227
+https://news.walla.co.il/break/3859280
+https://news.walla.co.il/item/3859281
+https://hamal.co.il/main/חם-לכם-תתרגלו-זה-רק-הולך-להמשיך--תחזית-מזג-האוויר-279237
