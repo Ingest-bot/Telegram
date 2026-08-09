@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3858549
-https://news.walla.co.il/item/3858550
-https://news.walla.co.il/break/3858552
-https://news.walla.co.il/break/3858553
 https://news.walla.co.il/break/3858556
 https://news.walla.co.il/break/3858557
 https://news.walla.co.il/break/3858560
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3859448
 https://news.walla.co.il/item/3859446
 https://news.walla.co.il/item/3859445
 https://hamal.co.il/main/2-279304
+https://news.walla.co.il/break/3859455
+https://news.walla.co.il/item/3859452
+https://news.walla.co.il/item/3859451
+https://hamal.co.il/main/דיווח-בלבנון-ההבנות-בין-ארהב-לאיראן-קרסו-279305
