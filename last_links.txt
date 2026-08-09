@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3858530
-https://news.walla.co.il/item/3858526
-https://news.walla.co.il/break/3858533
-https://hamal.co.il/main/בני-משפחתו-של-החשוד-ברצח-עורך-הדין-278846
 https://news.walla.co.il/break/3858549
 https://news.walla.co.il/item/3858550
 https://news.walla.co.il/break/3858552
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3859426
 https://news.walla.co.il/item/3859440
 https://hamal.co.il/main/נורתה-לעיני-ילדיה-נעצרו-4-חשודים-ברצח-279302
 https://hamal.co.il/main/בית-המשפט-דחה-את-הערר-צו-ההגבלה-על-טל-ינון-דרדיק-יבוטל-279303
+https://news.walla.co.il/item/3859448
+https://news.walla.co.il/item/3859446
+https://news.walla.co.il/item/3859445
+https://hamal.co.il/main/2-279304
