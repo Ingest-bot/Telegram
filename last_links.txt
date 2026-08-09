@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3858689
-https://news.walla.co.il/item/3858690
-https://hamal.co.il/main/אחרי-שעזב-את-גנץ---חכ-איתן-גינזבורג-מצטרף-לבנט-278915
-https://hamal.co.il/main/אחמד-אלגרוב-הוא-החשוד-ברצח-עורך-הדין-ארבל-פלדמן-278917
 https://news.walla.co.il/break/3858700
 https://news.walla.co.il/item/3858688
 https://hamal.co.il/main/כדאי-לדעת-הדברים-שהמלון-מצפה-שתיקחו---ואלה-שממש-אסור-לכם-278893
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3859550
 https://news.walla.co.il/item/3859546
 https://hamal.co.il/main/ישראלים-תתנהגו-יפה-בחופשה-באירופה-יתגמלו-אתכם-279343
 https://hamal.co.il/main/גבר-בן-50-נהרג-בתאונת-דרכים-בשרון-279344
+https://news.walla.co.il/break/3859557
+https://news.walla.co.il/break/3859561
+https://news.walla.co.il/item/3859559
+https://hamal.co.il/main/נער-בן-16-טבע-בבריכה-ברחובות-מצבו-קשה-279349
