@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3858556
-https://news.walla.co.il/break/3858557
-https://news.walla.co.il/break/3858560
-https://news.walla.co.il/item/3858554
-https://news.walla.co.il/item/3858555
 https://news.walla.co.il/item/3858559
 https://news.walla.co.il/item/3858511
 https://news.walla.co.il/item/3858561
@@ -498,3 +493,8 @@ https://news.walla.co.il/break/3859455
 https://news.walla.co.il/item/3859452
 https://news.walla.co.il/item/3859451
 https://hamal.co.il/main/דיווח-בלבנון-ההבנות-בין-ארהב-לאיראן-קרסו-279305
+https://news.walla.co.il/break/3859463
+https://news.walla.co.il/break/3859461
+https://news.walla.co.il/item/3859458
+https://hamal.co.il/main/בן-5-במצב-אנוש-לאחר-שאותר-עם-סימני-מכת-חום-ברכב-בלוד-279308
+https://hamal.co.il/main/צפו-לוחמי-הנחל-מאחלים-בהצלחה-למתגייסי-החטיבה-279309
