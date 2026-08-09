@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3858486
-https://news.walla.co.il/break/3858488
-https://news.walla.co.il/item/3858489
 https://news.walla.co.il/item/3858490
 https://hamal.co.il/main/ישיבת-החירום-שתכונס-בירדן-בן-גביר-משתלט-על-הר-הבית-278836
 https://news.walla.co.il/break/3858491
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3859372
 https://hamal.co.il/main/טרגדיה-במקסיקו-תושב-ירושלים-בן-4-טבע-למוות-בבריכת-מלון-279285
 https://hamal.co.il/main/בסוריה-טוענים-כוחות-המשטר-סיכלו-הברחת-נשק-ללבנון-279287
 https://hamal.co.il/main/החותים-מצהירים-תקפנו-בית-זיקוק-של-סעודיה-279289
+https://news.walla.co.il/break/3859383
+https://news.walla.co.il/item/3859387
+https://hamal.co.il/main/דייל-שהתחזה-לטייס-וטס-בחינם-מאות-פעמים-נחשף-אחרי-5-שנים-279283
