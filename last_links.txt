@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3858936
-https://hamal.co.il/main/עידית-סילמן-אני-גאה-שהפלתי-את-ממשלת-החלומות-של-התקשורת-279032
-https://hamal.co.il/main/לקראת-הגיוס-מפקדי-הפלוגות-של-חטיבת-הנח״ל-בראיון-לחמ״ל-279049
 https://hamal.co.il/main/תפנית-דרמטית-בפרשת-אלדר-דיין-חבריו-חשודים-ברצח-279050
 https://news.walla.co.il/break/3858940
 https://news.walla.co.il/item/3858943
@@ -498,3 +495,6 @@ https://hamal.co.il/main/עוד-תייר-אחד---פחות-תושב-המרד-נ�
 https://news.walla.co.il/item/3859830
 https://news.walla.co.il/item/3859831
 https://hamal.co.il/main/כוחות-המשטרה-פועלים-לפינוי-מפגינים-בבר-אילן-279473
+https://news.walla.co.il/break/3859838
+https://news.walla.co.il/break/3859836
+https://news.walla.co.il/item/3859823
