@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3858736
-https://news.walla.co.il/break/3858737
 https://news.walla.co.il/item/3858735
 https://hamal.co.il/main/כוחות-הביטחון-החלו-במהלך-הלילה-במבצע-לסיכול-טרור-אכיפות-מ-278937
 https://hamal.co.il/main/משרד-הביטחון-צהל-והתעשייה-האווירית-ביצעו-ניסוי-מתוכנן-מראש-278938
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3859599
 https://hamal.co.il/main/מצבור-אמלח-אותק-279372
 https://news.walla.co.il/break/3859606
 https://hamal.co.il/main/נולדה-בזמן-הנסיעה-במושב-האחורי-של-הרכב-279374
+https://news.walla.co.il/item/3859611
+https://hamal.co.il/main/רוכב-אופניים-חשמליים-נפגע-ממשאית-בתא-מצבו-קשה-279377
