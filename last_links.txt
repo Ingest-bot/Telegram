@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3859138
-https://news.walla.co.il/item/3859144
-https://news.walla.co.il/break/3859148
 https://news.walla.co.il/break/3859149
 https://hamal.co.il/main/אורח-נדיר-במפרץ-אילת-279155
 https://hamal.co.il/main/דרמה-בטיסת-וויז-מרומא-לישראל-279159
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3860048
 https://news.walla.co.il/break/3860052
 https://hamal.co.il/main/טראמפ-על-איראן-הם-מנהלי-מומ-ערמומיים-279567
 https://hamal.co.il/main/ספורה-מבהירה-אין-תוכניות-לפתוח-חנויות-בישראל-279570
+https://news.walla.co.il/break/3860066
+https://news.walla.co.il/item/3860063
+https://news.walla.co.il/item/3860060
