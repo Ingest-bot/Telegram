@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3859074
-https://news.walla.co.il/item/3859067
-https://hamal.co.il/main/קשר-מפתיע-האם-סדר-הלידה-שלכם-משפיע-על-הבריאות-279115
 https://hamal.co.il/main/התחזית-סופש-נעים-לקראת-גל-חום-נוסף-279121
 https://news.walla.co.il/break/3859078
 https://news.walla.co.il/break/3859079
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3859936
 https://hamal.co.il/main/מחקר-חודש-אחד-בלבד-של-התזונה-הזו-מאט-הזדקנות-279528
 https://hamal.co.il/main/חברת-התעופה-הישראלית-פותחת-טיסות-לארבעה-יעדים-באיטליה-279509
 https://hamal.co.il/main/המפכל-יש-ירידה-באירועי-הרצח-בחברה-הערבית-279530
+https://news.walla.co.il/item/3859865
+https://news.walla.co.il/item/3859955
+https://hamal.co.il/main/באשמת-רצח-עינויים-והסתה-סוריה-גוזרת-עונש-מוות-על-אסד-ואשתו-279531
