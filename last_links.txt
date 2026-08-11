@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3858996
-https://hamal.co.il/main/ברזילי-נקבע-מותה-של-התינוקת-שטבעה-בבריכה-באשקלון-279079
-https://hamal.co.il/main/3-פצועים-קשה-בתאטנה-בין-כלי-רכב-בבקעת-הירדן-279080
-https://hamal.co.il/main/בכיר-איראני-279081
 https://news.walla.co.il/break/3859038
 https://news.walla.co.il/break/3859041
 https://news.walla.co.il/break/3859051
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3859870
 https://news.walla.co.il/item/3859876
 https://news.walla.co.il/break/3859878
 https://news.walla.co.il/item/3859855
+https://news.walla.co.il/item/3859885
+https://hamal.co.il/main/החום-כאן-כדי-להישאר-עומסים-קיצוניים-ברחבי-הארץ--התחזית-279491
+https://hamal.co.il/main/דרמה-בליכוד-נתניהו-הודיע-שישריין-3-שרים-מכהנים-279493
+https://hamal.co.il/main/במהלך-הלילה-3-אזרחים-חצו-לשטח-סוריה---צה״ל-השיב-אותם-279494
