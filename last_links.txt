@@ -1,9 +1,3 @@
-https://news.walla.co.il/item/3859241
-https://hamal.co.il/main/מזילים-ריר-תוך-כדי-שינה-מתי-זה-מעיד-על-בעיה-רפואית-279218
-https://news.walla.co.il/break/3859244
-https://hamal.co.il/main/מכה-לטהרן-מסוף-הנפט-המרכזי-באיראן-הושבת-279221
-https://news.walla.co.il/item/3859253
-https://hamal.co.il/main/שריפה-באתר-בנייה-בפתח-תקווה--צפו-בתיעוד-279224
 https://news.walla.co.il/break/3859254
 https://news.walla.co.il/item/3859258
 https://news.walla.co.il/item/3859256
@@ -498,3 +492,9 @@ https://news.walla.co.il/break/3860156
 https://news.walla.co.il/item/3860155
 https://hamal.co.il/main/האלימות-בחברה-הערבית-אדם-נורה-למוות-בשפרעם-279610
 https://hamal.co.il/main/הקטל-בכבישים-2-גברים-נהרגו-בתאונת-דרכים-סמוך-לבית-שמש-279611
+https://news.walla.co.il/break/3860162
+https://news.walla.co.il/item/3860160
+https://hamal.co.il/main/בן-26-נפצע-קשה-בתאונת-דרכים-בכניסה-לטייבה-279612
+https://hamal.co.il/main/תינוק-וזוג-הורים-חולצו-משריפה-בדירה-בהרצליה-במצב-קל-279613
+https://hamal.co.il/main/טראמפ-לא-סומך-על-איראן-השליטה-בהורמוז---בידינו-279614
+https://hamal.co.il/main/רוכב-אופנוע-נפצע-קשה-במהלך-רכיבה-279615
