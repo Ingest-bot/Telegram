@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3859399
-https://news.walla.co.il/item/3859411
-https://hamal.co.il/main/הזמר-החשוד-באלימות-נגד-בת-זוגו-שוחרר-למעצר-בית-279295
-https://hamal.co.il/main/שר-החוץ-האיראני-יהיו-נתיבים-חדשים-במצר-הורמוז-279297
 https://hamal.co.il/main/צילם-הדפיס-ושלח-לסין-המרגל-של-ענקית-השבבים-נשלח-לכלא-279284
 https://news.walla.co.il/break/3859428
 https://news.walla.co.il/break/3859431
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3860329
 https://news.walla.co.il/item/3860326
 https://hamal.co.il/main/מי-רצח-את-אלדר-דיין-הגרסאות-הסותרות---והשאלה-איך-הגופה-לא-279661
 https://hamal.co.il/main/השר-כ״ץ-279664
+https://news.walla.co.il/break/3860333
+https://news.walla.co.il/item/3860332
+https://hamal.co.il/main/במרתף-חשוך-כשהיא-קשורה-צביה-הוחזקה-סמוך-לג׳נין-279665
+https://hamal.co.il/main/עימותים-בין-נהגים-למפגינים-חרדים-ביציאה-מבני-ברק-279669
