@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3859452
-https://news.walla.co.il/item/3859451
-https://hamal.co.il/main/דיווח-בלבנון-ההבנות-בין-ארהב-לאיראן-קרסו-279305
 https://news.walla.co.il/break/3859463
 https://news.walla.co.il/break/3859461
 https://news.walla.co.il/item/3859458
@@ -498,3 +495,6 @@ https://hamal.co.il/main/3-תושבי-כפר-מצר-הבריחו-סמים-ליר
 https://news.walla.co.il/item/3860353
 https://news.walla.co.il/item/3860355
 https://hamal.co.il/main/התפרצות-הכלבת-מתפשטת-למרכז-אישה-ננשכה-ברמת-גן-279681
+https://news.walla.co.il/item/3860357
+https://news.walla.co.il/item/3860359
+https://hamal.co.il/main/צהל-כבש-את-רכס-עלי-טהאר-שבדרום-לבנון---ושולט-ברובו-279683
