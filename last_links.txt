@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3859324
-https://news.walla.co.il/break/3859325
-https://news.walla.co.il/break/3859329
 https://news.walla.co.il/break/3859330
 https://news.walla.co.il/item/3859326
 https://news.walla.co.il/item/3859322
@@ -498,3 +495,6 @@ https://hamal.co.il/main/איראן-תכננה-לשגר-טיל-לעבר-המטו
 https://news.walla.co.il/break/3860248
 https://news.walla.co.il/item/3860244
 https://hamal.co.il/main/בית-הדין-של-הליכוד-קבע-אושר-השריון-של-חיים-כץ-279641
+https://news.walla.co.il/item/3860264
+https://news.walla.co.il/item/3860267
+https://hamal.co.il/main/רדוף-רוחות-279619
