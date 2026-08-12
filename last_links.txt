@@ -1,5 +1,3 @@
-https://news.walla.co.il/item/3859305
-https://hamal.co.il/main/צוותי-כיבוי-ממשיכים-לפעול-בשריפה-בפתח-תקווה-279257
 https://news.walla.co.il/item/3859312
 https://hamal.co.il/main/שר-החוץ-הטורקי-מצרים-עשויה-להצטרף-לברית-ההגנה-עמית-אביטן-279258
 https://hamal.co.il/main/בעקבות-המעצר-הופעתו-של-הזמר-שנחשד-באלימות-כלפי-בת-זוגו-בוטל-279259
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3860228
 https://news.walla.co.il/item/3860219
 https://hamal.co.il/main/עקב-עבודות-שיקום-279635
 https://hamal.co.il/main/חוליית-מחבלים-סוכלה-בשכם-6-מחבלים-נעצרו-279636
+https://news.walla.co.il/break/3860236
+https://news.walla.co.il/break/3860238
