@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3859280
-https://news.walla.co.il/item/3859281
-https://hamal.co.il/main/חם-לכם-תתרגלו-זה-רק-הולך-להמשיך--תחזית-מזג-האוויר-279237
 https://hamal.co.il/main/חדשות-השבת-279239
 https://hamal.co.il/main/צוותי-כיבוי-ממשיכים-לפעול-בשריפה-באתר-בנייה-בפתח-תקווה-279243
 https://news.walla.co.il/item/3859285
@@ -498,3 +495,6 @@ https://hamal.co.il/main/אלמוג-כהן-מודיע-אתמודד-בפריימ�
 https://news.walla.co.il/break/3860192
 https://hamal.co.il/main/הקטל-בדרכים-בת-65-נדרסה-למוות-בחדרה-279624
 https://hamal.co.il/main/עימותים-בקוצרא-מתיישבים-מנסים-למנוע-את-עקירתם--תיעוד-279625
+https://hamal.co.il/main/גל-ז-279626
+https://hamal.co.il/main/צהל-פינינו-סככה-שהקימו-ישראלים-בקוצרא-279627
+https://hamal.co.il/main/אורן-279628
