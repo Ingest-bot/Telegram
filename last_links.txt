@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3859670
-https://hamal.co.il/main/רימון-אותר-בצפון-תא-אין-נפגעים-279402
-https://hamal.co.il/main/מרחק-של-אלפי-קילומטרים-כך-הופתעו-חיילים-בודדים-ביום-הולדתם-279403
 https://news.walla.co.il/break/3859693
 https://hamal.co.il/main/אחרי-העימות-עם-המתלוננת-סגן-ראש-העיר-החשוד-בעבירות-מין-שוחר-279406
 https://hamal.co.il/main/רימון-נוסף-אותר-בתל-אביב-הרקע-פלילי-אין-נפגעים-279407
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3860551
 https://news.walla.co.il/item/3860549
 https://hamal.co.il/main/דיווח-החות׳ים-תוקפים-באמצעות-כטב״מים-סמוך-לגבול-עם-סעודיה-279751
 https://hamal.co.il/main/צהל-תקף-מפקד-פלוגה-בחמאס-שתכנן-להוציא-לפועל-מתווי-טרור-279752
+https://news.walla.co.il/break/3860555
+https://news.walla.co.il/item/3860557
+https://hamal.co.il/main/עמית-סגל-חושף-קיבלתי-יותר-מהצעה-אחת-לשיריון-ברשימה-לכנסת-279755
