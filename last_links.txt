@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3859561
-https://news.walla.co.il/item/3859559
-https://hamal.co.il/main/נער-בן-16-טבע-בבריכה-ברחובות-מצבו-קשה-279349
-https://hamal.co.il/main/מטוסי-קרב-הוזנקו-ליירט-מטוסים-אזרחיים-מעל-המועדון-של-טראמפ-279350
-https://news.walla.co.il/item/3859565
 https://news.walla.co.il/break/3859568
 https://hamal.co.il/main/גבר-כבן-40-נפל-מגובה-ונפצע-קשה-בחבל-מודיעין-279351
 https://news.walla.co.il/item/3859569
@@ -498,3 +493,8 @@ https://hamal.co.il/main/דיווח-כך-עיראק-תנסה-לרכז-את-הנ�
 https://news.walla.co.il/break/3860458
 https://news.walla.co.il/item/3860460
 https://hamal.co.il/main/חלבון-משקולות-וכאבי-שרירים-כמה-ממה-שסיפרו-לכם-בחדר-הכושר-ב-279714
+https://news.walla.co.il/break/3860468
+https://news.walla.co.il/item/3860466
+https://hamal.co.il/main/חכ-מהליכוד-הודיע-לא-אתמודד-279725
+https://hamal.co.il/main/עובד-נפצע-מזכוכית-במהלך-עבודתו-שבגליל-המערבי-מצבו-קשה-279726
+https://hamal.co.il/main/לא-חייבים-לשבת-בשמש-5-מאכלים-שיעזרו-לכם-לקבל-יותר-ויטמין-D-279715
