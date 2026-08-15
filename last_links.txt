@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3860104
-https://news.walla.co.il/item/3860103
-https://hamal.co.il/main/החותים-תקפנו-ספינה-סעודית-שנשאה-ציוד-צבאי-בבאב-אל-מנדב-279599
 https://news.walla.co.il/item/3860106
 https://news.walla.co.il/break/3860113
 https://hamal.co.il/main/רחבת-מוזיאון-תל-אביב-הוכרזה-ככיכר-החטופים-279602
@@ -498,3 +495,6 @@ https://hamal.co.il/main/חשש-לשיטפונות-במדבר-יהודה-ביו�
 https://hamal.co.il/main/חדשות-השבת-279977
 https://hamal.co.il/main/צהל-מאשר-קצין-ושני-לוחמים-נפצעו-קשה-מפגיעת-רחפן-נפץ-279984
 https://hamal.co.il/main/המשטרה-הילד-הנעדר-באשקלון---אותר-279985
+https://news.walla.co.il/break/3860894
+https://news.walla.co.il/break/3860896
+https://news.walla.co.il/item/3860897
