@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3860150
-https://news.walla.co.il/item/3860153
-https://news.walla.co.il/break/3860155
-https://news.walla.co.il/item/3860119
 https://news.walla.co.il/break/3860156
 https://news.walla.co.il/item/3860155
 https://hamal.co.il/main/האלימות-בחברה-הערבית-אדם-נורה-למוות-בשפרעם-279610
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3860928
 https://news.walla.co.il/item/3860929
 https://hamal.co.il/main/הבכיר-האיראני-איים-על-טראמפ-שידאג-לביטחונו-האישי-עמית-אבי-280000
 https://hamal.co.il/main/שידור-חי-מהכותל-המערבי-מעמד-הסליחות-הראשון-280002
+https://news.walla.co.il/break/3860931
+https://news.walla.co.il/item/3860932
+https://news.walla.co.il/item/3860933
+https://hamal.co.il/main/מפקד-פיקוד-המרכז-של-ארהב-השלים-ביקור-בן-עשרה-ימים-במזרח-הת-280003
