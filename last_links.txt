@@ -1,4 +1,3 @@
-https://news.walla.co.il/item/3860060
 https://news.walla.co.il/item/3860069
 https://news.walla.co.il/item/3860070
 https://news.walla.co.il/item/3860057
@@ -498,3 +497,4 @@ https://news.walla.co.il/break/3860855
 https://news.walla.co.il/break/3860859
 https://news.walla.co.il/break/3860862
 https://hamal.co.il/main/שיא-גשם-לחודש-אוגוסט-נשבר-בירושלים--צפו-279956
+https://news.walla.co.il/break/3860865
