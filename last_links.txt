@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3860151
-https://news.walla.co.il/break/3860154
 https://news.walla.co.il/item/3860147
 https://news.walla.co.il/item/3860150
 https://news.walla.co.il/item/3860153
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3860919
 https://hamal.co.il/main/ישראלי-כבן-35-אותר-ללא-רוח-חיים-בחדרו-במלון-בבנגקוק-279998
 https://hamal.co.il/main/קטאר-מכחישה-שעצרה-טייסים-איראנים-שרידי-אחד-מהם-אותרו-בשטחה-279999
 https://news.walla.co.il/break/3860928
+https://news.walla.co.il/item/3860929
+https://hamal.co.il/main/הבכיר-האיראני-איים-על-טראמפ-שידאג-לביטחונו-האישי-עמית-אבי-280000
