@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3860101
-https://news.walla.co.il/item/3860100
-https://hamal.co.il/main/חייל-מארינס-אמריקני-שוחרר-מהכלא-הרוסי---לאחר-כ-4-שנים-279596
 https://news.walla.co.il/break/3860104
 https://news.walla.co.il/item/3860103
 https://hamal.co.il/main/החותים-תקפנו-ספינה-סעודית-שנשאה-ציוד-צבאי-בבאב-אל-מנדב-279599
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3860890
 https://hamal.co.il/main/צהל-מאשר-טנק-עלה-על-מטען---הפרה-חמורה-של-הפסקת-האש-279975
 https://hamal.co.il/main/סריקות-נרחבות-אחר-ילד-בן-4-שנעדר-בחוף-באשקלון-279980
 https://hamal.co.il/main/חשש-לשיטפונות-במדבר-יהודה-ביום-ראשון-הקרוב-279983
+https://hamal.co.il/main/חדשות-השבת-279977
+https://hamal.co.il/main/צהל-מאשר-קצין-ושני-לוחמים-נפצעו-קשה-מפגיעת-רחפן-נפץ-279984
+https://hamal.co.il/main/המשטרה-הילד-הנעדר-באשקלון---אותר-279985
