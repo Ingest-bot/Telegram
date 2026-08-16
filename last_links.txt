@@ -1,9 +1,3 @@
-https://news.walla.co.il/break/3860192
-https://hamal.co.il/main/הקטל-בדרכים-בת-65-נדרסה-למוות-בחדרה-279624
-https://hamal.co.il/main/עימותים-בקוצרא-מתיישבים-מנסים-למנוע-את-עקירתם--תיעוד-279625
-https://hamal.co.il/main/גל-ז-279626
-https://hamal.co.il/main/צהל-פינינו-סככה-שהקימו-ישראלים-בקוצרא-279627
-https://hamal.co.il/main/אורן-279628
 https://news.walla.co.il/break/3860203
 https://news.walla.co.il/item/3860204
 https://hamal.co.il/main/דיווח-הסיבה-שבגללה-מצרים-לא-הצטרפה-לברית-ההגנה-עם-טורקיה-279630
@@ -498,3 +492,9 @@ https://news.walla.co.il/break/3860954
 https://hamal.co.il/main/צהל-מאשר-280014
 https://news.walla.co.il/break/3860963
 https://news.walla.co.il/item/3860961
+https://news.walla.co.il/break/3860966
+https://news.walla.co.il/item/3860967
+https://news.walla.co.il/item/3860963
+https://hamal.co.il/main/תושב-מזרח-י-ם-נעצר-בחשד-280018
+https://hamal.co.il/main/מהערים-החרדיות-ועד-השרון-איפה-נרשם-הזינוק-החד-ביותר-במספר-ה-280015
+https://hamal.co.il/main/כוכב-ה-NBA-חשף-במשך-20-שנה-למדתי-תורה-בסתר-280013
