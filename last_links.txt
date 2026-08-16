@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3860324
-https://news.walla.co.il/item/3860323
-https://news.walla.co.il/break/3860329
-https://news.walla.co.il/item/3860326
-https://hamal.co.il/main/מי-רצח-את-אלדר-דיין-הגרסאות-הסותרות---והשאלה-איך-הגופה-לא-279661
 https://hamal.co.il/main/השר-כ״ץ-279664
 https://news.walla.co.il/break/3860333
 https://news.walla.co.il/item/3860332
@@ -498,3 +493,8 @@ https://hamal.co.il/main/יור-ועדת-הבחירות-המידע-על-המצב
 https://news.walla.co.il/break/3861104
 https://news.walla.co.il/break/3861108
 https://hamal.co.il/main/בתוך-שעה-צהל-תקף-שני-מחבלים-מהגיהאד-האיסלאמי-והחמאס-280066
+https://news.walla.co.il/break/3861116
+https://news.walla.co.il/break/3861118
+https://news.walla.co.il/item/3861123
+https://news.walla.co.il/item/3861121
+https://hamal.co.il/main/אלמ-במיל-חזי-נחמה-מצטרף-למפלגת-האחדות-בראשות-ארדן-280069
