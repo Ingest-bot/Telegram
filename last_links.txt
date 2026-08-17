@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3860607
-https://news.walla.co.il/item/3860608
 https://news.walla.co.il/item/3860612
 https://news.walla.co.il/break/3860617
 https://news.walla.co.il/item/3860616
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3861409
 https://hamal.co.il/main/100-מבנים-נסרקו-שני-מחבלים-נעצרו-מבצע-חטיבתי-הושלם-בקבאטיה-280195
 https://hamal.co.il/main/עו״ד-280198
 https://hamal.co.il/main/חשש-למחדל-נוסף-באסותא-תורם-הזרע-של-הילדים-אינו-תואם-גנטית-280200
+https://news.walla.co.il/break/3861413
+https://news.walla.co.il/item/3861415
