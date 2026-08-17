@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3860549
-https://hamal.co.il/main/דיווח-החות׳ים-תוקפים-באמצעות-כטב״מים-סמוך-לגבול-עם-סעודיה-279751
-https://hamal.co.il/main/צהל-תקף-מפקד-פלוגה-בחמאס-שתכנן-להוציא-לפועל-מתווי-טרור-279752
 https://news.walla.co.il/break/3860555
 https://news.walla.co.il/item/3860557
 https://hamal.co.il/main/עמית-סגל-חושף-קיבלתי-יותר-מהצעה-אחת-לשיריון-ברשימה-לכנסת-279755
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3861361
 https://news.walla.co.il/break/3861362
 https://hamal.co.il/main/ילד-בן-4-נפגע-מרכב-בבית-שמש-מצבו-אנוש-280161
 https://hamal.co.il/main/2-ילדים-נפצעו-בבית-שמש-1-מהם-מחוסר-הכרה-280163
+https://news.walla.co.il/break/3861367
+https://news.walla.co.il/item/3861361
+https://news.walla.co.il/item/3861365
