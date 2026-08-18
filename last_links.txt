@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3860815
-https://hamal.co.il/main/צהל-תקף-תשתיות-של-חיזבאללה-במרחבים-נבטייה-ואנסאר-279933
-https://hamal.co.il/main/גבר-כבן-25-נפצע-בתאונת-טרקטורון-באשקלון-מצבו-קשה-279934
 https://hamal.co.il/main/הישראלי-היקר-בהיסטוריה-ענאן-חלאילי-חתם-בקריסטל-פאלאס-279935
 https://hamal.co.il/main/פעוט-בן-שנתיים-נכווה-ממים-רותחים-מצבו-בינוני-279936
 https://hamal.co.il/main/גבר-כבן-27-נפצע-באורח-קשה-בתאונת-דרכים-בצומת-פוריה-279937
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3861650
 https://news.walla.co.il/item/3861648
 https://news.walla.co.il/item/3861651
 https://news.walla.co.il/item/3861653
+https://news.walla.co.il/break/3861654
+https://news.walla.co.il/break/3861655
+https://news.walla.co.il/break/3861656
