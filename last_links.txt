@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3860752
-https://hamal.co.il/main/משטרת-וינה-בהודעה-ראשונה-האם-ובתה-עזבו-מרצונן-החופשי-279906
-https://news.walla.co.il/item/3860762
-https://hamal.co.il/main/גבר-כבן-35-נפצע-באירוע-אלימות-בלוד---מצבו-קשה-279907
 https://news.walla.co.il/break/3860765
 https://hamal.co.il/main/סייבר-וזיופים-היערכות-המשטרה-ליום-הבחירות-279905
 https://news.walla.co.il/item/3860748
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3861607
 https://news.walla.co.il/break/3861617
 https://hamal.co.il/main/מכלית-הותקפה-במצרי-הורמוז-איש-צוות-נפצע-280297
 https://hamal.co.il/main/עפיפון-עם-כתובת-בערבית-280298
+https://news.walla.co.il/break/3861621
+https://news.walla.co.il/break/3861623
+https://hamal.co.il/main/משרד-הבריאות-מודיע-הכניסה-לנחלים-280299
+https://hamal.co.il/main/המפלגה-שמאיימת-לתבוע-את-שס-280300
