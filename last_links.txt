@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3860944
-https://hamal.co.il/main/מזג-האוויר-מעןנן-חלקית-עד-בהיר-הים-גלי-ומסוכן-לרחצה-גובה-ג-280012
-https://news.walla.co.il/break/3860948
-https://news.walla.co.il/break/3860954
-https://hamal.co.il/main/צהל-מאשר-280014
 https://news.walla.co.il/break/3860963
 https://news.walla.co.il/item/3860961
 https://news.walla.co.il/break/3860966
@@ -498,3 +493,8 @@ https://news.walla.co.il/item/3861797
 https://hamal.co.il/main/פועל-נפל-באתר-בנייה-בקדימה-מצבו-קדימה-280376
 https://news.walla.co.il/break/3861807
 https://hamal.co.il/main/זוועה-בחדר-המתים-הרווארד-תפצה-משפחות-ב-53-מיליון-דולר-280358
+https://news.walla.co.il/break/3861814
+https://news.walla.co.il/break/3861815
+https://news.walla.co.il/item/3861812
+https://hamal.co.il/main/הזמין-את-המנה-שבפרסומת-ולא-תאמינו-מה-קיבל-אחרי-ששילם-280378
+https://hamal.co.il/main/תקלה-נרחבת-במשרד-התחבורה-לא-ניתן-לבצע-שירותים-מקוונים-280379
