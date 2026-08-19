@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3860963
-https://news.walla.co.il/item/3860961
-https://news.walla.co.il/break/3860966
-https://news.walla.co.il/item/3860967
 https://news.walla.co.il/item/3860963
 https://hamal.co.il/main/תושב-מזרח-י-ם-נעצר-בחשד-280018
 https://hamal.co.il/main/מהערים-החרדיות-ועד-השרון-איפה-נרשם-הזינוק-החד-ביותר-במספר-ה-280015
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3861815
 https://news.walla.co.il/item/3861812
 https://hamal.co.il/main/הזמין-את-המנה-שבפרסומת-ולא-תאמינו-מה-קיבל-אחרי-ששילם-280378
 https://hamal.co.il/main/תקלה-נרחבת-במשרד-התחבורה-לא-ניתן-לבצע-שירותים-מקוונים-280379
+https://news.walla.co.il/break/3861824
+https://news.walla.co.il/item/3861815
+https://hamal.co.il/main/בן-70-נמשה-מחוף-הים-בנהריה-במצב-אנוש-280385
+https://hamal.co.il/main/זוהו-כמחבלים-280366
