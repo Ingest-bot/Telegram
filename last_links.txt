@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3860897
-https://news.walla.co.il/break/3860898
-https://news.walla.co.il/item/3860899
 https://hamal.co.il/main/עיריית-קריית-שמונה-לתושבים-צפויים-להישמע-קולות-נפץ-279986
 https://hamal.co.il/main/אחרי-איתור-מלי-וליאל---משפחת-קסאו-תוקפת-את-המשטרה-279989
 https://hamal.co.il/main/קטטה-במלון-באילת-המשטרה-עצרה-שלושה-חשודים-279990
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3861720
 https://news.walla.co.il/break/3861724
 https://news.walla.co.il/item/3861728
 https://hamal.co.il/main/איראן-שוקלת-להרחיב-את-המערכה-לאירופה-אלו-היעדים-שעל-הכוונת-280354
+https://news.walla.co.il/item/3861733
+https://hamal.co.il/main/דרמה-בתאילנד-צווי-מעצר-נגד-20-ישראלים-בפשיטת-ענק-בקוסמוי-280355
+https://hamal.co.il/main/דיווח-בסוריה-2-נעמ-280353
