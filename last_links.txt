@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3860866
-https://news.walla.co.il/break/3860882
-https://news.walla.co.il/item/3860878
 https://news.walla.co.il/break/3860884
 https://news.walla.co.il/break/3860887
 https://news.walla.co.il/break/3860889
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3861692
 https://news.walla.co.il/item/3861695
 https://news.walla.co.il/item/3861694
 https://hamal.co.il/main/פיקוד-העורף-בדיקת-צופרים-תתקיים-280340
+https://news.walla.co.il/break/3861705
+https://hamal.co.il/main/מחקר-ענק-חושף-אלו-2-המקצועות-עם-הסיכון-הכי-גבוה-לתמותה-מסרט-280342
+https://hamal.co.il/main/ישראל-מציבה-קו-אדום-הסכנה-מההתעצמות-הצבאית-בסוריה-280343
