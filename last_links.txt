@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3860907
-https://hamal.co.il/main/צעיר-ישראלי-נהרג-בתאונת-אופנוע-בתאילנד-279992
-https://news.walla.co.il/item/3860912
-https://hamal.co.il/main/כוחות-פיקוד-העורף-פועלים-במוקדי-ההרס-בקאלי-שבקולומביה-279995
-https://news.walla.co.il/break/3860919
 https://hamal.co.il/main/ישראלי-כבן-35-אותר-ללא-רוח-חיים-בחדרו-במלון-בבנגקוק-279998
 https://hamal.co.il/main/קטאר-מכחישה-שעצרה-טייסים-איראנים-שרידי-אחד-מהם-אותרו-בשטחה-279999
 https://news.walla.co.il/break/3860928
@@ -498,3 +493,8 @@ https://news.walla.co.il/item/3861738
 https://hamal.co.il/main/תפיסה-חדשה-השיחות-בין-איראן-לעיראק-על-המיליציות-במדינה-280356
 https://hamal.co.il/main/משקה-הבוקר-שיכול-לעזור-בירידה-במשקל-וזה-לא-מים-280352
 https://news.walla.co.il/break/3861746
+https://news.walla.co.il/break/3861751
+https://news.walla.co.il/break/3861756
+https://news.walla.co.il/item/3861753
+https://hamal.co.il/main/הפלאפל-שהוביל-לאשפוז-2ילדים-חזרו-ממצרים-עם-אותה-תופעה-מסוכנ-280357
+https://hamal.co.il/main/דיווח-באיראן-280359
