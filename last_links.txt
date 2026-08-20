@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3861169
-https://hamal.co.il/main/זוהי-הסיבה-למלחמת-המוחות-בין-חיזבאללה-לצה״ל-280091
-https://hamal.co.il/main/חשש-מהתלקחות-נוספת-בשומרון-מעבר-חד-מדי-אמיר-בוחבוט-עודכן-280085
 https://news.walla.co.il/break/3861176
 https://hamal.co.il/main/דגלי-ישראל-הושחתו-בכיכר-סמוך-לעטרת-בבנימין-המשטרה-חוקרת-280094
 https://news.walla.co.il/break/3861190
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3861974
 https://news.walla.co.il/item/3862001
 https://hamal.co.il/main/דריסה-גרזן-ואלות-עסקת-סמים-שהשתבשה-הפכה-למסע-אלימות-280482
 https://hamal.co.il/main/בסוריה-מכחישים-לא-היו-שם-טורקים-הפצצתם-בסיס-ריק-280485
+https://news.walla.co.il/break/3862008
+https://news.walla.co.il/break/3862009
+https://hamal.co.il/main/מנכל-ארקיע-משיב-למבקרים-אנחנו-לא-בהכרח-הכי-גרועים-280484
