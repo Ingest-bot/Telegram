@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3861647
-https://news.walla.co.il/item/3861646
 https://hamal.co.il/main/שר-החוץ-האיראני-לא-נקבל-הפסקת-אש-דורשים-את-סיום-המלחמה-280321
 https://hamal.co.il/main/נהג-אוטובוס-נדקר-ברמת-גן-מצבו-קל-מצוד-מתנהל-אחר-החשוד-280322
 https://hamal.co.il/main/צהל-על-התקיפה-בעזה-280323
@@ -498,3 +496,5 @@ https://news.walla.co.il/item/3862414
 https://news.walla.co.il/break/3862415
 https://news.walla.co.il/break/3862420
 https://hamal.co.il/main/אורי-אפשטיין-ראש-מועצה-אזורית-שער-הנגב-בתגובה-לעפיפונים-280725
+https://news.walla.co.il/break/3862422
+https://hamal.co.il/main/צהל-חיסל-מפקד-פלוגה-של-חמאס-280728
