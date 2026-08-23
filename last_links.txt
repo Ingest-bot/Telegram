@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3861702
-https://news.walla.co.il/item/3861691
-https://news.walla.co.il/break/3861703
-https://news.walla.co.il/break/3861704
 https://news.walla.co.il/item/3861692
 https://news.walla.co.il/item/3861695
 https://news.walla.co.il/item/3861694
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3862489
 https://news.walla.co.il/break/3862491
 https://hamal.co.il/main/מתקפת-סייבר-איראנ-בבריטניה-תחנת-כוח-הושבתה-ל-4-ימים--דיווח-280761
 https://hamal.co.il/main/הולך-רגל-נהרג-בתאונת-דרכים-קטלנית-בנתניה-280762
+https://news.walla.co.il/break/3862494
+https://hamal.co.il/main/הטמפרטורות-יירדו---מתי-יגיע-גל-חום-נוסף--התחזית-280763
+https://hamal.co.il/main/רוכב-קורקינט-נפגע-מאוטובוס-280766
+https://hamal.co.il/main/הדיאטה-280765
