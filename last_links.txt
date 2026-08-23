@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3861948
-https://hamal.co.il/main/קו-חדש-לרכבת-הקלה-בירושלים-לטדי-לארנה-ולאוניברסיטה-280463
-https://hamal.co.il/main/הרוג-ו-2-פצועים-קשה-בתאונת-דרכים-בכביש-2-סמוך-למחלף-חיפה-280464
 https://news.walla.co.il/break/3861954
 https://hamal.co.il/main/צעיר-בן-22-נפגע-במהלך-רכיבה-על-אופנוע-בחיפה-מצבו-קשה-280465
 https://news.walla.co.il/break/3861956
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3862699
 https://hamal.co.il/main/״קום-קרא-בתחנונים״--מעמד-הסליחות-בכותל-280869
 https://news.walla.co.il/break/3862706
 https://news.walla.co.il/break/3862708
+https://news.walla.co.il/break/3862700
+https://news.walla.co.il/break/3862711
+https://hamal.co.il/main/דיווחים-ביוון-סוללות-הגנה-אווירית-הוצבו-בכרתים---מחשש-למתקפ-280871
