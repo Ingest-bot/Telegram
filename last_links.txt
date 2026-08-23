@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3861735
-https://news.walla.co.il/break/3861739
-https://news.walla.co.il/item/3861738
-https://hamal.co.il/main/תפיסה-חדשה-השיחות-בין-איראן-לעיראק-על-המיליציות-במדינה-280356
-https://hamal.co.il/main/משקה-הבוקר-שיכול-לעזור-בירידה-במשקל-וזה-לא-מים-280352
 https://news.walla.co.il/break/3861746
 https://news.walla.co.il/break/3861751
 https://news.walla.co.il/break/3861756
@@ -498,3 +493,8 @@ https://news.walla.co.il/item/3862517
 https://news.walla.co.il/break/3862536
 https://news.walla.co.il/break/3862538
 https://hamal.co.il/main/שלי-יחימווביץ-חושפת-חליתי-בסרטן-יש-ימים-קשים-אבל-אין-פח-280787
+https://news.walla.co.il/break/3862544
+https://hamal.co.il/main/אחרי-שנתיים-וחצי-280790
+https://hamal.co.il/main/פועל-נכווה-מדוד-שמש-שהתפוצץ-בירושלים-מצבו-קשה-280791
+https://hamal.co.il/main/מצבו-של-הפצוע-מהפיגוע-בבקעה-התייצב-נמצא-בהכרה-מלאה-280792
+https://hamal.co.il/main/דיווחים-בלבנון-צהל-ביצע-פיצוץ-מבוקר-בדרום-המדינה-280794
