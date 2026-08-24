@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3861971
-https://news.walla.co.il/break/3861972
-https://news.walla.co.il/break/3861975
-https://news.walla.co.il/break/3861977
 https://news.walla.co.il/break/3861978
 https://news.walla.co.il/item/3861971
 https://news.walla.co.il/item/3861973
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3862718
 https://hamal.co.il/main/רוסיה-שברי-יירוט-של-רחפן-אוקראיני-גרם-למותם-של-שני-ילדים-280872
 https://hamal.co.il/main/יוון-מחריפה-את-הטון-מול-טורקיה-ערוכים-לכל-תרחיש-280873
 https://hamal.co.il/main/דיווחים-ערביים-שני-הרוגים-מתקיפות-צהל-בדיר-אל-בלח-280874
+https://news.walla.co.il/break/3862719
+https://news.walla.co.il/item/3862691
+https://hamal.co.il/main/ביממה-אחת-צהל-חילץ-שלושה-יהודים-שנכנסו-לשטחי-הרשות-הפלסטינ-280875
+https://hamal.co.il/main/דיווח-2-הרוגים-בתקיפת-צה״ל-גדיר-אל-בלח-280876
