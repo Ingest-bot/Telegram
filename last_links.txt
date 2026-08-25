@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3862219
-https://hamal.co.il/main/דיווח-איראן-תקפה-ספינות-בהורמוז-דיווחים-עלו-הערב-שישי-ב-280603
-https://hamal.co.il/main/השגריר-לייטר-ישראל-קיבלה-מודיעין-שטורקיה-מתכוונת-להרחיב-את-280604
-https://hamal.co.il/main/בשידור-חי-מהכותל-המערבי-מעמד-הסליחות-280606
 https://hamal.co.il/main/הערב-רהמ-נתניהו-בהופעה-של-עדן-בן-זקן-280608
 https://hamal.co.il/main/גורם-המצוי-בפרטים-לוואלה-הפלסטינים-לוחצים-על-הממשל-לאפשר-את-280609
 https://news.walla.co.il/break/3862229
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3862975
 https://hamal.co.il/main/מערכת-כחול-לבן-לזיהוי-ויירוט-רחפנים-תופעל-בדרום-280988
 https://news.walla.co.il/item/3862993
 https://hamal.co.il/main/תיעוד-מצרפת-עשרות-פצועים-ומאות-בתים-הרוסים-בסופת-טורנדו-281001
+https://news.walla.co.il/break/3862994
+https://news.walla.co.il/break/3862996
+https://news.walla.co.il/item/3862991
+https://hamal.co.il/main/מתקפת-סייבר-בבריטניה-האקרים-איראנים-השביתו-תחנת-כוח-281004
