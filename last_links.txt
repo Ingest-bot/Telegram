@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3862360
-https://news.walla.co.il/item/3862357
-https://news.walla.co.il/break/3862362
 https://news.walla.co.il/break/3862363
 https://news.walla.co.il/item/3862261
 https://hamal.co.il/main/פצוע-קשה-באירוע-ירי-סמוך-לצומת-פלוגות-280684
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3863206
 https://news.walla.co.il/item/3863078
 https://news.walla.co.il/item/3863208
 https://hamal.co.il/main/אבל-בעולם-המוזיקה-דולי-פרטון-הלכה-לעולמה-בגיל-80-281118
+https://news.walla.co.il/break/3863213
+https://news.walla.co.il/break/3863214
+https://news.walla.co.il/item/3863212
