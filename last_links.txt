@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3862229
-https://news.walla.co.il/break/3862230
-https://hamal.co.il/main/ארהב-טראמפ-חתם-על-מזכר-לקידום-שיגורים-לחלל---1000-בשנה-ע-280610
-https://hamal.co.il/main/במהלך-פעילות-של-כוחות-צהל-מחבל-חמוש-בסכין-ניסה-לדקור-לוחם-צ-280611
 https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-וחם-מהרגיל-הים-גלי-גובה-גלי-280612
 https://news.walla.co.il/break/3862233
 https://news.walla.co.il/break/3862234
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3862991
 https://hamal.co.il/main/מתקפת-סייבר-בבריטניה-האקרים-איראנים-השביתו-תחנת-כוח-281004
 https://news.walla.co.il/item/3862997
 https://hamal.co.il/main/האזהרות-שקיבל-טראמפ-רגע-לפני-היציאה-למתקפה-באיראן--דיווח-281008
+https://news.walla.co.il/break/3863004
+https://news.walla.co.il/item/3863003
+https://hamal.co.il/main/זיהוי-חריג-הלילה-בגבול-ירדן---הוביל-לסיכול-של-הברחת-אמל״ח-בג-281009
+https://hamal.co.il/main/הלב-נקרע-אבל-עשינו-את-זה-מתוך-אהבה-אינסופית-לאבא-281012
