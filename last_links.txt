@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3862713
-https://news.walla.co.il/break/3862716
-https://news.walla.co.il/break/3862715
-https://news.walla.co.il/break/3862718
 https://hamal.co.il/main/רוסיה-שברי-יירוט-של-רחפן-אוקראיני-גרם-למותם-של-שני-ילדים-280872
 https://hamal.co.il/main/יוון-מחריפה-את-הטון-מול-טורקיה-ערוכים-לכל-תרחיש-280873
 https://hamal.co.il/main/דיווחים-ערביים-שני-הרוגים-מתקיפות-צהל-בדיר-אל-בלח-280874
@@ -498,3 +494,7 @@ https://hamal.co.il/main/חצי-שנה-למלחמה-נגד-איראן-5-החזי
 https://news.walla.co.il/break/3863601
 https://hamal.co.il/main/לקראת-החגים-הרמטכל-הנחה-על-העלאת-כוננות-ביוש-281293
 https://hamal.co.il/main/ארדן-מאשר-מנהלים-מגעים-עם-גנץ-281294
+https://news.walla.co.il/break/3863610
+https://news.walla.co.il/item/3863603
+https://hamal.co.il/main/השטיפונות-בנפאל-281296
+https://hamal.co.il/main/עם-מצת-ומגבוני-טישו-בידיו-281297
