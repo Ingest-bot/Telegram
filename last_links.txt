@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3863226
-https://news.walla.co.il/break/3863224
-https://hamal.co.il/main/דיווחים-בלבנון-צה-281122
-https://hamal.co.il/main/נחשוף-צעדים-חדשים-התגובה-של-איראן-לסנקציות-האמריקניות-281123
 https://news.walla.co.il/break/3863241
 https://hamal.co.il/main/רוביו-ארהב-לא-תיזום-תקיפות-חדשות-נגד-איראן--דיווח-281124
 https://news.walla.co.il/break/3863242
@@ -498,3 +494,7 @@ https://hamal.co.il/main/משרד-הבריאות-מודיע-על-הסרת-אזה
 https://hamal.co.il/main/הרצוג-מגנה-בתוקף-את-אירועי-האלימות-החמורים-בקוסרה-281497
 https://hamal.co.il/main/המשטרה-ממשיכה-לחקור-את-אירוע-האלימות-שהתרחש-בכפר-קוסרה-281500
 https://hamal.co.il/main/צהל-חיסל-מפקד-פלגת-נוחבה-וצלף-מארגון-הטרור-חמאס-ברצועת-עזה-281503
+https://news.walla.co.il/item/3864061
+https://hamal.co.il/main/שבכ-מאשר-היה-איום-משמעותי-לפגיעה-ביאיר-נתניהו-281507
+https://hamal.co.il/main/אישה-בשנות-ה-40-לחייה-נהרגה-בתאונת-פגע-וברח-בעוטף-עזה-281508
+https://hamal.co.il/main/בן-גביר-לנתניהו-281509
