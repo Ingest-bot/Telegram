@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3863418
-https://hamal.co.il/main/95-הרוגים-בשטפונות-בנפאל---1-מהם-ישראלי-281223
-https://hamal.co.il/main/האסון-בנאפל-חלק-מצלע-הר-קרסה-לתוך-נהר-281224
 https://news.walla.co.il/break/3863417
 https://hamal.co.il/main/לוחמים-סירבו-לעלות-לנגמש---בגלל-שהייתה-שם-פרמדיקית-281227
 https://hamal.co.il/main/נתניהו-החליט-למנות-את-נטע-מולכו-לדוברת-קמפיין-הליכוד-281228
@@ -498,3 +495,6 @@ https://hamal.co.il/main/יועדו-לטרור-14-מיליון-שח-הוחבאו
 https://news.walla.co.il/break/3864251
 https://news.walla.co.il/item/3864252
 https://hamal.co.il/main/הסיכולים-נמשכים-צהל-חיסל-מחבל-חמאס-שהיווה-איום-מיידי-281573
+https://news.walla.co.il/break/3864259
+https://news.walla.co.il/item/3864262
+https://hamal.co.il/main/דיווחים-בקפריסין-ספינה-עם-267-נוסעים-טבעה-מול-חופי-האי-281575
