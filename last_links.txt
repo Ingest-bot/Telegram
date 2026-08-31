@@ -1,7 +1,3 @@
-https://hamal.co.il/main/חשש-לאירוע-חומרים-מסוכנים-בירושלים-2-מחוסרי-הכרה-במקום-281329
-https://news.walla.co.il/break/3863730
-https://hamal.co.il/main/וינטר-מנהיג-מחנה-הימין-הוא-נתניהו---ורק-עליו-נמליץ-281330
-https://news.walla.co.il/break/3863732
 https://news.walla.co.il/item/3863727
 https://news.walla.co.il/break/3863740
 https://hamal.co.il/main/ישראל-לארהב-הפיילוט-בדרום-לבנון-נכשל--פרסום-ראשון-281332
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3864525
 https://news.walla.co.il/item/3864229
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מרכב-סמוך-לנצרת-מצבו-קשה-281684
 https://hamal.co.il/main/רוקחים-281685
+https://news.walla.co.il/break/3864535
+https://news.walla.co.il/item/3864538
+https://hamal.co.il/main/טראמפ-איראן-רצ-281686
+https://hamal.co.il/main/טראמפ-נכה-באיראן-חזק-בתגובה-לשיגורים-הלילה-281688
