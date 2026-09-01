@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3864022
-https://hamal.co.il/main/צהל-פורעים-ישראלים-יידו-אבנים-והתבצרו-בבית-בכפר-קוסרה-281464
-https://news.walla.co.il/break/3864024
-https://news.walla.co.il/item/3864009
 https://hamal.co.il/main/צהל-תקף-מפקד-חמאס-שתכנן-להוציא-לפועל-מתווי-טרור-281467
 https://hamal.co.il/main/התרעת-מזג-אוויר-באזור-חופי-הכינרת-281468
 https://news.walla.co.il/break/3864028
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3864879
 https://news.walla.co.il/break/3864883
 https://news.walla.co.il/break/3864884
 https://hamal.co.il/main/צהל-ושבכ-עצרו-את-ראש-ביטחון-הפנים-של-חמאס-ברצועה-281851
+https://news.walla.co.il/item/3864885
+https://hamal.co.il/main/בכיר-אמריקני-ביצענו-תקיפות-ממוקדות-באיראן-281855
+https://hamal.co.il/main/שגרירות-ארהב-בישראל-אמריקנים-באזור-צריכים-להערך-להסלמה-281856
+https://hamal.co.il/main/בכיר-אמריקני-מאשר-התקיפות-הן-תגובה-לתקיפות-איראניות-קודמות-281857
