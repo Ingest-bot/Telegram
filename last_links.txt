@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3864288
-https://news.walla.co.il/break/3864291
-https://news.walla.co.il/break/3864295
 https://news.walla.co.il/item/3864241
 https://news.walla.co.il/item/3864284
 https://news.walla.co.il/item/3864286
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3865155
 https://news.walla.co.il/break/3865158
 https://news.walla.co.il/item/3865157
 https://hamal.co.il/main/שריפה-פרצה-בקרבת-מסילת-הרכבת-בבני-ברק-281997
+https://news.walla.co.il/break/3865161
+https://news.walla.co.il/break/3865165
+https://hamal.co.il/main/משרד-הבריאות-הכניסה-לנחלים-האלו-מסוכנת-281999
