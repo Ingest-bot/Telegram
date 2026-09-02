@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3864284
-https://news.walla.co.il/item/3864286
-https://hamal.co.il/main/גיליתי-די-במזל-כך-שלי-יחימוביץ-עלתה-בזמן-על-הסרטן-281587
 https://news.walla.co.il/break/3864308
 https://news.walla.co.il/item/3864305
 https://news.walla.co.il/break/3864313
@@ -498,3 +495,6 @@ https://news.walla.co.il/break/3865161
 https://news.walla.co.il/break/3865165
 https://hamal.co.il/main/משרד-הבריאות-הכניסה-לנחלים-האלו-מסוכנת-281999
 https://news.walla.co.il/item/3865173
+https://news.walla.co.il/break/3865178
+https://news.walla.co.il/item/3865176
+https://hamal.co.il/main/נאטו-והאיחוד-האירופי-באזהרה-חריגה-למוסקבה-281989
