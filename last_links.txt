@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3864212
-https://news.walla.co.il/item/3864213
 https://news.walla.co.il/break/3864224
 https://news.walla.co.il/item/3864232
 https://news.walla.co.il/item/3864233
@@ -498,3 +496,5 @@ https://hamal.co.il/main/לוחמי-גדוד-שחר-בתרגיל-גדודי-בח
 https://hamal.co.il/main/חשד-למתקפה-נוספת-בגרמניה-חבלה-בתחנת-חשמל-השביתה-חמש-יחידות-281955
 https://hamal.co.il/main/נתניהו-קיים-לפני-זמן-קצר-הערכת-מצב-ביטחונית-באוגדת-עזה-281963
 https://hamal.co.il/main/רישום-מוות-כוזב---וזהות-בדויה-כך-חודרת-איראן-ללבנון--דיווח-281973
+https://news.walla.co.il/item/3865116
+https://hamal.co.il/main/גורם-מדיני-בכיר-הניסיון-להסכם-ביטחוני-עם-סוריה---נכשל-281977
