@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3864480
-https://hamal.co.il/main/הבכיר-מיש-עתיד-לא-יתמודד-בכנסת-הבאה-זה-תפקידו-החדש-281679
-https://hamal.co.il/main/בעזרת-רחפן-ופצצת-תאורה-2-חשודים-נעצרו-בצפון-לאחר-מרדף-281680
 https://news.walla.co.il/break/3864493
 https://hamal.co.il/main/היסטוריה-הישוב-נעה-עלה-לקרקע-בצפון-השומרון-281681
 https://news.walla.co.il/item/3864501
@@ -498,3 +495,6 @@ https://hamal.co.il/main/צהל-מודה-אין-הצדקה-לתרגיל-שהתק
 https://news.walla.co.il/item/3865371
 https://hamal.co.il/main/חכ-קארין-אלהרר-282063
 https://hamal.co.il/main/תקפו-אב-שכול-282064
+https://news.walla.co.il/break/3865377
+https://hamal.co.il/main/סמארטפון-רק-מגיל-13-התוכנית-החדשה-של-משרד-החינוך-282051
+https://hamal.co.il/main/״לא-עסקו-בטרור״-5-אזרחים-לבנונים-שנעצרו-ישוחררו-282065
