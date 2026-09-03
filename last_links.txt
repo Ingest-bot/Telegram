@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3864526
-https://news.walla.co.il/break/3864528
 https://news.walla.co.il/break/3864531
 https://news.walla.co.il/item/3864525
 https://news.walla.co.il/item/3864229
@@ -498,3 +496,5 @@ https://news.walla.co.il/break/3865420
 https://news.walla.co.il/item/3865418
 https://news.walla.co.il/item/3865422
 https://hamal.co.il/main/הרוג-וחמישה-פצועים-בפגיעת-כטבם-באוטובוס-ברוסיה-282081
+https://hamal.co.il/main/דיווחים-על-תקלה-עולמית-ושיבושים-ב-ChatGPT-קלוד-וגרוק-282083
+https://hamal.co.il/main/הרמטכ״ל-״-282082
