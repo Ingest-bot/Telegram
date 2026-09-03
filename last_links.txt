@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3864384
-https://news.walla.co.il/break/3864385
-https://news.walla.co.il/item/3864379
-https://hamal.co.il/main/צבא-ירדן-שמונה-טילים-שחדרו-למרחב-האווירי-יורטו-281635
 https://hamal.co.il/main/צבא-ארהב-פעלנו-נגד-כוחות-איראניים-שהיוו-איום-מיידי-במצר-281636
 https://hamal.co.il/main/שני-הרוגים-ו-16-פצועים-במתקפת-טילים-בבלגורוד-שברוסיה-281637
 https://news.walla.co.il/break/3864386
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3865246
 https://news.walla.co.il/item/3865245
 https://hamal.co.il/main/דיווח-המדינה-הערבית-שמשמשת-כגשר-יבשתי-שעוקף-את-מצר-הורמוז-282025
 https://hamal.co.il/main/חשוד-נעצר-282027
+https://news.walla.co.il/break/3865251
+https://news.walla.co.il/item/3865248
+https://news.walla.co.il/item/3865203
+https://hamal.co.il/main/דרעי-282031
