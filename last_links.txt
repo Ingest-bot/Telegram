@@ -1,5 +1,3 @@
-https://news.walla.co.il/item/3864710
-https://news.walla.co.il/item/3864721
 https://news.walla.co.il/item/3864727
 https://hamal.co.il/main/נשלל-החשד-לאבולה-בצעיר-281780
 https://news.walla.co.il/item/3864733
@@ -498,3 +496,5 @@ https://news.walla.co.il/item/3865624
 https://hamal.co.il/main/הטיסה-ההיסטורית-שהמריאה-הבוקר-מנתבג-282205
 https://news.walla.co.il/item/3865629
 https://hamal.co.il/main/טראמפ-ייתכן-שנכה-בהר-המכוש-בקרוב-מאוד-282208
+https://news.walla.co.il/break/3865632
+https://news.walla.co.il/break/3865633
