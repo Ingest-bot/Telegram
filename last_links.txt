@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3864647
-https://news.walla.co.il/break/3864649
-https://news.walla.co.il/break/3864650
-https://news.walla.co.il/break/3864652
 https://news.walla.co.il/break/3864656
 https://news.walla.co.il/item/3864643
 https://news.walla.co.il/item/3864646
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3865550
 https://hamal.co.il/main/התרחיש-שמשנה-את-גוש-הימין--סקר-מעריב-282153
 https://hamal.co.il/main/כוחותינו-חיסלו-מפקד-פלוגת-נוח׳בה-שפיקד-על-הפשיטה-למוצב-סופה-282156
 https://hamal.co.il/main/בן-גביר-טלי-גוטליב-תקבל-את-המקום-ה-4-282157
+https://news.walla.co.il/break/3865557
+https://news.walla.co.il/item/3865555
+https://hamal.co.il/main/אזרח-ישראלי-הואשם-בעבירות-ביטחון-״הופעל-בידי-גורמי-מודיעין-282158
+https://hamal.co.il/main/לוחמי-יחידת-דובדבן-עצרו-5-מחבלים-שתכננו-לבצע-פיגוע-282159
