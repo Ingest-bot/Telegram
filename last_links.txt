@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3864926
-https://hamal.co.il/main/התפרצות-האבולה-בקונגו-מספר-המתים-חצה-את-רף-ה-3000-281923
-https://hamal.co.il/main/ערוכים-בהגנה-הגבוהה-ביותר-דריכות-בישראל-מפני-מתקפת-פתע-אי-281926
-https://news.walla.co.il/break/3865005
 https://news.walla.co.il/item/3864984
 https://news.walla.co.il/item/3865000
 https://hamal.co.il/main/אחרי-200-יום-בים-5000-חיילים-אמריקנים-הגיעו-לבירת-הזנות-281928
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3865825
 https://hamal.co.il/main/תרחישים-הכוללים-מתקפת-פתע-תרגיל-נרחב-יתקיים-מחר-באילת-282319
 https://hamal.co.il/main/ילדה-בת-7-282320
 https://hamal.co.il/main/ילד-בן-9-במצב-קשה-282321
+https://news.walla.co.il/break/3865877
+https://news.walla.co.il/item/3865865
+https://hamal.co.il/main/דיווח-בלבנון-4-הרוגים-בתקיפות-צהל-בדרום-המדינה-282324
+https://hamal.co.il/main/חיה-מסתורית-תקפה-3-בני-אדם-בארהב---והמשטרה-עדיין-מחפשת-אותה-282311
