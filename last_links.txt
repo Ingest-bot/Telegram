@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3864945
-https://hamal.co.il/main/מזג-האוויר-עלייה-בטמפרטורות---מה-צפוי-בסופש--התחזית-281890
-https://hamal.co.il/main/דיווח-צהל-תקף-בדרום-לבנון-בתגובה-לשיגור-הכטבם-לגליל-העליו-281892
 https://hamal.co.il/main/ברכבת-ישראל-שכחו-שהציבור-משלם-להם-משכורת-281896
 https://news.walla.co.il/break/3864948
 https://news.walla.co.il/item/3864929
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3865803
 https://news.walla.co.il/break/3865803
 https://news.walla.co.il/break/3865807
 https://hamal.co.il/main/מחבלי-חיזבאללה-שיגרו-שני-רחפני-נפץ-לעבר-כוחותינו-במרחב-הביטח-282305
+https://news.walla.co.il/break/3865812
+https://hamal.co.il/main/לפני-זמן-קצר-התקבל-דיווח-במוקד-100-של-משטרת-ישראל-אודות-אירו-282306
+https://hamal.co.il/main/מזג-האוויר-מעונן-חלקית-עד-בהיר-וחם-מהרגיל-הים-גלי-ומסוכן-לר-282307
