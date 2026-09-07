@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3865380
-https://hamal.co.il/main/הוארך-בשנית-מעצרו-של-החשוד-ברצח-״ראש-המאפיה-הקווקזית״-282066
-https://hamal.co.il/main/נושאת-המטוסים-האמריקנית-הגיעה-לתאילנד-מכוסה-חלודה-282069
 https://news.walla.co.il/break/3865391
 https://news.walla.co.il/item/3865383
 https://hamal.co.il/main/דיווח-בסעודיה-ישראל-שחררה-אסיר-לבנוני-כמחווה-של-רצון-טוב-282071
@@ -498,3 +495,6 @@ https://hamal.co.il/main/בן-גביר-לשר-עמיחי-אליהו-תשובץ-�
 https://news.walla.co.il/break/3866228
 https://news.walla.co.il/item/3866216
 https://hamal.co.il/main/אבל-בעולם-התרבות-השחקן-אילן-דר-הלך-לעולמו-282441
+https://news.walla.co.il/break/3866233
+https://hamal.co.il/main/נהג-282442
+https://hamal.co.il/main/בתגובה-לשיגור-הרחפנים-אלו-מטרות-חיזבאללה-שהותקפו-בדרום-לבנו-282443
