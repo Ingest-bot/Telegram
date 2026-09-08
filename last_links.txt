@@ -1,4 +1,3 @@
-https://news.walla.co.il/item/3865636
 https://news.walla.co.il/item/3865586
 https://news.walla.co.il/break/3865667
 https://news.walla.co.il/item/3865665
@@ -498,3 +497,4 @@ https://news.walla.co.il/break/3866485
 https://news.walla.co.il/item/3866484
 https://hamal.co.il/main/דיווח-אלו-המדינות-שיצטרפו-לחרם-על-סחר-ביוש-282538
 https://hamal.co.il/main/אלמ-282539
+https://news.walla.co.il/item/3866476
