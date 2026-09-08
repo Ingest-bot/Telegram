@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3865571
-https://news.walla.co.il/break/3865711
-https://hamal.co.il/main/הערכות-מודיעין-אמריקניות-איראן-נערכת-להסלמה״-282234
-https://news.walla.co.il/break/3865713
 https://news.walla.co.il/break/3865712
 https://news.walla.co.il/break/3865716
 https://news.walla.co.il/item/3865719
@@ -498,3 +494,7 @@ https://news.walla.co.il/item/3866518
 https://hamal.co.il/main/התקיפה-האלימה-בכפר-קוסרה-חשוד-רביעי-נעצר-282557
 https://hamal.co.il/main/סער-חושף-התגובה-הישראלית-לסנקציות-הבריטיות-282559
 https://hamal.co.il/main/מחר-אכיפה-מוגברת-של-אגף-התנועה-ברחבי-הארץ-282561
+https://news.walla.co.il/break/3866528
+https://news.walla.co.il/break/3866529
+https://hamal.co.il/main/השבכ-סוכלה-תשתית-טרור-משמעותית-שפעלה-לביצוע-פיגועים-282564
+https://hamal.co.il/main/רוביו-282565
