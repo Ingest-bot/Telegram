@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3865781
-https://news.walla.co.il/break/3865780
-https://hamal.co.il/main/חודש-הרחמים-והסליחות--שידור-חי-מסליחות-בכותל-המערבי-282295
 https://hamal.co.il/main/הרב-משה-גפני-והרב-אורי-מקלב-והודה-להם-בחום-על-פעילותם-בשנים-282296
 https://hamal.co.il/main/רוסיה-גיבשה-תוכנית-להסדר-שלום-עם-אוקראינה-בתיווך-אמריקני--ד-282297
 https://news.walla.co.il/break/3865790
@@ -498,3 +495,6 @@ https://hamal.co.il/main/התקרבות-מדאיגה-ארהב-שוקלת-לרכ�
 https://news.walla.co.il/break/3866629
 https://news.walla.co.il/item/3866628
 https://hamal.co.il/main/האייפון-המתקפל-הראשון-כך-תצפו-באירוע-ההכרזה-של-אפל-הערב-282607
+https://news.walla.co.il/break/3866637
+https://news.walla.co.il/item/3866590
+https://hamal.co.il/main/הסימן-לגיל-המעבר-שמופיע-שנים-לפני-שהמחזור-נפסק-282639
