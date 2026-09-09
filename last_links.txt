@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3865850
-https://news.walla.co.il/break/3865857
-https://news.walla.co.il/item/3865854
-https://hamal.co.il/main/דיווח-הדרמה-מאחורי-השתלטות-צהל-על-רכס-עלי-טאהר-282316
-https://hamal.co.il/main/המשטרה-חוקרת-צלב-קרס-רוסס-בבית-ספר-בפרדס-חנה-282318
 https://news.walla.co.il/break/3865865
 https://news.walla.co.il/item/3865825
 https://hamal.co.il/main/תרחישים-הכוללים-מתקפת-פתע-תרגיל-נרחב-יתקיים-מחר-באילת-282319
@@ -498,3 +493,8 @@ https://hamal.co.il/main/המכשולים-מאחורי-תוכנית-השלום-�
 https://hamal.co.il/main/ניסיון-הברחה-360-אריזות-של-סיגריות-נתפסו-בתוך-משאית-בברטעה-282689
 https://news.walla.co.il/item/3866717
 https://hamal.co.il/main/אחרי-סגירת-הרשימות---סקר-מנדטים-282692
+https://news.walla.co.il/break/3866723
+https://news.walla.co.il/break/3866724
+https://news.walla.co.il/item/3866719
+https://hamal.co.il/main/מצטיין-ראש-השנה-של-מחוז-דן-שבפיקוד-העורף-282693
+https://hamal.co.il/main/הרכבת-האווירית-שתביא-אלף-טונות-סלמון-לחג-כמה-זה-הולך-לעלות-282680
