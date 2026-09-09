@@ -1,5 +1,3 @@
-https://news.walla.co.il/item/3865834
-https://news.walla.co.il/item/3865840
 https://news.walla.co.il/break/3865850
 https://news.walla.co.il/break/3865857
 https://news.walla.co.il/item/3865854
@@ -498,3 +496,5 @@ https://hamal.co.il/main/דיווח-איראן-הגבירה-את-עבודות-ה
 https://news.walla.co.il/item/3866698
 https://hamal.co.il/main/המכשולים-מאחורי-תוכנית-השלום-לעזה-282684
 https://hamal.co.il/main/ניסיון-הברחה-360-אריזות-של-סיגריות-נתפסו-בתוך-משאית-בברטעה-282689
+https://news.walla.co.il/item/3866717
+https://hamal.co.il/main/אחרי-סגירת-הרשימות---סקר-מנדטים-282692
