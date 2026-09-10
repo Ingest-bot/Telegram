@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3866197
-https://news.walla.co.il/break/3866200
-https://news.walla.co.il/break/3866204
-https://hamal.co.il/main/אלמוג-כהן-לבן-כספית-תקבלו-עוד-פעם-את-ביבי-על-הראש-שלכם-282429
 https://hamal.co.il/main/נביא-הזעם-מזהיר-רוסיה-תבצע-מתקפה-חשאית-בבריטניה-בקרוב-282400
 https://hamal.co.il/main/מוכנות-לאירוע-רב-זירתי-מתפרץ-בצהל-מסכמים-את-בוחן-הרמטכל-282435
 https://news.walla.co.il/break/3866205
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3867078
 https://news.walla.co.il/item/3867076
 https://hamal.co.il/main/ארהב-ניסתה-לגייס-את-נאטו-נגד-בית-הדין-בהאג-282828
 https://hamal.co.il/main/יוסף-חדאד-חושף-בכיר-בליכוד-הודה-בפניי-בכישלון-הממשלה-282830
+https://news.walla.co.il/item/3867081
+https://news.walla.co.il/item/3867079
+https://news.walla.co.il/item/3867083
+https://hamal.co.il/main/נסגרו-הסכמי-העודפים-בגוש-השינוי-282832
