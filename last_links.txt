@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3866989
-https://hamal.co.il/main/אותר-הנעדר-שנכנס-מרצונו-לקלקיליה-נמצא-בריא-ושלם-282799
-https://hamal.co.il/main/כהוקרה-לאנשי-ההתיישבות-ולרבשצים-הרמת-כוסית-בחטיבת-יהודה-282801
-https://news.walla.co.il/item/3866999
-https://hamal.co.il/main/בלי-מונית-בלי-מטרו-10-הערים-הכי-נוחות-לטיול-ברגל-282789
 https://news.walla.co.il/break/3867020
 https://news.walla.co.il/item/3867012
 https://news.walla.co.il/item/3867013
@@ -498,3 +493,8 @@ https://news.walla.co.il/item/3867743
 https://news.walla.co.il/item/3867745
 https://news.walla.co.il/item/3867744
 https://hamal.co.il/main/בדרך-לנורמליזציה-ישראל-סייעה-לסעודיה-במאבק-מול-החותים--פר-283243
+https://news.walla.co.il/break/3867752
+https://news.walla.co.il/break/3867754
+https://hamal.co.il/main/דיווח-איראני-איש-דת-סוני-נורה-למוות-עי-חמושים-לא-מזוהים-בד-283244
+https://hamal.co.il/main/גבר-כבן-30-במצב-קשה-מנהל-מרחב-איילון-במדא-הפראמדיק-זיו-ק-283245
+https://hamal.co.il/main/הדמוקרטים-עתרו-לפסילת-עוצמה-יהודית-מפלגה-גזענית-ומסוכנת-א-283246
