@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3867045
-https://news.walla.co.il/break/3867052
-https://news.walla.co.il/break/3867054
 https://news.walla.co.il/item/3867050
 https://news.walla.co.il/item/3867053
 https://hamal.co.il/main/חשד-לסחר-בכלי-נשק-3-נעצרו-בהם-חייל-המשרת-בצפון-הארץ-282809
@@ -498,3 +495,6 @@ https://hamal.co.il/main/מכבי-תא-ניצחה-4-1-את-הפועל-תך-אב�
 https://news.walla.co.il/item/3867781
 https://news.walla.co.il/item/3867779
 https://hamal.co.il/main/המלכודת-הפוליטית---והמחיר-לצהל-הקיצוצים-שכבר-בדרך-אמיר-בוח-283258
+https://news.walla.co.il/break/3867786
+https://news.walla.co.il/break/3867787
+https://hamal.co.il/main/דיווח-שתי-סירות-דיג-איראניות-נפגעו-על-ידי-רחפנים-בדרום-אירא-283259
