@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3866821
-https://news.walla.co.il/item/3866892
-https://hamal.co.il/main/מילא-גריקנים-בדלק-והצית-מערבל-בטון-אישום-יוגש-נגד-282763
-https://hamal.co.il/main/נהג-נפצע-בתאונה-אוטובוס-282764
-https://hamal.co.il/main/מזג-האוויר-לקראת-ירידה-בטמפרטורות---מה-צפוי-בהמשך-282765
 https://hamal.co.il/main/בכירי-הבית-הלבן-לטראמפ-המלחמה-עלולה-להימשך-עד-סוף-כהונתך-282766
 https://hamal.co.il/main/דיווח-מטוסי-קרב-נפגעו-מהמתקפה-האיראנית-בירדן-282768
 https://hamal.co.il/main/הטעות-שרובנו-עושים-שעלולה-לפגוע-בטריות-הביצים-282769
@@ -498,3 +493,8 @@ https://news.walla.co.il/break/3867630
 https://hamal.co.il/main/דיווחים-בעזה-חיל-האוויר-תקף-במרכז-העיר-283207
 https://hamal.co.il/main/אפל-משחררת-הערב-את-iOS-27-כל-מה-שצריך-לדעת-283206
 https://hamal.co.il/main/בשווי-מיליוני-שקלים-283209
+https://news.walla.co.il/break/3867648
+https://news.walla.co.il/break/3867650
+https://hamal.co.il/main/השינוי-הקטן-בציפורניים-שעלול-להעיד-על-מחלה-נסתרת-283208
+https://hamal.co.il/main/אישום-מזעזע-283210
+https://hamal.co.il/main/ירדן-נמל-עקבה-פונה-בעקבות-דליפת-אמוניה-283212
