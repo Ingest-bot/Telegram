@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3867477
-https://news.walla.co.il/item/3867478
-https://news.walla.co.il/break/3867482
 https://news.walla.co.il/item/3867483
 https://hamal.co.il/main/חושבים-לקנות-אייפון-ישן-אפל-דווקא-העלתה-את-המחירים-283140
 https://news.walla.co.il/break/3867488
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3868361
 https://news.walla.co.il/break/3868363
 https://news.walla.co.il/break/3868366
 https://hamal.co.il/main/לאחר-החמרת-עונשו-זה-התאריך-בו-דן-תורגמן-יכנס-למאסר-283517
+https://news.walla.co.il/break/3868368
+https://news.walla.co.il/item/3868371
+https://hamal.co.il/main/ואנס-מדיניות-ארהב-לא-תהיה-כפופה-לישראל-המלחמה-באיראן-עובר-283558
