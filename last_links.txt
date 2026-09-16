@@ -1,8 +1,3 @@
-https://news.walla.co.il/item/3867379
-https://news.walla.co.il/item/3867395
-https://hamal.co.il/main/דיווח-שני-הרוגים-בתקיפה-באזור-העיר-עזה-283114
-https://hamal.co.il/main/דיווח-הגסת-דחק-בטייסים-שחולצו-מאיראן-להתראיין-ל-״60-דקות״-283118
-https://news.walla.co.il/item/3867449
 https://hamal.co.il/main/דיווחים-על-תקיפות-בעזה-ובדרום-לבנון-283119
 https://hamal.co.il/main/בעקבות-זיהוי-של-כטב״ם-נמל-התעופה-בווילנה-נסגר-283120
 https://hamal.co.il/main/פעוט-בן-שנתיים-נפל-מגובה-283121
@@ -498,3 +493,8 @@ https://hamal.co.il/main/זריקות-הרזיה-בין-יעילות-לבטיח�
 https://news.walla.co.il/break/3868302
 https://news.walla.co.il/break/3868306
 https://news.walla.co.il/item/3868305
+https://news.walla.co.il/item/3868309
+https://hamal.co.il/main/בן-80-נפצע-אנוש-בתאונת-דרכים-בחיפה-283537
+https://hamal.co.il/main/מוכנים-למגוון-תרחישים-פיקוד-המרכז-בכנס-מוכנות-לרעידת-אדמה-283540
+https://hamal.co.il/main/7-רפובליקנים-חברו-לדמוקרטים---כדי-להגביל-את-המלחמה-באיראן-283542
+https://hamal.co.il/main/אישה-הותקפה-בבית-מגורים-באילת-בעלה-נעצר-283543
