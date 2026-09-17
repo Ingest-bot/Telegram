@@ -1,7 +1,3 @@
-https://hamal.co.il/main/דיווחים-בעזה-חיל-האוויר-תקף-במרכז-העיר-283207
-https://hamal.co.il/main/אפל-משחררת-הערב-את-iOS-27-כל-מה-שצריך-לדעת-283206
-https://hamal.co.il/main/בשווי-מיליוני-שקלים-283209
-https://news.walla.co.il/break/3867648
 https://news.walla.co.il/break/3867650
 https://hamal.co.il/main/השינוי-הקטן-בציפורניים-שעלול-להעיד-על-מחלה-נסתרת-283208
 https://hamal.co.il/main/אישום-מזעזע-283210
@@ -498,3 +494,7 @@ https://hamal.co.il/main/טרגדיה-בקריית-ים-נקבע-מותו-של-�
 https://news.walla.co.il/break/3868543
 https://news.walla.co.il/break/3868540
 https://news.walla.co.il/item/3868537
+https://news.walla.co.il/break/3868547
+https://hamal.co.il/main/כץ-לארדואן-283601
+https://hamal.co.il/main/נתניהו-283600
+https://hamal.co.il/main/כמעט-ונרצח-בדרכו-לסליחות-בן-66-נדקר-בדרכו-לבית-הכנסת-283602
