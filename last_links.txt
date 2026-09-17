@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3867601
-https://news.walla.co.il/break/3867605
-https://hamal.co.il/main/האחריות-מקבלת-צורה-אלמ-א-נכנס-לתפקיד-מפקד-בהד-1-283195
-https://hamal.co.il/main/החותים-הודיעו-פתחנו-במתקפה-רחבה-בדרום-סעודיה-283196
 https://hamal.co.il/main/דיווחים-בעזה-מספר-פצועים-בתקיפת-צהל-בדרום-הרצועה-283197
 https://hamal.co.il/main/שוטר-בלהב-283198
 https://hamal.co.il/main/הליכוד-לאיזנקוט-בטל-את-הסכם-283199
@@ -498,3 +494,7 @@ https://hamal.co.il/main/פרשת-האזינו---עולם-של-סיבה-ותוצ
 https://hamal.co.il/main/מקלע-כבד-הצופה-לעבר-מתקן-צהלי--283590
 https://hamal.co.il/main/חשוד-תקף-לוחם-מגב-באום-אל-פאחם-ונורה-נסיבות-האירוע-נבדקות-283591
 https://hamal.co.il/main/חכ-במפלגת-ביחד-לא-נכון-להסתמך-על-המפלגות-הערביות-283592
+https://news.walla.co.il/break/3868501
+https://news.walla.co.il/break/3868503
+https://news.walla.co.il/item/3868505
+https://hamal.co.il/main/צהל-חיסלנו-283593
