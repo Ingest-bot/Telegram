@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3867830
-https://news.walla.co.il/item/3867831
-https://hamal.co.il/main/המעצר-ביוש-הסתבך-מחבל-ניסה-לחטוף-נשק-מלוחם---וחוסל-283271
 https://news.walla.co.il/break/3867836
 https://news.walla.co.il/break/3867837
 https://hamal.co.il/main/הסעודים-טלפנו-וטראמפ-אמר-חמודים-טעיתם-בקידומת-283272
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3868700
 https://hamal.co.il/main/יצר-קשר-עם-חמאס-ואיראן---ונעצר-283653
 https://news.walla.co.il/break/3868703
 https://hamal.co.il/main/גבר-אותר-ללא-רוח-חיים-באשקלון-המשטרה-אין-חשד-לפלילים-283654
+https://news.walla.co.il/item/3868704
+https://news.walla.co.il/item/3868706
+https://hamal.co.il/main/אפשר-להפסיק-את-זריקות-ההרזיה-בלי-לעלות-הכול-בחזרה-283596
