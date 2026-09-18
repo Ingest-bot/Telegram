@@ -1,6 +1,3 @@
-https://news.walla.co.il/item/3867970
-https://news.walla.co.il/item/3867974
-https://hamal.co.il/main/רוכב-אופניים-בן-9-נפצע-283314
 https://hamal.co.il/main/היללו-את-חמאס-ואת-ההצתות-בחוות-גלעד-אישום-נגד-2-ערבים-מיוש-283315
 https://news.walla.co.il/break/3867990
 https://hamal.co.il/main/שריפה-פרצה-283316
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3868802
 https://news.walla.co.il/break/3868804
 https://news.walla.co.il/item/3868805
 https://hamal.co.il/main/טראמפ-אוסר-על-שורת-כלי-תקשורת-אמריקניים-להכנס-לבית-הלבן-283697
+https://news.walla.co.il/break/3868810
+https://news.walla.co.il/item/3868808
+https://hamal.co.il/main/חזית-אישית---חזית-משפחתית-283698
