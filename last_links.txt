@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3867908
-https://news.walla.co.il/break/3867917
-https://news.walla.co.il/item/3867906
-https://news.walla.co.il/item/3867916
 https://hamal.co.il/main/ניסה-לברוח-מבדיקה-משטרתית-283297
 https://hamal.co.il/main/ישראל-בפנים-מיהם-התיירים-הכי-מנומסים-בעולם-ומי-הכי-לארגים-283296
 https://news.walla.co.il/item/3867920
@@ -498,3 +494,7 @@ https://hamal.co.il/main/רצים-לזכרם-מרוץ-בשביל-הבנים-הד
 https://news.walla.co.il/item/3868738
 https://hamal.co.il/main/בכיר-הפתח-טוען-אני-עיני-פחם-שקיבל-מסינוואר-את-מסר-רעידת-283677
 https://hamal.co.il/main/צפו-לוחמי-חיל-הים-מאחלים-שבת-שלום-לעם-ישראל-283674
+https://news.walla.co.il/item/3868744
+https://hamal.co.il/main/בן-13-נפצע-מבעיטת-סוס-283681
+https://hamal.co.il/main/בית-המשפט-קיבל-את-עתירת-אגם-צרפי-ומתח-ביקורת-על-שבס-283683
+https://hamal.co.il/main/רצו-להרוס-אותו-ולהקים-כאן-קניון-המבנה-המטורף-שהפך-לאטרקצי-283680
