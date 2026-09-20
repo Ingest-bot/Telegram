@@ -1,7 +1,3 @@
-https://news.walla.co.il/item/3868169
-https://hamal.co.il/main/הגנה-מפני-האיום-האיראני-ערוץ-המגעים-של-ישראל-עם-סעודיה-283495
-https://hamal.co.il/main/שלמה-ארצי-עד-נועם-בתן-נחשפה-רשימת-האומנים-לטקס-ה-7-באוקטובר-283493
-https://news.walla.co.il/break/3868187
 https://hamal.co.il/main/בת-10-ירדה-מסלע-באילת---וננשכה-על-ידי-דג-בכף-הרגל-283497
 https://news.walla.co.il/break/3868190
 https://news.walla.co.il/item/3868193
@@ -498,3 +494,7 @@ https://hamal.co.il/main/מטוס-F-16-הוזנק-בעקבות-חדירה-למר
 https://news.walla.co.il/item/3869000
 https://news.walla.co.il/break/3869007
 https://news.walla.co.il/item/3869008
+https://news.walla.co.il/break/3869009
+https://news.walla.co.il/break/3869010
+https://news.walla.co.il/item/3866476
+https://hamal.co.il/main/מעל-150-אלף-בני-אדם-השתתפו-הלילה-במעמד-הסליחות-בכותל-המערבי-283832
