@@ -1,8 +1,3 @@
-https://news.walla.co.il/break/3868316
-https://news.walla.co.il/item/3868315
-https://hamal.co.il/main/ריקול-לפלפל-שחור-עלול-לגרום-לפגיעה-ארוכת-טווח-283544
-https://hamal.co.il/main/ריקול-לסלט-האהוב-נמצא-חיידק-סלמונלה-283549
-https://news.walla.co.il/item/3868324
 https://hamal.co.il/main/נקבע-מותו-של-בן-ה-80-שנפצע-בתאונת-דרכים-בחיפה-283550
 https://hamal.co.il/main/נמשכים-החיפושים-אחר-תושב-מזרח-י--283551
 https://news.walla.co.il/break/3868334
@@ -498,3 +493,8 @@ https://hamal.co.il/main/מערכת-חמ״ל-מאחלת-לכל-בית-ישראל
 https://news.walla.co.il/item/3868979
 https://news.walla.co.il/item/3869110
 https://news.walla.co.il/item/3869114
+https://news.walla.co.il/break/3869122
+https://news.walla.co.il/break/3869126
+https://news.walla.co.il/item/3869121
+https://news.walla.co.il/item/3869113
+https://news.walla.co.il/item/3869116
