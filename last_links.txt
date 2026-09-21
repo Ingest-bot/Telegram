@@ -1,7 +1,3 @@
-https://news.walla.co.il/break/3868406
-https://news.walla.co.il/break/3868408
-https://news.walla.co.il/break/3868410
-https://news.walla.co.il/item/3868411
 https://news.walla.co.il/break/3868412
 https://news.walla.co.il/item/3868407
 https://news.walla.co.il/break/3868413
@@ -498,3 +494,7 @@ https://news.walla.co.il/break/3869163
 https://news.walla.co.il/break/3869164
 https://hamal.co.il/main/טראמפ-נגד-כלי-התקשורת-שתבעו-גישה-לבית-הלבן-למה-שאעניק-גישה-283923
 https://hamal.co.il/main/באיראן-מדווחים-שר-החוץ-עראקצי-הגיע-לניו-יורק-כדי-להשתתף-בע-283924
+https://news.walla.co.il/break/3869166
+https://news.walla.co.il/item/3869169
+https://hamal.co.il/main/הבית-הלבן-בציוץ-משהו-מגיע-הישארו-מעודכנים-283926
+https://hamal.co.il/main/עיתונאי-מאיחוד-האמירויות-מצייץ-״משהו-ענק-מגיע-מהלך-היסטו-283927
