@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3868483
-https://news.walla.co.il/item/3868480
-https://hamal.co.il/main/פעוט-נפל-מגובה-4-קומות-בקרית-283584
 https://hamal.co.il/main/איזנקוט-מתנגד-לרוטציה-בראשות-הממשלה-283585
 https://hamal.co.il/main/תיעוד-ירו-על-בית---ואז-פתחו-באש-לעבר-השוטרים-283586
 https://news.walla.co.il/break/3868490
@@ -498,3 +495,6 @@ https://news.walla.co.il/item/3869240
 https://news.walla.co.il/item/3869238
 https://hamal.co.il/main/תקף-נהג-באמצעות-סכין-בגלל-ויכוח-בכביש-אישום-נגד-תושב-בת-ים-283953
 https://hamal.co.il/main/ריגל-במושב-בו-מתגורר-יואב-גלנט-283954
+https://news.walla.co.il/break/3869243
+https://hamal.co.il/main/רוכב-אופנוע-נהרג-במהלך-רכיבה-283956
+https://hamal.co.il/main/אזעקות-הופעלו-בדרום-סעודיה-הסכנה-חלפה-283957
