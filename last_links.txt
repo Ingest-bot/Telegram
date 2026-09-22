@@ -1,6 +1,3 @@
-https://news.walla.co.il/break/3868443
-https://hamal.co.il/main/פיצוץ-המנהרות-ברכס-עלי-טאהר-283569
-https://hamal.co.il/main/רוכב-אופניים-במצב-אנוש-לאחר-שנפגע-מרכב-שהתהפך-בהרצליה-283570
 https://hamal.co.il/main/רוכב-אופנוע-נפגע-מטרקטור-סמוך-לרעננה-מצבו-קשה-283571
 https://hamal.co.il/main/הצית-תחנת-״לוטו״-בערב-ראש-השנה-283572
 https://news.walla.co.il/break/3868447
@@ -498,3 +495,6 @@ https://hamal.co.il/main/בשעה-זו-פגישת-טראמפ-מקרון-נערכ
 https://news.walla.co.il/break/3869187
 https://news.walla.co.il/item/3869181
 https://news.walla.co.il/break/3869188
+https://news.walla.co.il/break/3869192
+https://news.walla.co.il/item/3869191
+https://news.walla.co.il/item/3869180
