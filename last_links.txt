@@ -1,5 +1,3 @@
-https://news.walla.co.il/break/3868997
-https://news.walla.co.il/break/3869002
 https://news.walla.co.il/break/3869004
 https://news.walla.co.il/break/3869006
 https://news.walla.co.il/item/3868995
@@ -498,3 +496,5 @@ https://hamal.co.il/main/בעקבות-זיהוי-אמצעי-לחימה-שהיו�
 https://hamal.co.il/main/רוכב-אופניים-חשמליים-נפצע-באורח-בינוני-בירושלים-284434
 https://hamal.co.il/main/האום-הרחיב-את-הרשימה-השחורה-של-החברות-הפועלות-בהתנחלויות-284431
 https://hamal.co.il/main/הסתיו-כבר-כאן-מזג-האוויר-הצפוי-לחול-המועד-284436
+https://hamal.co.il/main/חדשות-השבת-284419
+https://hamal.co.il/main/בליכוד-מגיבים-לפרסומים-284437
