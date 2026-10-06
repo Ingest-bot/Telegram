@@ -16,6 +16,12 @@ WALLA_FEEDS = {
     "כסף": "https://rss.walla.co.il/feed/2",
     "טכנולוגיה": "https://rss.walla.co.il/feed/6"
 }
+
+# תתי-קטגוריות שלא נרצה להציג בערוץ
+EXCLUDED_WALLA_CATEGORIES = [
+    "/breaking-news"
+]
+
 HAMAL_RSS = "https://public-api.hamal.co.il/rss"
 HAMAL_GENERIC_IMAGE = "https://hamal.co.il/seo/hamal.png"  # תמונת ברירת מחדל של חמ"ל - לא תמונה אמיתית של כתבה, לא לשלוח
 
@@ -32,8 +38,7 @@ MAX_LINKS_TO_KEEP = 500
 MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל בדיקה
 MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
 
-# RLM (Right-to-Left Mark) בתחילת הטקסט וגם בסופו - זו השיטה שהכי אמינה
-# לאלץ יישור ימני בקפציות תמונות בטלגרם אנדרואיד.
+# RLM (Right-to-Left Mark) בתחילת הטקסט וגם בסופו - לאלץ יישור ימני בקפציות תמונות
 RLM = "\u200f"
 
 # --- פונקציות עזר ---
@@ -53,6 +58,13 @@ def is_too_old(entry):
 def clean_url(url):
     return url.split('?')[0].split('#')[0].strip()
 
+def is_excluded_category(url):
+    """בודק אם הקישור שייך לתת-קטגוריה שנמצאת ברשימת ההחרמות"""
+    for excluded in EXCLUDED_WALLA_CATEGORIES:
+        if excluded in url:
+            return True
+    return False
+
 def _try_isgd(long_url):
     encoded_url = requests.utils.quote(long_url, safe='')
     api_url = f"https://is.gd/create.php?format=simple&url={encoded_url}"
@@ -63,7 +75,6 @@ def _try_isgd(long_url):
     raise ValueError(f"is.gd: {text}")
 
 def _try_vgd(long_url):
-    # v.gd הוא אותו שירות/צוות כמו is.gd, אבל תשתית נפרדת - גיבוי טוב
     encoded_url = requests.utils.quote(long_url, safe='')
     api_url = f"https://v.gd/create.php?format=simple&url={encoded_url}"
     r = requests.get(api_url, timeout=5)
@@ -73,7 +84,6 @@ def _try_vgd(long_url):
     raise ValueError(f"v.gd: {text}")
 
 def _try_dagd(long_url):
-    # da.gd - שירות מינימלי שמיועד ל-API, בלי מסכי ביניים/פרסומות
     encoded_url = requests.utils.quote(long_url, safe='')
     api_url = f"https://da.gd/shorten?url={encoded_url}"
     r = requests.get(api_url, timeout=5)
@@ -83,7 +93,6 @@ def _try_dagd(long_url):
     raise ValueError(f"da.gd: {text}")
 
 def _try_cleanuri(long_url):
-    # cleanuri.com - הפניה ישירה (301), בלי מסך ביניים/אזהרה
     r = requests.post(
         "https://cleanuri.com/api/v1/shorten",
         json={"url": long_url},
@@ -95,9 +104,7 @@ def _try_cleanuri(long_url):
     raise ValueError(f"cleanuri: {data}")
 
 def _verify_short_url(short_url, original_url):
-    """
-    מוודא שהקישור המקוצר באמת מפנה ליעד המקורי.
-    """
+    """מוודא שהקישור המקוצר באמת מפנה ליעד המקורי"""
     try:
         r = requests.get(short_url, allow_redirects=True, timeout=6, stream=True)
         r.close()
@@ -165,9 +172,7 @@ def extract_image(entry, feed_default_image=None):
     return upgrade_image_quality(image_url)
 
 def acquire_lock():
-    """
-    מונע הרצה כפולה במקביל.
-    """
+    """מונע הרצה כפולה במקביל"""
     lock_fd = open(LOCK_FILE, "w")
     try:
         fcntl.flock(lock_fd, fcntl.LOCK_EX | fcntl.LOCK_NB)
@@ -193,144 +198,3 @@ def save_history(links_list):
             f.write(f"{link}\n")
 
 def get_image_history():
-    history = {}
-    if os.path.exists(IMAGE_HISTORY_FILE):
-        with open(IMAGE_HISTORY_FILE, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line or "\t" not in line:
-                    continue
-                url, count = line.rsplit("\t", 1)
-                try:
-                    history[url] = int(count)
-                except ValueError:
-                    history[url] = 1
-    return history
-
-def save_image_history(history):
-    items = list(history.items())[-MAX_IMAGE_HISTORY:]
-    with open(IMAGE_HISTORY_FILE, "w", encoding="utf-8") as f:
-        for url, count in items:
-            f.write(f"{url}\t{count}\n")
-
-# --- עיבוד וואלה ---
-async def process_walla(bot, seen_links_set, links_list):
-    for category, base_url in WALLA_FEEDS.items():
-        url = f"{base_url}?t={int(time.time())}"
-        feed = feedparser.parse(url)
-        
-        if not feed.entries:
-            continue
-
-        feed_default_image = get_feed_default_image(feed)
-            
-        # לוקח רק את 5 האייטמים הראשונים בפיד
-        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
-        
-        # מסנן מה שכבר ראינו ומה שישן מדי
-        new_entries = [
-            e for e in latest_entries 
-            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
-        ]
-        
-        for entry in reversed(new_entries):
-            cleaned_link = clean_url(entry.link)
-            safe_title = html.escape(entry.title)
-            
-            # וואלה: כותרת מודגשת, והקישור עצמו מוצג כטקסט גלוי בשורה נפרדת מתחתיה
-            caption = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{cleaned_link}'
-            
-            try:
-                image = extract_image(entry, feed_default_image)
-                if image:
-                    await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
-                else:
-                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=True)
-                
-                seen_links_set.add(cleaned_link)
-                links_list.append(cleaned_link)
-                await asyncio.sleep(0.5)
-            except Exception as e: 
-                print(f"Walla Error in {category}: {e}")
-            
-    return links_list
-
-# --- עיבוד חמ"ל ---
-async def process_hamal(seen_links_set, links_list, image_history):
-    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list
-    
-    hamal_bot = Bot(token=HAMAL_TOKEN)
-    async with hamal_bot:
-        url = f"{HAMAL_RSS}?t={int(time.time())}"
-        feed = feedparser.parse(url)
-
-        # לוקח רק את 5 האייטמים הראשונים בפיד
-        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
-        
-        new_entries = [
-            e for e in latest_entries 
-            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
-        ]
-        
-        for entry in reversed(new_entries):
-            cleaned_link = clean_url(entry.link)
-            
-            raw_title = re.sub(r'<[^>]+>', '', entry.title)
-            clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
-            clean_title = clean_title.lstrip(" :")
-            safe_title = html.escape(clean_title)
-
-            message = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{RLM}<a href="{cleaned_link}">{RLM}<b>לכתבה המלאה</b>{RLM}</a>{RLM}'
-
-            raw_image = extract_raw_image(entry)
-            image_to_send = None
-            if raw_image:
-                normalized = clean_image_url(raw_image)
-                print(f"DEBUG hamal image for '{clean_title[:40]}': {raw_image}")
-                if normalized == clean_image_url(HAMAL_GENERIC_IMAGE):
-                    print("  -> matches known generic Hamal image, skipping")
-                else:
-                    prior_count = image_history.get(normalized, 0)
-                    if prior_count == 0:
-                        image_to_send = upgrade_image_quality(raw_image)
-                    else:
-                        print("  -> already seen before, treating as generic image, skipping")
-                    image_history[normalized] = prior_count + 1
-            
-            try:
-                sent = False
-                if image_to_send:
-                    try:
-                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image_to_send, caption=message, parse_mode='HTML')
-                        sent = True
-                    except Exception as photo_err:
-                        print(f"Hamal photo failed ({photo_err}), falling back to text")
-                if not sent:
-                    await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
-                seen_links_set.add(cleaned_link)
-                links_list.append(cleaned_link)
-                
-                await asyncio.sleep(0.5)
-            except Exception as e: print(f"Hamal Error: {e}")
-            
-    return links_list
-
-async def main():
-    if not TELEGRAM_TOKEN or not CHAT_ID: return
-
-    lock_fd = acquire_lock()
-
-    links_list = get_history()
-    seen_links_set = {clean_url(l) for l in links_list}
-    image_history = get_image_history()
-
-    bot = Bot(token=TELEGRAM_TOKEN)
-    async with bot:
-        links_list = await process_walla(bot, seen_links_set, links_list)
-        links_list = await process_hamal(seen_links_set, links_list, image_history)
-
-    save_history(links_list)
-    save_image_history(image_history)
-
-if __name__ == "__main__":
-    asyncio.run(main())
