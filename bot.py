@@ -23,7 +23,7 @@ EXCLUDED_WALLA_CATEGORIES = [
 ]
 
 HAMAL_RSS = "https://public-api.hamal.co.il/rss"
-HAMAL_GENERIC_IMAGE = "https://hamal.co.il/seo/hamal.png"  # תמונת ברירת מחדל של חמ"ל - לא תמונה אמיתית של כתבה, לא לשלוח
+HAMAL_GENERIC_IMAGE = "https://hamal.co.il/seo/hamal.png"  # תמונת ברירת מחדל של חמ"ל
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
@@ -130,7 +130,7 @@ def upgrade_image_quality(url):
     return re.sub(r'w=\d+', 'w=1200', url).replace("/re-size/", "/").replace("/w/400/", "/w/1200/")
 
 def clean_image_url(url):
-    """מנרמל URL של תמונה לצורך השוואה (מוריד פרמטרים כמו גודל/timestamp)"""
+    """מנרמל URL של תמונה לצורך השוואה"""
     if not url: return url
     return url.split('?')[0].split('#')[0].strip()
 
@@ -145,15 +145,32 @@ def get_feed_default_image(feed):
     return None
 
 def extract_raw_image(entry):
-    """שולף את כתובת התמונה הגולמית מהאייטם, בלי שום סינון"""
+    """שולף את כתובת התמונה הגולמית מהאייטם (כולל סריקת HTML בתיאור)"""
     image_url = None
-    if 'media_content' in entry: image_url = entry.media_content[0]['url']
-    elif 'links' in entry:
+    
+    # 1. בדיקת מפתח media_content
+    if 'media_content' in entry and entry.media_content:
+        image_url = entry.media_content[0].get('url')
+        
+    # 2. בדיקת מפתח links
+    if not image_url and 'links' in entry:
         for link in entry.links:
             if 'image' in link.get('type', ''):
-                image_url = link.get('href'); break
+                image_url = link.get('href')
+                break
+                
+    # 3. בדיקת enclosure
     if not image_url and 'enclosure' in entry:
         image_url = entry.enclosure.get('url')
+        
+    # 4. חילוץ תמונה מתוך ה-summary / description (שכיח בפידים החדשים של וואלה)
+    if not image_url:
+        content_to_search = entry.get('summary', '') or entry.get('description', '')
+        if content_to_search:
+            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content_to_search, re.IGNORECASE)
+            if match:
+                image_url = match.group(1)
+
     return image_url
 
 def extract_image(entry, feed_default_image=None):
@@ -164,7 +181,7 @@ def extract_image(entry, feed_default_image=None):
 
     print(f"DEBUG image url for '{entry.get('title', '')[:40]}': {image_url}")
 
-    # אם התמונה זהה ללוגו הכללי של הפיד - זה לא תמונה אמיתית של הכתבה, נתעלם ממנה
+    # אם התמונה זהה ללוגו הכללי של הפיד - התעלם
     if feed_default_image and clean_image_url(image_url) == feed_default_image:
         print(f"  -> matches feed default/logo image, skipping")
         return None
@@ -198,3 +215,157 @@ def save_history(links_list):
             f.write(f"{link}\n")
 
 def get_image_history():
+    history = {}
+    if os.path.exists(IMAGE_HISTORY_FILE):
+        with open(IMAGE_HISTORY_FILE, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or "\t" not in line:
+                    continue
+                url, count = line.rsplit("\t", 1)
+                try:
+                    history[url] = int(count)
+                except ValueError:
+                    history[url] = 1
+    return history
+
+def save_image_history(history):
+    items = list(history.items())[-MAX_IMAGE_HISTORY:]
+    with open(IMAGE_HISTORY_FILE, "w", encoding="utf-8") as f:
+        for url, count in items:
+            f.write(f"{url}\t{count}\n")
+
+# --- עיבוד וואלה ---
+async def process_walla(bot, seen_links_set, links_list):
+    for category, base_url in WALLA_FEEDS.items():
+        url = f"{base_url}?t={int(time.time())}"
+        feed = feedparser.parse(url)
+        
+        if not feed.entries:
+            continue
+
+        feed_default_image = get_feed_default_image(feed)
+            
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        # מסנן מה שכבר ראינו ומה שישן מדי
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
+        
+        for entry in reversed(new_entries):
+            cleaned_link = clean_url(entry.link)
+            
+            # בדיקת סינון לפי תת-קטגוריה
+            if is_excluded_category(cleaned_link):
+                print(f"Skipping excluded category item: {cleaned_link}")
+                seen_links_set.add(cleaned_link)
+                continue
+
+            safe_title = html.escape(entry.title)
+            
+            # וואלה: כותרת מודגשת, והקישור עצמו מוצג כטקסט גלוי בשורה נפרדת מתחתיה
+            caption = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{cleaned_link}'
+            
+            try:
+                image = extract_image(entry, feed_default_image)
+                sent = False
+                if image:
+                    try:
+                        await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
+                        sent = True
+                    except Exception as photo_err:
+                        print(f"Walla photo failed ({photo_err}), falling back to text")
+                
+                if not sent:
+                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=True)
+                
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
+                await asyncio.sleep(0.5)
+            except Exception as e: 
+                print(f"Walla Error in {category}: {e}")
+            
+    return links_list
+
+# --- עיבוד חמ"ל ---
+async def process_hamal(seen_links_set, links_list, image_history):
+    if not HAMAL_TOKEN or not HAMAL_CHAT_ID: return links_list
+    
+    hamal_bot = Bot(token=HAMAL_TOKEN)
+    async with hamal_bot:
+        url = f"{HAMAL_RSS}?t={int(time.time())}"
+        feed = feedparser.parse(url)
+
+        # לוקח רק את 5 האייטמים הראשונים בפיד
+        latest_entries = feed.entries[:MAX_ITEMS_PER_FETCH]
+        
+        new_entries = [
+            e for e in latest_entries 
+            if clean_url(e.link) not in seen_links_set and not is_too_old(e)
+        ]
+        
+        for entry in reversed(new_entries):
+            cleaned_link = clean_url(entry.link)
+            
+            raw_title = re.sub(r'<[^>]+>', '', entry.title)
+            clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
+            clean_title = clean_title.lstrip(" :")
+            safe_title = html.escape(clean_title)
+
+            message = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{RLM}<a href="{cleaned_link}">{RLM}<b>לכתבה המלאה</b>{RLM}</a>{RLM}'
+
+            raw_image = extract_raw_image(entry)
+            image_to_send = None
+            if raw_image:
+                normalized = clean_image_url(raw_image)
+                print(f"DEBUG hamal image for '{clean_title[:40]}': {raw_image}")
+                if normalized == clean_image_url(HAMAL_GENERIC_IMAGE):
+                    print("  -> matches known generic Hamal image, skipping")
+                else:
+                    prior_count = image_history.get(normalized, 0)
+                    if prior_count == 0:
+                        image_to_send = upgrade_image_quality(raw_image)
+                    else:
+                        print("  -> already seen before, treating as generic image, skipping")
+                    image_history[normalized] = prior_count + 1
+            
+            try:
+                sent = False
+                if image_to_send:
+                    try:
+                        await hamal_bot.send_photo(chat_id=HAMAL_CHAT_ID, photo=image_to_send, caption=message, parse_mode='HTML')
+                        sent = True
+                    except Exception as photo_err:
+                        print(f"Hamal photo failed ({photo_err}), falling back to text")
+                if not sent:
+                    await hamal_bot.send_message(chat_id=HAMAL_CHAT_ID, text=message, parse_mode='HTML', disable_web_page_preview=True)
+                seen_links_set.add(cleaned_link)
+                links_list.append(cleaned_link)
+                
+                await asyncio.sleep(0.5)
+            except Exception as e: print(f"Hamal Error: {e}")
+            
+    return links_list
+
+async def main():
+    if not TELEGRAM_TOKEN or not CHAT_ID: return
+
+    lock_fd = acquire_lock()
+
+    links_list = get_history()
+    seen_links_set = {clean_url(l) for l in links_list}
+    image_history = get_image_history()
+
+    bot = Bot(token=TELEGRAM_TOKEN)
+    async with bot:
+        links_list = await process_walla(bot, seen_links_set, links_list)
+        links_list = await process_hamal(seen_links_set, links_list, image_history)
+
+    save_history(links_list)
+    save_image_history(image_history)
+
+if __name__ == "__main__":
+    asyncio.run(main())
