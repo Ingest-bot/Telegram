@@ -33,8 +33,7 @@ MAX_ITEMS_PER_FETCH = 5  # הגבלה ל-5 אייטמים אחרונים בכל 
 MAX_AGE_HOURS = 12       # לא לשלוח אייטמים ישנים יותר מ-12 שעות
 
 # RLM (Right-to-Left Mark) בתחילת הטקסט וגם בסופו - זו השיטה שהכי אמינה
-# לאלץ יישור ימני בקפציות תמונות בטלגרם אנדרואיד. RLE/PDF (embedding) הוסרו
-# כי מתברר שאנדרואיד לפעמים מתעלם מהם בקפציות (בניגוד ל-iOS/דסקטופ).
+# לאלץ יישור ימני בקפציות תמונות בטלגרם אנדרואיד.
 RLM = "\u200f"
 
 # --- פונקציות עזר ---
@@ -98,12 +97,6 @@ def _try_cleanuri(long_url):
 def _verify_short_url(short_url, original_url):
     """
     מוודא שהקישור המקוצר באמת מפנה ליעד המקורי.
-    חלק מהשירותים (בעיקר cleanuri) מזהים לפעמים לא נכון URL-ים עם
-    תווים בעברית מקודדים (%D7%9B וכו') ומייצרים הפניה שבורה
-    (למשל מוחקים לגמרי את קטע העברית ומשאירים רק מקפים) -
-    מה שמוביל בסוף לעמוד שגיאה. הבדיקה כאן תופסת מקרה כזה
-    ותגרום לקוד לנסות את המקצר הבא, ובסוף - אם כולם נכשלים -
-    לשלוח את הקישור המקורי המלא, שתמיד עובד.
     """
     try:
         r = requests.get(short_url, allow_redirects=True, timeout=6, stream=True)
@@ -115,7 +108,6 @@ def _verify_short_url(short_url, original_url):
         raise ValueError(f"verification request failed: {e}")
 
 def get_short_url(long_url):
-    # cleanuri ראשון - הפניה ישירה בלי מסך ביניים, נראה שהיחיד שעובד כרגע
     shorteners = (_try_cleanuri, _try_dagd, _try_isgd, _try_vgd)
     for shortener in shorteners:
         try:
@@ -174,10 +166,7 @@ def extract_image(entry, feed_default_image=None):
 
 def acquire_lock():
     """
-    מונע הרצה כפולה במקביל (למשל אם ריצה קודמת עדיין רצה כשהריצה הבאה
-    כבר התחילה בגלל timeout ארוך/עומס). בלי זה, שתי ריצות יכולות לקרוא
-    את אותו last_links.txt לפני ששתיהן שומרות, וכך שתיהן שולחות את אותו
-    אייטם - זה ההסבר הסביר ביותר לכפילות שראית.
+    מונע הרצה כפולה במקביל.
     """
     lock_fd = open(LOCK_FILE, "w")
     try:
@@ -193,7 +182,6 @@ def get_history():
         with open(LAST_LINKS_FILE, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
-                # תאימות לאחור: מדלג על שורת COUNTER ישנה מגרסאות קודמות
                 if line and not line.startswith("COUNTER:"):
                     links.append(line)
     return links
@@ -205,13 +193,6 @@ def save_history(links_list):
             f.write(f"{link}\n")
 
 def get_image_history():
-    """
-    טוען כמה פעמים כל תמונה (מנורמלת) כבר נראתה בעדכוני חמ"ל.
-    זה חלופה לזיהוי-לפי-לוגו-הפיד (שלא עובד לחמ"ל כי אין <image> ברמת
-    הפיד): תמונה אמיתית של כתבה כמעט תמיד ייחודית, ואילו התמונה הגנרית
-    (לוגו האתר) חוזרת על עצמה בהרבה כתבות - אז אם כבר ראינו אותה קודם,
-    מסמנים אותה כגנרית ולא שולחים אותה.
-    """
     history = {}
     if os.path.exists(IMAGE_HISTORY_FILE):
         with open(IMAGE_HISTORY_FILE, "r", encoding="utf-8") as f:
@@ -227,7 +208,6 @@ def get_image_history():
     return history
 
 def save_image_history(history):
-    # שומר רק את האחרונים כדי שהקובץ לא יגדל בלי גבול
     items = list(history.items())[-MAX_IMAGE_HISTORY:]
     with open(IMAGE_HISTORY_FILE, "w", encoding="utf-8") as f:
         for url, count in items:
@@ -254,28 +234,18 @@ async def process_walla(bot, seen_links_set, links_list):
         ]
         
         for entry in reversed(new_entries):
-            is_mivzak = (category == "מבזקים")
             cleaned_link = clean_url(entry.link)
-            
-            prefix = "🚨 " if is_mivzak else ""
             safe_title = html.escape(entry.title)
-            # וואלה: בלי הייפרלינק מוסתר - הכותרת מודגשת, והקישור עצמו מוצג כטקסט גלוי בשורה נפרדת מתחתיה
-            caption = f'{RLM}<b>{prefix}{safe_title}</b>{RLM}\n\n{cleaned_link}'
+            
+            # וואלה: כותרת מודגשת, והקישור עצמו מוצג כטקסט גלוי בשורה נפרדת מתחתיה
+            caption = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{cleaned_link}'
             
             try:
-                if is_mivzak:
-                    await bot.send_message(
-                        chat_id=CHAT_ID, 
-                        text=caption, 
-                        parse_mode='HTML', 
-                        disable_web_page_preview=True
-                    )
+                image = extract_image(entry, feed_default_image)
+                if image:
+                    await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
                 else:
-                    image = extract_image(entry, feed_default_image)
-                    if image:
-                        await bot.send_photo(chat_id=CHAT_ID, photo=image, caption=caption, parse_mode='HTML')
-                    else:
-                        await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=False)
+                    await bot.send_message(chat_id=CHAT_ID, text=caption, parse_mode='HTML', disable_web_page_preview=True)
                 
                 seen_links_set.add(cleaned_link)
                 links_list.append(cleaned_link)
@@ -304,38 +274,14 @@ async def process_hamal(seen_links_set, links_list, image_history):
         
         for entry in reversed(new_entries):
             cleaned_link = clean_url(entry.link)
-            # לא משתמשים יותר בשירותי קיצור חיצוניים (cleanuri/is.gd/v.gd/da.gd) -
-            # הם הוכיחו שהם לא אמינים (חלקם מובילים לפרסומות/ספאם, חלקם לא זמינים,
-            # ואצל אחד מהם קישורים עם עברית בנתיב נשברו ולא הובילו ליעד הנכון).
-            # הקישור המקורי המלא תמיד עובד, ומכיוון שהוא מוצג כהיפרלינק מוסתר
-            # (טקסט קליק במקום ה-URL עצמו), האורך שלו כבר לא משנה בכלל.
             
             raw_title = re.sub(r'<[^>]+>', '', entry.title)
             clean_title = re.sub(r'^חמ"?ל\s*[-:]?\s*חדשות\s*מתפרצות\s*[-:]?\s*', '', raw_title).strip()
             clean_title = clean_title.lstrip(" :")
             safe_title = html.escape(clean_title)
 
-            # הכותרת נשארת טקסט רגיל (לא קישור) - כשכל ההודעה היא קישור אחד ענק,
-            # טלגרם (בעיקר אנדרואיד) לפעמים ממרכז אותה במקום ליישר לימין, וה-RLM
-            # לא מצליח לגבור על זה. לכן: כותרת רגילה עם RLM (מיושרת נכון), ומתחתיה
-            # שורת קישור קצרה עם טקסט הצגה קצר - כך הקישור הארוך עדיין מוסתר
-            # מאחורי טקסט קצר, אבל רוב ההודעה היא טקסט רגיל וה-RLM עובד.
-            # שני התיקונים הבאים רלוונטיים רק לחמ"ל (לא לוואלה):
-            # 1. רווח שורה (שורה ריקה) בין הכותרת לקישור - \n\n במקום \n בודד.
-            # 2. יישור לימין של שורת הקישור: RLM שיושב *מחוץ* לתגית ה-<a> לא
-            #    תמיד משפיע על הכיוון של הטקסט *בתוך* התגית - טלגרם מטפל בכל
-            #    entity (קישור, בולד וכו') כמעין "אי" בידי-אלגוריתם נפרד, כך
-            #    שה-RLM החיצוני לא בהכרח "דולף" פנימה. הפתרון: מכניסים את ה-RLM
-            #    *בתוך* תגית ה-<a> עצמה, ומוודאים שהתו הראשון בפועל בתוך
-            #    הקישור הוא אות עברית חזקה (ולא אימוג'י שהוא ניטרלי) - האימוג'י
-            #    זז לסוף הטקסט במקום ההתחלה.
             message = f'{RLM}<b>{safe_title}</b>{RLM}\n\n{RLM}<a href="{cleaned_link}">{RLM}<b>לכתבה המלאה</b>{RLM}</a>{RLM}'
 
-            # תמונה אמיתית של כתבה כמעט תמיד ייחודית לאותה כתבה. התמונה
-            # הגנרית (לוגו האתר) חוזרת על עצמה בהרבה כתבות שונות שאין להן
-            # תמונה אמיתית. לכן: אם זו הפעם הראשונה שרואים את התמונה הזו -
-            # כנראה תמונה אמיתית, שולחים אותה. אם כבר ראינו אותה קודם
-            # (לכתבה אחרת) - כנראה גנרית, לא שולחים.
             raw_image = extract_raw_image(entry)
             image_to_send = None
             if raw_image:
