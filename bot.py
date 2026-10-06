@@ -12,8 +12,7 @@ from telegram import Bot
 
 # --- הגדרות ---
 WALLA_FEEDS = {
-    "מבזקים": "https://rss.walla.co.il/feed/22",
-    "חדשות": "https://rss.walla.co.il/feed/1?type=main",
+    "חדשות": "https://www.walla.co.il/rss/feed/news",
     "כסף": "https://rss.walla.co.il/feed/2",
     "טכנולוגיה": "https://rss.walla.co.il/feed/6"
 }
