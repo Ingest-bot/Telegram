@@ -1,6 +1,3 @@
-https://hamal.co.il/main/מזג-אוויר-מעונן-חחקית-משעות-הצהריים-ייתכן-גשם-מקומי-מלווה-סו-285968
-https://www.walla.co.il/news/military/383957000
-https://hamal.co.il/main/תוך-2-דקות-זה-עובד-פעולה-פשוטה-שתשלח-אתכם-לשירותים-בעצירות-285969
 https://hamal.co.il/main/תיעוד-כך-נראה-העבם-שזוהה-אתמול-בגבול-לבנון-285970
 https://www.walla.co.il/news/israel/383957003
 https://www.walla.co.il/news/israel/383957005
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/world/383957454
 https://hamal.co.il/main/אוקראינה-נגד-אילון-מאסק-SpaceX-משבשת-את-פעילות-הצבא-286419
 https://www.walla.co.il/news/military/383957362
 https://www.walla.co.il/news/world/383957455
+https://www.walla.co.il/news/world/383957458
+https://www.walla.co.il/news/israel/383957459
+https://hamal.co.il/main/מפץ-המוחות-של-אמן-היחידות-ישבו-תחת-קורת-גג-אחת-286421
