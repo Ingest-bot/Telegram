@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383956902
-https://hamal.co.il/main/רוכבת-אופנוע-נפגעה-מרכב-סמוך-למחלף-גלילות---מצבה-בינוני-285884
-https://www.walla.co.il/news/israel/383956904
-https://hamal.co.il/main/בלומברג-איראן-שימרה-את-מפעלי-הטילים-והכטבמים---ומחדשת-את-ה-285885
 https://hamal.co.il/main/ילד-כבן-8-נפצע-בתאונת-דרכים---מצבו-קשה-285886
 https://www.walla.co.il/news/israel/383956906
 https://hamal.co.il/main/חשד-לרצח-ברהט-הרקע-פלילי-285887
@@ -498,3 +494,7 @@ https://hamal.co.il/main/באיראן-טוענים-3-דייגים-נפצעו-286
 https://www.walla.co.il/news/politics/383957344
 https://www.walla.co.il/news/law/383957383
 https://hamal.co.il/main/עבריין-מוכר-הפך-לסוכן-סמוי-והפיל-28-חשודים-בסחר-בסמים-286369
+https://www.walla.co.il/news/politics/383957386
+https://www.walla.co.il/news/donotmiss/383957385
+https://www.walla.co.il/news/law/383957387
+https://hamal.co.il/main/סעודיה-יירטנו-טיל-בליסטי-שהחותים-שיגרו-לעבר-ריאד-286371
