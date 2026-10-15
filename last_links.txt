@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/israel/383957030
-https://hamal.co.il/main/ספרי-קודש-נגנבו-והוצתו-חשודה-נעצרה-285990
-https://hamal.co.il/main/הזמר-הבינלאומי-חושף-היה-לי-קראש-על-גל-גדות-285979
 https://www.walla.co.il/news/world/383957028
 https://www.walla.co.il/news/israel/383957033
 https://www.walla.co.il/news/israel/383957034
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/world/383957491
 https://www.walla.co.il/news/world/383957497
 https://www.walla.co.il/news/world/383957499
 https://hamal.co.il/main/גשם-וירידה-בטמפרטורות-מהפך-במזג-האוויר-286442
+https://www.walla.co.il/news/world/383957501
+https://www.walla.co.il/news/israel/383957503
+https://hamal.co.il/main/דיווח-ארהב-שוקלת-להשתמש-באם-כל-הפצצות-בתקיפה-באיראן-286444
