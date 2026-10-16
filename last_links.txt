@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/military/383957182
-https://hamal.co.il/main/המפכל-שוקל-להנחות-סגירת-מסלולי-טיולים-באיזור-בזמן-הקרוב-286166
-https://www.walla.co.il/news/world/383957159
 https://www.walla.co.il/news/health/383957184
 https://hamal.co.il/main/הפיצוץ-ברכס-רמים-ההרוג-הוא-נער-בן-14-286167
 https://www.walla.co.il/news/law/383957185
@@ -498,3 +495,6 @@ https://hamal.co.il/main/דיווח-על-יציאת-מיירט-בצפון-הפר
 https://hamal.co.il/main/גבר-נפל-מגובה-במרכז-מסחרי-בחולון-מצבו-אנוש-286608
 https://www.walla.co.il/news/israel/383957684
 https://hamal.co.il/main/המשטרה-מנהלים-מצוד-אחר-אדם-חמוש-באזור-כפר-קרע-286609
+https://www.walla.co.il/news/israel/383957688
+https://hamal.co.il/main/רוכב-אופניים-נפצע-286610
+https://hamal.co.il/main/החשוד-286611
