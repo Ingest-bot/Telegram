@@ -1,8 +1,3 @@
-https://www.walla.co.il/news/world/383957345
-https://www.walla.co.il/news/world/383957356
-https://www.walla.co.il/news/israel/383957357
-https://www.walla.co.il/news/military/383957323
-https://www.walla.co.il/news/world/383957350
 https://www.walla.co.il/news/world/383957351
 https://www.walla.co.il/news/world/383957352
 https://www.walla.co.il/news/israel/383957353
@@ -498,3 +493,8 @@ https://www.walla.co.il/news/israel/383957865
 https://www.walla.co.il/news/world/383957867
 https://hamal.co.il/main/החסימות-בכביש-4-נהג-שלף-סכין-בהפגנה-286770
 https://hamal.co.il/main/קנדה-הרוגים-ופצועים-בתקרית-בבסיס-צבאי-286771
+https://www.walla.co.il/news/israel/383957868
+https://www.walla.co.il/news/politics/383957869
+https://hamal.co.il/main/משתתפת-לשעבר-286766
+https://hamal.co.il/main/המפכל-על-החסימות-בכביש-4--286772
+https://hamal.co.il/main/מצרים-נשלח-כוחות-צבאיים-כדי-לסייע-לסעודיה-286773
