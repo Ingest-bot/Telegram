@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/military/383957379
-https://www.walla.co.il/news/israel/383957380
-https://www.walla.co.il/news/world/383957381
 https://hamal.co.il/main/בכבה-מעדכנים-הפועלים-יצאו-מהבניין-לפני-הקריסה-286365
 https://hamal.co.il/main/דרמה-ב-OpenAI-פרשת-ריגול-נחשפה-בלב-ענקית-הבינה-המלאכותית-286355
 https://hamal.co.il/main/אנשים-נמלטים---ורחוב-שלם-מתמלא-בעשן-רגע-קריסת-הבניין-בתא-286366
@@ -498,3 +495,6 @@ https://hamal.co.il/main/חושפת-את-ההחלטה-נכנסתי-למיטה-ו
 https://www.walla.co.il/news/military/383957820
 https://www.walla.co.il/news/israel/383957902
 https://hamal.co.il/main/בית-החולים-קפלן-חשד-שדגימות-דם-נלקחו-ללא-הסכמה-מדעת-286791
+https://www.walla.co.il/news/politics/383957901
+https://hamal.co.il/main/נשק-שאותר-במוסך-ודגל-חמאס-ברכב-פעילות-ממוקדת-בעיר-דורא-286792
+https://hamal.co.il/main/מי-עוד-צופה-במצלמת-האבטחה-שלכם-כך-תגלו-ותגנו-על-עצמכם-286787
