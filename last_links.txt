@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/israel/383957690
-https://www.walla.co.il/news/israel/383957693
-https://www.walla.co.il/news/israel/383957694
 https://hamal.co.il/main/מאבטח-בבית-ספר-נעצר-בחשד-286612
 https://hamal.co.il/main/בן-40-חולץ-במצב-קשה-מתאונת-דרכים-בין-2-משאיות-בכביש-6-286613
 https://www.walla.co.il/news/politics/383957696
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/israel/383958397
 https://www.walla.co.il/news/politics/383958398
 https://hamal.co.il/main/החשוד-בהטרדת-יובל-דיין-יוכל-להשתחרר-היא-הגיבה-התחושה-מורכ-287308
 https://www.walla.co.il/news/politics/383958400
+https://www.walla.co.il/news/politics/383958402
+https://www.walla.co.il/news/world/383958404
+https://hamal.co.il/main/דיווח-287310
