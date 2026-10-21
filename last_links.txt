@@ -1,10 +1,3 @@
-https://www.walla.co.il/news/law/383957631
-https://www.walla.co.il/news/politics/383957635
-https://www.walla.co.il/news/world/383957638
-https://www.walla.co.il/news/world/383957639
-https://www.walla.co.il/news/military/383957642
-https://hamal.co.il/main/ראשוני-חשד-לפיגוע-דריסה-בבנימין-286574
-https://hamal.co.il/main/הפיגוע-בבנימין-פצוע-בינוני-במקום-הרכב-נמלט-286575
 https://hamal.co.il/main/שוטרת-נפצעה-קשה-בתאונת-דרכים-בחיפה-286576
 https://hamal.co.il/main/צהל-מאשר-מנהלים-מרדף-אחר-הרכב-החשוד-286577
 https://hamal.co.il/main/מסתמן-אירוע-הדריסה-בבנימין---לא-פיגוע-286578
@@ -498,3 +491,10 @@ https://www.walla.co.il/news/opinions/383958352
 https://www.walla.co.il/news/israel/383958354
 https://hamal.co.il/main/מפגינים-חרדים-חוסמים-כביש-הסמוך-לתחנת-המשטרה-בכפס--תיעוד-287277
 https://hamal.co.il/main/לקראת-הריסה-צהל-מיפה-את-בית-המחבל-שביצע-את-הפיגוע-287278
+https://www.walla.co.il/news/israel/383958356
+https://www.walla.co.il/news/world/383958358
+https://www.walla.co.il/news/israel/383958261
+https://hamal.co.il/main/בן-כ-2000-שנה-287279
+https://hamal.co.il/main/סמוטריץ-לוינטר-287280
+https://hamal.co.il/main/מועמד-לקונגרס-עוכב-אחרי-שניסה-למסוק-זיתים-ללא-אישור-287281
+https://hamal.co.il/main/צהל-על-ניסיון-המסיק-ביוש-בוצע-ללא-תיאום-287282
