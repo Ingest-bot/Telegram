@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/military/383957682
-https://www.walla.co.il/news/world/383957583
-https://www.walla.co.il/news/israel/383957585
-https://www.walla.co.il/news/military/383957714
 https://hamal.co.il/main/תאונת-דרכים-קטלנית-הבוקר-בבת-ים-נהג-בן-62-נהרג-286653
 https://www.walla.co.il/news/opinions/383957427
 https://www.walla.co.il/news/israel/383957712
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/israel/383958460
 https://www.walla.co.il/news/world/383958461
 https://hamal.co.il/main/רוקח-וחשוד-נעצר-בחשד-שזייף-287340
 https://hamal.co.il/main/תיעוד-קשה-צעיר-הוכה-באקדח-ובמקלות-ברהט-287344
+https://www.walla.co.il/news/israel/383958466
+https://www.walla.co.il/news/world/383958465
+https://hamal.co.il/main/משרד-הבריאות-מזהיר-הנחלים-שהכניסה-אליהם-עלולה-להיות-מסוכנת-287345
+https://hamal.co.il/main/לא-נתנו-להעלות-ספר-תורה-למטוס---ואז-נמצא-פתרון-יצירתי-287326
