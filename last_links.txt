@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/israel/383957877
-https://www.walla.co.il/news/world/383957861
-https://hamal.co.il/main/סמוטריץ-אם-איזנקוט-ינצח-אפשר-להקים-איתו-ממשלה-יחד-עם-נתני-286776
-https://www.walla.co.il/news/donotmiss/383957879
 https://hamal.co.il/main/אם-נהגה-בטנדר-לתוך-משחק-כדורגל-בקנזס-ילד-בן-6-וגבר-נהרגו-286764
 https://hamal.co.il/main/רגעי-אימה-מול-הקהל-חייל-נפל-מגג-האצטדיון-והתרסק-על-הדשא-286767
 https://www.walla.co.il/news/world/383957882
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/world/383958586
 https://www.walla.co.il/news/military/383958588
 https://hamal.co.il/main/ראשוני-פיגוע-ירי-סמוך-לצומת-יהודה-מצוד-אחר-המחבל-287407
 https://hamal.co.il/main/פיגוע-הירי-סמוך-צומת-יהודה-מרדף-אחר-המחבל-287408
+https://hamal.co.il/main/דיווח-ששני-המחבלים-אותרו-וחוסלו-287410
+https://hamal.co.il/main/צהל-מאשר-המחבלים-חוסלו-הוטל-כתר-על-כפרים-במרחב-287411
+https://hamal.co.il/main/הפיגוע-בהר-חברון-3-פצועים-287412
+https://hamal.co.il/main/יורים-עלינו-תיעוד-ראשון-מזירת-הפיגוע-בהר-חברון-287413
