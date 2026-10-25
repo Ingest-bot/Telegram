@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/military/383958303
-https://www.walla.co.il/news/military/383958288
-https://hamal.co.il/main/ממתינים-לדרכון-תקלה-במכונת-הדפוס-מעכבת-הנפקת-דרכונים-287211
 https://www.walla.co.il/news/politics/383958307
 https://hamal.co.il/main/ארקיע-עוצרת-את-מכירת-הכרטיסים-למרוקו---זאת-הסיבה-287217
 https://www.walla.co.il/news/opinions/383958308
@@ -498,3 +495,6 @@ https://hamal.co.il/main/עידן-עמדי-חשף-למי-הוא-מצביע--2876
 https://www.walla.co.il/healthy/health-news/383958779
 https://www.walla.co.il/news/politics/383958798
 https://hamal.co.il/main/נתניהו-הפיץ-הדמיה-של-נפילת-אטום-על-ישראל--287647
+https://www.walla.co.il/news/politics/383958799
+https://www.walla.co.il/news/politics/383958801
+https://hamal.co.il/main/חשד-לרצח-סמוך-לנצרת-נקבע-מותו-של-בן-25-באירוע-אלימות-287648
