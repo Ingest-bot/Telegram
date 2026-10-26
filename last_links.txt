@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/law/383958528
-https://www.walla.co.il/news/law/383958532
-https://hamal.co.il/main/נערה-כבת-12-במצב-אנוש-לאחר-שנפצעה-במהלך-רכיבת-אופניים-ביצהר-287381
-https://hamal.co.il/main/תעלומת-הענן-הענק-שמופיע-ונעלם-במאדים-בתוך-שעות---והסוד-שנחשף-287337
 https://www.walla.co.il/news/politics/383958534
 https://www.walla.co.il/news/israel/383958536
 https://hamal.co.il/main/קרוב-לגבול-וללא-עובדים-המפעל-שיכול-להמשיך-לעבוד-גם-תחת-אש-י-287383
@@ -498,3 +494,7 @@ https://hamal.co.il/main/התרחיש-שמפחיד-את-נתניהו-והמספ�
 https://www.walla.co.il/news/israel/383959007
 https://hamal.co.il/main/קלפיות-צבאיות-נפרסו-ברחבי-הארץ-ובזירות-הלחימה-287809
 https://hamal.co.il/main/זריקה-בקלפי-עשרות-מוקדי-חיסון-נגד-שפעת-יפעלו-ביום-הבחירות-287810
+https://www.walla.co.il/news/law/383959009
+https://www.walla.co.il/news/israel/383959011
+https://www.walla.co.il/news/health/383959012
+https://hamal.co.il/main/אישה-אושפזה-לאחר-שעשתה-החלקת-שיער-במשרד-הבריאות-מזהירים-287811
