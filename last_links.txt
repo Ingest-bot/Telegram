@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/opinions/383958512
-https://www.walla.co.il/news/opinions/383958516
-https://www.walla.co.il/news/israel/383958519
-https://hamal.co.il/main/נתניהו-שוחח-עם-מודי-והזמין-אותו-להזמין-משואה-לצד-טייס-פליי-ד-287377
 https://www.walla.co.il/news/israel/383958522
 https://hamal.co.il/main/בית-המשפט-אישר-הפטור-מתשלום-למלווים-בלונה-פארק-ובסופרלנד-נ-287378
 https://hamal.co.il/main/אלרגיה-עונתית-הצטננות-או-שפעת-השיטה-הקלה-לזהות-את-ההבדלים-287347
@@ -498,3 +494,7 @@ https://hamal.co.il/main/מאמץ-למנוע-הסלמה-בטהרן-איראן-מ
 https://www.walla.co.il/news/israel/383958995
 https://www.walla.co.il/news/israel/383958996
 https://hamal.co.il/main/חיזבאללה-נערך-לאפשרות-של-חידוש-הלחימה-עם-ישראל--דיווח-287794
+https://www.walla.co.il/news/world/383958997
+https://www.walla.co.il/news/politics/383958962
+https://hamal.co.il/main/מזג-האוויר-הסוער-בדרך-חשש-לחסימת-הכבישים-לאילת-ביום-הבחירות-287796
+https://hamal.co.il/main/וינטר-מגיב-לנתניהו-״טינפתם-וביזיתם-משפחות-שכולות״-287797
