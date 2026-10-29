@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/world/383958889
-https://www.walla.co.il/news/law/383958890
-https://www.walla.co.il/news/israel/383958896
 https://www.walla.co.il/news/military/383958884
 https://www.walla.co.il/news/world/383958887
 https://www.walla.co.il/news/world/383958893
@@ -498,3 +495,6 @@ https://hamal.co.il/main/בקטאר-מכחישים-מוערבות-בבחירות
 https://hamal.co.il/main/פרשת-וירא-ארבעה-רגעים-ששינו-את-ההיסטוריה-288311
 https://www.walla.co.il/news/politics/383959358
 https://hamal.co.il/main/הפתעה-מחיר-הדלק-יירד-במוצש-ב-42-אגורות-288315
+https://www.walla.co.il/news/politics/383959341
+https://hamal.co.il/main/משתתפת-הישרדות-גל-תמם-נפצעה-בתאונת-פגע-וברח-288318
+https://hamal.co.il/main/הליכוד-עולה-במנדט-ש״ס-יורדת-288324
