@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383958961
-https://www.walla.co.il/news/israel/383958951
-https://hamal.co.il/main/עשית-לי-כיפה-אדומה-העימות-בין-כוכב-האח-הגדול-לאקסית-287768
-https://hamal.co.il/main/יממה-לבחירות-גוש-השינוי-מתכתש-קמפיין-המפלגה-הגדולה---טעות-287770
 https://www.walla.co.il/news/politics/383958963
 https://www.walla.co.il/news/world/383958950
 https://www.walla.co.il/news/israel/383958965
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/world/383959427
 https://hamal.co.il/main/רוכב-אופניים-נפצע-אנוש-לאחר-שנפגע-מרכב-סמוך-לראשלצ-288367
 https://hamal.co.il/main/63-מיליארד-דולר-ב-20-דקות-מתקפת-הענק-על-חברת-בינאנס-288368
 https://www.walla.co.il/news/military/383959432
+https://www.walla.co.il/news/israel/383959435
+https://hamal.co.il/main/מספר-פצועים-בתאונה-בין-אוטובוס-לטרקטור-בדרום-בהם-ילדים-288370
+https://hamal.co.il/main/התאונה-הקטלנית-בנגב-האוטובוס-שנפגע---הסיע-תלמידות-288371
+https://hamal.co.il/main/התאונה-בנגב-נהג-האוטובוס-מחוסר-הכרה-288372
