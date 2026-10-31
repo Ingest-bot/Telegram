@@ -1,8 +1,3 @@
-https://www.walla.co.il/news/israel/383959077
-https://hamal.co.il/main/יום-הבחירות-עם-הילדים-האטרקציות-והפעילויות-ברחבי-הארץ-287889
-https://www.walla.co.il/news/world/383959082
-https://hamal.co.il/main/בגלל-ישראל-הולנד-הודיעה-שלא-תשתתף-באירוויזיון-287892
-https://www.walla.co.il/news/world/383959084
 https://www.walla.co.il/news/israel/383959085
 https://www.walla.co.il/news/israel/383959086
 https://www.walla.co.il/news/israel/383959088
@@ -498,3 +493,8 @@ https://www.walla.co.il/news/opinions/383959418
 https://hamal.co.il/main/חדשות-השבת-288464
 https://hamal.co.il/main/צעיר-בן-20-נפצע-קשה-בתאונת-דרכים-בפתח-תקווה-288465
 https://hamal.co.il/main/רוסיה-ארהב-הזהירה-מפני-פיגוע-טרור-מתוכנן-במוסקבה-288467
+https://www.walla.co.il/news/world/383959450
+https://www.walla.co.il/news/military/383959567
+https://www.walla.co.il/news/world/383959568
+https://hamal.co.il/main/המוסד-יעביר-את-התייחסותו-לפרשת-המעורבות-בבחירות-ישירות-לשבכ-288468
+https://hamal.co.il/main/ליברמן--288481
