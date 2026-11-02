@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/israel/383959194
-https://www.walla.co.il/news/opinions/383959195
-https://hamal.co.il/main/בגוש-השמאל-מבהירים-מי-שצריך-שיפר-הבטחות-ושיבלע-את-הרוק-288137
-https://hamal.co.il/main/גולן-להקים-ממשלה-עם-כל-המפלגות-הערביות-288138
 https://hamal.co.il/main/כ-663-מהקולות-נספרו-זאת-תמונת-הגושים-288139
 https://www.walla.co.il/news/politics/383959197
 https://www.walla.co.il/news/donotmiss/383959196
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/donotmiss/383959695
 https://www.walla.co.il/news/israel/383959738
 https://hamal.co.il/main/רצח-בפתח-תקווה-אישה-בת-43-אותרה-ללא-רוח-חיים-באירוע-אלימות-288584
 https://hamal.co.il/main/דוברות-מדא-בשעה-0002-התקבל-דיווח-במוקד-101-של-מדא-במרח-288585
+https://www.walla.co.il/news/military/383959733
+https://www.walla.co.il/news/israel/383959741
+https://www.walla.co.il/news/politics/383959669
+https://hamal.co.il/main/טראמפ-בשלב-מסוים-נצטרך-להנחית-את-הפטיש-על-איראן-288586
