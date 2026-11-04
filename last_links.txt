@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383959494
-https://www.walla.co.il/news/military/383959496
-https://hamal.co.il/main/שבוע-לאחר-ההיתקלות-צהל-הרס-את-בתי-המחבלים-שחוסלו-288413
-https://www.walla.co.il/news/military/383959489
 https://www.walla.co.il/news/politics/383959498
 https://hamal.co.il/main/טרגדיה-ברהט-נקבע-מותו-של-פעוט-בן-שנתיים-שנשכח-ברכב-288414
 https://www.walla.co.il/news/world/383959497
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/israel/383960022
 https://www.walla.co.il/news/donotmiss/383959781
 https://www.walla.co.il/news/world/383960015
 https://www.walla.co.il/news/world/383960012
+https://www.walla.co.il/news/world/383960028
+https://hamal.co.il/main/בחירות-האמצע-בארהב-הדמוקרטים-כבשו-את-הסנאט-ובית-הנבחרים--288868
+https://hamal.co.il/main/הסתיים-מבצע-הבקרה-כל-פניות-הסיעות-נבדקו-לא-נמצאו-ממצאים-המ-288869
+https://hamal.co.il/main/מזג-האוויר-בהיר-עד-מעונן-חלקית-ועדיין-חם-מהרגיל-הים-נוח-הט-288870
