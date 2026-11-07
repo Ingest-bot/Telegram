@@ -1,8 +1,3 @@
-https://www.walla.co.il/news/world/383959858
-https://hamal.co.il/main/נתניהו-שואפים-להקים-ממשלה-רחבה-עם-מפלגה-שתרצה-בכך-288691
-https://www.walla.co.il/news/politics/383959861
-https://hamal.co.il/main/פתח-תקווה-גבר-כבן-30-אותר-ללא-רוח-חיים-בשטח-פתוח-288673
-https://hamal.co.il/main/פענחתי-את-ה-DNA-של-היטלר---וגיליתי-ממצא-מביך-במיוחד-288650
 https://hamal.co.il/main/הAI-נכנס-לתוך-גני-הילדים-288693
 https://www.walla.co.il/news/military/383959864
 https://hamal.co.il/main/טראמפ-לא-שולל-הסכם-עם-איראן-יכול-לקרות-288694
@@ -498,3 +493,8 @@ https://www.walla.co.il/news/opinions/383960307
 https://hamal.co.il/main/3-חברי-קונגרס-יהודים-דורשים-לשחרר-עיתונאי-שנעצר-ביפו-289226
 https://www.walla.co.il/news/israel/383960375
 https://www.walla.co.il/news/law/383960376
+https://www.walla.co.il/news/military/383960352
+https://www.walla.co.il/news/world/383960366
+https://www.walla.co.il/news/world/383960368
+https://www.walla.co.il/news/world/383960379
+https://www.walla.co.il/news/world/383960388
