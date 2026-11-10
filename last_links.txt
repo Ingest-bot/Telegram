@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383960328
-https://www.walla.co.il/news/israel/383960329
-https://www.walla.co.il/news/israel/383960331
-https://hamal.co.il/main/פרשת-חיי-שרה-אלו-זמני-השבת-289185
 https://hamal.co.il/main/ביהדות-התורה-לא-מופתעים-מליברמן-הבנו-לאן-זה-הולך-289188
 https://hamal.co.il/main/מועמד-הקואליציה-למבקר-המדינה-מסיר-את-מועמדותו-289189
 https://hamal.co.il/main/תושב-פת-הגיע-לבית-חולים-עם-חבלות-קשות-חשוד-נעצר-289190
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/world/383960911
 https://hamal.co.il/main/אביה-של-מייגן-מרקל-נעצר-שוב-לאחר-שחתך-את-האזיק-האלקטרוני-289704
 https://www.walla.co.il/news/world/383960913
 https://hamal.co.il/main/ישראל-חמאס-לא-מסר-נשק-אחד-פירוז-הרצועה---תנאי-לשיקום-עזה״-289711
+https://www.walla.co.il/news/politics/383960916
+https://www.walla.co.il/news/politics/383960917
+https://www.walla.co.il/news/world/383960918
+https://hamal.co.il/main/בחשד-לריגול-למען-רוסיה-חייל-אמריקני-נעצר-בבריטניה-289714
