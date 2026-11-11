@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383960204
-https://www.walla.co.il/news/military/383960403
-https://hamal.co.il/main/גשמים-שוטפים-ברחבי-הארץ--צפו---הזרימה-בנחל-התנינים-289236
-https://www.walla.co.il/news/world/383960406
 https://www.walla.co.il/news/israel/383960073
 https://www.walla.co.il/news/world/383960407
 https://www.walla.co.il/news/israel/383960408
@@ -498,3 +494,7 @@ https://hamal.co.il/main/עריקה-מצפון-קוריאה-חושפת-זה-מה
 https://www.walla.co.il/news/israel/383960986
 https://hamal.co.il/main/ההתרעה-על-רעידת-האדמה-אלו-האזורים-בהם-התקבלה-289747
 https://hamal.co.il/main/ההתרעה-על-רעידת-האדמה-עד-כה-לא-דווח-על-נפגעים-289748
+https://www.walla.co.il/news/world/383960925
+https://hamal.co.il/main/ראשוני-289749
+https://hamal.co.il/main/הממשלה-אישרה-סער-מונה-לשר-הפנים-289750
+https://hamal.co.il/main/בעקבות-רעידת-האדמה-הטיסות-בשדה-התעופה-רמון-נעצרו-289751
