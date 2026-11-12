@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383960497
-https://www.walla.co.il/news/law/383960499
-https://www.walla.co.il/news/law/383960503
-https://hamal.co.il/main/יידה-אבנים-וברח-נעצר-חשוד-נוסף-ביידוי-אבנים-לעבר-רכבים-בי-ם-289338
 https://hamal.co.il/main/מזוודות-חשודות-עוררו-289312
 https://hamal.co.il/main/לאחר-5-ימי-מעצר-פעיל-בלד-שנחשד-במגע-עם-סוכן-זר-ישוחרר-289339
 https://www.walla.co.il/news/politics/383960498
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/israel/383961112
 https://hamal.co.il/main/דני-אבדיה-שוב-הצטיין-פורטלנד-שוב-ניצחה-את-אוקלהומה-סיטי-289812
 https://hamal.co.il/main/״תכננתי-לדקור-מתנחל״-אישום-יוגש-נגד-המחבל-289813
 https://hamal.co.il/main/למרות-ההתחממות-הגשם-חוזר---אבל-רק-באזור-אחד--התחזית-289814
+https://www.walla.co.il/news/israel/383961113
+https://www.walla.co.il/news/military/383961116
+https://hamal.co.il/main/בסכום-עתק-עוקלו-רכבי-יוקרה-של-סרבני-מס-באזור-שפרעם-289815
+https://hamal.co.il/main/מהבכירים-בחמאס-מעורב-בחטיפה-מניר-עוז-289816
