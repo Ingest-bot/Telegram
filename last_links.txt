@@ -1,5 +1,3 @@
-https://www.walla.co.il/news/world/383960807
-https://www.walla.co.il/news/law/383960808
 https://hamal.co.il/main/דוד-אזולאי-ומור-ממן-מגיבים-לסערה-אם-יש-היריון---זה-לא-ממני-289623
 https://hamal.co.il/main/תושב-מזרח-ירושלים-חשוד-באונס-צעירה-בתל-אביב---לאחר-שפרץ-לבית-289625
 https://www.walla.co.il/news/israel/383960815
@@ -498,3 +496,5 @@ https://www.walla.co.il/news/world/383961375
 https://hamal.co.il/main/המשטרה-עצרה-שלושה-חשודים-בהשלכת-הרימון-בכפר-מנדא-290011
 https://www.walla.co.il/news/israel/383961380
 https://www.walla.co.il/news/world/383961381
+https://www.walla.co.il/news/world/383961363
+https://hamal.co.il/main/חדשות-השבת-290020
