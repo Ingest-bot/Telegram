@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/law/383960784
-https://hamal.co.il/main/הרמטכ״ל-״-289596
-https://hamal.co.il/main/בפעם-השנייה-השבוע-חשוד-בגניבה-נעצר-בתוך-רכבה-של-יעל-בר-זוהר-289603
 https://hamal.co.il/main/שנה-להשבתו-של-הדר-גולדין-ז״ל-״-289604
 https://hamal.co.il/main/ראש-מערך-הסייבר-״איראן-מנסה-להשיג-יכולות-בינה-מלאכותית״-289605
 https://www.walla.co.il/news/politics/383960788
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/world/383961366
 https://hamal.co.il/main/דיווח-טראמפ-שוקל-להימנע-מתקיפות-נוספות-באיראן-289995
 https://hamal.co.il/main/טייבה-פצוע-קשה-ושני-פצועים-באורח-קל-באירוע-אלימות-289996
 https://www.walla.co.il/news/world/383961368
+https://www.walla.co.il/news/world/383961325
+https://hamal.co.il/main/פצועים-כתוצאה-מרימון-שהושלך-לעבר-עסק-בכפר-מנדא-290000
+https://hamal.co.il/main/4-פצועים-מהשלכת-רימון-בכפר-מנדא-בהם-אישה-במצב-אנוש-290001
