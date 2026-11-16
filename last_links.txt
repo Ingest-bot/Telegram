@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/world/383961058
-https://www.walla.co.il/news/world/383961059
-https://hamal.co.il/main/שגריר-רוסיה-בארה״ב-מת-מוות-פתאומי-289792
 https://www.walla.co.il/news/law/383961062
 https://www.walla.co.il/news/politics/383961065
 https://hamal.co.il/main/תופעה-מטלטלת-289793
@@ -498,3 +495,6 @@ https://hamal.co.il/main/אירוע-חריג-באור-יהודה-רימון-רס
 https://www.walla.co.il/news/politics/383961612
 https://www.walla.co.il/news/world/383961609
 https://hamal.co.il/main/נתניהו-בכל-ממשלה-שתוקם-נלך-עם-שותפינו-החרדים-290160
+https://www.walla.co.il/news/israel/3876438
+https://hamal.co.il/main/עשרה-שקלים-לקילו-הרשת-שחותכת-בחצי-את-מחיר-הבשר-290162
+https://hamal.co.il/main/ירדן-חוסמת-את-אפליקציית-טלגרם-חשש-לפגיעה-בביטחון-290165
