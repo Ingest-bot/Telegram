@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383961107
-https://www.walla.co.il/news/military/383961109
-https://hamal.co.il/main/צהל-תקפנו-מחבל-בכיר-בבית-חולים-289807
-https://hamal.co.il/main/זה-יעד-התקיפה-בחאן-יונס-289808
 https://hamal.co.il/main/רוכבת-קורקינט-נפגעה-מרכב-ברמת-גן-מצבה-קשה-289809
 https://www.walla.co.il/news/israel/383961112
 https://hamal.co.il/main/דני-אבדיה-שוב-הצטיין-פורטלנד-שוב-ניצחה-את-אוקלהומה-סיטי-289812
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/military/383961661
 https://hamal.co.il/main/צהל-הרס-בית-מחבל-שהיה-אחראי-על-ניסיון-שיגור-רקטה-ביוש-290202
 https://hamal.co.il/main/הולך-רגל-נפגע-מרכב-בקרית-ביאליק-מצבו-קשה-290203
 https://hamal.co.il/main/סמוטריץ-משיב-למתן-כהנא-תיזכר-לדיראון-עולם-290206
+https://www.walla.co.il/news/law/383961665
+https://www.walla.co.il/news/politics/383961667
+https://hamal.co.il/main/הליכוד-נגד-איזנקוט-מסית-כדי-לחסום-ממשלת-אחדות-290208
+https://hamal.co.il/main/בואו-לקפה-בעזה-הכרוזים-שצהל-הטיל-ברצועה--צפו-290209
