@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383961167
-https://www.walla.co.il/news/politics/383961229
-https://hamal.co.il/main/בהודעה-משותפת-נתניהו-ואיזנקוט-סיימו-את-העדכון-הביטחוני-289881
-https://hamal.co.il/main/משרד-הבריאות-מודיע-על-ביטול-הצורך-בהרתחת-מים-בעיר-נצרת-289883
 https://hamal.co.il/main/ראשוני-עשרות-נוסעים-נתקעו-ברכבלית-בחיפה-289884
 https://hamal.co.il/main/אחרי-למעלה-משעה-הרכבלית-בחיפה-שוב-עובדת-289886
 https://hamal.co.il/main/צוות-החקירה-המיוחד-של-שבכ-והמשטרה-ימשיך-לפעול-כרגיל-289888
@@ -498,3 +494,7 @@ https://hamal.co.il/main/עימות-סוער-בדיון-על-החלפת-יור-�
 https://www.walla.co.il/news/world/383961773
 https://www.walla.co.il/news/israel/383961774
 https://hamal.co.il/main/חזר-מעזה-עם-פוסט-טראומה-וקיבל-נכות-זמנית-לעשור-290294
+https://www.walla.co.il/news/opinions/3876589
+https://www.walla.co.il/news/politics/383961767
+https://hamal.co.il/main/שורדת-השבי-תשיר-בכיכר-החטופים-בעצרת-למען-היימנוט-קסאו-290297
+https://hamal.co.il/main/תאונת-רכבות-קשה-בלב-פראג-עשרות-פצועים-ושיבושים-נרחבים-290302
