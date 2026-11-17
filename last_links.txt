@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/law/383961261
-https://www.walla.co.il/news/world/383961279
-https://hamal.co.il/main/תיעוד-נדיר-עבם-דמוי-מדוזה-הופיע-ליד-בסיס-צבאי---ונעלם-תוך-289740
 https://hamal.co.il/main/אקדח-טעון-ומאות-אלפי-שקלים-גבר-ואישה-נעצרו-בפזורה-289918
 https://hamal.co.il/main/פועל-נכווה-באזור-התעשייה-באשדוד-מצבו-בינוני-289919
 https://hamal.co.il/main/הבהלה-סביב-זריקות-ההרזיה-מה-ה־FDA-לא-אמר-בהודעה-שלו-289752
@@ -498,3 +495,6 @@ https://hamal.co.il/main/מליאת-הכנסת-החלה-בדיון-לבחירו�
 https://www.walla.co.il/news/politics/383961825
 https://hamal.co.il/main/סיכול-הפיגוע-האיראני-ביוון-היעד---איש-עסקים-ישראלי-290342
 https://www.walla.co.il/news/world/383961831
+https://www.walla.co.il/news/world/383961835
+https://www.walla.co.il/news/world/383961837
+https://hamal.co.il/main/תקלה-חריגה-רשת-התקשורת-הסודית-של-ה-NSA-קרסה-290345
