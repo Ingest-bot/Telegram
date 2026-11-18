@@ -1,6 +1,3 @@
-https://hamal.co.il/main/אדם-נפצע-באורח-אנוש-באירוע-ירי-בטייבה-290038
-https://www.walla.co.il/news/world/383961413
-https://hamal.co.il/main/דרמה-בנתב״ג-פעוט-בן-שנתיים-נעלם-להוריו-ונמצא-על-מסוע-המזווד-290040
 https://hamal.co.il/main/עימותים-ועשרות-עצורים-בשבת-חמישית-של-מחאות-בצרפת-290044
 https://www.walla.co.il/news/opinions/383961418
 https://hamal.co.il/main/נקבע-מותו-של-פצוע-ירי-בן-ה-59-מטייבה-290045
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/israel/383961978
 https://www.walla.co.il/news/politics/383961979
 https://hamal.co.il/main/מאיה-קיי-זועמת-מאחלת-לכם-מוות-בייסורים-קשים-290442
 https://hamal.co.il/main/זוג-הורים-מאשדוד-נעצרו-בחשד-להתעללות-בתינוקת-בת-4-חודשים-290455
+https://www.walla.co.il/news/law-news/383961982
+https://www.walla.co.il/news/law/383961983
+https://www.walla.co.il/news/law-news/383961985
