@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/israel/383960980
-https://www.walla.co.il/news/world/383961355
-https://hamal.co.il/main/דרמה-בלב-דבלין-מטען-חבלה-סמוך-למקום-מפגש-מנהיגי-העולם-289987
-https://hamal.co.il/main/דאלית-אל-כרמל-שני-פצועים-באורח-קשה-ובינוני-בתאונת-דרכים-289989
 https://hamal.co.il/main/המצוד-שמרסק-את-שרידי-הנהגת-חמאס-בעזה-289988
 https://hamal.co.il/main/מתכננים-לטייל-שימו-לב-לעומסים-הבאים-289990
 https://www.walla.co.il/news/military/383961352
@@ -498,3 +494,7 @@ https://hamal.co.il/main/בתום-מצוד-חוצה-מחוזות-290411
 https://hamal.co.il/main/סער-לחץ-נתניהו-נכנע-מעבר-ארז-נפתח-למשאיות-סיוע-לעזה-290412
 https://www.walla.co.il/news/world/383961942
 https://hamal.co.il/main/ברוב-של-63-חכים-בוטל-290415
+https://www.walla.co.il/news/donotmiss/383961941
+https://www.walla.co.il/news/politics/383961947
+https://hamal.co.il/main/בחשד-לדריסת-מנהל-תחנת-הדלק-בכפר-קאסם-תושב-העיר-נעצר-290417
+https://hamal.co.il/main/בנט-נכנס-ללשת-290419
