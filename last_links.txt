@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/military/383961552
-https://www.walla.co.il/news/world/383961560
-https://www.walla.co.il/news/israel/383961569
-https://www.walla.co.il/news/donotmiss/383961471
 https://hamal.co.il/main/לראשונה-מאז-2003-שלוש-נושאות-מטוסים-אמריקניות-במזרח-התיכון-290129
 https://hamal.co.il/main/איטליה-הטילה-קנס-של-900-מיליון-דולר-על-מטא-290131
 https://hamal.co.il/main/סין-מאשרת-טראמפ-פוטין-ושי-ייפגשו-לפסגה-משולשת-290133
@@ -498,3 +494,7 @@ https://hamal.co.il/main/משפחות-שכולות-הגיעו-לאוהל-האח�
 https://hamal.co.il/main/מועמד-גוש-השינוי-לתפקיד-מבקר-המדינה---השופט-אלרון-290607
 https://www.walla.co.il/news/military/383962236
 https://www.walla.co.il/news/politics/383962241
+https://www.walla.co.il/news/politics/383962242
+https://www.walla.co.il/news/military/383962243
+https://hamal.co.il/main/אזהרת-סייבר-חריגה-גרמניה-מעלה-את-רמת-הכוננות-290611
+https://hamal.co.il/main/הליכוד-פגישת-מו״מ-נוספת-עם-נציגי-איזנקוט---ביום-ראשון-290612
