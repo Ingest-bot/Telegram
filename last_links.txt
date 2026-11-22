@@ -1,7 +1,3 @@
-https://hamal.co.il/main/מה-משתנה-בבדיקות-הדם-כשמורידים-בשר-אדום-מהתפריט-290268
-https://www.walla.co.il/news/israel/383961818
-https://hamal.co.il/main/פלסטינים-בדרך-למלון-שלך-איומים-על-תיירת-ישראלית-בקפריסין-290337
-https://hamal.co.il/main/דיווח-בפארס-פיצוץ-באי-קשם-שסמוך-להורמוז-290338
 https://hamal.co.il/main/דיווחים-איראן-תקפה-מערכות-הגנא-באי-קשם--צפו-בתיעוד-290339
 https://www.walla.co.il/news/world/383961780
 https://www.walla.co.il/news/world/383961787
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/world/383962446
 https://hamal.co.il/main/התזונה-שעקפה-את-יעילות-התרופה-להוריד-סוכר-דרך-הצלחת-290414
 https://www.walla.co.il/news/politics/383962447
 https://hamal.co.il/main/מסי-הפסיד---והשתולל-290862
+https://www.walla.co.il/news/military/383962448
+https://hamal.co.il/main/בגיל-59-הודיעה-בשידור-שהיא-בהיריון---אז-למה-כועסים-עליה-290859
+https://hamal.co.il/main/בנך-עמד-מול-הרוע-המסר-שקיבלה-שירה-שפירא-משר-בממשלה-290865
+https://hamal.co.il/main/רחפן-אותר-והוחרם-המבצע-של-גדוד-הלל-ביריחו-290866
