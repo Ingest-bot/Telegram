@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/law-news/383961990
-https://www.walla.co.il/news/world/383961991
-https://www.walla.co.il/news/law-news/383961994
 https://www.walla.co.il/news/politics/383961995
 https://www.walla.co.il/news/israel/383961999
 https://www.walla.co.il/news/opinions/383962001
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/israel/383962620
 https://www.walla.co.il/news/israel/383962629
 https://www.walla.co.il/news/donotmiss/383962526
 https://www.walla.co.il/news/military/383962633
+https://hamal.co.il/main/צהל-על-האזעקות-בגבול-לבנון-הפרטים-בבדיקה-290961
+https://hamal.co.il/main/פיקוד-העורף-290962
+https://hamal.co.il/main/האזעקות-בגבול-הצפון---שווא-290960
