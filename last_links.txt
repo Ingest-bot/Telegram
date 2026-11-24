@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/politics/383962368
-https://www.walla.co.il/news/israel/383962372
-https://www.walla.co.il/news/world/383962375
-https://www.walla.co.il/news/israel/383962377
 https://www.walla.co.il/news/military/383962331
 https://hamal.co.il/main/אחרי-מתקפות-הסייבר-באירופה-המבצע-הבריטי-להגנה-על-הסופרים-290783
 https://www.walla.co.il/news/israel/383962114
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/world/383962955
 https://www.walla.co.il/healthy/health-news/383962956
 https://hamal.co.il/main/טראמפ-יכולת-שיגור-הטילים-של-איראן-מוגבלת-291228
 https://hamal.co.il/main/אין-מגבלה-גיאוגרפית-האיום-של-מפקד-משמרות-המהפכה-291195
+https://www.walla.co.il/news/israel/383962959
+https://www.walla.co.il/news/world/383962960
+https://hamal.co.il/main/בת-47-במצב-קשה-לאחר-שסבלה-משפעת-נלחמים-על-חייה-291229
+https://hamal.co.il/main/הרמטכל-לפצועי-291221
