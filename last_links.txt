@@ -1,6 +1,3 @@
-https://www.walla.co.il/news/israel/383962275
-https://www.walla.co.il/news/law/383962276
-https://hamal.co.il/main/עורכת-דין-נעצרה-בחשד-שהבריחה-סמים-לאסיר-בכלא-רימונים-290642
 https://www.walla.co.il/news/military/383962018
 https://www.walla.co.il/news/world/383962234
 https://hamal.co.il/main/הלך-לעולמו-קובי-רכט-מהקולות-המיוחדים-של-המוזיקה-הישראלית-290646
@@ -498,3 +495,6 @@ https://www.walla.co.il/news/world/383962841
 https://www.walla.co.il/news/military/383962791
 https://www.walla.co.il/news/law/383962845
 https://hamal.co.il/main/ממדי-התפשטות-הכלבת-כמעט-10000-ישראלים-חוסנו-291118
+https://www.walla.co.il/news/israel/383962846
+https://www.walla.co.il/news/donotmiss/383962848
+https://hamal.co.il/main/מתיחת-פנים-בבורסה-מדד-הדגל-תא-35-יתרחב-ויהפוך-לתא-50-291122
