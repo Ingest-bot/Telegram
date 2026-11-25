@@ -1,7 +1,3 @@
-https://www.walla.co.il/news/world/383962392
-https://www.walla.co.il/news/opinions/383962393
-https://hamal.co.il/main/חדשות-השבת-290798
-https://hamal.co.il/main/ההנהגה-הנוכחית-באיראן-הגיונית-יותר-אך-קשה-להגיע-להסכמות״-290807
 https://hamal.co.il/main/תרגיל-צבאי-בדרום-הארץ-כוחות-הביטחון-יתרגלו-תרחישי-הגנה-290810
 https://hamal.co.il/main/איראן-טוענת-שפגעה-במטוס-F-16-אמריקני-בארהב-מכחישים-290813
 https://www.walla.co.il/news/israel/383962397
@@ -498,3 +494,7 @@ https://www.walla.co.il/news/israel/383962973
 https://hamal.co.il/main/חשד-לרצח-סמוך-לא-ראם-אדם-נעצר-בירושלים-291243
 https://hamal.co.il/main/טראמפ-הפלת-המשטר-באיראן-כנראה-אפשרית-אבל-זו-לא-המטרה-שלי-291247
 https://hamal.co.il/main/אביה-של-מייגן-מרקל-הואשם-בסעיף-שני-של-החזקת-חומרי-התעללות-מי-291246
+https://www.walla.co.il/news/israel/383962972
+https://www.walla.co.il/news/world/383962975
+https://www.walla.co.il/news/world/383962976
+https://hamal.co.il/main/גבר-כבן-30-נפגע-מרכב-סמוך-לבאר-שבע-מצבו-קשה-291249
